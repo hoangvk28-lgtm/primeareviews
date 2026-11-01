@@ -9,11 +9,8 @@
  "updatedAt": "2026-11-01",
  "readTime": "10 min",
  "heroImage": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
- "summary": "The Epson Workforce ES-400 II is our pick for small teams that scan batches, with a 50-sheet duplex feeder. The ScanSnap iX2400 takes a 100-sheet stack for busier offices, the Canon R40II suits teams wanting direct cloud scanning, the ScanSnap iX1300 saves space, and the Brother DS-640 is the compact single-sheet option.",
- "intro": [
-  "Many small businesses buy a scanner by speed alone, then discover the real bottleneck is software: drivers, cloud filing and whether the device plays with their document system. A fast feeder that needs an IT person to configure it is slower in practice.",
-  "We reviewed eight scanners on paper, comparing feeder capacity, duplex support, software and connectivity from the spec sheets, and ranked the five that cover the main office sizes. Prices appear as buckets because they shift often."
- ],
+ "summary": "The Epson ES-400 II is the best overall for small teams, with a 50-sheet duplex feeder, TWAIN driver, OCR and automatic cleanup. The ScanSnap iX2400 handles bigger stacks at up to 45 ppm, and the Canon R40II scans directly to the cloud. The iX1300 saves desk space, and the Brother DS-640 is the portable single-sheet option.",
+ "intro": ["Small businesses tend to buy a scanner on speed, then find the bottleneck is software. Drivers that clash with the filing system, cloud connections that need an IT person, or a vendor application that locks you in all slow a team more than a few pages per minute ever speed it. A fast feeder that nobody can configure is slower in practice than a modest one that works on the first day.","Our editors reviewed eight scanners from their specification sheets and ranked the five that cover distinct needs. Feeder capacity, duplex scanning, drivers, cloud filing and cleanup features all fed the Primea score. Where a listing omits throughput or feeder size, we say so and rank accordingly, because a missing number is a risk you carry."],
  "products": [
   {
    "id": "epson-workforce-es-400-ii",
@@ -24,7 +21,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=primeareviews-20",
    "verdict": "A 50-sheet duplex feeder with OCR and auto cleanup.",
-   "description": "The ES-400 II is a desktop duplex scanner with a 50-sheet automatic document feeder. It includes auto crop, blank-page removal and searchable PDF OCR, and uses a TWAIN driver.\n\nIt lands first because it balances feeder size and cleanup features for a small team without moving to enterprise pricing. Against the ScanSnap iX2400 it holds half the feeder capacity but adds a standard TWAIN driver.\n\nIt suits a team of a few people scanning invoices and contracts in batches. The caveat is that ISIS licensing for document management platforms should be checked separately.",
+   "description": "The ES-400 II is a desktop duplex scanner with a 50-sheet automatic feeder, which fits most small teams' daily batches. Auto crop trims margins, blank-page removal drops the empty backs of single-sided pages, and searchable PDF OCR makes the archive findable. A TWAIN driver lets it talk to general scanning and document software.\n\nIt ranks first by balancing feeder size and cleanup features for a team without enterprise pricing. Against the ScanSnap iX2400 it holds half the capacity but works with a standard driver.\n\nBuy it for invoices, contracts and receipts at a desk shared by a few people. The caveat: the listing advises verifying ISIS licensing separately for document management platforms, so confirm that with your vendor first. A 50-sheet feeder also needs reloading for large stacks.",
    "keySpecs": [
     {"label": "Feeder", "value": "50-sheet ADF, duplex"},
     {"label": "Driver", "value": "TWAIN"},
@@ -45,7 +42,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0FWGTB3S3?tag=primeareviews-20",
    "verdict": "A 100-sheet feeder at up to 45 pages per minute.",
-   "description": "The iX2400 has a 100-sheet feeder and scans at up to 45 ppm. It connects by wired USB only and uses ScanSnap Home software with one-touch scan and drag-and-drop, plus auto de-skew and blank-page removal.\n\nIt ranks second because its capacity suits busier offices of 10 to 15 people, but it trades wireless connectivity for speed. The ES-400 II has a more standard driver option.\n\nIt suits a shared office scanning large stacks. The caveat is USB only, so it needs a computer nearby.",
+   "description": "The iX2400 is for volume. Its 100-sheet feeder runs at up to 45 pages per minute, and a one-touch button scans, then drags the file to its destination. Auto de-skew straightens crooked pages and blank-page removal discards empty backs, so a big stack needs less cleanup.\n\nIt ranks second because it trades wireless connectivity for speed. It connects by USB only, and it uses ScanSnap Home software, which is proprietary. The ES-400 II is the better fit if your document system needs a standard driver.\n\nBuy it for an office of 10 to 15 people scanning large stacks daily. Skip it if you need wireless scanning or a TWAIN driver. The 100-sheet feeder saves reloads, but you need a computer wired nearby.",
    "keySpecs": [
     {"label": "Feeder", "value": "100 sheets"},
     {"label": "Speed", "value": "Up to 45 ppm"},
@@ -66,7 +63,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0GJWWZ77J?tag=primeareviews-20",
    "verdict": "Direct cloud scanning with duplex and easy setup.",
-   "description": "The Canon R40II is an office-class duplex scanner with direct cloud service scanning and easy setup. It scans a wide variety of documents.\n\nIt ranks third because the listing gives no feeder size or speed, so we cannot place it against the Epson and ScanSnap on throughput. Its strength is skipping the network-folder setup that often needs IT.\n\nIt suits a small business without dedicated IT. The caveat is the missing capacity figure, so check before buying.",
+   "description": "The R40II is the scanner for a business with no IT person. Its direct cloud scanning sends pages to a cloud service without a network folder, a step that often needs technical help. Duplex scanning and easy setup round out an office-class design that handles a wide range of documents.\n\nIt ranks third because the listing does not state feeder size or speed, so you cannot place it against the Epson or ScanSnap on throughput. Its strength is the lower setup burden.\n\nBuy it if your team wants to scan and file in the cloud without configuring servers. The caveat: with no confirmed pages per minute, check capacity with the seller if you scan more than a few dozen pages at a time. It also sits in the $200 to $500 bucket, the same as the Epson.",
    "keySpecs": [
     {"label": "Scanning", "value": "Direct to cloud"},
     {"label": "Duplex", "value": "Yes"},
@@ -87,7 +84,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B09FX5DWBK?tag=primeareviews-20",
    "verdict": "A space-saving duplex scanner with standalone cloud filing.",
-   "description": "The iX1300 has a compact feeder hopper and scans duplex at 30 ppm. It connects wirelessly or by USB, supports standalone scan-to-cloud, and offers auto de-skew and color optimization.\n\nIt ranks fourth because 30 ppm and a smaller hopper suit light daily use, not busy offices. In return it takes little desk space and does not need a computer for cloud filing.\n\nIt suits tight offices and home-based businesses. The caveat is its smaller capacity next to the iX2400.",
+   "description": "The iX1300 is the compact scanner. The feeder hopper is small, duplex scanning runs at 30 ppm, and it connects wirelessly or by USB. Standalone scan-to-cloud means it can file documents without a computer, and auto de-skew and color optimization tidy the output.\n\nIt ranks fourth because 30 ppm and a small hopper suit light daily use, not busy offices. Against the iX2400 you give up capacity and speed, but you gain desk space and wireless filing.\n\nBuy it for a tight office or a home-based business that scans a few dozen pages at a time. Skip it if you routinely feed large stacks. The same ScanSnap software applies, so check that it suits your filing system before you commit.",
    "keySpecs": [
     {"label": "Speed", "value": "30 ppm duplex"},
     {"label": "Connection", "value": "Wireless or USB"},
@@ -108,7 +105,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B083R36CY4?tag=primeareviews-20",
    "verdict": "A compact single-sheet scanner with wide OS support.",
-   "description": "The Brother DS-640 is a compact mobile scanner that feeds one sheet at a time. It supports TWAIN and WIA on PC, ICA on Mac and SANE on Linux, and has a free iPrint&Scan app.\n\nIt ranks last because single-sheet feeding means slow batches next to the ADF models. The tradeoff is cost and size: it sits in the $100-200 bucket and fits in a bag.\n\nIt suits a two or three person team that scans occasionally or on the road. The caveat is no automatic feeder.",
+   "description": "The DS-640 is a compact mobile scanner that feeds one sheet at a time. It supports TWAIN and WIA on PC, ICA on Mac and SANE on Linux, which is the widest operating system coverage here, and the free iPrint&Scan app handles basic capture. At $100 to $200, it is the cheapest of the five.\n\nIt ranks last because single-sheet feeding makes batches slow next to the feeder models. The tradeoff is cost and size: it fits in a bag and runs from a laptop.\n\nBuy it for a two or three person team that scans occasionally, or for scanning on the road. The caveat is obvious: stacks of paper mean standing at the machine feeding one page after another. If you scan more than a handful of pages daily, buy a feeder.",
    "keySpecs": [
     {"label": "Feed", "value": "Single sheet"},
     {"label": "Drivers", "value": "TWAIN, WIA, ICA, SANE"},
@@ -129,11 +126,11 @@
   {"title": "Value", "description": "We placed each scanner in its price bucket and asked what it adds."}
  ],
  "whatMatters": [
-  {"factor": "Feeder size and speed", "detail": "The automatic document feeder holds a stack, and pages per minute measures speed. A 50-sheet feeder suits a few people, while 100 sheets suits a busier office. Find both numbers in the spec list."},
-  {"factor": "Duplex scanning", "detail": "Duplex means both sides scan in one pass. It halves the time on double-sided paper. Check the listing for double-sided or duplex."},
-  {"factor": "Drivers and software", "detail": "TWAIN is a common driver standard that works with many apps, while proprietary software can lock you in. Look for TWAIN or WIA support if you use document management software."},
-  {"factor": "Cloud and connectivity", "detail": "Direct cloud scanning skips a computer, while wired USB needs one nearby. Choose based on whether staff share the device. Check for wireless or scan-to-cloud wording."},
-  {"factor": "OCR and cleanup", "detail": "OCR turns scans into searchable text, and blank-page removal saves cleanup time. They matter when you file hundreds of pages. Check for searchable PDF and auto crop."}
+  {"factor": "Feeder size and speed", "detail": "The automatic document feeder holds a stack, and pages per minute measures speed. A 50-sheet feeder suits a few people, while 100 sheets suits a busier office. Both numbers decide how often someone stands at the machine. Find them in the spec list, check they refer to duplex, and note when a listing, like the Canon R40II, omits them."},
+  {"factor": "Duplex scanning", "detail": "Duplex means both sides scan in one pass, which halves the time on double-sided paper and avoids flipping stacks. Without it, every two-sided page needs a second run. Check the listing for double-sided or duplex wording, and see whether it lists a single-pass or two-pass design. Single-sheet portable models often skip it, so check before buying a travel scanner."},
+  {"factor": "Drivers and software", "detail": "TWAIN is a widely supported driver standard that lets many applications talk to the scanner, while proprietary software can lock you in. If you use document management software, look for TWAIN, WIA or ISIS support and confirm licensing with your vendor. The Epson uses TWAIN, and the ScanSnap relies on its own software, which is simpler but less flexible."},
+  {"factor": "Cloud and connectivity", "detail": "Direct cloud scanning skips a computer, while wired USB needs one nearby. Pick based on whether staff share the device or use it alone. The Canon R40II and iX1300 offer cloud filing, and the iX2400 is USB only. Look for wireless or scan-to-cloud wording, and check which cloud services each supports, since not all connect to every service."},
+  {"factor": "OCR and cleanup", "detail": "OCR turns scans into searchable text, and blank-page removal and auto crop save cleanup time. They matter when you file hundreds of pages, because manual tidying adds up. Look for searchable PDF, auto crop and de-skew in the listing. Accuracy still depends on the quality of the paper, so avoid crumpled originals and flatten staples out first."}
  ],
  "howToChoose": [
   {"subheading": "By Team Size", "intro": "Match capacity to how many people scan.", "table": {"headers": ["Team", "Our pick"], "rows": [["2 to 3 people, occasional", "Brother DS-640 Compact Mobile Document Scanner"], ["Small team, batches", "Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner"], ["10 to 15 people", "ScanSnap iX2400 High-Speed One-Touch Button Color Document Scanner"], ["No dedicated IT", "Canon imageFORMULA R40II Office Document Scanner"]]}},
@@ -144,13 +141,13 @@
   {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You scan large stacks. The iX2400 takes 100 sheets at up to 45 ppm."}, {"label": "Save if", "text": "You scan a few pages at a time. The Brother DS-640 is in the $100-200 bucket."}]}
  ],
  "faq": [
-  {"q": "Do I need a duplex scanner?", "a": "If you scan double-sided paper, yes, since it halves the time. The Epson, ScanSnaps and Canon models all list duplex."},
-  {"q": "Which scanner works without a computer?", "a": "The ScanSnap iX1300 lists standalone scan-to-cloud, and the Canon R40II scans directly to cloud services."},
-  {"q": "Is the iX2400 worth it over the ES-400 II?", "a": "If you scan stacks of 100 sheets, yes. For smaller batches the Epson is enough and offers a TWAIN driver."},
-  {"q": "What about ISIS for document management?", "a": "The Epson listing says to verify ISIS licensing separately. Check with your platform vendor before buying."},
-  {"q": "Does the Brother work on Mac and Linux?", "a": "Yes, it lists ICA for Mac and SANE for Linux, plus TWAIN and WIA for PC."},
-  {"q": "How do I keep scans searchable?", "a": "Use a scanner with searchable PDF OCR, like the Epson ES-400 II, and name files consistently."}
+  {"q": "Do I need a duplex scanner?", "a": "If you scan double-sided paper, yes, since it halves the time. The Epson ES-400 II, both ScanSnaps and the Canon R40II list duplex, while the Brother DS-640 feeds a single sheet at a time, so duplex there means flipping by hand."},
+  {"q": "Which scanner works without a computer?", "a": "The ScanSnap iX1300 lists standalone scan-to-cloud, and the Canon R40II scans directly to cloud services. Both avoid a computer for filing, which suits small offices without IT support or a dedicated server."},
+  {"q": "Is the iX2400 worth it over the ES-400 II?", "a": "If you scan stacks of 100 sheets, yes. For smaller batches the Epson is enough and offers a TWAIN driver, whereas the iX2400 relies on ScanSnap Home and USB only, which limits where you can place it."},
+  {"q": "What about ISIS for document management?", "a": "The Epson listing says to verify ISIS licensing separately. Check with your platform vendor before buying, because a TWAIN driver does not guarantee compatibility with every document management system, and ISIS is a separate matter."},
+  {"q": "Does the Brother work on Mac and Linux?", "a": "Yes, it lists ICA for Mac and SANE for Linux, plus TWAIN and WIA for PC. That wide driver coverage is its main strength, along with the free iPrint&Scan app, though it scans one page at a time."},
+  {"q": "How do I keep scans searchable?", "a": "Use a scanner with searchable PDF OCR, like the Epson ES-400 II, scan at a sensible resolution, and name files consistently so the archive stays easy to search. Scan receipts at a readable resolution, not the lowest."}
  ],
- "finalTake": "The Epson Workforce ES-400 II is the right scanner for most small teams, with a 50-sheet duplex feeder and OCR. Pick the ScanSnap iX2400 for volume, the Canon R40II if you lack IT, the iX1300 for space, and the Brother DS-640 for portability.",
+ "finalTake": "Buy the Epson ES-400 II for batch scanning of invoices and contracts with standard software. Choose the ScanSnap iX2400 for a busy office and the Canon R40II when nobody manages IT. The iX1300 suits cramped desks and the Brother DS-640 occasional scanning on the move.",
  "related": []
 }
