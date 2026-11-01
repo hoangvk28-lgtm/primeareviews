@@ -291,11 +291,11 @@
   },
   {
    "factor": "Thunderbolt vs USB-C",
-   "detail": "Thunderbolt certification guarantees bandwidth, while plain USB-C docks vary widely in what they deliver. It matters most for dual high resolution displays and fast storage. Search the listing for the word certified. The Plugable TBT-UDM carries Thunderbolt 4 certification, while the UGREEN and Acer list USB-C data speeds instead, so expect less headroom."
+   "detail": "Thunderbolt certification guarantees bandwidth, while plain USB-C docks vary widely in what they deliver. It matters most when you run dual high resolution displays and fast external storage together. Search the listing for the word certified. The Plugable TBT-UDM carries Thunderbolt 4 certification, while the UGREEN and Acer list USB-C data speeds instead, so expect less headroom."
   },
   {
    "factor": "DisplayLink drivers",
-   "detail": "DisplayLink adds extra screens through software and needs a driver, and it can lag with video or games. The WAVLINK uses it to reach dual 5K and 4K output, and the triple display Plugable relies on a similar approach. Check whether the listing mentions DisplayLink, and install the driver before depending on the dock for real work."
+   "detail": "DisplayLink adds extra screens through software and needs a driver, and it can lag with video or games. The WAVLINK uses it to reach dual 5K and 4K output. Check whether the listing mentions DisplayLink, and install the driver before depending on the dock for real work, since the extra screens stay dark until it is installed."
   },
   {
    "factor": "Display limits",
@@ -303,7 +303,7 @@
   },
   {
    "factor": "Port mix",
-   "detail": "Port mix decides what you can connect, and a small dock saves space but limits devices. Count USB-A, USB-C, Ethernet, card readers and audio against your daily gear. The Anker Prime has 14 ports, the WAVLINK has 13 and the UGREEN 7-in-1 has seven. Write down what you plug in, then match the list."
+   "detail": "Port mix decides what you can connect, and a small dock saves space but limits devices. Count USB-A, USB-C, Ethernet, card readers and audio against your daily gear. The Anker Prime has 14 ports, the WAVLINK has 13 and the UGREEN 7-in-1 has seven. Write down everything what you plug in, then match the list."
   }
  ],
  "howToChoose": [
@@ -433,27 +433,27 @@
  "faq": [
   {
    "q": "Will a 100W dock charge my laptop fully?",
-   "a": "Only if the dock's laptop power matches your laptop. Check the charger rating of your machine, and remember a shared pool like the Anker Prime's 160W max is split among devices. The Plugable TBT-UDM and UGREEN list 100W PD, which suits most thin laptops but not power-hungry workstations."
+   "a": "Only if the dock's laptop power matches your laptop. Check your charger rating, and remember a shared pool like the Anker Prime's 160W max is split among devices. The Plugable TBT-UDM and UGREEN list 100W PD, which suits thin laptops but not power-hungry workstations."
   },
   {
    "q": "What is the common mistake?",
-   "a": "Assuming every USB-C dock matches Thunderbolt. The Plugable TBT-UDM is Thunderbolt 4 certified, while the UGREEN and Acer rely on standard USB-C speeds, which can limit display resolution and refresh rate. Look for the word certified in the listing before paying for bandwidth you assume you have."
+   "a": "Assuming every USB-C dock matches Thunderbolt. The Plugable TBT-UDM is Thunderbolt 4 certified, while the UGREEN and Acer rely on standard USB-C speeds, which can limit display resolution and refresh rate. Look for the word certified in the listing."
   },
   {
    "q": "Is the Plugable worth it over the UGREEN?",
-   "a": "If you rely on certified bandwidth and want a driverless setup, yes. The UGREEN 10-in-1 is cheaper and handles dual 4K@60Hz with Ethernet, but it lacks Thunderbolt certification and the 6K option. Casual dual 4K users can save money, while heavy storage and display users should buy the Plugable."
+   "a": "If you want certified bandwidth and a driverless setup, yes. The UGREEN 10-in-1 is cheaper and handles dual 4K@60Hz with Ethernet, but it lacks Thunderbolt certification and the 6K option. Casual dual 4K users can save; heavy storage and display users should buy the Plugable."
   },
   {
    "q": "Do I need a driver?",
-   "a": "For DisplayLink docks like the WAVLINK, yes, you install a driver before the extra screens work. The Plugable TBT-UDM is described as driverless for Mac and Windows, so setup is faster. Download the driver before travel, because the dock cannot fetch it without a working display."
+   "a": "For DisplayLink docks like the WAVLINK, yes, you install a driver before the extra screens work. The Plugable TBT-UDM is described as driverless for Mac and Windows, so setup is faster. Download the WAVLINK driver before you travel with it."
   },
   {
    "q": "Can I run three monitors?",
-   "a": "The Anker Nano and Acer list three-monitor support, and the triple display Plugable runs three HDMI outputs. Read the supported resolution and refresh rate combination, because three screens often lower the refresh rate. The triple display Plugable only reaches 4K@30Hz on one output, which is fine for documents but poor for video."
+   "a": "The Anker Nano and Acer list three-monitor support, and the triple display Plugable runs three HDMI outputs. Read the supported resolution and refresh rate combination, because three screens often lower the refresh rate. The triple display Plugable manages only 4K@30Hz on one output."
   },
   {
    "q": "Does it need its own power?",
-   "a": "Yes. Docks at this wattage ship with a power adapter, and you plug it into the wall before connecting the laptop. The Plugable TBT-UDM and Anker Prime rely on that supply to pass power through. Use the included adapter, since a weaker third-party brick can cut laptop charging."
+   "a": "Yes. Docks at this wattage ship with a power adapter, into the wall before connecting the laptop. The Plugable TBT-UDM and Anker Prime rely on that supply to pass power through. Use the included adapter, since a weaker brick can cut laptop charging."
   }
  ],
  "finalTake": "Choose the Plugable if you want certified Thunderbolt 4 and a quick setup. The Anker Prime is the pick when power headroom matters most, and the WAVLINK handles two high resolution screens through DisplayLink. For tight budgets, the UGREEN fits dual 4K in a small body, and the Acer adds a third monitor. Match the wattage to your laptop charger.",
