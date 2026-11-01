@@ -9,11 +9,8 @@
   "updatedAt": "2026-11-01",
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
-  "summary": "The roborock Q7 M5+ is the privacy-minded pick we would buy: LiDAR navigation instead of a camera, 10,000Pa suction and a self-empty base listed at 7 to 9 weeks per emptying. The roborock Q10 S5+ is the cheaper step with the same camera-free approach. The eufy Omni C20 and C28 are the premium docks, and the eufy 11S MAX is the simplest hardware here, with no mop and no camera.",
-  "intro": [
-    "A robot vacuum roams every room of your home, so it is fair to ask what it can see. The biggest privacy line in this category is simple: some models carry a camera for object recognition, and some navigate with a spinning laser sensor that only measures distance. A laser sensor cannot capture a picture of your living room.",
-    "We reviewed six robots whose listings point to navigation without an onboard camera, and ranked them on that approach plus dock automation, mopping and price. One caution applies to all of them: an app and a Wi-Fi connection still exist on most, so camera-free is not the same as offline. Rankings come from spec sheets and owner reports."
-  ],
+  "summary": "The roborock Q7 M5+ is the best overall: LiDAR with no camera, 10,000Pa suction and a self-empty dock listed for up to seven to nine weeks. The Q10 S5+ is the sensible mid-range alternative. Eufy's Omni C20 and C28 give you a camera-free option from a second brand. The eufy 11S MAX is the plainest hardware here, with no mop at all.",
+  "intro": ["A robot vacuum visits every room you own, so the question of what it can see is fair. The sharpest dividing line in this category is the sensor. Some models carry a camera for object recognition. Others steer with a spinning laser that only measures distance, and a laser cannot capture a picture of your living room. Everything else, from suction numbers to dock features, matters less if privacy is the reason you are shopping.","We reviewed six robots whose listings point to navigation without a camera and ranked them on the Primea framework. Sensor type, base design, cleaning type and price bucket carried the most weight, and every judgement rests on spec sheets and listing details rather than lab results."],
   "products": [
     {
       "id": "roborock-q7-m5-plus",
@@ -24,7 +21,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0DWX69JVG?tag=primeareviews-20",
       "verdict": "LiDAR navigation with no camera, 10,000Pa and a long self-empty interval.",
-      "description": "The Q7 M5+ is a vacuum and mop combo that navigates with LiDAR and no camera, with 10,000Pa suction and a self-empty base listed at 7 to 9 weeks per emptying. Fewer sensors pointed at your rooms means less to worry about.\n\nIt ranks first because it matches the Q10 S5+ on suction and adds the longest interval, so you touch it less. Against the eufy models, it costs far less than the C28 and Omni C20.\n\nBest for a household that wants a camera-free robot with minimal chores. Caveat: it still uses an app, so read the privacy settings.",
+      "description": "The roborock Q7 M5+ puts the privacy argument and the cleaning argument in the same box. It navigates by LiDAR with no camera, pulls with 10,000Pa of suction, mops as well as vacuums and parks on a dock listed for up to 7 to 9 weeks of self-emptying. LiDAR maps distance rather than imagery, so no lens ever sees your rooms.\n\nIt ranks first because the dock interval is the longest of the six. The Q10 S5+ matches the 10,000Pa suction and the self-empty base, but lists no comparable interval. The eufy C28 pushes 15,000 Pa higher, though it sits in the same $200 to $500 bracket.\n\nBuy it for a busy household that wants a hands-off, camera-free robot. The caveat is obstacle handling. Without a camera it cannot tell a sock from a cable, so clear the floor first.",
       "keySpecs": [
         {
           "label": "Navigation",
@@ -66,7 +63,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31TzU0YZA6L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=primeareviews-20",
       "verdict": "The same camera-free LiDAR approach with a self-empty base, for under $300.",
-      "description": "The Q10 S5+ uses LiDAR with no camera, 10,000Pa suction, a self-empty base and a mop. It sits between the Q7 L5 and the Q7 M5+ in the range.\n\nIt ranks second because the Q7 M5+ lists a longer empty interval for a small step up. It beats the Q7 L5 by adding a dock and 2,000 more Pa.\n\nBest for a mid-budget buyer who wants a camera-free robot with a dock. Caveat: no interval is listed.",
+      "description": "The Q10 S5+ mirrors much of the leader. It uses LiDAR with no camera, 10,000Pa suction and a self-empty base, and mops after it vacuums. It lands under $300, within the $200 to $500 bracket, so it is the easiest roborock to justify when budget matters.\n\nIt ranks second because the listing gives no self-empty interval, whereas the Q7 M5+ promises up to 7 to 9 weeks. That figure matters for a family that does not want to touch the dock. Against the Q7 L5 below it, you gain the self-empty base, which the cheaper robot lacks.\n\nChoose it for an apartment or mid-size home that wants a camera-free robot with a bin that empties itself. The caveat is the missing interval, so expect to check the dock rather than ignore it for weeks.",
       "keySpecs": [
         {
           "label": "Navigation",
@@ -108,7 +105,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31uX9zUZ5dL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0GCDZBK9Q?tag=primeareviews-20",
       "verdict": "LiDAR without a camera, a self-empty base and hardwood and carpet capability.",
-      "description": "Mapping on the Omni C20 comes from LiDAR alone, which leaves no camera on the robot itself. It is a vacuum and mop combo with a self-empty base, capable on hardwood and carpet.\n\nIt ranks third because the roborock models cost less for similar camera-free navigation. It is the cheaper eufy, with a dock that does more than the Q7 L5.\n\nBest for buyers who prefer the eufy brand. Caveat: the listing gives no suction number.",
+      "description": "The Omni C20 is the eufy to buy if you prefer that brand's app. It uses LiDAR with no camera, mops and vacuums, handles hardwood and carpet, and empties itself at the base. It sits in the $200 to $500 bracket.\n\nIt ranks third because the listing gives no suction figure, while the roborock Q7 M5+ and Q10 S5+ both list 10,000Pa. Without that number you are trusting the brand rather than the spec. Compared with the C28 below, you give up a stated suction figure and the roller mop, but you keep the same camera-free LiDAR approach.\n\nBuy it for a mixed-floor home where hardwood and carpet share a level. The caveat is the missing suction figure, so check the listing before assuming it matches a 10,000Pa roborock on carpet.",
       "keySpecs": [
         {
           "label": "Navigation",
@@ -150,7 +147,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31MYUq-FSoL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0FWK41WF2?tag=primeareviews-20",
       "verdict": "The highest suction here, 15,000 Pa, with a roller mop and no camera.",
-      "description": "The C28 is the most powerful and expensive model in this guide, with 15,000 Pa of suction and a HydroJet roller mop. It relies on LiDAR for navigation, keeping a camera off the robot, and has a self-empty base.\n\nIt ranks fourth only because of price: the roborock Q7 M5+ offers the same privacy approach for much less. For pet hair and embedded debris, the extra suction is the point.\n\nBest for a large home with pets that wants camera-free navigation. Caveat: the cost is high.",
+      "description": "The eufy C28 is the high suction option. It lists 15,000 Pa, a HydroJet roller mop, a self-empty base and LiDAR navigation with no camera. A roller mop keeps pressure on the floor and scrubs rather than drags a damp pad, which matters for dried spills.\n\nIt ranks fourth, not higher, because suction on paper matters less than dock endurance for most buyers. The Q7 M5+ lists up to 7 to 9 weeks of self-emptying, while the C28 gives no interval. It also sits in the same $200 to $500 bracket as the cheaper roborock models, so the extra suction is the reason to choose it.\n\nChoose it for pet hair, carpet or sticky kitchen floors. The caveat is that big suction numbers do not guarantee navigation skill, and the camera-free design still means you must clear cables.",
       "keySpecs": [
         {
           "label": "Navigation",
@@ -192,7 +189,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41hpc-ca5xL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0F334DN9J?tag=primeareviews-20",
       "verdict": "LiDAR mapping and a mop for under $150.",
-      "description": "The Q7 L5 brings roborock's LiDAR mapping and combo vacuum and mop function to under $150. It lists 8,000Pa suction and app-based mapping, with no camera.\n\nIt ranks fifth because it has no self-empty dock, which the models above all include. That is the price of the low cost.\n\nBest for a small home on a strict budget. Caveat: you will empty the bin yourself.",
+      "description": "The Q7 L5 is the budget route into camera-free navigation. It uses LiDAR with no camera, lists 8,000Pa suction, mops, and builds maps through the app. It lands in the $100 to $200 bracket.\n\nIt ranks fifth because it has no self-empty dock listed, so you carry the bin to the trash yourself. That is the main difference from the Q7 M5+, which lists up to 7 to 9 weeks between empties. Suction is also lower, at 8,000Pa against 10,000Pa on its siblings. For a small home on a tight budget, those compromises are reasonable.\n\nBuy it for a small apartment where weekly emptying is no chore. The caveat is the missing dock, plus app-based mapping that still ties the robot to the cloud.",
       "keySpecs": [
         {
           "label": "Navigation",
@@ -234,7 +231,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31d8SEg9M9L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B07R295MLS?tag=primeareviews-20",
       "verdict": "A thin, quiet, vacuum-only robot with no camera and no mop tank.",
-      "description": "The 11S MAX is a thin, quiet, vacuum-only robot with no mop tank and no camera. Fewer onboard features means fewer things to worry about from a privacy point of view.\n\nIt ranks last because it is the plainest machine here, with no dock and no mop. In exchange, it is simple, inexpensive and well known.\n\nBest for a small home that wants the least connected hardware. Caveat: basic navigation and manual emptying.",
+      "description": "The eufy 11S MAX is the plainest robot here. It is vacuum only, with no mop, a super-thin body and quiet operation, and it lists no camera. Less hardware means fewer features to configure, which is a privacy point of its own.\n\nIt ranks last because it does less than anything above it. There is no mop and no self-empty base, and suction is not stated in our facts. The super-thin body helps it slide under low furniture, but it will not rival the 10,000Pa roborock models on thick carpet. It sits in the $100 to $200 bracket.\n\nBuy it for hard floors, bedrooms and small spaces where a quiet vacuum is enough. The caveat is that simplicity: if you want a mop or a dock, move up to the Q7 L5 or Q10 S5+.",
       "keySpecs": [
         {
           "label": "Camera",
@@ -293,23 +290,23 @@
   "whatMatters": [
     {
       "factor": "LiDAR versus camera",
-      "detail": "LiDAR is a spinning laser that measures distance and builds a floor plan. It cannot capture a picture. Camera robots use a lens to recognize objects and can in principle capture images. If you want the strongest privacy, look for LiDAR in the specs and check for the words no camera."
+      "detail": "LiDAR is a spinning laser that measures distance and builds a floor plan. It cannot take a picture, which is why it matters for privacy. Camera robots use a lens to recognise objects and can in principle capture images. Look for LiDAR in the specs and the words no camera, as listed for every roborock and eufy robot here."
     },
     {
       "factor": "The app still matters",
-      "detail": "Even a camera-free robot connects to an app that stores your floor plan and schedule. Read the maker's privacy page, turn off any optional sharing and use a strong account password. If you want no cloud link, choose a model that can run from buttons alone."
+      "detail": "Even a robot with no lens connects to an app that stores your floor plan and schedule. That data lives with the maker's cloud. Read the privacy page, turn off optional sharing and use a strong account password. If you want no cloud link, pick a model such as the eufy 11S MAX that can be run from its own controls."
     },
     {
       "factor": "Obstacle avoidance is the trade-off",
-      "detail": "Without a camera, a robot cannot tell a sock from a cable. It will bump into them. Pick up floor clutter before each run, and be ready to rescue it from the occasional cord."
+      "detail": "Without a camera, a robot cannot tell a sock from a cable, so it will bump into both and sometimes tangle. This is the trade-off for privacy. Pick up floor clutter before each run and keep cords off the ground. Expect to rescue the robot occasionally, and avoid running it unsupervised in a room full of wires."
     },
     {
       "factor": "Guest and Wi-Fi hygiene",
-      "detail": "Put the robot on a guest network if your router has one. That keeps it away from your computers. Check the router's settings page for a guest option."
+      "detail": "Even a camera-free robot is a Wi-Fi device. Putting it on a guest network keeps it away from your computers and phones. Check your router settings for a guest option and give the robot that network only. Avoid linking it to voice assistants unless you need them, because every link adds another data path."
     },
     {
       "factor": "Dock automation lowers handling",
-      "detail": "A self-empty base cuts how often you carry the bin around. That is a convenience, not a privacy feature, but it makes a camera-free robot practical for a busy household."
+      "detail": "A self-empty base cuts how often you carry the bin around, so it makes a camera-free robot practical for busy households. The roborock Q7 M5+ lists up to 7 to 9 weeks between empties. It is a convenience feature rather than a privacy one. Check the listing for a stated interval, not just self-empty."
     }
   ],
   "howToChoose": [
@@ -443,30 +440,30 @@
   "faq": [
     {
       "q": "Does a robot vacuum without a camera still use Wi-Fi?",
-      "a": "Usually yes, for the app. LiDAR models like the roborock Q10 S5+ have no lens but still connect to a cloud service."
+      "a": "Usually yes, for the app. LiDAR models like the roborock Q10 S5+ have no lens but still connect to a cloud service for maps and schedules, so read the maker's privacy page and decide what sharing to switch off."
     },
     {
       "q": "Is LiDAR safe for privacy?",
-      "a": "It only measures distance, so it cannot capture an image. It does store a floor plan in the app."
+      "a": "It only measures distance, so it cannot capture an image. It does store a floor plan in the app, so protect your account, as you would with the roborock Q7 M5+ or any eufy model here."
     },
     {
       "q": "Is the roborock Q7 M5+ worth more than the Q7 L5?",
-      "a": "If you want a dock and a long interval, yes. For a small home with a tight budget, the Q7 L5 is fine."
+      "a": "If you want a dock and a long interval, yes: the Q7 M5+ lists up to 7 to 9 weeks of self-emptying and 10,000Pa. For a small home on a tight budget, the Q7 L5 does the camera-free job."
     },
     {
       "q": "Will a camera-free robot avoid cables?",
-      "a": "Not reliably. Without a camera it cannot identify cords, so pick them up first."
+      "a": "Not reliably. Without a camera it cannot identify cords, socks or pet waste, so pick them up first. This applies to all six robots, from the eufy C28 to the 11S MAX, so tidy the floor before every run."
     },
     {
       "q": "Can I use a robot vacuum on a guest network?",
-      "a": "Usually yes. Put it on the guest Wi-Fi if your router offers one."
+      "a": "Usually yes. Put it on the guest Wi-Fi if your router offers one. That keeps a roborock or eufy robot away from your computers while still letting the app work."
     },
     {
       "q": "Which is simplest in terms of connected features?",
-      "a": "The eufy 11S MAX, a plain vacuum with no mop and no camera."
+      "a": "The eufy 11S MAX, a plain vacuum with no mop and no camera. It has fewer features to configure than the mop-and-dock robots, though it lacks the self-empty base of the Q7 M5+, so you empty the bin yourself."
     }
   ],
-  "finalTake": "If you want a robot vacuum that keeps a lens out of your home, the roborock Q7 M5+ is the best buy: LiDAR navigation, 10,000Pa suction and the longest self-empty window. The Q10 S5+ is the mid-range alternative, and the eufy C28 is the premium choice for pet homes. On a budget, the Q7 L5 keeps LiDAR for under $150, and the eufy 11S MAX is the simplest hardware here.",
+  "finalTake": "Buy the roborock Q7 M5+ if you want the most complete camera-free robot. The Q10 S5+ is the alternative when the dock matters more than the interval. Choose a eufy when you prefer that brand, with the C28 for more suction. Take the 11S MAX for the simplest hardware. Whichever you buy, keep it on a guest network and read the maker's privacy page.",
   "related": [
     "best-anti-tangle-robot-vacuums",
     "best-bagless-self-emptying-robot-vacuums",
