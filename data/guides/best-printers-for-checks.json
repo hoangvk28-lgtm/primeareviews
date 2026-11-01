@@ -1,0 +1,177 @@
+{
+"slug": "best-printers-for-checks",
+"category": "tech-accessories",
+"h1": "The 6 Best Printers for Checks of 2026, Ranked & Reviewed",
+"metaTitle": "Best Printers for Checks 2026: Ranked & Reviewed",
+"metaDescription": "Ranked and reviewed by Primea: six printers for printing checks, sorted by MICR capability, check software, print type and everyday office use.",
+"mainKeyword": "printer for checks",
+"publishedAt": "2026-11-01",
+"updatedAt": "2026-11-01",
+"readTime": "9 min",
+"heroImage": "https://m.media-amazon.com/images/I/41Gl2sOxX9L._SL500_.jpg",
+"summary": "The VersaCheck HP DeskJet 3755 MX is the best printer for checks because it is a true MICR capable bundle with check software included. The VersaCheck 4155 MXQ is the color all-in-one version, and the Brother DCP-L2640DW is the pick if you print checks occasionally on check paper and want a sturdy office laser. The rest are general printers that only suit checks when magnetic ink is not required.",
+"intro": [
+"The most expensive mistake in this category is printing checks on a normal printer and discovering that the bank cannot read them. Real checks carry a line of magnetic ink along the bottom, called MICR, and a standard laser or inkjet uses ink that does not have that property.",
+"Six printers are covered below, judged from spec sheets and what owners report about check printing. We ranked them on MICR capability, bundled software, print type and general office usefulness. Only two models here are true MICR check printers. The rest are listed for people who use check paper where magnetic ink is not required, and we say so for each."
+],
+"products": [
+{
+"id": "versacheck-hp-deskjet-3755-mx",
+"rank": 1,
+"award": "Best Overall",
+"name": "VersaCheck HP DeskJet 3755 MX MICR Check Printer and Software Bundle",
+"score": 94,
+"imageUrl": "https://m.media-amazon.com/images/I/41Gl2sOxX9L._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B08MSWMTN6?tag=primeareviews-20",
+"verdict": "A true MICR check printer bundle that works with standard bank processing.",
+"description": "This bundle pairs a compact HP DeskJet with MICR capable check printing and includes VersaCheck Gold check software. It is built specifically for printing checks, and it is compatible with standard bank check processing.\n\nIt ranks first because it is purpose made for the job, while every general printer below it only prints on check paper. Against the 4155 MXQ, it is the simpler hardware and sits in the $200 to $500 range.\n\nBuy it if you print checks regularly and want results a bank can process without manual review. The caveat is that it is a basic inkjet for general documents.",
+"keySpecs": [
+{"label": "Check capability", "value": "True MICR capable"},
+{"label": "Software", "value": "VersaCheck Gold included"},
+{"label": "Base", "value": "Compact HP DeskJet"},
+{"label": "Price tier", "value": "$200 to $500"}
+],
+"pros": ["True MICR capable", "VersaCheck Gold included", "Bank processing compatible", "Compact footprint"],
+"cons": ["Basic inkjet hardware", "Costs more than general printers"],
+"idealFor": "Regular check printing with bank compliance.",
+"skipIf": "You rarely print checks."
+},
+{
+"id": "versacheck-4155-mxq",
+"rank": 2,
+"award": "Best Color MICR",
+"name": "VersaCheck 4155 MXQ MICR All-in-One Color Check Printer and Software Bundle",
+"score": 92,
+"imageUrl": "https://m.media-amazon.com/images/I/41PDCUzgzrL._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B0DJWMNN2M?tag=primeareviews-20",
+"verdict": "A MICR all-in-one with color printing for businesses.",
+"description": "The 4155 MXQ is a MICR capable all-in-one with color printing, and it includes VersaCheck Gold software for Windows. It is built for check printing and works with standard bank processing.\n\nIt ranks second because the software is for Windows only and it adds color you may not need on a check, though many offices value a color all-in-one. It is priced in the same $200 to $500 band as the 3755.\n\nChoose it if you want a business grade all-in-one with real MICR support. Mac users should check software compatibility.",
+"keySpecs": [
+{"label": "Check capability", "value": "True MICR capable"},
+{"label": "Type", "value": "Color all-in-one"},
+{"label": "Software", "value": "VersaCheck Gold for Windows"},
+{"label": "Price tier", "value": "$200 to $500"}
+],
+"pros": ["True MICR capable", "Color all-in-one", "Software included", "Bank processing compatible"],
+"cons": ["Software is Windows only", "Higher price bracket"],
+"idealFor": "Small businesses wanting color and MICR.",
+"skipIf": "You use a Mac."
+},
+{
+"id": "brother-dcp-l2640dw",
+"rank": 3,
+"award": "Best Office Laser",
+"name": "Brother DCP-L2640DW Wireless Compact Monochrome Laser",
+"score": 88,
+"imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=primeareviews-20",
+"verdict": "A strong office laser that prints on check paper, but not with MICR toner.",
+"description": "The DCP-L2640DW is a monochrome laser with automatic duplex printing, copy, scan and wireless printing. It uses standard toner, not MICR, and works with third party check paper and software.\n\nIt ranks third because it is the best general printer here, but a standard toner check may not be accepted by every bank. It does not replace the VersaCheck bundles for checks that need to clear.\n\nIt suits an office that prints checks on check paper for internal use where magnetic ink is not needed.",
+"keySpecs": [
+{"label": "Type", "value": "Monochrome laser, not MICR"},
+{"label": "Features", "value": "Duplex, copy and scan"},
+{"label": "Connectivity", "value": "Wireless and mobile"},
+{"label": "Price tier", "value": "$200 to $500"}
+],
+"pros": ["Automatic duplex printing", "Copy and scan built in", "Wireless and mobile printing", "Works with check software"],
+"cons": ["Not MICR", "Higher cost than basic lasers"],
+"idealFor": "General offices with occasional check paper use.",
+"skipIf": "Checks must pass bank MICR processing."
+},
+{
+"id": "brother-hl-l2405w",
+"rank": 4,
+"award": "Best Budget Laser",
+"name": "Brother HL-L2405W Wireless Compact Monochrome Laser",
+"score": 85,
+"imageUrl": "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B0CPL7HRQN?tag=primeareviews-20",
+"verdict": "A small, cheap-to-run laser for check paper where MICR is not required.",
+"description": "The HL-L2405W is a print only monochrome laser with wireless printing, a compact chassis and a low per page toner cost. It uses standard toner, not MICR, and works with third party check paper and software.\n\nIt ranks fourth because it drops the scanner and duplex of the DCP-L2640DW above. In return it is cheaper to buy, in the $100 to $200 range, and cheap to run.\n\nChoose it if you print a lot of simple documents and use check paper only where magnetic ink is not required.",
+"keySpecs": [
+{"label": "Type", "value": "Monochrome laser, print only"},
+{"label": "Toner", "value": "Standard, not MICR"},
+{"label": "Connectivity", "value": "Wireless and mobile"},
+{"label": "Price tier", "value": "$100 to $200"}
+],
+"pros": ["Low per page toner cost", "Compact chassis", "Wireless printing", "Works with check software"],
+"cons": ["Not MICR", "No scanner or copier"],
+"idealFor": "Budget printing with occasional check paper.",
+"skipIf": "You want a scanner."
+},
+{
+"id": "brother-hl-l3220cdw",
+"rank": 5,
+"award": "Best Color Laser",
+"name": "Brother Color Laser Printer HL-L3220CDW",
+"score": 82,
+"imageUrl": "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=primeareviews-20",
+"verdict": "A color laser with duplex and a 250-sheet tray, but standard toner.",
+"description": "The HL-L3220CDW is a color laser with up to 19 pages per minute, a 250-sheet tray, automatic duplex printing and wireless printing. It uses standard toner, not MICR, and works with third party check paper and software.\n\nIt ranks fifth because color adds cost without helping check printing, and it sits in the $200 to $500 range. The speed and tray size are the benefits for a busy office.\n\nBuy it for a business that wants one color laser for everything and uses check paper only when MICR is not required.",
+"keySpecs": [
+{"label": "Type", "value": "Color laser, not MICR"},
+{"label": "Speed", "value": "Up to 19 PPM"},
+{"label": "Tray", "value": "250 sheets"},
+{"label": "Features", "value": "Duplex and wireless"}
+],
+"pros": ["Color laser output", "250-sheet tray", "Automatic duplex", "Wireless and mobile"],
+"cons": ["Not MICR", "Higher price bracket"],
+"idealFor": "Busy offices wanting color laser.",
+"skipIf": "You need bank grade checks."
+},
+{
+"id": "canon-pixma-tr4720",
+"rank": 6,
+"award": "Best Budget Inkjet",
+"name": "Canon PIXMA TR4720 All-in-One Wireless Printer",
+"score": 78,
+"imageUrl": "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
+"amazonUrl": "https://www.amazon.com/dp/B09CDXKNB9?tag=primeareviews-20",
+"verdict": "A budget all-in-one with a document feeder, for informal check paper use.",
+"description": "The PIXMA TR4720 is a color inkjet all-in-one with an automatic document feeder, mobile printing and built-in fax. It uses standard ink, not MICR, and works with third party check paper and software.\n\nIt ranks last because inkjet ink is the least suited to formal checks, and it is a general home or small office machine. It is priced in the $50 to $100 range.\n\nIt fits occasional, informal check printing that does not need magnetic ink.",
+"keySpecs": [
+{"label": "Type", "value": "Color inkjet, not MICR"},
+{"label": "Feeder", "value": "Automatic document feeder"},
+{"label": "Extras", "value": "Mobile printing, fax"},
+{"label": "Price tier", "value": "$50 to $100"}
+],
+"pros": ["Automatic document feeder", "Built in fax", "Mobile printing", "Under $100"],
+"cons": ["Not MICR", "Inkjet ink on checks"],
+"idealFor": "Casual home office use.",
+"skipIf": "Banks must process your checks."
+}
+],
+"methodology": [
+{"title": "MICR capability", "description": "True MICR printers scored far above standard laser or inkjet models."},
+{"title": "Software", "description": "Bundled check software saved effort and counted in the score."},
+{"title": "Print type", "description": "Laser toner and inkjet ink were compared for check paper use."},
+{"title": "Office features", "description": "Duplex, scan and wireless printing counted for everyday value."},
+{"title": "Value", "description": "Price tier was set against how well each printer handles checks."}
+],
+"whatMatters": [
+{"factor": "MICR capability", "detail": "MICR stands for magnetic ink character recognition, the special ink at the bottom of a check that bank machines read. Standard printers do not use magnetic ink. If your checks go to a bank, choose a true MICR printer, and look for the word MICR in the listing."},
+{"factor": "Check software", "detail": "Check printing software handles account numbers, routing numbers and layouts. Bundles like VersaCheck Gold include it, while general printers rely on third party tools. Check the listing for the software name and the operating system it supports."},
+{"factor": "Laser vs inkjet", "detail": "Laser toner is dry and smudge resistant, while inkjet ink can run if wet. For checks, laser toner is the more common choice if MICR toner is used. Check which toner or ink type the printer takes."},
+{"factor": "Check paper handling", "detail": "Check paper is a special stock that must feed cleanly. A straight paper path and a standard tray help. Check the tray size and whether the printer lists compatibility with check stock."},
+{"factor": "Everyday features", "detail": "Duplex printing, scanning and wireless printing matter when the printer serves other jobs too. They do not help check printing itself. Decide whether the printer is for checks only or a shared office tool."}
+],
+"howToChoose": [
+{"subheading": "By Bank Acceptance", "intro": "Match the printer to whether your bank must process the check.", "table": {"headers": ["Need", "Our pick"], "rows": [["Bank processed checks", "VersaCheck HP DeskJet 3755 MX"], ["Color and bank processed", "VersaCheck 4155 MXQ"], ["Internal use only", "Brother DCP-L2640DW"], ["Informal use only", "Canon PIXMA TR4720"]]}},
+{"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["$50 to $100", "Canon PIXMA TR4720"], ["$100 to $200", "Brother HL-L2405W"], ["$200 to $500", "VersaCheck HP DeskJet 3755 MX"]]}},
+{"subheading": "MICR vs Standard Toner", "cards": [{"label": "MICR", "text": "Magnetic ink that bank machines can read, built into the VersaCheck bundles. The 3755 MX and 4155 MXQ are true MICR."}, {"label": "Standard toner or ink", "text": "General printers that print on check paper without magnetic ink. The Brother and Canon models use it."}], "note": "Most buyers whose checks go to a bank should default to MICR."},
+{"subheading": "By Print Type", "table": {"headers": ["Type", "Our pick"], "rows": [["Monochrome laser", "Brother DCP-L2640DW"], ["Print only laser", "Brother HL-L2405W"], ["Color laser", "Brother HL-L3220CDW"], ["Color inkjet", "Canon PIXMA TR4720"]]}},
+{"subheading": "For Small Businesses Specifically", "cards": [{"label": "Look for", "text": "True MICR capability, bundled check software and bank processing compatibility."}, {"label": "In this ranking", "text": "The VersaCheck 4155 MXQ is a color all-in-one with MICR and software for Windows."}]},
+{"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "Your checks go to a bank. The VersaCheck HP DeskJet 3755 MX is built for it."}, {"label": "Save if", "text": "You only print on check paper for internal use. The Brother HL-L2405W costs far less."}]}
+],
+"faq": [
+{"q": "Do I need a MICR printer for checks?", "a": "If your checks will be deposited or cashed at a bank, MICR is the safe choice. For internal records, standard printers can work."},
+{"q": "What is the biggest mistake when buying a check printer?", "a": "Assuming any laser printer can print bank ready checks. Without MICR toner or a MICR printer, banks may reject them."},
+{"q": "Is a MICR bundle worth it over a Brother laser?", "a": "Yes if the checks need to clear. If they do not, a general laser is cheaper and more flexible."},
+{"q": "How do I set up check printing?", "a": "Install the check software, enter your account details, load check stock and run a test print on plain paper first."},
+{"q": "Can I use these printers with a Mac?", "a": "The VersaCheck 4155 MXQ software is listed for Windows. Check the other listings for Mac support before buying."},
+{"q": "How do I keep the printer running well?", "a": "Use clean check stock, keep the paper path free of dust and follow the maker's cleaning steps."}
+],
+"finalTake": "For checks that a bank will process, the VersaCheck HP DeskJet 3755 MX is the printer to buy. The 4155 MXQ is the color all-in-one alternative, and the Brother DCP-L2640DW is the sturdy office laser for check paper use that does not need MICR. Treat the other printers as general models first.",
+"related": []
+}

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/* Primea design tokens: ivory paper, deep pine, brass gold. Serif display + sans body. */
+@theme inline {
+  --color-pine: #123d33;
+  --color-pine-dark: #0b2a23;
+  --color-pine-soft: #e6efeb;
+  --color-gold: #c9a24b;
+  --color-gold-dark: #9c7a2c;
+  --color-gold-soft: #f7efd9;
+  --color-paper: #fbf8f2;
+  --color-card: #ffffff;
+  --color-line: #e7e0d2;
+  --color-ink: #1b1a17;
+  --color-ink-soft: #57524a;
+  --color-ink-mute: #8c867b;
+  --color-plus: #1f7a4d;
+  --color-minus: #b4452f;
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  --shadow-card: 0 1px 0 rgb(27 26 23 / 0.04), 0 8px 24px -12px rgb(27 26 23 / 0.12);
+}
+
+[id] { scroll-margin-top: 5.5rem; }
+
+@layer base {
+  html { background: var(--color-paper); color: var(--color-ink); }
+  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+  h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
+}
+
+.eyebrow { @apply text-[11px] font-semibold uppercase tracking-[0.18em] text-gold-dark; }
+.rule-gold { background: linear-gradient(90deg, var(--color-gold), transparent); height: 2px; }

@@ -1,0 +1,72 @@
+import fs from "node:fs";
+const slug="best-printer-cabinets-for-home-offices";
+const F=JSON.parse(fs.readFileSync(`scripts/.work/facts/${slug}.json`));
+const P=(n)=>F.products.find(p=>p.name.startsWith(n));
+const picks=[
+["DEVAISE 3-Drawer","Best Overall","DEVAISE 3-Drawer Mobile File Cabinet",94,"Three lateral drawers, casters, and a flat top make it the easiest all-round printer perch.",
+"The DEVAISE gives you three lateral drawers under an open, flat top, on a rolling caster base with a rustic brown finish. That is the exact formula a home office printer needs: a stable surface up high and paper, ink and cables stored below.\n\nIt ranks first because it combines wheels, depth of storage and a warm finish without asking you to pay extra for a lock or metal build. The Letaya models below trade that wood look for lockable steel, which matters only if privacy is your priority.\n\nBuy it if you want a mobile printer station in a spare corner. The caveat is that lateral drawers hold letter paper sideways, so check the interior width against your reams before ordering.",
+["Drawers","3 lateral"],["Base","Rolling casters"],["Finish","Rustic brown"],["Top","Flat, open"],
+["Three roomy drawers","Rolls to any corner","Flat top fits printers","Warm wood-look finish"],["No drawer lock listed","Not a metal build"],
+"A home office that needs mobile paper and supply storage under a printer.","You need lockable storage for sensitive files."],
+["Letaya 3 Drawer","Best Lockable","Letaya 3 Drawer Mobile File Cabinet with Lock",91,"Fully assembled metal cabinet with three lockable drawers and a flat printer deck.",
+"The Letaya 3-drawer is a metal cabinet that arrives fully assembled, with three lockable drawers and an open flat top. Skipping the assembly session is a real selling point for anyone who dislikes flat-pack hardware.\n\nIt sits just below the DEVAISE because it leans on utility over styling. You gain a lock and steel construction; you give up the wood warmth that blends into a living space.\n\nIt suits a shared household or a work-from-home setup where client paperwork needs a key. The caveat is the industrial look, which can feel out of place in a bedroom office.",
+["Drawers","3 lockable"],["Build","Metal"],["Assembly","Fully assembled"],["Top","Open, flat"],
+["Locks keep files private","Arrives fully assembled","Sturdy metal build","Rolls on casters"],["Plain office look","Heavier to move"],
+"Anyone storing client or personal paperwork who wants a lock.","Your room needs a softer, furniture-style look."],
+["VASAGLE CUSTOS","Best Compact Pick","VASAGLE CUSTOS Collection 2-Drawer File Cabinet, Printer Stand",88,"A small, rolling two-drawer cabinet at about 15.7 by 16.5 by 27.6 inches.",
+"The VASAGLE CUSTOS measures 15.7 x 16.5 x 27.6 inches, holds A4 or letter files in two drawers, and rolls on casters in a matte black finish. It is the smallest footprint in this ranking that still works as a true printer stand.\n\nIt lands under the Letaya picks because two drawers hold less. In return you get a tight footprint that tucks under a desk or beside a chair.\n\nIt fits a small office or dorm corner. The caveat is capacity: a home business with years of paperwork will outgrow it fast.",
+["Size","15.7 x 16.5 x 27.6 in"],["Drawers","2, letter or A4"],["Base","Rolling casters"],["Finish","Matte black"],
+["Tiny footprint","Fits letter and A4","Rolls under a desk","Clean matte black look"],["Only two drawers","Limited file capacity"],
+"Small desks and tight corners where floor space is scarce.","You file a lot of paper every month."],
+["Letaya 2 Drawer","Best Metal Lateral","Letaya 2 Drawer File Cabinet with Lock, Metal Lateral Filing Cabinet",85,"A wide 28-inch lateral metal cabinet with two lockable drawers.",
+"The Letaya 2-drawer lateral measures about 27.95 inches high, 28.35 wide and 15.74 deep, with two lockable drawers and an open flat top. That wide top gives larger all-in-one printers more room than the compact picks.\n\nIt ranks below the VASAGLE because the width demands real wall or desk space, and it has no casters listed. You get a lock and metal frame in exchange.\n\nChoose it for a fixed printer station against a wall. The caveat is that it is not designed to roll around.",
+["Size","27.95 x 28.35 x 15.74 in"],["Drawers","2 lockable lateral"],["Build","Metal"],["Top","Open, flat"],
+["Wide deck for big printers","Locking drawers","Metal frame","Shallow depth saves space"],["Takes wall space","No casters listed"],
+"A fixed printer station with locked storage underneath.","You need to move the cabinet between rooms."],
+["GYIIYUO 2 Drawer","Best Extra Surface","GYIIYUO 2 Drawer File Cabinet with 24-Inch Extended Desktop",82,"A 24-inch extended desktop adds workspace beside the printer.",
+"The GYIIYUO pairs two drawers that fit A4 or letter files with a 24-inch extended desktop surface, rolling casters and fabric drawer fronts. The extra surface turns a storage unit into a mini workstation.\n\nIt ranks lower than the Letaya models because the fabric fronts and extension add convenience but not security. You get flexibility; you give up locks.\n\nIt works for a tiny apartment where one piece must be printer stand and side table. The caveat is that a heavy printer plus a laptop on the extension may stress the overhang.",
+["Desktop","24 in extended"],["Drawers","2, letter or A4"],["Base","Rolling casters"],["Fronts","Fabric"],
+["Extra tabletop space","Rolls easily","Fits letter files","Softer look"],["No lock listed","Overhang limits load"],
+"Small apartments that need one piece doing two jobs.","You plan to put heavy gear on the extension."],
+["SISESOL 2 Drawer","Best Budget","SISESOL 2 Drawer File Cabinet with Lock, Narrow Vertical Filing Cabinet",79,"A narrow metal vertical cabinet with two lockable drawers at the lowest price tier here.",
+"The SISESOL is a narrow vertical file cabinet with two lockable drawers, metal construction and an open flat top. It sits in the $25 to $50 bucket, the cheapest in this ranking.\n\nIt finishes last because the narrow body limits printer size and no casters are listed. You give up mobility and width for the lowest cost and a lock.\n\nPick it for a compact inkjet in a tight spot. The caveat is that a wide laser printer may overhang the narrow top.",
+["Layout","Narrow vertical"],["Drawers","2 lockable"],["Build","Metal"],["Price","$25 to $50"],
+["Lowest cost here","Locking drawers","Metal build","Narrow footprint"],["Small top surface","No casters listed"],
+"Budget buyers with a compact inkjet.","You own a wide laser or all-in-one printer."],
+];
+const products=picks.map((q,i)=>{const p=P(q[0]);return{id:q[0].toLowerCase().replace(/[^a-z0-9]+/g,"-"),rank:i+1,award:q[1],name:q[2],score:q[3],imageUrl:p.imageUrl,amazonUrl:`https://www.amazon.com/dp/${p.asin}?tag=primeareviews-20`,verdict:q[4],description:q[5],keySpecs:[q[6],q[7],q[8],q[9]].map(([label,value])=>({label,value})),pros:q[10],cons:q[11],idealFor:q[12],skipIf:q[13]}});
+const g={slug,category:"home-office",h1:"The 6 Best Printer Cabinets for Home Offices of 2026, Ranked & Reviewed",metaTitle:"Best Printer Cabinets 2026: Ranked & Reviewed",
+metaDescription:"Ranked and reviewed by Primea: six printer cabinets for home offices, compared on drawers, locks, casters and top space to find the right fit.",
+mainKeyword:"printer cabinets for home offices",publishedAt:"2026-11-01",updatedAt:"2026-11-01",readTime:"10 min",heroImage:F.heroImage,
+summary:"The DEVAISE 3-Drawer is our best overall printer cabinet for home offices. The Letaya 3 Drawer is the pick for lockable storage, while the VASAGLE CUSTOS suits tight corners. The SISESOL 2 Drawer is the cheapest way to get a lockable stand.",
+intro:["Most people buy a printer cabinet by looking at the drawers and forgetting the top. A printer needs a flat, stable deck that is deep and wide enough for its feet, and a cabinet that looks perfect in photos can leave an inch of printer hanging over the edge.","We reviewed eight cabinets and ranked six on the spec sheet: drawer count, locks, casters, build material and the size of the open top. Every pick below has a flat surface meant to hold a printer, and each is placed by how well it balances storage, mobility and footprint."],
+products,
+methodology:[
+{title:"Top surface",description:"We checked that each cabinet lists an open, flat top that can carry a printer."},
+{title:"Drawer storage",description:"We weighed drawer count and whether letter or A4 files are listed as fitting."},
+{title:"Security",description:"Lockable drawers earned credit for home offices that store personal paperwork."},
+{title:"Mobility",description:"Rolling casters matter for printers that move for paper loading and cable access."},
+{title:"Footprint and build",description:"We compared listed dimensions and material, metal against wood, for the space each cabinet takes."}],
+whatMatters:[
+{factor:"Top surface size",detail:"The top is the printer's platform, and it needs to exceed the printer's footprint on every side. A deck that is too small lets feet hang over and invites tipping. Measure your printer's width and depth, then compare them to the listed cabinet dimensions before you click buy."},
+{factor:"Drawer type",detail:"Lateral drawers pull out wide and hold files side to side, while vertical drawers stack narrow and deep. Lateral models suit wider printers, vertical ones fit tight corners. Check the listing for whether letter or A4 paper is listed as fitting."},
+{factor:"Locks",detail:"A lock keeps client files or tax records private in a shared home. Cheap cabinet locks deter casual access, not theft. Look for the word lockable in the product title or bullets and confirm that keys are included."},
+{factor:"Casters",detail:"Rolling wheels let you pull the cabinet out to clear paper jams or reach the power cord. They also mean the cabinet can shift if bumped. Check the listing for locking casters if your floor is uneven."},
+{factor:"Material and finish",detail:"Metal cabinets handle weight and often include locks, while wood-look boards blend into a living space. Heavier printers do better on metal. Confirm the material in the title or bullet points, not just the photo."}],
+howToChoose:[
+{subheading:"By Printer Size",intro:"Match the deck to the machine.",table:{headers:["Printer type","Our pick"],rows:[["Compact inkjet","SISESOL 2 Drawer"],["Standard all-in-one","DEVAISE 3-Drawer"],["Wide laser printer","Letaya 2 Drawer"],["Printer plus laptop space","GYIIYUO 2 Drawer"]]}},
+{subheading:"By Budget",table:{headers:["Spend","Our pick"],rows:[["$25 to $50","SISESOL 2 Drawer"],["$50 to $100, wood look","DEVAISE 3-Drawer"],["$50 to $100, locked metal","Letaya 3 Drawer"],["$50 to $100, compact","VASAGLE CUSTOS"]]}},
+{subheading:"Wood Look vs Metal",cards:[{label:"Wood look",text:"Blends into living areas and feels like furniture. The DEVAISE 3-Drawer and the fabric-fronted GYIIYUO 2 Drawer take this approach."},{label:"Metal",text:"Stronger under weight and usually lockable. The Letaya 3 Drawer, Letaya 2 Drawer and SISESOL 2 Drawer are metal."}],note:"Most buyers should default to the DEVAISE unless files need a lock."},
+{subheading:"By Space Constraint",table:{headers:["Situation","Our pick"],rows:[["Under a small desk","VASAGLE CUSTOS"],["Against a long wall","Letaya 2 Drawer"],["Narrow gap beside a desk","SISESOL 2 Drawer"],["Needs to roll between rooms","DEVAISE 3-Drawer"]]}},
+{subheading:"For Shared Households Specifically",cards:[{label:"Look for",text:"Lockable drawers and a sturdy build so personal or client paperwork stays private."},{label:"In this ranking",text:"The Letaya 3 Drawer pairs three locking drawers with a fully assembled metal body."}]},
+{subheading:"When to Spend More",cards:[{label:"Spend more if",text:"You file many documents or need the Letaya 3 Drawer's lock and extra capacity."},{label:"Save if",text:"You only store paper and ink, where the SISESOL 2 Drawer is enough."}]}],
+faq:[
+{q:"Will my printer fit on these cabinets?",a:"Each has an open flat top, but sizes vary. Compare your printer's width and depth to the cabinet's listed dimensions, and leave a margin so the feet sit fully on the surface."},
+{q:"What is the most common mistake?",a:"Buying for drawers and ignoring the top. A printer overhanging its deck is unstable. Measure the printer first."},
+{q:"Is a lockable cabinet worth it over an unlocked one?",a:"Only if you store sensitive papers. The Letaya and SISESOL picks have locks. For paper and ink supplies, an unlocked model like the DEVAISE is fine."},
+{q:"Do I need to assemble these?",a:"The Letaya 3 Drawer is listed as fully assembled. Others may need setup, so check the listing."},
+{q:"How do I keep a rolling cabinet from shifting?",a:"Place it on a flat floor and check whether the casters lock. Park it against a wall or desk leg when the printer runs."},
+{q:"Can a narrow cabinet hold a laser printer?",a:"Often not. Laser printers are wider and heavier, so a wide metal option like the Letaya 2 Drawer is safer than the narrow SISESOL."}],
+finalTake:"The DEVAISE 3-Drawer is the cabinet most home offices should buy, thanks to its storage, casters and flat deck. Choose the Letaya 3 Drawer if you need locks, or the VASAGLE CUSTOS if floor space is tight. The SISESOL 2 Drawer covers the budget end. Measure your printer first, and the rest is simple.",
+related:[]};
+fs.writeFileSync(`data/guides/${slug}.json`,JSON.stringify(g,null,1));
