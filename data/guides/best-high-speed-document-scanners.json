@@ -9,11 +9,8 @@
  "updatedAt": "2026-11-01",
  "readTime": "9 min",
  "heroImage": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
- "summary": "The Epson ES-400 II is our pick for sustained duplex batches thanks to ultrasonic double-feed detection and a 50-sheet feeder. The ScanSnap iX2400 offers the largest feeder with one-touch operation, the iX2500 adds Wi-Fi 6 and a touchscreen, and the Epson ES-580W is the wireless-first desktop choice.",
- "intro": [
-  "A scanner's rated speed means little if it jams, double-feeds or makes you refeed pages. For a stack of 80 pages, a good feeder and reliable multi-feed detection matter more than the headline pages per minute.",
-  "We reviewed eight scanners and kept four that are true desktop high-speed machines. Portable models rated around 12 to 16 pages per minute were dropped as not high-speed, and a duplicate ScanSnap listing was merged into one entry."
- ],
+ "summary": "The Epson ES-400 II is the best high-speed document scanner, a 50-sheet duplex desktop model with ultrasonic double-feed detection. The ScanSnap iX2400 offers a 100-sheet feeder rated at 45 ppm with one-touch operation, and the iX2500 adds Wi-Fi 6, a touchscreen and a multi-feed sensor. The Epson ES-580W is the wireless-first option, though it lists no feeder size or speed.",
+ "intro": ["A scanner's rated speed means little if it jams, double-feeds or makes you refeed pages. For a stack of eighty sheets, a reliable feeder and a double-feed alarm matter more than the headline pages per minute, because one missed page found at the end of a batch costs more time than a slower scan ever would. Speed is also a best case: color duplex always runs slower than the figure on the box.","Four scanners were checked against the Primea framework, with feeder size, double-feed detection, rated speed, software and connection weighing most. Prices appear as buckets. Two ScanSnap models and two Epson models cover the field, and the differences come down to sensors, feeder capacity and whether you want Wi-Fi."],
  "products": [
   {
    "id": "epson-workforce-es-400-ii",
@@ -24,7 +21,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=primeareviews-20",
    "verdict": "Duplex batch scanning with ultrasonic double-feed detection.",
-   "description": "The ES-400 II is a color duplex desktop scanner with a 50-sheet ADF and ultrasonic double-feed detection. It supports a TWAIN driver, searchable PDF OCR through Epson ScanSmart, auto crop and blank-page removal.\n\nIt wins on batch dependability: double-feed detection catches stuck pages before they corrupt a file. The ScanSnap models below carry larger feeders but this Epson pairs a mature software set with the sensor.\n\nBest for home offices that scan mixed stacks regularly. It is wired and desk-bound, so it does not suit travel.",
+   "description": "The ES-400 II is a color duplex desktop scanner with a 50-sheet ADF and ultrasonic double-feed detection. It supports a TWAIN driver, searchable PDF OCR through Epson ScanSmart, auto crop and blank-page removal, in the $200 to $500 bucket. Ultrasonic sensing measures how much material is passing, which catches two sheets stuck together before one disappears from the file.\n\nIt wins on reliability: the sensor protects the batch, and the feeder is big enough for most home offices. The ScanSnap models hold more paper, but the iX2400 lists no double-feed sensor.\n\nBuy it for home offices with regular mixed stacks. The caveats are that it is desktop only and has a smaller feeder than the ScanSnaps. Skip it if you need a portable scanner.",
    "keySpecs": [
     {"label": "Feeder", "value": "50-sheet ADF, duplex"},
     {"label": "Detection", "value": "Ultrasonic double-feed"},
@@ -45,7 +42,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0FWGTB3S3?tag=primeareviews-20",
    "verdict": "A 100-sheet feeder rated up to 45 ppm with one-touch operation.",
-   "description": "The iX2400 has a 100-sheet feeder, rated up to 45 pages per minute, and connects by wired USB only. ScanSnap Home software handles one-touch scan and drag-and-drop, with auto de-skew and blank-page removal.\n\nIt ranks second because it lacks the Epson's ultrasonic detection on the listing, but its 100-sheet feeder is twice as big. Wired-only keeps it simple.\n\nBest for people who want to press one button and walk away. Skip it if you need wireless.",
+   "description": "The iX2400 has a 100-sheet feeder, rated up to 45 pages per minute, and connects by wired USB only. ScanSnap Home software handles one-touch scan and drag-and-drop, with auto de-skew and blank-page removal, in the $200 to $500 bucket. A feeder that holds a hundred sheets lets you load a large pile and walk away.\n\nIt ranks second because it has the biggest feeder and the simplest control, but it lists no double-feed sensor, so a stuck pair could slip through unnoticed. The ES-400 II protects against that.\n\nBuy it for people who want simple one-button scanning. The caveats are USB only and no double-feed sensor listed. Skip it if you want wireless.",
    "keySpecs": [
     {"label": "Feeder", "value": "100 sheets"},
     {"label": "Speed", "value": "Up to 45 ppm rated"},
@@ -66,7 +63,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0F9B1H5VN?tag=primeareviews-20",
    "verdict": "Wi-Fi 6, USB-C, a touchscreen and a multi-feed sensor.",
-   "description": "The iX2500 has a 100-sheet feeder rated up to 45 pages per minute, Wi-Fi 6 and USB-C. It adds a multi-feed sensor, a brake roller system, a touchscreen with customizable profiles and cloud service support.\n\nIt ranks third because the price bucket is not confirmed in our data, while the iX2400 above is in the $200-500 bracket. It adds the screen and sensor.\n\nBest for shared offices that need wireless flexibility. Default to USB-C for large color batches.",
+   "description": "The iX2500 has a 100-sheet feeder rated up to 45 pages per minute, Wi-Fi 6 and USB-C. It adds a multi-feed sensor, a brake roller system, a touchscreen with customizable profiles and cloud service support. A multi-feed sensor is the detail the iX2400 lacks, and a touchscreen sets up destinations on the device.\n\nIt ranks third because the price is not confirmed and wireless is slower for big batches than USB. It is the most complete scanner on paper.\n\nBuy it for shared offices wanting wireless scanning. The caveats are an unconfirmed price and slower wireless batches. Skip it if you only scan over USB, where the iX2400 costs less.",
    "keySpecs": [
     {"label": "Feeder", "value": "100 sheets"},
     {"label": "Speed", "value": "Up to 45 ppm rated"},
@@ -87,7 +84,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B07KQZWPYN?tag=primeareviews-20",
    "verdict": "A wireless-first Epson desktop duplex scanner.",
-   "description": "The ES-580W is a wireless and USB duplex desktop scanner with a TWAIN driver, searchable PDF OCR, auto crop and blank-page removal.\n\nIt ranks last because the listing gives no feeder size or rated speed, so it is harder to verify as high-speed than the picks above. It costs in the $200-500 bracket.\n\nBest for buyers who prefer Epson software and want wireless by default. Check feeder size and speed on the live listing.",
+   "description": "The ES-580W is a wireless and USB duplex desktop scanner with a TWAIN driver, searchable PDF OCR, auto crop and blank-page removal, in the $200 to $500 bucket. Wireless by default makes it flexible in a shared space.\n\nIt ranks last because the listing gives no feeder size or rated speed, so it is harder to judge against the others. Without those figures, you cannot size it to your batch.\n\nBuy it for wireless-first Epson fans. The caveats are the unlisted feeder size and speed. Skip it if you want stated speed and feeder numbers.",
    "keySpecs": [
     {"label": "Type", "value": "Desktop duplex"},
     {"label": "Connection", "value": "Wireless and USB"},
@@ -108,11 +105,11 @@
   {"title": "Connectivity", "description": "USB, Wi-Fi and cloud options."}
  ],
  "whatMatters": [
-  {"factor": "Feeder capacity", "detail": "The feeder is the tray that holds your stack. A 100-sheet feeder fits a big batch in one go, while 50 sheets suits smaller stacks. Check the sheet count in the listing."},
-  {"factor": "Double-feed detection", "detail": "Double-feeds happen when two pages pull through at once, so one is missed. Ultrasonic and multi-feed sensors catch it. Look for those words in the specs."},
-  {"factor": "Rated speed", "detail": "Pages per minute is a best-case figure, usually for black-and-white at low resolution. Color duplex scans are slower. Treat 45 ppm as a ceiling."},
-  {"factor": "OCR and software", "detail": "Searchable PDFs let you find text later. Check for named software such as ScanSmart or ScanSnap Home and OCR support."},
-  {"factor": "Wired vs wireless", "detail": "USB is faster and more stable for big batches, while wireless is convenient for shared use. Confirm both are offered."}
+  {"factor": "Feeder capacity", "detail": "The feeder is the tray that holds your stack. A 100-sheet feeder fits a big batch in one go, while 50 sheets suits smaller stacks. Check the sheet count in the listing, and match it to your biggest regular batch, because a feeder you must refill mid-job breaks the flow. Fan the pages first to reduce jams."},
+  {"factor": "Double-feed detection", "detail": "Double-feeds happen when two pages pull through at once, so one is missed. Ultrasonic and multi-feed sensors catch it. Look for those words in the specs, as on the ES-400 II and iX2500, and treat their absence as a gap, and note that the iX2400 lists none, which matters for important documents. A missed page in a contract is costly."},
+  {"factor": "Rated speed", "detail": "Pages per minute is a best-case figure, usually for black-and-white at low resolution. Color duplex scans are slower. Treat 45 ppm as a ceiling for plain black-and-white pages, and read reviews of real batches, since a jam or a rescan costs more time than a few extra pages per minute saves."},
+  {"factor": "OCR and software", "detail": "Searchable PDFs let you find text later. Check for named software such as ScanSmart or ScanSnap Home and OCR support, because searching later beats rereading. Software also decides how files get named and filed, so a good suite saves time on every batch you run. Confirm that searchable output is built in, and check whether the software runs on your computer."},
+  {"factor": "Wired vs wireless", "detail": "USB is faster and more stable for big batches, while wireless is convenient for shared use. Confirm both are offered, as on the iX2500 and ES-580W, and check the wireless band on your office network. A wired connection is a safer default for heavy batches. Wireless suits quick single sheets."}
  ],
  "howToChoose": [
   {
@@ -167,13 +164,13 @@
   }
  ],
  "faq": [
-  {"q": "Which scanner has the biggest feeder?", "a": "Both ScanSnap models list 100-sheet feeders, double the Epson ES-400 II's 50 sheets."},
-  {"q": "What mistake do people make?", "a": "Trusting rated speed. Color duplex runs slower and double-feeds waste time."},
-  {"q": "Is the iX2500 worth it over the iX2400?", "a": "If you want Wi-Fi 6, a touchscreen and a multi-feed sensor, yes. For wired use, the iX2400 is simpler."},
-  {"q": "How do I set one up?", "a": "Install the maker's software, connect via USB or Wi-Fi and run a test scan following the manual."},
-  {"q": "How should I maintain it?", "a": "Clean the rollers and glass per the manual. Brake roller systems like the iX2500's wear over time."},
-  {"q": "Can they scan thick items?", "a": "Our data does not cover it for these, so check the listing before scanning thick or odd-sized items."}
+  {"q": "Which scanner has the biggest feeder?", "a": "Both ScanSnap models list 100-sheet feeders, double the Epson ES-400 II's 50 sheets. The ES-580W does not state its feeder size, so it is hard to compare."},
+  {"q": "What mistake do people make?", "a": "Trusting rated speed and ignoring the double-feed sensor. Color duplex runs slower and double-feeds waste time, so favor a scanner with a feed sensor. The ES-400 II and iX2500 both list one, and the iX2400 does not."},
+  {"q": "Is the iX2500 worth it over the iX2400?", "a": "If you want Wi-Fi 6, a touchscreen and a multi-feed sensor, yes. For wired use, the iX2400 is simpler and costs less. The extra features mostly help shared offices."},
+  {"q": "How do I set one up?", "a": "Install the maker's software first, connect via USB or Wi-Fi and run a test scan following the manual. Use a short test stack first, then check that files are named and sorted correctly."},
+  {"q": "How should I maintain it?", "a": "Clean the rollers and glass per the manual, roughly every few hundred pages. Brake roller systems like the iX2500's wear over time, so replace them on schedule, or pages start to slip through."},
+  {"q": "Can they scan thick items?", "a": "Our data does not cover it for these, so check the listing before scanning thick or odd-sized items. Use a flatbed or overhead scanner for books and fragile paper, since feeders can damage them."}
  ],
- "finalTake": "The Epson ES-400 II is the safest choice for dependable duplex batches. The ScanSnap iX2400 is best for big stacks and simple operation, while the iX2500 adds wireless and a touchscreen. Check the live listing for feeder size and price before buying.",
+ "finalTake": "Buy the ES-400 II for mixed stacks where a missed page would hurt, and the iX2400 for the biggest batches with simple controls. The iX2500 suits shared offices that want wireless scanning, and the ES-580W is for Epson fans who accept missing numbers. Treat rated speed as a ceiling, and look for a double-feed sensor.",
  "related": []
 }
