@@ -10,7 +10,10 @@
   "readTime": "11 min",
   "heroImage": "https://m.media-amazon.com/images/I/31DKJ3K5cUL._SL500_.jpg",
   "summary": "The CalDigit TS4 is the best dock for a MacBook Pro: certified Thunderbolt 4, 18 ports and native display output. The Plugable 16-in-1 is the pick for dual 4K on newer chips, and the UGREEN Revodok Max 208 is the best value. Thunderbolt 5 docks only pay off if your Mac supports them.",
-  "intro": ["The dock does not decide how many monitors your MacBook Pro can drive. The chip does. A base M-series chip supports one external display natively, while Pro and Max chips handle more, and no accessory raises that ceiling without a workaround. Listings that promise dual 4K from a cheap box usually mean DisplayLink, a software trick that compresses the picture and needs drivers.","We reviewed eight docks and hubs, from Thunderbolt 5 flagships to a plain USB-C hub, and ranked them by connection type, display support, charging power and port count. The order comes from spec sheets and owner-reported behavior. Check your own Mac's display limit in Apple's tech specs before buying, because that number caps every dock in this list."],
+  "intro": [
+    "The dock does not decide how many monitors your MacBook Pro can drive. The chip does. A base M-series chip supports one external display natively, while Pro and Max chips handle more, and no accessory raises that ceiling without a workaround. Listings that promise dual 4K from a cheap box usually mean DisplayLink, a software trick that compresses the picture and needs drivers.",
+    "We reviewed eight docks and hubs, from Thunderbolt 5 flagships to a plain USB-C hub, and ranked them by connection type, display support, charging power and port count. The order comes from spec sheets and owner-reported behavior. Check your own Mac's display limit in Apple's tech specs before buying, because that number caps every dock in this list."
+  ],
   "products": [
     {
       "id": "caldigit-ts4-18-port-thunderbolt-4-dock",
@@ -551,6 +554,6 @@
   "related": [
     "best-docking-stations-for-macbook-air",
     "best-budget-docking-stations-under-100",
-    "best-bluetooth-ergonomic-keyboards"
+    "best-docking-stations-for-4k-120hz-monitors"
   ]
 }

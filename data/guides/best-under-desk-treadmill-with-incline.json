@@ -10,7 +10,10 @@
   "readTime": "11 min",
   "heroImage": "https://m.media-amazon.com/images/I/41NdAh5oYwL._SL500_.jpg",
   "summary": "The TOPUTURE with 15 auto incline levels and a 3.0HP brushless motor is the best under desk treadmill with incline, though at $200 to $500 it is the priciest. The TRAILVIBER adds a 450 lb capacity, and the FOUSAE reaches 6.2 mph. The Superun is the budget fixed-incline pick at 6 percent.",
-  "intro": ["Steeper is not better at a desk. A 15 percent incline sounds impressive on a box, but when you are typing and reading, a steep pitch pulls your posture forward and your eyes off the screen. What a desk walker needs is an incline you can change without stepping off, plus a motor that holds speed steadily when the belt tilts under load.","We reviewed seven walking pads with a built-in incline and ranked them on how the angle is controlled, motor power, weight capacity and fit at a desk. One model that sold an incline pad as a separate accessory was dropped. Rankings come from listed specs, not gym-style trials, and the winners are the pads where the incline, motor and controls actually work together."],
+  "intro": [
+    "Steeper is not better at a desk. A 15 percent incline sounds impressive on a box, but when you are typing and reading, a steep pitch pulls your posture forward and your eyes off the screen. What a desk walker needs is an incline you can change without stepping off, plus a motor that holds speed steadily when the belt tilts under load.",
+    "We reviewed seven walking pads with a built-in incline and ranked them on how the angle is controlled, motor power, weight capacity and fit at a desk. One model that sold an incline pad as a separate accessory was dropped. Rankings come from listed specs, not gym-style trials, and the winners are the pads where the incline, motor and controls actually work together."
+  ],
   "products": [
     {
       "id": "toputure-15-level-auto-incline",
@@ -23,13 +26,33 @@
       "verdict": "The steepest range, the strongest motor and the fullest feature set.",
       "description": "The TOPUTURE offers an incline up to 15 percent across 15 automatic levels, driven by a 3.0HP quiet brushless motor, the most powerful in this guide. It adds an RGB LED screen, a Bluetooth speaker and remote and app control, and sells at $200 to $500. Brushless drives run cooler and last longer than brushed ones, and extra horsepower matters on incline, where the belt works harder against your weight.\n\nIt ranks first because you change the angle without stepping off, and the motor has headroom. The TRAILVIBER is close but offers nine levels and less range. The Superun and Gkyet need you to stop and set the angle by hand, which is the real friction at a working desk.\n\nBuy it if you want one treadmill that does everything. The caveat is the top price tier, and 15 percent is more than most desk work needs. Skip it if you want a simple flat-to-low pitch.",
       "keySpecs": [
-        { "label": "Incline", "value": "15 levels, up to 15%" },
-        { "label": "Motor", "value": "3.0HP brushless" },
-        { "label": "Controls", "value": "Remote and app" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Incline",
+          "value": "15 levels, up to 15%"
+        },
+        {
+          "label": "Motor",
+          "value": "3.0HP brushless"
+        },
+        {
+          "label": "Controls",
+          "value": "Remote and app"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["15 auto incline levels", "Strongest motor here", "Remote and app control", "Built-in speaker"],
-      "cons": ["Highest price tier", "Steeper than desk work needs"],
+      "pros": [
+        "15 auto incline levels",
+        "Strongest motor here",
+        "Remote and app control",
+        "Built-in speaker"
+      ],
+      "cons": [
+        "Highest price tier",
+        "Steeper than desk work needs"
+      ],
       "idealFor": "Walkers who want complete control over incline.",
       "skipIf": "You only want a simple flat-to-low pitch."
     },
@@ -44,13 +67,33 @@
       "verdict": "Motorized incline with the highest weight capacity in the guide.",
       "description": "The TRAILVIBER has a 12 percent incline across nine automatic levels, adjustable by remote or app, and a 450 lb capacity, the highest here. An RGB LED screen and a Bluetooth speaker round it out, and it sells at $200 to $500. A higher weight rating usually means a stronger deck and frame, which keeps the belt steady under a heavier walker on incline.\n\nIt ranks second because it matches the TOPUTURE on motorized incline but gives up some range and motor strength, with nine levels against fifteen. What it offers in return is the highest weight rating in this guide, 100 lb above the FOUSAE's 350 lb.\n\nChoose it for a heavier walker who wants motorized incline changes. The caveat is the same price tier as the leader, so the TOPUTURE is the better value unless you need the capacity. Skip it if the strongest motor is your priority.",
       "keySpecs": [
-        { "label": "Incline", "value": "9 levels, up to 12%" },
-        { "label": "Capacity", "value": "450 lb" },
-        { "label": "Controls", "value": "Remote and app" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Incline",
+          "value": "9 levels, up to 12%"
+        },
+        {
+          "label": "Capacity",
+          "value": "450 lb"
+        },
+        {
+          "label": "Controls",
+          "value": "Remote and app"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["450 lb capacity", "Motorized incline", "Bluetooth speaker", "Remote or app control"],
-      "cons": ["Fewer levels than TOPUTURE", "Costs more than mid-range"],
+      "pros": [
+        "450 lb capacity",
+        "Motorized incline",
+        "Bluetooth speaker",
+        "Remote or app control"
+      ],
+      "cons": [
+        "Fewer levels than TOPUTURE",
+        "Costs more than mid-range"
+      ],
       "idealFor": "Heavier users who want auto incline.",
       "skipIf": "You want the strongest motor available."
     },
@@ -65,13 +108,33 @@
       "verdict": "The fastest pad here, with 12 built-in workouts and a double frame.",
       "description": "The FOUSAE reaches a 6.2 mph top speed, the fastest in this guide, with a 10 percent incline, a 2.75HP brushless drive, a double frame build and 12 built-in HIIT programs. It supports 350 lb and sells at $100 to $200. A double frame resists flex when the belt pushes harder at speed, which matters for light jogging more than for walking.\n\nIt ranks third because speed and workouts matter more for exercise than for desk work. Against the TRAILVIBER, it lacks motorized incline levels, and against the Superun, it costs more for a feature set built around exercise. A fast belt also needs more floor behind the desk.\n\nBuy it if you want to jog or do interval sessions as well as walk at your desk. The caveat is that it is built for exercise first. Skip it if you only walk slowly while working, or lack clearance for a faster belt.",
       "keySpecs": [
-        { "label": "Incline", "value": "10%" },
-        { "label": "Top speed", "value": "6.2 mph" },
-        { "label": "Motor", "value": "2.75HP brushless" },
-        { "label": "Capacity", "value": "350 lb" }
+        {
+          "label": "Incline",
+          "value": "10%"
+        },
+        {
+          "label": "Top speed",
+          "value": "6.2 mph"
+        },
+        {
+          "label": "Motor",
+          "value": "2.75HP brushless"
+        },
+        {
+          "label": "Capacity",
+          "value": "350 lb"
+        }
       ],
-      "pros": ["6.2 mph top speed", "12 HIIT programs", "Double frame build", "350 lb capacity"],
-      "cons": ["Built for exercise first", "Needs more room to run"],
+      "pros": [
+        "6.2 mph top speed",
+        "12 HIIT programs",
+        "Double frame build",
+        "350 lb capacity"
+      ],
+      "cons": [
+        "Built for exercise first",
+        "Needs more room to run"
+      ],
       "idealFor": "People mixing desk walking with real workouts.",
       "skipIf": "You only walk slowly while working."
     },
@@ -86,13 +149,33 @@
       "verdict": "A simple 6 percent fixed incline with a 300 lb rating at a low price.",
       "description": "The Superun has a fixed 6 percent incline, a 2.5HP quiet motor, a remote and a folding 3-in-1 design, rated to 300 lb. It sits at $50 to $100. A fixed 6 percent is gentle, enough to raise your heart rate over flat walking without tilting your posture, and a folding body slides away when you are done.\n\nIt ranks fourth because the incline is fixed, so you cannot change pitch mid-walk the way you can on the auto models. In return you get a dependable, affordable pad, and it undercuts the TOPUTURE and TRAILVIBER by a full price tier. Against the Gkyet, it holds 35 lb more and does not need hand adjustment.\n\nChoose it if one gentle incline suits you. The caveat is that you cannot dial the angle up or down. Skip it if you want to vary the angle during the day.",
       "keySpecs": [
-        { "label": "Incline", "value": "6% fixed" },
-        { "label": "Motor", "value": "2.5HP quiet" },
-        { "label": "Capacity", "value": "300 lb" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Incline",
+          "value": "6% fixed"
+        },
+        {
+          "label": "Motor",
+          "value": "2.5HP quiet"
+        },
+        {
+          "label": "Capacity",
+          "value": "300 lb"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Low price", "300 lb capacity", "Folding design", "Remote included"],
-      "cons": ["Incline is fixed", "Fewer smart features"],
+      "pros": [
+        "Low price",
+        "300 lb capacity",
+        "Folding design",
+        "Remote included"
+      ],
+      "cons": [
+        "Incline is fixed",
+        "Fewer smart features"
+      ],
       "idealFor": "Budget buyers who want gentle, steady incline.",
       "skipIf": "You want to vary the angle during the day."
     },
@@ -107,13 +190,33 @@
       "verdict": "A slim apartment-friendly pad with a manual 5 to 8 percent range.",
       "description": "The Gkyet offers a 5 to 8 percent adjustable incline with a 2.5HP quiet motor and 265 lb capacity, in a slim portable body with remote speed control. It sells at $50 to $100. The incline is set by hand, so you adjust it before you start. That keeps the mechanism simple, with no motor to lift the deck.\n\nIt ranks fifth because the incline range is narrow compared with the motorized pads, and capacity is lower than the Superun's 300 lb. It does give you a choice the fixed Superun does not, and a slim body suits small rooms. Against the TREAFLOW, it publishes its incline range, which that listing leaves out.\n\nBuy it for a small apartment where space and noise matter. The caveat is that you must stop to change the angle, and capacity is modest. Skip it if you want to change incline without stopping.",
       "keySpecs": [
-        { "label": "Incline", "value": "5% to 8% manual" },
-        { "label": "Motor", "value": "2.5HP quiet" },
-        { "label": "Capacity", "value": "265 lb" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Incline",
+          "value": "5% to 8% manual"
+        },
+        {
+          "label": "Motor",
+          "value": "2.5HP quiet"
+        },
+        {
+          "label": "Capacity",
+          "value": "265 lb"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Adjustable incline range", "Slim portable body", "Quiet motor", "Low price tier"],
-      "cons": ["Manual adjustment", "Narrow incline range"],
+      "pros": [
+        "Adjustable incline range",
+        "Slim portable body",
+        "Quiet motor",
+        "Low price tier"
+      ],
+      "cons": [
+        "Manual adjustment",
+        "Narrow incline range"
+      ],
       "idealFor": "Apartment dwellers who want some incline choice.",
       "skipIf": "You want to change incline without stopping."
     },
@@ -128,13 +231,33 @@
       "verdict": "A handlebar for balance and a 0.6 to 3.8 mph remote speed range.",
       "description": "This walking pad adds a handlebar to an adjustable-incline deck, with a 2.5HP quiet, anti-slip motor and a remote covering 0.6 to 3.8 mph. It sells at $100 to $200. The handlebar gives something to hold on a slope, which matters if you are worried about balance or recovering from an injury.\n\nIt ranks sixth because a handlebar sits awkwardly at a desk and the speed range is walking only. It does give more stability when the incline is raised, which the Superun and Gkyet cannot match. Against the TREAFLOW, it describes its incline as adjustable but leaves the range unstated.\n\nChoose it if balance is a concern on a slope. The caveat is that the bar may block a standing desk setup, so check the clearance under your desk. Skip it if you need clear space for a standing desk.",
       "keySpecs": [
-        { "label": "Support", "value": "Handlebar" },
-        { "label": "Speed", "value": "0.6 to 3.8 mph" },
-        { "label": "Motor", "value": "2.5HP quiet" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Support",
+          "value": "Handlebar"
+        },
+        {
+          "label": "Speed",
+          "value": "0.6 to 3.8 mph"
+        },
+        {
+          "label": "Motor",
+          "value": "2.5HP quiet"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Handlebar for balance", "Adjustable incline", "Anti-slip belt design", "Remote speed control"],
-      "cons": ["Handlebar can block desk", "Walking speeds only"],
+      "pros": [
+        "Handlebar for balance",
+        "Adjustable incline",
+        "Anti-slip belt design",
+        "Remote speed control"
+      ],
+      "cons": [
+        "Handlebar can block desk",
+        "Walking speeds only"
+      ],
       "idealFor": "Users who want a handhold on an incline.",
       "skipIf": "You need clear space under a standing desk."
     },
@@ -149,100 +272,235 @@
       "verdict": "A clear LED readout for speed, time, distance and calories.",
       "description": "The TREAFLOW has a 2.5HP motor, a 265 lb capacity, a remote and an LED display for speed, time, distance and calories, in a portable under-desk design. It sells at $100 to $200. A readout you can see at a glance helps a walker track steps against a daily goal without opening an app.\n\nIt ranks last because the listing gives little detail on the incline itself, and it costs more than the Superun or Gkyet, both of which say plainly what they offer. Display is its clear selling point. Against the Walking Pad with Handle Bar, it matches the motor and tier but skips the handhold.\n\nGet it if tracking numbers at a glance matters. The caveat is that the incline specifics are thin, so confirm the range before buying. Skip it if you want a clearly stated incline range.",
       "keySpecs": [
-        { "label": "Motor", "value": "2.5HP" },
-        { "label": "Capacity", "value": "265 lb" },
-        { "label": "Display", "value": "LED readout" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Motor",
+          "value": "2.5HP"
+        },
+        {
+          "label": "Capacity",
+          "value": "265 lb"
+        },
+        {
+          "label": "Display",
+          "value": "LED readout"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Clear LED display", "Remote control", "Portable design", "Tracks distance and calories"],
-      "cons": ["Incline details thin", "Pricier than budget pads"],
+      "pros": [
+        "Clear LED display",
+        "Remote control",
+        "Portable design",
+        "Tracks distance and calories"
+      ],
+      "cons": [
+        "Incline details thin",
+        "Pricier than budget pads"
+      ],
       "idealFor": "Walkers who like to watch their stats.",
       "skipIf": "You want a clearly stated incline range."
     }
   ],
   "methodology": [
-    { "title": "Incline control", "description": "We scored whether incline is fixed, manual or motorized, and how wide the range runs." },
-    { "title": "Motor power", "description": "Stated horsepower from 2.5HP to 3.0HP was compared for headroom and noise." },
-    { "title": "Weight capacity", "description": "Listed capacity from 265 lb to 450 lb was weighed for who each pad suits." },
-    { "title": "Desk fit", "description": "Compact footprints, handlebars and fold designs were assessed for use under a desk." },
-    { "title": "Controls and display", "description": "Remote, app and screen features were compared for ease of use mid-task." }
+    {
+      "title": "Incline control",
+      "description": "We scored whether incline is fixed, manual or motorized, and how wide the range runs."
+    },
+    {
+      "title": "Motor power",
+      "description": "Stated horsepower from 2.5HP to 3.0HP was compared for headroom and noise."
+    },
+    {
+      "title": "Weight capacity",
+      "description": "Listed capacity from 265 lb to 450 lb was weighed for who each pad suits."
+    },
+    {
+      "title": "Desk fit",
+      "description": "Compact footprints, handlebars and fold designs were assessed for use under a desk."
+    },
+    {
+      "title": "Controls and display",
+      "description": "Remote, app and screen features were compared for ease of use mid-task."
+    }
   ],
   "whatMatters": [
-    { "factor": "Manual vs auto incline", "detail": "Manual incline needs you to stop and adjust the pad before you start, while auto incline changes the angle by remote or app as you walk. At a working desk, stopping to tweak a deck is the friction that kills the habit. Check the listing for auto incline and the number of levels, and whether the remote or app does the change." },
-    { "factor": "Incline percentage", "detail": "A 5 to 8 percent range suits gentle desk work, while 12 to 15 percent is for workouts. A steeper pitch can pull your posture forward and strain your calves. Check the maximum percent in the title and decide how steep you will really use before paying for range." },
-    { "factor": "Motor power", "detail": "Horsepower drives belt smoothness under load, especially on incline, where the motor pushes against your weight. 2.5HP is typical, and the TOPUTURE's 3.0HP gives headroom. Look for the HP figure and the words quiet or brushless in the listing, since a loud motor is hard to share with a phone call." },
-    { "factor": "Weight capacity", "detail": "Capacity should exceed your body weight with margin, because the deck sees more force when you walk than when you stand. Ratings run from 265 lb to 450 lb here. Check the stated limit and add a safety buffer, especially if you plan to use a steep incline. Remember that the rating includes you, not just the load." },
-    { "factor": "Footprint and storage", "detail": "An under-desk pad must slide away when not in use, so folding designs help. Check the folded dimensions on the listing and compare them with your closet or under-bed space. Also check the belt length against your desk depth and your usual stride, so your stride has room, and confirm the folded height clears your bed or closet shelf." }
+    {
+      "factor": "Manual vs auto incline",
+      "detail": "Manual incline needs you to stop and adjust the pad before you start, while auto incline changes the angle by remote or app as you walk. At a working desk, stopping to tweak a deck is the friction that kills the habit. Check the listing for auto incline and the number of levels, and whether the remote or app does the change."
+    },
+    {
+      "factor": "Incline percentage",
+      "detail": "A 5 to 8 percent range suits gentle desk work, while 12 to 15 percent is for workouts. A steeper pitch can pull your posture forward and strain your calves. Check the maximum percent in the title and decide how steep you will really use before paying for range."
+    },
+    {
+      "factor": "Motor power",
+      "detail": "Horsepower drives belt smoothness under load, especially on incline, where the motor pushes against your weight. 2.5HP is typical, and the TOPUTURE's 3.0HP gives headroom. Look for the HP figure and the words quiet or brushless in the listing, since a loud motor is hard to share with a phone call."
+    },
+    {
+      "factor": "Weight capacity",
+      "detail": "Capacity should exceed your body weight with margin, because the deck sees more force when you walk than when you stand. Ratings run from 265 lb to 450 lb here. Check the stated limit and add a safety buffer, especially if you plan to use a steep incline. Remember that the rating includes you, not just the load."
+    },
+    {
+      "factor": "Footprint and storage",
+      "detail": "An under-desk pad must slide away when not in use, so folding designs help. Check the folded dimensions on the listing and compare them with your closet or under-bed space. Also check the belt length against your desk depth and your usual stride, so your stride has room, and confirm the folded height clears your bed or closet shelf."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Incline Control",
       "intro": "How you adjust the slope shapes daily use.",
       "table": {
-        "headers": ["Your preference", "Our pick"],
+        "headers": [
+          "Your preference",
+          "Our pick"
+        ],
         "rows": [
-          ["Full auto incline, 15 levels", "TOPUTURE 15% Auto Incline"],
-          ["Auto incline, heavier user", "TRAILVIBER 12% Auto Incline"],
-          ["Manual adjustment from 5 to 8 percent", "Gkyet 5%-8% Incline"],
-          ["One fixed gentle pitch", "Superun 6% Incline"],
-          ["Handhold on an incline", "Walking Pad with Handle Bar"]
+          [
+            "Full auto incline, 15 levels",
+            "TOPUTURE 15% Auto Incline"
+          ],
+          [
+            "Auto incline, heavier user",
+            "TRAILVIBER 12% Auto Incline"
+          ],
+          [
+            "Manual adjustment from 5 to 8 percent",
+            "Gkyet 5%-8% Incline"
+          ],
+          [
+            "One fixed gentle pitch",
+            "Superun 6% Incline"
+          ],
+          [
+            "Handhold on an incline",
+            "Walking Pad with Handle Bar"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Superun or Gkyet"],
-          ["$100 to $200", "FOUSAE 10% Incline or TREAFLOW"],
-          ["$200 to $500", "TOPUTURE or TRAILVIBER"]
+          [
+            "$50 to $100",
+            "Superun or Gkyet"
+          ],
+          [
+            "$100 to $200",
+            "FOUSAE 10% Incline or TREAFLOW"
+          ],
+          [
+            "$200 to $500",
+            "TOPUTURE or TRAILVIBER"
+          ]
         ]
       }
     },
     {
       "subheading": "Auto Incline vs Fixed or Manual",
       "cards": [
-        { "label": "Auto incline", "text": "The TOPUTURE and TRAILVIBER change slope by remote or app while you walk, costing more." },
-        { "label": "Fixed or manual", "text": "The Superun is fixed at 6 percent and the Gkyet adjusts by hand between 5 and 8 percent, both cheaper." }
+        {
+          "label": "Auto incline",
+          "text": "The TOPUTURE and TRAILVIBER change slope by remote or app while you walk, costing more."
+        },
+        {
+          "label": "Fixed or manual",
+          "text": "The Superun is fixed at 6 percent and the Gkyet adjusts by hand between 5 and 8 percent, both cheaper."
+        }
       ],
       "note": "Most desk walkers should default to a fixed or manual pad, the Superun, unless variety in pitch is worth the extra."
     },
     {
       "subheading": "By Body Weight",
       "table": {
-        "headers": ["Capacity needed", "Our pick"],
+        "headers": [
+          "Capacity needed",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to 265 lb", "Gkyet or TREAFLOW"],
-          ["Up to 300 lb", "Superun 6% Incline"],
-          ["Up to 350 lb", "FOUSAE 10% Incline"],
-          ["Up to 450 lb", "TRAILVIBER 12% Auto Incline"]
+          [
+            "Up to 265 lb",
+            "Gkyet or TREAFLOW"
+          ],
+          [
+            "Up to 300 lb",
+            "Superun 6% Incline"
+          ],
+          [
+            "Up to 350 lb",
+            "FOUSAE 10% Incline"
+          ],
+          [
+            "Up to 450 lb",
+            "TRAILVIBER 12% Auto Incline"
+          ]
         ]
       }
     },
     {
       "subheading": "For Small Apartments Specifically",
       "cards": [
-        { "label": "Look for", "text": "A slim, portable, quiet pad with a folding design that stores away." },
-        { "label": "In this ranking", "text": "The Gkyet has a slim portable body and the Superun a folding 3-in-1 design, both with a 2.5HP quiet motor." }
+        {
+          "label": "Look for",
+          "text": "A slim, portable, quiet pad with a folding design that stores away."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Gkyet has a slim portable body and the Superun a folding 3-in-1 design, both with a 2.5HP quiet motor."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want to change slope without stopping and enjoy extras like a speaker; the TOPUTURE leads. The TRAILVIBER adds 450 lb capacity." },
-        { "label": "Save if", "text": "A steady gentle incline suffices. The Superun or Gkyet delivers it in the $50-100 range." }
+        {
+          "label": "Spend more if",
+          "text": "You want to change slope without stopping and enjoy extras like a speaker; the TOPUTURE leads. The TRAILVIBER adds 450 lb capacity."
+        },
+        {
+          "label": "Save if",
+          "text": "A steady gentle incline suffices. The Superun or Gkyet delivers it in the $50-100 range."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can I use an incline walking pad under a desk?", "a": "Yes, but check the height of your desk and your chair. A handlebar model like the Walking Pad with Handle Bar may block a standing desk, while slim decks like the Gkyet slide beneath easily. Measure the desk height with your chair removed and your shoes on." },
-    { "q": "What incline is best for desk work?", "a": "A gentle 5 to 8 percent is plenty for typing, and a steeper pitch is for workouts. The Gkyet covers that range, and the Superun sits at 6 percent fixed. Anything steeper strains the calves for a day of typing." },
-    { "q": "Is auto incline worth it?", "a": "If you like to change pitch while you work, yes. The TOPUTURE and TRAILVIBER do it by remote or app. Otherwise a fixed Superun is cheaper and simpler, with nothing to adjust and fewer parts to fail." },
-    { "q": "Will it fit under my desk?", "a": "Measure the belt and the clearance first. Slim portable pads like the Gkyet are made for this, but check each listing. Allow room behind the deck for the belt and a safe step off, and keep a mat beneath it on hard floors." },
-    { "q": "How do I care for the belt?", "a": "Wipe the belt, keep the deck clear of debris, and check the manual on lubrication. Models like the TOPUTURE and Superun vary, so follow the guidance supplied with yours, and stop if the belt drifts to one side." },
-    { "q": "Can I run on these?", "a": "Only the FOUSAE lists a 6.2 mph top speed. The others, like the Superun and TOPUTURE, top out in the walking range, so do not run on them. The 3.8 mph handlebar model is for walking only, and jogging on a deck rated for walking risks the motor." }
+    {
+      "q": "Can I use an incline walking pad under a desk?",
+      "a": "Yes, but check the height of your desk and your chair. A handlebar model like the Walking Pad with Handle Bar may block a standing desk, while slim decks like the Gkyet slide beneath easily. Measure the desk height with your chair removed and your shoes on."
+    },
+    {
+      "q": "What incline is best for desk work?",
+      "a": "A gentle 5 to 8 percent is plenty for typing, and a steeper pitch is for workouts. The Gkyet covers that range, and the Superun sits at 6 percent fixed. Anything steeper strains the calves for a day of typing."
+    },
+    {
+      "q": "Is auto incline worth it?",
+      "a": "If you like to change pitch while you work, yes. The TOPUTURE and TRAILVIBER do it by remote or app. Otherwise a fixed Superun is cheaper and simpler, with nothing to adjust and fewer parts to fail."
+    },
+    {
+      "q": "Will it fit under my desk?",
+      "a": "Measure the belt and the clearance first. Slim portable pads like the Gkyet are made for this, but check each listing. Allow room behind the deck for the belt and a safe step off, and keep a mat beneath it on hard floors."
+    },
+    {
+      "q": "How do I care for the belt?",
+      "a": "Wipe the belt, keep the deck clear of debris, and check the manual on lubrication. Models like the TOPUTURE and Superun vary, so follow the guidance supplied with yours, and stop if the belt drifts to one side."
+    },
+    {
+      "q": "Can I run on these?",
+      "a": "Only the FOUSAE lists a 6.2 mph top speed. The others, like the Superun and TOPUTURE, top out in the walking range, so do not run on them. The 3.8 mph handlebar model is for walking only, and jogging on a deck rated for walking risks the motor."
+    }
   ],
   "finalTake": "Buy the TOPUTURE if you want full control over incline and the strongest motor here. Choose the TRAILVIBER for a heavier walker, the FOUSAE if you also jog, and the Superun for a simple fixed pitch at a low price. The Gkyet suits apartments, and the handlebar model suits users who need balance. Decide how steep you will really walk before paying for range.",
-  "related": []
+  "related": [
+    "best-standing-desk-treadmill",
+    "best-under-desk-treadmill",
+    "best-battery-operated-desk-clocks"
+  ]
 }

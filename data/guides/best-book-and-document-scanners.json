@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/41AkGJtV+CL._SL500_.jpg",
   "summary": "The CZUR ET24 Pro is the best scanner for books, an A3 overhead model with auto-flatten curve correction and OCR software. The CZUR Shine Ultra offers the same idea portably for less, and the VIISAN handles oversized A2 and A3 material. For loose paper, the ScanSnap iX2400 leads with a 100-sheet feeder, ahead of the Epson ES-400 II and the compact ScanSnap iX1300.",
-  "intro": ["The costly mistake in this category is expecting one machine to do both jobs. A sheet-fed scanner with an automatic document feeder races through loose pages, and it cannot take a bound book without cutting the spine out. An overhead book scanner copes with a thick volume gracefully and then crawls through a stack of invoices one page at a time. Decide which pile you actually have.","Our editors compared six scanners, three overhead models for books and three sheet-fed models for paper, from their published specs, then scored each one on the Primea framework. Capture area, curve correction, feeder size and OCR carried the most weight. Prices are buckets only, and nothing here substitutes for checking your largest book against the capture area."],
+  "intro": [
+    "The costly mistake in this category is expecting one machine to do both jobs. A sheet-fed scanner with an automatic document feeder races through loose pages, and it cannot take a bound book without cutting the spine out. An overhead book scanner copes with a thick volume gracefully and then crawls through a stack of invoices one page at a time. Decide which pile you actually have.",
+    "Our editors compared six scanners, three overhead models for books and three sheet-fed models for paper, from their published specs, then scored each one on the Primea framework. Capture area, curve correction, feeder size and OCR carried the most weight. Prices are buckets only, and nothing here substitutes for checking your largest book against the capture area."
+  ],
   "products": [
     {
       "id": "czur-et24-pro",
@@ -454,5 +457,9 @@
     }
   ],
   "finalTake": "Buy an overhead scanner like the CZUR ET24 Pro if books are your main job, and a sheet-fed ScanSnap or Epson if paper is. The Shine Ultra is the budget way into book scanning, and the VIISAN is for oversized volumes. No document scanner here can take a bound book, so pair two machines only if you truly have both piles.",
-  "related": []
+  "related": [
+    "best-compact-document-scanners",
+    "best-document-scanners-for-computers",
+    "best-document-scanners-for-lawyers"
+  ]
 }

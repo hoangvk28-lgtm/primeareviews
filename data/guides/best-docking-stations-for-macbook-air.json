@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
   "summary": "The Plugable TBT-UDM is the best overall, a certified Thunderbolt 4 dock with 100W charging and no drivers. The TobenONE 18-in-2 is the dual 4K choice through DisplayLink, the Anker DL6350 adds a third screen, and the WAVLINK reaches 5K. The cheaper PULWTOP, Anker 8-in-1 and UGREEN hubs cover budget and travel use.",
-  "intro": ["The MacBook Air has one hard limit that decides which dock you should buy. On most chips it drives a single external display natively. Any dock that advertises two monitors on an Air either leans on DisplayLink software to fake the second screen or quietly mirrors it, and a listing will not always tell you which. Buying on port count alone misses that entirely.","Our editors reviewed eight docks and hubs across that divide: one certified Thunderbolt dock for a clean single or 6K display, several DisplayLink docks for two or three screens, and plain hubs for travel. Rankings weigh display method, charging wattage, chip compatibility and port speeds, so check your Air's chip generation against each listing before ordering."],
+  "intro": [
+    "The MacBook Air has one hard limit that decides which dock you should buy. On most chips it drives a single external display natively. Any dock that advertises two monitors on an Air either leans on DisplayLink software to fake the second screen or quietly mirrors it, and a listing will not always tell you which. Buying on port count alone misses that entirely.",
+    "Our editors reviewed eight docks and hubs across that divide: one certified Thunderbolt dock for a clean single or 6K display, several DisplayLink docks for two or three screens, and plain hubs for travel. Rankings weigh display method, charging wattage, chip compatibility and port speeds, so check your Air's chip generation against each listing before ordering."
+  ],
   "products": [
     {
       "id": "plugable-tbt-udm-thunderbolt-4",
@@ -551,6 +554,6 @@
   "related": [
     "best-docking-stations-for-macbook-pro",
     "best-budget-docking-stations-under-100",
-    "best-8-quart-air-fryers"
+    "best-docking-stations-for-4k-120hz-monitors"
   ]
 }

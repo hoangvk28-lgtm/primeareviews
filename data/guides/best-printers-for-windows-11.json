@@ -10,7 +10,10 @@
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
   "summary": "The Brother DCP-L2640DW is the best printer for Windows 11: a compact mono laser with a full driver, duplex and scan tools. The Canon PIXMA TR4720 is the budget pick with a feeder, and the Epson ET-2800 wins on cost per page. Document-heavy offices should step up to the Epson ET-4800 for its feeder and Ethernet.",
-  "intro": ["Windows 11 will install a driver for nearly any printer the moment you plug it in, and that convenience is a trap. The generic driver prints a page, but it quietly hides the scan utility, the quality profiles and the maintenance tools that make a printer worth owning. Most \"my printer is useless\" complaints trace back to that stripped-down install, not to the hardware itself.","This ranking asks what each machine brings to a Windows 11 PC once the maker's full driver package is on it: scanning software, a feeder if you handle paperwork, wired or wireless networking and honest running costs. We reviewed seven current models and ranked them on the Primea framework, giving the most weight to everyday usability and long-term cost."],
+  "intro": [
+    "Windows 11 will install a driver for nearly any printer the moment you plug it in, and that convenience is a trap. The generic driver prints a page, but it quietly hides the scan utility, the quality profiles and the maintenance tools that make a printer worth owning. Most \"my printer is useless\" complaints trace back to that stripped-down install, not to the hardware itself.",
+    "This ranking asks what each machine brings to a Windows 11 PC once the maker's full driver package is on it: scanning software, a feeder if you handle paperwork, wired or wireless networking and honest running costs. We reviewed seven current models and ranked them on the Primea framework, giving the most weight to everyday usability and long-term cost."
+  ],
   "products": [
     {
       "id": "brother-dcp-l2640dw",
@@ -500,8 +503,8 @@
   ],
   "finalTake": "The Brother DCP-L2640DW is the right default for a Windows 11 home office that prints mostly text. Pick the Canon PIXMA TR4720 if you scan paperwork on a budget, the Epson ET-2800 for cheap color, and the ET-4800 for shared desks. Whatever you buy, install the maker's full driver, not the basic one Windows offers.",
   "related": [
-    "best-printers-without-ink-subscriptions",
-    "best-printers-without-wifi",
-    "best-bluetooth-ergonomic-keyboards"
+    "best-airprint-printers",
+    "best-all-in-one-printers-for-home-use",
+    "best-cartridge-free-printers"
   ]
 }

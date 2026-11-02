@@ -1,86 +1,465 @@
 {
- "slug": "best-dandelion-pullers", "category": "home-living",
- "h1": "The 6 Best Dandelion Pullers of 2026, Ranked & Reviewed",
- "metaTitle": "Best Dandelion Pullers 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: six dandelion pullers, from stand-up claw tools to a hand weeder, compared on design, claw count and price tier for lawn work.",
- "mainKeyword": "dandelion pullers", "publishedAt": "2026-11-01", "updatedAt": "2026-11-01", "readTime": "7 min",
- "heroImage": "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg",
- "summary": "Grampa's Weeder is the best dandelion puller for most lawns, pairing four claws with a long bamboo handle. Fiskars is the familiar-brand alternative, and RexWeed delivers four claws for under $25. The HAUSPROFI suits households of mixed heights, while the WORKPRO is the one to buy for beds and cracks.",
- "intro": ["A dandelion is a taproot with a flower on top, and the flower is the least important part. Snap the root at the surface and the plant regrows within weeks, which is why mowing and quick yanking never seem to win. The tool you choose decides whether you pull each weed once or keep fighting the same ones all summer.","Six pullers made this ranking, five stand-up claw tools and one short hand weeder. The listings publish few specs, so claw count, handle style and price tier did most of the sorting. Where a listing stays silent, such as the Fiskars on claws, we flag the gap instead of guessing."],
- "products": [
-  {"id": "grampas-weeder-original-bamboo", "rank": 1, "award": "Best Overall", "name": "Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long", "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B001D1FFZA?tag=primeareviews-20",
-   "verdict": "Four claws, a long bamboo handle and no kneeling.",
-   "description": "Grampa's Weeder is a stand-up puller with a four-claw head on a long bamboo handle. It sits in the $25 to $50 tier. You position the claws over the crown, step down and lever the plant out, with no kneeling involved.\n\nFour claws is the most any pick here lists, and that matters because a wider grip tends to lift a taproot whole instead of tearing it. RexWeed matches the claw count for less money, so the extra spend buys the longer-established design and the bamboo handle. The Fiskars has the brand but publishes no claw figure at all.\n\nChoose it for a lawn with scattered dandelions where you want to work upright. The caveat is thin documentation: the listing gives no weight or head material, so confirm those on the product page.",
-   "keySpecs": [{"label": "Claws", "value": "4"}, {"label": "Style", "value": "Stand-up"}, {"label": "Handle", "value": "Long bamboo"}, {"label": "Price tier", "value": "$25-50"}],
-   "pros": ["Four-claw head", "Long handle, no bending", "Stand-up design", "Established design"], "cons": ["Mid price tier", "Few specs listed"],
-   "idealFor": "Lawns with scattered dandelions.", "skipIf": "You want the lowest price."},
-  {"id": "fiskars-deluxe-stand-up-weed-puller", "rank": 2, "award": "Brand-Name Pick", "name": "Fiskars Deluxe Stand-Up Weed Puller Tool", "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/317GIA+WmJL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0030MIHAU?tag=primeareviews-20",
-   "verdict": "A familiar garden brand in a stand-up format.",
-   "description": "The Fiskars Deluxe is a stand-up weed puller from a long-running garden brand, priced in the $25 to $50 tier. It follows the same step-and-lever format as the others, and the Deluxe name points to a step above the brand's plainer model.\n\nIt lands second on reputation rather than published detail. Grampa's states four claws, while the Fiskars listing never gives a count, and that gap is the only reason it trails. Against the RexWeed, you pay a tier more for a name you can recognize and likely find parts or support for.\n\nBuy it if you trust the brand and want a no-kneeling tool for the lawn. The honest caveat is that you are partly buying on faith, so read the head description on the product page before ordering.",
-   "keySpecs": [{"label": "Style", "value": "Stand-up"}, {"label": "Brand", "value": "Fiskars"}, {"label": "Line", "value": "Deluxe"}, {"label": "Price tier", "value": "$25-50"}],
-   "pros": ["Trusted brand", "Stand-up tool", "No kneeling", "Deluxe line"], "cons": ["Claw count unlisted", "Same tier as Grampa's"],
-   "idealFor": "Brand-loyal gardeners.", "skipIf": "You want confirmed specs."},
-  {"id": "rexweed-stand-up-weed-puller", "rank": 3, "award": "Best Budget Four-Claw", "name": "RexWeed Stand Up Weed Puller Tool", "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/41ZrNmKjhML._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0FQ3R2NNR?tag=primeareviews-20",
-   "verdict": "Four claws and stand-up use for under $25.",
-   "description": "RexWeed puts a four-claw head on a stand-up frame and prices it under $25, the lowest tier among the full-size pullers. For anyone who pulls a few dozen weeds a season, that math is hard to argue with.\n\nIt ranks third because the claw count matches Grampa's while the price drops a full tier, yet the brand is lesser known and the listing offers no handle detail. That uncertainty about build quality is the entire gap between the two. It still beats the DIAINSKY outright, which asks more money for fewer claws.\n\nBuy it for casual weeding of a lawn or driveway edge. The caveat is durability: treat it as a basic tool and do not expect it to survive hard clay year after year.",
-   "keySpecs": [{"label": "Claws", "value": "4"}, {"label": "Style", "value": "Stand-up"}, {"label": "Brand", "value": "RexWeed"}, {"label": "Price tier", "value": "Under $25"}],
-   "pros": ["Four claws for less", "Stand-up design", "Lowest price tier", "Simple to use"], "cons": ["Lesser-known brand", "No handle detail"],
-   "idealFor": "Casual lawn weeding.", "skipIf": "You want a proven name."},
-  {"id": "hausprofi-stand-up-weed-puller-50l", "rank": 4, "award": "Best Bundle", "name": "HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden", "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/41d9JPykatL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GKMRBSGL?tag=primeareviews-20",
-   "verdict": "An adjustable long handle plus a 50L garden item.",
-   "description": "HAUSPROFI sells a stand-up puller whose long handle adjusts, bundled with a 50L garden item and priced in the $25 to $50 tier. The adjustable length is its distinguishing feature.\n\nAdjustability is useful in a home where a tall and a short gardener share one tool, since a fixed handle forces one of them to stoop or reach. It ranks fourth because the listing gives no claw count and the title is cut off, so the contents are less clear than the pullers above. The bundle adds value only if you want the extra piece.\n\nChoose it for a shared household tool. Before buying, confirm exactly what the 50L item is and how many claws the head carries, since neither is stated clearly.",
-   "keySpecs": [{"label": "Style", "value": "Stand-up"}, {"label": "Handle", "value": "Adjustable long"}, {"label": "Extra", "value": "50L garden item"}, {"label": "Price tier", "value": "$25-50"}],
-   "pros": ["Adjustable long handle", "Extra 50L garden item", "Stand-up design", "Shared use friendly"], "cons": ["Claw count unlisted", "Title is truncated"],
-   "idealFor": "Households with different heights.", "skipIf": "You do not need the extra item."},
-  {"id": "diainsky-weed-puller-3-claw", "rank": 5, "award": "Three-Claw Option", "name": "DIAINSKY Weed Puller Tool", "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/418DwKiLi1L._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GKG8TBSK?tag=primeareviews-20",
-   "verdict": "A three-claw stand-up puller in the highest price tier.",
-   "description": "DIAINSKY is a stand-up puller with three claws, and it carries the highest price tier in the group at $50 to $100. The design is distinct, with a slimmer head than the four-claw models.\n\nThat slimmer head is the only possible upside, and the listing does not state it as a benefit. On the numbers, you get fewer claws than Grampa's or RexWeed while paying more than either, which is why it sits fifth. It still outranks the WORKPRO because it keeps you standing.\n\nConsider it only if the three-claw design appeals to you for a specific reason, such as working in tighter turf. The caveat is plain: nothing on the listing justifies the premium, so most buyers should spend less on RexWeed.",
-   "keySpecs": [{"label": "Claws", "value": "3"}, {"label": "Style", "value": "Stand-up"}, {"label": "Brand", "value": "DIAINSKY"}, {"label": "Price tier", "value": "$50-100"}],
-   "pros": ["Three-claw head", "Stand-up design", "No kneeling", "Distinct design"], "cons": ["Highest price tier", "Fewer claws than rivals"],
-   "idealFor": "Buyers who like a three-claw head.", "skipIf": "You count dollars."},
-  {"id": "workpro-dandelion-weeder-hand", "rank": 6, "award": "Best Hand Tool", "name": "WORKPRO 11.5\" Dandelion Weeder Puller Tool with Soft Handle", "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/21NnI8Fcc5L._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0CNJPQTZ6?tag=primeareviews-20",
-   "verdict": "An 11.5 inch hand weeder with a soft handle for flower beds.",
-   "description": "The WORKPRO is an 11.5 inch dandelion weeder with a soft-grip handle, priced under $25. It is a hand tool, so you kneel or bend and work one plant at a time.\n\nIt comes last because that format is slower and harder on the back than any stand-up puller here, and it is the wrong choice for an open lawn. Its strength is reach into tight spots: flower beds, gaps between pavers and cracks along a path, where a four-claw head simply cannot fit.\n\nBuy it as a second tool for beds and edges, not as your only puller. The caveat is body strain, so skip it if you have knee or back problems or a large lawn to clear.",
-   "keySpecs": [{"label": "Length", "value": "11.5 inch"}, {"label": "Handle", "value": "Soft grip"}, {"label": "Type", "value": "Hand weeder"}, {"label": "Price tier", "value": "Under $25"}],
-   "pros": ["Soft grip handle", "Fits tight spaces", "Lowest price tier", "Compact to store"], "cons": ["Requires bending", "Slow on big lawns"],
-   "idealFor": "Flower beds and tight cracks.", "skipIf": "You have a large lawn or bad knees."}
- ],
- "methodology": [
-  {"title": "Tool form", "description": "Stand-up claw tools and hand weeders were compared on how much bending they demand."},
-  {"title": "Claw count", "description": "We noted the claws each listing states, since they grip the root."},
-  {"title": "Handle design", "description": "Long, adjustable and soft handles counted for comfort."},
-  {"title": "Price tier", "description": "Each tool's bucket was weighed against what its listing provides."},
-  {"title": "Spec clarity", "description": "Listings with clear specs ranked above vague ones."}
- ],
- "whatMatters": [
-  {"factor": "Stand-up or hand tool", "detail": "Stand-up pullers let you work upright and cover a lawn quickly, while a hand weeder needs you to kneel and suits tight spaces. The difference changes how long a session feels, and whether you finish. Check the form in the product title and the handle length in the bullets before choosing for your yard."},
-  {"factor": "Claw count", "detail": "Claws are the prongs that grip the root. More claws generally hold a taproot more evenly so it lifts whole instead of snapping, and Grampa's and RexWeed list four. Look for the claw number in the title or bullets, and be wary of listings such as the Fiskars that leave it out."},
-  {"factor": "Handle", "detail": "Handle length sets your posture and leverage. A long bamboo or adjustable handle keeps you upright and gives more pry force, while a short soft grip, as on the WORKPRO, spares your hand but needs bending. The listing normally names the handle material or length, so check it matches your height."},
-  {"factor": "Bundles", "detail": "Some listings add an extra item, such as the 50L garden piece with the HAUSPROFI. A bundle can be good value or just clutter the title. It matters because you may pay for something unused. Read the full title and image gallery to see precisely what ships in the box."},
-  {"factor": "Price tier", "detail": "Price tiers here run from under $25 to $50 to $100, and a higher tier does not mean more claws or better build. The DIAINSKY costs most yet lists three claws. Compare each tier against the specs actually printed, and choose the cheapest tool that states the features you need."}
- ],
- "howToChoose": [
-  {"subheading": "By Yard Type", "intro": "Match the tool to where you weed.", "table": {"headers": ["Yard", "Our pick"], "rows": [["Open lawn", "Grampa's Weeder Original Stand Up Weed Puller"], ["Mixed heights in the household", "HAUSPROFI Stand Up Weed Puller"], ["Flower beds and cracks", "WORKPRO 11.5\" Dandelion Weeder"], ["Casual lawn use", "RexWeed Stand Up Weed Puller"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["Under $25, stand-up", "RexWeed Stand Up Weed Puller"], ["Under $25, hand tool", "WORKPRO 11.5\" Dandelion Weeder"], ["$25-50", "Grampa's Weeder Original Stand Up Weed Puller"], ["$25-50, brand name", "Fiskars Deluxe Stand-Up Weed Puller"], ["$50-100", "DIAINSKY Weed Puller Tool"]]}},
-  {"subheading": "Stand-Up vs Hand Weeder", "cards": [{"label": "Stand-up", "text": "No kneeling and fast on big lawns. Grampa's, Fiskars, RexWeed, HAUSPROFI and DIAINSKY are stand-up."}, {"label": "Hand weeder", "text": "Better for tight beds and cracks, but you bend. The WORKPRO is the hand tool."}], "note": "Most buyers should default to a stand-up puller unless they weed in tight beds."},
-  {"subheading": "By Claw Count", "table": {"headers": ["Preference", "Our pick"], "rows": [["Four claws", "Grampa's Weeder Original Stand Up Weed Puller"], ["Four claws, cheapest", "RexWeed Stand Up Weed Puller"], ["Three claws", "DIAINSKY Weed Puller Tool"]]}},
-  {"subheading": "For Bad Backs and Knees Specifically", "cards": [{"label": "Look for", "text": "A long, ideally adjustable handle that lets you work upright."}, {"label": "In this ranking", "text": "The HAUSPROFI lists an adjustable long handle, and Grampa's Weeder lists a long bamboo one."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You want the established four-claw design. Grampa's is the pick at $25-50."}, {"label": "Save if", "text": "Weeding is occasional. RexWeed has four claws for under $25."}]}
- ],
- "faq": [
-  {"q": "Which has the most claws?", "a": "Grampa's Weeder and RexWeed both list four claws, which is the most in this ranking. The DIAINSKY lists three, and the Fiskars Deluxe does not publish a claw count at all, so confirm it on the product page."},
-  {"q": "Do I need a stand-up puller?", "a": "Only if you weed a lawn. A stand-up model like Grampa's keeps you upright and covers ground quickly. For flower beds and cracks, the WORKPRO hand weeder reaches places a claw head cannot, so many gardeners own both."},
-  {"q": "Why include the HAUSPROFI?", "a": "Because its adjustable long handle suits a household where people of different heights share one tool. Its listing title is truncated and gives no claw count, so verify the bundle contents before buying."},
-  {"q": "Is the DIAINSKY worth the price?", "a": "On paper, no. It lists three claws at the $50 to $100 tier, while RexWeed offers four claws under $25 and Grampa's offers four for $25 to $50. Only buy it if you specifically prefer its slimmer head."},
-  {"q": "When should I pull dandelions?", "a": "Pull after rain, when the soil is soft and the root slides out more easily. Place the claws over the crown, push down, and lever back so the taproot comes up whole, with Grampa's or RexWeed."},
-  {"q": "Does the Fiskars list claws?", "a": "It does not. The Fiskars Deluxe listing gives no claw count, so we cannot rank it on that criterion. Check the product page and images for the head design before you buy."}
- ],
- "finalTake": "Grampa's Weeder earns the top spot by combining four claws with a handle that keeps you standing. RexWeed is the sensible saving if you will use it casually. Pick the WORKPRO only when your weeds live in beds or pavement gaps. Whatever you choose, pull after rain and take the whole root.",
- "related": []
+  "slug": "best-dandelion-pullers",
+  "category": "home-living",
+  "h1": "The 6 Best Dandelion Pullers of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Dandelion Pullers 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: six dandelion pullers, from stand-up claw tools to a hand weeder, compared on design, claw count and price tier for lawn work.",
+  "mainKeyword": "dandelion pullers",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "7 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg",
+  "summary": "Grampa's Weeder is the best dandelion puller for most lawns, pairing four claws with a long bamboo handle. Fiskars is the familiar-brand alternative, and RexWeed delivers four claws for under $25. The HAUSPROFI suits households of mixed heights, while the WORKPRO is the one to buy for beds and cracks.",
+  "intro": [
+    "A dandelion is a taproot with a flower on top, and the flower is the least important part. Snap the root at the surface and the plant regrows within weeks, which is why mowing and quick yanking never seem to win. The tool you choose decides whether you pull each weed once or keep fighting the same ones all summer.",
+    "Six pullers made this ranking, five stand-up claw tools and one short hand weeder. The listings publish few specs, so claw count, handle style and price tier did most of the sorting. Where a listing stays silent, such as the Fiskars on claws, we flag the gap instead of guessing."
+  ],
+  "products": [
+    {
+      "id": "grampas-weeder-original-bamboo",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B001D1FFZA?tag=primeareviews-20",
+      "verdict": "Four claws, a long bamboo handle and no kneeling.",
+      "description": "Grampa's Weeder is a stand-up puller with a four-claw head on a long bamboo handle. It sits in the $25 to $50 tier. You position the claws over the crown, step down and lever the plant out, with no kneeling involved.\n\nFour claws is the most any pick here lists, and that matters because a wider grip tends to lift a taproot whole instead of tearing it. RexWeed matches the claw count for less money, so the extra spend buys the longer-established design and the bamboo handle. The Fiskars has the brand but publishes no claw figure at all.\n\nChoose it for a lawn with scattered dandelions where you want to work upright. The caveat is thin documentation: the listing gives no weight or head material, so confirm those on the product page.",
+      "keySpecs": [
+        {
+          "label": "Claws",
+          "value": "4"
+        },
+        {
+          "label": "Style",
+          "value": "Stand-up"
+        },
+        {
+          "label": "Handle",
+          "value": "Long bamboo"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Four-claw head",
+        "Long handle, no bending",
+        "Stand-up design",
+        "Established design"
+      ],
+      "cons": [
+        "Mid price tier",
+        "Few specs listed"
+      ],
+      "idealFor": "Lawns with scattered dandelions.",
+      "skipIf": "You want the lowest price."
+    },
+    {
+      "id": "fiskars-deluxe-stand-up-weed-puller",
+      "rank": 2,
+      "award": "Brand-Name Pick",
+      "name": "Fiskars Deluxe Stand-Up Weed Puller Tool",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/317GIA+WmJL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0030MIHAU?tag=primeareviews-20",
+      "verdict": "A familiar garden brand in a stand-up format.",
+      "description": "The Fiskars Deluxe is a stand-up weed puller from a long-running garden brand, priced in the $25 to $50 tier. It follows the same step-and-lever format as the others, and the Deluxe name points to a step above the brand's plainer model.\n\nIt lands second on reputation rather than published detail. Grampa's states four claws, while the Fiskars listing never gives a count, and that gap is the only reason it trails. Against the RexWeed, you pay a tier more for a name you can recognize and likely find parts or support for.\n\nBuy it if you trust the brand and want a no-kneeling tool for the lawn. The honest caveat is that you are partly buying on faith, so read the head description on the product page before ordering.",
+      "keySpecs": [
+        {
+          "label": "Style",
+          "value": "Stand-up"
+        },
+        {
+          "label": "Brand",
+          "value": "Fiskars"
+        },
+        {
+          "label": "Line",
+          "value": "Deluxe"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Trusted brand",
+        "Stand-up tool",
+        "No kneeling",
+        "Deluxe line"
+      ],
+      "cons": [
+        "Claw count unlisted",
+        "Same tier as Grampa's"
+      ],
+      "idealFor": "Brand-loyal gardeners.",
+      "skipIf": "You want confirmed specs."
+    },
+    {
+      "id": "rexweed-stand-up-weed-puller",
+      "rank": 3,
+      "award": "Best Budget Four-Claw",
+      "name": "RexWeed Stand Up Weed Puller Tool",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ZrNmKjhML._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FQ3R2NNR?tag=primeareviews-20",
+      "verdict": "Four claws and stand-up use for under $25.",
+      "description": "RexWeed puts a four-claw head on a stand-up frame and prices it under $25, the lowest tier among the full-size pullers. For anyone who pulls a few dozen weeds a season, that math is hard to argue with.\n\nIt ranks third because the claw count matches Grampa's while the price drops a full tier, yet the brand is lesser known and the listing offers no handle detail. That uncertainty about build quality is the entire gap between the two. It still beats the DIAINSKY outright, which asks more money for fewer claws.\n\nBuy it for casual weeding of a lawn or driveway edge. The caveat is durability: treat it as a basic tool and do not expect it to survive hard clay year after year.",
+      "keySpecs": [
+        {
+          "label": "Claws",
+          "value": "4"
+        },
+        {
+          "label": "Style",
+          "value": "Stand-up"
+        },
+        {
+          "label": "Brand",
+          "value": "RexWeed"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Four claws for less",
+        "Stand-up design",
+        "Lowest price tier",
+        "Simple to use"
+      ],
+      "cons": [
+        "Lesser-known brand",
+        "No handle detail"
+      ],
+      "idealFor": "Casual lawn weeding.",
+      "skipIf": "You want a proven name."
+    },
+    {
+      "id": "hausprofi-stand-up-weed-puller-50l",
+      "rank": 4,
+      "award": "Best Bundle",
+      "name": "HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41d9JPykatL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GKMRBSGL?tag=primeareviews-20",
+      "verdict": "An adjustable long handle plus a 50L garden item.",
+      "description": "HAUSPROFI sells a stand-up puller whose long handle adjusts, bundled with a 50L garden item and priced in the $25 to $50 tier. The adjustable length is its distinguishing feature.\n\nAdjustability is useful in a home where a tall and a short gardener share one tool, since a fixed handle forces one of them to stoop or reach. It ranks fourth because the listing gives no claw count and the title is cut off, so the contents are less clear than the pullers above. The bundle adds value only if you want the extra piece.\n\nChoose it for a shared household tool. Before buying, confirm exactly what the 50L item is and how many claws the head carries, since neither is stated clearly.",
+      "keySpecs": [
+        {
+          "label": "Style",
+          "value": "Stand-up"
+        },
+        {
+          "label": "Handle",
+          "value": "Adjustable long"
+        },
+        {
+          "label": "Extra",
+          "value": "50L garden item"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Adjustable long handle",
+        "Extra 50L garden item",
+        "Stand-up design",
+        "Shared use friendly"
+      ],
+      "cons": [
+        "Claw count unlisted",
+        "Title is truncated"
+      ],
+      "idealFor": "Households with different heights.",
+      "skipIf": "You do not need the extra item."
+    },
+    {
+      "id": "diainsky-weed-puller-3-claw",
+      "rank": 5,
+      "award": "Three-Claw Option",
+      "name": "DIAINSKY Weed Puller Tool",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/418DwKiLi1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GKG8TBSK?tag=primeareviews-20",
+      "verdict": "A three-claw stand-up puller in the highest price tier.",
+      "description": "DIAINSKY is a stand-up puller with three claws, and it carries the highest price tier in the group at $50 to $100. The design is distinct, with a slimmer head than the four-claw models.\n\nThat slimmer head is the only possible upside, and the listing does not state it as a benefit. On the numbers, you get fewer claws than Grampa's or RexWeed while paying more than either, which is why it sits fifth. It still outranks the WORKPRO because it keeps you standing.\n\nConsider it only if the three-claw design appeals to you for a specific reason, such as working in tighter turf. The caveat is plain: nothing on the listing justifies the premium, so most buyers should spend less on RexWeed.",
+      "keySpecs": [
+        {
+          "label": "Claws",
+          "value": "3"
+        },
+        {
+          "label": "Style",
+          "value": "Stand-up"
+        },
+        {
+          "label": "Brand",
+          "value": "DIAINSKY"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50-100"
+        }
+      ],
+      "pros": [
+        "Three-claw head",
+        "Stand-up design",
+        "No kneeling",
+        "Distinct design"
+      ],
+      "cons": [
+        "Highest price tier",
+        "Fewer claws than rivals"
+      ],
+      "idealFor": "Buyers who like a three-claw head.",
+      "skipIf": "You count dollars."
+    },
+    {
+      "id": "workpro-dandelion-weeder-hand",
+      "rank": 6,
+      "award": "Best Hand Tool",
+      "name": "WORKPRO 11.5\" Dandelion Weeder Puller Tool with Soft Handle",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/21NnI8Fcc5L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CNJPQTZ6?tag=primeareviews-20",
+      "verdict": "An 11.5 inch hand weeder with a soft handle for flower beds.",
+      "description": "The WORKPRO is an 11.5 inch dandelion weeder with a soft-grip handle, priced under $25. It is a hand tool, so you kneel or bend and work one plant at a time.\n\nIt comes last because that format is slower and harder on the back than any stand-up puller here, and it is the wrong choice for an open lawn. Its strength is reach into tight spots: flower beds, gaps between pavers and cracks along a path, where a four-claw head simply cannot fit.\n\nBuy it as a second tool for beds and edges, not as your only puller. The caveat is body strain, so skip it if you have knee or back problems or a large lawn to clear.",
+      "keySpecs": [
+        {
+          "label": "Length",
+          "value": "11.5 inch"
+        },
+        {
+          "label": "Handle",
+          "value": "Soft grip"
+        },
+        {
+          "label": "Type",
+          "value": "Hand weeder"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Soft grip handle",
+        "Fits tight spaces",
+        "Lowest price tier",
+        "Compact to store"
+      ],
+      "cons": [
+        "Requires bending",
+        "Slow on big lawns"
+      ],
+      "idealFor": "Flower beds and tight cracks.",
+      "skipIf": "You have a large lawn or bad knees."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Tool form",
+      "description": "Stand-up claw tools and hand weeders were compared on how much bending they demand."
+    },
+    {
+      "title": "Claw count",
+      "description": "We noted the claws each listing states, since they grip the root."
+    },
+    {
+      "title": "Handle design",
+      "description": "Long, adjustable and soft handles counted for comfort."
+    },
+    {
+      "title": "Price tier",
+      "description": "Each tool's bucket was weighed against what its listing provides."
+    },
+    {
+      "title": "Spec clarity",
+      "description": "Listings with clear specs ranked above vague ones."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Stand-up or hand tool",
+      "detail": "Stand-up pullers let you work upright and cover a lawn quickly, while a hand weeder needs you to kneel and suits tight spaces. The difference changes how long a session feels, and whether you finish. Check the form in the product title and the handle length in the bullets before choosing for your yard."
+    },
+    {
+      "factor": "Claw count",
+      "detail": "Claws are the prongs that grip the root. More claws generally hold a taproot more evenly so it lifts whole instead of snapping, and Grampa's and RexWeed list four. Look for the claw number in the title or bullets, and be wary of listings such as the Fiskars that leave it out."
+    },
+    {
+      "factor": "Handle",
+      "detail": "Handle length sets your posture and leverage. A long bamboo or adjustable handle keeps you upright and gives more pry force, while a short soft grip, as on the WORKPRO, spares your hand but needs bending. The listing normally names the handle material or length, so check it matches your height."
+    },
+    {
+      "factor": "Bundles",
+      "detail": "Some listings add an extra item, such as the 50L garden piece with the HAUSPROFI. A bundle can be good value or just clutter the title. It matters because you may pay for something unused. Read the full title and image gallery to see precisely what ships in the box."
+    },
+    {
+      "factor": "Price tier",
+      "detail": "Price tiers here run from under $25 to $50 to $100, and a higher tier does not mean more claws or better build. The DIAINSKY costs most yet lists three claws. Compare each tier against the specs actually printed, and choose the cheapest tool that states the features you need."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Yard Type",
+      "intro": "Match the tool to where you weed.",
+      "table": {
+        "headers": [
+          "Yard",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Open lawn",
+            "Grampa's Weeder Original Stand Up Weed Puller"
+          ],
+          [
+            "Mixed heights in the household",
+            "HAUSPROFI Stand Up Weed Puller"
+          ],
+          [
+            "Flower beds and cracks",
+            "WORKPRO 11.5\" Dandelion Weeder"
+          ],
+          [
+            "Casual lawn use",
+            "RexWeed Stand Up Weed Puller"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25, stand-up",
+            "RexWeed Stand Up Weed Puller"
+          ],
+          [
+            "Under $25, hand tool",
+            "WORKPRO 11.5\" Dandelion Weeder"
+          ],
+          [
+            "$25-50",
+            "Grampa's Weeder Original Stand Up Weed Puller"
+          ],
+          [
+            "$25-50, brand name",
+            "Fiskars Deluxe Stand-Up Weed Puller"
+          ],
+          [
+            "$50-100",
+            "DIAINSKY Weed Puller Tool"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Stand-Up vs Hand Weeder",
+      "cards": [
+        {
+          "label": "Stand-up",
+          "text": "No kneeling and fast on big lawns. Grampa's, Fiskars, RexWeed, HAUSPROFI and DIAINSKY are stand-up."
+        },
+        {
+          "label": "Hand weeder",
+          "text": "Better for tight beds and cracks, but you bend. The WORKPRO is the hand tool."
+        }
+      ],
+      "note": "Most buyers should default to a stand-up puller unless they weed in tight beds."
+    },
+    {
+      "subheading": "By Claw Count",
+      "table": {
+        "headers": [
+          "Preference",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Four claws",
+            "Grampa's Weeder Original Stand Up Weed Puller"
+          ],
+          [
+            "Four claws, cheapest",
+            "RexWeed Stand Up Weed Puller"
+          ],
+          [
+            "Three claws",
+            "DIAINSKY Weed Puller Tool"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Bad Backs and Knees Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A long, ideally adjustable handle that lets you work upright."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The HAUSPROFI lists an adjustable long handle, and Grampa's Weeder lists a long bamboo one."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want the established four-claw design. Grampa's is the pick at $25-50."
+        },
+        {
+          "label": "Save if",
+          "text": "Weeding is occasional. RexWeed has four claws for under $25."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which has the most claws?",
+      "a": "Grampa's Weeder and RexWeed both list four claws, which is the most in this ranking. The DIAINSKY lists three, and the Fiskars Deluxe does not publish a claw count at all, so confirm it on the product page."
+    },
+    {
+      "q": "Do I need a stand-up puller?",
+      "a": "Only if you weed a lawn. A stand-up model like Grampa's keeps you upright and covers ground quickly. For flower beds and cracks, the WORKPRO hand weeder reaches places a claw head cannot, so many gardeners own both."
+    },
+    {
+      "q": "Why include the HAUSPROFI?",
+      "a": "Because its adjustable long handle suits a household where people of different heights share one tool. Its listing title is truncated and gives no claw count, so verify the bundle contents before buying."
+    },
+    {
+      "q": "Is the DIAINSKY worth the price?",
+      "a": "On paper, no. It lists three claws at the $50 to $100 tier, while RexWeed offers four claws under $25 and Grampa's offers four for $25 to $50. Only buy it if you specifically prefer its slimmer head."
+    },
+    {
+      "q": "When should I pull dandelions?",
+      "a": "Pull after rain, when the soil is soft and the root slides out more easily. Place the claws over the crown, push down, and lever back so the taproot comes up whole, with Grampa's or RexWeed."
+    },
+    {
+      "q": "Does the Fiskars list claws?",
+      "a": "It does not. The Fiskars Deluxe listing gives no claw count, so we cannot rank it on that criterion. Check the product page and images for the head design before you buy."
+    }
+  ],
+  "finalTake": "Grampa's Weeder earns the top spot by combining four claws with a handle that keeps you standing. RexWeed is the sensible saving if you will use it casually. Pick the WORKPRO only when your weeds live in beds or pavement gaps. Whatever you choose, pull after rain and take the whole root.",
+  "related": [
+    "best-weed-pullers-for-taproots",
+    "best-heavy-duty-weed-pullers",
+    "best-stand-up-weed-pullers"
+  ]
 }

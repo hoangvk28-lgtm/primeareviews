@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
   "summary": "The Canon PIXMA TS6520 is the best small printer for a home office: compact, automatic duplex and an OLED screen. The Brother DCP-L2640DW is the laser pick for text-heavy, shared offices. The Canon TR4720 and Epson WF-2930 add document feeders for paperwork, the Brother HL-L2405W is a print-only laser, and the Epson ET-2400 wins on running cost if you have shelf room.",
-  "intro": ["Small printers hide a trap: the smaller the body, the more the maker leans on ink or toner for profit. A tiny machine that dries out between uses, or locks you into a subscription, costs far more over three years than the extra inches of width ever saved on a desk. Check the consumables before you check the size.","We reviewed seven compact machines suited to a spare room, a shelf or a corner of a desk. Each was ranked on size, the features a single worker actually uses, and what it demands in ink, toner or plans. The findings come from listing specs and product claims, so footprint and running cost carry as much weight as the sticker price does."],
+  "intro": [
+    "Small printers hide a trap: the smaller the body, the more the maker leans on ink or toner for profit. A tiny machine that dries out between uses, or locks you into a subscription, costs far more over three years than the extra inches of width ever saved on a desk. Check the consumables before you check the size.",
+    "We reviewed seven compact machines suited to a spare room, a shelf or a corner of a desk. Each was ranked on size, the features a single worker actually uses, and what it demands in ink, toner or plans. The findings come from listing specs and product claims, so footprint and running cost carry as much weight as the sticker price does."
+  ],
   "products": [
     {
       "id": "canon-pixma-ts6520",
@@ -23,13 +26,33 @@
       "verdict": "A compact all-in-one with a small OLED screen and automatic two-sided printing.",
       "description": "Canon's TS6520 is a compact color inkjet with print, scan and copy, a 1.42 inch OLED display and automatic duplex. The screen is the underrated part. It lets you pick paper, check ink and start copies at the machine without opening an app, which saves real friction on a solo desk. Standby draw is low, as with most inkjets.\n\nIt ranks first because it delivers the complete office set in a small body for the $50 to $100 bucket. Screenless siblings like the TS4320 style drop the display, while the Brother laser below costs more and gives up color.\n\nBuy it if you are a single user who prints a mix of documents and photos. The caveat is the missing document feeder, so scanning a ten-page contract means lifting the lid ten times, and cartridge ink adds up if you print heavily.",
       "keySpecs": [
-        { "label": "Type", "value": "Compact color inkjet" },
-        { "label": "Display", "value": "1.42 inch OLED" },
-        { "label": "Duplex", "value": "Automatic" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Type",
+          "value": "Compact color inkjet"
+        },
+        {
+          "label": "Display",
+          "value": "1.42 inch OLED"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Small OLED display", "Auto duplex", "Print, scan, copy", "Low standby power"],
-      "cons": ["No document feeder", "Cartridge ink costs"],
+      "pros": [
+        "Small OLED display",
+        "Auto duplex",
+        "Print, scan, copy",
+        "Low standby power"
+      ],
+      "cons": [
+        "No document feeder",
+        "Cartridge ink costs"
+      ],
       "idealFor": "A solo worker wanting full functions in a small body.",
       "skipIf": "You scan multi-page documents often."
     },
@@ -44,13 +67,33 @@
       "verdict": "A fast mono laser that handles duplex, copy and scan for shared offices.",
       "description": "The Brother DCP-L2640DW is a compact monochrome laser that duplexes, copies and scans. Its edge is chemistry: toner is a dry powder, so it never clogs the way liquid ink does during a quiet fortnight. Page output is also faster than the inkjet all-in-ones here, which matters when two or three people send jobs at once.\n\nIt takes second place because it costs more upfront, in the $200 to $500 bucket, and pulls more standby power than the Canon TS6520. It beats the HL-L2405W on the strength of its scanner and copier.\n\nBuy it for a shared home office that prints contracts, invoices and reports in bursts. The caveat is no color at all, and no automatic document feeder is listed, so multi-page scanning is still manual.",
       "keySpecs": [
-        { "label": "Type", "value": "Mono laser multifunction" },
-        { "label": "Functions", "value": "Duplex, copy, scan" },
-        { "label": "Toner", "value": "No drying out" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Type",
+          "value": "Mono laser multifunction"
+        },
+        {
+          "label": "Functions",
+          "value": "Duplex, copy, scan"
+        },
+        {
+          "label": "Toner",
+          "value": "No drying out"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["Faster than inkjets", "Toner stays usable", "Duplex printing", "Copy and scan"],
-      "cons": ["No color", "Higher standby power"],
+      "pros": [
+        "Faster than inkjets",
+        "Toner stays usable",
+        "Duplex printing",
+        "Copy and scan"
+      ],
+      "cons": [
+        "No color",
+        "Higher standby power"
+      ],
       "idealFor": "Shared home offices printing reliable text.",
       "skipIf": "You need color pages."
     },
@@ -65,13 +108,33 @@
       "verdict": "A compact color inkjet that adds an automatic feeder and fax.",
       "description": "Canon's TR4720 matters for one feature small printers usually skip: an automatic document feeder, paired with built-in fax. Feed a stack of pages and walk away, where a flatbed-only model needs you standing there. Setup runs through the Canon PRINT app, and the body stays compact in the $50 to $100 bucket.\n\nIt ranks third because the TS6520 above has the nicer display and more polished everyday handling, while this one wins only when paperwork is the job. It outranks the Epson WF-2930 on size, since the Epson is not the smallest.\n\nBuy it if you scan or fax multi-page originals, such as forms or signed agreements. The caveat is cartridge cost: both color and black cartridges drain quickly on heavy use, and the listing shows no screen to monitor levels.",
       "keySpecs": [
-        { "label": "Type", "value": "Compact color inkjet" },
-        { "label": "Feeder", "value": "Automatic document feeder" },
-        { "label": "Fax", "value": "Built in" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Type",
+          "value": "Compact color inkjet"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic document feeder"
+        },
+        {
+          "label": "Fax",
+          "value": "Built in"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Automatic document feeder", "Built-in fax", "Compact size", "App setup"],
-      "cons": ["Cartridge costs", "Single-user pace"],
+      "pros": [
+        "Automatic document feeder",
+        "Built-in fax",
+        "Compact size",
+        "App setup"
+      ],
+      "cons": [
+        "Cartridge costs",
+        "Single-user pace"
+      ],
       "idealFor": "Home offices that scan or fax stacks of pages.",
       "skipIf": "You want a display or color-heavy printing."
     },
@@ -86,13 +149,33 @@
       "verdict": "Feeder, duplex, fax and a color screen without laser pricing.",
       "description": "Epson's WF-2930 is the most feature-dense inkjet in this group. You get an automatic document feeder, duplex printing, fax, scan and copy, plus a 1.4 inch color display, all in the $50 to $100 bucket. That is laser-style functionality without the laser price.\n\nIt ranks fourth because cartridge refills are costlier over time than toner or tanks, and because its body is not the smallest. Against the Canon TR4720, the feeder and fax set is nearly identical at the same price, so the Epson's color screen and duplex are what you are paying for.\n\nBuy it if you run a one-person office and want every feature cheaply. The caveat is running cost: if you print hundreds of pages a month, the Epson ET-2400 ranked below it will cost less to feed within a year.",
       "keySpecs": [
-        { "label": "Type", "value": "Cartridge color inkjet" },
-        { "label": "Feeder", "value": "Automatic document feeder" },
-        { "label": "Display", "value": "1.4 inch color" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Type",
+          "value": "Cartridge color inkjet"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic document feeder"
+        },
+        {
+          "label": "Display",
+          "value": "1.4 inch color"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Feeder and duplex", "Fax included", "Color screen", "Mid-range feature value"],
-      "cons": ["Cartridge costs", "Not the smallest"],
+      "pros": [
+        "Feeder and duplex",
+        "Fax included",
+        "Color screen",
+        "Mid-range feature value"
+      ],
+      "cons": [
+        "Cartridge costs",
+        "Not the smallest"
+      ],
       "idealFor": "One-person offices wanting every feature cheaply.",
       "skipIf": "You print a lot and want low running costs."
     },
@@ -107,13 +190,33 @@
       "verdict": "A tiny laser that only prints, works with Alexa, and uses retail toner.",
       "description": "Brother's HL-L2405W is a print-only monochrome laser, and it knows it. There is no scanner or copier, which leaves a very small body focused on one job: crisp black text from retail toner cartridges that do not dry out. Alexa voice commands are supported, and the price lands between $100 and $200.\n\nFifth place reflects a single function limiting who it suits. The DCP-L2640DW above adds duplex, scanning and copying for a bigger jump in price, which makes this the cheaper way into laser, not the stronger one.\n\nBuy it if you are a writer, student or remote worker who prints text on paper and nothing else. The caveat is flexibility: you will need your phone or another device for any scan, and color pages are impossible.",
       "keySpecs": [
-        { "label": "Type", "value": "Mono laser, print only" },
-        { "label": "Voice", "value": "Alexa compatible" },
-        { "label": "Toner", "value": "Retail cartridges" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Type",
+          "value": "Mono laser, print only"
+        },
+        {
+          "label": "Voice",
+          "value": "Alexa compatible"
+        },
+        {
+          "label": "Toner",
+          "value": "Retail cartridges"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Crisp text output", "Alexa compatible", "Retail toner", "Toner does not dry out"],
-      "cons": ["No scan or copy", "Mono only"],
+      "pros": [
+        "Crisp text output",
+        "Alexa compatible",
+        "Retail toner",
+        "Toner does not dry out"
+      ],
+      "cons": [
+        "No scan or copy",
+        "Mono only"
+      ],
       "idealFor": "Writers and remote workers printing text only.",
       "skipIf": "You need to scan or copy."
     },
@@ -128,13 +231,33 @@
       "verdict": "A compact color all-in-one with a three-month ink plan trial.",
       "description": "HP's DeskJet 4355 is a compact color inkjet all-in-one with app setup through HP Smart and a three-month Instant Ink trial. The subscription model means ink is shipped to you based on pages printed rather than bought by cartridge, which can cut cost for steady printers and burden occasional ones. Standby draw is low.\n\nIt ranks sixth because the feature set is plain beside the Canon TR4720 and Epson WF-2930, both of which add document feeders at a similar price. Its real appeal is a low-risk way to test subscription ink.\n\nBuy it if you want to try the plan and print regularly. The caveat is dependence: after the trial, continued ink depends on that subscription, so skip it if you dislike recurring fees or print only a few pages a month.",
       "keySpecs": [
-        { "label": "Type", "value": "Compact color inkjet" },
-        { "label": "Ink plan", "value": "3-month trial included" },
-        { "label": "Setup", "value": "HP Smart app" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Type",
+          "value": "Compact color inkjet"
+        },
+        {
+          "label": "Ink plan",
+          "value": "3-month trial included"
+        },
+        {
+          "label": "Setup",
+          "value": "HP Smart app"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Compact body", "Trial ink plan", "App setup", "Low standby power"],
-      "cons": ["Subscription after trial", "Plain feature set"],
+      "pros": [
+        "Compact body",
+        "Trial ink plan",
+        "App setup",
+        "Low standby power"
+      ],
+      "cons": [
+        "Subscription after trial",
+        "Plain feature set"
+      ],
       "idealFor": "People curious about an ink subscription.",
       "skipIf": "You dislike subscription ink."
     },
@@ -149,101 +272,239 @@
       "verdict": "Cartridge-free tanks last months, though the body is bigger.",
       "description": "The Epson EcoTank ET-2400 replaces cartridges with refillable supertanks, so ink lasts for months between top-ups and each page costs a fraction of cartridge printing. It prints, scans and copies in color, in the $100 to $200 bucket.\n\nIt ranks last only because this is a list of small printers, and the ET-2400 has the largest body in the group. For a home office that prints weekly, it is the cheapest to run here, beating the cartridge machines like the TS6520 and WF-2930 once volume climbs. On pure ownership cost it would rank higher.\n\nBuy it if you print color often and have a shelf wide enough. The caveat is footprint, and no document feeder is listed, so it also needs more desk or shelf room than the Canon models above.",
       "keySpecs": [
-        { "label": "Ink system", "value": "Cartridge-free tanks" },
-        { "label": "Functions", "value": "Print, scan, copy" },
-        { "label": "Refills", "value": "Months between" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Ink system",
+          "value": "Cartridge-free tanks"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy"
+        },
+        {
+          "label": "Refills",
+          "value": "Months between"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Low cost per page", "Tanks last months", "Color scanning", "No cartridges"],
-      "cons": ["Larger body", "Needs more shelf space"],
+      "pros": [
+        "Low cost per page",
+        "Tanks last months",
+        "Color scanning",
+        "No cartridges"
+      ],
+      "cons": [
+        "Larger body",
+        "Needs more shelf space"
+      ],
       "idealFor": "Regular printers who have a bit of space.",
       "skipIf": "Space is the main constraint."
     }
   ],
   "methodology": [
-    { "title": "Footprint", "description": "We compared body size and noted which models are larger than typical cartridge inkjets." },
-    { "title": "Single-user features", "description": "Display, feeder, fax and duplex were weighed for solo workers." },
-    { "title": "Ink and toner approach", "description": "Cartridges, tanks, subscriptions and toner were compared on running cost and upkeep." },
-    { "title": "Standby behavior", "description": "We noted standby power and whether ink or toner can dry out between uses." },
-    { "title": "Value for the bucket", "description": "Price bucket was set against features and workload suitability." }
+    {
+      "title": "Footprint",
+      "description": "We compared body size and noted which models are larger than typical cartridge inkjets."
+    },
+    {
+      "title": "Single-user features",
+      "description": "Display, feeder, fax and duplex were weighed for solo workers."
+    },
+    {
+      "title": "Ink and toner approach",
+      "description": "Cartridges, tanks, subscriptions and toner were compared on running cost and upkeep."
+    },
+    {
+      "title": "Standby behavior",
+      "description": "We noted standby power and whether ink or toner can dry out between uses."
+    },
+    {
+      "title": "Value for the bucket",
+      "description": "Price bucket was set against features and workload suitability."
+    }
   ],
   "whatMatters": [
-    { "factor": "Body size", "detail": "Body size is the printer's real footprint, including the tray and the clearance needed for the lid. Tank models like the Epson ET-2400 are larger than cartridge inkjets, and that matters on a shelf or narrow desk. Find the dimensions in the spec table, then measure your space with the output tray extended before you order." },
-    { "factor": "Laser vs inkjet", "detail": "Laser and inkjet differ in how they fail. Lasers print text fast and toner never dries out, while inkjets handle color and photos but can clog if left idle for weeks. Check the printer type in the title, then match it to how often you print. Bursts of text favor the Brother lasers, steady color favors inkjets." },
-    { "factor": "Document feeder", "detail": "An automatic document feeder scans or copies multi-page originals without you standing at the glass. It matters for contracts, forms and tax paperwork, and it is missing on the Canon TS6520. Search the bullets for ADF or automatic document feeder, as the Canon TR4720 and Epson WF-2930 list, rather than assuming a scanner includes one." },
-    { "factor": "Ink plan", "detail": "Ink plans trade a lower monthly cost for ongoing commitment. A subscription like HP Instant Ink ships cartridges based on pages printed, which suits regular printers but can frustrate occasional ones. The HP DeskJet 4355 includes a three-month trial. Read the listing for plan terms and for what happens once the trial ends." },
-    { "factor": "Display and setup", "detail": "A display and app setup change daily friction more than speed specs do. A small screen, like the 1.42 inch OLED on the Canon TS6520, lets you handle paper, ink and copies at the machine, while app setup eases WiFi pairing. Look for a display size in the bullets, and note which app manages setup." }
+    {
+      "factor": "Body size",
+      "detail": "Body size is the printer's real footprint, including the tray and the clearance needed for the lid. Tank models like the Epson ET-2400 are larger than cartridge inkjets, and that matters on a shelf or narrow desk. Find the dimensions in the spec table, then measure your space with the output tray extended before you order."
+    },
+    {
+      "factor": "Laser vs inkjet",
+      "detail": "Laser and inkjet differ in how they fail. Lasers print text fast and toner never dries out, while inkjets handle color and photos but can clog if left idle for weeks. Check the printer type in the title, then match it to how often you print. Bursts of text favor the Brother lasers, steady color favors inkjets."
+    },
+    {
+      "factor": "Document feeder",
+      "detail": "An automatic document feeder scans or copies multi-page originals without you standing at the glass. It matters for contracts, forms and tax paperwork, and it is missing on the Canon TS6520. Search the bullets for ADF or automatic document feeder, as the Canon TR4720 and Epson WF-2930 list, rather than assuming a scanner includes one."
+    },
+    {
+      "factor": "Ink plan",
+      "detail": "Ink plans trade a lower monthly cost for ongoing commitment. A subscription like HP Instant Ink ships cartridges based on pages printed, which suits regular printers but can frustrate occasional ones. The HP DeskJet 4355 includes a three-month trial. Read the listing for plan terms and for what happens once the trial ends."
+    },
+    {
+      "factor": "Display and setup",
+      "detail": "A display and app setup change daily friction more than speed specs do. A small screen, like the 1.42 inch OLED on the Canon TS6520, lets you handle paper, ink and copies at the machine, while app setup eases WiFi pairing. Look for a display size in the bullets, and note which app manages setup."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Work Type",
       "intro": "What your day involves decides the machine.",
       "table": {
-        "headers": ["Work", "Our pick"],
+        "headers": [
+          "Work",
+          "Our pick"
+        ],
         "rows": [
-          ["General solo work", "Canon PIXMA TS6520"],
-          ["Mostly text, shared", "Brother DCP-L2640DW"],
-          ["Paper-heavy with fax", "Canon PIXMA TR4720"],
-          ["Every feature on a budget", "Epson Workforce WF-2930"],
-          ["Print only, no scanning", "Brother HL-L2405W"]
+          [
+            "General solo work",
+            "Canon PIXMA TS6520"
+          ],
+          [
+            "Mostly text, shared",
+            "Brother DCP-L2640DW"
+          ],
+          [
+            "Paper-heavy with fax",
+            "Canon PIXMA TR4720"
+          ],
+          [
+            "Every feature on a budget",
+            "Epson Workforce WF-2930"
+          ],
+          [
+            "Print only, no scanning",
+            "Brother HL-L2405W"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Canon PIXMA TS6520 or Canon PIXMA TR4720"],
-          ["$50 to $100, subscription ink", "HP DeskJet 4355"],
-          ["$100 to $200", "Brother HL-L2405W or Epson EcoTank ET-2400"],
-          ["$200 to $500", "Brother DCP-L2640DW"]
+          [
+            "$50 to $100",
+            "Canon PIXMA TS6520 or Canon PIXMA TR4720"
+          ],
+          [
+            "$50 to $100, subscription ink",
+            "HP DeskJet 4355"
+          ],
+          [
+            "$100 to $200",
+            "Brother HL-L2405W or Epson EcoTank ET-2400"
+          ],
+          [
+            "$200 to $500",
+            "Brother DCP-L2640DW"
+          ]
         ]
       }
     },
     {
       "subheading": "Inkjet vs Laser",
       "cards": [
-        { "label": "Inkjet", "text": "The Canon TS6520 and TR4720, Epson WF-2930 and HP DeskJet 4355 print color, though ink can dry out when idle." },
-        { "label": "Laser", "text": "The Brother DCP-L2640DW and HL-L2405W print mono text quickly and the toner does not dry out between uses." }
+        {
+          "label": "Inkjet",
+          "text": "The Canon TS6520 and TR4720, Epson WF-2930 and HP DeskJet 4355 print color, though ink can dry out when idle."
+        },
+        {
+          "label": "Laser",
+          "text": "The Brother DCP-L2640DW and HL-L2405W print mono text quickly and the toner does not dry out between uses."
+        }
       ],
       "note": "Most home offices should default to an inkjet, the Canon TS6520, unless they print mainly black text."
     },
     {
       "subheading": "By Printing Frequency",
       "table": {
-        "headers": ["How often", "Our pick"],
+        "headers": [
+          "How often",
+          "Our pick"
+        ],
         "rows": [
-          ["Rarely, in bursts", "Brother HL-L2405W"],
-          ["Weekly, mixed", "Canon PIXMA TS6520"],
-          ["Daily in color", "Epson EcoTank ET-2400"],
-          ["Daily mono text", "Brother DCP-L2640DW"]
+          [
+            "Rarely, in bursts",
+            "Brother HL-L2405W"
+          ],
+          [
+            "Weekly, mixed",
+            "Canon PIXMA TS6520"
+          ],
+          [
+            "Daily in color",
+            "Epson EcoTank ET-2400"
+          ],
+          [
+            "Daily mono text",
+            "Brother DCP-L2640DW"
+          ]
         ]
       }
     },
     {
       "subheading": "For Tight Desk Spaces Specifically",
       "cards": [
-        { "label": "Look for", "text": "A compact chassis that fits a shelf or desk corner and does not need much clearance." },
-        { "label": "In this ranking", "text": "The Brother HL-L2405W and Canon TS6520 are the compact choices, while the Epson ET-2400 has the bigger body." }
+        {
+          "label": "Look for",
+          "text": "A compact chassis that fits a shelf or desk corner and does not need much clearance."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Brother HL-L2405W and Canon TS6520 are the compact choices, while the Epson ET-2400 has the bigger body."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You print often and reliability matters, so the Brother DCP-L2640DW or Epson ET-2400 pay back in upkeep." },
-        { "label": "Save if", "text": "You print occasionally. The Canon TS6520 or TR4720 covers it for less." }
+        {
+          "label": "Spend more if",
+          "text": "You print often and reliability matters, so the Brother DCP-L2640DW or Epson ET-2400 pay back in upkeep."
+        },
+        {
+          "label": "Save if",
+          "text": "You print occasionally. The Canon TS6520 or TR4720 covers it for less."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Will a small printer fit on a desk?", "a": "Most compact inkjets like the Canon TS6520 do, but check dimensions and measure with the tray open. The Epson ET-2400 is larger than cartridge models because it carries refillable tanks, so it needs more shelf space." },
-    { "q": "What mistake do home office buyers make?", "a": "Ignoring running costs. A cheap printer with expensive cartridges, such as the HP DeskJet 4355 outside its trial, costs more over a year than a pricier tank or laser. Estimate your monthly pages before choosing." },
-    { "q": "Is the Brother DCP-L2640DW worth it over the Canon TS6520?", "a": "If you print mainly text and share the machine, yes. Toner does not dry out and output is faster. For color, photos and a lower price, the Canon TS6520 is the better fit for one person." },
-    { "q": "How do I set one up?", "a": "Use the maker's app, such as Canon PRINT for the TR4720 or HP Smart for the DeskJet 4355, to join the printer to your WiFi and install drivers. Place the printer within a strong signal before starting." },
-    { "q": "How do I stop ink drying out?", "a": "Print a page every week or two. Inkjets like the Canon TR4720 clog if left idle. Lasers such as the Brother DCP-L2640DW avoid the issue because toner is dry powder, and the Epson ET-2400 tanks help with low-volume use." },
-    { "q": "Can I print from my phone?", "a": "Yes, wireless models support phone printing through their apps. The Brother HL-L2405W lists Alexa compatibility, and the Canon and HP models pair with their own apps. Make sure your phone and printer share the same network first." }
+    {
+      "q": "Will a small printer fit on a desk?",
+      "a": "Most compact inkjets like the Canon TS6520 do, but check dimensions and measure with the tray open. The Epson ET-2400 is larger than cartridge models because it carries refillable tanks, so it needs more shelf space."
+    },
+    {
+      "q": "What mistake do home office buyers make?",
+      "a": "Ignoring running costs. A cheap printer with expensive cartridges, such as the HP DeskJet 4355 outside its trial, costs more over a year than a pricier tank or laser. Estimate your monthly pages before choosing."
+    },
+    {
+      "q": "Is the Brother DCP-L2640DW worth it over the Canon TS6520?",
+      "a": "If you print mainly text and share the machine, yes. Toner does not dry out and output is faster. For color, photos and a lower price, the Canon TS6520 is the better fit for one person."
+    },
+    {
+      "q": "How do I set one up?",
+      "a": "Use the maker's app, such as Canon PRINT for the TR4720 or HP Smart for the DeskJet 4355, to join the printer to your WiFi and install drivers. Place the printer within a strong signal before starting."
+    },
+    {
+      "q": "How do I stop ink drying out?",
+      "a": "Print a page every week or two. Inkjets like the Canon TR4720 clog if left idle. Lasers such as the Brother DCP-L2640DW avoid the issue because toner is dry powder, and the Epson ET-2400 tanks help with low-volume use."
+    },
+    {
+      "q": "Can I print from my phone?",
+      "a": "Yes, wireless models support phone printing through their apps. The Brother HL-L2405W lists Alexa compatibility, and the Canon and HP models pair with their own apps. Make sure your phone and printer share the same network first."
+    }
   ],
   "finalTake": "Most home offices should buy the Canon TS6520: it is compact, prints both sides automatically and has a screen that makes daily use easier. Choose the Brother DCP-L2640DW if your work is text and shared among several people. Add a document feeder with the TR4720 or WF-2930 for paperwork, and consider the EcoTank if you print in volume and have the shelf space.",
-  "related": []
+  "related": [
+    "best-color-laser-printers-for-home-offices",
+    "best-duplex-printers-for-home-offices",
+    "best-fast-printers-for-home-offices"
+  ]
 }

@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
   "summary": "The ES Robbins Extra High Pile mat is the best chair mat for thick carpet, a 36 by 48 inch vinyl mat rated for pile over an inch with padding. The Marvelux Extra Thick is a 0.2 inch polycarbonate mat rated for every carpet depth, and the Floortex suits medium to high pile. The EverLife Extra High and High Pile mats add size, and the large Floortex and Marvelux High Pile mats cover plush with padding.",
-  "intro": ["The biggest chair-mat mistake on deep carpet is buying by size and looks while ignoring the pile rating. A mat built for low pile will sink into plush, curl at the corners and rock under the chair, and the casters will drag as if you were rolling through sand. Padding under the carpet adds to the effective depth, so the number that matters is pile plus underlay, and few buyers measure it.","Seven mats were compared here against the Primea framework, with stated pile rating, material, thickness, size and grip weighing most. Prices are buckets only. Vinyl and polycarbonate behave differently on soft ground, and thickness runs from 0.11 to 0.2 inch, so read the pile rating before you read the dimensions."],
+  "intro": [
+    "The biggest chair-mat mistake on deep carpet is buying by size and looks while ignoring the pile rating. A mat built for low pile will sink into plush, curl at the corners and rock under the chair, and the casters will drag as if you were rolling through sand. Padding under the carpet adds to the effective depth, so the number that matters is pile plus underlay, and few buyers measure it.",
+    "Seven mats were compared here against the Primea framework, with stated pile rating, material, thickness, size and grip weighing most. Prices are buckets only. Vinyl and polycarbonate behave differently on soft ground, and thickness runs from 0.11 to 0.2 inch, so read the pile rating before you read the dimensions."
+  ],
   "products": [
     {
       "id": "es-robbins-extra-high-pile-lip",
@@ -23,13 +26,33 @@
       "verdict": "A 36 by 48 inch vinyl mat rated for carpet over an inch deep, padding included.",
       "description": "At 36 by 48 inches with a lip and 0.2 inch of vinyl, this ES Robbins is built for the deepest carpets: the maker counts padding in the figure and claims it works past 1 inch. It sits in the $50 to $100 bucket. AnchorBar cleats bite into carpet fibers to stop the mat creeping, which a smooth underside cannot do.\n\nIt ranks first because the pile rating is the highest here at a standard desk size and a moderate price. Larger mats cost more, and the Floortex rating tops out lower.\n\nBuy it for deep plush carpet and a standard-size desk. The caveats are vinyl instead of polycarbonate and a size smaller than 46 by 60 mats. Skip it if you want a mat bigger than 36 by 48.",
       "keySpecs": [
-        { "label": "Size", "value": "36 x 48 inches plus lip" },
-        { "label": "Material", "value": "Vinyl" },
-        { "label": "Thickness", "value": "0.2 inch" },
-        { "label": "Pile rating", "value": "Over 1 inch with padding" }
+        {
+          "label": "Size",
+          "value": "36 x 48 inches plus lip"
+        },
+        {
+          "label": "Material",
+          "value": "Vinyl"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.2 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "Over 1 inch with padding"
+        }
       ],
-      "pros": ["Rated over 1 inch pile", "Standard desk size", "0.2 inch thick", "Lip included"],
-      "cons": ["Vinyl not polycarbonate", "Smaller than 46 x 60 mats"],
+      "pros": [
+        "Rated over 1 inch pile",
+        "Standard desk size",
+        "0.2 inch thick",
+        "Lip included"
+      ],
+      "cons": [
+        "Vinyl not polycarbonate",
+        "Smaller than 46 x 60 mats"
+      ],
       "idealFor": "Deep plush carpet and a standard-size desk.",
       "skipIf": "You want a mat bigger than 36 x 48."
     },
@@ -44,13 +67,33 @@
       "verdict": "The thickest mat here, rated for every carpet depth including plush.",
       "description": "The Marvelux Extra Thick is a 46 by 60 inch polycarbonate mat, 0.2 inch thick, the thickest in this guide, and rated for all carpet thicknesses including very high pile. It has a smooth back for dual use on hard floor, in the $100 to $200 bucket. Polycarbonate stays rigid, so it resists bowing under a rolling chair.\n\nIt ranks second because one rating covers any carpet, which suits people who may move or are unsure of their depth. The ES Robbins covers deep carpet for less but at a smaller size.\n\nBuy it if you are unsure of your carpet depth or likely to move. The caveats are the higher price and a large footprint. Skip it if your desk area is small.",
       "keySpecs": [
-        { "label": "Size", "value": "46 x 60 inches" },
-        { "label": "Material", "value": "Polycarbonate" },
-        { "label": "Thickness", "value": "0.2 inch" },
-        { "label": "Pile rating", "value": "All carpet depths" }
+        {
+          "label": "Size",
+          "value": "46 x 60 inches"
+        },
+        {
+          "label": "Material",
+          "value": "Polycarbonate"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.2 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "All carpet depths"
+        }
       ],
-      "pros": ["Rated for any pile", "Thickest in guide", "Large 46 x 60", "Polycarbonate rigidity"],
-      "cons": ["Higher price", "Large footprint"],
+      "pros": [
+        "Rated for any pile",
+        "Thickest in guide",
+        "Large 46 x 60",
+        "Polycarbonate rigidity"
+      ],
+      "cons": [
+        "Higher price",
+        "Large footprint"
+      ],
       "idealFor": "People unsure of their carpet depth or likely to move.",
       "skipIf": "Your desk area is small."
     },
@@ -65,13 +108,33 @@
       "verdict": "A 35 by 47 inch polycarbonate mat for pile over half an inch.",
       "description": "The Floortex is a 35 by 47 inch polycarbonate sheet, 0.11 inch thick, aimed at medium and high pile that is more than half an inch deep. It has a gripper back and sits in the $50 to $100 bucket. Half an inch of pile is typical of thick office carpet, which this mat fits well.\n\nIt ranks third because the rating tops out below the ES Robbins and Marvelux, but its price and size suit a standard desk. At 0.11 inch, it is thinner than the vinyl competition.\n\nBuy it for typical thick office carpet. The caveats are that it is not for extra-high pile and thinner than rivals. Skip it if your carpet is deeper than about an inch.",
       "keySpecs": [
-        { "label": "Size", "value": "35 x 47 inches" },
-        { "label": "Material", "value": "Polycarbonate" },
-        { "label": "Thickness", "value": "0.11 inch" },
-        { "label": "Pile rating", "value": "Medium to high, over 1/2 inch" }
+        {
+          "label": "Size",
+          "value": "35 x 47 inches"
+        },
+        {
+          "label": "Material",
+          "value": "Polycarbonate"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.11 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "Medium to high, over 1/2 inch"
+        }
       ],
-      "pros": ["Moderate price tier", "Polycarbonate", "Fits standard desks", "Medium to high pile rating"],
-      "cons": ["Not for extra-high pile", "Thinner than rivals"],
+      "pros": [
+        "Moderate price tier",
+        "Polycarbonate",
+        "Fits standard desks",
+        "Medium to high pile rating"
+      ],
+      "cons": [
+        "Not for extra-high pile",
+        "Thinner than rivals"
+      ],
       "idealFor": "Typical thick office carpet.",
       "skipIf": "Your carpet is deeper than about an inch."
     },
@@ -86,13 +149,33 @@
       "verdict": "A 45 by 53 inch vinyl mat with an extended lip for deep carpet.",
       "description": "The EverLife stretches to 45 by 53 inches of 0.2 inch vinyl, with a separate 25 by 12 inch lip, and targets pile deeper than 1 inch. It has AnchorBar cleats and a beveled edge, in the $100 to $200 bucket. A beveled edge makes it easier for the chair to roll on and off.\n\nIt ranks fourth because it is the roomy version of the ES Robbins top pick, though it costs a bucket more. The extended lip gives more room to slide under a desk.\n\nBuy it for deep carpet with a larger desk area. The caveats are a big footprint and a higher price than the 36 by 48 mat. Skip it if your room is small.",
       "keySpecs": [
-        { "label": "Size", "value": "45 x 53 plus 25 x 12 lip" },
-        { "label": "Material", "value": "Vinyl" },
-        { "label": "Thickness", "value": "0.2 inch" },
-        { "label": "Pile rating", "value": "Extra high, over 1 inch" }
+        {
+          "label": "Size",
+          "value": "45 x 53 plus 25 x 12 lip"
+        },
+        {
+          "label": "Material",
+          "value": "Vinyl"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.2 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "Extra high, over 1 inch"
+        }
       ],
-      "pros": ["More rolling room", "Extra-high pile rating", "0.2 inch thick", "Wide lip"],
-      "cons": ["Big footprint", "Costs more than 36 x 48"],
+      "pros": [
+        "More rolling room",
+        "Extra-high pile rating",
+        "0.2 inch thick",
+        "Wide lip"
+      ],
+      "cons": [
+        "Big footprint",
+        "Costs more than 36 x 48"
+      ],
       "idealFor": "Deep carpet with a larger desk area.",
       "skipIf": "Your room is small."
     },
@@ -107,13 +190,33 @@
       "verdict": "The largest Floortex footprint, rated for high or thick pile.",
       "description": "This Floortex is the roomiest in its line at 48 by 60 inches of 0.11 inch polycarbonate, made for high or thick plush pile. It lies flat quickly and is PVC-free, in the $100 to $200 bucket. A large mat gives L-shaped desks room to roll without leaving the surface.\n\nIt ranks fifth because the size is its main appeal; it is thinner than the Marvelux Extra Thick at 0.11 inch and rated lower than the extra-high mats. It sits above the Marvelux High Pile on its pile range.\n\nBuy it for wide or L-shaped desks on plush carpet. The caveats are thinner polycarbonate and the floor space it demands. Skip it if you need extra-high pile support.",
       "keySpecs": [
-        { "label": "Size", "value": "48 x 60 inches" },
-        { "label": "Material", "value": "Polycarbonate" },
-        { "label": "Thickness", "value": "0.11 inch" },
-        { "label": "Pile rating", "value": "High to thick" }
+        {
+          "label": "Size",
+          "value": "48 x 60 inches"
+        },
+        {
+          "label": "Material",
+          "value": "Polycarbonate"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.11 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "High to thick"
+        }
       ],
-      "pros": ["Large 48 x 60", "Polycarbonate", "High pile rating", "Floortex brand"],
-      "cons": ["Thinner than Marvelux", "Needs floor space"],
+      "pros": [
+        "Large 48 x 60",
+        "Polycarbonate",
+        "High pile rating",
+        "Floortex brand"
+      ],
+      "cons": [
+        "Thinner than Marvelux",
+        "Needs floor space"
+      ],
       "idealFor": "Wide or L-shaped desks on plush carpet.",
       "skipIf": "You need extra-high pile support."
     },
@@ -128,13 +231,33 @@
       "verdict": "A 48 by 60 inch mat rated up to three quarters of an inch, padding included.",
       "description": "The Marvelux High Pile gives you 48 by 60 inches of 0.11 inch polycarbonate, and its depth limit of three quarters of an inch already counts the padding underneath. It sits in the $100 to $200 bucket. A padding-inclusive rating is honest, because underlay is part of what the mat must flatten.\n\nIt ranks sixth because the padding-inclusive rating is an honest but lower ceiling than the extra-high mats. Its textured gripper back holds well, but it cannot take deep plush.\n\nBuy it for large desks on carpet with a padded underlay. The caveats are the lower pile ceiling and a cost per inch above the others. Skip it if your carpet is more than three-quarters of an inch deep.",
       "keySpecs": [
-        { "label": "Size", "value": "48 x 60 inches" },
-        { "label": "Material", "value": "Polycarbonate" },
-        { "label": "Thickness", "value": "0.11 inch" },
-        { "label": "Pile rating", "value": "Up to 3/4 inch with padding" }
+        {
+          "label": "Size",
+          "value": "48 x 60 inches"
+        },
+        {
+          "label": "Material",
+          "value": "Polycarbonate"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.11 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "Up to 3/4 inch with padding"
+        }
       ],
-      "pros": ["Padding-inclusive rating", "Large size", "Polycarbonate", "Clear specs"],
-      "cons": ["Lower pile ceiling", "Costs more per inch"],
+      "pros": [
+        "Padding-inclusive rating",
+        "Large size",
+        "Polycarbonate",
+        "Clear specs"
+      ],
+      "cons": [
+        "Lower pile ceiling",
+        "Costs more per inch"
+      ],
       "idealFor": "Large desks on carpet with a padded underlay.",
       "skipIf": "Your carpet is more than 3/4 inch deep."
     },
@@ -149,100 +272,235 @@
       "verdict": "A 46 by 60 inch vinyl mat for high pile up to an inch.",
       "description": "The EverLife High Pile covers 46 by 60 inches with 0.17 inch vinyl, sized for carpet that reaches up to 1 inch. It has AnchorBar cleats and a beveled Crystal Edge, in the $100 to $200 bucket. Vinyl is softer than polycarbonate and resists cracking.\n\nIt ranks last because the pile rating and thickness sit below the EverLife Extra High, while it costs similar money. The large size is its argument, and it does carry a lifetime warranty.\n\nBuy it for wide desks on high pile. The caveats are that it is thinner than the extra-high model and not for the deepest pile. Skip it if your pile exceeds an inch.",
       "keySpecs": [
-        { "label": "Size", "value": "46 x 60 inches" },
-        { "label": "Material", "value": "Vinyl" },
-        { "label": "Thickness", "value": "0.17 inch" },
-        { "label": "Pile rating", "value": "High pile up to 1 inch" }
+        {
+          "label": "Size",
+          "value": "46 x 60 inches"
+        },
+        {
+          "label": "Material",
+          "value": "Vinyl"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.17 inch"
+        },
+        {
+          "label": "Pile rating",
+          "value": "High pile up to 1 inch"
+        }
       ],
-      "pros": ["Large 46 x 60 size", "Vinyl build", "High pile rating", "Wide roll area"],
-      "cons": ["Thinner than extra-high", "Not for deepest pile"],
+      "pros": [
+        "Large 46 x 60 size",
+        "Vinyl build",
+        "High pile rating",
+        "Wide roll area"
+      ],
+      "cons": [
+        "Thinner than extra-high",
+        "Not for deepest pile"
+      ],
       "idealFor": "Wide desks on high pile.",
       "skipIf": "Your pile exceeds an inch."
     }
   ],
   "methodology": [
-    { "title": "Pile rating", "description": "We compared the carpet depth each mat is made for, noting whether padding is included." },
-    { "title": "Material", "description": "Polycarbonate and vinyl were compared for rigidity and feel on deep carpet." },
-    { "title": "Thickness", "description": "Thickness from 0.11 to 0.2 inch was weighed for resistance to flexing." },
-    { "title": "Size and lip", "description": "Dimensions and any extended lip were checked against typical desk areas." },
-    { "title": "Value", "description": "Price bucket was set against pile rating and size." }
+    {
+      "title": "Pile rating",
+      "description": "We compared the carpet depth each mat is made for, noting whether padding is included."
+    },
+    {
+      "title": "Material",
+      "description": "Polycarbonate and vinyl were compared for rigidity and feel on deep carpet."
+    },
+    {
+      "title": "Thickness",
+      "description": "Thickness from 0.11 to 0.2 inch was weighed for resistance to flexing."
+    },
+    {
+      "title": "Size and lip",
+      "description": "Dimensions and any extended lip were checked against typical desk areas."
+    },
+    {
+      "title": "Value",
+      "description": "Price bucket was set against pile rating and size."
+    }
   ],
   "whatMatters": [
-    { "factor": "Pile rating", "detail": "Pile rating states the carpet depth a mat is built for. A mat rated for low pile sinks and curls on deep plush. Check the rating in the title or bullets, and note if it includes padding, because underlay adds to the depth the mat must flatten and a mismatch ruins the roll. Brochures often quote pile alone." },
-    { "factor": "Padding", "detail": "Underlay adds to the effective depth your mat sits on. Marvelux High Pile includes padding in its three-quarter inch rating. Measure carpet plus padding together, and read whether the rating counts both, since a mat rated for pile alone can fail on a well-padded floor. Pull back a corner of the carpet to check the underlay." },
-    { "factor": "Material", "detail": "Polycarbonate is rigid, vinyl is softer and often thicker. Rigidity affects roll resistance. Look for the material name and thickness on the listing, and note that vinyl can have more flex over soft ground, while polycarbonate gives a harder, flatter surface for casters. Soft wheels also help on either material." },
-    { "factor": "Size and lip", "detail": "A lip lets the chair slide under the desk area. Larger mats give more rolling room. Measure your chair swing and compare with the listed dimensions, and allow extra for L-shaped desks, since a mat that is too small leaves the casters falling off the edge." },
-    { "factor": "Thickness", "detail": "Thicker mats resist bowing on soft carpet. Figures here run 0.11 to 0.2 inch. Check the thickness number rather than assuming, because a thin mat on deep carpet will flex and tilt, and the thickest options are the ES Robbins vinyl and Marvelux polycarbonate. Thickness also adds weight and cost." }
+    {
+      "factor": "Pile rating",
+      "detail": "Pile rating states the carpet depth a mat is built for. A mat rated for low pile sinks and curls on deep plush. Check the rating in the title or bullets, and note if it includes padding, because underlay adds to the depth the mat must flatten and a mismatch ruins the roll. Brochures often quote pile alone."
+    },
+    {
+      "factor": "Padding",
+      "detail": "Underlay adds to the effective depth your mat sits on. Marvelux High Pile includes padding in its three-quarter inch rating. Measure carpet plus padding together, and read whether the rating counts both, since a mat rated for pile alone can fail on a well-padded floor. Pull back a corner of the carpet to check the underlay."
+    },
+    {
+      "factor": "Material",
+      "detail": "Polycarbonate is rigid, vinyl is softer and often thicker. Rigidity affects roll resistance. Look for the material name and thickness on the listing, and note that vinyl can have more flex over soft ground, while polycarbonate gives a harder, flatter surface for casters. Soft wheels also help on either material."
+    },
+    {
+      "factor": "Size and lip",
+      "detail": "A lip lets the chair slide under the desk area. Larger mats give more rolling room. Measure your chair swing and compare with the listed dimensions, and allow extra for L-shaped desks, since a mat that is too small leaves the casters falling off the edge."
+    },
+    {
+      "factor": "Thickness",
+      "detail": "Thicker mats resist bowing on soft carpet. Figures here run 0.11 to 0.2 inch. Check the thickness number rather than assuming, because a thin mat on deep carpet will flex and tilt, and the thickest options are the ES Robbins vinyl and Marvelux polycarbonate. Thickness also adds weight and cost."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Carpet Depth",
       "intro": "Pile rating is the first filter.",
       "table": {
-        "headers": ["Carpet", "Our pick"],
+        "headers": [
+          "Carpet",
+          "Our pick"
+        ],
         "rows": [
-          ["Over 1 inch, standard desk", "ES Robbins Extra High Pile with Lip"],
-          ["Any depth, unsure", "Marvelux Extra Thick All Carpets"],
-          ["Medium to high, over 1/2 inch", "Floortex Deep Pile Mat"],
-          ["Deep carpet, large desk", "ES Robbins EverLife Extra High"],
-          ["Up to 3/4 inch with padding", "Marvelux High Pile 48 x 60"]
+          [
+            "Over 1 inch, standard desk",
+            "ES Robbins Extra High Pile with Lip"
+          ],
+          [
+            "Any depth, unsure",
+            "Marvelux Extra Thick All Carpets"
+          ],
+          [
+            "Medium to high, over 1/2 inch",
+            "Floortex Deep Pile Mat"
+          ],
+          [
+            "Deep carpet, large desk",
+            "ES Robbins EverLife Extra High"
+          ],
+          [
+            "Up to 3/4 inch with padding",
+            "Marvelux High Pile 48 x 60"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "ES Robbins Extra High Pile with Lip or Floortex Deep Pile"],
-          ["$100 to $200, for any pile", "Marvelux Extra Thick All Carpets"],
-          ["$100 to $200, extra room", "ES Robbins EverLife Extra High"]
+          [
+            "$50 to $100",
+            "ES Robbins Extra High Pile with Lip or Floortex Deep Pile"
+          ],
+          [
+            "$100 to $200, for any pile",
+            "Marvelux Extra Thick All Carpets"
+          ],
+          [
+            "$100 to $200, extra room",
+            "ES Robbins EverLife Extra High"
+          ]
         ]
       }
     },
     {
       "subheading": "Polycarbonate vs Vinyl",
       "cards": [
-        { "label": "Polycarbonate", "text": "The Floortex mats and Marvelux options are rigid and clear, with the Marvelux Extra Thick the strongest." },
-        { "label": "Vinyl", "text": "The ES Robbins mats are thicker vinyl with lips, softer underfoot and rated deepest on pile." }
+        {
+          "label": "Polycarbonate",
+          "text": "The Floortex mats and Marvelux options are rigid and clear, with the Marvelux Extra Thick the strongest."
+        },
+        {
+          "label": "Vinyl",
+          "text": "The ES Robbins mats are thicker vinyl with lips, softer underfoot and rated deepest on pile."
+        }
       ],
       "note": "Most thick-carpet owners should default to the ES Robbins vinyl, which is rated for the deepest pile, unless they want polycarbonate rigidity."
     },
     {
       "subheading": "By Desk Size",
       "table": {
-        "headers": ["Desk", "Our pick"],
+        "headers": [
+          "Desk",
+          "Our pick"
+        ],
         "rows": [
-          ["Standard 5-foot desk", "ES Robbins Extra High Pile with Lip"],
-          ["Compact desk", "Floortex Deep Pile Mat"],
-          ["Wide or L-shaped", "Floortex Plush Pile 48 x 60"],
-          ["Deep workspace", "ES Robbins EverLife High Pile 46 x 60"]
+          [
+            "Standard 5-foot desk",
+            "ES Robbins Extra High Pile with Lip"
+          ],
+          [
+            "Compact desk",
+            "Floortex Deep Pile Mat"
+          ],
+          [
+            "Wide or L-shaped",
+            "Floortex Plush Pile 48 x 60"
+          ],
+          [
+            "Deep workspace",
+            "ES Robbins EverLife High Pile 46 x 60"
+          ]
         ]
       }
     },
     {
       "subheading": "For Padded Carpet Specifically",
       "cards": [
-        { "label": "Look for", "text": "A rating that states padding is included, so the combined depth is accounted for." },
-        { "label": "In this ranking", "text": "The Marvelux High Pile gives a three-quarter inch rating with padding, and ES Robbins Extra High exceeds one inch with padding." }
+        {
+          "label": "Look for",
+          "text": "A rating that states padding is included, so the combined depth is accounted for."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Marvelux High Pile gives a three-quarter inch rating with padding, and ES Robbins Extra High exceeds one inch with padding."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "Your carpet is very deep or may change; the Marvelux Extra Thick covers all depths." },
-        { "label": "Save if", "text": "Your carpet is moderate. The Floortex Deep Pile mat covers it for less." }
+        {
+          "label": "Spend more if",
+          "text": "Your carpet is very deep or may change; the Marvelux Extra Thick covers all depths."
+        },
+        {
+          "label": "Save if",
+          "text": "Your carpet is moderate. The Floortex Deep Pile mat covers it for less."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Do I need a chair mat on thick carpet?", "a": "Yes, a mat gives a firm surface so the chair rolls. Choose one rated for your pile depth, because carpet alone makes casters drag and wears the fibers. A mat also protects a rented floor." },
-    { "q": "What is the most common mistake?", "a": "Buying a mat rated for low pile. It will bow, curl and rock on deep carpet, so check the rating against carpet plus padding. The label on the ES Robbins counts both." },
-    { "q": "Is the Marvelux Extra Thick worth it?", "a": "If you want one mat rated for every depth, yes. Otherwise the ES Robbins Extra High covers deep carpet for less, at a smaller 36 by 48 inch size." },
-    { "q": "How do I measure carpet depth?", "a": "Measure pile height plus any padding underneath. Compare the total with the mat's stated rating, and leave a margin if you are near a limit. A ruler and a minute of measuring avoid a return." },
-    { "q": "Does the lip matter?", "a": "A lip extends under the desk for chair access. Choose one if you sit close to the desk, as on the ES Robbins and EverLife models. Without it, you roll onto carpet when you scoot back." },
-    { "q": "Will a mat stay put on carpet?", "a": "Mats with cleated or gripped undersides tend to hold. The ES Robbins AnchorBar and the Floortex gripper backs are examples, so check the listing for a carpet grip description. A mat that creeps is a trip hazard." }
+    {
+      "q": "Do I need a chair mat on thick carpet?",
+      "a": "Yes, a mat gives a firm surface so the chair rolls. Choose one rated for your pile depth, because carpet alone makes casters drag and wears the fibers. A mat also protects a rented floor."
+    },
+    {
+      "q": "What is the most common mistake?",
+      "a": "Buying a mat rated for low pile. It will bow, curl and rock on deep carpet, so check the rating against carpet plus padding. The label on the ES Robbins counts both."
+    },
+    {
+      "q": "Is the Marvelux Extra Thick worth it?",
+      "a": "If you want one mat rated for every depth, yes. Otherwise the ES Robbins Extra High covers deep carpet for less, at a smaller 36 by 48 inch size."
+    },
+    {
+      "q": "How do I measure carpet depth?",
+      "a": "Measure pile height plus any padding underneath. Compare the total with the mat's stated rating, and leave a margin if you are near a limit. A ruler and a minute of measuring avoid a return."
+    },
+    {
+      "q": "Does the lip matter?",
+      "a": "A lip extends under the desk for chair access. Choose one if you sit close to the desk, as on the ES Robbins and EverLife models. Without it, you roll onto carpet when you scoot back."
+    },
+    {
+      "q": "Will a mat stay put on carpet?",
+      "a": "Mats with cleated or gripped undersides tend to hold. The ES Robbins AnchorBar and the Floortex gripper backs are examples, so check the listing for a carpet grip description. A mat that creeps is a trip hazard."
+    }
   ],
   "finalTake": "Buy the ES Robbins Extra High Pile for a standard desk on deep plush carpet, and the Marvelux Extra Thick if you want one mat for any depth or may move. The Floortex suits typical thick office carpet, and the EverLife mats cover larger desks. Measure carpet and padding together before buying, because the pile rating is the first filter.",
-  "related": []
+  "related": [
+    "best-chair-mats-for-carpet",
+    "best-chair-mat-for-carpet",
+    "best-chair-mat-high-pile-carpet"
+  ]
 }

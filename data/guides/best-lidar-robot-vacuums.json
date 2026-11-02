@@ -1,251 +1,518 @@
 {
- "slug": "best-lidar-robot-vacuums",
- "category": "home-living",
- "h1": "The 7 Best LiDAR Robot Vacuums of 2026, Ranked & Reviewed",
- "metaTitle": "Best LiDAR Robot Vacuums 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: the 7 best LiDAR robot vacuums of 2026, from budget mapping bots to self-emptying vacuum and mop combos.",
- "mainKeyword": "lidar robot vacuums",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
- "summary": "The Tikom vacuum and mop with a self-emptying base is the best LiDAR robot here: complete features at a mid-range price. The roborock Qrevo S5V adds FlexiArm edge mopping and multi-floor maps, and the Q7 M5+ goes up to 7 to 9 weeks between dock emptyings. The ILIFE A30s and MONSGA are the budget LiDAR options.",
- "intro": ["The usual LiDAR mistake is paying for the laser and ignoring everything after the map is drawn. A spinning sensor tells the robot where the walls are, but it does not empty the bin, lift a mop off carpet or spot a charging cable lying on the floor. Two robots with identical navigation can live very different lives in your home, depending on the dock, the mop and the sensors beside the laser.","We reviewed seven robot vacuums that use LiDAR or offer comparable room mapping, and ranked them on paper by navigation, cleaning hardware, dock convenience and price tier. Everything below comes from spec sheets and owner reports, not bench numbers, with the order set by which tradeoffs each pick accepts relative to its neighbors."],
- "products": [
-  {
-   "id": "tikom-robot-vacuum-and-mop-self-emptying",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "Tikom Robot Vacuum and Mop, Robotic Vacuum Cleaner with Self-Emptying Base",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FKH1RW65?tag=primeareviews-20",
-   "verdict": "The most complete LiDAR package here without a premium price tag.",
-   "description": "The Tikom is a LiDAR robot that vacuums and mops, with app-based room maps and a self-emptying base, in the $200 to $500 bracket. The laser plans overlapping rows instead of wandering, and a dock that empties itself removes the daily bin chore.\n\nIt ranks first because it packs navigation, a dock and mopping into a mid-priced package. The Qrevo adds edge reach, but the Tikom costs less than roborock's premium offerings.\n\nBuy it if you want a dock, mop and LiDAR in one robot. The caveats are thin spec detail and no special edge mopping. Skip it if you want the best edge cleaning and multi-floor maps. Run it with doors open on the first clean so the app maps every room, and then label the rooms. Because spec detail is thin, check the dock bag and mop pad costs before ordering.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Dock", "value": "Self-emptying base"},
-    {"label": "Cleaning", "value": "Vacuum and mop combo"},
-    {"label": "Mapping", "value": "App-based room maps"}
-   ],
-   "pros": ["Accurate LiDAR room mapping", "Self-emptying dock included", "Vacuum and mop in one", "Mid-range price bracket"],
-   "cons": ["Less spec detail listed", "No special edge mopping"],
-   "idealFor": "Buyers who want a dock, mop and LiDAR in one mid-priced robot.",
-   "skipIf": "You want the best edge cleaning and multi-floor maps."
-  },
-  {
-   "id": "roborock-qrevo-s5v",
-   "rank": 2,
-   "award": "Best Edge Cleaning",
-   "name": "roborock Qrevo S5V Robot Vacuum and Mop, FlexiArm Edge Mopping",
-   "score": 92,
-   "imageUrl": "https://m.media-amazon.com/images/I/317EXRVR2uL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DSP8J476?tag=primeareviews-20",
-   "verdict": "The refined pick for anyone fussy about edges and multiple floors.",
-   "description": "The roborock Qrevo S5V combines LiDAR navigation, FlexiArm edge mopping, multi-floor map storage and vacuum and mop in one body. FlexiArm extends a mop arm to reach along baseboards, where a round robot leaves a strip of grime.\n\nIt ranks second because it sits at the premium end of its bracket and suction is not a headline figure. It beats the Tikom on edges and multiple levels.\n\nBuy it for a multi-level home with lots of baseboards and corners. Skip it if you live on one level with open floor plans. Saved maps for each floor mean no relearning when you carry it upstairs. Edge mopping helps in kitchens with cabinets and bathrooms with tub surrounds. Expect to pay more than for the Tikom.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Mopping", "value": "FlexiArm edge mopping"},
-    {"label": "Cleaning", "value": "Vacuum and mop combo"},
-    {"label": "Mapping", "value": "Multi-floor"}
-   ],
-   "pros": ["FlexiArm reaches along edges", "Multi-floor map storage", "Reliable LiDAR path planning", "Vacuum and mop combo"],
-   "cons": ["Premium within its bracket", "Suction not headline figure"],
-   "idealFor": "Multi-level homes with lots of baseboards and corners.",
-   "skipIf": "You live on one level with open floor plans."
-  },
-  {
-   "id": "roborock-q7-m5-plus",
-   "rank": 3,
-   "award": "Longest Between Emptyings",
-   "name": "roborock Q7 M5+ Robot Vacuum and Mop, Up to 7-9 Weeks Self-Empty, 10000Pa",
-   "score": 90,
-   "imageUrl": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DWX69JVG?tag=primeareviews-20",
-   "verdict": "Set it, forget the bin for weeks, and still get strong suction.",
-   "description": "The roborock Q7 M5+ uses LiDAR navigation, 10,000Pa suction and a self-empty base rated for 7 to 9 weeks, with a vacuum and mop combo. The long dock interval means you touch the bin or bag only a few times a season.\n\nIt ranks third because it lacks edge mopping and the bag interval is an estimate. It beats the Q10 S5+ because the dock is clearly part of the package.\n\nBuy it for a busy home that wants minimal bin and bag handling. Skip it if you prefer a bagless dock design. Treat the weeks figure as a best case, since pets and carpet fill a bag faster. Replacement bags are an ongoing cost, which the listing does not quantify. If you dislike buying bags, check bagless alternatives before settling on this one.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Suction", "value": "10000Pa"},
-    {"label": "Dock", "value": "Self-empty, 7-9 weeks"},
-    {"label": "Cleaning", "value": "Vacuum and mop combo"}
-   ],
-   "pros": ["Longest dock emptying interval", "10000Pa suction rating", "LiDAR path planning", "Vacuum and mop combo"],
-   "cons": ["No special edge mopping", "Bag interval is an estimate"],
-   "idealFor": "Busy homes that want minimal bin and bag handling.",
-   "skipIf": "You prefer a bagless dock design."
-  },
-  {
-   "id": "roborock-q10-s5-plus",
-   "rank": 4,
-   "award": "Best for Mixed Flooring",
-   "name": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/31TzU0YZA6L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=primeareviews-20",
-   "verdict": "Strong suction and clean LiDAR routes for carpet and hard floors.",
-   "description": "The roborock Q10 S5+ has LiDAR navigation, 10,000Pa suction, a vacuum and mop combo and self-empty compatibility. Efficient routing means the robot covers rooms in straight lines, and 10,000Pa helps on a rug.\n\nIt ranks fourth because the dock bundle needs checking and there is no edge mopping arm. Confirm what is in the box.\n\nBuy it for a home with a roughly even mix of carpet and hard floors. Skip it if you need a confirmed dock in the box. The ranking depends on the bundle you actually receive, and a bare robot without a dock behaves like a basic model. Compare the dock price before buying the robot alone, because it can erase the saving against the Q7 M5+.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Suction", "value": "10,000Pa"},
-    {"label": "Cleaning", "value": "Vacuum and mop combo"},
-    {"label": "Dock", "value": "Self-empty compatible"}
-   ],
-   "pros": ["10,000Pa suction rating", "Efficient LiDAR routing", "Self-empty compatible", "Vacuum and mop combo"],
-   "cons": ["Dock bundle needs checking", "No edge mopping arm"],
-   "idealFor": "Homes with a roughly even mix of carpet and hard floors.",
-   "skipIf": "You need a confirmed dock included in the box."
-  },
-  {
-   "id": "lefant-m330-pro",
-   "rank": 5,
-   "award": "Best for Clutter",
-   "name": "Lefant Robot Vacuum and Mop M330 Pro, Upgraded 190° PSD Obstacle Avoidance",
-   "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/51eOpIcFOpL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DZ6XDSNS?tag=primeareviews-20",
-   "verdict": "Obstacle avoidance first, which is what cluttered homes actually need.",
-   "description": "The Lefant M330 Pro uses 190 degree PSD obstacle avoidance, a 450ml visible dustbin, multi-floor mapping and a 150 minute runtime. It puts avoidance first, which cluttered floors reward, instead of LiDAR.\n\nIt ranks fifth because it has no self-empty dock and LiDAR is not listed. It is cheaper than the LiDAR picks above.\n\nBuy it for homes with pets, cords and everyday clutter. Skip it if you want a dock or confirmed LiDAR mapping. The visible bin makes it easy to see when to empty it, and the 150 minute runtime covers a medium home on a single charge. Without LiDAR, the robot relies on sensors, so expect less tidy rows than the laser models, but it should dodge cables well.",
-   "keySpecs": [
-    {"label": "Avoidance", "value": "190° PSD"},
-    {"label": "Dustbin", "value": "450ml visible"},
-    {"label": "Runtime", "value": "150 min"},
-    {"label": "Mapping", "value": "Multi-floor"}
-   ],
-   "pros": ["Dedicated obstacle avoidance", "Multi-floor mapping", "150 minute runtime", "Visible 450ml dustbin"],
-   "cons": ["No self-empty dock", "LiDAR not listed"],
-   "idealFor": "Homes with pets, cords and everyday floor clutter.",
-   "skipIf": "You want a dock or confirmed LiDAR mapping."
-  },
-  {
-   "id": "ilife-a30s",
-   "rank": 6,
-   "award": "Best Budget LiDAR",
-   "name": "ILIFE A30s Robot Vacuum, 10000Pa Max Suction",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/41GzZmL4LDL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0G5YDVR99?tag=primeareviews-20",
-   "verdict": "Real LiDAR mapping with no extras to pay for.",
-   "description": "The ILIFE A30s has LiDAR navigation, 10,000Pa maximum suction and app-based mapping, at a budget price. It is vacuum only, so there is no mop to dry or clean.\n\nIt ranks sixth because there is no mopping function and no self-empty dock. It gives true LiDAR for less.\n\nBuy it for a mapped, vacuum-only robot on a budget. Skip it if you need mopping or automatic emptying. The 10,000Pa figure is a maximum, so expect less in normal mode. App mapping lets you split rooms and set no-go zones, which suits a tidy apartment.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Suction", "value": "10000Pa max"},
-    {"label": "Mapping", "value": "App-based"},
-    {"label": "Price tier", "value": "$100-200"}
-   ],
-   "pros": ["LiDAR at a budget price", "10000Pa maximum suction", "App-based mapping", "No pricey extras"],
-   "cons": ["No mopping function", "No self-empty dock"],
-   "idealFor": "Budget buyers who want a mapped, vacuum-only robot.",
-   "skipIf": "You need mopping or automatic emptying."
-  },
-  {
-   "id": "monsga-lidar-combo",
-   "rank": 7,
-   "award": "Best for Multi-Map Homes",
-   "name": "MONSGA Robot Vacuum and Mop Combo with Lidar Navigation, 5 Editable Maps",
-   "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/51F4JfuM9BL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GCZKFDVW?tag=primeareviews-20",
-   "verdict": "The cheapest way into LiDAR with mopping and five saved maps.",
-   "description": "The MONSGA vacuum and mop combo uses LiDAR navigation, 7,000Pa suction, five editable maps and a 180 minute runtime, at the lowest price here. Five maps suit a home with multiple floors or a rental.\n\nIt ranks last because suction is the lowest here and there is no self-empty dock. It is the cheapest LiDAR entry.\n\nBuy it for small homes and renters on a tight budget. Skip it if you have deep carpet or heavy shedding pets. A 7,000Pa robot handles hard floors well, though it will struggle with thick rugs. Both mopping and five maps in a cheap robot are rare, so it suits a small apartment with laminate or tile. Empty the bin after each clean.",
-   "keySpecs": [
-    {"label": "Navigation", "value": "LiDAR"},
-    {"label": "Suction", "value": "7000Pa"},
-    {"label": "Maps", "value": "5 editable"},
-    {"label": "Runtime", "value": "180 min"}
-   ],
-   "pros": ["Lowest price in ranking", "Five editable maps", "180 minute runtime", "Vacuums and mops"],
-   "cons": ["Lowest suction here", "No self-empty dock"],
-   "idealFor": "Small homes and renters on a tight budget.",
-   "skipIf": "You have deep carpet or heavy shedding pets."
-  }
- ],
- "methodology": [
-  {"title": "Navigation quality", "description": "We checked which models list true LiDAR and which rely on other mapping, since that decides route efficiency."},
-  {"title": "Cleaning hardware", "description": "We weighed listed suction, mopping and edge reach rather than a single headline number."},
-  {"title": "Dock convenience", "description": "Self-emptying bases and stated emptying intervals earned credit because they cut weekly upkeep."},
-  {"title": "Obstacle handling", "description": "Dedicated avoidance sensors scored higher for homes with cords, toys and pets."},
-  {"title": "Value for the bracket", "description": "Each pick was judged against what its price tier normally includes."}
- ],
- "whatMatters": [
-  {"factor": "LiDAR versus other mapping", "detail": "LiDAR is a spinning laser that measures distance to walls and furniture, so the robot plans straight, overlapping rows. Cameras or basic sensors can map too, but often wander and miss patches. Check the listing for the word LiDAR in the title or bullets, not just a vague mapping claim. The Lefant M330 Pro lists avoidance but not LiDAR."},
-  {"factor": "Suction rating in Pa", "detail": "Pascals describe how hard the motor pulls air, and a bigger number helps on carpet and pet hair. Ratings are manufacturer maximums and are not directly comparable across brands. Treat 7000Pa as adequate for hard floors and 10000Pa as better for mixed flooring, and ignore small gaps between similar figures."},
-  {"factor": "Self-emptying dock", "detail": "A dock sucks the bin contents into a sealed bag or bin so you stop emptying daily. It adds cost and floor space, but it changes how often you touch the robot. Look for the stated interval, such as the Q7 M5+'s 7 to 9 weeks, and confirm the dock is in the box rather than sold separately."},
-  {"factor": "Mop design", "detail": "A vacuum and mop combo wipes with a damp pad, which suits hard floors but not carpet. Some designs add edge reach, such as the FlexiArm arm on the Qrevo. Check whether the robot can avoid carpet or lift the mop, since a wet pad on a rug is the common complaint among owners."},
-  {"factor": "Obstacle avoidance", "detail": "Mapping tells the robot where walls are, but avoidance sensors spot cords and socks on the way. Without it, a robot can tangle or drag items around. Look for a named sensor system and its viewing angle, as on the Lefant's 190 degree PSD, and clear the floor of loose cables before each run."}
- ],
- "howToChoose": [
-  {
-   "subheading": "By Home Type",
-   "intro": "Your floor plan decides which navigation and cleaning features you will actually use.",
-   "table": {
-    "headers": ["Home type", "Our pick"],
-    "rows": [
-     ["Single level with open floors", "Tikom Robot Vacuum and Mop"],
-     ["Multi-level with stairs", "roborock Qrevo S5V"],
-     ["Mixed carpet and hard floors", "roborock Q10 S5+"],
-     ["Cords, toys and pets", "Lefant M330 Pro"],
-     ["Small apartment or dorm", "MONSGA Robot Vacuum and Mop Combo"]
-    ]
-   }
-  },
-  {
-   "subheading": "By Budget",
-   "table": {
-    "headers": ["Spend", "Our pick"],
-    "rows": [
-     ["Under $100", "MONSGA Robot Vacuum and Mop Combo"],
-     ["$100-200 vacuum only", "ILIFE A30s"],
-     ["$100-200 with avoidance", "Lefant M330 Pro"],
-     ["$200-500 value", "Tikom Robot Vacuum and Mop"],
-     ["$200-500 low maintenance", "roborock Q7 M5+"]
-    ]
-   }
-  },
-  {
-   "subheading": "Dock vs No Dock",
-   "cards": [
-    {"label": "With a self-empty dock", "text": "A dock removes the daily bin chore and keeps dust sealed away. Picks here: the Tikom, roborock Q7 M5+ and, with compatibility, the roborock Q10 S5+."},
-    {"label": "Without a dock", "text": "You empty the bin by hand but pay much less and save floor space. Picks here: the ILIFE A30s, Lefant M330 Pro and MONSGA."}
-   ],
-   "note": "Most buyers should default to a dock unless budget or space rules it out."
-  },
-  {
-   "subheading": "By Cleaning Priority",
-   "table": {
-    "headers": ["Priority", "Our pick"],
-    "rows": [
-     ["Edges and corners", "roborock Qrevo S5V"],
-     ["Strongest suction on a budget", "ILIFE A30s"],
-     ["Longest battery runtime", "MONSGA Robot Vacuum and Mop Combo"],
-     ["Fewest dock visits", "roborock Q7 M5+"],
-     ["Obstacle dodging", "Lefant M330 Pro"]
-    ]
-   }
-  },
-  {
-   "subheading": "For Pet Owners Specifically",
-   "cards": [
-    {"label": "Look for", "text": "Strong suction, a dock that handles hair and dedicated obstacle sensors so the robot avoids accidents and cords."},
-    {"label": "In this ranking", "text": "The Lefant M330 Pro offers 190° PSD avoidance, while the roborock Q7 M5+ adds a 7 to 9 week dock and 10000Pa suction for shedding."}
-   ]
-  },
-  {
-   "subheading": "When to Spend More",
-   "cards": [
-    {"label": "Spend more if", "text": "You have several floors or many corners, in which case the roborock Qrevo S5V earns its premium with multi-floor maps and edge mopping."},
-    {"label": "Save if", "text": "You have one small level and tidy floors, where the ILIFE A30s or MONSGA delivers real LiDAR mapping for far less."}
-   ]
-  }
- ],
- "faq": [
-  {"q": "Does LiDAR work in the dark?", "a": "Yes, LiDAR uses its own laser, so it does not need room light to map, which suits evening cleaning. That is a real advantage over camera-based systems. Dark rooms will not stop it navigating, though dust on the sensor window can."},
-  {"q": "What is the most common LiDAR vacuum mistake?", "a": "Buying on the laser alone and ignoring dock and avoidance. Mapping does not stop a robot swallowing a cable or sock. Choose obstacle sensing if floors are cluttered, as with the Lefant M330 Pro."},
-  {"q": "Is a self-emptying dock worth it over a basic model?", "a": "For most households, yes, because it removes the daily emptying. It costs more and takes space, and bags are an ongoing expense. If you vacuum a small flat, the ILIFE A30s may be enough, and you save the dock's cost."},
-  {"q": "How do I set up room maps?", "a": "Run the first clean with doors open and the floor cleared of loose items. The app builds the map, then lets you split rooms and set no-go zones. The MONSGA stores five editable maps."},
-  {"q": "How often do I maintain a LiDAR robot?", "a": "Clean the brush, filter and sensor window regularly, since dust on the laser hurts mapping. Replace bags or filters as the manufacturer advises, and wipe the laser window with a dry cloth. Intervals shorten with pets, so check more often."},
-  {"q": "Can these mop carpet?", "a": "No, a damp pad on carpet is a problem. Look for carpet detection or a lift feature on the listing. Where unsure, vacuum carpet and mop only hard floors, using no-go zones."}
- ],
- "finalTake": "The Tikom with its self-emptying base is the right LiDAR robot for most homes, since mapping, mopping and a dock arrive at a mid price. Choose the roborock Qrevo S5V for edges and multiple floors and the ILIFE A30s for a cheap vacuum-only map. Check the dock and mop, not just the laser.",
- "related": []
+  "slug": "best-lidar-robot-vacuums",
+  "category": "home-living",
+  "h1": "The 7 Best LiDAR Robot Vacuums of 2026, Ranked & Reviewed",
+  "metaTitle": "Best LiDAR Robot Vacuums 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: the 7 best LiDAR robot vacuums of 2026, from budget mapping bots to self-emptying vacuum and mop combos.",
+  "mainKeyword": "lidar robot vacuums",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
+  "summary": "The Tikom vacuum and mop with a self-emptying base is the best LiDAR robot here: complete features at a mid-range price. The roborock Qrevo S5V adds FlexiArm edge mopping and multi-floor maps, and the Q7 M5+ goes up to 7 to 9 weeks between dock emptyings. The ILIFE A30s and MONSGA are the budget LiDAR options.",
+  "intro": [
+    "The usual LiDAR mistake is paying for the laser and ignoring everything after the map is drawn. A spinning sensor tells the robot where the walls are, but it does not empty the bin, lift a mop off carpet or spot a charging cable lying on the floor. Two robots with identical navigation can live very different lives in your home, depending on the dock, the mop and the sensors beside the laser.",
+    "We reviewed seven robot vacuums that use LiDAR or offer comparable room mapping, and ranked them on paper by navigation, cleaning hardware, dock convenience and price tier. Everything below comes from spec sheets and owner reports, not bench numbers, with the order set by which tradeoffs each pick accepts relative to its neighbors."
+  ],
+  "products": [
+    {
+      "id": "tikom-robot-vacuum-and-mop-self-emptying",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Tikom Robot Vacuum and Mop, Robotic Vacuum Cleaner with Self-Emptying Base",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FKH1RW65?tag=primeareviews-20",
+      "verdict": "The most complete LiDAR package here without a premium price tag.",
+      "description": "The Tikom is a LiDAR robot that vacuums and mops, with app-based room maps and a self-emptying base, in the $200 to $500 bracket. The laser plans overlapping rows instead of wandering, and a dock that empties itself removes the daily bin chore.\n\nIt ranks first because it packs navigation, a dock and mopping into a mid-priced package. The Qrevo adds edge reach, but the Tikom costs less than roborock's premium offerings.\n\nBuy it if you want a dock, mop and LiDAR in one robot. The caveats are thin spec detail and no special edge mopping. Skip it if you want the best edge cleaning and multi-floor maps. Run it with doors open on the first clean so the app maps every room, and then label the rooms. Because spec detail is thin, check the dock bag and mop pad costs before ordering.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Dock",
+          "value": "Self-emptying base"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Vacuum and mop combo"
+        },
+        {
+          "label": "Mapping",
+          "value": "App-based room maps"
+        }
+      ],
+      "pros": [
+        "Accurate LiDAR room mapping",
+        "Self-emptying dock included",
+        "Vacuum and mop in one",
+        "Mid-range price bracket"
+      ],
+      "cons": [
+        "Less spec detail listed",
+        "No special edge mopping"
+      ],
+      "idealFor": "Buyers who want a dock, mop and LiDAR in one mid-priced robot.",
+      "skipIf": "You want the best edge cleaning and multi-floor maps."
+    },
+    {
+      "id": "roborock-qrevo-s5v",
+      "rank": 2,
+      "award": "Best Edge Cleaning",
+      "name": "roborock Qrevo S5V Robot Vacuum and Mop, FlexiArm Edge Mopping",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/317EXRVR2uL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DSP8J476?tag=primeareviews-20",
+      "verdict": "The refined pick for anyone fussy about edges and multiple floors.",
+      "description": "The roborock Qrevo S5V combines LiDAR navigation, FlexiArm edge mopping, multi-floor map storage and vacuum and mop in one body. FlexiArm extends a mop arm to reach along baseboards, where a round robot leaves a strip of grime.\n\nIt ranks second because it sits at the premium end of its bracket and suction is not a headline figure. It beats the Tikom on edges and multiple levels.\n\nBuy it for a multi-level home with lots of baseboards and corners. Skip it if you live on one level with open floor plans. Saved maps for each floor mean no relearning when you carry it upstairs. Edge mopping helps in kitchens with cabinets and bathrooms with tub surrounds. Expect to pay more than for the Tikom.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Mopping",
+          "value": "FlexiArm edge mopping"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Vacuum and mop combo"
+        },
+        {
+          "label": "Mapping",
+          "value": "Multi-floor"
+        }
+      ],
+      "pros": [
+        "FlexiArm reaches along edges",
+        "Multi-floor map storage",
+        "Reliable LiDAR path planning",
+        "Vacuum and mop combo"
+      ],
+      "cons": [
+        "Premium within its bracket",
+        "Suction not headline figure"
+      ],
+      "idealFor": "Multi-level homes with lots of baseboards and corners.",
+      "skipIf": "You live on one level with open floor plans."
+    },
+    {
+      "id": "roborock-q7-m5-plus",
+      "rank": 3,
+      "award": "Longest Between Emptyings",
+      "name": "roborock Q7 M5+ Robot Vacuum and Mop, Up to 7-9 Weeks Self-Empty, 10000Pa",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DWX69JVG?tag=primeareviews-20",
+      "verdict": "Set it, forget the bin for weeks, and still get strong suction.",
+      "description": "The roborock Q7 M5+ uses LiDAR navigation, 10,000Pa suction and a self-empty base rated for 7 to 9 weeks, with a vacuum and mop combo. The long dock interval means you touch the bin or bag only a few times a season.\n\nIt ranks third because it lacks edge mopping and the bag interval is an estimate. It beats the Q10 S5+ because the dock is clearly part of the package.\n\nBuy it for a busy home that wants minimal bin and bag handling. Skip it if you prefer a bagless dock design. Treat the weeks figure as a best case, since pets and carpet fill a bag faster. Replacement bags are an ongoing cost, which the listing does not quantify. If you dislike buying bags, check bagless alternatives before settling on this one.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Suction",
+          "value": "10000Pa"
+        },
+        {
+          "label": "Dock",
+          "value": "Self-empty, 7-9 weeks"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Vacuum and mop combo"
+        }
+      ],
+      "pros": [
+        "Longest dock emptying interval",
+        "10000Pa suction rating",
+        "LiDAR path planning",
+        "Vacuum and mop combo"
+      ],
+      "cons": [
+        "No special edge mopping",
+        "Bag interval is an estimate"
+      ],
+      "idealFor": "Busy homes that want minimal bin and bag handling.",
+      "skipIf": "You prefer a bagless dock design."
+    },
+    {
+      "id": "roborock-q10-s5-plus",
+      "rank": 4,
+      "award": "Best for Mixed Flooring",
+      "name": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31TzU0YZA6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=primeareviews-20",
+      "verdict": "Strong suction and clean LiDAR routes for carpet and hard floors.",
+      "description": "The roborock Q10 S5+ has LiDAR navigation, 10,000Pa suction, a vacuum and mop combo and self-empty compatibility. Efficient routing means the robot covers rooms in straight lines, and 10,000Pa helps on a rug.\n\nIt ranks fourth because the dock bundle needs checking and there is no edge mopping arm. Confirm what is in the box.\n\nBuy it for a home with a roughly even mix of carpet and hard floors. Skip it if you need a confirmed dock in the box. The ranking depends on the bundle you actually receive, and a bare robot without a dock behaves like a basic model. Compare the dock price before buying the robot alone, because it can erase the saving against the Q7 M5+.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Suction",
+          "value": "10,000Pa"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Vacuum and mop combo"
+        },
+        {
+          "label": "Dock",
+          "value": "Self-empty compatible"
+        }
+      ],
+      "pros": [
+        "10,000Pa suction rating",
+        "Efficient LiDAR routing",
+        "Self-empty compatible",
+        "Vacuum and mop combo"
+      ],
+      "cons": [
+        "Dock bundle needs checking",
+        "No edge mopping arm"
+      ],
+      "idealFor": "Homes with a roughly even mix of carpet and hard floors.",
+      "skipIf": "You need a confirmed dock included in the box."
+    },
+    {
+      "id": "lefant-m330-pro",
+      "rank": 5,
+      "award": "Best for Clutter",
+      "name": "Lefant Robot Vacuum and Mop M330 Pro, Upgraded 190° PSD Obstacle Avoidance",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/51eOpIcFOpL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DZ6XDSNS?tag=primeareviews-20",
+      "verdict": "Obstacle avoidance first, which is what cluttered homes actually need.",
+      "description": "The Lefant M330 Pro uses 190 degree PSD obstacle avoidance, a 450ml visible dustbin, multi-floor mapping and a 150 minute runtime. It puts avoidance first, which cluttered floors reward, instead of LiDAR.\n\nIt ranks fifth because it has no self-empty dock and LiDAR is not listed. It is cheaper than the LiDAR picks above.\n\nBuy it for homes with pets, cords and everyday clutter. Skip it if you want a dock or confirmed LiDAR mapping. The visible bin makes it easy to see when to empty it, and the 150 minute runtime covers a medium home on a single charge. Without LiDAR, the robot relies on sensors, so expect less tidy rows than the laser models, but it should dodge cables well.",
+      "keySpecs": [
+        {
+          "label": "Avoidance",
+          "value": "190° PSD"
+        },
+        {
+          "label": "Dustbin",
+          "value": "450ml visible"
+        },
+        {
+          "label": "Runtime",
+          "value": "150 min"
+        },
+        {
+          "label": "Mapping",
+          "value": "Multi-floor"
+        }
+      ],
+      "pros": [
+        "Dedicated obstacle avoidance",
+        "Multi-floor mapping",
+        "150 minute runtime",
+        "Visible 450ml dustbin"
+      ],
+      "cons": [
+        "No self-empty dock",
+        "LiDAR not listed"
+      ],
+      "idealFor": "Homes with pets, cords and everyday floor clutter.",
+      "skipIf": "You want a dock or confirmed LiDAR mapping."
+    },
+    {
+      "id": "ilife-a30s",
+      "rank": 6,
+      "award": "Best Budget LiDAR",
+      "name": "ILIFE A30s Robot Vacuum, 10000Pa Max Suction",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/41GzZmL4LDL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0G5YDVR99?tag=primeareviews-20",
+      "verdict": "Real LiDAR mapping with no extras to pay for.",
+      "description": "The ILIFE A30s has LiDAR navigation, 10,000Pa maximum suction and app-based mapping, at a budget price. It is vacuum only, so there is no mop to dry or clean.\n\nIt ranks sixth because there is no mopping function and no self-empty dock. It gives true LiDAR for less.\n\nBuy it for a mapped, vacuum-only robot on a budget. Skip it if you need mopping or automatic emptying. The 10,000Pa figure is a maximum, so expect less in normal mode. App mapping lets you split rooms and set no-go zones, which suits a tidy apartment.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Suction",
+          "value": "10000Pa max"
+        },
+        {
+          "label": "Mapping",
+          "value": "App-based"
+        },
+        {
+          "label": "Price tier",
+          "value": "$100-200"
+        }
+      ],
+      "pros": [
+        "LiDAR at a budget price",
+        "10000Pa maximum suction",
+        "App-based mapping",
+        "No pricey extras"
+      ],
+      "cons": [
+        "No mopping function",
+        "No self-empty dock"
+      ],
+      "idealFor": "Budget buyers who want a mapped, vacuum-only robot.",
+      "skipIf": "You need mopping or automatic emptying."
+    },
+    {
+      "id": "monsga-lidar-combo",
+      "rank": 7,
+      "award": "Best for Multi-Map Homes",
+      "name": "MONSGA Robot Vacuum and Mop Combo with Lidar Navigation, 5 Editable Maps",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/51F4JfuM9BL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GCZKFDVW?tag=primeareviews-20",
+      "verdict": "The cheapest way into LiDAR with mopping and five saved maps.",
+      "description": "The MONSGA vacuum and mop combo uses LiDAR navigation, 7,000Pa suction, five editable maps and a 180 minute runtime, at the lowest price here. Five maps suit a home with multiple floors or a rental.\n\nIt ranks last because suction is the lowest here and there is no self-empty dock. It is the cheapest LiDAR entry.\n\nBuy it for small homes and renters on a tight budget. Skip it if you have deep carpet or heavy shedding pets. A 7,000Pa robot handles hard floors well, though it will struggle with thick rugs. Both mopping and five maps in a cheap robot are rare, so it suits a small apartment with laminate or tile. Empty the bin after each clean.",
+      "keySpecs": [
+        {
+          "label": "Navigation",
+          "value": "LiDAR"
+        },
+        {
+          "label": "Suction",
+          "value": "7000Pa"
+        },
+        {
+          "label": "Maps",
+          "value": "5 editable"
+        },
+        {
+          "label": "Runtime",
+          "value": "180 min"
+        }
+      ],
+      "pros": [
+        "Lowest price in ranking",
+        "Five editable maps",
+        "180 minute runtime",
+        "Vacuums and mops"
+      ],
+      "cons": [
+        "Lowest suction here",
+        "No self-empty dock"
+      ],
+      "idealFor": "Small homes and renters on a tight budget.",
+      "skipIf": "You have deep carpet or heavy shedding pets."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Navigation quality",
+      "description": "We checked which models list true LiDAR and which rely on other mapping, since that decides route efficiency."
+    },
+    {
+      "title": "Cleaning hardware",
+      "description": "We weighed listed suction, mopping and edge reach rather than a single headline number."
+    },
+    {
+      "title": "Dock convenience",
+      "description": "Self-emptying bases and stated emptying intervals earned credit because they cut weekly upkeep."
+    },
+    {
+      "title": "Obstacle handling",
+      "description": "Dedicated avoidance sensors scored higher for homes with cords, toys and pets."
+    },
+    {
+      "title": "Value for the bracket",
+      "description": "Each pick was judged against what its price tier normally includes."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "LiDAR versus other mapping",
+      "detail": "LiDAR is a spinning laser that measures distance to walls and furniture, so the robot plans straight, overlapping rows. Cameras or basic sensors can map too, but often wander and miss patches. Check the listing for the word LiDAR in the title or bullets, not just a vague mapping claim. The Lefant M330 Pro lists avoidance but not LiDAR."
+    },
+    {
+      "factor": "Suction rating in Pa",
+      "detail": "Pascals describe how hard the motor pulls air, and a bigger number helps on carpet and pet hair. Ratings are manufacturer maximums and are not directly comparable across brands. Treat 7000Pa as adequate for hard floors and 10000Pa as better for mixed flooring, and ignore small gaps between similar figures."
+    },
+    {
+      "factor": "Self-emptying dock",
+      "detail": "A dock sucks the bin contents into a sealed bag or bin so you stop emptying daily. It adds cost and floor space, but it changes how often you touch the robot. Look for the stated interval, such as the Q7 M5+'s 7 to 9 weeks, and confirm the dock is in the box rather than sold separately."
+    },
+    {
+      "factor": "Mop design",
+      "detail": "A vacuum and mop combo wipes with a damp pad, which suits hard floors but not carpet. Some designs add edge reach, such as the FlexiArm arm on the Qrevo. Check whether the robot can avoid carpet or lift the mop, since a wet pad on a rug is the common complaint among owners."
+    },
+    {
+      "factor": "Obstacle avoidance",
+      "detail": "Mapping tells the robot where walls are, but avoidance sensors spot cords and socks on the way. Without it, a robot can tangle or drag items around. Look for a named sensor system and its viewing angle, as on the Lefant's 190 degree PSD, and clear the floor of loose cables before each run."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Home Type",
+      "intro": "Your floor plan decides which navigation and cleaning features you will actually use.",
+      "table": {
+        "headers": [
+          "Home type",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Single level with open floors",
+            "Tikom Robot Vacuum and Mop"
+          ],
+          [
+            "Multi-level with stairs",
+            "roborock Qrevo S5V"
+          ],
+          [
+            "Mixed carpet and hard floors",
+            "roborock Q10 S5+"
+          ],
+          [
+            "Cords, toys and pets",
+            "Lefant M330 Pro"
+          ],
+          [
+            "Small apartment or dorm",
+            "MONSGA Robot Vacuum and Mop Combo"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $100",
+            "MONSGA Robot Vacuum and Mop Combo"
+          ],
+          [
+            "$100-200 vacuum only",
+            "ILIFE A30s"
+          ],
+          [
+            "$100-200 with avoidance",
+            "Lefant M330 Pro"
+          ],
+          [
+            "$200-500 value",
+            "Tikom Robot Vacuum and Mop"
+          ],
+          [
+            "$200-500 low maintenance",
+            "roborock Q7 M5+"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Dock vs No Dock",
+      "cards": [
+        {
+          "label": "With a self-empty dock",
+          "text": "A dock removes the daily bin chore and keeps dust sealed away. Picks here: the Tikom, roborock Q7 M5+ and, with compatibility, the roborock Q10 S5+."
+        },
+        {
+          "label": "Without a dock",
+          "text": "You empty the bin by hand but pay much less and save floor space. Picks here: the ILIFE A30s, Lefant M330 Pro and MONSGA."
+        }
+      ],
+      "note": "Most buyers should default to a dock unless budget or space rules it out."
+    },
+    {
+      "subheading": "By Cleaning Priority",
+      "table": {
+        "headers": [
+          "Priority",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Edges and corners",
+            "roborock Qrevo S5V"
+          ],
+          [
+            "Strongest suction on a budget",
+            "ILIFE A30s"
+          ],
+          [
+            "Longest battery runtime",
+            "MONSGA Robot Vacuum and Mop Combo"
+          ],
+          [
+            "Fewest dock visits",
+            "roborock Q7 M5+"
+          ],
+          [
+            "Obstacle dodging",
+            "Lefant M330 Pro"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Pet Owners Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Strong suction, a dock that handles hair and dedicated obstacle sensors so the robot avoids accidents and cords."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Lefant M330 Pro offers 190° PSD avoidance, while the roborock Q7 M5+ adds a 7 to 9 week dock and 10000Pa suction for shedding."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You have several floors or many corners, in which case the roborock Qrevo S5V earns its premium with multi-floor maps and edge mopping."
+        },
+        {
+          "label": "Save if",
+          "text": "You have one small level and tidy floors, where the ILIFE A30s or MONSGA delivers real LiDAR mapping for far less."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does LiDAR work in the dark?",
+      "a": "Yes, LiDAR uses its own laser, so it does not need room light to map, which suits evening cleaning. That is a real advantage over camera-based systems. Dark rooms will not stop it navigating, though dust on the sensor window can."
+    },
+    {
+      "q": "What is the most common LiDAR vacuum mistake?",
+      "a": "Buying on the laser alone and ignoring dock and avoidance. Mapping does not stop a robot swallowing a cable or sock. Choose obstacle sensing if floors are cluttered, as with the Lefant M330 Pro."
+    },
+    {
+      "q": "Is a self-emptying dock worth it over a basic model?",
+      "a": "For most households, yes, because it removes the daily emptying. It costs more and takes space, and bags are an ongoing expense. If you vacuum a small flat, the ILIFE A30s may be enough, and you save the dock's cost."
+    },
+    {
+      "q": "How do I set up room maps?",
+      "a": "Run the first clean with doors open and the floor cleared of loose items. The app builds the map, then lets you split rooms and set no-go zones. The MONSGA stores five editable maps."
+    },
+    {
+      "q": "How often do I maintain a LiDAR robot?",
+      "a": "Clean the brush, filter and sensor window regularly, since dust on the laser hurts mapping. Replace bags or filters as the manufacturer advises, and wipe the laser window with a dry cloth. Intervals shorten with pets, so check more often."
+    },
+    {
+      "q": "Can these mop carpet?",
+      "a": "No, a damp pad on carpet is a problem. Look for carpet detection or a lift feature on the listing. Where unsure, vacuum carpet and mop only hard floors, using no-go zones."
+    }
+  ],
+  "finalTake": "The Tikom with its self-emptying base is the right LiDAR robot for most homes, since mapping, mopping and a dock arrive at a mid price. Choose the roborock Qrevo S5V for edges and multiple floors and the ILIFE A30s for a cheap vacuum-only map. Check the dock and mop, not just the laser.",
+  "related": [
+    "best-anti-tangle-robot-vacuums",
+    "best-bagless-self-emptying-robot-vacuums",
+    "best-camera-free-robot-vacuums"
+  ]
 }

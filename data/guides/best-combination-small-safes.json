@@ -1,132 +1,467 @@
 {
- "slug": "best-combination-small-safes",
- "category": "home-office",
- "h1": "The 6 Best Combination Small Safes of 2026, Ranked & Reviewed",
- "metaTitle": "Best Combination Small Safes: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: six small combination safes, from battery-free mechanical dials to keypad models, with who each one suits.",
- "mainKeyword": "combination small safes",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41oN5m8A2mL._SL500_.jpg",
- "summary": "The Master Lock 5900D is the best small combination safe: a four-digit mechanical lock with no batteries and a tether cable, for under $25. SentrySafe suits dorms and offices, and the Amazon Basics case adds a foam interior. The MAESTON is the keypad pick for anyone who wants to mount the box.",
- "intro": ["Combination covers two different lock families, and mixing them up is how people end up locked out of their own box. A mechanical dial or wheel set keeps working for decades with no power. A keypad code depends on batteries, and when those die at the wrong moment the safe becomes a paperweight until a backup key turns up.","We reviewed the spec sheets of small combination safes and ranked six. Mechanical models lead because they have one less failure point, and keypad models follow in order of the extras they add, such as mounting hardware, lockout and low-battery warnings. None of these is a substitute for a rated, anchored safe, and the listings say so by omission, since none claims a fire or burglary rating."],
- "products": [
-  {
-   "id": "master-lock-5900d", "rank": 1, "award": "Best Overall",
-   "name": "Master Lock Small Travel Safe with Cable, Gray Combination Lock Box, 5900D",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41oN5m8A2mL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B005K6JQXQ?tag=primeareviews-20",
-   "verdict": "A genuine battery-free combination box that travels with you.",
-   "description": "The Master Lock 5900D is a small travel safe with a true mechanical four-digit combination, a tether cable, a charging cable access port and a water-resistant build, for under $25. No battery means nothing to drain in a drawer over the winter, and a four-digit code gives more combinations than a three-digit one.\n\nIt ranks first because it removes the failure point that sinks keypad boxes at the lowest price. SentrySafe has a similar idea but a three-digit lock, and the keypad models trade simplicity for features.\n\nBuy it for travel or a desk drawer. The caveats are that the cable tether is not mountable and the security level is modest. Skip it if you need a safe bolted to a wall or floor.",
-   "keySpecs": [{"label": "Lock type", "value": "Mechanical 4-digit"}, {"label": "Power", "value": "None needed"}, {"label": "Tether", "value": "Cable included"}, {"label": "Price bucket", "value": "Under $25"}],
-   "pros": ["No batteries to fail", "Four-digit combination", "Charging cable access port", "Water-resistant build"],
-   "cons": ["Cable tether only", "Not mountable", "Modest security level"],
-   "idealFor": "Travelers who want a simple battery-free combination box.",
-   "skipIf": "You need a safe bolted to a wall or floor."
-  },
-  {
-   "id": "sentrysafe-small-safe-combination", "rank": 2, "award": "Best for Dorms and Offices",
-   "name": "SentrySafe Small Safe, Black Lock Box with Combination Lock for Office or Dorm",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/317kzwqRXbL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B004LAMJVI?tag=primeareviews-20",
-   "verdict": "A compact steel box with a no-battery three-digit lock.",
-   "description": "The SentrySafe small box has a true mechanical three-digit combination, a tether cable and solid steel construction, measuring 2.6 x 5.9 x 8.0 inches outside. Steel feels tougher than a plastic travel box, and the compact size fits a dorm desk or a locker.\n\nIt ranks second because three digits give fewer possible combinations than the Master Lock's four, and the interior is small. Against the Amazon Basics case, it is tidier but holds less.\n\nBuy it if you are a student or office worker locking up small valuables. Skip it if you need to store anything larger than a passport or phone. The tether is only as strong as the object you loop it around.",
-   "keySpecs": [{"label": "Lock type", "value": "Mechanical 3-digit"}, {"label": "Exterior", "value": "2.6 x 5.9 x 8.0 in"}, {"label": "Build", "value": "Solid steel"}, {"label": "Tether", "value": "Cable included"}],
-   "pros": ["No batteries needed", "Solid steel construction", "Compact desk-friendly size", "Tether cable included"],
-   "cons": ["Only three digits", "Small interior", "Cable tether, not mounted"],
-   "idealFor": "Students and office workers locking up small valuables.",
-   "skipIf": "You need to store anything larger than a passport or phone."
-  },
-  {
-   "id": "amazon-basics-portable-security-case", "rank": 3, "award": "Best for Broad Item Coverage",
-   "name": "Amazon Basics Portable Security Case Lock Box Safe with Combination Lock",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/31iXiZaJiIL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B077K1YH8Z?tag=primeareviews-20",
-   "verdict": "A foam-lined portable case with a no-battery zinc alloy lock.",
-   "description": "The Amazon Basics Portable Security Case uses a mechanical zinc alloy combination lock, an anti-pry steel body and a foam-padded interior, and it is explicitly rated for firearms. Foam lining protects fragile items like a camera or a small device.\n\nIt ranks third because it is portable and bulkier than a lock box, and offers no tether or mounting. A thief can walk off with it.\n\nBuy it for padded or varied items in a portable case. Skip it if you want a tether or mounting option. Because it carries a firearms rating in the listing, check local storage rules before relying on it for that use.",
-   "keySpecs": [{"label": "Lock type", "value": "Mechanical zinc alloy"}, {"label": "Interior", "value": "Foam-padded"}, {"label": "Construction", "value": "Anti-pry steel"}, {"label": "Price bucket", "value": "Under $25"}],
-   "pros": ["No batteries needed", "Foam-padded interior", "Anti-pry steel build", "Rated for firearms"],
-   "cons": ["Portable, easy to carry off", "Bulkier than a lock box"],
-   "idealFor": "Buyers storing padded or varied items in a portable case.",
-   "skipIf": "You want a tether or mounting option."
-  },
-  {
-   "id": "maeston-mini-electronic-safe", "rank": 4, "award": "Best Mountable Keypad",
-   "name": "MAESTON Mini Electronic Safe Box with Digital Keypad & Keys, 0.23 Cubic",
-   "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/41BeFzmCRBL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0F98ZD7P4?tag=primeareviews-20",
-   "verdict": "The keypad pick with the most flexible code and mounting kit.",
-   "description": "The MAESTON mini electronic safe has a digital keypad powered by batteries, a customizable code of 3 to 8 digits, a magnetic auto-lock door, four pre-drilled mounting holes and two expansion bolts, and includes keys. Mounting matters because a portable safe can simply be carried away, while a bolted one cannot.\n\nIt ranks fourth since it needs batteries and costs more than the mechanical picks. It beats the Yuanshikj on code length and a complete mounting kit.\n\nBuy it to bolt a keypad safe inside a cabinet. Skip it if you want zero battery dependence. Keep the emergency keys in a separate spot from the safe.",
-   "keySpecs": [{"label": "Code length", "value": "3 to 8 digits"}, {"label": "Mounting", "value": "4 holes, 2 expansion bolts"}, {"label": "Door", "value": "Magnetic auto-lock"}, {"label": "Price bucket", "value": "$25-50"}],
-   "pros": ["Flexible 3-8 digit code", "Mounting hardware included", "Magnetic auto-lock door", "Keys included"],
-   "cons": ["Needs batteries", "Costs more than mechanical picks"],
-   "idealFor": "Buyers who want to bolt a keypad safe inside a cabinet.",
-   "skipIf": "You want zero battery dependence."
-  },
-  {
-   "id": "yuanshikj-small-steel-safe", "rank": 5, "award": "Best Budget Keypad",
-   "name": "Yuanshikj Small Steel Security Safe Box with Keypad, Key, 0.23 CuFt, Black",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B078MYJYD5?tag=primeareviews-20",
-   "verdict": "A mountable keypad box in the cheapest price bucket.",
-   "description": "The Yuanshikj is a small steel keypad safe of 0.23 cubic feet with a magnetic auto-lock door, mountable construction and two emergency keys, in the lowest price bucket. Two backup keys offset the battery risk.\n\nIt ranks fifth because it is battery dependent and not a mechanical combination. It undercuts the MAESTON on price, but offers less code flexibility.\n\nBuy it if you want a keypad at the lowest cost. Skip it if you specifically want a battery-free lock. Store the keys away from the safe, and replace the batteries before they run low. Its steel body suits a drawer or shelf mount, and the magnetic door closes without a latch to fiddle with.",
-   "keySpecs": [{"label": "Lock type", "value": "Digital keypad"}, {"label": "Capacity", "value": "0.23 cu ft"}, {"label": "Backup", "value": "2 emergency keys"}, {"label": "Price bucket", "value": "Under $25"}],
-   "pros": ["Two emergency keys", "Mountable steel body", "Magnetic auto-lock door", "Lowest price bucket"],
-   "cons": ["Battery dependent", "Not a mechanical combination"],
-   "idealFor": "Keypad fans who want the lowest price.",
-   "skipIf": "You specifically want a battery-free lock."
-  },
-  {
-   "id": "voncabay-money-safe-box", "rank": 6, "award": "Best Battery Warning",
-   "name": "Voncabay Money Safe Box for Home with Digital Keypad, 0.23 Cu. Ft., Black",
-   "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/41QPOblOKSL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B09SZ6GPGR?tag=primeareviews-20",
-   "verdict": "A keypad safe that warns you before the batteries die.",
-   "description": "The Voncabay is a keypad safe of 0.23 cubic feet with an auto interior light, a low-battery warning and a five-minute lockout after three wrong entries. The warning gives you time to replace cells before you lose access.\n\nIt ranks last because it depends on batteries and costs more than basic boxes. The MAESTON and Yuanshikj offer mounting where this one is silent.\n\nBuy it for a household that wants a warning before the batteries fail. Skip it if you want a mechanical, no-power lock. The lockout slows guessing, but remember that a determined thief will attack the box rather than the keypad.",
-   "keySpecs": [{"label": "Lock type", "value": "Digital keypad"}, {"label": "Lockout", "value": "5 min after 3 wrong tries"}, {"label": "Light", "value": "Auto interior light"}, {"label": "Price bucket", "value": "$25-50"}],
-   "pros": ["Low-battery warning", "Auto interior light", "Wrong-entry lockout", "0.23 cu ft capacity"],
-   "cons": ["Battery dependent", "Costs more than basics"],
-   "idealFor": "Households that want a warning before batteries fail.",
-   "skipIf": "You want a mechanical, no-power lock."
-  }
- ],
- "methodology": [
-  {"title": "Lock reliability", "description": "We weighted mechanical locks higher because they cannot fail from a dead battery."},
-  {"title": "Mounting and tethering", "description": "We looked at whether the listing includes a tether cable or mounting hardware."},
-  {"title": "Size fit", "description": "We compared stated dimensions and capacity against what a desk or dorm user stores."},
-  {"title": "Failure safeguards", "description": "We credited emergency keys, battery warnings and wrong-entry lockouts."},
-  {"title": "Price bucket", "description": "We ranked value within each price bucket, never on an exact price."}
- ],
- "whatMatters": [
-  {"factor": "Mechanical versus keypad", "detail": "A mechanical combination uses dials or wheels and needs no power, while a keypad uses a battery-powered electronic lock. The difference matters because a dead battery can lock you out of a keypad safe. Check the listing for the phrases no batteries or battery-powered. The Master Lock, SentrySafe and Amazon Basics models are mechanical, and the other three are keypads."},
-  {"factor": "Digit count", "detail": "The number of digits sets how many combinations exist. A 3-digit code has fewer possibilities than a 4-digit one, and a keypad that accepts 3 to 8 digits gives you the longest option. Look for the exact digit range in the title or bullets, and avoid obvious codes such as birthdays or repeated numbers."},
-  {"factor": "Tether versus mounting", "detail": "A tether cable lets you loop a box to a fixed object, while mounting holes and expansion bolts anchor a safe in place. This matters because a portable safe can simply be carried off. Check for pre-drilled holes or a cable in the spec list. The MAESTON includes bolts, while the Master Lock and SentrySafe use cables."},
-  {"factor": "Interior size", "detail": "Exterior size and usable capacity differ, so a compact box may not fit your items. A small safe holds passports and keys, not laptops. Compare the stated dimensions or cubic feet against your item, such as the 0.23 cubic feet on the keypad models, and measure what you plan to store before ordering."},
-  {"factor": "Backup access", "detail": "Emergency keys and low-battery warnings give you a way in when electronics fail. Without them a keypad safe can become a problem. Check whether keys are included and where you will keep them. The Yuanshikj lists two emergency keys, and the Voncabay warns before the batteries die, which suits a busy household."}
- ],
- "howToChoose": [
-  {"subheading": "By Lock Type", "intro": "Match the lock to how much you trust batteries.", "table": {"headers": ["If you want", "Our pick"], "rows": [["Four-digit battery-free lock", "Master Lock Small Travel Safe 5900D"], ["Three-digit battery-free lock", "SentrySafe Small Safe"], ["Battery-free padded case", "Amazon Basics Portable Security Case"], ["Longest keypad code", "MAESTON Mini Electronic Safe"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["Under $25, mechanical", "Master Lock Small Travel Safe 5900D"], ["Under $25, compact", "SentrySafe Small Safe"], ["Under $25, keypad", "Yuanshikj Small Steel Security Safe"], ["$25-50", "MAESTON Mini Electronic Safe"]]}},
-  {"subheading": "Mechanical vs Keypad", "cards": [{"label": "Mechanical", "text": "No batteries, so nothing to fail. Master Lock 5900D, SentrySafe Small Safe and Amazon Basics Portable Security Case use this."}, {"label": "Keypad", "text": "Faster to open and easier to change, but battery powered. MAESTON, Yuanshikj and Voncabay use this."}], "note": "Most buyers should default to mechanical unless they open the safe daily."},
-  {"subheading": "By Security Feature", "table": {"headers": ["You want", "Our pick"], "rows": [["Wrong-entry lockout", "Voncabay Money Safe Box"], ["Wall or cabinet mounting", "MAESTON Mini Electronic Safe"], ["Emergency key backup", "Yuanshikj Small Steel Security Safe"], ["Tether cable", "SentrySafe Small Safe"]]}},
-  {"subheading": "For Dorm Rooms Specifically", "cards": [{"label": "Look for", "text": "A compact body, a tether option and no battery to forget about."}, {"label": "In this ranking", "text": "The SentrySafe Small Safe is 2.6 x 5.9 x 8.0 inches with a tether cable and a mechanical lock."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You want mounting hardware or a longer code, as on the MAESTON Mini Electronic Safe."}, {"label": "Save if", "text": "You only need to lock up small items, where the Master Lock 5900D already does the job."}]}
- ],
- "faq": [
-  {"q": "Do combination safes need batteries?", "a": "Mechanical ones do not need any power. The Master Lock 5900D, SentrySafe and Amazon Basics case run without batteries, while keypad models like the MAESTON and Voncabay need them and should have fresh cells checked regularly."},
-  {"q": "What happens if a keypad battery dies?", "a": "Most listings include emergency keys, such as the Yuanshikj. Keep that key somewhere other than the safe, and replace the batteries before they run low so you never need it. Some models also warn you, like the Voncabay."},
-  {"q": "Is a keypad safe worth it over a mechanical one?", "a": "Only if you open it often or want features like lockout and mounting. Otherwise a mechanical box like the Master Lock is simpler, cheaper to own and cannot be locked out by a dead battery."},
-  {"q": "Can I mount these safes?", "a": "The MAESTON includes four pre-drilled holes and two expansion bolts. The Master Lock is for tethering, not mounting. Mount a keypad box inside a cabinet or closet, where it is harder to reach, and screw into a stud or solid panel."},
-  {"q": "How do I keep a mechanical combination secret?", "a": "Choose a code that is not a birthday and write it down away from the safe. Change it from the factory setting if the model allows, and avoid sharing it by text message or leaving it on a sticky note."},
-  {"q": "Are these fireproof?", "a": "Do not assume so. One keypad model in this group is explicitly not fireproof, so check the listing before storing documents, and keep backups of important papers elsewhere, such as a bank deposit box."}
- ],
- "finalTake": "The Master Lock 5900D is the right small combination safe for most buyers, because it is battery-free and cheap. Pick the SentrySafe for a dorm desk and the MAESTON if you want to bolt it down. Choose the lock type first, since a dead battery is the commonest way to get locked out.",
- "related": []
+  "slug": "best-combination-small-safes",
+  "category": "home-office",
+  "h1": "The 6 Best Combination Small Safes of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Combination Small Safes: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: six small combination safes, from battery-free mechanical dials to keypad models, with who each one suits.",
+  "mainKeyword": "combination small safes",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41oN5m8A2mL._SL500_.jpg",
+  "summary": "The Master Lock 5900D is the best small combination safe: a four-digit mechanical lock with no batteries and a tether cable, for under $25. SentrySafe suits dorms and offices, and the Amazon Basics case adds a foam interior. The MAESTON is the keypad pick for anyone who wants to mount the box.",
+  "intro": [
+    "Combination covers two different lock families, and mixing them up is how people end up locked out of their own box. A mechanical dial or wheel set keeps working for decades with no power. A keypad code depends on batteries, and when those die at the wrong moment the safe becomes a paperweight until a backup key turns up.",
+    "We reviewed the spec sheets of small combination safes and ranked six. Mechanical models lead because they have one less failure point, and keypad models follow in order of the extras they add, such as mounting hardware, lockout and low-battery warnings. None of these is a substitute for a rated, anchored safe, and the listings say so by omission, since none claims a fire or burglary rating."
+  ],
+  "products": [
+    {
+      "id": "master-lock-5900d",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Master Lock Small Travel Safe with Cable, Gray Combination Lock Box, 5900D",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41oN5m8A2mL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B005K6JQXQ?tag=primeareviews-20",
+      "verdict": "A genuine battery-free combination box that travels with you.",
+      "description": "The Master Lock 5900D is a small travel safe with a true mechanical four-digit combination, a tether cable, a charging cable access port and a water-resistant build, for under $25. No battery means nothing to drain in a drawer over the winter, and a four-digit code gives more combinations than a three-digit one.\n\nIt ranks first because it removes the failure point that sinks keypad boxes at the lowest price. SentrySafe has a similar idea but a three-digit lock, and the keypad models trade simplicity for features.\n\nBuy it for travel or a desk drawer. The caveats are that the cable tether is not mountable and the security level is modest. Skip it if you need a safe bolted to a wall or floor.",
+      "keySpecs": [
+        {
+          "label": "Lock type",
+          "value": "Mechanical 4-digit"
+        },
+        {
+          "label": "Power",
+          "value": "None needed"
+        },
+        {
+          "label": "Tether",
+          "value": "Cable included"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "No batteries to fail",
+        "Four-digit combination",
+        "Charging cable access port",
+        "Water-resistant build"
+      ],
+      "cons": [
+        "Cable tether only",
+        "Not mountable",
+        "Modest security level"
+      ],
+      "idealFor": "Travelers who want a simple battery-free combination box.",
+      "skipIf": "You need a safe bolted to a wall or floor."
+    },
+    {
+      "id": "sentrysafe-small-safe-combination",
+      "rank": 2,
+      "award": "Best for Dorms and Offices",
+      "name": "SentrySafe Small Safe, Black Lock Box with Combination Lock for Office or Dorm",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/317kzwqRXbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B004LAMJVI?tag=primeareviews-20",
+      "verdict": "A compact steel box with a no-battery three-digit lock.",
+      "description": "The SentrySafe small box has a true mechanical three-digit combination, a tether cable and solid steel construction, measuring 2.6 x 5.9 x 8.0 inches outside. Steel feels tougher than a plastic travel box, and the compact size fits a dorm desk or a locker.\n\nIt ranks second because three digits give fewer possible combinations than the Master Lock's four, and the interior is small. Against the Amazon Basics case, it is tidier but holds less.\n\nBuy it if you are a student or office worker locking up small valuables. Skip it if you need to store anything larger than a passport or phone. The tether is only as strong as the object you loop it around.",
+      "keySpecs": [
+        {
+          "label": "Lock type",
+          "value": "Mechanical 3-digit"
+        },
+        {
+          "label": "Exterior",
+          "value": "2.6 x 5.9 x 8.0 in"
+        },
+        {
+          "label": "Build",
+          "value": "Solid steel"
+        },
+        {
+          "label": "Tether",
+          "value": "Cable included"
+        }
+      ],
+      "pros": [
+        "No batteries needed",
+        "Solid steel construction",
+        "Compact desk-friendly size",
+        "Tether cable included"
+      ],
+      "cons": [
+        "Only three digits",
+        "Small interior",
+        "Cable tether, not mounted"
+      ],
+      "idealFor": "Students and office workers locking up small valuables.",
+      "skipIf": "You need to store anything larger than a passport or phone."
+    },
+    {
+      "id": "amazon-basics-portable-security-case",
+      "rank": 3,
+      "award": "Best for Broad Item Coverage",
+      "name": "Amazon Basics Portable Security Case Lock Box Safe with Combination Lock",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31iXiZaJiIL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B077K1YH8Z?tag=primeareviews-20",
+      "verdict": "A foam-lined portable case with a no-battery zinc alloy lock.",
+      "description": "The Amazon Basics Portable Security Case uses a mechanical zinc alloy combination lock, an anti-pry steel body and a foam-padded interior, and it is explicitly rated for firearms. Foam lining protects fragile items like a camera or a small device.\n\nIt ranks third because it is portable and bulkier than a lock box, and offers no tether or mounting. A thief can walk off with it.\n\nBuy it for padded or varied items in a portable case. Skip it if you want a tether or mounting option. Because it carries a firearms rating in the listing, check local storage rules before relying on it for that use.",
+      "keySpecs": [
+        {
+          "label": "Lock type",
+          "value": "Mechanical zinc alloy"
+        },
+        {
+          "label": "Interior",
+          "value": "Foam-padded"
+        },
+        {
+          "label": "Construction",
+          "value": "Anti-pry steel"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "No batteries needed",
+        "Foam-padded interior",
+        "Anti-pry steel build",
+        "Rated for firearms"
+      ],
+      "cons": [
+        "Portable, easy to carry off",
+        "Bulkier than a lock box"
+      ],
+      "idealFor": "Buyers storing padded or varied items in a portable case.",
+      "skipIf": "You want a tether or mounting option."
+    },
+    {
+      "id": "maeston-mini-electronic-safe",
+      "rank": 4,
+      "award": "Best Mountable Keypad",
+      "name": "MAESTON Mini Electronic Safe Box with Digital Keypad & Keys, 0.23 Cubic",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41BeFzmCRBL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F98ZD7P4?tag=primeareviews-20",
+      "verdict": "The keypad pick with the most flexible code and mounting kit.",
+      "description": "The MAESTON mini electronic safe has a digital keypad powered by batteries, a customizable code of 3 to 8 digits, a magnetic auto-lock door, four pre-drilled mounting holes and two expansion bolts, and includes keys. Mounting matters because a portable safe can simply be carried away, while a bolted one cannot.\n\nIt ranks fourth since it needs batteries and costs more than the mechanical picks. It beats the Yuanshikj on code length and a complete mounting kit.\n\nBuy it to bolt a keypad safe inside a cabinet. Skip it if you want zero battery dependence. Keep the emergency keys in a separate spot from the safe.",
+      "keySpecs": [
+        {
+          "label": "Code length",
+          "value": "3 to 8 digits"
+        },
+        {
+          "label": "Mounting",
+          "value": "4 holes, 2 expansion bolts"
+        },
+        {
+          "label": "Door",
+          "value": "Magnetic auto-lock"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Flexible 3-8 digit code",
+        "Mounting hardware included",
+        "Magnetic auto-lock door",
+        "Keys included"
+      ],
+      "cons": [
+        "Needs batteries",
+        "Costs more than mechanical picks"
+      ],
+      "idealFor": "Buyers who want to bolt a keypad safe inside a cabinet.",
+      "skipIf": "You want zero battery dependence."
+    },
+    {
+      "id": "yuanshikj-small-steel-safe",
+      "rank": 5,
+      "award": "Best Budget Keypad",
+      "name": "Yuanshikj Small Steel Security Safe Box with Keypad, Key, 0.23 CuFt, Black",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B078MYJYD5?tag=primeareviews-20",
+      "verdict": "A mountable keypad box in the cheapest price bucket.",
+      "description": "The Yuanshikj is a small steel keypad safe of 0.23 cubic feet with a magnetic auto-lock door, mountable construction and two emergency keys, in the lowest price bucket. Two backup keys offset the battery risk.\n\nIt ranks fifth because it is battery dependent and not a mechanical combination. It undercuts the MAESTON on price, but offers less code flexibility.\n\nBuy it if you want a keypad at the lowest cost. Skip it if you specifically want a battery-free lock. Store the keys away from the safe, and replace the batteries before they run low. Its steel body suits a drawer or shelf mount, and the magnetic door closes without a latch to fiddle with.",
+      "keySpecs": [
+        {
+          "label": "Lock type",
+          "value": "Digital keypad"
+        },
+        {
+          "label": "Capacity",
+          "value": "0.23 cu ft"
+        },
+        {
+          "label": "Backup",
+          "value": "2 emergency keys"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Two emergency keys",
+        "Mountable steel body",
+        "Magnetic auto-lock door",
+        "Lowest price bucket"
+      ],
+      "cons": [
+        "Battery dependent",
+        "Not a mechanical combination"
+      ],
+      "idealFor": "Keypad fans who want the lowest price.",
+      "skipIf": "You specifically want a battery-free lock."
+    },
+    {
+      "id": "voncabay-money-safe-box",
+      "rank": 6,
+      "award": "Best Battery Warning",
+      "name": "Voncabay Money Safe Box for Home with Digital Keypad, 0.23 Cu. Ft., Black",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/41QPOblOKSL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09SZ6GPGR?tag=primeareviews-20",
+      "verdict": "A keypad safe that warns you before the batteries die.",
+      "description": "The Voncabay is a keypad safe of 0.23 cubic feet with an auto interior light, a low-battery warning and a five-minute lockout after three wrong entries. The warning gives you time to replace cells before you lose access.\n\nIt ranks last because it depends on batteries and costs more than basic boxes. The MAESTON and Yuanshikj offer mounting where this one is silent.\n\nBuy it for a household that wants a warning before the batteries fail. Skip it if you want a mechanical, no-power lock. The lockout slows guessing, but remember that a determined thief will attack the box rather than the keypad.",
+      "keySpecs": [
+        {
+          "label": "Lock type",
+          "value": "Digital keypad"
+        },
+        {
+          "label": "Lockout",
+          "value": "5 min after 3 wrong tries"
+        },
+        {
+          "label": "Light",
+          "value": "Auto interior light"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Low-battery warning",
+        "Auto interior light",
+        "Wrong-entry lockout",
+        "0.23 cu ft capacity"
+      ],
+      "cons": [
+        "Battery dependent",
+        "Costs more than basics"
+      ],
+      "idealFor": "Households that want a warning before batteries fail.",
+      "skipIf": "You want a mechanical, no-power lock."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Lock reliability",
+      "description": "We weighted mechanical locks higher because they cannot fail from a dead battery."
+    },
+    {
+      "title": "Mounting and tethering",
+      "description": "We looked at whether the listing includes a tether cable or mounting hardware."
+    },
+    {
+      "title": "Size fit",
+      "description": "We compared stated dimensions and capacity against what a desk or dorm user stores."
+    },
+    {
+      "title": "Failure safeguards",
+      "description": "We credited emergency keys, battery warnings and wrong-entry lockouts."
+    },
+    {
+      "title": "Price bucket",
+      "description": "We ranked value within each price bucket, never on an exact price."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Mechanical versus keypad",
+      "detail": "A mechanical combination uses dials or wheels and needs no power, while a keypad uses a battery-powered electronic lock. The difference matters because a dead battery can lock you out of a keypad safe. Check the listing for the phrases no batteries or battery-powered. The Master Lock, SentrySafe and Amazon Basics models are mechanical, and the other three are keypads."
+    },
+    {
+      "factor": "Digit count",
+      "detail": "The number of digits sets how many combinations exist. A 3-digit code has fewer possibilities than a 4-digit one, and a keypad that accepts 3 to 8 digits gives you the longest option. Look for the exact digit range in the title or bullets, and avoid obvious codes such as birthdays or repeated numbers."
+    },
+    {
+      "factor": "Tether versus mounting",
+      "detail": "A tether cable lets you loop a box to a fixed object, while mounting holes and expansion bolts anchor a safe in place. This matters because a portable safe can simply be carried off. Check for pre-drilled holes or a cable in the spec list. The MAESTON includes bolts, while the Master Lock and SentrySafe use cables."
+    },
+    {
+      "factor": "Interior size",
+      "detail": "Exterior size and usable capacity differ, so a compact box may not fit your items. A small safe holds passports and keys, not laptops. Compare the stated dimensions or cubic feet against your item, such as the 0.23 cubic feet on the keypad models, and measure what you plan to store before ordering."
+    },
+    {
+      "factor": "Backup access",
+      "detail": "Emergency keys and low-battery warnings give you a way in when electronics fail. Without them a keypad safe can become a problem. Check whether keys are included and where you will keep them. The Yuanshikj lists two emergency keys, and the Voncabay warns before the batteries die, which suits a busy household."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Lock Type",
+      "intro": "Match the lock to how much you trust batteries.",
+      "table": {
+        "headers": [
+          "If you want",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Four-digit battery-free lock",
+            "Master Lock Small Travel Safe 5900D"
+          ],
+          [
+            "Three-digit battery-free lock",
+            "SentrySafe Small Safe"
+          ],
+          [
+            "Battery-free padded case",
+            "Amazon Basics Portable Security Case"
+          ],
+          [
+            "Longest keypad code",
+            "MAESTON Mini Electronic Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25, mechanical",
+            "Master Lock Small Travel Safe 5900D"
+          ],
+          [
+            "Under $25, compact",
+            "SentrySafe Small Safe"
+          ],
+          [
+            "Under $25, keypad",
+            "Yuanshikj Small Steel Security Safe"
+          ],
+          [
+            "$25-50",
+            "MAESTON Mini Electronic Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Mechanical vs Keypad",
+      "cards": [
+        {
+          "label": "Mechanical",
+          "text": "No batteries, so nothing to fail. Master Lock 5900D, SentrySafe Small Safe and Amazon Basics Portable Security Case use this."
+        },
+        {
+          "label": "Keypad",
+          "text": "Faster to open and easier to change, but battery powered. MAESTON, Yuanshikj and Voncabay use this."
+        }
+      ],
+      "note": "Most buyers should default to mechanical unless they open the safe daily."
+    },
+    {
+      "subheading": "By Security Feature",
+      "table": {
+        "headers": [
+          "You want",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Wrong-entry lockout",
+            "Voncabay Money Safe Box"
+          ],
+          [
+            "Wall or cabinet mounting",
+            "MAESTON Mini Electronic Safe"
+          ],
+          [
+            "Emergency key backup",
+            "Yuanshikj Small Steel Security Safe"
+          ],
+          [
+            "Tether cable",
+            "SentrySafe Small Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Dorm Rooms Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A compact body, a tether option and no battery to forget about."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The SentrySafe Small Safe is 2.6 x 5.9 x 8.0 inches with a tether cable and a mechanical lock."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want mounting hardware or a longer code, as on the MAESTON Mini Electronic Safe."
+        },
+        {
+          "label": "Save if",
+          "text": "You only need to lock up small items, where the Master Lock 5900D already does the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do combination safes need batteries?",
+      "a": "Mechanical ones do not need any power. The Master Lock 5900D, SentrySafe and Amazon Basics case run without batteries, while keypad models like the MAESTON and Voncabay need them and should have fresh cells checked regularly."
+    },
+    {
+      "q": "What happens if a keypad battery dies?",
+      "a": "Most listings include emergency keys, such as the Yuanshikj. Keep that key somewhere other than the safe, and replace the batteries before they run low so you never need it. Some models also warn you, like the Voncabay."
+    },
+    {
+      "q": "Is a keypad safe worth it over a mechanical one?",
+      "a": "Only if you open it often or want features like lockout and mounting. Otherwise a mechanical box like the Master Lock is simpler, cheaper to own and cannot be locked out by a dead battery."
+    },
+    {
+      "q": "Can I mount these safes?",
+      "a": "The MAESTON includes four pre-drilled holes and two expansion bolts. The Master Lock is for tethering, not mounting. Mount a keypad box inside a cabinet or closet, where it is harder to reach, and screw into a stud or solid panel."
+    },
+    {
+      "q": "How do I keep a mechanical combination secret?",
+      "a": "Choose a code that is not a birthday and write it down away from the safe. Change it from the factory setting if the model allows, and avoid sharing it by text message or leaving it on a sticky note."
+    },
+    {
+      "q": "Are these fireproof?",
+      "a": "Do not assume so. One keypad model in this group is explicitly not fireproof, so check the listing before storing documents, and keep backups of important papers elsewhere, such as a bank deposit box."
+    }
+  ],
+  "finalTake": "The Master Lock 5900D is the right small combination safe for most buyers, because it is battery-free and cheap. Pick the SentrySafe for a dorm desk and the MAESTON if you want to bolt it down. Choose the lock type first, since a dead battery is the commonest way to get locked out.",
+  "related": [
+    "best-hidden-small-safes",
+    "best-personal-small-safes",
+    "best-sentrysafe-small-safes"
+  ]
 }

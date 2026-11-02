@@ -1,259 +1,544 @@
 {
- "slug": "best-mechanical-keyboard-layouts-explained",
- "category": "tech-accessories",
- "h1": "The 8 Best Mechanical Keyboard Layouts Explained, Ranked & Reviewed (2026)",
- "metaTitle": "Best Keyboard Layouts 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: eight mechanical keyboards across TKL, 75% and full-size layouts, with plain advice on which layout fits your desk and work.",
- "mainKeyword": "mechanical keyboard layout",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
- "summary": "The AULA F75 Pro is the best mechanical keyboard in this guide for most people: a 75% layout that keeps arrows and the function row, with three connection modes and hot-swap switches. The Logitech G413 TKL is the easy first step down from full-size, and the Keychron V6 Max suits numpad users who want wireless.",
- "intro": ["The costly mistake in this category is buying a layout for the photograph. A compact board looks tidy until you reach for a numpad that is gone or a Home key that has moved behind a function layer, and then the keyboard ends up in a drawer. Layout is a decision about the keys you press daily, not about desk aesthetics.","We reviewed eight boards covering the three layouts people actually choose between: tenkeyless, 75% and full-size. Each pick was ranked on layout usefulness, switch and keycap quality, connection options and how easy it is to customize later, using spec sheets and owner experience. Layout comes first because every other feature is secondary if the key you need is missing."],
- "products": [
-  {
-   "id": "aula-f75-pro",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "AULA F75 Pro Wireless Mechanical Keyboard, 75% Hot Swappable",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41gvYA4qsmL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0D14N2QZF?tag=primeareviews-20",
-   "verdict": "A 75% board that keeps the keys you use and drops the ones you do not.",
-   "description": "The AULA F75 Pro is a 75% board with a compressed right-side cluster, hot-swappable pre-lubed switches, 2.4GHz, USB-C and Bluetooth 5.0 connections, PBT side-printed keycaps and a rotary volume knob. A 75% layout keeps the arrows and F-row that a 60% board drops, so you save width without hunting for missing keys.\n\nIt ranks first because it hits the useful middle of the layout range at a modest price. The Logitech TKL is more familiar but wired and not hot-swappable.\n\nBuy it as a small board that still has dedicated arrow and function keys. The caveats are no numpad and a tight right-side cluster. Skip it if you enter numbers or spreadsheet data for hours each day.",
-   "keySpecs": [
-    {"label": "Layout", "value": "75%"},
-    {"label": "Connection", "value": "2.4GHz, USB-C, Bluetooth 5.0"},
-    {"label": "Switches", "value": "Hot-swappable, pre-lubed"},
-    {"label": "Keycaps", "value": "PBT side-printed"}
-   ],
-   "pros": ["Compact with arrows and F-row", "Three connection modes", "Hot-swappable switches", "Rotary volume knob"],
-   "cons": ["No numpad at all", "Tight right-side cluster"],
-   "idealFor": "Hybrid workers who want a small board that still has dedicated arrow and function keys.",
-   "skipIf": "You enter numbers or spreadsheet data for hours each day."
-  },
-  {
-   "id": "logitech-g413-tkl-se",
-   "rank": 2,
-   "award": "Best First Step Down",
-   "name": "Logitech G413 TKL SE Mechanical Gaming Keyboard",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B08Z7J4KV3?tag=primeareviews-20",
-   "verdict": "The least surprising way to leave the numpad behind.",
-   "description": "The Logitech G413 TKL SE uses an 80% tenkeyless layout with a full F-row and a dedicated arrow and navigation cluster, wired mechanical switches, an aluminum-alloy top case and G HUB support. Because nothing moves except the numpad, muscle memory carries over from a full-size board.\n\nIt ranks second since it is wired only and the switches are not hot-swappable. It requires the least relearning of any compact board.\n\nBuy it if you are moving from a full-size board and want zero relearning. Skip it if you want a wireless board or plan to swap switches later. The metal top case adds rigidity for the price, and the full navigation cluster keeps Home and End where you expect them. Because it is a gaming board, expect bright lighting that you can tone down in software.",
-   "keySpecs": [
-    {"label": "Layout", "value": "TKL (80%)"},
-    {"label": "Connection", "value": "Wired"},
-    {"label": "Top case", "value": "Aluminum alloy"},
-    {"label": "Software", "value": "Logitech G HUB"}
-   ],
-   "pros": ["Familiar key positions", "Full nav cluster kept", "Metal top case", "Simple wired setup"],
-   "cons": ["Wired only", "Not hot-swappable"],
-   "idealFor": "People moving from a full-size board who want zero relearning.",
-   "skipIf": "You want a wireless board or plan to swap switches later."
-  },
-  {
-   "id": "keychron-v6-max-brown",
-   "rank": 3,
-   "award": "Best Wireless Full-Size",
-   "name": "Keychron V6 Max Wireless, Gateron Brown Switch",
-   "score": 89,
-   "imageUrl": "https://m.media-amazon.com/images/I/413s7zLyA1L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0D14L7VZ6?tag=primeareviews-20",
-   "verdict": "A full-size board you can finally put anywhere on the desk.",
-   "description": "The Keychron V6 Max with Gateron Brown switches is a full-size wireless board with a numpad, tactile hot-swappable switches, 2.4GHz and Bluetooth 5.1, QMK/VIA firmware and RGB backlighting. A tactile bump confirms each press without the noise of a clicky switch.\n\nIt ranks third because the footprint is big and it sits in a higher price bucket. It is the full-size board you can put anywhere on the desk.\n\nBuy it for numpad work with wireless and a tactile feel. Skip it if desk width is tight or you prefer smooth linear switches. QMK/VIA lets you remap the layout in software.",
-   "keySpecs": [
-    {"label": "Layout", "value": "Full-size with numpad"},
-    {"label": "Connection", "value": "2.4GHz, Bluetooth 5.1"},
-    {"label": "Switch", "value": "Gateron Brown (tactile)"},
-    {"label": "Firmware", "value": "QMK/VIA"}
-   ],
-   "pros": ["Wireless with a numpad", "Tactile, quiet-ish switches", "Fully remappable firmware", "Hot-swappable sockets"],
-   "cons": ["Big desk footprint", "Higher price bucket"],
-   "idealFor": "Numpad users who want wireless and a tactile typing feel.",
-   "skipIf": "Desk width is tight or you prefer smooth linear switches."
-  },
-  {
-   "id": "keychron-v6-max-banana",
-   "rank": 4,
-   "award": "Best Linear Full-Size",
-   "name": "Keychron V6 Max Wireless, Gateron Banana Switch",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/31CBQMyMfsL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DM8T2YZY?tag=primeareviews-20",
-   "verdict": "Same full-size wireless body, with a smooth linear stroke.",
-   "description": "The Keychron V6 Max with Gateron Banana switches is the same wireless full-size body, with linear switches, hot-swap sockets, 2.4GHz and Bluetooth 5.1, and QMK/VIA remapping. A linear stroke is smooth with no bump, which many typists and gamers prefer.\n\nIt ranks fourth because linear switches give no tactile confirmation and the board takes a lot of desk. It differs from the Brown version only in feel.\n\nBuy it if you prefer linear switches and need a numpad. Skip it if you want tactile feedback to confirm each keypress. Because the sockets are hot-swappable, you can change your mind later, and swapping to tactile switches costs little.",
-   "keySpecs": [
-    {"label": "Layout", "value": "Full-size with numpad"},
-    {"label": "Connection", "value": "2.4GHz, Bluetooth 5.1"},
-    {"label": "Switch", "value": "Gateron Banana (linear)"},
-    {"label": "Backlight", "value": "RGB"}
-   ],
-   "pros": ["Smooth linear keystroke", "Wireless full-size layout", "QMK/VIA remapping", "Hot-swappable switches"],
-   "cons": ["No tactile bump", "Takes a lot of desk"],
-   "idealFor": "Typists who prefer linear switches and need a numpad.",
-   "skipIf": "You want tactile feedback to confirm each keypress."
-  },
-  {
-   "id": "keychron-v6-knob",
-   "rank": 5,
-   "award": "Best Wired Customizer",
-   "name": "Keychron V6 Wired Custom Mechanical Keyboard, Knob Version",
-   "score": 86,
-   "imageUrl": "https://m.media-amazon.com/images/I/41GdrDKwGaL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0B2DMKFM5?tag=primeareviews-20",
-   "verdict": "The tweakable full-size board without a wireless premium.",
-   "description": "The Keychron V6 Wired Knob Version is a full-size board with a numpad, a rotary knob, QMK/VIA firmware, hot-swappable K Pro Brown switches and a wired USB-C connection that works on Mac and Windows. A knob handles volume without a function layer.\n\nIt ranks fifth because it is wired only and has the full-size footprint. It is cheaper than the wireless V6 Max.\n\nBuy it for a numpad user who likes to remap keys and stay plugged in. Skip it if you want to move the keyboard around without a cable. A wired link suits a fixed desk well, and the knob frees a function key for other uses. Hot-swap sockets let you try linear switches later without soldering.",
-   "keySpecs": [
-    {"label": "Layout", "value": "Full-size, rotary knob"},
-    {"label": "Connection", "value": "Wired USB-C"},
-    {"label": "Switch", "value": "K Pro Brown, hot-swap"},
-    {"label": "OS", "value": "Mac and Windows"}
-   ],
-   "pros": ["Rotary knob for volume", "QMK/VIA customization", "Hot-swap sockets", "Works on Mac and Windows"],
-   "cons": ["Wired only", "Full-size footprint"],
-   "idealFor": "Numpad users who like to remap keys and stay plugged in.",
-   "skipIf": "You want to move the keyboard around without a cable."
-  },
-  {
-   "id": "keychron-v6-frosted",
-   "rank": 6,
-   "award": "Best No-Knob Keychron",
-   "name": "Keychron V6 Wired, Frosted Black-Translucent",
-   "score": 84,
-   "imageUrl": "https://m.media-amazon.com/images/I/41kuxJTAsdL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0B2DPFWGR?tag=primeareviews-20",
-   "verdict": "Keychron's hot-swap experience with the knob left off.",
-   "description": "The Keychron V6 Wired in frosted black-translucent has no rotary knob, with a numpad, K Pro Brown hot-swap switches, QMK/VIA firmware and a wired USB-C link. It is the V6 board with the knob left off.\n\nIt ranks sixth because it lacks a volume knob and is wired only. The translucent case is its styling.\n\nBuy it for the V6 board and no extras. Skip it if a volume knob or wireless matters. The knob version costs about the same, so check the price before choosing. Otherwise the board matches the knob version for firmware, switches and case quality, so the choice is largely about looks.",
-   "keySpecs": [
-    {"label": "Layout", "value": "Full-size, no knob"},
-    {"label": "Connection", "value": "Wired USB-C"},
-    {"label": "Switch", "value": "K Pro Brown, hot-swap"},
-    {"label": "Case", "value": "Frosted black-translucent"}
-   ],
-   "pros": ["Translucent case styling", "Remappable QMK/VIA", "Hot-swappable sockets", "Numpad included"],
-   "cons": ["No volume knob", "Wired only"],
-   "idealFor": "Buyers who want the V6 board and no extras.",
-   "skipIf": "A volume knob or wireless matters to you."
-  },
-  {
-   "id": "redragon-k668",
-   "rank": 7,
-   "award": "Best for Macro Keys",
-   "name": "Redragon K668 RGB Gaming Keyboard, 108 Keys",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CDWP1D58?tag=primeareviews-20",
-   "verdict": "A budget full-size board with four extra hotkeys and swappable switches.",
-   "description": "The Redragon K668 is a 108-key full-size board with four extra hotkeys, a hot-swappable socket with red switches, two sets of PBT keycaps, a sound-absorbing foam case and a wired USB connection. Four macro keys help with shortcuts.\n\nIt ranks seventh because it is wired and large. It offers a numpad and swappable switches at a budget price.\n\nBuy it if you want a numpad plus extra hotkeys on a budget. Skip it if you want wireless or advanced firmware remapping. The foam dampens the case, which improves the sound, and two keycap sets let you change the look. The red switch is linear, so expect a smooth, quiet-ish stroke.",
-   "keySpecs": [
-    {"label": "Layout", "value": "108-key full-size"},
-    {"label": "Switch", "value": "Red, hot-swap socket"},
-    {"label": "Keycaps", "value": "Two PBT sets included"},
-    {"label": "Connection", "value": "Wired USB"}
-   ],
-   "pros": ["Four extra macro keys", "Hot-swap sockets", "Foam-dampened case", "Two PBT keycap sets"],
-   "cons": ["Wired only", "Large footprint"],
-   "idealFor": "Budget shoppers who want a numpad plus extra hotkeys.",
-   "skipIf": "You want wireless or advanced firmware remapping."
-  },
-  {
-   "id": "risophy-104",
-   "rank": 8,
-   "award": "Best Budget Numpad Board",
-   "name": "RisoPhy Mechanical Gaming Keyboard, RGB 104 Keys",
-   "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B09TR4Y91J?tag=primeareviews-20",
-   "verdict": "The cheapest way to get a real numpad on a mechanical board.",
-   "description": "The RisoPhy is a 104-key full-size board with blue clicky switches, ABS keycaps, a spill-resistant build, anti-ghosting and RGB backlighting, wired by USB. It is the cheapest numpad board here.\n\nIt ranks last because clicky blue switches are loud, ABS keycaps wear shiny and it is not hot-swappable. It is a basic board.\n\nBuy it for numpad use alone on a tight budget. Skip it if you share a room or take video calls. Loud switches are the main cost, and the board cannot swap them later. The spill-resistant build gives some reassurance at a desk with drinks.",
-   "keySpecs": [
-    {"label": "Layout", "value": "104-key full-size"},
-    {"label": "Switch", "value": "Blue (clicky)"},
-    {"label": "Keycaps", "value": "ABS"},
-    {"label": "Extras", "value": "Spill-resistant, anti-ghosting"}
-   ],
-   "pros": ["Lowest price bucket", "Full numpad", "Spill-resistant design", "RGB backlighting"],
-   "cons": ["Loud clicky switches", "ABS keycaps wear shiny", "Not hot-swappable"],
-   "idealFor": "Numpad users on a tight budget working alone.",
-   "skipIf": "You share a room or take video calls."
-  }
- ],
- "methodology": [
-  {"title": "Layout usefulness", "description": "We checked which keys each layout removes and whether the ones that remain cover typical work, from arrows to a numpad."},
-  {"title": "Desk footprint", "description": "Width matters on small desks, so compact layouts scored higher than full-size boards where function was equal."},
-  {"title": "Switch and keycap quality", "description": "We looked at switch type, hot-swap sockets and PBT versus ABS caps on each spec sheet."},
-  {"title": "Connectivity", "description": "Wireless and multi-device options were weighed against wired-only designs for a shared desk."},
-  {"title": "Customization", "description": "Remappable firmware and swappable switches extend a board's life, so they added to the score."}
- ],
- "whatMatters": [
-  {"factor": "Layout size", "detail": "Layout means which keys the board includes: full-size has everything, TKL drops the numpad, 75% squeezes the cluster tighter still. It matters because each cut saves desk width but removes a key you may use daily. Check the product photo for arrow keys, a function row and where Delete and Page Up sit before you commit to a size, and count the keys you use in a normal day."},
-  {"factor": "Numpad need", "detail": "A numpad is the block of digits on the right side. People who enter figures or use shortcuts built on it lose speed without it. Be honest about how often you use it, since a knob or layer does not replace it. Look for a 104 or 108 key count in the listing, as on the Redragon and RisoPhy."},
-  {"factor": "Switch type", "detail": "Linear switches press smoothly, tactile ones have a bump, and clicky ones add sound. The choice changes noise and feel across a full day. Check whether sockets are hot-swappable, which lets you change switches later without soldering. The Keychron, AULA and Redragon boards are, and the Logitech and RisoPhy are not, which matters if you may want a quieter feel later."},
-  {"factor": "Connection mode", "detail": "Wired boards avoid battery worries, while wireless ones free the desk. Multi-mode boards pair with several devices. Look for 2.4GHz or Bluetooth in the listing, and note the cable type for wired boards. The AULA F75 Pro and Keychron V6 Max offer both, and the wired V6 and Logitech do not."},
-  {"factor": "Firmware and keycaps", "detail": "QMK/VIA firmware lets you remap keys in software, and PBT keycaps resist shine better than ABS. Both extend ownership. Search the specs for QMK, VIA and keycap material, and remember that remapping works best on wired or 2.4GHz connections. The Keychron V6 boards list QMK/VIA, the AULA lists PBT keycaps, and the RisoPhy uses ABS."}
- ],
- "howToChoose": [
-  {
-   "subheading": "By Layout Need",
-   "intro": "Pick the layout first, then the brand.",
-   "table": {"headers": ["If you need", "Our pick"], "rows": [
-    ["Small footprint, keep arrows and F-row", "AULA F75 Pro"],
-    ["Zero relearning, no numpad", "Logitech G413 TKL SE"],
-    ["Numpad, wireless", "Keychron V6 Max Brown"],
-    ["Numpad plus macro keys", "Redragon K668"]
-   ]}
-  },
-  {
-   "subheading": "By Budget",
-   "table": {"headers": ["Spend", "Our pick"], "rows": [
-    ["Under $50", "RisoPhy 104-key, Redragon K668"],
-    ["$50 to $100", "AULA F75 Pro, Logitech G413 TKL SE, Keychron V6 Knob"],
-    ["$100 to $200", "Keychron V6 Max Brown or Banana"]
-   ]}
-  },
-  {
-   "subheading": "Compact vs Full-Size",
-   "cards": [
-    {"label": "Compact", "text": "75% and TKL layouts save width and shorten the mouse reach. The AULA F75 Pro and Logitech G413 TKL SE lead here."},
-    {"label": "Full-size", "text": "Full-size keeps the numpad and extra keys, but takes more room. The Keychron V6 family, Redragon K668 and RisoPhy are the picks."}
-   ],
-   "note": "Most buyers should default to compact unless they truly use the numpad every day."
-  },
-  {
-   "subheading": "By Switch Feel",
-   "table": {"headers": ["Preference", "Our pick"], "rows": [
-    ["Smooth linear", "Keychron V6 Max Banana"],
-    ["Gentle tactile bump", "Keychron V6 Max Brown, Keychron V6 Knob"],
-    ["Loud and clicky", "RisoPhy 104-key"],
-    ["Swap switches later", "AULA F75 Pro, Redragon K668"]
-   ]}
-  },
-  {
-   "subheading": "For Shared Desks Specifically",
-   "cards": [
-    {"label": "Look for", "text": "A wireless or multi-device mode, quiet tactile or linear switches, and a narrow body."},
-    {"label": "In this ranking", "text": "The AULA F75 Pro pairs three connection modes with a compact body. Skip the RisoPhy because of its clicky blue switches."}
-   ]
-  },
-  {
-   "subheading": "When to Spend More",
-   "cards": [
-    {"label": "Spend more if", "text": "You want wireless full-size or long-term remapping. The Keychron V6 Max models and V6 Knob justify it through QMK/VIA firmware."},
-    {"label": "Save if", "text": "You type in one place and the numpad is the only requirement. The Redragon K668 or RisoPhy covers it."}
-   ]
-  }
- ],
- "faq": [
-  {"q": "Is a 75% keyboard hard to get used to?", "a": "Most people adapt within a few days, and typing speed returns quickly. The main change is that Delete, Page Up and Page Down sit in a single compressed column. If you want no adjustment at all, the Logitech G413 TKL SE keeps standard spacing."},
-  {"q": "What is the most common layout mistake?", "a": "Buying a compact board and then missing the numpad or navigation keys. Count how often you use each key before you commit, because layers are slower than a real key, and a compact board never feels truly compact if you keep reaching for missing keys."},
-  {"q": "Is hot-swap worth paying for?", "a": "It lets you change switches without soldering, so a bad first choice is not permanent. The AULA F75 Pro, Redragon K668 and Keychron V6 boards all offer it, while the Logitech and RisoPhy do not."},
-  {"q": "Do these work on Mac and Windows?", "a": "The Keychron V6 Knob lists Mac and Windows compatibility directly. Others generally work as standard keyboards, but confirm the keycap legends and any software support on the listing."},
-  {"q": "How do I keep a mechanical keyboard clean?", "a": "Pull the keycaps with a puller, brush out crumbs and wipe the plate. PBT caps resist shine, so they tend to look better longer than ABS, and dust is easier to clear from hot-swap boards."},
-  {"q": "Are blue switches a problem at the office?", "a": "Yes for shared spaces and open offices. Blue switches click audibly on every press, which is why the RisoPhy suits a private room better than an open desk."}
- ],
- "finalTake": "The AULA F75 Pro is the right mechanical keyboard for most people who want a smaller footprint, because a 75% layout keeps the keys you use. Pick the Logitech G413 TKL for zero relearning and the Keychron V6 Max for a wireless numpad. Choose the layout before the switch.",
- "related": []
+  "slug": "best-mechanical-keyboard-layouts-explained",
+  "category": "tech-accessories",
+  "h1": "The 8 Best Mechanical Keyboard Layouts Explained, Ranked & Reviewed (2026)",
+  "metaTitle": "Best Keyboard Layouts 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: eight mechanical keyboards across TKL, 75% and full-size layouts, with plain advice on which layout fits your desk and work.",
+  "mainKeyword": "mechanical keyboard layout",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
+  "summary": "The AULA F75 Pro is the best mechanical keyboard in this guide for most people: a 75% layout that keeps arrows and the function row, with three connection modes and hot-swap switches. The Logitech G413 TKL is the easy first step down from full-size, and the Keychron V6 Max suits numpad users who want wireless.",
+  "intro": [
+    "The costly mistake in this category is buying a layout for the photograph. A compact board looks tidy until you reach for a numpad that is gone or a Home key that has moved behind a function layer, and then the keyboard ends up in a drawer. Layout is a decision about the keys you press daily, not about desk aesthetics.",
+    "We reviewed eight boards covering the three layouts people actually choose between: tenkeyless, 75% and full-size. Each pick was ranked on layout usefulness, switch and keycap quality, connection options and how easy it is to customize later, using spec sheets and owner experience. Layout comes first because every other feature is secondary if the key you need is missing."
+  ],
+  "products": [
+    {
+      "id": "aula-f75-pro",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "AULA F75 Pro Wireless Mechanical Keyboard, 75% Hot Swappable",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41gvYA4qsmL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D14N2QZF?tag=primeareviews-20",
+      "verdict": "A 75% board that keeps the keys you use and drops the ones you do not.",
+      "description": "The AULA F75 Pro is a 75% board with a compressed right-side cluster, hot-swappable pre-lubed switches, 2.4GHz, USB-C and Bluetooth 5.0 connections, PBT side-printed keycaps and a rotary volume knob. A 75% layout keeps the arrows and F-row that a 60% board drops, so you save width without hunting for missing keys.\n\nIt ranks first because it hits the useful middle of the layout range at a modest price. The Logitech TKL is more familiar but wired and not hot-swappable.\n\nBuy it as a small board that still has dedicated arrow and function keys. The caveats are no numpad and a tight right-side cluster. Skip it if you enter numbers or spreadsheet data for hours each day.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "75%"
+        },
+        {
+          "label": "Connection",
+          "value": "2.4GHz, USB-C, Bluetooth 5.0"
+        },
+        {
+          "label": "Switches",
+          "value": "Hot-swappable, pre-lubed"
+        },
+        {
+          "label": "Keycaps",
+          "value": "PBT side-printed"
+        }
+      ],
+      "pros": [
+        "Compact with arrows and F-row",
+        "Three connection modes",
+        "Hot-swappable switches",
+        "Rotary volume knob"
+      ],
+      "cons": [
+        "No numpad at all",
+        "Tight right-side cluster"
+      ],
+      "idealFor": "Hybrid workers who want a small board that still has dedicated arrow and function keys.",
+      "skipIf": "You enter numbers or spreadsheet data for hours each day."
+    },
+    {
+      "id": "logitech-g413-tkl-se",
+      "rank": 2,
+      "award": "Best First Step Down",
+      "name": "Logitech G413 TKL SE Mechanical Gaming Keyboard",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08Z7J4KV3?tag=primeareviews-20",
+      "verdict": "The least surprising way to leave the numpad behind.",
+      "description": "The Logitech G413 TKL SE uses an 80% tenkeyless layout with a full F-row and a dedicated arrow and navigation cluster, wired mechanical switches, an aluminum-alloy top case and G HUB support. Because nothing moves except the numpad, muscle memory carries over from a full-size board.\n\nIt ranks second since it is wired only and the switches are not hot-swappable. It requires the least relearning of any compact board.\n\nBuy it if you are moving from a full-size board and want zero relearning. Skip it if you want a wireless board or plan to swap switches later. The metal top case adds rigidity for the price, and the full navigation cluster keeps Home and End where you expect them. Because it is a gaming board, expect bright lighting that you can tone down in software.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "TKL (80%)"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired"
+        },
+        {
+          "label": "Top case",
+          "value": "Aluminum alloy"
+        },
+        {
+          "label": "Software",
+          "value": "Logitech G HUB"
+        }
+      ],
+      "pros": [
+        "Familiar key positions",
+        "Full nav cluster kept",
+        "Metal top case",
+        "Simple wired setup"
+      ],
+      "cons": [
+        "Wired only",
+        "Not hot-swappable"
+      ],
+      "idealFor": "People moving from a full-size board who want zero relearning.",
+      "skipIf": "You want a wireless board or plan to swap switches later."
+    },
+    {
+      "id": "keychron-v6-max-brown",
+      "rank": 3,
+      "award": "Best Wireless Full-Size",
+      "name": "Keychron V6 Max Wireless, Gateron Brown Switch",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/413s7zLyA1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D14L7VZ6?tag=primeareviews-20",
+      "verdict": "A full-size board you can finally put anywhere on the desk.",
+      "description": "The Keychron V6 Max with Gateron Brown switches is a full-size wireless board with a numpad, tactile hot-swappable switches, 2.4GHz and Bluetooth 5.1, QMK/VIA firmware and RGB backlighting. A tactile bump confirms each press without the noise of a clicky switch.\n\nIt ranks third because the footprint is big and it sits in a higher price bucket. It is the full-size board you can put anywhere on the desk.\n\nBuy it for numpad work with wireless and a tactile feel. Skip it if desk width is tight or you prefer smooth linear switches. QMK/VIA lets you remap the layout in software.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full-size with numpad"
+        },
+        {
+          "label": "Connection",
+          "value": "2.4GHz, Bluetooth 5.1"
+        },
+        {
+          "label": "Switch",
+          "value": "Gateron Brown (tactile)"
+        },
+        {
+          "label": "Firmware",
+          "value": "QMK/VIA"
+        }
+      ],
+      "pros": [
+        "Wireless with a numpad",
+        "Tactile, quiet-ish switches",
+        "Fully remappable firmware",
+        "Hot-swappable sockets"
+      ],
+      "cons": [
+        "Big desk footprint",
+        "Higher price bucket"
+      ],
+      "idealFor": "Numpad users who want wireless and a tactile typing feel.",
+      "skipIf": "Desk width is tight or you prefer smooth linear switches."
+    },
+    {
+      "id": "keychron-v6-max-banana",
+      "rank": 4,
+      "award": "Best Linear Full-Size",
+      "name": "Keychron V6 Max Wireless, Gateron Banana Switch",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31CBQMyMfsL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DM8T2YZY?tag=primeareviews-20",
+      "verdict": "Same full-size wireless body, with a smooth linear stroke.",
+      "description": "The Keychron V6 Max with Gateron Banana switches is the same wireless full-size body, with linear switches, hot-swap sockets, 2.4GHz and Bluetooth 5.1, and QMK/VIA remapping. A linear stroke is smooth with no bump, which many typists and gamers prefer.\n\nIt ranks fourth because linear switches give no tactile confirmation and the board takes a lot of desk. It differs from the Brown version only in feel.\n\nBuy it if you prefer linear switches and need a numpad. Skip it if you want tactile feedback to confirm each keypress. Because the sockets are hot-swappable, you can change your mind later, and swapping to tactile switches costs little.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full-size with numpad"
+        },
+        {
+          "label": "Connection",
+          "value": "2.4GHz, Bluetooth 5.1"
+        },
+        {
+          "label": "Switch",
+          "value": "Gateron Banana (linear)"
+        },
+        {
+          "label": "Backlight",
+          "value": "RGB"
+        }
+      ],
+      "pros": [
+        "Smooth linear keystroke",
+        "Wireless full-size layout",
+        "QMK/VIA remapping",
+        "Hot-swappable switches"
+      ],
+      "cons": [
+        "No tactile bump",
+        "Takes a lot of desk"
+      ],
+      "idealFor": "Typists who prefer linear switches and need a numpad.",
+      "skipIf": "You want tactile feedback to confirm each keypress."
+    },
+    {
+      "id": "keychron-v6-knob",
+      "rank": 5,
+      "award": "Best Wired Customizer",
+      "name": "Keychron V6 Wired Custom Mechanical Keyboard, Knob Version",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/41GdrDKwGaL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B2DMKFM5?tag=primeareviews-20",
+      "verdict": "The tweakable full-size board without a wireless premium.",
+      "description": "The Keychron V6 Wired Knob Version is a full-size board with a numpad, a rotary knob, QMK/VIA firmware, hot-swappable K Pro Brown switches and a wired USB-C connection that works on Mac and Windows. A knob handles volume without a function layer.\n\nIt ranks fifth because it is wired only and has the full-size footprint. It is cheaper than the wireless V6 Max.\n\nBuy it for a numpad user who likes to remap keys and stay plugged in. Skip it if you want to move the keyboard around without a cable. A wired link suits a fixed desk well, and the knob frees a function key for other uses. Hot-swap sockets let you try linear switches later without soldering.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full-size, rotary knob"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired USB-C"
+        },
+        {
+          "label": "Switch",
+          "value": "K Pro Brown, hot-swap"
+        },
+        {
+          "label": "OS",
+          "value": "Mac and Windows"
+        }
+      ],
+      "pros": [
+        "Rotary knob for volume",
+        "QMK/VIA customization",
+        "Hot-swap sockets",
+        "Works on Mac and Windows"
+      ],
+      "cons": [
+        "Wired only",
+        "Full-size footprint"
+      ],
+      "idealFor": "Numpad users who like to remap keys and stay plugged in.",
+      "skipIf": "You want to move the keyboard around without a cable."
+    },
+    {
+      "id": "keychron-v6-frosted",
+      "rank": 6,
+      "award": "Best No-Knob Keychron",
+      "name": "Keychron V6 Wired, Frosted Black-Translucent",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41kuxJTAsdL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B2DPFWGR?tag=primeareviews-20",
+      "verdict": "Keychron's hot-swap experience with the knob left off.",
+      "description": "The Keychron V6 Wired in frosted black-translucent has no rotary knob, with a numpad, K Pro Brown hot-swap switches, QMK/VIA firmware and a wired USB-C link. It is the V6 board with the knob left off.\n\nIt ranks sixth because it lacks a volume knob and is wired only. The translucent case is its styling.\n\nBuy it for the V6 board and no extras. Skip it if a volume knob or wireless matters. The knob version costs about the same, so check the price before choosing. Otherwise the board matches the knob version for firmware, switches and case quality, so the choice is largely about looks.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full-size, no knob"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired USB-C"
+        },
+        {
+          "label": "Switch",
+          "value": "K Pro Brown, hot-swap"
+        },
+        {
+          "label": "Case",
+          "value": "Frosted black-translucent"
+        }
+      ],
+      "pros": [
+        "Translucent case styling",
+        "Remappable QMK/VIA",
+        "Hot-swappable sockets",
+        "Numpad included"
+      ],
+      "cons": [
+        "No volume knob",
+        "Wired only"
+      ],
+      "idealFor": "Buyers who want the V6 board and no extras.",
+      "skipIf": "A volume knob or wireless matters to you."
+    },
+    {
+      "id": "redragon-k668",
+      "rank": 7,
+      "award": "Best for Macro Keys",
+      "name": "Redragon K668 RGB Gaming Keyboard, 108 Keys",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CDWP1D58?tag=primeareviews-20",
+      "verdict": "A budget full-size board with four extra hotkeys and swappable switches.",
+      "description": "The Redragon K668 is a 108-key full-size board with four extra hotkeys, a hot-swappable socket with red switches, two sets of PBT keycaps, a sound-absorbing foam case and a wired USB connection. Four macro keys help with shortcuts.\n\nIt ranks seventh because it is wired and large. It offers a numpad and swappable switches at a budget price.\n\nBuy it if you want a numpad plus extra hotkeys on a budget. Skip it if you want wireless or advanced firmware remapping. The foam dampens the case, which improves the sound, and two keycap sets let you change the look. The red switch is linear, so expect a smooth, quiet-ish stroke.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "108-key full-size"
+        },
+        {
+          "label": "Switch",
+          "value": "Red, hot-swap socket"
+        },
+        {
+          "label": "Keycaps",
+          "value": "Two PBT sets included"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired USB"
+        }
+      ],
+      "pros": [
+        "Four extra macro keys",
+        "Hot-swap sockets",
+        "Foam-dampened case",
+        "Two PBT keycap sets"
+      ],
+      "cons": [
+        "Wired only",
+        "Large footprint"
+      ],
+      "idealFor": "Budget shoppers who want a numpad plus extra hotkeys.",
+      "skipIf": "You want wireless or advanced firmware remapping."
+    },
+    {
+      "id": "risophy-104",
+      "rank": 8,
+      "award": "Best Budget Numpad Board",
+      "name": "RisoPhy Mechanical Gaming Keyboard, RGB 104 Keys",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09TR4Y91J?tag=primeareviews-20",
+      "verdict": "The cheapest way to get a real numpad on a mechanical board.",
+      "description": "The RisoPhy is a 104-key full-size board with blue clicky switches, ABS keycaps, a spill-resistant build, anti-ghosting and RGB backlighting, wired by USB. It is the cheapest numpad board here.\n\nIt ranks last because clicky blue switches are loud, ABS keycaps wear shiny and it is not hot-swappable. It is a basic board.\n\nBuy it for numpad use alone on a tight budget. Skip it if you share a room or take video calls. Loud switches are the main cost, and the board cannot swap them later. The spill-resistant build gives some reassurance at a desk with drinks.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "104-key full-size"
+        },
+        {
+          "label": "Switch",
+          "value": "Blue (clicky)"
+        },
+        {
+          "label": "Keycaps",
+          "value": "ABS"
+        },
+        {
+          "label": "Extras",
+          "value": "Spill-resistant, anti-ghosting"
+        }
+      ],
+      "pros": [
+        "Lowest price bucket",
+        "Full numpad",
+        "Spill-resistant design",
+        "RGB backlighting"
+      ],
+      "cons": [
+        "Loud clicky switches",
+        "ABS keycaps wear shiny",
+        "Not hot-swappable"
+      ],
+      "idealFor": "Numpad users on a tight budget working alone.",
+      "skipIf": "You share a room or take video calls."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Layout usefulness",
+      "description": "We checked which keys each layout removes and whether the ones that remain cover typical work, from arrows to a numpad."
+    },
+    {
+      "title": "Desk footprint",
+      "description": "Width matters on small desks, so compact layouts scored higher than full-size boards where function was equal."
+    },
+    {
+      "title": "Switch and keycap quality",
+      "description": "We looked at switch type, hot-swap sockets and PBT versus ABS caps on each spec sheet."
+    },
+    {
+      "title": "Connectivity",
+      "description": "Wireless and multi-device options were weighed against wired-only designs for a shared desk."
+    },
+    {
+      "title": "Customization",
+      "description": "Remappable firmware and swappable switches extend a board's life, so they added to the score."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Layout size",
+      "detail": "Layout means which keys the board includes: full-size has everything, TKL drops the numpad, 75% squeezes the cluster tighter still. It matters because each cut saves desk width but removes a key you may use daily. Check the product photo for arrow keys, a function row and where Delete and Page Up sit before you commit to a size, and count the keys you use in a normal day."
+    },
+    {
+      "factor": "Numpad need",
+      "detail": "A numpad is the block of digits on the right side. People who enter figures or use shortcuts built on it lose speed without it. Be honest about how often you use it, since a knob or layer does not replace it. Look for a 104 or 108 key count in the listing, as on the Redragon and RisoPhy."
+    },
+    {
+      "factor": "Switch type",
+      "detail": "Linear switches press smoothly, tactile ones have a bump, and clicky ones add sound. The choice changes noise and feel across a full day. Check whether sockets are hot-swappable, which lets you change switches later without soldering. The Keychron, AULA and Redragon boards are, and the Logitech and RisoPhy are not, which matters if you may want a quieter feel later."
+    },
+    {
+      "factor": "Connection mode",
+      "detail": "Wired boards avoid battery worries, while wireless ones free the desk. Multi-mode boards pair with several devices. Look for 2.4GHz or Bluetooth in the listing, and note the cable type for wired boards. The AULA F75 Pro and Keychron V6 Max offer both, and the wired V6 and Logitech do not."
+    },
+    {
+      "factor": "Firmware and keycaps",
+      "detail": "QMK/VIA firmware lets you remap keys in software, and PBT keycaps resist shine better than ABS. Both extend ownership. Search the specs for QMK, VIA and keycap material, and remember that remapping works best on wired or 2.4GHz connections. The Keychron V6 boards list QMK/VIA, the AULA lists PBT keycaps, and the RisoPhy uses ABS."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Layout Need",
+      "intro": "Pick the layout first, then the brand.",
+      "table": {
+        "headers": [
+          "If you need",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Small footprint, keep arrows and F-row",
+            "AULA F75 Pro"
+          ],
+          [
+            "Zero relearning, no numpad",
+            "Logitech G413 TKL SE"
+          ],
+          [
+            "Numpad, wireless",
+            "Keychron V6 Max Brown"
+          ],
+          [
+            "Numpad plus macro keys",
+            "Redragon K668"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $50",
+            "RisoPhy 104-key, Redragon K668"
+          ],
+          [
+            "$50 to $100",
+            "AULA F75 Pro, Logitech G413 TKL SE, Keychron V6 Knob"
+          ],
+          [
+            "$100 to $200",
+            "Keychron V6 Max Brown or Banana"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Compact vs Full-Size",
+      "cards": [
+        {
+          "label": "Compact",
+          "text": "75% and TKL layouts save width and shorten the mouse reach. The AULA F75 Pro and Logitech G413 TKL SE lead here."
+        },
+        {
+          "label": "Full-size",
+          "text": "Full-size keeps the numpad and extra keys, but takes more room. The Keychron V6 family, Redragon K668 and RisoPhy are the picks."
+        }
+      ],
+      "note": "Most buyers should default to compact unless they truly use the numpad every day."
+    },
+    {
+      "subheading": "By Switch Feel",
+      "table": {
+        "headers": [
+          "Preference",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Smooth linear",
+            "Keychron V6 Max Banana"
+          ],
+          [
+            "Gentle tactile bump",
+            "Keychron V6 Max Brown, Keychron V6 Knob"
+          ],
+          [
+            "Loud and clicky",
+            "RisoPhy 104-key"
+          ],
+          [
+            "Swap switches later",
+            "AULA F75 Pro, Redragon K668"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Shared Desks Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A wireless or multi-device mode, quiet tactile or linear switches, and a narrow body."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The AULA F75 Pro pairs three connection modes with a compact body. Skip the RisoPhy because of its clicky blue switches."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want wireless full-size or long-term remapping. The Keychron V6 Max models and V6 Knob justify it through QMK/VIA firmware."
+        },
+        {
+          "label": "Save if",
+          "text": "You type in one place and the numpad is the only requirement. The Redragon K668 or RisoPhy covers it."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a 75% keyboard hard to get used to?",
+      "a": "Most people adapt within a few days, and typing speed returns quickly. The main change is that Delete, Page Up and Page Down sit in a single compressed column. If you want no adjustment at all, the Logitech G413 TKL SE keeps standard spacing."
+    },
+    {
+      "q": "What is the most common layout mistake?",
+      "a": "Buying a compact board and then missing the numpad or navigation keys. Count how often you use each key before you commit, because layers are slower than a real key, and a compact board never feels truly compact if you keep reaching for missing keys."
+    },
+    {
+      "q": "Is hot-swap worth paying for?",
+      "a": "It lets you change switches without soldering, so a bad first choice is not permanent. The AULA F75 Pro, Redragon K668 and Keychron V6 boards all offer it, while the Logitech and RisoPhy do not."
+    },
+    {
+      "q": "Do these work on Mac and Windows?",
+      "a": "The Keychron V6 Knob lists Mac and Windows compatibility directly. Others generally work as standard keyboards, but confirm the keycap legends and any software support on the listing."
+    },
+    {
+      "q": "How do I keep a mechanical keyboard clean?",
+      "a": "Pull the keycaps with a puller, brush out crumbs and wipe the plate. PBT caps resist shine, so they tend to look better longer than ABS, and dust is easier to clear from hot-swap boards."
+    },
+    {
+      "q": "Are blue switches a problem at the office?",
+      "a": "Yes for shared spaces and open offices. Blue switches click audibly on every press, which is why the RisoPhy suits a private room better than an open desk."
+    }
+  ],
+  "finalTake": "The AULA F75 Pro is the right mechanical keyboard for most people who want a smaller footprint, because a 75% layout keeps the keys you use. Pick the Logitech G413 TKL for zero relearning and the Keychron V6 Max for a wireless numpad. Choose the layout before the switch.",
+  "related": [
+    "best-mechanical-keyboard-and-mouse-combos",
+    "best-quiet-mechanical-keyboard-switches",
+    "best-ergonomic-keyboard-and-mouse-combos"
+  ]
 }

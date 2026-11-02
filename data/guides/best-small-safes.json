@@ -1,198 +1,428 @@
 {
- "slug": "best-small-safes",
- "category": "home-office",
- "h1": "The 5 Best Small Safes of 2026, Ranked & Reviewed",
- "metaTitle": "Best Small Safes 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: five small safes for documents, cash and valuables, compared on capacity, bolts, backup access and mounting options.",
- "mainKeyword": "small safes",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500_.jpg",
- "summary": "The Bonsaii 0.6 cu ft is the best small safe because it is the roomiest here and has three ways in, including USB-C emergency power. The Honeywell is the pick for anchoring, built to bolt down, and the 0.3 cu ft alarm safe adds a wrong-entry alarm. The Voncabay offers clear light cues and a lockout, while the Yuanshikj is the cheapest and includes mounting hardware.",
- "intro": ["A small safe is a security product with an obvious weakness: it is small. Anything you can lift can be carried out of the house, opened at leisure, and the lock never matters. The upgrade that counts is not a fancier keypad but a bolt through the floor, which is why mounting hardware deserves the same scrutiny as steel thickness and bolt diameter.","We reviewed the listed specs of eight small safes and ranked the best five on interior size, locking bolts, backup access and anchoring, scoring them on the Primea framework. This is a paper comparison of what each listing states. None of these list a fire rating, so if papers are your concern, look at rated chests instead."],
- "products": [
-  {
-   "id": "bonsaii-0-6-cu-ft-safe",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "Bonsaii Safe Box with Electronic Keypad for Home Office, 0.6 Cu.Ft",
-   "score": 93,
-   "imageUrl": "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CKPF8GF9?tag=primeareviews-20",
-   "verdict": "The roomiest safe here, with a real backup plan if the keypad fails.",
-   "description": "The Bonsaii measures 13.78 by 9.84 by 9.84 inches outside for 0.6 cubic feet inside, with a removable shelf and two 18mm steel locking bolts. You can open it by code, key or USB-C emergency power. That third path solves the dead-battery lockout that traps owners of keypad-only safes, because any power bank restores access.\n\nIt ranks first because its interior is more than double the 0.23 cu ft models and the USB-C backup removes the usual failure point. It lists thinner 18mm bolts than the alarm safe's 20mm, a small sacrifice for the space.\n\nBuy it for a home office that stores documents and small electronics. The caveats are the $50 to $100 price and a larger footprint, so skip it if you only need to store a few items.",
-   "keySpecs": [
-    {"label": "Capacity", "value": "0.6 cu ft"},
-    {"label": "Exterior", "value": "13.78 x 9.84 x 9.84 in"},
-    {"label": "Bolts", "value": "Two 18mm steel"},
-    {"label": "Access", "value": "Code, key, USB-C power"}
-   ],
-   "pros": ["Roomy 0.6 cu ft", "Three access methods", "USB-C emergency power", "Removable shelf"],
-   "cons": ["Higher price tier", "Larger footprint"],
-   "idealFor": "Home offices storing documents and small electronics.",
-   "skipIf": "You only need to store a few items."
-  },
-  {
-   "id": "honeywell-bolt-down-small-safe",
-   "rank": 2,
-   "award": "Best Anchoring",
-   "name": "Honeywell Safes & Door Locks - Bolt Down Small Safe Box with Digital Lock",
-   "score": 89,
-   "imageUrl": "https://m.media-amazon.com/images/I/31i0vOFYG3L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B00CSMV7BE?tag=primeareviews-20",
-   "verdict": "Built to be bolted down, not just locked.",
-   "description": "The Honeywell is built to be bolted down: it ships with mounting hardware and pre-drilled holes, a solid steel cabinet and door, two live lock bolts, a scratch-resistant black powder coat and two emergency keys. Live bolts stay extended when the door is open, so the door cannot be bent past them.\n\nIt ranks second because anchoring is the strongest anti-theft feature in this group, while the Bonsaii wins on capacity and backup power. The price is the same $50 to $100. The Honeywell lists no battery backup, so it relies on its two keys if the keypad dies.\n\nBuy it if you can anchor a safe to a floor or shelf. The honest caveat is drilling: you must cut into your mounting surface, so skip it if you rent and cannot.",
-   "keySpecs": [
-    {"label": "Mounting", "value": "Bolt-down hardware included"},
-    {"label": "Construction", "value": "Solid steel cabinet and door"},
-    {"label": "Bolts", "value": "Two live lock bolts"},
-    {"label": "Backup", "value": "Two emergency keys"}
-   ],
-   "pros": ["Bolt-down hardware included", "Solid steel build", "Two emergency keys", "Powder coat finish"],
-   "cons": ["No backup power listed", "Needs drilling"],
-   "idealFor": "Anyone who can anchor a safe to a floor or shelf.",
-   "skipIf": "You cannot drill into your mounting surface."
-  },
-  {
-   "id": "upgraded-small-safe-0-30-cuft",
-   "rank": 3,
-   "award": "Best With Alarm",
-   "name": "[UPGRADED] Small Safes for Home, 0.30 Cuft Mini Safe Box",
-   "score": 86,
-   "imageUrl": "https://m.media-amazon.com/images/I/414LF-aE4zL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0F62VKH88?tag=primeareviews-20",
-   "verdict": "A mid-size safe with a wrong-entry alarm and a key recovery path.",
-   "description": "This 0.3 cu ft mini safe measures 10.63 by 6.69 by 6.69 inches and has a 42mm door thickness, two 20mm bolts and a wrong-entry alarm with a toggleable silent mode. A serial-number service replaces lost backup keys. The alarm matters in apartments, where a noisy attempt can bring a neighbor to the door.\n\nIt ranks third because its bolts are thicker than the Bonsaii's 18mm and the alarm adds deterrence, but the cabinet is half the size, and the listing names no mounting hardware. Against the Voncabay, it holds more for a similar $25 to $50 price.\n\nIt suits apartments where an alarm adds deterrence. The caveat is the missing anchoring kit, so you must source your own bolts, and skip it if you want a bigger interior.",
-   "keySpecs": [
-    {"label": "Capacity", "value": "0.3 cu ft"},
-    {"label": "Bolts", "value": "Two 20mm"},
-    {"label": "Door", "value": "42mm thick"},
-    {"label": "Alarm", "value": "Wrong-entry, silent mode"}
-   ],
-   "pros": ["Wrong-entry alarm", "Thick 20mm bolts", "Lost-key replacement service", "Under $50 tier"],
-   "cons": ["Smaller than the Bonsaii", "No mounting hardware listed"],
-   "idealFor": "Apartments where an alarm adds deterrence.",
-   "skipIf": "You want a larger interior."
-  },
-  {
-   "id": "voncabay-0-23-cu-ft-safe",
-   "rank": 4,
-   "award": "Best Feedback",
-   "name": "Voncabay Money Safe Box for Home with Digital Keypad, 0.23 Cu. Ft., Black",
-   "score": 83,
-   "imageUrl": "https://m.media-amazon.com/images/I/41QPOblOKSL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B09SZ6GPGR?tag=primeareviews-20",
-   "verdict": "Clear light cues and a lockout after three wrong entries.",
-   "description": "The Voncabay lists 0.23 cu ft inside, an automatic interior light, a low-battery warning light, a 5 minute lockout after three wrong entries and a fireproof document bag. Its interior measures 8.6 by 6.2 by 6.1 inches, enough for passports, a small stack of cash and a tablet. Warning lights tell you to change batteries before you are locked out.\n\nIt ranks fourth because the lights and lockout improve daily use, but it is smaller than the 0.3 cu ft safe above, and the bag is not a rated safe. A lockout stops guessing, but it does nothing against someone carrying the box away.\n\nIt suits small valuables and travel documents. The caveat is the bag, which is a bag and not a certified fire container, and the small interior, so skip it if you want a larger safe.",
-   "keySpecs": [
-    {"label": "Capacity", "value": "0.23 cu ft"},
-    {"label": "Interior", "value": "8.6 x 6.2 x 6.1 in"},
-    {"label": "Lockout", "value": "5 min after 3 wrong entries"},
-    {"label": "Extras", "value": "Interior light, document bag"}
-   ],
-   "pros": ["Interior light", "Low-battery warning", "Wrong-entry lockout", "Document bag included"],
-   "cons": ["Small interior", "Bag is not a certified safe"],
-   "idealFor": "Small valuables and travel documents.",
-   "skipIf": "You want a larger safe."
-  },
-  {
-   "id": "yuanshikj-small-steel-safe",
-   "rank": 5,
-   "award": "Best Budget",
-   "name": "Yuanshikj Small Steel Security Safe Box with Keypad, Key, 0.23 CuFt, Black",
-   "score": 80,
-   "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B078MYJYD5?tag=primeareviews-20",
-   "verdict": "The cheapest safe here, with mounting holes included.",
-   "description": "The Yuanshikj lists 0.2 cu ft, dual steel locking bolts, a magnetic auto-lock door, pre-drilled mounting holes and bolts included, and it sits under $25. A magnetic auto-lock closes the door and engages the bolts without a separate step, which prevents the common mistake of leaving a safe unlatched.\n\nIt ranks last because its interior is the smallest in the guide, 6.29 by 8.9 by 5.12 inches, and the steel is light-duty. The mounting kit and auto-lock are generous at this price, so the ranking reflects size, not effort.\n\nIt suits students and first-time buyers. Anchor it to a surface to get the most from it. Skip it if you need to store bulky items, because anything beyond documents and small valuables will not fit.",
-   "keySpecs": [
-    {"label": "Capacity", "value": "0.2 cu ft"},
-    {"label": "Bolts", "value": "Dual steel"},
-    {"label": "Door", "value": "Magnetic auto-lock"},
-    {"label": "Mounting", "value": "Holes and bolts included"}
-   ],
-   "pros": ["Under $25 tier", "Magnetic auto-lock door", "Mounting hardware included", "Dual steel bolts"],
-   "cons": ["Smallest interior", "Light-duty steel"],
-   "idealFor": "Students and first-time safe buyers.",
-   "skipIf": "You need to store bulky items."
-  }
- ],
- "methodology": [
-  {"title": "Capacity", "description": "We compared interior volume and dimensions against what people actually store."},
-  {"title": "Locking hardware", "description": "Bolt count, bolt diameter and door thickness were weighed for pry resistance."},
-  {"title": "Backup access", "description": "Emergency keys, USB-C power and key replacement were counted as insurance."},
-  {"title": "Anchoring", "description": "Included mounting hardware raised a score, since a movable safe protects little."},
-  {"title": "Value tier", "description": "Each pick was judged against its price bucket."}
- ],
- "whatMatters": [
-  {"factor": "Anchoring", "detail": "Anchoring is whether the safe can be fixed to a surface. A safe that can be carried off is a locked box, not a safe. Mounting holes and bolts let you fasten it to a floor or shelf. Check the listing for pre-drilled holes and included hardware, and plan your mounting location before you buy. A safe in a closet corner is harder to pry than one on an open shelf."},
-  {"factor": "Bolt size", "detail": "Bolt size is the diameter of the steel bolts that lock the door to the body. Thicker bolts, such as 20mm instead of 18mm, resist prying better. The wrong-entry alarm model lists 20mm, the Bonsaii 18mm. Look for the diameter in the bullet points, and note whether the bolts are live, meaning always extended."},
-  {"factor": "Backup access", "detail": "Backup access is your way in when the keypad dies. Keypads run on batteries, and dead ones lock you out. A safe with a key or USB-C emergency power avoids that. Check how many access methods the listing names, and store the spare key away from the safe, never taped to it. Test the backup route once while the door is open."},
-  {"factor": "Interior size", "detail": "Interior size is the usable room inside. 0.23 cu ft barely holds a passport and some cash, while 0.6 cu ft takes a laptop. Check the interior dimensions, not just the exterior, because thick doors and walls eat space. Hold a passport, a tablet or a folder against the numbers before you commit."},
-  {"factor": "Fire claims", "detail": "Fire claims are easy to misread. A fireproof bag is not a fire-rated safe, and a thick steel door does not carry a rating. Look for an actual rating if protecting papers matters. These listings do not claim one, so treat all five as security boxes for valuables, not fire protection. Pair one with a rated chest if papers matter."}
- ],
- "howToChoose": [
-  {
-   "subheading": "By What You Store",
-   "intro": "Interior size comes first.",
-   "table": {"headers": ["What you store", "Our pick"], "rows": [
-    ["Laptop and documents", "Bonsaii 0.6 Cu.Ft Safe"],
-    ["Cash and passport", "[UPGRADED] 0.30 Cuft Mini Safe"],
-    ["Small valuables", "Voncabay 0.23 Cu. Ft. Safe"],
-    ["A few items on a budget", "Yuanshikj Small Steel Safe"]
-   ]}
-  },
-  {
-   "subheading": "By Budget",
-   "table": {"headers": ["Spend", "Our pick"], "rows": [
-    ["Under $25", "Yuanshikj Small Steel Safe"],
-    ["$25 to $50, alarm", "[UPGRADED] 0.30 Cuft Mini Safe"],
-    ["$25 to $50, lights", "Voncabay 0.23 Cu. Ft. Safe"],
-    ["$50 to $100, space", "Bonsaii 0.6 Cu.Ft Safe"],
-    ["$50 to $100, anchoring", "Honeywell Bolt Down Safe"]
-   ]}
-  },
-  {
-   "subheading": "Keypad Backup vs Anchoring",
-   "cards": [
-    {"label": "Backup access", "text": "Protects you from lockouts. The Bonsaii adds USB-C power and the Honeywell includes two emergency keys."},
-    {"label": "Anchoring", "text": "Protects against theft of the whole safe. The Honeywell and Yuanshikj include mounting hardware."}
-   ],
-   "note": "Most buyers should default to anchoring first, since a carried-off safe fails regardless of its lock."
-  },
-  {
-   "subheading": "By Deterrence Features",
-   "table": {"headers": ["Concern", "Our pick"], "rows": [
-    ["Loud alarm", "[UPGRADED] 0.30 Cuft Mini Safe"],
-    ["Lockout after wrong entries", "Voncabay 0.23 Cu. Ft. Safe"],
-    ["Strongest anchoring", "Honeywell Bolt Down Safe"],
-    ["Lost key recovery", "[UPGRADED] 0.30 Cuft Mini Safe"]
-   ]}
-  },
-  {
-   "subheading": "For Dorm Rooms Specifically",
-   "cards": [
-    {"label": "Look for", "text": "A small footprint, mounting holes and a keypad with a backup key."},
-    {"label": "In this ranking", "text": "The Yuanshikj is the cheapest and includes mounting hardware, and the Voncabay adds light feedback."}
-   ]
-  },
-  {
-   "subheading": "When to Spend More",
-   "cards": [
-    {"label": "Spend more if", "text": "You store a laptop or need heavy anchoring, where the Bonsaii or Honeywell are the better fit."},
-    {"label": "Save if", "text": "You store only a few items, where the Yuanshikj covers the basics."}
-   ]
-  }
- ],
- "faq": [
-  {"q": "Do small safes protect against fire?", "a": "None of them list a fire rating. The Voncabay includes a fireproof document bag, which is not the same as a rated safe, so keep irreplaceable papers in a classified chest. Heat, not theft, is what destroys paper, and a keypad does nothing about heat."},
-  {"q": "What is the common small safe mistake?", "a": "Skipping the mounting step. A safe that is not anchored can simply be carried away, which makes the Honeywell and Yuanshikj, both with mounting kits, more secure than their size suggests. Mounting turns a tiny safe into a fixture."},
-  {"q": "Is the Honeywell worth it over the Yuanshikj?", "a": "If you want solid steel and two live bolts, yes. The Yuanshikj includes mounting hardware at a lower price, but its interior is smaller and its steel is light-duty. Choose by what you need to store."},
-  {"q": "How do I mount a small safe?", "a": "Use the pre-drilled holes and supplied bolts to fix it to a stud, shelf or floor. The Honeywell and Yuanshikj ship with hardware, while the alarm safe does not list any. Buying separate bolts means checking the hole spacing first."},
-  {"q": "What if the batteries die?", "a": "The Bonsaii accepts USB-C emergency power, and the Honeywell has two emergency keys. The Voncabay warns you with a low-battery light before the keypad fails, which is a useful habit-builder for battery changes."},
-  {"q": "Can two people use one safe?", "a": "Some models support multiple access methods, like the Bonsaii's code and key, but code-only options share one code. If several people need access, the key or a shared code is simplest, and a change of code after a house guest is cheap insurance."}
- ],
- "finalTake": "Anchor whichever safe you buy, because a loose one fails whatever its lock. The Bonsaii is the best all-rounder for a home office, and the Honeywell is the one for people who will drill. Take the alarm model for an apartment where deterrence helps, and the Voncabay or Yuanshikj for small valuables on a tight budget. None carries a fire rating.",
- "related": []
+  "slug": "best-small-safes",
+  "category": "home-office",
+  "h1": "The 5 Best Small Safes of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Small Safes 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: five small safes for documents, cash and valuables, compared on capacity, bolts, backup access and mounting options.",
+  "mainKeyword": "small safes",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500_.jpg",
+  "summary": "The Bonsaii 0.6 cu ft is the best small safe because it is the roomiest here and has three ways in, including USB-C emergency power. The Honeywell is the pick for anchoring, built to bolt down, and the 0.3 cu ft alarm safe adds a wrong-entry alarm. The Voncabay offers clear light cues and a lockout, while the Yuanshikj is the cheapest and includes mounting hardware.",
+  "intro": [
+    "A small safe is a security product with an obvious weakness: it is small. Anything you can lift can be carried out of the house, opened at leisure, and the lock never matters. The upgrade that counts is not a fancier keypad but a bolt through the floor, which is why mounting hardware deserves the same scrutiny as steel thickness and bolt diameter.",
+    "We reviewed the listed specs of eight small safes and ranked the best five on interior size, locking bolts, backup access and anchoring, scoring them on the Primea framework. This is a paper comparison of what each listing states. None of these list a fire rating, so if papers are your concern, look at rated chests instead."
+  ],
+  "products": [
+    {
+      "id": "bonsaii-0-6-cu-ft-safe",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Bonsaii Safe Box with Electronic Keypad for Home Office, 0.6 Cu.Ft",
+      "score": 93,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CKPF8GF9?tag=primeareviews-20",
+      "verdict": "The roomiest safe here, with a real backup plan if the keypad fails.",
+      "description": "The Bonsaii measures 13.78 by 9.84 by 9.84 inches outside for 0.6 cubic feet inside, with a removable shelf and two 18mm steel locking bolts. You can open it by code, key or USB-C emergency power. That third path solves the dead-battery lockout that traps owners of keypad-only safes, because any power bank restores access.\n\nIt ranks first because its interior is more than double the 0.23 cu ft models and the USB-C backup removes the usual failure point. It lists thinner 18mm bolts than the alarm safe's 20mm, a small sacrifice for the space.\n\nBuy it for a home office that stores documents and small electronics. The caveats are the $50 to $100 price and a larger footprint, so skip it if you only need to store a few items.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "0.6 cu ft"
+        },
+        {
+          "label": "Exterior",
+          "value": "13.78 x 9.84 x 9.84 in"
+        },
+        {
+          "label": "Bolts",
+          "value": "Two 18mm steel"
+        },
+        {
+          "label": "Access",
+          "value": "Code, key, USB-C power"
+        }
+      ],
+      "pros": [
+        "Roomy 0.6 cu ft",
+        "Three access methods",
+        "USB-C emergency power",
+        "Removable shelf"
+      ],
+      "cons": [
+        "Higher price tier",
+        "Larger footprint"
+      ],
+      "idealFor": "Home offices storing documents and small electronics.",
+      "skipIf": "You only need to store a few items."
+    },
+    {
+      "id": "honeywell-bolt-down-small-safe",
+      "rank": 2,
+      "award": "Best Anchoring",
+      "name": "Honeywell Safes & Door Locks - Bolt Down Small Safe Box with Digital Lock",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/31i0vOFYG3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00CSMV7BE?tag=primeareviews-20",
+      "verdict": "Built to be bolted down, not just locked.",
+      "description": "The Honeywell is built to be bolted down: it ships with mounting hardware and pre-drilled holes, a solid steel cabinet and door, two live lock bolts, a scratch-resistant black powder coat and two emergency keys. Live bolts stay extended when the door is open, so the door cannot be bent past them.\n\nIt ranks second because anchoring is the strongest anti-theft feature in this group, while the Bonsaii wins on capacity and backup power. The price is the same $50 to $100. The Honeywell lists no battery backup, so it relies on its two keys if the keypad dies.\n\nBuy it if you can anchor a safe to a floor or shelf. The honest caveat is drilling: you must cut into your mounting surface, so skip it if you rent and cannot.",
+      "keySpecs": [
+        {
+          "label": "Mounting",
+          "value": "Bolt-down hardware included"
+        },
+        {
+          "label": "Construction",
+          "value": "Solid steel cabinet and door"
+        },
+        {
+          "label": "Bolts",
+          "value": "Two live lock bolts"
+        },
+        {
+          "label": "Backup",
+          "value": "Two emergency keys"
+        }
+      ],
+      "pros": [
+        "Bolt-down hardware included",
+        "Solid steel build",
+        "Two emergency keys",
+        "Powder coat finish"
+      ],
+      "cons": [
+        "No backup power listed",
+        "Needs drilling"
+      ],
+      "idealFor": "Anyone who can anchor a safe to a floor or shelf.",
+      "skipIf": "You cannot drill into your mounting surface."
+    },
+    {
+      "id": "upgraded-small-safe-0-30-cuft",
+      "rank": 3,
+      "award": "Best With Alarm",
+      "name": "[UPGRADED] Small Safes for Home, 0.30 Cuft Mini Safe Box",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/414LF-aE4zL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F62VKH88?tag=primeareviews-20",
+      "verdict": "A mid-size safe with a wrong-entry alarm and a key recovery path.",
+      "description": "This 0.3 cu ft mini safe measures 10.63 by 6.69 by 6.69 inches and has a 42mm door thickness, two 20mm bolts and a wrong-entry alarm with a toggleable silent mode. A serial-number service replaces lost backup keys. The alarm matters in apartments, where a noisy attempt can bring a neighbor to the door.\n\nIt ranks third because its bolts are thicker than the Bonsaii's 18mm and the alarm adds deterrence, but the cabinet is half the size, and the listing names no mounting hardware. Against the Voncabay, it holds more for a similar $25 to $50 price.\n\nIt suits apartments where an alarm adds deterrence. The caveat is the missing anchoring kit, so you must source your own bolts, and skip it if you want a bigger interior.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "0.3 cu ft"
+        },
+        {
+          "label": "Bolts",
+          "value": "Two 20mm"
+        },
+        {
+          "label": "Door",
+          "value": "42mm thick"
+        },
+        {
+          "label": "Alarm",
+          "value": "Wrong-entry, silent mode"
+        }
+      ],
+      "pros": [
+        "Wrong-entry alarm",
+        "Thick 20mm bolts",
+        "Lost-key replacement service",
+        "Under $50 tier"
+      ],
+      "cons": [
+        "Smaller than the Bonsaii",
+        "No mounting hardware listed"
+      ],
+      "idealFor": "Apartments where an alarm adds deterrence.",
+      "skipIf": "You want a larger interior."
+    },
+    {
+      "id": "voncabay-0-23-cu-ft-safe",
+      "rank": 4,
+      "award": "Best Feedback",
+      "name": "Voncabay Money Safe Box for Home with Digital Keypad, 0.23 Cu. Ft., Black",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41QPOblOKSL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09SZ6GPGR?tag=primeareviews-20",
+      "verdict": "Clear light cues and a lockout after three wrong entries.",
+      "description": "The Voncabay lists 0.23 cu ft inside, an automatic interior light, a low-battery warning light, a 5 minute lockout after three wrong entries and a fireproof document bag. Its interior measures 8.6 by 6.2 by 6.1 inches, enough for passports, a small stack of cash and a tablet. Warning lights tell you to change batteries before you are locked out.\n\nIt ranks fourth because the lights and lockout improve daily use, but it is smaller than the 0.3 cu ft safe above, and the bag is not a rated safe. A lockout stops guessing, but it does nothing against someone carrying the box away.\n\nIt suits small valuables and travel documents. The caveat is the bag, which is a bag and not a certified fire container, and the small interior, so skip it if you want a larger safe.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "0.23 cu ft"
+        },
+        {
+          "label": "Interior",
+          "value": "8.6 x 6.2 x 6.1 in"
+        },
+        {
+          "label": "Lockout",
+          "value": "5 min after 3 wrong entries"
+        },
+        {
+          "label": "Extras",
+          "value": "Interior light, document bag"
+        }
+      ],
+      "pros": [
+        "Interior light",
+        "Low-battery warning",
+        "Wrong-entry lockout",
+        "Document bag included"
+      ],
+      "cons": [
+        "Small interior",
+        "Bag is not a certified safe"
+      ],
+      "idealFor": "Small valuables and travel documents.",
+      "skipIf": "You want a larger safe."
+    },
+    {
+      "id": "yuanshikj-small-steel-safe",
+      "rank": 5,
+      "award": "Best Budget",
+      "name": "Yuanshikj Small Steel Security Safe Box with Keypad, Key, 0.23 CuFt, Black",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B078MYJYD5?tag=primeareviews-20",
+      "verdict": "The cheapest safe here, with mounting holes included.",
+      "description": "The Yuanshikj lists 0.2 cu ft, dual steel locking bolts, a magnetic auto-lock door, pre-drilled mounting holes and bolts included, and it sits under $25. A magnetic auto-lock closes the door and engages the bolts without a separate step, which prevents the common mistake of leaving a safe unlatched.\n\nIt ranks last because its interior is the smallest in the guide, 6.29 by 8.9 by 5.12 inches, and the steel is light-duty. The mounting kit and auto-lock are generous at this price, so the ranking reflects size, not effort.\n\nIt suits students and first-time buyers. Anchor it to a surface to get the most from it. Skip it if you need to store bulky items, because anything beyond documents and small valuables will not fit.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "0.2 cu ft"
+        },
+        {
+          "label": "Bolts",
+          "value": "Dual steel"
+        },
+        {
+          "label": "Door",
+          "value": "Magnetic auto-lock"
+        },
+        {
+          "label": "Mounting",
+          "value": "Holes and bolts included"
+        }
+      ],
+      "pros": [
+        "Under $25 tier",
+        "Magnetic auto-lock door",
+        "Mounting hardware included",
+        "Dual steel bolts"
+      ],
+      "cons": [
+        "Smallest interior",
+        "Light-duty steel"
+      ],
+      "idealFor": "Students and first-time safe buyers.",
+      "skipIf": "You need to store bulky items."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Capacity",
+      "description": "We compared interior volume and dimensions against what people actually store."
+    },
+    {
+      "title": "Locking hardware",
+      "description": "Bolt count, bolt diameter and door thickness were weighed for pry resistance."
+    },
+    {
+      "title": "Backup access",
+      "description": "Emergency keys, USB-C power and key replacement were counted as insurance."
+    },
+    {
+      "title": "Anchoring",
+      "description": "Included mounting hardware raised a score, since a movable safe protects little."
+    },
+    {
+      "title": "Value tier",
+      "description": "Each pick was judged against its price bucket."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Anchoring",
+      "detail": "Anchoring is whether the safe can be fixed to a surface. A safe that can be carried off is a locked box, not a safe. Mounting holes and bolts let you fasten it to a floor or shelf. Check the listing for pre-drilled holes and included hardware, and plan your mounting location before you buy. A safe in a closet corner is harder to pry than one on an open shelf."
+    },
+    {
+      "factor": "Bolt size",
+      "detail": "Bolt size is the diameter of the steel bolts that lock the door to the body. Thicker bolts, such as 20mm instead of 18mm, resist prying better. The wrong-entry alarm model lists 20mm, the Bonsaii 18mm. Look for the diameter in the bullet points, and note whether the bolts are live, meaning always extended."
+    },
+    {
+      "factor": "Backup access",
+      "detail": "Backup access is your way in when the keypad dies. Keypads run on batteries, and dead ones lock you out. A safe with a key or USB-C emergency power avoids that. Check how many access methods the listing names, and store the spare key away from the safe, never taped to it. Test the backup route once while the door is open."
+    },
+    {
+      "factor": "Interior size",
+      "detail": "Interior size is the usable room inside. 0.23 cu ft barely holds a passport and some cash, while 0.6 cu ft takes a laptop. Check the interior dimensions, not just the exterior, because thick doors and walls eat space. Hold a passport, a tablet or a folder against the numbers before you commit."
+    },
+    {
+      "factor": "Fire claims",
+      "detail": "Fire claims are easy to misread. A fireproof bag is not a fire-rated safe, and a thick steel door does not carry a rating. Look for an actual rating if protecting papers matters. These listings do not claim one, so treat all five as security boxes for valuables, not fire protection. Pair one with a rated chest if papers matter."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By What You Store",
+      "intro": "Interior size comes first.",
+      "table": {
+        "headers": [
+          "What you store",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Laptop and documents",
+            "Bonsaii 0.6 Cu.Ft Safe"
+          ],
+          [
+            "Cash and passport",
+            "[UPGRADED] 0.30 Cuft Mini Safe"
+          ],
+          [
+            "Small valuables",
+            "Voncabay 0.23 Cu. Ft. Safe"
+          ],
+          [
+            "A few items on a budget",
+            "Yuanshikj Small Steel Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "Yuanshikj Small Steel Safe"
+          ],
+          [
+            "$25 to $50, alarm",
+            "[UPGRADED] 0.30 Cuft Mini Safe"
+          ],
+          [
+            "$25 to $50, lights",
+            "Voncabay 0.23 Cu. Ft. Safe"
+          ],
+          [
+            "$50 to $100, space",
+            "Bonsaii 0.6 Cu.Ft Safe"
+          ],
+          [
+            "$50 to $100, anchoring",
+            "Honeywell Bolt Down Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Keypad Backup vs Anchoring",
+      "cards": [
+        {
+          "label": "Backup access",
+          "text": "Protects you from lockouts. The Bonsaii adds USB-C power and the Honeywell includes two emergency keys."
+        },
+        {
+          "label": "Anchoring",
+          "text": "Protects against theft of the whole safe. The Honeywell and Yuanshikj include mounting hardware."
+        }
+      ],
+      "note": "Most buyers should default to anchoring first, since a carried-off safe fails regardless of its lock."
+    },
+    {
+      "subheading": "By Deterrence Features",
+      "table": {
+        "headers": [
+          "Concern",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Loud alarm",
+            "[UPGRADED] 0.30 Cuft Mini Safe"
+          ],
+          [
+            "Lockout after wrong entries",
+            "Voncabay 0.23 Cu. Ft. Safe"
+          ],
+          [
+            "Strongest anchoring",
+            "Honeywell Bolt Down Safe"
+          ],
+          [
+            "Lost key recovery",
+            "[UPGRADED] 0.30 Cuft Mini Safe"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Dorm Rooms Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A small footprint, mounting holes and a keypad with a backup key."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Yuanshikj is the cheapest and includes mounting hardware, and the Voncabay adds light feedback."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You store a laptop or need heavy anchoring, where the Bonsaii or Honeywell are the better fit."
+        },
+        {
+          "label": "Save if",
+          "text": "You store only a few items, where the Yuanshikj covers the basics."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do small safes protect against fire?",
+      "a": "None of them list a fire rating. The Voncabay includes a fireproof document bag, which is not the same as a rated safe, so keep irreplaceable papers in a classified chest. Heat, not theft, is what destroys paper, and a keypad does nothing about heat."
+    },
+    {
+      "q": "What is the common small safe mistake?",
+      "a": "Skipping the mounting step. A safe that is not anchored can simply be carried away, which makes the Honeywell and Yuanshikj, both with mounting kits, more secure than their size suggests. Mounting turns a tiny safe into a fixture."
+    },
+    {
+      "q": "Is the Honeywell worth it over the Yuanshikj?",
+      "a": "If you want solid steel and two live bolts, yes. The Yuanshikj includes mounting hardware at a lower price, but its interior is smaller and its steel is light-duty. Choose by what you need to store."
+    },
+    {
+      "q": "How do I mount a small safe?",
+      "a": "Use the pre-drilled holes and supplied bolts to fix it to a stud, shelf or floor. The Honeywell and Yuanshikj ship with hardware, while the alarm safe does not list any. Buying separate bolts means checking the hole spacing first."
+    },
+    {
+      "q": "What if the batteries die?",
+      "a": "The Bonsaii accepts USB-C emergency power, and the Honeywell has two emergency keys. The Voncabay warns you with a low-battery light before the keypad fails, which is a useful habit-builder for battery changes."
+    },
+    {
+      "q": "Can two people use one safe?",
+      "a": "Some models support multiple access methods, like the Bonsaii's code and key, but code-only options share one code. If several people need access, the key or a shared code is simplest, and a change of code after a house guest is cheap insurance."
+    }
+  ],
+  "finalTake": "Anchor whichever safe you buy, because a loose one fails whatever its lock. The Bonsaii is the best all-rounder for a home office, and the Honeywell is the one for people who will drill. Take the alarm model for an apartment where deterrence helps, and the Voncabay or Yuanshikj for small valuables on a tight budget. None carries a fire rating.",
+  "related": [
+    "best-combination-small-safes",
+    "best-hidden-small-safes",
+    "best-personal-small-safes"
+  ]
 }

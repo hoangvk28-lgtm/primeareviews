@@ -1,59 +1,465 @@
 {
-"slug":"best-rgb-laptop-cooling-pads","category":"tech-accessories",
-"h1":"The 6 Best RGB Laptop Cooling Pads of 2026, Ranked & Reviewed",
-"metaTitle":"Best RGB Laptop Cooling Pads: Ranked & Reviewed",
-"metaDescription":"Ranked and reviewed by Primea: six RGB laptop cooling pads, from Razer's adaptive fan to 6-fan LCD models, with fan specs, hub ports and tradeoffs compared.",
-"mainKeyword":"RGB laptop cooling pads","publishedAt":"2026-11-01","updatedAt":"2026-11-01","readTime":"10 min",
-"heroImage":"https://m.media-amazon.com/images/I/31DsLHp9vML._SL500_.jpg",
-"summary":"The Razer Adaptive is the best RGB laptop cooling pad, with a 140mm fan, adaptive control and a 3-port hub, though it needs Synapse. The llano V12 is the best balance of cooling, RGB and price. The KYOLLY adds six fans and an LCD panel, while the YICOSUN suits travelers with a foldable aluminum stand.",
-"intro":["Lighting is the easy part of a cooling pad. What decides whether it helps is airflow. One large, well-aimed fan often does more than a row of tiny ones, and a pad that blocks your laptop's intake vents can make heat worse. Check where your machine breathes before you shop for color effects.","Our editors reviewed pads from spec sheets, looking at fan size and speed, noise ratings, tilt range, hub ports and lighting control. Six made the list. Each ranks by the cooling and convenience its specs promise, and temperature drops quoted by sellers are flagged as claims."],
-"products":[
-{"id":"razer-adaptive-smart","rank":1,"award":"Best Premium","name":"Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control","score":94,"imageUrl":"https://m.media-amazon.com/images/I/31DsLHp9vML._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0DJDWWHTV?tag=primeareviews-20","verdict":"Adaptive fan control and Chroma RGB for Razer ecosystem users.",
-"description":"The Razer Adaptive Smart cooling pad centers on a 140mm fan that reaches 3000 RPM, with adaptive fan control through Razer Synapse. It includes a 3-port USB Type-A hub, an airtight pressure chamber with foam seals and Chroma RGB lighting with remappable buttons. It sits in the $100 to $200 bracket.\n\nIt ranks first because the large fan and sealed chamber attack airflow directly, which matters more than a count of small fans. The llano V12 comes close for less, but it lacks the adaptive control and the sealing design.\n\nBuy it if you already live in the Razer ecosystem and want smart fan behavior. The caveat is that the adaptive features depend on Synapse software, and the price is the highest here, which is hard to justify for owners of other brands.",
-"keySpecs":[{"label":"Fan","value":"140mm, up to 3000 RPM"},{"label":"Control","value":"Adaptive, via Synapse"},{"label":"Hub","value":"3-port USB Type-A"},{"label":"Price bracket","value":"$100-200"}],
-"pros":["Adaptive fan control","Airtight pressure chamber","Chroma RGB sync","3-port USB hub"],"cons":["Needs Synapse software","Costs $100-200"],
-"idealFor":"Razer Chroma users who want adaptive cooling.","skipIf":"You avoid installing software."},
-{"id":"llano-v12","rank":2,"award":"Best Balance","name":"llano V12 Gaming Laptop Cooling Pad Laptop Cooler","score":90,"imageUrl":"https://m.media-amazon.com/images/I/41RI0692h6L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0C69BVWGB?tag=primeareviews-20","verdict":"One big turbo fan, touch-mute RGB control and a 3-port hub.",
-"description":"The llano V12 uses a single 5.5 inch turbo fan, with 10 RGB modes in four color options, touch-mute control and a memory function that holds your lighting after power-off. A 36W external adapter feeds it, and a 3-port USB hub comes built in. It falls in the $50 to $100 range.\n\nIt ranks second because it delivers the large-fan approach at about half the cost of the Razer, with easy lighting control. The seller states a 44°C reduction in 90 seconds, which is a claim we cannot verify, so treat it as marketing.\n\nChoose it if you want a strong all-round pad without software. The caveat is the external power adapter, which adds a cable to your desk, and its fan has no adaptive speed control like the Razer.",
-"keySpecs":[{"label":"Fan","value":"5.5 inch turbo"},{"label":"RGB","value":"10 modes, 4 colors"},{"label":"Power","value":"36W adapter"},{"label":"Hub","value":"3-port USB"}],
-"pros":["Large turbo fan","Touch-mute RGB","Lighting memory","3-port hub"],"cons":["Needs external power","Cooling figure is a claim"],
-"idealFor":"Gamers wanting one strong fan.","skipIf":"You want laptop-powered only."},
-{"id":"kyolly-6-fan-lcd","rank":3,"award":"Best Control Panel","name":"KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen","score":87,"imageUrl":"https://m.media-amazon.com/images/I/41T7TwXodLL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0C5X1248D?tag=primeareviews-20","verdict":"Six fans, an LCD panel and a 4-port USB hub with no software.",
-"description":"The KYOLLY pad packs six fans running 1700 to 2400 RPM, rated at 18dB, in an aircraft aluminum panel. An LCD control panel handles 10 RGB modes with memory, a 4-port USB 3.0 and 2.0 hub provides expansion, and nine angles from 10 to 45 degrees let you adjust the tilt. It is in the $25 to $50 range.\n\nIt ranks third because the panel and hub are great at the price, but six small fans do not guarantee better cooling than one large fan. The llano V12 has the stronger airflow design, while this pad wins on controls and ports.\n\nIt suits desk setups that want plenty of USB ports and no software. The caveat is that fan count is not the same as airflow, so check your laptop vent placement.",
-"keySpecs":[{"label":"Fans","value":"6, 1700-2400 RPM, 18dB rated"},{"label":"Tilt","value":"9 angles, 10-45 degrees"},{"label":"Hub","value":"4-port USB 3.0/2.0"},{"label":"Panel","value":"Aluminum alloy, LCD"}],
-"pros":["LCD control panel","4-port USB hub","Quiet 18dB rating","9 tilt angles"],"cons":["Smaller fans","No USB-C ports"],
-"idealFor":"Buyers who want no-software control.","skipIf":"You want one large fan."},
-{"id":"tilted-nation-usb-hub","rank":4,"award":"Best USB-C Hub","name":"Tilted Nation Gaming Laptop Cooling Pad with USB Hub","score":84,"imageUrl":"https://m.media-amazon.com/images/I/41ZrDMg95uL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0DMT1ZL5P?tag=primeareviews-20","verdict":"A wide fan speed range with USB-C ports and a phone holder.",
-"description":"The Tilted Nation pad runs its fans from 600 to 2800 RPM and offers a 4-port hub with two USB-A 3.0 and two USB-C data ports. It has 10 RGB lighting modes, seven tilt levels from 20 to 40 degrees and a built-in phone holder. It costs $50 to $100.\n\nIt ranks fourth because the hub and phone holder add convenience, yet the USB-C ports are data only and will not charge a laptop. The KYOLLY gives you more tilt options for less money.\n\nBuy it if you want modern ports on a wide-speed cooler and plan to keep your phone in view. The caveat is the data-only USB-C limitation, which will surprise anyone expecting to use the pad as a charging hub.",
-"keySpecs":[{"label":"Fan speed","value":"600-2800 RPM"},{"label":"Hub","value":"2 USB-A 3.0, 2 USB-C data"},{"label":"Tilt","value":"7 levels, 20-40 degrees"},{"label":"Extra","value":"Phone holder"}],
-"pros":["Two USB-C ports","Wide fan speed range","Phone holder","7 tilt levels"],"cons":["USB-C not for charging","Costs $50-100"],
-"idealFor":"Buyers with USB-C peripherals.","skipIf":"You need charging ports."},
-{"id":"ice-coorel-6-rgb","rank":5,"award":"Best for 17 Inch Laptops","name":"ICE COOREL Gaming Laptop Cooling Pad 15-17.3 Inch with 6 RGB Fans","score":82,"imageUrl":"https://m.media-amazon.com/images/I/51MNLZRfO8L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B087WF59N1?tag=primeareviews-20","verdict":"Visible RGB fans with six height settings for large laptops.",
-"description":"The ICE COOREL is built for bigger machines, with six RGB fans behind transparent housings, an LCD fan-speed display and six height settings. It fits 15 to 17.3 inch laptops and offers seven RGB light modes. It sits in the $25 to $50 bracket.\n\nIt lands fifth because it focuses on size support and looks, while the pads above it offer more ports or stronger airflow concepts. The visible fans are a real draw for build-focused desks.\n\nPick it for 17 inch laptops that overhang smaller pads. The caveat is that the listing gives no noise rating or hub ports, so you will rely on the LCD to manage speed and may need other accessories for USB expansion.",
-"keySpecs":[{"label":"Fans","value":"6 with RGB"},{"label":"Fit","value":"15-17.3 inch"},{"label":"Heights","value":"6 settings"},{"label":"Lighting","value":"7 RGB modes"}],
-"pros":["Visible RGB fans","LCD speed display","Fits 17.3 inch","6 height settings"],"cons":["No hub listed","Fewer light modes"],
-"idealFor":"Owners of 15 to 17.3 inch laptops.","skipIf":"You carry a small laptop."},
-{"id":"yicosun-2-fan-foldable","rank":6,"award":"Best Portable","name":"YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting","score":79,"imageUrl":"https://m.media-amazon.com/images/I/418xcU95Z9L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0BN434Q85?tag=primeareviews-20","verdict":"A foldable aluminum stand with two fans for 10 to 16 inch laptops.",
-"description":"The YICOSUN is a foldable aluminum alloy stand with two quiet fans, three-speed control and RGB lighting. It supports laptops from 10 to 16 inches and sits in the $25 to $50 range.\n\nIt ranks last because two fans move less air than the larger designs above, and the stand has no hub ports. What it offers is portability, with a folding body that fits a bag, plus a clean metal look.\n\nBuy it if you carry your laptop between rooms or work in cafes and want a light cooling stand. The caveat is limited cooling for heavy gaming, where the Razer or llano V12 will keep a laptop cooler under sustained load.",
-"keySpecs":[{"label":"Fans","value":"2, 3-speed"},{"label":"Build","value":"Aluminum alloy"},{"label":"Fit","value":"10-16 inch"},{"label":"Design","value":"Foldable"}],
-"pros":["Foldable","Aluminum build","Quiet fans","Fits 10-16 inch"],"cons":["Only two fans","No hub"],
-"idealFor":"Travel and small desks.","skipIf":"You run a hot gaming laptop."}
-],
-"methodology":[{"title":"Cooling design","description":"We compared fan size, count and speed."},{"title":"Noise","description":"We noted stated noise ratings."},{"title":"Ports","description":"We counted hub ports and USB-C."},{"title":"RGB control","description":"We checked on-device versus software control."},{"title":"Fit","description":"We compared stated laptop size range."}],
-"whatMatters":[
-{"factor":"Fan size and count","detail":"Fan size matters because large fans move more air at lower noise than small ones. The Razer uses a 140mm fan and the llano a 5.5 inch turbo fan, while the KYOLLY uses six smaller fans. A higher fan count is no guarantee of cooling. Look for fan diameter and RPM in the listing."},
-{"factor":"Noise rating","detail":"Noise rating shows how loud fans run at full speed. The KYOLLY lists 18dB, which is a seller claim. Pads can drown out a quiet room when pushed. Look for a stated decibel figure, and treat listings with no number as a warning sign for noisy fans."},
-{"factor":"Laptop size fit","detail":"Laptop size fit matters because the pad must cover your laptop's vents. The ICE COOREL covers 15 to 17.3 inches and the YICOSUN 10 to 16 inches. A pad too small leaves hot spots uncooled. Check the listed inch range and compare it to your laptop's screen size and vent layout."},
-{"factor":"Hub ports","detail":"Hub ports let the pad double as a USB extension. The Razer and llano offer three USB ports, the KYOLLY four, and the Tilted Nation two USB-A and two USB-C. Look at the port types and whether USB-C ports carry data only, since the Tilted Nation does not charge devices."},
-{"factor":"RGB control","detail":"RGB control varies. The Razer needs Synapse software, the llano uses touch-mute, and the KYOLLY has an LCD panel. A pad you cannot dim or switch off becomes annoying at night. Check the listing for how you change lighting and whether it remembers settings after power-off."}],
-"howToChoose":[
-{"subheading":"By Laptop Size","intro":"Fit comes first.","table":{"headers":["Laptop","Our pick"],"rows":[["15 to 17.3 inch","ICE COOREL Gaming Laptop Cooling Pad 15-17.3 Inch with 6 RGB Fans"],["10 to 16 inch","YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting"],["Razer laptop","Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"],["Most gaming laptops","llano V12 Gaming Laptop Cooling Pad Laptop Cooler"]]}},
-{"subheading":"By Budget","table":{"headers":["Spend","Our pick"],"rows":[["$25-50 control","KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen"],["$25-50 portable","YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting"],["$50-100","llano V12 Gaming Laptop Cooling Pad Laptop Cooler"],["$100-200","Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"]]}},
-{"subheading":"One Big Fan vs Many Fans","cards":[{"label":"One big fan","text":"Moves more air with less noise. Razer and llano V12 use large fans."},{"label":"Many fans","text":"Spreads airflow across the base. KYOLLY and ICE COOREL use six."}],"note":"Most gamers should default to a large fan unless their vents are spread out."},
-{"subheading":"By Ports","table":{"headers":["Need","Our pick"],"rows":[["USB-C data","Tilted Nation Gaming Laptop Cooling Pad with USB Hub"],["USB 3.0 hub","KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen"],["3 USB-A ports","Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"],["3-port hub","llano V12 Gaming Laptop Cooling Pad Laptop Cooler"]]}},
-{"subheading":"For Quiet Desk Setups Specifically","cards":[{"label":"Look for","text":"A stated dB rating and speed control."},{"label":"In this ranking","text":"The KYOLLY is rated 18dB and has an LCD control panel."}]},
-{"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You use Razer Chroma and want adaptive control, which the Razer pad provides."},{"label":"Save if","text":"You just want RGB and airflow, where the KYOLLY costs $25-50."}]}],
-"faq":[{"q":"Do cooling pads really work?","a":"They can, if airflow reaches the intake vents. A pad with a large fan, like the Razer Adaptive or llano V12, helps most. Check where your laptop breathes before choosing."},{"q":"Can I turn RGB off?","a":"Most can. The llano V12 has touch-mute and a memory function, the KYOLLY has an LCD panel, and the Razer uses Synapse. Check the listing for a clear off option."},{"q":"Do they need power?","a":"Some do. The llano V12 lists a 36W external adapter, and the Razer has a USB hub that draws power. Check each listing to confirm whether power comes from the laptop or a wall."},{"q":"Will it fit my laptop?","a":"Match the listed inch range to your screen. The ICE COOREL covers 15 to 17.3 inches, and the YICOSUN 10 to 16 inches. Also check that the fan sits under your vents."},{"q":"Are small fans noisy?","a":"Small fans often get louder at high speed. The KYOLLY lists an 18dB rating, and the YICOSUN advertises quiet fans, but a large fan like the Razer 140mm unit usually runs quieter for the same airflow."},{"q":"Does USB-C charge?","a":"Not on the Tilted Nation. Its two USB-C ports are listed as data only, not for charging, so they work for peripherals but will not power a laptop or phone."}],
-"finalTake":"The Razer Adaptive is the premium pick for Razer users, and the llano V12 is the better all-round value for everyone else. The KYOLLY works if you want a control panel and extra ports without software. Choose the ICE COOREL for large laptops, the Tilted Nation for USB-C hub ports, and the YICOSUN when portability matters most.",
-"related":[]
+  "slug": "best-rgb-laptop-cooling-pads",
+  "category": "tech-accessories",
+  "h1": "The 6 Best RGB Laptop Cooling Pads of 2026, Ranked & Reviewed",
+  "metaTitle": "Best RGB Laptop Cooling Pads: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: six RGB laptop cooling pads, from Razer's adaptive fan to 6-fan LCD models, with fan specs, hub ports and tradeoffs compared.",
+  "mainKeyword": "RGB laptop cooling pads",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31DsLHp9vML._SL500_.jpg",
+  "summary": "The Razer Adaptive is the best RGB laptop cooling pad, with a 140mm fan, adaptive control and a 3-port hub, though it needs Synapse. The llano V12 is the best balance of cooling, RGB and price. The KYOLLY adds six fans and an LCD panel, while the YICOSUN suits travelers with a foldable aluminum stand.",
+  "intro": [
+    "Lighting is the easy part of a cooling pad. What decides whether it helps is airflow. One large, well-aimed fan often does more than a row of tiny ones, and a pad that blocks your laptop's intake vents can make heat worse. Check where your machine breathes before you shop for color effects.",
+    "Our editors reviewed pads from spec sheets, looking at fan size and speed, noise ratings, tilt range, hub ports and lighting control. Six made the list. Each ranks by the cooling and convenience its specs promise, and temperature drops quoted by sellers are flagged as claims."
+  ],
+  "products": [
+    {
+      "id": "razer-adaptive-smart",
+      "rank": 1,
+      "award": "Best Premium",
+      "name": "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31DsLHp9vML._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DJDWWHTV?tag=primeareviews-20",
+      "verdict": "Adaptive fan control and Chroma RGB for Razer ecosystem users.",
+      "description": "The Razer Adaptive Smart cooling pad centers on a 140mm fan that reaches 3000 RPM, with adaptive fan control through Razer Synapse. It includes a 3-port USB Type-A hub, an airtight pressure chamber with foam seals and Chroma RGB lighting with remappable buttons. It sits in the $100 to $200 bracket.\n\nIt ranks first because the large fan and sealed chamber attack airflow directly, which matters more than a count of small fans. The llano V12 comes close for less, but it lacks the adaptive control and the sealing design.\n\nBuy it if you already live in the Razer ecosystem and want smart fan behavior. The caveat is that the adaptive features depend on Synapse software, and the price is the highest here, which is hard to justify for owners of other brands.",
+      "keySpecs": [
+        {
+          "label": "Fan",
+          "value": "140mm, up to 3000 RPM"
+        },
+        {
+          "label": "Control",
+          "value": "Adaptive, via Synapse"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB Type-A"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$100-200"
+        }
+      ],
+      "pros": [
+        "Adaptive fan control",
+        "Airtight pressure chamber",
+        "Chroma RGB sync",
+        "3-port USB hub"
+      ],
+      "cons": [
+        "Needs Synapse software",
+        "Costs $100-200"
+      ],
+      "idealFor": "Razer Chroma users who want adaptive cooling.",
+      "skipIf": "You avoid installing software."
+    },
+    {
+      "id": "llano-v12",
+      "rank": 2,
+      "award": "Best Balance",
+      "name": "llano V12 Gaming Laptop Cooling Pad Laptop Cooler",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/41RI0692h6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C69BVWGB?tag=primeareviews-20",
+      "verdict": "One big turbo fan, touch-mute RGB control and a 3-port hub.",
+      "description": "The llano V12 uses a single 5.5 inch turbo fan, with 10 RGB modes in four color options, touch-mute control and a memory function that holds your lighting after power-off. A 36W external adapter feeds it, and a 3-port USB hub comes built in. It falls in the $50 to $100 range.\n\nIt ranks second because it delivers the large-fan approach at about half the cost of the Razer, with easy lighting control. The seller states a 44°C reduction in 90 seconds, which is a claim we cannot verify, so treat it as marketing.\n\nChoose it if you want a strong all-round pad without software. The caveat is the external power adapter, which adds a cable to your desk, and its fan has no adaptive speed control like the Razer.",
+      "keySpecs": [
+        {
+          "label": "Fan",
+          "value": "5.5 inch turbo"
+        },
+        {
+          "label": "RGB",
+          "value": "10 modes, 4 colors"
+        },
+        {
+          "label": "Power",
+          "value": "36W adapter"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB"
+        }
+      ],
+      "pros": [
+        "Large turbo fan",
+        "Touch-mute RGB",
+        "Lighting memory",
+        "3-port hub"
+      ],
+      "cons": [
+        "Needs external power",
+        "Cooling figure is a claim"
+      ],
+      "idealFor": "Gamers wanting one strong fan.",
+      "skipIf": "You want laptop-powered only."
+    },
+    {
+      "id": "kyolly-6-fan-lcd",
+      "rank": 3,
+      "award": "Best Control Panel",
+      "name": "KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen",
+      "score": 87,
+      "imageUrl": "https://m.media-amazon.com/images/I/41T7TwXodLL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C5X1248D?tag=primeareviews-20",
+      "verdict": "Six fans, an LCD panel and a 4-port USB hub with no software.",
+      "description": "The KYOLLY pad packs six fans running 1700 to 2400 RPM, rated at 18dB, in an aircraft aluminum panel. An LCD control panel handles 10 RGB modes with memory, a 4-port USB 3.0 and 2.0 hub provides expansion, and nine angles from 10 to 45 degrees let you adjust the tilt. It is in the $25 to $50 range.\n\nIt ranks third because the panel and hub are great at the price, but six small fans do not guarantee better cooling than one large fan. The llano V12 has the stronger airflow design, while this pad wins on controls and ports.\n\nIt suits desk setups that want plenty of USB ports and no software. The caveat is that fan count is not the same as airflow, so check your laptop vent placement.",
+      "keySpecs": [
+        {
+          "label": "Fans",
+          "value": "6, 1700-2400 RPM, 18dB rated"
+        },
+        {
+          "label": "Tilt",
+          "value": "9 angles, 10-45 degrees"
+        },
+        {
+          "label": "Hub",
+          "value": "4-port USB 3.0/2.0"
+        },
+        {
+          "label": "Panel",
+          "value": "Aluminum alloy, LCD"
+        }
+      ],
+      "pros": [
+        "LCD control panel",
+        "4-port USB hub",
+        "Quiet 18dB rating",
+        "9 tilt angles"
+      ],
+      "cons": [
+        "Smaller fans",
+        "No USB-C ports"
+      ],
+      "idealFor": "Buyers who want no-software control.",
+      "skipIf": "You want one large fan."
+    },
+    {
+      "id": "tilted-nation-usb-hub",
+      "rank": 4,
+      "award": "Best USB-C Hub",
+      "name": "Tilted Nation Gaming Laptop Cooling Pad with USB Hub",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ZrDMg95uL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DMT1ZL5P?tag=primeareviews-20",
+      "verdict": "A wide fan speed range with USB-C ports and a phone holder.",
+      "description": "The Tilted Nation pad runs its fans from 600 to 2800 RPM and offers a 4-port hub with two USB-A 3.0 and two USB-C data ports. It has 10 RGB lighting modes, seven tilt levels from 20 to 40 degrees and a built-in phone holder. It costs $50 to $100.\n\nIt ranks fourth because the hub and phone holder add convenience, yet the USB-C ports are data only and will not charge a laptop. The KYOLLY gives you more tilt options for less money.\n\nBuy it if you want modern ports on a wide-speed cooler and plan to keep your phone in view. The caveat is the data-only USB-C limitation, which will surprise anyone expecting to use the pad as a charging hub.",
+      "keySpecs": [
+        {
+          "label": "Fan speed",
+          "value": "600-2800 RPM"
+        },
+        {
+          "label": "Hub",
+          "value": "2 USB-A 3.0, 2 USB-C data"
+        },
+        {
+          "label": "Tilt",
+          "value": "7 levels, 20-40 degrees"
+        },
+        {
+          "label": "Extra",
+          "value": "Phone holder"
+        }
+      ],
+      "pros": [
+        "Two USB-C ports",
+        "Wide fan speed range",
+        "Phone holder",
+        "7 tilt levels"
+      ],
+      "cons": [
+        "USB-C not for charging",
+        "Costs $50-100"
+      ],
+      "idealFor": "Buyers with USB-C peripherals.",
+      "skipIf": "You need charging ports."
+    },
+    {
+      "id": "ice-coorel-6-rgb",
+      "rank": 5,
+      "award": "Best for 17 Inch Laptops",
+      "name": "ICE COOREL Gaming Laptop Cooling Pad 15-17.3 Inch with 6 RGB Fans",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/51MNLZRfO8L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B087WF59N1?tag=primeareviews-20",
+      "verdict": "Visible RGB fans with six height settings for large laptops.",
+      "description": "The ICE COOREL is built for bigger machines, with six RGB fans behind transparent housings, an LCD fan-speed display and six height settings. It fits 15 to 17.3 inch laptops and offers seven RGB light modes. It sits in the $25 to $50 bracket.\n\nIt lands fifth because it focuses on size support and looks, while the pads above it offer more ports or stronger airflow concepts. The visible fans are a real draw for build-focused desks.\n\nPick it for 17 inch laptops that overhang smaller pads. The caveat is that the listing gives no noise rating or hub ports, so you will rely on the LCD to manage speed and may need other accessories for USB expansion.",
+      "keySpecs": [
+        {
+          "label": "Fans",
+          "value": "6 with RGB"
+        },
+        {
+          "label": "Fit",
+          "value": "15-17.3 inch"
+        },
+        {
+          "label": "Heights",
+          "value": "6 settings"
+        },
+        {
+          "label": "Lighting",
+          "value": "7 RGB modes"
+        }
+      ],
+      "pros": [
+        "Visible RGB fans",
+        "LCD speed display",
+        "Fits 17.3 inch",
+        "6 height settings"
+      ],
+      "cons": [
+        "No hub listed",
+        "Fewer light modes"
+      ],
+      "idealFor": "Owners of 15 to 17.3 inch laptops.",
+      "skipIf": "You carry a small laptop."
+    },
+    {
+      "id": "yicosun-2-fan-foldable",
+      "rank": 6,
+      "award": "Best Portable",
+      "name": "YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/418xcU95Z9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BN434Q85?tag=primeareviews-20",
+      "verdict": "A foldable aluminum stand with two fans for 10 to 16 inch laptops.",
+      "description": "The YICOSUN is a foldable aluminum alloy stand with two quiet fans, three-speed control and RGB lighting. It supports laptops from 10 to 16 inches and sits in the $25 to $50 range.\n\nIt ranks last because two fans move less air than the larger designs above, and the stand has no hub ports. What it offers is portability, with a folding body that fits a bag, plus a clean metal look.\n\nBuy it if you carry your laptop between rooms or work in cafes and want a light cooling stand. The caveat is limited cooling for heavy gaming, where the Razer or llano V12 will keep a laptop cooler under sustained load.",
+      "keySpecs": [
+        {
+          "label": "Fans",
+          "value": "2, 3-speed"
+        },
+        {
+          "label": "Build",
+          "value": "Aluminum alloy"
+        },
+        {
+          "label": "Fit",
+          "value": "10-16 inch"
+        },
+        {
+          "label": "Design",
+          "value": "Foldable"
+        }
+      ],
+      "pros": [
+        "Foldable",
+        "Aluminum build",
+        "Quiet fans",
+        "Fits 10-16 inch"
+      ],
+      "cons": [
+        "Only two fans",
+        "No hub"
+      ],
+      "idealFor": "Travel and small desks.",
+      "skipIf": "You run a hot gaming laptop."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Cooling design",
+      "description": "We compared fan size, count and speed."
+    },
+    {
+      "title": "Noise",
+      "description": "We noted stated noise ratings."
+    },
+    {
+      "title": "Ports",
+      "description": "We counted hub ports and USB-C."
+    },
+    {
+      "title": "RGB control",
+      "description": "We checked on-device versus software control."
+    },
+    {
+      "title": "Fit",
+      "description": "We compared stated laptop size range."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Fan size and count",
+      "detail": "Fan size matters because large fans move more air at lower noise than small ones. The Razer uses a 140mm fan and the llano a 5.5 inch turbo fan, while the KYOLLY uses six smaller fans. A higher fan count is no guarantee of cooling. Look for fan diameter and RPM in the listing."
+    },
+    {
+      "factor": "Noise rating",
+      "detail": "Noise rating shows how loud fans run at full speed. The KYOLLY lists 18dB, which is a seller claim. Pads can drown out a quiet room when pushed. Look for a stated decibel figure, and treat listings with no number as a warning sign for noisy fans."
+    },
+    {
+      "factor": "Laptop size fit",
+      "detail": "Laptop size fit matters because the pad must cover your laptop's vents. The ICE COOREL covers 15 to 17.3 inches and the YICOSUN 10 to 16 inches. A pad too small leaves hot spots uncooled. Check the listed inch range and compare it to your laptop's screen size and vent layout."
+    },
+    {
+      "factor": "Hub ports",
+      "detail": "Hub ports let the pad double as a USB extension. The Razer and llano offer three USB ports, the KYOLLY four, and the Tilted Nation two USB-A and two USB-C. Look at the port types and whether USB-C ports carry data only, since the Tilted Nation does not charge devices."
+    },
+    {
+      "factor": "RGB control",
+      "detail": "RGB control varies. The Razer needs Synapse software, the llano uses touch-mute, and the KYOLLY has an LCD panel. A pad you cannot dim or switch off becomes annoying at night. Check the listing for how you change lighting and whether it remembers settings after power-off."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Laptop Size",
+      "intro": "Fit comes first.",
+      "table": {
+        "headers": [
+          "Laptop",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "15 to 17.3 inch",
+            "ICE COOREL Gaming Laptop Cooling Pad 15-17.3 Inch with 6 RGB Fans"
+          ],
+          [
+            "10 to 16 inch",
+            "YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting"
+          ],
+          [
+            "Razer laptop",
+            "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"
+          ],
+          [
+            "Most gaming laptops",
+            "llano V12 Gaming Laptop Cooling Pad Laptop Cooler"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$25-50 control",
+            "KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen"
+          ],
+          [
+            "$25-50 portable",
+            "YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting"
+          ],
+          [
+            "$50-100",
+            "llano V12 Gaming Laptop Cooling Pad Laptop Cooler"
+          ],
+          [
+            "$100-200",
+            "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "One Big Fan vs Many Fans",
+      "cards": [
+        {
+          "label": "One big fan",
+          "text": "Moves more air with less noise. Razer and llano V12 use large fans."
+        },
+        {
+          "label": "Many fans",
+          "text": "Spreads airflow across the base. KYOLLY and ICE COOREL use six."
+        }
+      ],
+      "note": "Most gamers should default to a large fan unless their vents are spread out."
+    },
+    {
+      "subheading": "By Ports",
+      "table": {
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "USB-C data",
+            "Tilted Nation Gaming Laptop Cooling Pad with USB Hub"
+          ],
+          [
+            "USB 3.0 hub",
+            "KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen"
+          ],
+          [
+            "3 USB-A ports",
+            "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"
+          ],
+          [
+            "3-port hub",
+            "llano V12 Gaming Laptop Cooling Pad Laptop Cooler"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Quiet Desk Setups Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A stated dB rating and speed control."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The KYOLLY is rated 18dB and has an LCD control panel."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You use Razer Chroma and want adaptive control, which the Razer pad provides."
+        },
+        {
+          "label": "Save if",
+          "text": "You just want RGB and airflow, where the KYOLLY costs $25-50."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do cooling pads really work?",
+      "a": "They can, if airflow reaches the intake vents. A pad with a large fan, like the Razer Adaptive or llano V12, helps most. Check where your laptop breathes before choosing."
+    },
+    {
+      "q": "Can I turn RGB off?",
+      "a": "Most can. The llano V12 has touch-mute and a memory function, the KYOLLY has an LCD panel, and the Razer uses Synapse. Check the listing for a clear off option."
+    },
+    {
+      "q": "Do they need power?",
+      "a": "Some do. The llano V12 lists a 36W external adapter, and the Razer has a USB hub that draws power. Check each listing to confirm whether power comes from the laptop or a wall."
+    },
+    {
+      "q": "Will it fit my laptop?",
+      "a": "Match the listed inch range to your screen. The ICE COOREL covers 15 to 17.3 inches, and the YICOSUN 10 to 16 inches. Also check that the fan sits under your vents."
+    },
+    {
+      "q": "Are small fans noisy?",
+      "a": "Small fans often get louder at high speed. The KYOLLY lists an 18dB rating, and the YICOSUN advertises quiet fans, but a large fan like the Razer 140mm unit usually runs quieter for the same airflow."
+    },
+    {
+      "q": "Does USB-C charge?",
+      "a": "Not on the Tilted Nation. Its two USB-C ports are listed as data only, not for charging, so they work for peripherals but will not power a laptop or phone."
+    }
+  ],
+  "finalTake": "The Razer Adaptive is the premium pick for Razer users, and the llano V12 is the better all-round value for everyone else. The KYOLLY works if you want a control panel and extra ports without software. Choose the ICE COOREL for large laptops, the Tilted Nation for USB-C hub ports, and the YICOSUN when portability matters most.",
+  "related": [
+    "best-budget-laptop-cooling-pads",
+    "best-high-rpm-laptop-cooling-pads",
+    "best-laptop-cooling-pads-for-alienware-laptops"
+  ]
 }

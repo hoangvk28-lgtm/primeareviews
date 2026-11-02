@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500_.jpg",
   "summary": "The Logitech Ergo K860 is the best Bluetooth ergonomic keyboard, with a split negative-tilt frame, a device-switch key and a USB receiver backup. The Wave Keys is the easier first ergonomic board, and the ProtoArc EK01 Plus is the choice when a number pad matters. MEETION is the travel option.",
-  "intro": ["Ergonomic keyboards get judged on the shape of the keys, but the wireless half decides whether you keep using them. A board that pairs with one device only, drains a battery mid-meeting or drops its connection when your laptop wakes will be pushed back into a drawer, however good its wrist angle looks. Bluetooth is where cheap ergonomic boards cut corners, and where the price gap between them is easiest to justify.","We ranked eight Bluetooth ergonomic keyboards on layout, pairing flexibility and battery type, with number pad and platform labels as tiebreakers. A dedicated switch key or a fallback USB receiver earned real credit, because those are what rescue a bad connection day. Where a listing says nothing about battery or pairing, we say so rather than guess."],
+  "intro": [
+    "Ergonomic keyboards get judged on the shape of the keys, but the wireless half decides whether you keep using them. A board that pairs with one device only, drains a battery mid-meeting or drops its connection when your laptop wakes will be pushed back into a drawer, however good its wrist angle looks. Bluetooth is where cheap ergonomic boards cut corners, and where the price gap between them is easiest to justify.",
+    "We ranked eight Bluetooth ergonomic keyboards on layout, pairing flexibility and battery type, with number pad and platform labels as tiebreakers. A dedicated switch key or a fallback USB receiver earned real credit, because those are what rescue a bad connection day. Where a listing says nothing about battery or pairing, we say so rather than guess."
+  ],
   "products": [
     {
       "id": "logitech-ergo-k860",
@@ -542,7 +545,7 @@
   "finalTake": "Buy the Logitech Ergo K860 if you type long hours and move between devices. The Wave Keys suits first-time ergonomic buyers, the ProtoArc EK01 Plus suits spreadsheet work, and the Mac Wave Keys saves remapping on macOS. Keep the MEETION for travel only, because heavy daily typing needs the sturdier boards above it.",
   "related": [
     "best-budget-ergonomic-keyboards",
-    "best-ergonomic-keyboards-for-wrist-pain",
-    "best-quiet-ergonomic-keyboards"
+    "best-ergonomic-keyboards-for-carpal-tunnel",
+    "best-ergonomic-keyboards-for-tennis-elbow"
   ]
 }

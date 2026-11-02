@@ -1,31 +1,465 @@
 {
-"slug":"best-mechanical-keyboards-for-mac","category":"tech-accessories",
-"h1":"The 6 Best Mechanical Keyboards for Mac of 2026, Ranked & Reviewed",
-"metaTitle":"Best Mac Mechanical Keyboards: Ranked & Reviewed",
-"metaDescription":"Ranked and reviewed by Primea: six mechanical keyboards that work properly with macOS, from low-profile wireless boards to full-size hot-swappable options.",
-"mainKeyword":"mechanical keyboard for mac","publishedAt":"2026-11-01","updatedAt":"2026-11-01","readTime":"10 min",
-"heroImage":"https://m.media-amazon.com/images/I/41rK3ndC8VL._SL500_.jpg",
-"summary":"The Logitech MX Mechanical Mini Mac is the best mechanical keyboard for Mac, with Mac-native keycaps, a correct Fn row and low-profile tactile switches. The Keychron K3 Version 2 is the slim runner-up at $50 to $100, and the K4 keeps a number pad. The C2 is the cheapest wired option.",
-"intro":["A mechanical keyboard that looks great but prints the wrong symbol on the Command key is a quiet annoyance that never goes away. Mac compatibility is more than plugging in a cable: layout, keycaps and function row behavior all decide whether the board feels native. Most mechanical keyboards are designed for Windows first and patched for macOS second.","We reviewed six models and ranked them on paper, weighing Mac-native design, switch type, connectivity and how much room each one takes on a desk. Prices appear as buckets only. Five of the six come from Keychron or Logitech, so the real comparison is between a Mac-first board and Windows-first boards that add a Mac mode, plus how much desk each one takes."],
-"products":[
-{"id":"logitech-mx-mechanical-mini-mac","rank":1,"award":"Best Overall","name":"Logitech MX Mechanical Mini Mac Wireless Keyboard, Low-Profile (Space Grey)","score":95,"imageUrl":"https://m.media-amazon.com/images/I/41rK3ndC8VL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B09LK3JCHX?tag=primeareviews-20","verdict":"The one that behaves like a Mac keyboard from the first minute.","description":"The MX Mechanical Mini Mac is a 75% layout board with Mac-native keycaps, low-profile tactile switches and USB-C rechargeable wireless, in the $100 to $200 bucket. Native keycaps mean Command and Option are printed where Mac users expect them, and the media keys and Fn row act correctly without remapping or a hardware toggle.\n\nIt wins because that out-of-box behavior is the whole problem with most mechanical boards. The Keychron models below are cheaper, but ask you to flip a switch or install software to get Mac behavior. The low-profile switches also keep the board slim enough to sit beside a MacBook.\n\nIt suits Mac users who want zero fuss. The caveat is cost: it asks for more money than the Keychron alternatives, and it has no number pad.","keySpecs":[{"label":"Layout","value":"75% compact"},{"label":"Switches","value":"Low-profile tactile"},{"label":"Charging","value":"USB-C rechargeable"},{"label":"Keycaps","value":"Mac-native"}],"pros":["Mac-native keycaps","Correct Fn-row out of box","Rechargeable via USB-C","Compact 75% layout"],"cons":["Costs more than rivals","No number pad"],"idealFor":"Mac users wanting zero setup.","skipIf":"You need a number pad."},
-{"id":"keychron-k3-v2","rank":2,"award":"Best Slim Board","name":"Keychron K3 Version 2, 84 Keys Ultra-Slim Wireless/Wired Low-Profile Mechanical Keyboard, Brown Switch","score":91,"imageUrl":"https://m.media-amazon.com/images/I/41k46NzwzHL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B08LSJ4RHH?tag=primeareviews-20","verdict":"A slim board that sits at MacBook height.","description":"The K3 Version 2 has 84 keys, low-profile Brown switches, Bluetooth or wired USB, and a white LED backlight, in the $50 to $100 bucket. Low-profile Browns give a small tactile bump with shorter travel than a standard switch, which matches the feel of a laptop keyboard while still being mechanical.\n\nThe K3 takes runner-up because it costs far less than the Logitech while keeping the slim profile. The trade is that Mac behavior is something you set, with a mode switch, instead of arriving ready. It also lacks Mac-native keycaps in this listing. It beats the K4 on footprint by dropping the number pad.\n\nA good match for laptop users who dock beside a MacBook. The caveat is that missing number pad, plus the setup step.","keySpecs":[{"label":"Layout","value":"84 keys"},{"label":"Switches","value":"Low-profile Brown"},{"label":"Connection","value":"Bluetooth or USB"},{"label":"Backlight","value":"White LED"}],"pros":["Ultra-slim profile","Bluetooth or wired","White backlight","Mid-range price"],"cons":["No number pad","Mac mode needs setup"],"idealFor":"MacBook owners wanting a slim mechanical board.","skipIf":"You prefer tall, classic keycaps."},
-{"id":"keychron-k4","rank":3,"award":"Best 96% Layout","name":"Keychron K4 96% Layout Wireless Bluetooth 5.1/Wired Mechanical Keyboard, Super Brown Switch","score":88,"imageUrl":"https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B07WS7KSGT?tag=primeareviews-20","verdict":"Keeps the number pad without the full-size footprint.","description":"The K4 is a 96% layout with a number pad and arrow keys, Super Brown tactile switches, Bluetooth 5.1 or wired, and a white backlight, in the $50 to $100 bucket. A 96% board compresses a full-size layout by removing gaps, so you keep the numeric keys without losing much desk width.\n\nThe K4 slots in third since the extra keys cost desk width compared with the K3, though they matter for spreadsheet work. It uses standard-height switches, unlike the low-profile K3, so the typing travel is longer. Against the V6 Max, it is smaller and cheaper, with fewer custom features.\n\nFor Mac users who type numbers all day and want wireless. The caveat is bulk: it is wider than the slim K3 and the Logitech, so measure the desk first.","keySpecs":[{"label":"Layout","value":"96%"},{"label":"Switches","value":"Super Brown tactile"},{"label":"Wireless","value":"Bluetooth 5.1"},{"label":"Backlight","value":"White LED"}],"pros":["Number pad included","Tighter than full size","Bluetooth 5.1 or wired","Tactile switches"],"cons":["Wider than the K3","White backlight only"],"idealFor":"Spreadsheet-heavy Mac users.","skipIf":"Desk width is tight."},
-{"id":"keychron-k2-he","rank":4,"award":"Best Adjustable Switches","name":"Keychron K2 HE Rapid Trigger Wireless Custom Keyboard, Hall Effect Gateron Double-Rail Magnetic Switch","score":86,"imageUrl":"https://m.media-amazon.com/images/I/41YovoriX2L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0DCVPGB9N?tag=primeareviews-20","verdict":"Adjustable actuation in a compact, Mac-friendly body.","description":"The K2 HE uses Hall effect magnetic switches with adjustable actuation and Rapid Trigger support, 2.4GHz or Bluetooth 5.2 and QMK compatibility, in the $100 to $200 bucket. Hall effect switches sense the key position magnetically, so you can set how far a key must travel before it registers, and rapid trigger resets it the instant you lift.\n\nThe K2 HE sits fourth since adjustable switches are a niche feature for typing, and it costs about as much as the Logitech without the Mac-native keycaps. Gamers gain real speed from rapid trigger, but typists do not. Compared with the K3, it is dearer and more complicated.\n\nBuy it if you game or tweak settings on a Mac. The caveat is that plain typists get more from the options above, and the listing offers no Mac-native legends.","keySpecs":[{"label":"Switches","value":"Hall effect magnetic"},{"label":"Wireless","value":"2.4GHz / Bluetooth 5.2"},{"label":"Software","value":"QMK compatible"},{"label":"Layout","value":"Compact"}],"pros":["Adjustable actuation","Rapid Trigger support","Two wireless modes","Works on Mac and Windows"],"cons":["Pricey for typing","Not Mac-native keycaps"],"idealFor":"Tinkerers who also game.","skipIf":"You only want a good typing board."},
-{"id":"keychron-v6-max","rank":5,"award":"Best Customizable","name":"Keychron V6 Max Wireless Custom Mechanical Keyboard, Hot-swappable Gateron Banana Switch","score":83,"imageUrl":"https://m.media-amazon.com/images/I/41PQ6Pcv3UL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0D14LQ9XW?tag=primeareviews-20","verdict":"A full-size board you can re-switch over time.","description":"The V6 Max is a full-size, hot-swappable board with Gateron Banana switches, RGB backlighting, wireless and QMK support, in the $100 to $200 bucket. Hot-swap sockets let you pull a switch and replace it without soldering, so you can change feel over time, and QMK allows deep remapping.\n\nThe V6 Max lands fifth since the full-size body demands desk space and the hot-swap benefit only matters if you actually change switches. It competes with the Logitech on price but lacks Mac-native keycaps. Against the C2 it adds wireless and customization, at several times the cost.\n\nIt is for hobbyists who want to upgrade later. The caveat is that casual users will not use its flexibility, and the large footprint is hard to dock beside a laptop.","keySpecs":[{"label":"Layout","value":"Full size"},{"label":"Switches","value":"Hot-swappable Banana"},{"label":"Lighting","value":"RGB"},{"label":"Software","value":"QMK compatible"}],"pros":["Hot-swappable switches","RGB backlighting","Wireless connection","Full number pad"],"cons":["Large footprint","Overkill for typists"],"idealFor":"Keyboard hobbyists on Mac.","skipIf":"You never swap switches."},
-{"id":"keychron-c2","rank":6,"award":"Best Budget","name":"Keychron C2 Full Size Wired Mechanical Keyboard, Compatible with Mac, Brown Switch","score":80,"imageUrl":"https://m.media-amazon.com/images/I/31QS87iIEQL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B09JG7KRC7?tag=primeareviews-20","verdict":"Cheap full-size mechanical typing for a Mac desktop.","description":"The C2 is a 104-key wired board with tactile Brown switches and a braided USB-C cable, in the $25 to $50 bucket. A full 104-key layout keeps the number pad and function row, so it works for data entry or spreadsheets, and a wired link removes latency and charging.\n\nThe C2 finishes sixth since it is wired only and lacks premium touches, but it is the cheapest route to a mechanical feel on a Mac. It matches the K4 on tactile Browns, though it lacks Bluetooth and backlighting in the listing. Against the K3, it saves a full bracket.\n\nIt suits a fixed Mac mini or iMac desk. The caveat is the cable, which limits where you can use it, and its no-frills build.","keySpecs":[{"label":"Layout","value":"Full 104-key"},{"label":"Switches","value":"Tactile Brown"},{"label":"Cable","value":"Braided USB-C"},{"label":"Price","value":"$25-50"}],"pros":["Lowest price here","Full number pad","Braided USB-C cable","Tactile Brown switches"],"cons":["Wired only","No frills"],"idealFor":"Fixed Mac desktop setups on a budget.","skipIf":"You want wireless."}
-],
-"methodology":[{"title":"Mac-native design","description":"We checked for Mac keycaps and function-row behavior that works without extra setup."},{"title":"Switch type","description":"We compared tactile, low-profile and Hall effect designs by what they offer a typist."},{"title":"Connectivity","description":"We looked at Bluetooth, 2.4GHz and wired options for desk flexibility."},{"title":"Footprint","description":"We weighed layout size, since a full-size board crowds a small Mac desk."},{"title":"Value","description":"We balanced listed features against each price bucket."}],
-"whatMatters":[{"factor":"Mac-native keycaps","detail":"Mac keyboards use Command and Option instead of Windows and Alt. Boards without Mac labelling still work but leave you remapping in your head. Look for the word Mac in the product title and keycap images. The Logitech is the only listing here that explicitly pairs native keycaps with correct Fn behavior, and that detail saves a surprising amount of daily friction."},{"factor":"Layout size","detail":"A 75% board drops the number pad and saves about a hand width of desk. Ask yourself whether you type numbers daily. The Logitech and K3 are compact, the K4 is 96%, and the V6 Max and C2 are full size. Count the keys listed in the specs, and measure your desk and keyboard tray before buying, since a 96% board can still overhang a narrow tray."},{"factor":"Switch feel","detail":"Tactile Brown switches give a small bump without the click, which suits shared spaces. Low-profile versions shorten key travel and match laptop height. The Logitech and K3 use low-profile switches. Look for the switch name in the title, and remember that Hall effect switches work differently from mechanical contacts, so the feel is not directly comparable."},{"factor":"Connection type","detail":"Bluetooth pairs with Macs without a dongle, while wired is lag-free. 2.4GHz receivers cut latency for gaming. Check for Bluetooth version or 2.4GHz named in the listing, and confirm the board can hold multiple pairings if you switch between a Mac and an iPad, since not every wireless board can."},{"factor":"Hot-swap and software","detail":"Hot-swappable boards let you change switches without soldering, and QMK allows deep remapping. Both are for enthusiasts. Confirm these terms in the listing if you want them. The V6 Max and K2 HE list them, while most typists will never touch them, and they add cost and setup time."}],
-"howToChoose":[
-{"subheading":"By Layout","intro":"Layout drives desk space.","table":{"headers":["You want","Our pick"],"rows":[["Compact 75%, Mac-native","Logitech MX Mechanical Mini Mac"],["Slim 84 keys","Keychron K3 Version 2"],["Number pad, tighter body","Keychron K4"],["Full size","Keychron V6 Max"]]}},
-{"subheading":"By Budget","table":{"headers":["Spend","Our pick"],"rows":[["$25-50","Keychron C2"],["$50-100, slim","Keychron K3 Version 2"],["$50-100, number pad","Keychron K4"],["$100-200","Logitech MX Mechanical Mini Mac"]]}},
-{"subheading":"Tactile vs Hall Effect","cards":[{"label":"Tactile","text":"Familiar bump, simple and consistent. Picks: Logitech MX Mechanical Mini Mac, K3 Version 2, K4 and C2."},{"label":"Hall effect","text":"Magnetic switches with adjustable actuation. Picks: Keychron K2 HE."}],"note":"Most Mac typists should default to tactile switches."},
-{"subheading":"By Connectivity","table":{"headers":["Need","Our pick"],"rows":[["Rechargeable wireless","Logitech MX Mechanical Mini Mac"],["Bluetooth or wired","Keychron K4"],["2.4GHz and Bluetooth","Keychron K2 HE"],["Wired only","Keychron C2"]]}},
-{"subheading":"For MacBook Docking Specifically","cards":[{"label":"Look for","text":"A low-profile, compact board with Bluetooth so it travels."},{"label":"In this ranking","text":"The Keychron K3 Version 2 matches MacBook height, and the Logitech MX Mechanical Mini Mac is the Mac-native option."}]},
-{"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You want zero setup or adjustable switches. The Logitech MX Mechanical Mini Mac and Keychron K2 HE serve those buyers."},{"label":"Save if","text":"A fixed desk and plain typing are enough. The Keychron C2 covers it."}]}
-],
-"faq":[{"q":"Do Keychron boards work on Mac?","a":"Yes, every listed model is Mac compatible. Some, like the Keychron K3, need a toggle or software to set the Mac layout, while the Logitech arrives native, with the Fn row ready to use."},{"q":"What is the common mistake?","a":"Buying a Windows-labelled board and then confusing Alt and Option. Check for Mac keycaps in the photos, or plan to swap the legends on the Keychron boards with a Mac keycap set, which costs extra."},{"q":"Is the Logitech worth it over the K3?","a":"If you want zero setup and Mac-native keys, yes. If price matters, the K3 is close in feel and saves a bracket, though it needs a mode switch and a short setup for the Mac layout."},{"q":"How do I pair over Bluetooth?","a":"Switch the board to Bluetooth mode and select it in macOS Bluetooth settings. The Keychron K4 and K3 hold pairings, and the Logitech pairs the same way, so switching between devices is quick once saved."},{"q":"How do I maintain a mechanical keyboard?","a":"Brush out crumbs and wipe keycaps periodically with a barely damp cloth. Hot-swappable boards like the V6 Max let you pull switches for deeper cleaning, but sealed boards need care with liquid, so keep drinks away and unplug before wiping."},{"q":"Are Hall effect switches worth it?","a":"Only if you use adjustable actuation, as on the K2 HE. For plain typing, tactile switches like the K4's Super Browns are simpler and cheaper, and they feel familiar to most typists."}],
-"finalTake":"Buy the Logitech MX Mechanical Mini Mac if you want it to behave like an Apple keyboard from the first minute. The Keychron K3 is the budget slim board, the K4 suits number-heavy work, and the C2 covers a fixed desk. Skip the K2 HE and V6 Max unless you want adjustable or swappable switches.",
-"related":[]
+  "slug": "best-mechanical-keyboards-for-mac",
+  "category": "tech-accessories",
+  "h1": "The 6 Best Mechanical Keyboards for Mac of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Mac Mechanical Keyboards: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: six mechanical keyboards that work properly with macOS, from low-profile wireless boards to full-size hot-swappable options.",
+  "mainKeyword": "mechanical keyboard for mac",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41rK3ndC8VL._SL500_.jpg",
+  "summary": "The Logitech MX Mechanical Mini Mac is the best mechanical keyboard for Mac, with Mac-native keycaps, a correct Fn row and low-profile tactile switches. The Keychron K3 Version 2 is the slim runner-up at $50 to $100, and the K4 keeps a number pad. The C2 is the cheapest wired option.",
+  "intro": [
+    "A mechanical keyboard that looks great but prints the wrong symbol on the Command key is a quiet annoyance that never goes away. Mac compatibility is more than plugging in a cable: layout, keycaps and function row behavior all decide whether the board feels native. Most mechanical keyboards are designed for Windows first and patched for macOS second.",
+    "We reviewed six models and ranked them on paper, weighing Mac-native design, switch type, connectivity and how much room each one takes on a desk. Prices appear as buckets only. Five of the six come from Keychron or Logitech, so the real comparison is between a Mac-first board and Windows-first boards that add a Mac mode, plus how much desk each one takes."
+  ],
+  "products": [
+    {
+      "id": "logitech-mx-mechanical-mini-mac",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Logitech MX Mechanical Mini Mac Wireless Keyboard, Low-Profile (Space Grey)",
+      "score": 95,
+      "imageUrl": "https://m.media-amazon.com/images/I/41rK3ndC8VL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09LK3JCHX?tag=primeareviews-20",
+      "verdict": "The one that behaves like a Mac keyboard from the first minute.",
+      "description": "The MX Mechanical Mini Mac is a 75% layout board with Mac-native keycaps, low-profile tactile switches and USB-C rechargeable wireless, in the $100 to $200 bucket. Native keycaps mean Command and Option are printed where Mac users expect them, and the media keys and Fn row act correctly without remapping or a hardware toggle.\n\nIt wins because that out-of-box behavior is the whole problem with most mechanical boards. The Keychron models below are cheaper, but ask you to flip a switch or install software to get Mac behavior. The low-profile switches also keep the board slim enough to sit beside a MacBook.\n\nIt suits Mac users who want zero fuss. The caveat is cost: it asks for more money than the Keychron alternatives, and it has no number pad.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "75% compact"
+        },
+        {
+          "label": "Switches",
+          "value": "Low-profile tactile"
+        },
+        {
+          "label": "Charging",
+          "value": "USB-C rechargeable"
+        },
+        {
+          "label": "Keycaps",
+          "value": "Mac-native"
+        }
+      ],
+      "pros": [
+        "Mac-native keycaps",
+        "Correct Fn-row out of box",
+        "Rechargeable via USB-C",
+        "Compact 75% layout"
+      ],
+      "cons": [
+        "Costs more than rivals",
+        "No number pad"
+      ],
+      "idealFor": "Mac users wanting zero setup.",
+      "skipIf": "You need a number pad."
+    },
+    {
+      "id": "keychron-k3-v2",
+      "rank": 2,
+      "award": "Best Slim Board",
+      "name": "Keychron K3 Version 2, 84 Keys Ultra-Slim Wireless/Wired Low-Profile Mechanical Keyboard, Brown Switch",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41k46NzwzHL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08LSJ4RHH?tag=primeareviews-20",
+      "verdict": "A slim board that sits at MacBook height.",
+      "description": "The K3 Version 2 has 84 keys, low-profile Brown switches, Bluetooth or wired USB, and a white LED backlight, in the $50 to $100 bucket. Low-profile Browns give a small tactile bump with shorter travel than a standard switch, which matches the feel of a laptop keyboard while still being mechanical.\n\nThe K3 takes runner-up because it costs far less than the Logitech while keeping the slim profile. The trade is that Mac behavior is something you set, with a mode switch, instead of arriving ready. It also lacks Mac-native keycaps in this listing. It beats the K4 on footprint by dropping the number pad.\n\nA good match for laptop users who dock beside a MacBook. The caveat is that missing number pad, plus the setup step.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "84 keys"
+        },
+        {
+          "label": "Switches",
+          "value": "Low-profile Brown"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth or USB"
+        },
+        {
+          "label": "Backlight",
+          "value": "White LED"
+        }
+      ],
+      "pros": [
+        "Ultra-slim profile",
+        "Bluetooth or wired",
+        "White backlight",
+        "Mid-range price"
+      ],
+      "cons": [
+        "No number pad",
+        "Mac mode needs setup"
+      ],
+      "idealFor": "MacBook owners wanting a slim mechanical board.",
+      "skipIf": "You prefer tall, classic keycaps."
+    },
+    {
+      "id": "keychron-k4",
+      "rank": 3,
+      "award": "Best 96% Layout",
+      "name": "Keychron K4 96% Layout Wireless Bluetooth 5.1/Wired Mechanical Keyboard, Super Brown Switch",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07WS7KSGT?tag=primeareviews-20",
+      "verdict": "Keeps the number pad without the full-size footprint.",
+      "description": "The K4 is a 96% layout with a number pad and arrow keys, Super Brown tactile switches, Bluetooth 5.1 or wired, and a white backlight, in the $50 to $100 bucket. A 96% board compresses a full-size layout by removing gaps, so you keep the numeric keys without losing much desk width.\n\nThe K4 slots in third since the extra keys cost desk width compared with the K3, though they matter for spreadsheet work. It uses standard-height switches, unlike the low-profile K3, so the typing travel is longer. Against the V6 Max, it is smaller and cheaper, with fewer custom features.\n\nFor Mac users who type numbers all day and want wireless. The caveat is bulk: it is wider than the slim K3 and the Logitech, so measure the desk first.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "96%"
+        },
+        {
+          "label": "Switches",
+          "value": "Super Brown tactile"
+        },
+        {
+          "label": "Wireless",
+          "value": "Bluetooth 5.1"
+        },
+        {
+          "label": "Backlight",
+          "value": "White LED"
+        }
+      ],
+      "pros": [
+        "Number pad included",
+        "Tighter than full size",
+        "Bluetooth 5.1 or wired",
+        "Tactile switches"
+      ],
+      "cons": [
+        "Wider than the K3",
+        "White backlight only"
+      ],
+      "idealFor": "Spreadsheet-heavy Mac users.",
+      "skipIf": "Desk width is tight."
+    },
+    {
+      "id": "keychron-k2-he",
+      "rank": 4,
+      "award": "Best Adjustable Switches",
+      "name": "Keychron K2 HE Rapid Trigger Wireless Custom Keyboard, Hall Effect Gateron Double-Rail Magnetic Switch",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/41YovoriX2L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DCVPGB9N?tag=primeareviews-20",
+      "verdict": "Adjustable actuation in a compact, Mac-friendly body.",
+      "description": "The K2 HE uses Hall effect magnetic switches with adjustable actuation and Rapid Trigger support, 2.4GHz or Bluetooth 5.2 and QMK compatibility, in the $100 to $200 bucket. Hall effect switches sense the key position magnetically, so you can set how far a key must travel before it registers, and rapid trigger resets it the instant you lift.\n\nThe K2 HE sits fourth since adjustable switches are a niche feature for typing, and it costs about as much as the Logitech without the Mac-native keycaps. Gamers gain real speed from rapid trigger, but typists do not. Compared with the K3, it is dearer and more complicated.\n\nBuy it if you game or tweak settings on a Mac. The caveat is that plain typists get more from the options above, and the listing offers no Mac-native legends.",
+      "keySpecs": [
+        {
+          "label": "Switches",
+          "value": "Hall effect magnetic"
+        },
+        {
+          "label": "Wireless",
+          "value": "2.4GHz / Bluetooth 5.2"
+        },
+        {
+          "label": "Software",
+          "value": "QMK compatible"
+        },
+        {
+          "label": "Layout",
+          "value": "Compact"
+        }
+      ],
+      "pros": [
+        "Adjustable actuation",
+        "Rapid Trigger support",
+        "Two wireless modes",
+        "Works on Mac and Windows"
+      ],
+      "cons": [
+        "Pricey for typing",
+        "Not Mac-native keycaps"
+      ],
+      "idealFor": "Tinkerers who also game.",
+      "skipIf": "You only want a good typing board."
+    },
+    {
+      "id": "keychron-v6-max",
+      "rank": 5,
+      "award": "Best Customizable",
+      "name": "Keychron V6 Max Wireless Custom Mechanical Keyboard, Hot-swappable Gateron Banana Switch",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41PQ6Pcv3UL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D14LQ9XW?tag=primeareviews-20",
+      "verdict": "A full-size board you can re-switch over time.",
+      "description": "The V6 Max is a full-size, hot-swappable board with Gateron Banana switches, RGB backlighting, wireless and QMK support, in the $100 to $200 bucket. Hot-swap sockets let you pull a switch and replace it without soldering, so you can change feel over time, and QMK allows deep remapping.\n\nThe V6 Max lands fifth since the full-size body demands desk space and the hot-swap benefit only matters if you actually change switches. It competes with the Logitech on price but lacks Mac-native keycaps. Against the C2 it adds wireless and customization, at several times the cost.\n\nIt is for hobbyists who want to upgrade later. The caveat is that casual users will not use its flexibility, and the large footprint is hard to dock beside a laptop.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full size"
+        },
+        {
+          "label": "Switches",
+          "value": "Hot-swappable Banana"
+        },
+        {
+          "label": "Lighting",
+          "value": "RGB"
+        },
+        {
+          "label": "Software",
+          "value": "QMK compatible"
+        }
+      ],
+      "pros": [
+        "Hot-swappable switches",
+        "RGB backlighting",
+        "Wireless connection",
+        "Full number pad"
+      ],
+      "cons": [
+        "Large footprint",
+        "Overkill for typists"
+      ],
+      "idealFor": "Keyboard hobbyists on Mac.",
+      "skipIf": "You never swap switches."
+    },
+    {
+      "id": "keychron-c2",
+      "rank": 6,
+      "award": "Best Budget",
+      "name": "Keychron C2 Full Size Wired Mechanical Keyboard, Compatible with Mac, Brown Switch",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/31QS87iIEQL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09JG7KRC7?tag=primeareviews-20",
+      "verdict": "Cheap full-size mechanical typing for a Mac desktop.",
+      "description": "The C2 is a 104-key wired board with tactile Brown switches and a braided USB-C cable, in the $25 to $50 bucket. A full 104-key layout keeps the number pad and function row, so it works for data entry or spreadsheets, and a wired link removes latency and charging.\n\nThe C2 finishes sixth since it is wired only and lacks premium touches, but it is the cheapest route to a mechanical feel on a Mac. It matches the K4 on tactile Browns, though it lacks Bluetooth and backlighting in the listing. Against the K3, it saves a full bracket.\n\nIt suits a fixed Mac mini or iMac desk. The caveat is the cable, which limits where you can use it, and its no-frills build.",
+      "keySpecs": [
+        {
+          "label": "Layout",
+          "value": "Full 104-key"
+        },
+        {
+          "label": "Switches",
+          "value": "Tactile Brown"
+        },
+        {
+          "label": "Cable",
+          "value": "Braided USB-C"
+        },
+        {
+          "label": "Price",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "Lowest price here",
+        "Full number pad",
+        "Braided USB-C cable",
+        "Tactile Brown switches"
+      ],
+      "cons": [
+        "Wired only",
+        "No frills"
+      ],
+      "idealFor": "Fixed Mac desktop setups on a budget.",
+      "skipIf": "You want wireless."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Mac-native design",
+      "description": "We checked for Mac keycaps and function-row behavior that works without extra setup."
+    },
+    {
+      "title": "Switch type",
+      "description": "We compared tactile, low-profile and Hall effect designs by what they offer a typist."
+    },
+    {
+      "title": "Connectivity",
+      "description": "We looked at Bluetooth, 2.4GHz and wired options for desk flexibility."
+    },
+    {
+      "title": "Footprint",
+      "description": "We weighed layout size, since a full-size board crowds a small Mac desk."
+    },
+    {
+      "title": "Value",
+      "description": "We balanced listed features against each price bucket."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Mac-native keycaps",
+      "detail": "Mac keyboards use Command and Option instead of Windows and Alt. Boards without Mac labelling still work but leave you remapping in your head. Look for the word Mac in the product title and keycap images. The Logitech is the only listing here that explicitly pairs native keycaps with correct Fn behavior, and that detail saves a surprising amount of daily friction."
+    },
+    {
+      "factor": "Layout size",
+      "detail": "A 75% board drops the number pad and saves about a hand width of desk. Ask yourself whether you type numbers daily. The Logitech and K3 are compact, the K4 is 96%, and the V6 Max and C2 are full size. Count the keys listed in the specs, and measure your desk and keyboard tray before buying, since a 96% board can still overhang a narrow tray."
+    },
+    {
+      "factor": "Switch feel",
+      "detail": "Tactile Brown switches give a small bump without the click, which suits shared spaces. Low-profile versions shorten key travel and match laptop height. The Logitech and K3 use low-profile switches. Look for the switch name in the title, and remember that Hall effect switches work differently from mechanical contacts, so the feel is not directly comparable."
+    },
+    {
+      "factor": "Connection type",
+      "detail": "Bluetooth pairs with Macs without a dongle, while wired is lag-free. 2.4GHz receivers cut latency for gaming. Check for Bluetooth version or 2.4GHz named in the listing, and confirm the board can hold multiple pairings if you switch between a Mac and an iPad, since not every wireless board can."
+    },
+    {
+      "factor": "Hot-swap and software",
+      "detail": "Hot-swappable boards let you change switches without soldering, and QMK allows deep remapping. Both are for enthusiasts. Confirm these terms in the listing if you want them. The V6 Max and K2 HE list them, while most typists will never touch them, and they add cost and setup time."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Layout",
+      "intro": "Layout drives desk space.",
+      "table": {
+        "headers": [
+          "You want",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Compact 75%, Mac-native",
+            "Logitech MX Mechanical Mini Mac"
+          ],
+          [
+            "Slim 84 keys",
+            "Keychron K3 Version 2"
+          ],
+          [
+            "Number pad, tighter body",
+            "Keychron K4"
+          ],
+          [
+            "Full size",
+            "Keychron V6 Max"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$25-50",
+            "Keychron C2"
+          ],
+          [
+            "$50-100, slim",
+            "Keychron K3 Version 2"
+          ],
+          [
+            "$50-100, number pad",
+            "Keychron K4"
+          ],
+          [
+            "$100-200",
+            "Logitech MX Mechanical Mini Mac"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Tactile vs Hall Effect",
+      "cards": [
+        {
+          "label": "Tactile",
+          "text": "Familiar bump, simple and consistent. Picks: Logitech MX Mechanical Mini Mac, K3 Version 2, K4 and C2."
+        },
+        {
+          "label": "Hall effect",
+          "text": "Magnetic switches with adjustable actuation. Picks: Keychron K2 HE."
+        }
+      ],
+      "note": "Most Mac typists should default to tactile switches."
+    },
+    {
+      "subheading": "By Connectivity",
+      "table": {
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Rechargeable wireless",
+            "Logitech MX Mechanical Mini Mac"
+          ],
+          [
+            "Bluetooth or wired",
+            "Keychron K4"
+          ],
+          [
+            "2.4GHz and Bluetooth",
+            "Keychron K2 HE"
+          ],
+          [
+            "Wired only",
+            "Keychron C2"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For MacBook Docking Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A low-profile, compact board with Bluetooth so it travels."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Keychron K3 Version 2 matches MacBook height, and the Logitech MX Mechanical Mini Mac is the Mac-native option."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want zero setup or adjustable switches. The Logitech MX Mechanical Mini Mac and Keychron K2 HE serve those buyers."
+        },
+        {
+          "label": "Save if",
+          "text": "A fixed desk and plain typing are enough. The Keychron C2 covers it."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do Keychron boards work on Mac?",
+      "a": "Yes, every listed model is Mac compatible. Some, like the Keychron K3, need a toggle or software to set the Mac layout, while the Logitech arrives native, with the Fn row ready to use."
+    },
+    {
+      "q": "What is the common mistake?",
+      "a": "Buying a Windows-labelled board and then confusing Alt and Option. Check for Mac keycaps in the photos, or plan to swap the legends on the Keychron boards with a Mac keycap set, which costs extra."
+    },
+    {
+      "q": "Is the Logitech worth it over the K3?",
+      "a": "If you want zero setup and Mac-native keys, yes. If price matters, the K3 is close in feel and saves a bracket, though it needs a mode switch and a short setup for the Mac layout."
+    },
+    {
+      "q": "How do I pair over Bluetooth?",
+      "a": "Switch the board to Bluetooth mode and select it in macOS Bluetooth settings. The Keychron K4 and K3 hold pairings, and the Logitech pairs the same way, so switching between devices is quick once saved."
+    },
+    {
+      "q": "How do I maintain a mechanical keyboard?",
+      "a": "Brush out crumbs and wipe keycaps periodically with a barely damp cloth. Hot-swappable boards like the V6 Max let you pull switches for deeper cleaning, but sealed boards need care with liquid, so keep drinks away and unplug before wiping."
+    },
+    {
+      "q": "Are Hall effect switches worth it?",
+      "a": "Only if you use adjustable actuation, as on the K2 HE. For plain typing, tactile switches like the K4's Super Browns are simpler and cheaper, and they feel familiar to most typists."
+    }
+  ],
+  "finalTake": "Buy the Logitech MX Mechanical Mini Mac if you want it to behave like an Apple keyboard from the first minute. The Keychron K3 is the budget slim board, the K4 suits number-heavy work, and the C2 covers a fixed desk. Skip the K2 HE and V6 Max unless you want adjustable or swappable switches.",
+  "related": [
+    "best-mechanical-keyboards",
+    "best-wireless-mechanical-keyboards",
+    "best-bluetooth-ergonomic-keyboards"
+  ]
 }

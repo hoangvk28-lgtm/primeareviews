@@ -10,7 +10,10 @@
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
   "summary": "The HP LaserJet M209d is the best printer without Wi-Fi: wired connection only, no wireless radio, a USB cable in the box and automatic duplex, for $100 to $200. The Brother DCP-L2640DW adds scan and copy, and the Canon MF753Cdw II is the fast color laser. The inkjets suit color and photos.",
-  "intro": ["People ask for a printer without Wi-Fi for three reasons: they do not want another device on the home network, their signal is patchy, or they simply want a machine that works every time a cable is plugged in. The catch is that almost nothing on sale today is truly radio-free. Most printers carry a Wi-Fi chip and just let you turn it off, which is not the same as never having one.","This list is built around that distinction. One model is wired-only by design. The other seven are Wi-Fi capable, but their listings say a USB-B connection keeps working with the radio disabled in settings. We ranked them on how cleanly they run wired, what they do beyond printing, and the running cost their ink or toner implies, using spec sheets and owner reports."],
+  "intro": [
+    "People ask for a printer without Wi-Fi for three reasons: they do not want another device on the home network, their signal is patchy, or they simply want a machine that works every time a cable is plugged in. The catch is that almost nothing on sale today is truly radio-free. Most printers carry a Wi-Fi chip and just let you turn it off, which is not the same as never having one.",
+    "This list is built around that distinction. One model is wired-only by design. The other seven are Wi-Fi capable, but their listings say a USB-B connection keeps working with the radio disabled in settings. We ranked them on how cleanly they run wired, what they do beyond printing, and the running cost their ink or toner implies, using spec sheets and owner reports."
+  ],
   "products": [
     {
       "id": "hp-laserjet-m209d-wired",
@@ -551,6 +554,6 @@
   "related": [
     "best-printers-without-ink-subscriptions",
     "best-robot-vacuums-without-wifi",
-    "best-printers-for-windows-11"
+    "best-airprint-printers"
   ]
 }

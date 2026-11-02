@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/31j3ZN+fhqL._SL500_.jpg",
   "summary": "The eufy E25 is the best anti-tangle robot vacuum: 20,000 Pa suction, a HydroJet roller mop and an auto-empty base, though at $500+ it costs the most. The roborock Qrevo S Pro adds 18,500 Pa, the eufy C28 is the mid-tier roller pick, and the MONSGA offers a 90-day dock cheaply.",
-  "intro": ["Hair is what kills a robot vacuum. Long strands and pet fur wrap around the brush roll, work into the bearings and turn a hands-off machine into a weekly scissors job. Brands know it, so almost every listing mentions tangle resistance somewhere, yet few say how it is achieved. There is no standard test behind the claim, which makes the label close to meaningless on its own.","We reviewed eight current models and ranked them on what the spec sheets support: suction rating, whether a dock handles the bin, whether the mop is a roller or a pad, and how well each brand supports parts. No listing promises a tangle-proof brush, so read the ranking as a guide to upkeep, not a guarantee against wrapped hair."],
+  "intro": [
+    "Hair is what kills a robot vacuum. Long strands and pet fur wrap around the brush roll, work into the bearings and turn a hands-off machine into a weekly scissors job. Brands know it, so almost every listing mentions tangle resistance somewhere, yet few say how it is achieved. There is no standard test behind the claim, which makes the label close to meaningless on its own.",
+    "We reviewed eight current models and ranked them on what the spec sheets support: suction rating, whether a dock handles the bin, whether the mop is a roller or a pad, and how well each brand supports parts. No listing promises a tangle-proof brush, so read the ranking as a guide to upkeep, not a guarantee against wrapped hair."
+  ],
   "products": [
     {
       "id": "eufy-e25",
@@ -551,6 +554,6 @@
   "related": [
     "best-bagless-self-emptying-robot-vacuums",
     "best-camera-free-robot-vacuums",
-    "best-ecovacs-robot-vacuums"
+    "best-commercial-robot-vacuums"
   ]
 }

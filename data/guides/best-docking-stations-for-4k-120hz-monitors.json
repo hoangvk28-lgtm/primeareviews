@@ -1,153 +1,420 @@
 {
- "slug": "best-docking-stations-for-4k-120hz-monitors",
- "category": "tech-accessories",
- "h1": "The 5 Best Docking Stations for 4K 120Hz Monitors of 2026, Ranked & Reviewed",
- "metaTitle": "Best 4K 120Hz Docking Stations: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: five docks for 4K 120Hz monitors, covering DisplayLink, KVM and Thunderbolt options and which ones really state 120Hz.",
- "mainKeyword": "docking station 4k 120hz",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41gtl-pSU5L._SL500_.jpg",
- "summary": "The TobenONE 18-in-1 DisplayLink dock is the best for 4K 120Hz monitors: up to five displays with quad 4K at 120Hz on Windows, five HDMI outputs, 45W charging and 2.5GbE for $200 to $500. The KVM dock states 4K120Hz for two computers, and the USB C dock reaches 4K 144Hz for less.",
- "intro": ["Plenty of docks say 4K on the box and quietly cap you at 60Hz once two monitors are plugged in. A 4K 120Hz monitor needs a dock that states that refresh rate for your exact setup, and the stated figure is the first thing to check, not the port count. Bandwidth is the real limit: two high-refresh 4K streams consume far more than one.","We reviewed five docks on paper, ranking them on stated refresh rate, number of displays, host compatibility and extras like charging and Ethernet. Three of the five state high refresh rates directly. The other two are included as alternates, and you should verify refresh on those listings before buying, because a missing figure usually means 60Hz."],
- "products": [
-  {
-   "id": "tobenone-18-in-1-dl7400",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "TobenONE 18-in-1 DisplayLink Docking Station (DL7400)",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41gtl-pSU5L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GXVK3G7S?tag=primeareviews-20",
-   "verdict": "Quad 4K at 120Hz and five HDMI outputs, for Windows.",
-   "description": "The TobenONE DL7400 is an 18-in-1 DisplayLink dock that supports up to five monitors, with quad 4K at 120Hz on Windows. It has five HDMI outputs with a cooling fan, 45W fast charging and 2.5GbE Ethernet, and sells for $200 to $500. DisplayLink compresses video over USB, which is how it reaches so many screens.\n\nIt ranks first because it states 4K at 120Hz across several screens, which none of the others do. Compared with the KVM dock below it, you get more displays, though you must install a driver and it is Windows-focused. A fan keeps the unit cool under load.\n\nBuy it for multi-monitor Windows desks. The caveats are the driver install and the price tier. Skip it if you use a Mac or dislike drivers.",
-   "keySpecs": [
-    {"label": "Displays", "value": "Up to 5, quad 4K at 120Hz"},
-    {"label": "Outputs", "value": "5x HDMI, cooling fan"},
-    {"label": "Charging", "value": "45W"},
-    {"label": "Network", "value": "2.5GbE Ethernet"}
-   ],
-   "pros": ["Quad 4K at 120Hz", "Five HDMI outputs", "2.5GbE Ethernet", "Cooling fan included"],
-   "cons": ["Driver install required", "Windows-focused 120Hz"],
-   "idealFor": "Windows users running several monitors at 4K 120Hz.",
-   "skipIf": "You use a Mac or dislike drivers."
-  },
-  {
-   "id": "kvm-switch-dock-4k120hz",
-   "rank": 2,
-   "award": "Best KVM Dock",
-   "name": "KVM Switch 2 Monitors 2 Computers Docking Station, 4K60Hz/4K120Hz",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/41zZDSI+zhL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FMQVLGX3?tag=primeareviews-20",
-   "verdict": "Switch two monitors between two PCs with a stated 4K120Hz path.",
-   "description": "This 13-in-1 KVM dock drives two monitors from two computers, with 4K60Hz and 4K120Hz listed. It provides 100W power delivery per connected PC, 1G Ethernet and an aluminum case, and it is plug and play. It sells for $100 to $200. A KVM function swaps keyboard, mouse and screens between machines with one press.\n\nIt ranks second because it handles two computers, which the TobenONE does not, but supports fewer displays. It sits in a lower price bracket, so it is cheaper too. Against the USB C dock, it adds KVM switching and 100W per PC for a higher price.\n\nChoose it if you share monitors between a laptop and a desktop. The caveat is that the 120Hz path applies to the setup the listing describes, so read it carefully. Skip it if you need more than two displays.",
-   "keySpecs": [
-    {"label": "Setup", "value": "2 monitors, 2 computers"},
-    {"label": "Refresh", "value": "4K60Hz / 4K120Hz"},
-    {"label": "Power", "value": "100W PD per PC"},
-    {"label": "Network", "value": "1G Ethernet"}
-   ],
-   "pros": ["Two computers, one setup", "Genuine 4K120Hz path listed", "100W PD per PC", "Plug and play"],
-   "cons": ["Only two monitors", "1G Ethernet only"],
-   "idealFor": "People sharing two monitors between two computers.",
-   "skipIf": "You need more than two displays."
-  },
-  {
-   "id": "usb-c-dual-monitor-4k-144hz-dock",
-   "rank": 3,
-   "award": "Best Budget Dual Monitor",
-   "name": "USB C Docking Station, Dual Monitor 4K@144Hz",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/41kwTA+BkXL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B08HLZ4X8Q?tag=primeareviews-20",
-   "verdict": "Two monitors at up to 4K 144Hz for the lowest outlay.",
-   "description": "This USB-C dock supports two monitors at up to 4K 144Hz, with 2x HDMI and 2x DisplayPort outputs. It adds USB-A 2.0 and 3.0 ports, a 10Gbps USB-C 3.1 port, a 150W DC power input, Ethernet and card readers. It sells for $50 to $100. Having both HDMI and DisplayPort outputs gives you options when a monitor favors one.\n\nIt ranks third because it supports only two displays and no KVM switching. It is the cheapest way here to reach a stated 144Hz. Against the TobenONE, it costs a fraction but offers two screens, not five.\n\nBuy it for a dual 4K high-refresh desk on a budget. The caveat is that the listing's 144Hz figure needs a capable host to deliver it. Skip it if you want three or more displays.",
-   "keySpecs": [
-    {"label": "Displays", "value": "Dual, up to 4K 144Hz"},
-    {"label": "Outputs", "value": "2x HDMI, 2x DisplayPort"},
-    {"label": "Power input", "value": "150W DC"},
-    {"label": "Extras", "value": "Ethernet, SD readers"}
-   ],
-   "pros": ["Up to 4K at 144Hz", "HDMI and DisplayPort outputs", "Ethernet and card readers", "Lowest price here"],
-   "cons": ["Only two monitors", "No KVM switching"],
-   "idealFor": "Dual high-refresh desks on a tight budget.",
-   "skipIf": "You want three or more displays."
-  },
-  {
-   "id": "av-access-8k-kvm-switch-dock",
-   "rank": 4,
-   "award": "Best for Two Computers",
-   "name": "AV Access 8K KVM Switch Dock, 2 Monitors 2 Computers",
-   "score": 83,
-   "imageUrl": "https://m.media-amazon.com/images/I/41yf74dFdZL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0F6MTC9LR?tag=primeareviews-20",
-   "verdict": "A KVM dock with an 8K ceiling and EDID emulation.",
-   "description": "The AV Access dock is a KVM switch for two monitors and two computers, with an 8K resolution ceiling and gigabit Ethernet. EDID emulation keeps display detection consistent when you switch, and it switches both displays and peripherals together. It sells for $200 to $500. EDID emulation stops windows from jumping to the wrong screen.\n\nIt ranks fourth because the listing does not state a 4K 120Hz figure, unlike the KVM above it. Verify refresh before buying. Against the other KVM dock, it costs a tier more and lists a resolution ceiling rather than a refresh rate.\n\nChoose it for a laptop-plus-desktop setup where consistent detection matters. The caveat is that refresh rate is not listed in our data. Skip it if a stated 4K120Hz path is required.",
-   "keySpecs": [
-    {"label": "Setup", "value": "2 monitors, 2 computers"},
-    {"label": "Resolution", "value": "8K ceiling"},
-    {"label": "Detection", "value": "EDID emulation"},
-    {"label": "Network", "value": "Gigabit Ethernet"}
-   ],
-   "pros": ["EDID emulation", "Switches peripherals too", "8K resolution ceiling", "Gigabit Ethernet"],
-   "cons": ["No 120Hz figure listed", "Only two monitors"],
-   "idealFor": "Switching two monitors between a laptop and a desktop.",
-   "skipIf": "A stated 4K120Hz path is required."
-  },
-  {
-   "id": "plugable-thunderbolt-4-dock-tbt-udm",
-   "rank": 5,
-   "award": "Best for New MacBooks",
-   "name": "Plugable Thunderbolt 4 Dock for M4/M5 MacBook (TBT-UDM)",
-   "score": 80,
-   "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-20",
-   "verdict": "Driverless native Thunderbolt video for M4 and M5 MacBooks.",
-   "description": "The Plugable TBT-UDM is a Thunderbolt 4 certified dock that needs no drivers. It supports dual 4K monitors or a single 6K display, with 100W charging for M4 and M5 MacBook Air and Pro. It has six USB ports, an SD card reader and Ethernet, and uses native Thunderbolt video rather than DisplayLink. It sells for $100 to $200.\n\nIt ranks last because no 120Hz figure is stated, so it is a fit for Mac users who value driverless video over a published refresh rate. Native Thunderbolt carries the picture without compression. Against the TobenONE, it avoids drivers but drives fewer screens.\n\nChoose it for an M4 or M5 MacBook. The caveat is verifying the refresh rate for your monitors. Skip it if you need a stated 4K120Hz path.",
-   "keySpecs": [
-    {"label": "Video", "value": "Dual 4K or single 6K"},
-    {"label": "Charging", "value": "100W for M4/M5 MacBook"},
-    {"label": "Certification", "value": "Thunderbolt 4, driverless"},
-    {"label": "Ports", "value": "6x USB, SD, Ethernet"}
-   ],
-   "pros": ["Driverless setup", "Native Thunderbolt video", "100W MacBook charging", "Six USB ports"],
-   "cons": ["No 120Hz figure listed", "Aimed at MacBooks"],
-   "idealFor": "M4 and M5 MacBook owners who dislike drivers.",
-   "skipIf": "You need a stated 4K120Hz path."
-  }
- ],
- "methodology": [
-  {"title": "Stated refresh rate", "description": "Docks that state 4K at 120Hz or higher ranked above those that do not."},
-  {"title": "Display count", "description": "The number of monitors supported at the stated refresh rate."},
-  {"title": "Host compatibility", "description": "Windows, Mac and Thunderbolt support were compared."},
-  {"title": "Charging and ports", "description": "Power delivery, USB and Ethernet were weighed."},
-  {"title": "Setup effort", "description": "Driver-free docks scored above driver-dependent ones."}
- ],
- "whatMatters": [
-  {"factor": "Stated refresh rate", "detail": "Refresh rate is how often the picture updates, and 4K 120Hz needs bandwidth most docks lack. Many cap at 60Hz with two screens. Look for 4K@120Hz in the title or bullets and check how many monitors it applies to. The TobenONE states quad 4K at 120Hz, the USB C dock 144Hz for two."},
-  {"factor": "DisplayLink vs native", "detail": "DisplayLink compresses video over USB and needs a driver, while Thunderbolt carries video natively. The TobenONE is DisplayLink and the Plugable is native. The listing names which one it uses. DisplayLink reaches more screens, while native video suits drivers-averse Mac users. Ask whether your laptop's GPU can output that many streams."},
-  {"factor": "KVM switching", "detail": "A KVM dock lets two computers share monitors and peripherals. It matters if you work on a laptop and a desktop. Look for KVM and the number of computers supported. The KVM dock and AV Access both list two computers. EDID emulation keeps screens from rearranging at each switch. Without it, windows jump around when you change computers."},
-  {"factor": "Power delivery", "detail": "Docks charge your laptop through the same cable. Wattage varies from 45W to 100W per PC. Match the number to your laptop's charger rating. The KVM dock lists 100W per PC, the Plugable 100W for MacBooks, and the TobenONE 45W, which may be slow for a gaming laptop. Plug in the laptop's own charger if the dock falls short."},
-  {"factor": "Host compatibility", "detail": "Some docks suit Windows, others Macs. The TobenONE 120Hz mode is for Windows with a driver. Check the compatibility line for your OS, and note that DisplayLink on macOS can have limits. Check the driver page for your macOS version before ordering. The Plugable lists M4 and M5 MacBook support."}
- ],
- "howToChoose": [
-  {"subheading": "By Number of Monitors", "intro": "Start with how many screens you must drive.", "table": {"headers": ["Monitors", "Our pick"], "rows": [["Up to five", "TobenONE 18-in-1 DL7400"], ["Two at high refresh", "USB C Dual Monitor 4K@144Hz Dock"], ["Two, two computers", "KVM Switch Dock 4K120Hz"], ["Dual or one 6K", "Plugable Thunderbolt 4 TBT-UDM"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["$50-100", "USB C Dual Monitor 4K@144Hz Dock"], ["$100-200", "KVM Switch Dock 4K120Hz or Plugable TBT-UDM"], ["$200-500", "TobenONE DL7400 or AV Access 8K KVM"]]}},
-  {"subheading": "DisplayLink vs Thunderbolt", "cards": [{"label": "DisplayLink", "text": "Needs a driver but supports many screens. The TobenONE DL7400 fits here."}, {"label": "Thunderbolt", "text": "Driverless and native. The Plugable TBT-UDM fits here."}], "note": "Most buyers should choose DisplayLink only if they need more than two screens."},
-  {"subheading": "By Computer Setup", "table": {"headers": ["Setup", "Our pick"], "rows": [["One Windows PC", "TobenONE DL7400"], ["Laptop plus desktop", "KVM Switch Dock 4K120Hz"], ["Consistent display detection", "AV Access 8K KVM"], ["M4/M5 MacBook", "Plugable TBT-UDM"]]}},
-  {"subheading": "For Gaming Setups Specifically", "cards": [{"label": "Look for", "text": "A stated 120Hz or 144Hz at 4K, and a host that can deliver it."}, {"label": "In this ranking", "text": "The USB C 4K@144Hz dock and the TobenONE DL7400 state high refresh."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You run three or more screens, so the TobenONE DL7400 is worth it."}, {"label": "Save if", "text": "Two screens are enough, so the USB C 4K@144Hz dock does the job."}]}
- ],
- "faq": [
-  {"q": "Do all docks support 4K at 120Hz?", "a": "No. Many cap at 60Hz, so check the listing for the stated figure. Three of the five here do, and the AV Access and Plugable do not. Treat a missing figure as 60Hz until the seller confirms."},
-  {"q": "What mistake do buyers make?", "a": "They assume 4K support means 4K 120Hz. The refresh rate must be stated for the number of monitors you use, and the cable must support it too. A DisplayPort or HDMI cable rated for the bandwidth matters as much as the dock."},
-  {"q": "Is the TobenONE worth it over the budget dock?", "a": "If you need more than two screens, yes. For two, the USB C 4K@144Hz dock costs far less. The TobenONE pays off only if you use four or five displays."},
-  {"q": "Do I need a driver?", "a": "The TobenONE DisplayLink dock requires one, installed on Windows before the monitors work. The Plugable Thunderbolt dock is driverless, which suits locked-down work laptops. DisplayLink drivers need admin rights to install, so ask IT before buying the TobenONE for a managed machine."},
-  {"q": "How do I keep a multi-monitor dock cool?", "a": "The TobenONE has a built-in cooling fan, which suits five-screen use that runs the chip hot. Give any dock airflow and avoid stacking items on it, especially the aluminum KVM dock. Heat shortens a dock's life, so leave a few inches on all sides."},
-  {"q": "Can a dock work with a Mac?", "a": "The Plugable TBT-UDM is made for M4 and M5 MacBooks. The TobenONE 120Hz mode targets Windows, so Mac owners should check DisplayLink limits. Native Thunderbolt avoids those limits and keeps video smooth."}
- ],
- "finalTake": "Buy the TobenONE for a multi-monitor Windows desk that needs high refresh on several screens. Choose the KVM dock to share two monitors between two computers, the USB C dock for a budget dual 4K 144Hz desk, and the Plugable for M4 or M5 MacBooks. The AV Access lists no refresh figure. Verify the stated refresh rate before anything else.",
- "related": []
+  "slug": "best-docking-stations-for-4k-120hz-monitors",
+  "category": "tech-accessories",
+  "h1": "The 5 Best Docking Stations for 4K 120Hz Monitors of 2026, Ranked & Reviewed",
+  "metaTitle": "Best 4K 120Hz Docking Stations: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: five docks for 4K 120Hz monitors, covering DisplayLink, KVM and Thunderbolt options and which ones really state 120Hz.",
+  "mainKeyword": "docking station 4k 120hz",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41gtl-pSU5L._SL500_.jpg",
+  "summary": "The TobenONE 18-in-1 DisplayLink dock is the best for 4K 120Hz monitors: up to five displays with quad 4K at 120Hz on Windows, five HDMI outputs, 45W charging and 2.5GbE for $200 to $500. The KVM dock states 4K120Hz for two computers, and the USB C dock reaches 4K 144Hz for less.",
+  "intro": [
+    "Plenty of docks say 4K on the box and quietly cap you at 60Hz once two monitors are plugged in. A 4K 120Hz monitor needs a dock that states that refresh rate for your exact setup, and the stated figure is the first thing to check, not the port count. Bandwidth is the real limit: two high-refresh 4K streams consume far more than one.",
+    "We reviewed five docks on paper, ranking them on stated refresh rate, number of displays, host compatibility and extras like charging and Ethernet. Three of the five state high refresh rates directly. The other two are included as alternates, and you should verify refresh on those listings before buying, because a missing figure usually means 60Hz."
+  ],
+  "products": [
+    {
+      "id": "tobenone-18-in-1-dl7400",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "TobenONE 18-in-1 DisplayLink Docking Station (DL7400)",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41gtl-pSU5L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GXVK3G7S?tag=primeareviews-20",
+      "verdict": "Quad 4K at 120Hz and five HDMI outputs, for Windows.",
+      "description": "The TobenONE DL7400 is an 18-in-1 DisplayLink dock that supports up to five monitors, with quad 4K at 120Hz on Windows. It has five HDMI outputs with a cooling fan, 45W fast charging and 2.5GbE Ethernet, and sells for $200 to $500. DisplayLink compresses video over USB, which is how it reaches so many screens.\n\nIt ranks first because it states 4K at 120Hz across several screens, which none of the others do. Compared with the KVM dock below it, you get more displays, though you must install a driver and it is Windows-focused. A fan keeps the unit cool under load.\n\nBuy it for multi-monitor Windows desks. The caveats are the driver install and the price tier. Skip it if you use a Mac or dislike drivers.",
+      "keySpecs": [
+        {
+          "label": "Displays",
+          "value": "Up to 5, quad 4K at 120Hz"
+        },
+        {
+          "label": "Outputs",
+          "value": "5x HDMI, cooling fan"
+        },
+        {
+          "label": "Charging",
+          "value": "45W"
+        },
+        {
+          "label": "Network",
+          "value": "2.5GbE Ethernet"
+        }
+      ],
+      "pros": [
+        "Quad 4K at 120Hz",
+        "Five HDMI outputs",
+        "2.5GbE Ethernet",
+        "Cooling fan included"
+      ],
+      "cons": [
+        "Driver install required",
+        "Windows-focused 120Hz"
+      ],
+      "idealFor": "Windows users running several monitors at 4K 120Hz.",
+      "skipIf": "You use a Mac or dislike drivers."
+    },
+    {
+      "id": "kvm-switch-dock-4k120hz",
+      "rank": 2,
+      "award": "Best KVM Dock",
+      "name": "KVM Switch 2 Monitors 2 Computers Docking Station, 4K60Hz/4K120Hz",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41zZDSI+zhL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FMQVLGX3?tag=primeareviews-20",
+      "verdict": "Switch two monitors between two PCs with a stated 4K120Hz path.",
+      "description": "This 13-in-1 KVM dock drives two monitors from two computers, with 4K60Hz and 4K120Hz listed. It provides 100W power delivery per connected PC, 1G Ethernet and an aluminum case, and it is plug and play. It sells for $100 to $200. A KVM function swaps keyboard, mouse and screens between machines with one press.\n\nIt ranks second because it handles two computers, which the TobenONE does not, but supports fewer displays. It sits in a lower price bracket, so it is cheaper too. Against the USB C dock, it adds KVM switching and 100W per PC for a higher price.\n\nChoose it if you share monitors between a laptop and a desktop. The caveat is that the 120Hz path applies to the setup the listing describes, so read it carefully. Skip it if you need more than two displays.",
+      "keySpecs": [
+        {
+          "label": "Setup",
+          "value": "2 monitors, 2 computers"
+        },
+        {
+          "label": "Refresh",
+          "value": "4K60Hz / 4K120Hz"
+        },
+        {
+          "label": "Power",
+          "value": "100W PD per PC"
+        },
+        {
+          "label": "Network",
+          "value": "1G Ethernet"
+        }
+      ],
+      "pros": [
+        "Two computers, one setup",
+        "Genuine 4K120Hz path listed",
+        "100W PD per PC",
+        "Plug and play"
+      ],
+      "cons": [
+        "Only two monitors",
+        "1G Ethernet only"
+      ],
+      "idealFor": "People sharing two monitors between two computers.",
+      "skipIf": "You need more than two displays."
+    },
+    {
+      "id": "usb-c-dual-monitor-4k-144hz-dock",
+      "rank": 3,
+      "award": "Best Budget Dual Monitor",
+      "name": "USB C Docking Station, Dual Monitor 4K@144Hz",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41kwTA+BkXL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08HLZ4X8Q?tag=primeareviews-20",
+      "verdict": "Two monitors at up to 4K 144Hz for the lowest outlay.",
+      "description": "This USB-C dock supports two monitors at up to 4K 144Hz, with 2x HDMI and 2x DisplayPort outputs. It adds USB-A 2.0 and 3.0 ports, a 10Gbps USB-C 3.1 port, a 150W DC power input, Ethernet and card readers. It sells for $50 to $100. Having both HDMI and DisplayPort outputs gives you options when a monitor favors one.\n\nIt ranks third because it supports only two displays and no KVM switching. It is the cheapest way here to reach a stated 144Hz. Against the TobenONE, it costs a fraction but offers two screens, not five.\n\nBuy it for a dual 4K high-refresh desk on a budget. The caveat is that the listing's 144Hz figure needs a capable host to deliver it. Skip it if you want three or more displays.",
+      "keySpecs": [
+        {
+          "label": "Displays",
+          "value": "Dual, up to 4K 144Hz"
+        },
+        {
+          "label": "Outputs",
+          "value": "2x HDMI, 2x DisplayPort"
+        },
+        {
+          "label": "Power input",
+          "value": "150W DC"
+        },
+        {
+          "label": "Extras",
+          "value": "Ethernet, SD readers"
+        }
+      ],
+      "pros": [
+        "Up to 4K at 144Hz",
+        "HDMI and DisplayPort outputs",
+        "Ethernet and card readers",
+        "Lowest price here"
+      ],
+      "cons": [
+        "Only two monitors",
+        "No KVM switching"
+      ],
+      "idealFor": "Dual high-refresh desks on a tight budget.",
+      "skipIf": "You want three or more displays."
+    },
+    {
+      "id": "av-access-8k-kvm-switch-dock",
+      "rank": 4,
+      "award": "Best for Two Computers",
+      "name": "AV Access 8K KVM Switch Dock, 2 Monitors 2 Computers",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41yf74dFdZL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F6MTC9LR?tag=primeareviews-20",
+      "verdict": "A KVM dock with an 8K ceiling and EDID emulation.",
+      "description": "The AV Access dock is a KVM switch for two monitors and two computers, with an 8K resolution ceiling and gigabit Ethernet. EDID emulation keeps display detection consistent when you switch, and it switches both displays and peripherals together. It sells for $200 to $500. EDID emulation stops windows from jumping to the wrong screen.\n\nIt ranks fourth because the listing does not state a 4K 120Hz figure, unlike the KVM above it. Verify refresh before buying. Against the other KVM dock, it costs a tier more and lists a resolution ceiling rather than a refresh rate.\n\nChoose it for a laptop-plus-desktop setup where consistent detection matters. The caveat is that refresh rate is not listed in our data. Skip it if a stated 4K120Hz path is required.",
+      "keySpecs": [
+        {
+          "label": "Setup",
+          "value": "2 monitors, 2 computers"
+        },
+        {
+          "label": "Resolution",
+          "value": "8K ceiling"
+        },
+        {
+          "label": "Detection",
+          "value": "EDID emulation"
+        },
+        {
+          "label": "Network",
+          "value": "Gigabit Ethernet"
+        }
+      ],
+      "pros": [
+        "EDID emulation",
+        "Switches peripherals too",
+        "8K resolution ceiling",
+        "Gigabit Ethernet"
+      ],
+      "cons": [
+        "No 120Hz figure listed",
+        "Only two monitors"
+      ],
+      "idealFor": "Switching two monitors between a laptop and a desktop.",
+      "skipIf": "A stated 4K120Hz path is required."
+    },
+    {
+      "id": "plugable-thunderbolt-4-dock-tbt-udm",
+      "rank": 5,
+      "award": "Best for New MacBooks",
+      "name": "Plugable Thunderbolt 4 Dock for M4/M5 MacBook (TBT-UDM)",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-20",
+      "verdict": "Driverless native Thunderbolt video for M4 and M5 MacBooks.",
+      "description": "The Plugable TBT-UDM is a Thunderbolt 4 certified dock that needs no drivers. It supports dual 4K monitors or a single 6K display, with 100W charging for M4 and M5 MacBook Air and Pro. It has six USB ports, an SD card reader and Ethernet, and uses native Thunderbolt video rather than DisplayLink. It sells for $100 to $200.\n\nIt ranks last because no 120Hz figure is stated, so it is a fit for Mac users who value driverless video over a published refresh rate. Native Thunderbolt carries the picture without compression. Against the TobenONE, it avoids drivers but drives fewer screens.\n\nChoose it for an M4 or M5 MacBook. The caveat is verifying the refresh rate for your monitors. Skip it if you need a stated 4K120Hz path.",
+      "keySpecs": [
+        {
+          "label": "Video",
+          "value": "Dual 4K or single 6K"
+        },
+        {
+          "label": "Charging",
+          "value": "100W for M4/M5 MacBook"
+        },
+        {
+          "label": "Certification",
+          "value": "Thunderbolt 4, driverless"
+        },
+        {
+          "label": "Ports",
+          "value": "6x USB, SD, Ethernet"
+        }
+      ],
+      "pros": [
+        "Driverless setup",
+        "Native Thunderbolt video",
+        "100W MacBook charging",
+        "Six USB ports"
+      ],
+      "cons": [
+        "No 120Hz figure listed",
+        "Aimed at MacBooks"
+      ],
+      "idealFor": "M4 and M5 MacBook owners who dislike drivers.",
+      "skipIf": "You need a stated 4K120Hz path."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Stated refresh rate",
+      "description": "Docks that state 4K at 120Hz or higher ranked above those that do not."
+    },
+    {
+      "title": "Display count",
+      "description": "The number of monitors supported at the stated refresh rate."
+    },
+    {
+      "title": "Host compatibility",
+      "description": "Windows, Mac and Thunderbolt support were compared."
+    },
+    {
+      "title": "Charging and ports",
+      "description": "Power delivery, USB and Ethernet were weighed."
+    },
+    {
+      "title": "Setup effort",
+      "description": "Driver-free docks scored above driver-dependent ones."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Stated refresh rate",
+      "detail": "Refresh rate is how often the picture updates, and 4K 120Hz needs bandwidth most docks lack. Many cap at 60Hz with two screens. Look for 4K@120Hz in the title or bullets and check how many monitors it applies to. The TobenONE states quad 4K at 120Hz, the USB C dock 144Hz for two."
+    },
+    {
+      "factor": "DisplayLink vs native",
+      "detail": "DisplayLink compresses video over USB and needs a driver, while Thunderbolt carries video natively. The TobenONE is DisplayLink and the Plugable is native. The listing names which one it uses. DisplayLink reaches more screens, while native video suits drivers-averse Mac users. Ask whether your laptop's GPU can output that many streams."
+    },
+    {
+      "factor": "KVM switching",
+      "detail": "A KVM dock lets two computers share monitors and peripherals. It matters if you work on a laptop and a desktop. Look for KVM and the number of computers supported. The KVM dock and AV Access both list two computers. EDID emulation keeps screens from rearranging at each switch. Without it, windows jump around when you change computers."
+    },
+    {
+      "factor": "Power delivery",
+      "detail": "Docks charge your laptop through the same cable. Wattage varies from 45W to 100W per PC. Match the number to your laptop's charger rating. The KVM dock lists 100W per PC, the Plugable 100W for MacBooks, and the TobenONE 45W, which may be slow for a gaming laptop. Plug in the laptop's own charger if the dock falls short."
+    },
+    {
+      "factor": "Host compatibility",
+      "detail": "Some docks suit Windows, others Macs. The TobenONE 120Hz mode is for Windows with a driver. Check the compatibility line for your OS, and note that DisplayLink on macOS can have limits. Check the driver page for your macOS version before ordering. The Plugable lists M4 and M5 MacBook support."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Number of Monitors",
+      "intro": "Start with how many screens you must drive.",
+      "table": {
+        "headers": [
+          "Monitors",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Up to five",
+            "TobenONE 18-in-1 DL7400"
+          ],
+          [
+            "Two at high refresh",
+            "USB C Dual Monitor 4K@144Hz Dock"
+          ],
+          [
+            "Two, two computers",
+            "KVM Switch Dock 4K120Hz"
+          ],
+          [
+            "Dual or one 6K",
+            "Plugable Thunderbolt 4 TBT-UDM"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50-100",
+            "USB C Dual Monitor 4K@144Hz Dock"
+          ],
+          [
+            "$100-200",
+            "KVM Switch Dock 4K120Hz or Plugable TBT-UDM"
+          ],
+          [
+            "$200-500",
+            "TobenONE DL7400 or AV Access 8K KVM"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "DisplayLink vs Thunderbolt",
+      "cards": [
+        {
+          "label": "DisplayLink",
+          "text": "Needs a driver but supports many screens. The TobenONE DL7400 fits here."
+        },
+        {
+          "label": "Thunderbolt",
+          "text": "Driverless and native. The Plugable TBT-UDM fits here."
+        }
+      ],
+      "note": "Most buyers should choose DisplayLink only if they need more than two screens."
+    },
+    {
+      "subheading": "By Computer Setup",
+      "table": {
+        "headers": [
+          "Setup",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "One Windows PC",
+            "TobenONE DL7400"
+          ],
+          [
+            "Laptop plus desktop",
+            "KVM Switch Dock 4K120Hz"
+          ],
+          [
+            "Consistent display detection",
+            "AV Access 8K KVM"
+          ],
+          [
+            "M4/M5 MacBook",
+            "Plugable TBT-UDM"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Gaming Setups Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A stated 120Hz or 144Hz at 4K, and a host that can deliver it."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The USB C 4K@144Hz dock and the TobenONE DL7400 state high refresh."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You run three or more screens, so the TobenONE DL7400 is worth it."
+        },
+        {
+          "label": "Save if",
+          "text": "Two screens are enough, so the USB C 4K@144Hz dock does the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do all docks support 4K at 120Hz?",
+      "a": "No. Many cap at 60Hz, so check the listing for the stated figure. Three of the five here do, and the AV Access and Plugable do not. Treat a missing figure as 60Hz until the seller confirms."
+    },
+    {
+      "q": "What mistake do buyers make?",
+      "a": "They assume 4K support means 4K 120Hz. The refresh rate must be stated for the number of monitors you use, and the cable must support it too. A DisplayPort or HDMI cable rated for the bandwidth matters as much as the dock."
+    },
+    {
+      "q": "Is the TobenONE worth it over the budget dock?",
+      "a": "If you need more than two screens, yes. For two, the USB C 4K@144Hz dock costs far less. The TobenONE pays off only if you use four or five displays."
+    },
+    {
+      "q": "Do I need a driver?",
+      "a": "The TobenONE DisplayLink dock requires one, installed on Windows before the monitors work. The Plugable Thunderbolt dock is driverless, which suits locked-down work laptops. DisplayLink drivers need admin rights to install, so ask IT before buying the TobenONE for a managed machine."
+    },
+    {
+      "q": "How do I keep a multi-monitor dock cool?",
+      "a": "The TobenONE has a built-in cooling fan, which suits five-screen use that runs the chip hot. Give any dock airflow and avoid stacking items on it, especially the aluminum KVM dock. Heat shortens a dock's life, so leave a few inches on all sides."
+    },
+    {
+      "q": "Can a dock work with a Mac?",
+      "a": "The Plugable TBT-UDM is made for M4 and M5 MacBooks. The TobenONE 120Hz mode targets Windows, so Mac owners should check DisplayLink limits. Native Thunderbolt avoids those limits and keeps video smooth."
+    }
+  ],
+  "finalTake": "Buy the TobenONE for a multi-monitor Windows desk that needs high refresh on several screens. Choose the KVM dock to share two monitors between two computers, the USB C dock for a budget dual 4K 144Hz desk, and the Plugable for M4 or M5 MacBooks. The AV Access lists no refresh figure. Verify the stated refresh rate before anything else.",
+  "related": [
+    "best-budget-docking-stations-under-100",
+    "best-docking-stations-for-chromebooks",
+    "best-docking-stations-for-macbook-air"
+  ]
 }

@@ -1,153 +1,424 @@
 {
- "slug": "best-self-propelled-garden-carts",
- "category": "outdoor-garden",
- "h1": "The 5 Best Self-Propelled Garden Carts of 2026, Ranked & Reviewed",
- "metaTitle": "Best Self-Propelled Carts 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: five electric self-propelled garden carts with loads from 440 to 660 lb, compared on battery, braking, folding and price tier.",
- "mainKeyword": "self-propelled garden carts",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "9 min",
- "heroImage": "https://m.media-amazon.com/images/I/51pON7EkYAL._SL500_.jpg",
- "summary": "The SuperHandy 48V power wagon is the best self-propelled garden cart, with a 660 lb load and a lithium system that claims 1000 lb of hauling. The VEVOR matches the load with a named brake and a stated 432Wh battery, and the Landworks is the simple 500 lb option. The Litheli folds for storage, and the BougeRV is the cheap entry with a small 133Wh pack.",
- "intro": ["A powered cart turns the job from pushing weight to steering it, which is a big change on a sloped yard or for anyone with a sore back. The catch is that the battery, not the bed, decides how long the cart is useful, and listings rarely state how much energy the pack holds. A big load number on a small battery just means a cart that quits early, usually halfway through the job.","We scored five self-propelled carts on the Primea framework, and battery energy, load rating, braking and speed control counted most. Prices are buckets. Some listings publish watt-hours and some publish only voltage, so we say which is which and treat a hauling claim as separate from carrying capacity."],
- "products": [
-  {
-   "id": "superhandy-48v-power-wagon",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "SuperHandy Utility Service Cart Power Wagon Wheelbarrow Electric 48V DC Li-Ion Powered, 660Lbs Load and 1000Lbs+ Hauling",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/51pON7EkYAL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B08FXFDR5G?tag=primeareviews-20",
-   "verdict": "The strongest powered hauler on the list, with a 48V lithium system.",
-   "description": "The SuperHandy runs on a 48V DC lithium-ion system and lists a 660 lb load with hauling beyond 1000 lb, in the $500 and up bucket. That towing-level figure is higher than any other powered cart here. Voltage alone does not give runtime, but a 48V system moves heavy loads with less current than a 36V one.\n\nIt outranks the VEVOR because of the higher voltage and the larger hauling claim, even though the carrying load matches at 660 lb. It stays in a wheelbarrow layout, which suits garden beds.\n\nBuy it for large properties with regular heavy hauling. The caveats are the top price tier and a heavy battery pack. Skip it if your loads rarely pass 200 lb.",
-   "keySpecs": [
-    {"label": "Power", "value": "48V DC Li-Ion"},
-    {"label": "Load", "value": "660 lb"},
-    {"label": "Hauling", "value": "1000 lb and up"},
-    {"label": "Price bucket", "value": "$500+"}
-   ],
-   "pros": ["48V lithium system", "660 lb load", "1000 lb hauling claim", "Wheelbarrow style"],
-   "cons": ["Top price tier", "Heavy battery pack"],
-   "idealFor": "Large properties with regular heavy hauling.",
-   "skipIf": "Your loads rarely pass 200 lb."
-  },
-  {
-   "id": "vevor-electric-utility-cart-36v",
-   "rank": 2,
-   "award": "Best Braking",
-   "name": "VEVOR Electric Utility Cart, 36V 432Wh Battery Powered Electric Wagon, 500W Power Wheelbarrow with Brake, 660 lbs Load",
-   "score": 90,
-   "imageUrl": "https://m.media-amazon.com/images/I/41V9xB73JHL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0H4TX4FL1?tag=primeareviews-20",
-   "verdict": "Same carrying number as the leader, with a named brake and a stated battery size.",
-   "description": "This VEVOR uses a 36V, 432Wh battery with a 500W motor and a brake, and lists a 660 lb load, in the $500 and up bucket. It is one of the few here that publishes watt-hours. A named brake matters on a slope, where a full bed pushes the cart faster than you can walk.\n\nIt ranks under the SuperHandy because it uses a lower-voltage system and has no hauling claim, but it discloses more. Against the Landworks, it adds a brake and a battery number.\n\nBuy it for hilly yards where stopping control matters. The caveats are the lower voltage than the leader and the high price tier. Skip it if you want a foldable cart.",
-   "keySpecs": [
-    {"label": "Battery", "value": "36V 432Wh"},
-    {"label": "Motor", "value": "500W"},
-    {"label": "Load", "value": "660 lb"},
-    {"label": "Brake", "value": "Included"}
-   ],
-   "pros": ["Named brake", "432Wh battery stated", "500W motor", "660 lb load"],
-   "cons": ["Lower voltage than leader", "High price tier"],
-   "idealFor": "Hilly yards where stopping control matters.",
-   "skipIf": "You want a foldable cart."
-  },
-  {
-   "id": "landworks-electric-utility-cart-500",
-   "rank": 3,
-   "award": "Best Straightforward Powered Cart",
-   "name": "Landworks Electric Utility Cart, 500 lb Load",
-   "score": 86,
-   "imageUrl": "https://m.media-amazon.com/images/I/51O2LoyIr+L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B07KX7W5Q5?tag=primeareviews-20",
-   "verdict": "A simple self-propelled cart with a 500 lb load.",
-   "description": "The Landworks is a self-propelled electric cart with a 500 lb load, in the $500 and up bucket. The listing keeps details sparse, with no battery capacity or brake named. Self-propelled drive does the pushing, which is the feature you pay for.\n\nIt ranks below the VEVOR because that cart discloses more, and it carries 160 lb more. The Landworks still wins on simplicity, with no folding joints or app to manage.\n\nBuy it for owners who want powered hauling without frills. The caveats are sparse specs and no named brake. Skip it if you need battery details up front.",
-   "keySpecs": [
-    {"label": "Load", "value": "500 lb"},
-    {"label": "Drive", "value": "Self-propelled electric"},
-    {"label": "Price bucket", "value": "$500+"},
-    {"label": "Battery detail", "value": "Not listed"}
-   ],
-   "pros": ["Self-propelled drive", "500 lb load", "Lower than top pick", "Simple design"],
-   "cons": ["Sparse specs", "No brake named"],
-   "idealFor": "Owners wanting powered hauling without frills.",
-   "skipIf": "You need battery details up front."
-  },
-  {
-   "id": "litheli-electric-utility-wagon-foldable",
-   "rank": 4,
-   "award": "Best Foldable",
-   "name": "Litheli Electric Utility Wagon Cart, 150L Capacity, 450 lbs Load, Foldable Heavy-Duty Design with All-Terrain Wheels, Variable Speed Drive",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/413oVDm9E1L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GXZWCDK4?tag=primeareviews-20",
-   "verdict": "Folds flat and gives you a speed dial.",
-   "description": "The Litheli is a 150 liter electric wagon rated for 450 lb with a foldable design, all-terrain wheels and a variable speed drive. It sits in the $200 to $500 bucket, well below the premium picks. Variable speed lets you creep beside beds and speed up on a path.\n\nIt ranks below the Landworks on load, and its 450 lb rating trails the leaders by over 200 lb. What it gains is price and storage, since it folds flat for a shed.\n\nBuy it for small yards with limited storage. The caveats are the 450 lb rating and a smaller capacity than the leaders. Skip it if you haul near 600 lb.",
-   "keySpecs": [
-    {"label": "Capacity", "value": "150 liters"},
-    {"label": "Load", "value": "450 lb"},
-    {"label": "Drive", "value": "Variable speed"},
-    {"label": "Design", "value": "Foldable"}
-   ],
-   "pros": ["Folds for storage", "Variable speed control", "All-terrain wheels", "Mid-tier price"],
-   "cons": ["450 lb rating", "Smaller than leaders"],
-   "idealFor": "Small yards with limited storage space.",
-   "skipIf": "You haul near 600 lb."
-  },
-  {
-   "id": "bougerv-electric-utility-wagon-133wh",
-   "rank": 5,
-   "award": "Best Entry Point",
-   "name": "BougeRV Electric Utility Wagon with 133Wh Battery, Up to 440 lbs Load",
-   "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/41N8RKTlccL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FMYB98KJ?tag=primeareviews-20",
-   "verdict": "A low-cost way to try powered hauling.",
-   "description": "The BougeRV wagon has a 133Wh battery and lists up to 440 lb of load, in the $200 to $500 bucket. The battery is much smaller than the VEVOR's 432Wh pack, which stores over three times the energy.\n\nIt ranks last because the 133Wh battery implies shorter working time, but it discloses the figure and it is the lowest powered price. A load rating means little if the charge runs out before the job is done.\n\nBuy it for occasional light hauling on a budget. The caveats are the small battery and likely shorter range. Skip it if you haul all day.",
-   "keySpecs": [
-    {"label": "Battery", "value": "133Wh"},
-    {"label": "Load", "value": "Up to 440 lb"},
-    {"label": "Type", "value": "Electric wagon"},
-    {"label": "Price bucket", "value": "$200-500"}
-   ],
-   "pros": ["Lowest powered price", "440 lb load", "Battery size disclosed", "Wagon layout"],
-   "cons": ["Small 133Wh battery", "Likely shorter range"],
-   "idealFor": "Occasional light hauling on a budget.",
-   "skipIf": "You haul all day."
-  }
- ],
- "methodology": [
-  {"title": "Drive system", "description": "We compared voltage, motor wattage and whether the listing names them."},
-  {"title": "Load rating", "description": "Carrying capacity and any separate hauling claims were treated as manufacturer figures."},
-  {"title": "Battery size", "description": "Watt-hours served as the best proxy for working time when it was disclosed."},
-  {"title": "Control", "description": "Brakes and variable speed settings counted toward safety on slopes."},
-  {"title": "Storage and price", "description": "Folding design and price tier decided fit for different yards."}
- ],
- "whatMatters": [
-  {"factor": "Battery watt-hours", "detail": "Watt-hours measure stored energy, so a 432Wh pack holds more than three times the energy of a 133Wh pack. More energy means longer work between charges. Look for Wh in the title or specs, not only voltage, and be cautious when a listing gives voltage alone, because it cannot tell you runtime."},
-  {"factor": "Load vs hauling", "detail": "Load is what the bed carries, while hauling is a pulling claim that may include towing. A 660 lb load is plenty for most yards. Check which figure is the real carrying limit, and do not buy on the larger number, because a hauling claim says nothing about what the bed can hold. A tow rating is not a carrying rating."},
-  {"factor": "Braking", "detail": "A powered cart can run away downhill with a full bed. A named brake or motor braking helps you hold position on slopes. Check the feature list for the word brake, as on the VEVOR, and favor it if your yard has any grade, because the cost of a runaway is high. A brake also protects plants and fences from a loaded cart."},
-  {"factor": "Speed control", "detail": "Variable speed lets you creep near plants and go faster on open ground. Fixed speed is simpler but less precise. Look for a dial or trigger described in the listing, as on the Litheli, and think about whether you work around delicate beds, where slow control matters most. A trigger is easier than a dial with gloves on."},
-  {"factor": "Foldability", "detail": "A folding wagon saves garage space but adds hinges that can loosen. If space is tight, it can be the deciding factor. Check for folded dimensions on the listing, and weigh the savings against the extra joints, since a fixed frame stays tighter under heavy loads. Check how the latches lock when open."}
- ],
- "howToChoose": [
-  {"subheading": "By Yard Size", "intro": "Battery and load should match the ground you cover.", "table": {"headers": ["Yard", "Our pick"], "rows": [["Farm or acreage", "SuperHandy Utility Service Cart Power Wagon 48V"], ["Hilly mid-size yard", "VEVOR Electric Utility Cart 36V 432Wh"], ["Flat suburban lot", "Landworks Electric Utility Cart, 500 lb Load"], ["Small yard, tight storage", "Litheli Electric Utility Wagon Cart"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["$200-500, entry", "BougeRV Electric Utility Wagon with 133Wh Battery"], ["$200-500, foldable", "Litheli Electric Utility Wagon Cart"], ["$500+, mid", "Landworks Electric Utility Cart, 500 lb Load"], ["$500+, premium", "SuperHandy Utility Service Cart Power Wagon 48V"]]}},
-  {"subheading": "Foldable vs Fixed Frame", "cards": [{"label": "Foldable", "text": "Stores in a corner and travels in a car. The Litheli is the foldable pick here."}, {"label": "Fixed frame", "text": "Stiffer and simpler, with fewer hinges. The SuperHandy, VEVOR and Landworks use fixed designs."}], "note": "Choose a fixed frame unless storage is the real limit."},
-  {"subheading": "By Terrain", "table": {"headers": ["Terrain", "Our pick"], "rows": [["Steep slopes", "VEVOR Electric Utility Cart 36V 432Wh"], ["Rough, uneven ground", "SuperHandy Utility Service Cart Power Wagon 48V"], ["Garden beds and tight turns", "Litheli Electric Utility Wagon Cart"], ["Short, flat trips", "BougeRV Electric Utility Wagon with 133Wh Battery"]]}},
-  {"subheading": "For Back Pain Specifically", "cards": [{"label": "Look for", "text": "A powered drive with speed control and a brake so you steer instead of push."}, {"label": "In this ranking", "text": "The VEVOR has a brake, the Litheli has variable speed, and the SuperHandy has the strongest motor."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You haul heavy loads or cover a lot of ground, which makes the SuperHandy worth the premium."}, {"label": "Save if", "text": "Trips are short. The BougeRV or Litheli will cover light yard work for less."}]}
- ],
- "faq": [
-  {"q": "Do self-propelled carts work on slopes?", "a": "Yes, but a brake matters more than motor power. The VEVOR names a brake, so it is easier to trust on a hill with a full bed. Load heavy items low and drive across a slope only when you must."},
-  {"q": "What mistake do buyers make?", "a": "Buying on load rating alone. A cart with a large load and a small battery will run out of charge sooner than one with a smaller rating and a bigger pack. Watt-hours are the number to compare."},
-  {"q": "Is a powered cart worth it over a hand cart?", "a": "If your yard is large, sloped, or you have back trouble, yes. For flat, short trips a cheaper hand-pulled cart is enough. The saved money buys a lot of mulch."},
-  {"q": "How do I charge it?", "a": "Use the supplied charger and follow the listing's guidance. Charge indoors, away from extreme heat or cold, and keep the SuperHandy or VEVOR pack dry. Cold batteries charge slowly, so let them warm first."},
-  {"q": "How should I maintain the battery?", "a": "Avoid leaving lithium packs fully drained for months, since deep discharge damages the cells. Store at a partial charge in a dry place indoors, especially over winter, and recharge to half every couple of months."},
-  {"q": "Can I leave it outside?", "a": "Not advisable at all. Rain and temperature swings shorten battery life, so keep it under cover, even if the Litheli folds for a shed. Covers cost little and protect the motor."}
- ],
- "finalTake": "Buy the SuperHandy for heavy, regular hauling on a large property, and the VEVOR if hills and braking worry you. The Landworks suits frill-free hauling, the Litheli small yards with limited storage, and the BougeRV occasional light work. Ask for the watt-hours when a listing does not state them, because they predict how long the cart will actually work.",
- "related": []
+  "slug": "best-self-propelled-garden-carts",
+  "category": "outdoor-garden",
+  "h1": "The 5 Best Self-Propelled Garden Carts of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Self-Propelled Carts 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: five electric self-propelled garden carts with loads from 440 to 660 lb, compared on battery, braking, folding and price tier.",
+  "mainKeyword": "self-propelled garden carts",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "9 min",
+  "heroImage": "https://m.media-amazon.com/images/I/51pON7EkYAL._SL500_.jpg",
+  "summary": "The SuperHandy 48V power wagon is the best self-propelled garden cart, with a 660 lb load and a lithium system that claims 1000 lb of hauling. The VEVOR matches the load with a named brake and a stated 432Wh battery, and the Landworks is the simple 500 lb option. The Litheli folds for storage, and the BougeRV is the cheap entry with a small 133Wh pack.",
+  "intro": [
+    "A powered cart turns the job from pushing weight to steering it, which is a big change on a sloped yard or for anyone with a sore back. The catch is that the battery, not the bed, decides how long the cart is useful, and listings rarely state how much energy the pack holds. A big load number on a small battery just means a cart that quits early, usually halfway through the job.",
+    "We scored five self-propelled carts on the Primea framework, and battery energy, load rating, braking and speed control counted most. Prices are buckets. Some listings publish watt-hours and some publish only voltage, so we say which is which and treat a hauling claim as separate from carrying capacity."
+  ],
+  "products": [
+    {
+      "id": "superhandy-48v-power-wagon",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "SuperHandy Utility Service Cart Power Wagon Wheelbarrow Electric 48V DC Li-Ion Powered, 660Lbs Load and 1000Lbs+ Hauling",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/51pON7EkYAL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08FXFDR5G?tag=primeareviews-20",
+      "verdict": "The strongest powered hauler on the list, with a 48V lithium system.",
+      "description": "The SuperHandy runs on a 48V DC lithium-ion system and lists a 660 lb load with hauling beyond 1000 lb, in the $500 and up bucket. That towing-level figure is higher than any other powered cart here. Voltage alone does not give runtime, but a 48V system moves heavy loads with less current than a 36V one.\n\nIt outranks the VEVOR because of the higher voltage and the larger hauling claim, even though the carrying load matches at 660 lb. It stays in a wheelbarrow layout, which suits garden beds.\n\nBuy it for large properties with regular heavy hauling. The caveats are the top price tier and a heavy battery pack. Skip it if your loads rarely pass 200 lb.",
+      "keySpecs": [
+        {
+          "label": "Power",
+          "value": "48V DC Li-Ion"
+        },
+        {
+          "label": "Load",
+          "value": "660 lb"
+        },
+        {
+          "label": "Hauling",
+          "value": "1000 lb and up"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "48V lithium system",
+        "660 lb load",
+        "1000 lb hauling claim",
+        "Wheelbarrow style"
+      ],
+      "cons": [
+        "Top price tier",
+        "Heavy battery pack"
+      ],
+      "idealFor": "Large properties with regular heavy hauling.",
+      "skipIf": "Your loads rarely pass 200 lb."
+    },
+    {
+      "id": "vevor-electric-utility-cart-36v",
+      "rank": 2,
+      "award": "Best Braking",
+      "name": "VEVOR Electric Utility Cart, 36V 432Wh Battery Powered Electric Wagon, 500W Power Wheelbarrow with Brake, 660 lbs Load",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/41V9xB73JHL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0H4TX4FL1?tag=primeareviews-20",
+      "verdict": "Same carrying number as the leader, with a named brake and a stated battery size.",
+      "description": "This VEVOR uses a 36V, 432Wh battery with a 500W motor and a brake, and lists a 660 lb load, in the $500 and up bucket. It is one of the few here that publishes watt-hours. A named brake matters on a slope, where a full bed pushes the cart faster than you can walk.\n\nIt ranks under the SuperHandy because it uses a lower-voltage system and has no hauling claim, but it discloses more. Against the Landworks, it adds a brake and a battery number.\n\nBuy it for hilly yards where stopping control matters. The caveats are the lower voltage than the leader and the high price tier. Skip it if you want a foldable cart.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "36V 432Wh"
+        },
+        {
+          "label": "Motor",
+          "value": "500W"
+        },
+        {
+          "label": "Load",
+          "value": "660 lb"
+        },
+        {
+          "label": "Brake",
+          "value": "Included"
+        }
+      ],
+      "pros": [
+        "Named brake",
+        "432Wh battery stated",
+        "500W motor",
+        "660 lb load"
+      ],
+      "cons": [
+        "Lower voltage than leader",
+        "High price tier"
+      ],
+      "idealFor": "Hilly yards where stopping control matters.",
+      "skipIf": "You want a foldable cart."
+    },
+    {
+      "id": "landworks-electric-utility-cart-500",
+      "rank": 3,
+      "award": "Best Straightforward Powered Cart",
+      "name": "Landworks Electric Utility Cart, 500 lb Load",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/51O2LoyIr+L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07KX7W5Q5?tag=primeareviews-20",
+      "verdict": "A simple self-propelled cart with a 500 lb load.",
+      "description": "The Landworks is a self-propelled electric cart with a 500 lb load, in the $500 and up bucket. The listing keeps details sparse, with no battery capacity or brake named. Self-propelled drive does the pushing, which is the feature you pay for.\n\nIt ranks below the VEVOR because that cart discloses more, and it carries 160 lb more. The Landworks still wins on simplicity, with no folding joints or app to manage.\n\nBuy it for owners who want powered hauling without frills. The caveats are sparse specs and no named brake. Skip it if you need battery details up front.",
+      "keySpecs": [
+        {
+          "label": "Load",
+          "value": "500 lb"
+        },
+        {
+          "label": "Drive",
+          "value": "Self-propelled electric"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500+"
+        },
+        {
+          "label": "Battery detail",
+          "value": "Not listed"
+        }
+      ],
+      "pros": [
+        "Self-propelled drive",
+        "500 lb load",
+        "Lower than top pick",
+        "Simple design"
+      ],
+      "cons": [
+        "Sparse specs",
+        "No brake named"
+      ],
+      "idealFor": "Owners wanting powered hauling without frills.",
+      "skipIf": "You need battery details up front."
+    },
+    {
+      "id": "litheli-electric-utility-wagon-foldable",
+      "rank": 4,
+      "award": "Best Foldable",
+      "name": "Litheli Electric Utility Wagon Cart, 150L Capacity, 450 lbs Load, Foldable Heavy-Duty Design with All-Terrain Wheels, Variable Speed Drive",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/413oVDm9E1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GXZWCDK4?tag=primeareviews-20",
+      "verdict": "Folds flat and gives you a speed dial.",
+      "description": "The Litheli is a 150 liter electric wagon rated for 450 lb with a foldable design, all-terrain wheels and a variable speed drive. It sits in the $200 to $500 bucket, well below the premium picks. Variable speed lets you creep beside beds and speed up on a path.\n\nIt ranks below the Landworks on load, and its 450 lb rating trails the leaders by over 200 lb. What it gains is price and storage, since it folds flat for a shed.\n\nBuy it for small yards with limited storage. The caveats are the 450 lb rating and a smaller capacity than the leaders. Skip it if you haul near 600 lb.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "150 liters"
+        },
+        {
+          "label": "Load",
+          "value": "450 lb"
+        },
+        {
+          "label": "Drive",
+          "value": "Variable speed"
+        },
+        {
+          "label": "Design",
+          "value": "Foldable"
+        }
+      ],
+      "pros": [
+        "Folds for storage",
+        "Variable speed control",
+        "All-terrain wheels",
+        "Mid-tier price"
+      ],
+      "cons": [
+        "450 lb rating",
+        "Smaller than leaders"
+      ],
+      "idealFor": "Small yards with limited storage space.",
+      "skipIf": "You haul near 600 lb."
+    },
+    {
+      "id": "bougerv-electric-utility-wagon-133wh",
+      "rank": 5,
+      "award": "Best Entry Point",
+      "name": "BougeRV Electric Utility Wagon with 133Wh Battery, Up to 440 lbs Load",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/41N8RKTlccL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FMYB98KJ?tag=primeareviews-20",
+      "verdict": "A low-cost way to try powered hauling.",
+      "description": "The BougeRV wagon has a 133Wh battery and lists up to 440 lb of load, in the $200 to $500 bucket. The battery is much smaller than the VEVOR's 432Wh pack, which stores over three times the energy.\n\nIt ranks last because the 133Wh battery implies shorter working time, but it discloses the figure and it is the lowest powered price. A load rating means little if the charge runs out before the job is done.\n\nBuy it for occasional light hauling on a budget. The caveats are the small battery and likely shorter range. Skip it if you haul all day.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "133Wh"
+        },
+        {
+          "label": "Load",
+          "value": "Up to 440 lb"
+        },
+        {
+          "label": "Type",
+          "value": "Electric wagon"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Lowest powered price",
+        "440 lb load",
+        "Battery size disclosed",
+        "Wagon layout"
+      ],
+      "cons": [
+        "Small 133Wh battery",
+        "Likely shorter range"
+      ],
+      "idealFor": "Occasional light hauling on a budget.",
+      "skipIf": "You haul all day."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Drive system",
+      "description": "We compared voltage, motor wattage and whether the listing names them."
+    },
+    {
+      "title": "Load rating",
+      "description": "Carrying capacity and any separate hauling claims were treated as manufacturer figures."
+    },
+    {
+      "title": "Battery size",
+      "description": "Watt-hours served as the best proxy for working time when it was disclosed."
+    },
+    {
+      "title": "Control",
+      "description": "Brakes and variable speed settings counted toward safety on slopes."
+    },
+    {
+      "title": "Storage and price",
+      "description": "Folding design and price tier decided fit for different yards."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Battery watt-hours",
+      "detail": "Watt-hours measure stored energy, so a 432Wh pack holds more than three times the energy of a 133Wh pack. More energy means longer work between charges. Look for Wh in the title or specs, not only voltage, and be cautious when a listing gives voltage alone, because it cannot tell you runtime."
+    },
+    {
+      "factor": "Load vs hauling",
+      "detail": "Load is what the bed carries, while hauling is a pulling claim that may include towing. A 660 lb load is plenty for most yards. Check which figure is the real carrying limit, and do not buy on the larger number, because a hauling claim says nothing about what the bed can hold. A tow rating is not a carrying rating."
+    },
+    {
+      "factor": "Braking",
+      "detail": "A powered cart can run away downhill with a full bed. A named brake or motor braking helps you hold position on slopes. Check the feature list for the word brake, as on the VEVOR, and favor it if your yard has any grade, because the cost of a runaway is high. A brake also protects plants and fences from a loaded cart."
+    },
+    {
+      "factor": "Speed control",
+      "detail": "Variable speed lets you creep near plants and go faster on open ground. Fixed speed is simpler but less precise. Look for a dial or trigger described in the listing, as on the Litheli, and think about whether you work around delicate beds, where slow control matters most. A trigger is easier than a dial with gloves on."
+    },
+    {
+      "factor": "Foldability",
+      "detail": "A folding wagon saves garage space but adds hinges that can loosen. If space is tight, it can be the deciding factor. Check for folded dimensions on the listing, and weigh the savings against the extra joints, since a fixed frame stays tighter under heavy loads. Check how the latches lock when open."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Yard Size",
+      "intro": "Battery and load should match the ground you cover.",
+      "table": {
+        "headers": [
+          "Yard",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Farm or acreage",
+            "SuperHandy Utility Service Cart Power Wagon 48V"
+          ],
+          [
+            "Hilly mid-size yard",
+            "VEVOR Electric Utility Cart 36V 432Wh"
+          ],
+          [
+            "Flat suburban lot",
+            "Landworks Electric Utility Cart, 500 lb Load"
+          ],
+          [
+            "Small yard, tight storage",
+            "Litheli Electric Utility Wagon Cart"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$200-500, entry",
+            "BougeRV Electric Utility Wagon with 133Wh Battery"
+          ],
+          [
+            "$200-500, foldable",
+            "Litheli Electric Utility Wagon Cart"
+          ],
+          [
+            "$500+, mid",
+            "Landworks Electric Utility Cart, 500 lb Load"
+          ],
+          [
+            "$500+, premium",
+            "SuperHandy Utility Service Cart Power Wagon 48V"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Foldable vs Fixed Frame",
+      "cards": [
+        {
+          "label": "Foldable",
+          "text": "Stores in a corner and travels in a car. The Litheli is the foldable pick here."
+        },
+        {
+          "label": "Fixed frame",
+          "text": "Stiffer and simpler, with fewer hinges. The SuperHandy, VEVOR and Landworks use fixed designs."
+        }
+      ],
+      "note": "Choose a fixed frame unless storage is the real limit."
+    },
+    {
+      "subheading": "By Terrain",
+      "table": {
+        "headers": [
+          "Terrain",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Steep slopes",
+            "VEVOR Electric Utility Cart 36V 432Wh"
+          ],
+          [
+            "Rough, uneven ground",
+            "SuperHandy Utility Service Cart Power Wagon 48V"
+          ],
+          [
+            "Garden beds and tight turns",
+            "Litheli Electric Utility Wagon Cart"
+          ],
+          [
+            "Short, flat trips",
+            "BougeRV Electric Utility Wagon with 133Wh Battery"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Back Pain Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A powered drive with speed control and a brake so you steer instead of push."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The VEVOR has a brake, the Litheli has variable speed, and the SuperHandy has the strongest motor."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You haul heavy loads or cover a lot of ground, which makes the SuperHandy worth the premium."
+        },
+        {
+          "label": "Save if",
+          "text": "Trips are short. The BougeRV or Litheli will cover light yard work for less."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do self-propelled carts work on slopes?",
+      "a": "Yes, but a brake matters more than motor power. The VEVOR names a brake, so it is easier to trust on a hill with a full bed. Load heavy items low and drive across a slope only when you must."
+    },
+    {
+      "q": "What mistake do buyers make?",
+      "a": "Buying on load rating alone. A cart with a large load and a small battery will run out of charge sooner than one with a smaller rating and a bigger pack. Watt-hours are the number to compare."
+    },
+    {
+      "q": "Is a powered cart worth it over a hand cart?",
+      "a": "If your yard is large, sloped, or you have back trouble, yes. For flat, short trips a cheaper hand-pulled cart is enough. The saved money buys a lot of mulch."
+    },
+    {
+      "q": "How do I charge it?",
+      "a": "Use the supplied charger and follow the listing's guidance. Charge indoors, away from extreme heat or cold, and keep the SuperHandy or VEVOR pack dry. Cold batteries charge slowly, so let them warm first."
+    },
+    {
+      "q": "How should I maintain the battery?",
+      "a": "Avoid leaving lithium packs fully drained for months, since deep discharge damages the cells. Store at a partial charge in a dry place indoors, especially over winter, and recharge to half every couple of months."
+    },
+    {
+      "q": "Can I leave it outside?",
+      "a": "Not advisable at all. Rain and temperature swings shorten battery life, so keep it under cover, even if the Litheli folds for a shed. Covers cost little and protect the motor."
+    }
+  ],
+  "finalTake": "Buy the SuperHandy for heavy, regular hauling on a large property, and the VEVOR if hills and braking worry you. The Landworks suits frill-free hauling, the Litheli small yards with limited storage, and the BougeRV occasional light work. Ask for the watt-hours when a listing does not state them, because they predict how long the cart will actually work.",
+  "related": [
+    "best-convertible-garden-carts",
+    "best-dump-garden-carts",
+    "best-garden-carts"
+  ]
 }

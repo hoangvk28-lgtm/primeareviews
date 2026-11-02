@@ -1,248 +1,506 @@
 {
- "slug": "best-printers-for-teachers",
- "category": "tech-accessories",
- "h1": "The 7 Best Printers for Teachers of 2026, Ranked & Reviewed",
- "metaTitle": "Best Printers for Teachers: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: seven printers for teachers, from Brother lasers to Epson and HP ink-tank models, compared on worksheet volume and ink cost.",
- "mainKeyword": "printer for teachers",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
- "summary": "The Brother DCP-L2640DW is the best overall: a compact monochrome laser with automatic duplex, copy and scan. The Epson EcoTank ET-2400 is the pick for ink cost and colour. Brother's HL-L3220CDW adds a colour laser. The HP Smart Tank 5101 includes two years of ink, and the Epson WF-2930 and HP OfficeJet Pro 8139 add document feeders for grading.",
- "intro": ["Teachers print more pages than almost any other buyer, and the true cost of a printer is the ink or toner it swallows across a school year. A cheap inkjet that costs little on day one can eat a classroom stipend in a few months of worksheets. That is the trap most shoppers walk into, because the sticker price hides the cartridge bill that arrives in October.","We ranked seven printers on paper for classroom and home-grading use under the Primea framework, with the most weight on print engine, duplexing, document feeders and ink or toner economics. Order of preference follows the work teachers actually do: lots of black and white, some colour, and plenty of scanning. Prices appear only as buckets."],
- "products": [
-  {
-   "id": "brother-dcp-l2640dw",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "Brother DCP-L2640DW Wireless Compact Monochrome Laser",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=primeareviews-20",
-   "verdict": "A compact laser that handles daily worksheets, copies and scans.",
-   "description": "The Brother DCP-L2640DW is the printer for a teacher who prints a ream of worksheets a month. It uses a monochrome laser engine, prints both sides automatically, copies and scans, and connects wirelessly from a phone. Laser toner does not dry out over a long break, which is a real problem for inkjets sitting idle in July.\n\nIt ranks first because toner economics beat cartridge inkjets for black and white volume, and the compact body fits a classroom desk. The EcoTank ET-2400 matches it on running costs but adds colour. The HL-L3220CDW prints colour but is a laser at the same $200 to $500 bucket.\n\nBuy it for black and white worksheets, tests and handouts. The caveat is colour: it cannot print it, so keep an inkjet for diagrams and display work.",
-   "keySpecs": [
-    {"label": "Engine", "value": "Monochrome laser"},
-    {"label": "Duplex", "value": "Automatic"},
-    {"label": "Functions", "value": "Print, copy, scan"},
-    {"label": "Price bucket", "value": "$200-500"}
-   ],
-   "pros": ["Automatic duplex printing", "Copy and scan built in", "Compact for a desk", "Wireless and mobile printing"],
-   "cons": ["Black and white only", "Higher upfront cost"],
-   "idealFor": "Teachers printing worksheets every day.",
-   "skipIf": "You need color pages."
-  },
-  {
-   "id": "epson-ecotank-et-2400",
-   "rank": 2,
-   "award": "Best for Ink Cost",
-   "name": "Epson EcoTank ET-2400 Wireless Cartridge-Free Supertank Printer",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0BM9BFLMX?tag=primeareviews-20",
-   "verdict": "Refillable tanks keep color printing affordable on a fixed stipend.",
-   "description": "The Epson EcoTank ET-2400 replaces cartridges with refillable tanks, and bottled ink is included in the box. It prints in colour, scans and copies, connects wirelessly and is built for high-volume jobs. Because ink comes in bottles, the cost per page falls well below a cartridge printer.\n\nIt ranks second because it solves the main trap: ink cost. It beats the Canon PIXMA and WF-2930, which use cartridges, and costs $100 to $200. Against the Brother laser, it offers colour but loses the idle-time reliability of toner, since ink can dry out in a printer left unused over summer.\n\nChoose it for a teacher who prints colour posters and diagrams regularly. The caveat is that tank printers are bulkier than cartridge models, so check your desk space and plan where the bottles will sit.",
-   "keySpecs": [
-    {"label": "Ink system", "value": "Refillable EcoTank"},
-    {"label": "Functions", "value": "Print, scan, copy"},
-    {"label": "Refills", "value": "Bottled ink included"},
-    {"label": "Price bucket", "value": "$100-200"}
-   ],
-   "pros": ["Cartridge-free tank system", "Bottled ink included", "Color print, scan and copy", "Built for steady volume"],
-   "cons": ["Bulkier than cartridge models", "No feeder listed"],
-   "idealFor": "Color printing on a fixed budget.",
-   "skipIf": "You want the smallest footprint."
-  },
-  {
-   "id": "brother-hl-l3220cdw",
-   "rank": 3,
-   "award": "Best Color Laser",
-   "name": "Brother HL-L3220CDW Wireless Color Laser Printer",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=primeareviews-20",
-   "verdict": "Color laser at up to 19 PPM for shared department use.",
-   "description": "The Brother HL-L3220CDW is a colour laser at 19 PPM with a 250-sheet tray and automatic duplex. Laser colour gives consistent contrast on worksheets and diagrams, and it connects wirelessly to phones and laptops. Toner is stable when idle.\n\nIt ranks third because a colour laser costs more in the $200 to $500 bucket than the EcoTank, and colour toner replacement is pricier than bottled ink. It sits behind the DCP-L2640DW because that model copies and scans, which this printer's listing does not mention. Against the HP tank printers, it brings a 250-sheet tray that suits stacks of handouts.\n\nBuy it for a classroom that prints colour in volume and wants lasers. The caveat is the lack of a scanner in the listing, so confirm functions before ordering if you plan to copy handouts.",
-   "keySpecs": [
-    {"label": "Engine", "value": "Color laser"},
-    {"label": "Speed", "value": "Up to 19 PPM"},
-    {"label": "Tray", "value": "250 sheets"},
-    {"label": "Duplex", "value": "Automatic"}
-   ],
-   "pros": ["Color laser output", "250-sheet paper tray", "Automatic duplex", "Wireless printing"],
-   "cons": ["Print only", "Higher upfront cost"],
-   "idealFor": "Shared school color printing.",
-   "skipIf": "You need scanning."
-  },
-  {
-   "id": "hp-smart-tank-5101",
-   "rank": 4,
-   "award": "Best Included Ink",
-   "name": "HP Smart Tank 5101 Wireless All-in-One Refillable Printer",
-   "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0BL466Y41?tag=primeareviews-20",
-   "verdict": "Two years of ink in the box, but no document feeder.",
-   "description": "The HP Smart Tank 5101 ships with two years of ink in the box, uses a refillable tank, prints, scans and copies, and has a compact footprint for an ink-tank printer. Two years of included ink means no cartridge purchases for a long time.\n\nIt ranks fourth because it has no automatic document feeder, so scanning a stack of tests means placing each page on the glass. It also connects on 2.4GHz WiFi only, which can fail on a school network that uses 5GHz. The EcoTank ET-2400 sits in the same $100 to $200 bucket and also lacks a feeder, but it carries no band restriction in its listing.\n\nBuy it for a home office where scanning is occasional. The caveat is the missing feeder and the 2.4GHz limit, so check your network first, because a failed connection wastes a morning.",
-   "keySpecs": [
-    {"label": "Ink system", "value": "Refillable tank"},
-    {"label": "Included ink", "value": "2 years"},
-    {"label": "WiFi", "value": "2.4GHz only"},
-    {"label": "Feeder", "value": "None"}
-   ],
-   "pros": ["Two years of ink included", "Print, scan and copy", "Compact tank design", "Refillable system"],
-   "cons": ["2.4GHz WiFi only", "No document feeder"],
-   "idealFor": "Teachers watching ink costs.",
-   "skipIf": "You scan stacks of papers."
-  },
-  {
-   "id": "epson-workforce-wf-2930",
-   "rank": 5,
-   "award": "Best for Paperless Grading",
-   "name": "Epson Workforce WF-2930 Wireless All-in-One Printer",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0BDD46HFV?tag=primeareviews-20",
-   "verdict": "Automatic feeder and duplex make scan-to-cloud grading practical.",
-   "description": "The Epson WorkForce WF-2930 is a colour inkjet all-in-one that prints, scans, copies and faxes. It has an automatic document feeder, automatic two-sided printing, a 1.4 inch colour display and a cartridge based ink system, in the $50 to $100 bucket.\n\nIt ranks fifth because cartridges make the running cost higher than any tank or laser here. Its edge is the feeder: it scans a stack of student work without placing each page, which speeds up paperless grading. It costs half the price of the EcoTank, so it suits a light-volume teacher.\n\nBuy it for a home grading desk where you scan more than you print. The caveat is ink cost, so avoid it for heavy worksheet printing.",
-   "keySpecs": [
-    {"label": "Type", "value": "Color inkjet all-in-one"},
-    {"label": "Feeder", "value": "Automatic document feeder"},
-    {"label": "Duplex", "value": "Automatic"},
-    {"label": "Functions", "value": "Print, scan, copy, fax"}
-   ],
-   "pros": ["Automatic document feeder", "Automatic duplex", "Color display", "Low upfront price bucket"],
-   "cons": ["Cartridge ink adds up", "Not for heavy volume"],
-   "idealFor": "Teachers scanning student work.",
-   "skipIf": "You print hundreds of pages weekly."
-  },
-  {
-   "id": "hp-officejet-pro-8139",
-   "rank": 6,
-   "award": "Best Full Document Handling",
-   "name": "HP OfficeJet Pro 8139 Wireless All-in-One Color Inkjet",
-   "score": 80,
-   "imageUrl": "https://m.media-amazon.com/images/I/413Pj7RejfL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GPFH9RYW?tag=primeareviews-20",
-   "verdict": "A fuller inkjet with fax, feeder and a one-year Instant Ink trial.",
-   "description": "The HP OfficeJet Pro 8139 is a colour inkjet all-in-one with automatic document feeder, automatic duplex printing, a one-year Instant Ink trial and wireless printing. It prints, scans, copies and faxes, and sits in the $100 to $200 bucket.\n\nIt ranks sixth because the feeder and duplex are available on the WF-2930 for half the price. The trial is also temporary: after a year, the Instant Ink plan becomes a subscription you must manage. Its advantage over the WF-2930 is the pairing of feeder and duplex with the Instant Ink trial.\n\nChoose it for a teacher who scans and copies a lot and prints moderate amounts. The caveat is the ink plan, so read the terms before continuing after the first year.",
-   "keySpecs": [
-    {"label": "Type", "value": "Color inkjet all-in-one"},
-    {"label": "Feeder", "value": "Automatic document feeder"},
-    {"label": "Ink plan", "value": "1-year Instant Ink trial"},
-    {"label": "Functions", "value": "Print, scan, copy, fax"}
-   ],
-   "pros": ["Automatic document feeder", "Automatic duplex", "One-year ink trial", "Fax included"],
-   "cons": ["Ink plan terms to read", "Costs more than WF-2930"],
-   "idealFor": "Home-office teachers needing full document handling.",
-   "skipIf": "You dislike ink subscriptions."
-  },
-  {
-   "id": "canon-pixma-ts6520-teachers",
-   "rank": 7,
-   "award": "Best for Home Grading",
-   "name": "Canon PIXMA TS6520 Wireless Color Inkjet Printer",
-   "score": 78,
-   "imageUrl": "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FMBTJLX6?tag=primeareviews-20",
-   "verdict": "A small duplexing inkjet for rubrics and parent letters at home.",
-   "description": "The Canon PIXMA TS6520 is a colour inkjet with automatic duplex, a built-in copier and scanner, a 1.42 inch OLED display and a compact body, in the $50 to $100 bucket. Cartridges feed it, and the compact design suits a small desk.\n\nIt ranks last because it has no automatic document feeder, unlike the WF-2930, and uses cartridges, unlike the tank printers. For heavy printing, cartridge costs add up. Its duplex and scanner keep it useful for light jobs.\n\nBuy it for a home grading desk and occasional printing at a low price. The caveat is cost per page, so do not use it for classroom volumes.",
-   "keySpecs": [
-    {"label": "Type", "value": "Color inkjet"},
-    {"label": "Duplex", "value": "Automatic"},
-    {"label": "Display", "value": "1.42 inch OLED"},
-    {"label": "Ink", "value": "Cartridge-based"}
-   ],
-   "pros": ["Compact design", "Automatic duplex", "Copy and scan", "OLED display"],
-   "cons": ["Cartridge ink adds up", "No feeder"],
-   "idealFor": "Light home grading and parent notes.",
-   "skipIf": "You print classroom volumes."
-  }
- ],
- "methodology": [
-  {"title": "Print engine", "description": "We compared laser, cartridge inkjet and ink-tank designs for classroom volumes."},
-  {"title": "Running cost", "description": "We favored refillable tanks and lasers over cartridge-based ink for heavy use."},
-  {"title": "Document handling", "description": "Feeders and duplexing earned credit for scanning and saving paper."},
-  {"title": "Footprint and WiFi", "description": "We noted compact bodies and WiFi limits like 2.4GHz only."},
-  {"title": "Price bucket fit", "description": "We weighed each against its bucket, from $50-100 up to $200-500."}
- ],
- "whatMatters": [
-  {"factor": "Laser versus ink", "detail": "Lasers use toner and suit black and white volume, while inkjets handle colour and photos. Toner does not dry out, which helps over school breaks. The title names the engine, so check it first. The Brother DCP-L2640DW is mono laser, the HL-L3220CDW colour laser, and the Epson and HP models are inkjet."},
-  {"factor": "Refillable tanks", "detail": "Tank printers use bottled ink instead of cartridges, which lowers cost per page. They are bulkier than cartridge printers. Look for the words EcoTank or Smart Tank, and note what ink is included in the box. The HP Smart Tank 5101 includes two years of ink, and the ET-2400 includes bottled refills."},
-  {"factor": "Automatic duplex", "detail": "Duplex prints both sides of a sheet automatically, halving paper use for worksheets and saving trips to the supply cabinet. Check the spec bullets for automatic two-sided printing, not manual duplex, which forces you to flip pages by hand. The Brother and Epson WF-2930 list automatic duplex, as do the HP OfficeJet and Canon."},
-  {"factor": "Automatic document feeder", "detail": "A feeder scans stacks of pages without placing each one on the glass. It speeds up grading and digitising. Look for ADF in the listing, since the HP Smart Tank 5101 notes it has none. The WF-2930 and OfficeJet Pro 8139 list one, which makes them better for paperless grading than the Canon. Without a feeder, scanning a class set page by page takes an afternoon."},
-  {"factor": "Wireless limits", "detail": "Some printers connect only on 2.4GHz WiFi, which can be an issue on school networks that use 5GHz. The HP Smart Tank 5101 lists 2.4GHz only. Check the listing for 2.4GHz or 5GHz wording before buying, and ask your IT staff which band the classroom network uses. A printer that cannot join the network is worth nothing."}
- ],
- "howToChoose": [
-  {
-   "subheading": "By Printing Volume",
-   "intro": "Volume decides the engine.",
-   "table": {
-    "headers": ["Volume", "Our pick"],
-    "rows": [
-     ["Daily black-and-white worksheets", "Brother DCP-L2640DW"],
-     ["Steady color all year", "Epson EcoTank ET-2400"],
-     ["Shared color for a department", "Brother HL-L3220CDW"],
-     ["Light grading at home", "Canon PIXMA TS6520"]
-    ]
-   }
-  },
-  {
-   "subheading": "By Budget",
-   "table": {
-    "headers": ["Spend", "Our pick"],
-    "rows": [
-     ["$50 to $100", "Epson Workforce WF-2930"],
-     ["$100 to $200, tank ink", "Epson EcoTank ET-2400"],
-     ["$100 to $200, ink included", "HP Smart Tank 5101"],
-     ["$200 to $500", "Brother DCP-L2640DW"]
-    ]
-   }
-  },
-  {
-   "subheading": "Laser vs Ink Tank",
-   "cards": [
-    {"label": "Laser", "text": "Toner holds up over breaks and handles heavy text volume. The Brother DCP-L2640DW and HL-L3220CDW are lasers."},
-    {"label": "Ink tank", "text": "Refillable tanks cut color cost per page. The Epson EcoTank ET-2400 and HP Smart Tank 5101 use tanks."}
-   ],
-   "note": "Most teachers printing text should default to laser; color-heavy rooms should pick a tank."
-  },
-  {
-   "subheading": "By Scanning Need",
-   "table": {
-    "headers": ["Need", "Our pick"],
-    "rows": [
-     ["Scan stacks of student work", "Epson Workforce WF-2930"],
-     ["Scan plus fax", "HP OfficeJet Pro 8139"],
-     ["Occasional single-page scans", "Brother DCP-L2640DW"],
-     ["No scanning needed", "Brother HL-L3220CDW"]
-    ]
-   }
-  },
-  {
-   "subheading": "For Classroom Use Specifically",
-   "cards": [
-    {"label": "Look for", "text": "Automatic duplex, wireless printing, a large tray and a low cost per page."},
-    {"label": "In this ranking", "text": "The Brother HL-L3220CDW offers a 250-sheet tray and duplex, while the DCP-L2640DW adds copy and scan."}
-   ]
-  },
-  {
-   "subheading": "When to Spend More",
-   "cards": [
-    {"label": "Spend more if", "text": "You print daily or in color for a whole department, which points to the Brother lasers."},
-    {"label": "Save if", "text": "You print occasionally. The Epson WF-2930 or Canon TS6520 cover home use."}
-   ]
-  }
- ],
- "faq": [
-  {"q": "Is a laser or inkjet better for teachers?", "a": "Lasers suit heavy black and white work and long breaks, since toner does not dry out between terms. Inkjets and tanks suit colour, and the EcoTank ET-2400 keeps ink cost down for diagrams and posters."},
-  {"q": "Will the HP Smart Tank connect to school WiFi?", "a": "It lists 2.4GHz only, so check your network before relying on it in class. If the school uses 5GHz or blocks the older band, choose the Brother DCP-L2640DW or another model, and ask your IT staff first."},
-  {"q": "Is the EcoTank worth it over the Canon?", "a": "For regular printing, yes. Bottled refills cost far less than cartridges, which are the Canon PIXMA's weak spot over a school year. For occasional printing and light grading, the Canon's lower price may be enough."},
-  {"q": "What is the biggest mistake?", "a": "Judging by upfront price alone. Cartridge ink on the WF-2930 or Canon can cost more across a year than a pricier tank or laser like the Brother DCP-L2640DW, which erases the early saving."},
-  {"q": "How do I scan to the cloud?", "a": "Use the manufacturer's mobile app with a scanner such as the WF-2930's feeder, and send files straight to your cloud folder so student work is backed up. The OfficeJet Pro 8139 handles stacks the same way, with its feeder doing the page turning."},
-  {"q": "Does the HP OfficeJet need a subscription?", "a": "It includes a one-year Instant Ink trial. Read the terms before continuing the plan, because it becomes a subscription you must manage or cancel. A tank printer like the Smart Tank 5101 avoids that, with ink already in the box."}
- ],
- "finalTake": "Buy the Brother DCP-L2640DW if most of your printing is worksheets in black and white. Choose the Epson EcoTank ET-2400 when colour matters and you want the lowest ink cost. Take the HL-L3220CDW for colour laser output, and the WF-2930 or OfficeJet Pro 8139 when a document feeder speeds up your scanning. Judge by cost per page, not by sticker price.",
- "related": []
+  "slug": "best-printers-for-teachers",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Printers for Teachers of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Printers for Teachers: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: seven printers for teachers, from Brother lasers to Epson and HP ink-tank models, compared on worksheet volume and ink cost.",
+  "mainKeyword": "printer for teachers",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+  "summary": "The Brother DCP-L2640DW is the best overall: a compact monochrome laser with automatic duplex, copy and scan. The Epson EcoTank ET-2400 is the pick for ink cost and colour. Brother's HL-L3220CDW adds a colour laser. The HP Smart Tank 5101 includes two years of ink, and the Epson WF-2930 and HP OfficeJet Pro 8139 add document feeders for grading.",
+  "intro": [
+    "Teachers print more pages than almost any other buyer, and the true cost of a printer is the ink or toner it swallows across a school year. A cheap inkjet that costs little on day one can eat a classroom stipend in a few months of worksheets. That is the trap most shoppers walk into, because the sticker price hides the cartridge bill that arrives in October.",
+    "We ranked seven printers on paper for classroom and home-grading use under the Primea framework, with the most weight on print engine, duplexing, document feeders and ink or toner economics. Order of preference follows the work teachers actually do: lots of black and white, some colour, and plenty of scanning. Prices appear only as buckets."
+  ],
+  "products": [
+    {
+      "id": "brother-dcp-l2640dw",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Brother DCP-L2640DW Wireless Compact Monochrome Laser",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=primeareviews-20",
+      "verdict": "A compact laser that handles daily worksheets, copies and scans.",
+      "description": "The Brother DCP-L2640DW is the printer for a teacher who prints a ream of worksheets a month. It uses a monochrome laser engine, prints both sides automatically, copies and scans, and connects wirelessly from a phone. Laser toner does not dry out over a long break, which is a real problem for inkjets sitting idle in July.\n\nIt ranks first because toner economics beat cartridge inkjets for black and white volume, and the compact body fits a classroom desk. The EcoTank ET-2400 matches it on running costs but adds colour. The HL-L3220CDW prints colour but is a laser at the same $200 to $500 bucket.\n\nBuy it for black and white worksheets, tests and handouts. The caveat is colour: it cannot print it, so keep an inkjet for diagrams and display work.",
+      "keySpecs": [
+        {
+          "label": "Engine",
+          "value": "Monochrome laser"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, copy, scan"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Automatic duplex printing",
+        "Copy and scan built in",
+        "Compact for a desk",
+        "Wireless and mobile printing"
+      ],
+      "cons": [
+        "Black and white only",
+        "Higher upfront cost"
+      ],
+      "idealFor": "Teachers printing worksheets every day.",
+      "skipIf": "You need color pages."
+    },
+    {
+      "id": "epson-ecotank-et-2400",
+      "rank": 2,
+      "award": "Best for Ink Cost",
+      "name": "Epson EcoTank ET-2400 Wireless Cartridge-Free Supertank Printer",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BM9BFLMX?tag=primeareviews-20",
+      "verdict": "Refillable tanks keep color printing affordable on a fixed stipend.",
+      "description": "The Epson EcoTank ET-2400 replaces cartridges with refillable tanks, and bottled ink is included in the box. It prints in colour, scans and copies, connects wirelessly and is built for high-volume jobs. Because ink comes in bottles, the cost per page falls well below a cartridge printer.\n\nIt ranks second because it solves the main trap: ink cost. It beats the Canon PIXMA and WF-2930, which use cartridges, and costs $100 to $200. Against the Brother laser, it offers colour but loses the idle-time reliability of toner, since ink can dry out in a printer left unused over summer.\n\nChoose it for a teacher who prints colour posters and diagrams regularly. The caveat is that tank printers are bulkier than cartridge models, so check your desk space and plan where the bottles will sit.",
+      "keySpecs": [
+        {
+          "label": "Ink system",
+          "value": "Refillable EcoTank"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy"
+        },
+        {
+          "label": "Refills",
+          "value": "Bottled ink included"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
+      ],
+      "pros": [
+        "Cartridge-free tank system",
+        "Bottled ink included",
+        "Color print, scan and copy",
+        "Built for steady volume"
+      ],
+      "cons": [
+        "Bulkier than cartridge models",
+        "No feeder listed"
+      ],
+      "idealFor": "Color printing on a fixed budget.",
+      "skipIf": "You want the smallest footprint."
+    },
+    {
+      "id": "brother-hl-l3220cdw",
+      "rank": 3,
+      "award": "Best Color Laser",
+      "name": "Brother HL-L3220CDW Wireless Color Laser Printer",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=primeareviews-20",
+      "verdict": "Color laser at up to 19 PPM for shared department use.",
+      "description": "The Brother HL-L3220CDW is a colour laser at 19 PPM with a 250-sheet tray and automatic duplex. Laser colour gives consistent contrast on worksheets and diagrams, and it connects wirelessly to phones and laptops. Toner is stable when idle.\n\nIt ranks third because a colour laser costs more in the $200 to $500 bucket than the EcoTank, and colour toner replacement is pricier than bottled ink. It sits behind the DCP-L2640DW because that model copies and scans, which this printer's listing does not mention. Against the HP tank printers, it brings a 250-sheet tray that suits stacks of handouts.\n\nBuy it for a classroom that prints colour in volume and wants lasers. The caveat is the lack of a scanner in the listing, so confirm functions before ordering if you plan to copy handouts.",
+      "keySpecs": [
+        {
+          "label": "Engine",
+          "value": "Color laser"
+        },
+        {
+          "label": "Speed",
+          "value": "Up to 19 PPM"
+        },
+        {
+          "label": "Tray",
+          "value": "250 sheets"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        }
+      ],
+      "pros": [
+        "Color laser output",
+        "250-sheet paper tray",
+        "Automatic duplex",
+        "Wireless printing"
+      ],
+      "cons": [
+        "Print only",
+        "Higher upfront cost"
+      ],
+      "idealFor": "Shared school color printing.",
+      "skipIf": "You need scanning."
+    },
+    {
+      "id": "hp-smart-tank-5101",
+      "rank": 4,
+      "award": "Best Included Ink",
+      "name": "HP Smart Tank 5101 Wireless All-in-One Refillable Printer",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BL466Y41?tag=primeareviews-20",
+      "verdict": "Two years of ink in the box, but no document feeder.",
+      "description": "The HP Smart Tank 5101 ships with two years of ink in the box, uses a refillable tank, prints, scans and copies, and has a compact footprint for an ink-tank printer. Two years of included ink means no cartridge purchases for a long time.\n\nIt ranks fourth because it has no automatic document feeder, so scanning a stack of tests means placing each page on the glass. It also connects on 2.4GHz WiFi only, which can fail on a school network that uses 5GHz. The EcoTank ET-2400 sits in the same $100 to $200 bucket and also lacks a feeder, but it carries no band restriction in its listing.\n\nBuy it for a home office where scanning is occasional. The caveat is the missing feeder and the 2.4GHz limit, so check your network first, because a failed connection wastes a morning.",
+      "keySpecs": [
+        {
+          "label": "Ink system",
+          "value": "Refillable tank"
+        },
+        {
+          "label": "Included ink",
+          "value": "2 years"
+        },
+        {
+          "label": "WiFi",
+          "value": "2.4GHz only"
+        },
+        {
+          "label": "Feeder",
+          "value": "None"
+        }
+      ],
+      "pros": [
+        "Two years of ink included",
+        "Print, scan and copy",
+        "Compact tank design",
+        "Refillable system"
+      ],
+      "cons": [
+        "2.4GHz WiFi only",
+        "No document feeder"
+      ],
+      "idealFor": "Teachers watching ink costs.",
+      "skipIf": "You scan stacks of papers."
+    },
+    {
+      "id": "epson-workforce-wf-2930",
+      "rank": 5,
+      "award": "Best for Paperless Grading",
+      "name": "Epson Workforce WF-2930 Wireless All-in-One Printer",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BDD46HFV?tag=primeareviews-20",
+      "verdict": "Automatic feeder and duplex make scan-to-cloud grading practical.",
+      "description": "The Epson WorkForce WF-2930 is a colour inkjet all-in-one that prints, scans, copies and faxes. It has an automatic document feeder, automatic two-sided printing, a 1.4 inch colour display and a cartridge based ink system, in the $50 to $100 bucket.\n\nIt ranks fifth because cartridges make the running cost higher than any tank or laser here. Its edge is the feeder: it scans a stack of student work without placing each page, which speeds up paperless grading. It costs half the price of the EcoTank, so it suits a light-volume teacher.\n\nBuy it for a home grading desk where you scan more than you print. The caveat is ink cost, so avoid it for heavy worksheet printing.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Color inkjet all-in-one"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic document feeder"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy, fax"
+        }
+      ],
+      "pros": [
+        "Automatic document feeder",
+        "Automatic duplex",
+        "Color display",
+        "Low upfront price bucket"
+      ],
+      "cons": [
+        "Cartridge ink adds up",
+        "Not for heavy volume"
+      ],
+      "idealFor": "Teachers scanning student work.",
+      "skipIf": "You print hundreds of pages weekly."
+    },
+    {
+      "id": "hp-officejet-pro-8139",
+      "rank": 6,
+      "award": "Best Full Document Handling",
+      "name": "HP OfficeJet Pro 8139 Wireless All-in-One Color Inkjet",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/413Pj7RejfL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GPFH9RYW?tag=primeareviews-20",
+      "verdict": "A fuller inkjet with fax, feeder and a one-year Instant Ink trial.",
+      "description": "The HP OfficeJet Pro 8139 is a colour inkjet all-in-one with automatic document feeder, automatic duplex printing, a one-year Instant Ink trial and wireless printing. It prints, scans, copies and faxes, and sits in the $100 to $200 bucket.\n\nIt ranks sixth because the feeder and duplex are available on the WF-2930 for half the price. The trial is also temporary: after a year, the Instant Ink plan becomes a subscription you must manage. Its advantage over the WF-2930 is the pairing of feeder and duplex with the Instant Ink trial.\n\nChoose it for a teacher who scans and copies a lot and prints moderate amounts. The caveat is the ink plan, so read the terms before continuing after the first year.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Color inkjet all-in-one"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic document feeder"
+        },
+        {
+          "label": "Ink plan",
+          "value": "1-year Instant Ink trial"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy, fax"
+        }
+      ],
+      "pros": [
+        "Automatic document feeder",
+        "Automatic duplex",
+        "One-year ink trial",
+        "Fax included"
+      ],
+      "cons": [
+        "Ink plan terms to read",
+        "Costs more than WF-2930"
+      ],
+      "idealFor": "Home-office teachers needing full document handling.",
+      "skipIf": "You dislike ink subscriptions."
+    },
+    {
+      "id": "canon-pixma-ts6520-teachers",
+      "rank": 7,
+      "award": "Best for Home Grading",
+      "name": "Canon PIXMA TS6520 Wireless Color Inkjet Printer",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FMBTJLX6?tag=primeareviews-20",
+      "verdict": "A small duplexing inkjet for rubrics and parent letters at home.",
+      "description": "The Canon PIXMA TS6520 is a colour inkjet with automatic duplex, a built-in copier and scanner, a 1.42 inch OLED display and a compact body, in the $50 to $100 bucket. Cartridges feed it, and the compact design suits a small desk.\n\nIt ranks last because it has no automatic document feeder, unlike the WF-2930, and uses cartridges, unlike the tank printers. For heavy printing, cartridge costs add up. Its duplex and scanner keep it useful for light jobs.\n\nBuy it for a home grading desk and occasional printing at a low price. The caveat is cost per page, so do not use it for classroom volumes.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Color inkjet"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Display",
+          "value": "1.42 inch OLED"
+        },
+        {
+          "label": "Ink",
+          "value": "Cartridge-based"
+        }
+      ],
+      "pros": [
+        "Compact design",
+        "Automatic duplex",
+        "Copy and scan",
+        "OLED display"
+      ],
+      "cons": [
+        "Cartridge ink adds up",
+        "No feeder"
+      ],
+      "idealFor": "Light home grading and parent notes.",
+      "skipIf": "You print classroom volumes."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Print engine",
+      "description": "We compared laser, cartridge inkjet and ink-tank designs for classroom volumes."
+    },
+    {
+      "title": "Running cost",
+      "description": "We favored refillable tanks and lasers over cartridge-based ink for heavy use."
+    },
+    {
+      "title": "Document handling",
+      "description": "Feeders and duplexing earned credit for scanning and saving paper."
+    },
+    {
+      "title": "Footprint and WiFi",
+      "description": "We noted compact bodies and WiFi limits like 2.4GHz only."
+    },
+    {
+      "title": "Price bucket fit",
+      "description": "We weighed each against its bucket, from $50-100 up to $200-500."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Laser versus ink",
+      "detail": "Lasers use toner and suit black and white volume, while inkjets handle colour and photos. Toner does not dry out, which helps over school breaks. The title names the engine, so check it first. The Brother DCP-L2640DW is mono laser, the HL-L3220CDW colour laser, and the Epson and HP models are inkjet."
+    },
+    {
+      "factor": "Refillable tanks",
+      "detail": "Tank printers use bottled ink instead of cartridges, which lowers cost per page. They are bulkier than cartridge printers. Look for the words EcoTank or Smart Tank, and note what ink is included in the box. The HP Smart Tank 5101 includes two years of ink, and the ET-2400 includes bottled refills."
+    },
+    {
+      "factor": "Automatic duplex",
+      "detail": "Duplex prints both sides of a sheet automatically, halving paper use for worksheets and saving trips to the supply cabinet. Check the spec bullets for automatic two-sided printing, not manual duplex, which forces you to flip pages by hand. The Brother and Epson WF-2930 list automatic duplex, as do the HP OfficeJet and Canon."
+    },
+    {
+      "factor": "Automatic document feeder",
+      "detail": "A feeder scans stacks of pages without placing each one on the glass. It speeds up grading and digitising. Look for ADF in the listing, since the HP Smart Tank 5101 notes it has none. The WF-2930 and OfficeJet Pro 8139 list one, which makes them better for paperless grading than the Canon. Without a feeder, scanning a class set page by page takes an afternoon."
+    },
+    {
+      "factor": "Wireless limits",
+      "detail": "Some printers connect only on 2.4GHz WiFi, which can be an issue on school networks that use 5GHz. The HP Smart Tank 5101 lists 2.4GHz only. Check the listing for 2.4GHz or 5GHz wording before buying, and ask your IT staff which band the classroom network uses. A printer that cannot join the network is worth nothing."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Printing Volume",
+      "intro": "Volume decides the engine.",
+      "table": {
+        "headers": [
+          "Volume",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Daily black-and-white worksheets",
+            "Brother DCP-L2640DW"
+          ],
+          [
+            "Steady color all year",
+            "Epson EcoTank ET-2400"
+          ],
+          [
+            "Shared color for a department",
+            "Brother HL-L3220CDW"
+          ],
+          [
+            "Light grading at home",
+            "Canon PIXMA TS6520"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50 to $100",
+            "Epson Workforce WF-2930"
+          ],
+          [
+            "$100 to $200, tank ink",
+            "Epson EcoTank ET-2400"
+          ],
+          [
+            "$100 to $200, ink included",
+            "HP Smart Tank 5101"
+          ],
+          [
+            "$200 to $500",
+            "Brother DCP-L2640DW"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Laser vs Ink Tank",
+      "cards": [
+        {
+          "label": "Laser",
+          "text": "Toner holds up over breaks and handles heavy text volume. The Brother DCP-L2640DW and HL-L3220CDW are lasers."
+        },
+        {
+          "label": "Ink tank",
+          "text": "Refillable tanks cut color cost per page. The Epson EcoTank ET-2400 and HP Smart Tank 5101 use tanks."
+        }
+      ],
+      "note": "Most teachers printing text should default to laser; color-heavy rooms should pick a tank."
+    },
+    {
+      "subheading": "By Scanning Need",
+      "table": {
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Scan stacks of student work",
+            "Epson Workforce WF-2930"
+          ],
+          [
+            "Scan plus fax",
+            "HP OfficeJet Pro 8139"
+          ],
+          [
+            "Occasional single-page scans",
+            "Brother DCP-L2640DW"
+          ],
+          [
+            "No scanning needed",
+            "Brother HL-L3220CDW"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Classroom Use Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Automatic duplex, wireless printing, a large tray and a low cost per page."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Brother HL-L3220CDW offers a 250-sheet tray and duplex, while the DCP-L2640DW adds copy and scan."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You print daily or in color for a whole department, which points to the Brother lasers."
+        },
+        {
+          "label": "Save if",
+          "text": "You print occasionally. The Epson WF-2930 or Canon TS6520 cover home use."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a laser or inkjet better for teachers?",
+      "a": "Lasers suit heavy black and white work and long breaks, since toner does not dry out between terms. Inkjets and tanks suit colour, and the EcoTank ET-2400 keeps ink cost down for diagrams and posters."
+    },
+    {
+      "q": "Will the HP Smart Tank connect to school WiFi?",
+      "a": "It lists 2.4GHz only, so check your network before relying on it in class. If the school uses 5GHz or blocks the older band, choose the Brother DCP-L2640DW or another model, and ask your IT staff first."
+    },
+    {
+      "q": "Is the EcoTank worth it over the Canon?",
+      "a": "For regular printing, yes. Bottled refills cost far less than cartridges, which are the Canon PIXMA's weak spot over a school year. For occasional printing and light grading, the Canon's lower price may be enough."
+    },
+    {
+      "q": "What is the biggest mistake?",
+      "a": "Judging by upfront price alone. Cartridge ink on the WF-2930 or Canon can cost more across a year than a pricier tank or laser like the Brother DCP-L2640DW, which erases the early saving."
+    },
+    {
+      "q": "How do I scan to the cloud?",
+      "a": "Use the manufacturer's mobile app with a scanner such as the WF-2930's feeder, and send files straight to your cloud folder so student work is backed up. The OfficeJet Pro 8139 handles stacks the same way, with its feeder doing the page turning."
+    },
+    {
+      "q": "Does the HP OfficeJet need a subscription?",
+      "a": "It includes a one-year Instant Ink trial. Read the terms before continuing the plan, because it becomes a subscription you must manage or cancel. A tank printer like the Smart Tank 5101 avoids that, with ink already in the box."
+    }
+  ],
+  "finalTake": "Buy the Brother DCP-L2640DW if most of your printing is worksheets in black and white. Choose the Epson EcoTank ET-2400 when colour matters and you want the lowest ink cost. Take the HL-L3220CDW for colour laser output, and the WF-2930 or OfficeJet Pro 8139 when a document feeder speeds up your scanning. Judge by cost per page, not by sticker price.",
+  "related": [
+    "best-airprint-printers",
+    "best-all-in-one-printers-for-home-use",
+    "best-cartridge-free-printers"
+  ]
 }

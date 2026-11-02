@@ -1,128 +1,547 @@
 {
-"slug": "best-samsung-tvs",
-"category": "home-living",
-"h1": "The 8 Best Samsung TVs of 2026, Ranked & Reviewed",
-"metaTitle": "Best Samsung TVs 2026: Ranked & Reviewed",
-"metaDescription": "Ranked and reviewed by Primea: eight Samsung TVs across OLED, Mini-LED, QLED and Crystal UHD, from 43 to 98 inches, matched to room size and budget.",
-"mainKeyword": "Samsung TVs",
-"publishedAt": "2026-11-01",
-"updatedAt": "2026-11-01",
-"readTime": "10 min",
-"heroImage": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg",
-"summary": "The 65-inch S90H OLED is the best Samsung TV for most living rooms, because it pairs the premium panel with the most common size. The 55-inch S90H does the same for bedrooms. The M70H Mini-LED is the value route, and the 98-inch Q7F is for dedicated theater walls only.",
-"intro": ["Samsung's lineup is a naming maze. OLED, Mini-LED, QLED and Crystal UHD all sound like upgrades from one another, yet they describe four different ways of lighting a screen, and the label on the box is not the number you should buy by. Panel type and screen size decide the picture and the price far more than the model code stamped on the back.","We reviewed eight Samsung sets across OLED, Mini-LED, QLED and Crystal UHD families and ranked them on panel type, size, price tier and fit for typical rooms. Our source is the listing, which gives size and panel but not brightness or feature figures, so we make no claims about nits, refresh rates or ports. Measure your wall and your sofa distance before you compare anything."],
-"products": [
-{
-"id": "samsung-65-s90h-oled", "rank": 1, "award": "Best Overall", "name": "Samsung 65-Inch Class S90H Series", "score": 94,
-"imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GPY4Y2VF?tag=primeareviews-20",
-"verdict": "OLED at a size that suits most living rooms.",
-"description": "The 65-inch S90H is a Samsung OLED in the $500 and up tier. OLED pixels produce their own light and can switch fully off, which is why OLED screens handle dark scenes and mixed-contrast movie content better than edge-lit LED sets. This panel type sits at the top of Samsung's range here.\n\nIt takes first place by combining that panel with 65 inches, the size where most living rooms and seating distances work without crowding the wall. The 55-inch S90H shares the panel but shrinks the picture, and the 77-inch costs more and needs more room.\n\nBuy it as the main TV, particularly for movies and evening viewing. The caveat is price, which sits well above the Mini-LED M70H. Our listing data stops at size and panel, so confirm port and feature details before ordering.",
-"keySpecs": [{"label":"Size","value":"65 inch"},{"label":"Panel","value":"OLED"},{"label":"Series","value":"S90H"},{"label":"Price tier","value":"$500+"}],
-"pros": ["OLED panel", "65 inch main-room size", "Premium S90H series", "Sits between 55 and 77"],
-"cons": ["Priced above $500", "Less value than Mini-LED"],
-"idealFor": "Main living rooms where picture quality leads.", "skipIf": "You are on a tight budget."
-},
-{
-"id": "samsung-55-s90h-oled", "rank": 2, "award": "Best OLED for Small Rooms", "name": "Samsung 55-Inch Class S90H Series", "score": 91,
-"imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GPYDMBYX?tag=primeareviews-20",
-"verdict": "The same OLED family in a smaller footprint.",
-"description": "The 55-inch S90H puts the same OLED panel family in a smaller footprint, in the $500 and up tier. A 55-inch OLED suits a bedroom or compact lounge, where a larger screen would overwhelm the room and the viewing distance is short enough that you can enjoy the picture without a giant panel.\n\nIt ranks second because the 65-inch version gives a bigger picture for the same family, and most buyers choose the larger screen when their room allows. The 55-inch wins on fit rather than performance, since both share the S90H name and the same premium tier.\n\nBuy it for a bedroom or small living room where OLED quality matters. Skip it if you sit far from the screen, because 55 inches shrinks quickly at distance. It also costs more than the 55-inch M70H Mini-LED below it.",
-"keySpecs": [{"label":"Size","value":"55 inch"},{"label":"Panel","value":"OLED"},{"label":"Series","value":"S90H"},{"label":"Price tier","value":"$500+"}],
-"pros": ["OLED panel", "Smaller 55 inch footprint", "Fits bedrooms", "Same family as 65 inch"],
-"cons": ["Priced above $500", "Smaller picture"],
-"idealFor": "Bedrooms and compact lounges.", "skipIf": "You sit far from the screen."
-},
-{
-"id": "samsung-55-m70h-mini-led", "rank": 3, "award": "Best Value Mini-LED", "name": "Samsung 55-Inch Class M70H Series", "score": 88,
-"imageUrl": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GP9TN5KF?tag=primeareviews-20",
-"verdict": "Mini-LED at a mid-range price.",
-"description": "The 55-inch M70H uses a Mini-LED panel in the $200 to $500 tier. Mini-LED backlights use many small LEDs behind an LCD, which improves control over bright and dark zones compared with ordinary LED sets, although it does not match OLED's pixel-by-pixel dimming.\n\nIt ranks third because it is the cheapest route to a higher-tier panel in this group, and it sits a full price tier under the S90H OLEDs. The listing gives little beyond size and panel, so its feature set is unconfirmed.\n\nChoose it for a medium room when you want a balanced set without OLED pricing. Skip it if you want the best possible picture, because the S90H OLED is the premium option. It also costs more than the Crystal UHD U8000H at similar sizes, so the Mini-LED panel is what you are paying for.",
-"keySpecs": [{"label":"Size","value":"55 inch"},{"label":"Panel","value":"Mini-LED"},{"label":"Series","value":"M70H"},{"label":"Price tier","value":"$200-500"}],
-"pros": ["Mini-LED panel", "Lower price tier", "55 inch size", "Balanced choice"],
-"cons": ["Not OLED", "Few listed features"],
-"idealFor": "Mid-range buyers in medium rooms.", "skipIf": "You want OLED."
-},
-{
-"id": "samsung-77-s90h-oled", "rank": 4, "award": "Best Large OLED", "name": "Samsung 77-Inch Class S90H Series", "score": 86,
-"imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GPY2T4L2?tag=primeareviews-20",
-"verdict": "OLED at 77 inches for a dedicated screen wall.",
-"description": "The 77-inch S90H is the largest OLED in the group, at $500 and up. Scale changes the experience: at this size an OLED fills a wall and delivers a cinema-style picture, especially in a dark room.\n\nIt ranks fourth because it suits fewer buyers than the 65-inch. It needs a large wall, a deeper budget and enough seating distance to take in the whole panel. The 65-inch S90H gives you the same OLED quality for less money and fits more rooms.\n\nBuy it for a dedicated movie room where the wall can handle it. Measure your wall and viewing distance first, since a 77-inch set in a small room looks oversized rather than immersive. Skip it for a standard living room, where the 65-inch is the better balance.",
-"keySpecs": [{"label":"Size","value":"77 inch"},{"label":"Panel","value":"OLED"},{"label":"Series","value":"S90H"},{"label":"Price tier","value":"$500+"}],
-"pros": ["OLED panel", "Large 77 inch screen", "Premium S90H series", "Cinematic size"],
-"cons": ["Needs a big wall", "High cost"],
-"idealFor": "Dedicated movie rooms.", "skipIf": "Your room is small."
-},
-{
-"id": "samsung-75-m70h-mini-led", "rank": 5, "award": "Best Big Mini-LED", "name": "Samsung 75-Inch Class M70H Series", "score": 84,
-"imageUrl": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0GP8W22HL?tag=primeareviews-20",
-"verdict": "Mini-LED at 75 inches without OLED pricing.",
-"description": "The 75-inch M70H is a Mini-LED set in the $500 and up tier. It brings the panel family of the 55-inch M70H to a large screen, at a price that stays below the 77-inch OLED while still reaching the size of a dedicated viewing wall.\n\nIt ranks fifth because the 77-inch S90H costs more for the premium OLED panel, but this one makes a big screen more affordable. At 75 inches, you are buying size and a Mini-LED backlight, not the OLED contrast you would get one tier up.\n\nChoose it for a large living room on a mid budget. Confirm other details beyond size and panel on the listing, because our data does not cover ports or smart features. Skip it if you want OLED quality at any size.",
-"keySpecs": [{"label":"Size","value":"75 inch"},{"label":"Panel","value":"Mini-LED"},{"label":"Series","value":"M70H"},{"label":"Price tier","value":"$500+"}],
-"pros": ["Mini-LED panel", "Large 75 inch screen", "Cheaper than OLED", "Same series as 55 inch"],
-"cons": ["Not OLED", "Few listed features"],
-"idealFor": "Big rooms on a mid budget.", "skipIf": "You want OLED."
-},
-{
-"id": "samsung-65-u8000h-crystal-uhd", "rank": 6, "award": "Best Basic 4K", "name": "Samsung 65-Inch Class U8000H Series Crystal UHD", "score": 82,
-"imageUrl": "https://m.media-amazon.com/images/I/41d7eerB2dL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0H3L589W7?tag=primeareviews-20",
-"verdict": "A straightforward 4K set at 65 inches.",
-"description": "The 65-inch U8000H is a Crystal UHD 4K TV in the $200 to $500 tier. Crystal UHD is Samsung's entry-level 4K LED family, so you get sharp resolution and a large 65-inch picture without paying for local dimming or an advanced panel.\n\nIt ranks sixth because it sits below the Mini-LED and OLED sets. The same 65-inch size from the S90H costs far more, but the picture quality gap is the reason. The listing mentions only size and resolution, so features beyond that are unconfirmed.\n\nBuy it for a bedroom, a secondary room or a casual viewer who watches daytime TV more than movies. Skip it if picture quality is your top priority, and step up to the 55-inch M70H Mini-LED if your budget stretches to the next tier.",
-"keySpecs": [{"label":"Size","value":"65 inch"},{"label":"Resolution","value":"4K"},{"label":"Series","value":"U8000H Crystal UHD"},{"label":"Price tier","value":"$200-500"}],
-"pros": ["4K resolution", "Large 65 inch size", "Lower price tier", "Simple Crystal UHD"],
-"cons": ["Lower-tier panel", "Few listed features"],
-"idealFor": "Secondary rooms on a budget.", "skipIf": "You want the best picture."
-},
-{
-"id": "samsung-43-q7f-qled", "rank": 7, "award": "Best Small QLED", "name": "Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV", "score": 80,
-"imageUrl": "https://m.media-amazon.com/images/I/41RkqAx6SpL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0DXMT9GXD?tag=primeareviews-20",
-"verdict": "A compact QLED with Vision AI smart features.",
-"description": "The 43-inch Q7F is a QLED with Samsung Vision AI smart features, in the $200 to $500 tier. QLED uses a quantum dot layer over an LED backlight to widen color range, and the compact 43-inch size makes it the only small set in this lineup.\n\nIt ranks seventh because a small screen appeals to a narrow set of buyers. It fits places the other sets cannot: a dorm, a bedroom shelf, a desk. Within its size class it brings a stronger panel than basic Crystal UHD.\n\nChoose it for a bedroom, dorm or desk setup where space is limited. Skip it if you want a large living room screen. Check inputs and viewing distance if you plan to use it as a desk monitor, since the listing gives no port details.",
-"keySpecs": [{"label":"Size","value":"43 inch"},{"label":"Panel","value":"QLED"},{"label":"Smart platform","value":"Vision AI"},{"label":"Price tier","value":"$200-500"}],
-"pros": ["QLED panel", "Compact 43 inch size", "Vision AI smart TV", "Fits small spaces"],
-"cons": ["Small screen", "Few listed features"],
-"idealFor": "Bedrooms, dorms and desks.", "skipIf": "You want a large screen."
-},
-{
-"id": "samsung-98-q7f-qled", "rank": 8, "award": "Best Giant Screen", "name": "Samsung 98-Inch Class QLED Q7F Series Samsung Vision AI Smart TV", "score": 78,
-"imageUrl": "https://m.media-amazon.com/images/I/41kOuFIJYzL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0FJ2KQ8FJ?tag=primeareviews-20",
-"verdict": "A 98-inch QLED for the biggest wall.",
-"description": "The 98-inch Q7F is a QLED with Samsung Vision AI smart features, and the largest screen in the ranking. Our listing data gives no price tier. At this scale, the screen turns a wall into a theater, which is the only reason to buy it.\n\nIt ranks last because few rooms can hold it and we cannot confirm what it costs. Nothing else in this guide approaches its size, but a set this large demands a wall, a seating distance and delivery logistics that most households cannot meet.\n\nBuy it only for a dedicated theater wall. Measure carefully, confirm the price on the live listing and check how it will get through your doors. Skip it for a standard living room, where the 65-inch S90H is a far better fit.",
-"keySpecs": [{"label":"Size","value":"98 inch"},{"label":"Panel","value":"QLED"},{"label":"Smart platform","value":"Vision AI"},{"label":"Price tier","value":"Check listing"}],
-"pros": ["Biggest screen here", "QLED panel", "Vision AI smart TV", "Theater scale"],
-"cons": ["Few rooms fit it", "Price not confirmed"],
-"idealFor": "Dedicated theater walls.", "skipIf": "Your room is normal-sized."
-}
-],
-"methodology": [
-{"title":"Panel type","description":"We ranked OLED above Mini-LED, QLED and Crystal UHD as listed."},
-{"title":"Screen size","description":"We compared sizes from 43 to 98 inches against typical rooms."},
-{"title":"Price tier","description":"We used price buckets from the listings, not exact prices."},
-{"title":"Series position","description":"We looked at where each series sits in Samsung's lineup."},
-{"title":"Data limits","description":"We only used the listing's size and panel data, so we avoided unverified claims."}
-],
-"whatMatters": [
-{"factor":"Panel type","detail":"OLED, Mini-LED, QLED and Crystal UHD are different panel technologies, each lighting the screen differently. OLED sits at the premium end, followed by Mini-LED, with Crystal UHD as the entry level. Check the panel name in the listing title rather than assuming the series name tells you, and compare tiers before price. A cheaper model with a lower-tier panel is not a bargain at OLED pricing."},
-{"factor":"Screen size","detail":"Bigger is not always better, because the right size depends on viewing distance. A set that is too large for your seat makes the picture feel crowded, and too small looks lost. Measure your wall space and your seating distance, then use that to narrow between the 55, 65, 75 and 77-inch options. A too-large set at a short distance makes you scan the picture instead of watching it."},
-{"factor":"Series name","detail":"Series names like S90H, M70H, Q7F and U8000H signal different tiers within Samsung's lineup. Compare within a series to get the same panel family at different sizes, and across series to compare tiers. Find the series in the product title, then check which panel it uses and whether the size you want exists in that family."},
-{"factor":"Price tier","detail":"Price tier shows what you are paying for. Budget sets use simpler panels like Crystal UHD, while OLED sits at $500 and up. Compare buckets across the same size to see how much extra a better panel costs. Check the live price on the day you buy, because discounts move fast, and compare a tier up before settling."},
-{"factor":"Smart features","detail":"Smart features vary by model. Vision AI appears on the Q7F listings, while other series list less. Smart features affect the interface and app support rather than picture quality. Confirm what your model includes by reading the listing bullets, since the title alone rarely says, and a feature missing from the bullets is usually missing from the TV."}
-],
-"howToChoose": [
-{"subheading":"By Room Size","intro":"Room size decides screen size.","table":{"headers":["Room","Our pick"],"rows":[["Dorm or desk","Samsung 43-Inch Q7F QLED"],["Bedroom","Samsung 55-Inch S90H OLED"],["Main living room","Samsung 65-Inch S90H OLED"],["Home theater","Samsung 98-Inch Q7F QLED"]]}},
-{"subheading":"By Budget","table":{"headers":["Spend","Our pick"],"rows":[["$200-500, 4K","Samsung 65-Inch U8000H Crystal UHD"],["$200-500, Mini-LED","Samsung 55-Inch M70H Mini-LED"],["$500+, big Mini-LED","Samsung 75-Inch M70H Mini-LED"],["$500+, OLED","Samsung 65-Inch S90H OLED"]]}},
-{"subheading":"OLED vs Mini-LED","cards":[{"label":"OLED","text":"OLED is Samsung's premium panel here, found in the S90H series at 55, 65 and 77 inches."},{"label":"Mini-LED","text":"Mini-LED costs less per inch, found in the M70H at 55 and 75 inches."}],"note":"Most buyers should default to Mini-LED unless picture quality is the priority."},
-{"subheading":"By Size Class","table":{"headers":["Size","Our pick"],"rows":[["43 inch","Samsung 43-Inch Q7F QLED"],["55 inch","Samsung 55-Inch M70H Mini-LED"],["65 inch","Samsung 65-Inch S90H OLED"],["75 to 77 inch","Samsung 77-Inch S90H OLED"]]}},
-{"subheading":"For Bedrooms Specifically","cards":[{"label":"Look for","text":"A 43 to 55 inch screen and a price you accept for a secondary room."},{"label":"In this ranking","text":"The 43-inch Q7F QLED suits tiny rooms, while the 55-inch M70H and S90H cover larger bedrooms."}]},
-{"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"Picture quality matters most, which points to the 65-inch S90H OLED."},{"label":"Save if","text":"The set is for a spare room, where the 65-inch U8000H or 55-inch M70H is enough."}]}
-],
-"faq": [
-{"q":"What is the difference between QLED and OLED?","a":"They are different panel technologies. The listings label the S90H as OLED and the Q7F as QLED. OLED sits at the premium end for contrast and dark scenes, while QLED uses a quantum dot layer over an LED backlight to improve color."},
-{"q":"What mistake do people make buying a big TV?","a":"Ignoring wall space and seat distance. A 98-inch Q7F needs a big wall and a large room, and it may not clear a doorway. Measure the wall, the seating distance and the doorway before you commit to the largest screen."},
-{"q":"Is Mini-LED worth it over Crystal UHD?","a":"It is worth it if you value the better panel. The 55-inch M70H Mini-LED costs more than a U8000H Crystal UHD at similar sizes, but Mini-LED backlighting handles bright and dark areas better than entry-level LED."},
-{"q":"How do I set up a new Samsung TV?","a":"Mount or place the TV, connect to Wi-Fi and sign in with your account. The Q7F lists Vision AI smart features, so expect its setup to include those, while other models list fewer options."},
-{"q":"How do I maintain the screen?","a":"Wipe the screen with a dry microfiber cloth and avoid sprays, which can seep into the edges of a panel like the S90H OLED. Unplug the set first, use light pressure and never spray liquid directly onto the screen."},
-{"q":"Can a 43-inch TV work as a desk monitor?","a":"The 43-inch Q7F can fit a desk setup, but check ports and viewing distance first. Our listing data does not cover inputs, so confirm HDMI and display modes before using it as a monitor."}
-],
-"finalTake": "Buy the 65-inch S90H if picture quality leads and your budget allows OLED. Take the 55-inch version for a smaller room, or the M70H Mini-LED when you want a higher panel tier without OLED pricing. The U8000H and 43-inch Q7F cover secondary rooms. Size to your wall first, panel second.",
-"related": []
+  "slug": "best-samsung-tvs",
+  "category": "home-living",
+  "h1": "The 8 Best Samsung TVs of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Samsung TVs 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: eight Samsung TVs across OLED, Mini-LED, QLED and Crystal UHD, from 43 to 98 inches, matched to room size and budget.",
+  "mainKeyword": "Samsung TVs",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg",
+  "summary": "The 65-inch S90H OLED is the best Samsung TV for most living rooms, because it pairs the premium panel with the most common size. The 55-inch S90H does the same for bedrooms. The M70H Mini-LED is the value route, and the 98-inch Q7F is for dedicated theater walls only.",
+  "intro": [
+    "Samsung's lineup is a naming maze. OLED, Mini-LED, QLED and Crystal UHD all sound like upgrades from one another, yet they describe four different ways of lighting a screen, and the label on the box is not the number you should buy by. Panel type and screen size decide the picture and the price far more than the model code stamped on the back.",
+    "We reviewed eight Samsung sets across OLED, Mini-LED, QLED and Crystal UHD families and ranked them on panel type, size, price tier and fit for typical rooms. Our source is the listing, which gives size and panel but not brightness or feature figures, so we make no claims about nits, refresh rates or ports. Measure your wall and your sofa distance before you compare anything."
+  ],
+  "products": [
+    {
+      "id": "samsung-65-s90h-oled",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Samsung 65-Inch Class S90H Series",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GPY4Y2VF?tag=primeareviews-20",
+      "verdict": "OLED at a size that suits most living rooms.",
+      "description": "The 65-inch S90H is a Samsung OLED in the $500 and up tier. OLED pixels produce their own light and can switch fully off, which is why OLED screens handle dark scenes and mixed-contrast movie content better than edge-lit LED sets. This panel type sits at the top of Samsung's range here.\n\nIt takes first place by combining that panel with 65 inches, the size where most living rooms and seating distances work without crowding the wall. The 55-inch S90H shares the panel but shrinks the picture, and the 77-inch costs more and needs more room.\n\nBuy it as the main TV, particularly for movies and evening viewing. The caveat is price, which sits well above the Mini-LED M70H. Our listing data stops at size and panel, so confirm port and feature details before ordering.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "65 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "OLED"
+        },
+        {
+          "label": "Series",
+          "value": "S90H"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "OLED panel",
+        "65 inch main-room size",
+        "Premium S90H series",
+        "Sits between 55 and 77"
+      ],
+      "cons": [
+        "Priced above $500",
+        "Less value than Mini-LED"
+      ],
+      "idealFor": "Main living rooms where picture quality leads.",
+      "skipIf": "You are on a tight budget."
+    },
+    {
+      "id": "samsung-55-s90h-oled",
+      "rank": 2,
+      "award": "Best OLED for Small Rooms",
+      "name": "Samsung 55-Inch Class S90H Series",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GPYDMBYX?tag=primeareviews-20",
+      "verdict": "The same OLED family in a smaller footprint.",
+      "description": "The 55-inch S90H puts the same OLED panel family in a smaller footprint, in the $500 and up tier. A 55-inch OLED suits a bedroom or compact lounge, where a larger screen would overwhelm the room and the viewing distance is short enough that you can enjoy the picture without a giant panel.\n\nIt ranks second because the 65-inch version gives a bigger picture for the same family, and most buyers choose the larger screen when their room allows. The 55-inch wins on fit rather than performance, since both share the S90H name and the same premium tier.\n\nBuy it for a bedroom or small living room where OLED quality matters. Skip it if you sit far from the screen, because 55 inches shrinks quickly at distance. It also costs more than the 55-inch M70H Mini-LED below it.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "55 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "OLED"
+        },
+        {
+          "label": "Series",
+          "value": "S90H"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "OLED panel",
+        "Smaller 55 inch footprint",
+        "Fits bedrooms",
+        "Same family as 65 inch"
+      ],
+      "cons": [
+        "Priced above $500",
+        "Smaller picture"
+      ],
+      "idealFor": "Bedrooms and compact lounges.",
+      "skipIf": "You sit far from the screen."
+    },
+    {
+      "id": "samsung-55-m70h-mini-led",
+      "rank": 3,
+      "award": "Best Value Mini-LED",
+      "name": "Samsung 55-Inch Class M70H Series",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GP9TN5KF?tag=primeareviews-20",
+      "verdict": "Mini-LED at a mid-range price.",
+      "description": "The 55-inch M70H uses a Mini-LED panel in the $200 to $500 tier. Mini-LED backlights use many small LEDs behind an LCD, which improves control over bright and dark zones compared with ordinary LED sets, although it does not match OLED's pixel-by-pixel dimming.\n\nIt ranks third because it is the cheapest route to a higher-tier panel in this group, and it sits a full price tier under the S90H OLEDs. The listing gives little beyond size and panel, so its feature set is unconfirmed.\n\nChoose it for a medium room when you want a balanced set without OLED pricing. Skip it if you want the best possible picture, because the S90H OLED is the premium option. It also costs more than the Crystal UHD U8000H at similar sizes, so the Mini-LED panel is what you are paying for.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "55 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "Mini-LED"
+        },
+        {
+          "label": "Series",
+          "value": "M70H"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Mini-LED panel",
+        "Lower price tier",
+        "55 inch size",
+        "Balanced choice"
+      ],
+      "cons": [
+        "Not OLED",
+        "Few listed features"
+      ],
+      "idealFor": "Mid-range buyers in medium rooms.",
+      "skipIf": "You want OLED."
+    },
+    {
+      "id": "samsung-77-s90h-oled",
+      "rank": 4,
+      "award": "Best Large OLED",
+      "name": "Samsung 77-Inch Class S90H Series",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/413bcBtr1eL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GPY2T4L2?tag=primeareviews-20",
+      "verdict": "OLED at 77 inches for a dedicated screen wall.",
+      "description": "The 77-inch S90H is the largest OLED in the group, at $500 and up. Scale changes the experience: at this size an OLED fills a wall and delivers a cinema-style picture, especially in a dark room.\n\nIt ranks fourth because it suits fewer buyers than the 65-inch. It needs a large wall, a deeper budget and enough seating distance to take in the whole panel. The 65-inch S90H gives you the same OLED quality for less money and fits more rooms.\n\nBuy it for a dedicated movie room where the wall can handle it. Measure your wall and viewing distance first, since a 77-inch set in a small room looks oversized rather than immersive. Skip it for a standard living room, where the 65-inch is the better balance.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "77 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "OLED"
+        },
+        {
+          "label": "Series",
+          "value": "S90H"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "OLED panel",
+        "Large 77 inch screen",
+        "Premium S90H series",
+        "Cinematic size"
+      ],
+      "cons": [
+        "Needs a big wall",
+        "High cost"
+      ],
+      "idealFor": "Dedicated movie rooms.",
+      "skipIf": "Your room is small."
+    },
+    {
+      "id": "samsung-75-m70h-mini-led",
+      "rank": 5,
+      "award": "Best Big Mini-LED",
+      "name": "Samsung 75-Inch Class M70H Series",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Ea8qlC-XL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GP8W22HL?tag=primeareviews-20",
+      "verdict": "Mini-LED at 75 inches without OLED pricing.",
+      "description": "The 75-inch M70H is a Mini-LED set in the $500 and up tier. It brings the panel family of the 55-inch M70H to a large screen, at a price that stays below the 77-inch OLED while still reaching the size of a dedicated viewing wall.\n\nIt ranks fifth because the 77-inch S90H costs more for the premium OLED panel, but this one makes a big screen more affordable. At 75 inches, you are buying size and a Mini-LED backlight, not the OLED contrast you would get one tier up.\n\nChoose it for a large living room on a mid budget. Confirm other details beyond size and panel on the listing, because our data does not cover ports or smart features. Skip it if you want OLED quality at any size.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "75 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "Mini-LED"
+        },
+        {
+          "label": "Series",
+          "value": "M70H"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "Mini-LED panel",
+        "Large 75 inch screen",
+        "Cheaper than OLED",
+        "Same series as 55 inch"
+      ],
+      "cons": [
+        "Not OLED",
+        "Few listed features"
+      ],
+      "idealFor": "Big rooms on a mid budget.",
+      "skipIf": "You want OLED."
+    },
+    {
+      "id": "samsung-65-u8000h-crystal-uhd",
+      "rank": 6,
+      "award": "Best Basic 4K",
+      "name": "Samsung 65-Inch Class U8000H Series Crystal UHD",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/41d7eerB2dL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0H3L589W7?tag=primeareviews-20",
+      "verdict": "A straightforward 4K set at 65 inches.",
+      "description": "The 65-inch U8000H is a Crystal UHD 4K TV in the $200 to $500 tier. Crystal UHD is Samsung's entry-level 4K LED family, so you get sharp resolution and a large 65-inch picture without paying for local dimming or an advanced panel.\n\nIt ranks sixth because it sits below the Mini-LED and OLED sets. The same 65-inch size from the S90H costs far more, but the picture quality gap is the reason. The listing mentions only size and resolution, so features beyond that are unconfirmed.\n\nBuy it for a bedroom, a secondary room or a casual viewer who watches daytime TV more than movies. Skip it if picture quality is your top priority, and step up to the 55-inch M70H Mini-LED if your budget stretches to the next tier.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "65 inch"
+        },
+        {
+          "label": "Resolution",
+          "value": "4K"
+        },
+        {
+          "label": "Series",
+          "value": "U8000H Crystal UHD"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "4K resolution",
+        "Large 65 inch size",
+        "Lower price tier",
+        "Simple Crystal UHD"
+      ],
+      "cons": [
+        "Lower-tier panel",
+        "Few listed features"
+      ],
+      "idealFor": "Secondary rooms on a budget.",
+      "skipIf": "You want the best picture."
+    },
+    {
+      "id": "samsung-43-q7f-qled",
+      "rank": 7,
+      "award": "Best Small QLED",
+      "name": "Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/41RkqAx6SpL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DXMT9GXD?tag=primeareviews-20",
+      "verdict": "A compact QLED with Vision AI smart features.",
+      "description": "The 43-inch Q7F is a QLED with Samsung Vision AI smart features, in the $200 to $500 tier. QLED uses a quantum dot layer over an LED backlight to widen color range, and the compact 43-inch size makes it the only small set in this lineup.\n\nIt ranks seventh because a small screen appeals to a narrow set of buyers. It fits places the other sets cannot: a dorm, a bedroom shelf, a desk. Within its size class it brings a stronger panel than basic Crystal UHD.\n\nChoose it for a bedroom, dorm or desk setup where space is limited. Skip it if you want a large living room screen. Check inputs and viewing distance if you plan to use it as a desk monitor, since the listing gives no port details.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "43 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "QLED"
+        },
+        {
+          "label": "Smart platform",
+          "value": "Vision AI"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "QLED panel",
+        "Compact 43 inch size",
+        "Vision AI smart TV",
+        "Fits small spaces"
+      ],
+      "cons": [
+        "Small screen",
+        "Few listed features"
+      ],
+      "idealFor": "Bedrooms, dorms and desks.",
+      "skipIf": "You want a large screen."
+    },
+    {
+      "id": "samsung-98-q7f-qled",
+      "rank": 8,
+      "award": "Best Giant Screen",
+      "name": "Samsung 98-Inch Class QLED Q7F Series Samsung Vision AI Smart TV",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/41kOuFIJYzL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FJ2KQ8FJ?tag=primeareviews-20",
+      "verdict": "A 98-inch QLED for the biggest wall.",
+      "description": "The 98-inch Q7F is a QLED with Samsung Vision AI smart features, and the largest screen in the ranking. Our listing data gives no price tier. At this scale, the screen turns a wall into a theater, which is the only reason to buy it.\n\nIt ranks last because few rooms can hold it and we cannot confirm what it costs. Nothing else in this guide approaches its size, but a set this large demands a wall, a seating distance and delivery logistics that most households cannot meet.\n\nBuy it only for a dedicated theater wall. Measure carefully, confirm the price on the live listing and check how it will get through your doors. Skip it for a standard living room, where the 65-inch S90H is a far better fit.",
+      "keySpecs": [
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "QLED"
+        },
+        {
+          "label": "Smart platform",
+          "value": "Vision AI"
+        },
+        {
+          "label": "Price tier",
+          "value": "Check listing"
+        }
+      ],
+      "pros": [
+        "Biggest screen here",
+        "QLED panel",
+        "Vision AI smart TV",
+        "Theater scale"
+      ],
+      "cons": [
+        "Few rooms fit it",
+        "Price not confirmed"
+      ],
+      "idealFor": "Dedicated theater walls.",
+      "skipIf": "Your room is normal-sized."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Panel type",
+      "description": "We ranked OLED above Mini-LED, QLED and Crystal UHD as listed."
+    },
+    {
+      "title": "Screen size",
+      "description": "We compared sizes from 43 to 98 inches against typical rooms."
+    },
+    {
+      "title": "Price tier",
+      "description": "We used price buckets from the listings, not exact prices."
+    },
+    {
+      "title": "Series position",
+      "description": "We looked at where each series sits in Samsung's lineup."
+    },
+    {
+      "title": "Data limits",
+      "description": "We only used the listing's size and panel data, so we avoided unverified claims."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Panel type",
+      "detail": "OLED, Mini-LED, QLED and Crystal UHD are different panel technologies, each lighting the screen differently. OLED sits at the premium end, followed by Mini-LED, with Crystal UHD as the entry level. Check the panel name in the listing title rather than assuming the series name tells you, and compare tiers before price. A cheaper model with a lower-tier panel is not a bargain at OLED pricing."
+    },
+    {
+      "factor": "Screen size",
+      "detail": "Bigger is not always better, because the right size depends on viewing distance. A set that is too large for your seat makes the picture feel crowded, and too small looks lost. Measure your wall space and your seating distance, then use that to narrow between the 55, 65, 75 and 77-inch options. A too-large set at a short distance makes you scan the picture instead of watching it."
+    },
+    {
+      "factor": "Series name",
+      "detail": "Series names like S90H, M70H, Q7F and U8000H signal different tiers within Samsung's lineup. Compare within a series to get the same panel family at different sizes, and across series to compare tiers. Find the series in the product title, then check which panel it uses and whether the size you want exists in that family."
+    },
+    {
+      "factor": "Price tier",
+      "detail": "Price tier shows what you are paying for. Budget sets use simpler panels like Crystal UHD, while OLED sits at $500 and up. Compare buckets across the same size to see how much extra a better panel costs. Check the live price on the day you buy, because discounts move fast, and compare a tier up before settling."
+    },
+    {
+      "factor": "Smart features",
+      "detail": "Smart features vary by model. Vision AI appears on the Q7F listings, while other series list less. Smart features affect the interface and app support rather than picture quality. Confirm what your model includes by reading the listing bullets, since the title alone rarely says, and a feature missing from the bullets is usually missing from the TV."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Room Size",
+      "intro": "Room size decides screen size.",
+      "table": {
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Dorm or desk",
+            "Samsung 43-Inch Q7F QLED"
+          ],
+          [
+            "Bedroom",
+            "Samsung 55-Inch S90H OLED"
+          ],
+          [
+            "Main living room",
+            "Samsung 65-Inch S90H OLED"
+          ],
+          [
+            "Home theater",
+            "Samsung 98-Inch Q7F QLED"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$200-500, 4K",
+            "Samsung 65-Inch U8000H Crystal UHD"
+          ],
+          [
+            "$200-500, Mini-LED",
+            "Samsung 55-Inch M70H Mini-LED"
+          ],
+          [
+            "$500+, big Mini-LED",
+            "Samsung 75-Inch M70H Mini-LED"
+          ],
+          [
+            "$500+, OLED",
+            "Samsung 65-Inch S90H OLED"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "OLED vs Mini-LED",
+      "cards": [
+        {
+          "label": "OLED",
+          "text": "OLED is Samsung's premium panel here, found in the S90H series at 55, 65 and 77 inches."
+        },
+        {
+          "label": "Mini-LED",
+          "text": "Mini-LED costs less per inch, found in the M70H at 55 and 75 inches."
+        }
+      ],
+      "note": "Most buyers should default to Mini-LED unless picture quality is the priority."
+    },
+    {
+      "subheading": "By Size Class",
+      "table": {
+        "headers": [
+          "Size",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "43 inch",
+            "Samsung 43-Inch Q7F QLED"
+          ],
+          [
+            "55 inch",
+            "Samsung 55-Inch M70H Mini-LED"
+          ],
+          [
+            "65 inch",
+            "Samsung 65-Inch S90H OLED"
+          ],
+          [
+            "75 to 77 inch",
+            "Samsung 77-Inch S90H OLED"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Bedrooms Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A 43 to 55 inch screen and a price you accept for a secondary room."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The 43-inch Q7F QLED suits tiny rooms, while the 55-inch M70H and S90H cover larger bedrooms."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "Picture quality matters most, which points to the 65-inch S90H OLED."
+        },
+        {
+          "label": "Save if",
+          "text": "The set is for a spare room, where the 65-inch U8000H or 55-inch M70H is enough."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between QLED and OLED?",
+      "a": "They are different panel technologies. The listings label the S90H as OLED and the Q7F as QLED. OLED sits at the premium end for contrast and dark scenes, while QLED uses a quantum dot layer over an LED backlight to improve color."
+    },
+    {
+      "q": "What mistake do people make buying a big TV?",
+      "a": "Ignoring wall space and seat distance. A 98-inch Q7F needs a big wall and a large room, and it may not clear a doorway. Measure the wall, the seating distance and the doorway before you commit to the largest screen."
+    },
+    {
+      "q": "Is Mini-LED worth it over Crystal UHD?",
+      "a": "It is worth it if you value the better panel. The 55-inch M70H Mini-LED costs more than a U8000H Crystal UHD at similar sizes, but Mini-LED backlighting handles bright and dark areas better than entry-level LED."
+    },
+    {
+      "q": "How do I set up a new Samsung TV?",
+      "a": "Mount or place the TV, connect to Wi-Fi and sign in with your account. The Q7F lists Vision AI smart features, so expect its setup to include those, while other models list fewer options."
+    },
+    {
+      "q": "How do I maintain the screen?",
+      "a": "Wipe the screen with a dry microfiber cloth and avoid sprays, which can seep into the edges of a panel like the S90H OLED. Unplug the set first, use light pressure and never spray liquid directly onto the screen."
+    },
+    {
+      "q": "Can a 43-inch TV work as a desk monitor?",
+      "a": "The 43-inch Q7F can fit a desk setup, but check ports and viewing distance first. Our listing data does not cover inputs, so confirm HDMI and display modes before using it as a monitor."
+    }
+  ],
+  "finalTake": "Buy the 65-inch S90H if picture quality leads and your budget allows OLED. Take the 55-inch version for a smaller room, or the M70H Mini-LED when you want a higher panel tier without OLED pricing. The U8000H and 43-inch Q7F cover secondary rooms. Size to your wall first, panel second.",
+  "related": [
+    "best-32-inch-tvs",
+    "best-55-inch-tvs",
+    "best-75-inch-tvs"
+  ]
 }

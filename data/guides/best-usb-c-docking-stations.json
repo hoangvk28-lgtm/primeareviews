@@ -1,216 +1,547 @@
 {
- "slug": "best-usb-c-docking-stations",
- "category": "tech-accessories",
- "h1": "The 8 Best USB-C Docking Stations of 2026, Ranked & Reviewed",
- "metaTitle": "Best USB-C Docking Stations: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: the best USB-C docking stations for 2026, compared on display support, power delivery wattage and port count.",
- "mainKeyword": "docking station usb c",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "11 min",
- "heroImage": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
- "summary": "The UGREEN Revodok Pro 7-in-1 is the best USB-C docking station because it delivers dual 4K at 60Hz and 100W passthrough in the $25 to $50 tier. The Anker Nano 8-in-1 adds an SD and TF reader at 85W, the Anker 8-in-1 brings Gigabit Ethernet, and the Nano 13-in-1 drives three displays. The Anker Prime tops out at 160W, while the Acer, HP G5 and G6 docks suit niche needs.",
- "intro": ["The number in a dock's name is a port count, not a performance rating. An 8-in-1 can still leave a laptop on a slow trickle of power or drive two monitors at a stuttering 30Hz, and neither shows up in the title. Two specs decide whether a dock works at your desk: how many watts reach the laptop, and what refresh rate each display actually gets.","We reviewed eight docks against their listed ports, display support, power delivery and data speed, and scored them on the Primea framework. Wattage and verified 4K at 60Hz carried the most weight, then Ethernet and card readers. A dock is a cable's worth of trust, so we marked down anything vague. Listings that omit wattage or refresh rate lost points, because those omissions hide the facts that matter."],
- "products": [
-  {
-   "id": "ugreen-7-in-1-docking-station-revodok-pro",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "UGREEN 7-in-1 Docking Station (Revodok Pro)",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0D1XSKZRJ?tag=primeareviews-20",
-   "verdict": "Dual 4K at 60Hz and 100W passthrough at a $25-50 price.",
-   "description": "The Revodok Pro is a 7-in-1 hub with dual 4K at 60Hz HDMI outputs, 10Gbps data ports, 100W PD passthrough and an aluminum body, in the $25 to $50 tier. A metal shell matters in a dock because it spreads heat from the display chip, and cheap plastic docks throttle quietly when two screens run for hours.\n\nIt wins because it packs the specs that matter most, two sharp displays and strong power delivery, into the lowest price tier. Against the Anker docks, it gives up port count: there is no Ethernet or card slot in the spec list.\n\nIt suits a typical laptop desk with two monitors. The honest caveat is the port shortage, so skip it if you need wired networking or an SD slot without carrying a second adapter.",
-   "keySpecs": [
-    {"label": "Ports", "value": "7-in-1"},
-    {"label": "Displays", "value": "Dual 4K at 60Hz HDMI"},
-    {"label": "Data", "value": "10Gbps"},
-    {"label": "Power", "value": "100W PD passthrough"}
-   ],
-   "pros": ["Dual 4K at 60Hz", "100W PD passthrough", "10Gbps data ports", "Aluminum body"],
-   "cons": ["Fewer ports than larger docks", "No Ethernet listed"],
-   "idealFor": "Buyers who want dual 4K and real 100W PD at the lowest possible price.",
-   "skipIf": "You need Ethernet or an SD slot."
-  },
-  {
-   "id": "anker-nano-laptop-docking-station-8-in-1",
-   "rank": 2,
-   "award": "Best for Card Readers",
-   "name": "Anker Nano Laptop Docking Station 8-in-1",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/415StnCe4ML._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=primeareviews-20",
-   "verdict": "Dual 4K at 60Hz with an SD and TF card reader and 85W PD.",
-   "description": "The Anker Nano 8-in-1 offers dual 4K at 60Hz HDMI, a 10Gbps USB-C port plus two USB-A ports, 85W PD and an SD and TF card reader, in the $25 to $50 tier. The card reader is the differentiator: photographers and drone owners offload straight to the laptop without a dongle.\n\nIt sits just behind the UGREEN because 85W is lower than 100W, which can matter for a laptop that draws more under load, and the UGREEN has the sturdier build. The Anker adds the reader the UGREEN lacks at a similar price.\n\nIt works for anyone moving card contents regularly. Check that 85W covers your laptop's charger rating, because a dock below it charges slowly under load. It lists no Ethernet, so wired-network users should look at the next pick.",
-   "keySpecs": [
-    {"label": "Ports", "value": "8-in-1"},
-    {"label": "Displays", "value": "Dual 4K at 60Hz HDMI"},
-    {"label": "Power", "value": "85W PD"},
-    {"label": "Card reader", "value": "SD/TF"}
-   ],
-   "pros": ["SD and TF card reader", "Dual 4K at 60Hz", "10Gbps USB-C port", "Two USB-A ports"],
-   "cons": ["85W PD is below 100W", "No Ethernet listed"],
-   "idealFor": "Buyers who want an SD/TF card reader without paying more than $30.",
-   "skipIf": "Your laptop needs more than 85W."
-  },
-  {
-   "id": "anker-laptop-docking-station-8-in-1",
-   "rank": 3,
-   "award": "Best for Ethernet",
-   "name": "Anker Laptop Docking Station 8-in-1",
-   "score": 89,
-   "imageUrl": "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=primeareviews-20",
-   "verdict": "Gigabit Ethernet, two HDMI ports and an SD slot in an 8-in-1.",
-   "description": "The Anker 8-in-1 lists dual 4K monitor support over two HDMI ports, Gigabit Ethernet, 85W PD passthrough and an SD card slot, in the $50 to $100 tier. Gigabit Ethernet gives a steadier connection than Wi-Fi for video calls and large transfers, which is why offices still wire desks.\n\nIt ranks third because it asks for more than the Nano yet gives the same 85W. What you gain is wired Ethernet, which the Nano and UGREEN lack. Against the UGREEN, you pay for ports and lose 15W of charging headroom.\n\nIt suits a desk that needs a stable wired connection. The listing does not state the refresh rate of the dual displays, which is a real gap; confirm it before assuming 60Hz on both. Skip it if you want the cheapest dock.",
-   "keySpecs": [
-    {"label": "Ports", "value": "8-in-1"},
-    {"label": "Network", "value": "Gigabit Ethernet"},
-    {"label": "Displays", "value": "Dual 4K, 2 HDMI"},
-    {"label": "Power", "value": "85W PD"}
-   ],
-   "pros": ["Gigabit Ethernet port", "Two HDMI outputs", "SD card slot", "85W PD passthrough"],
-   "cons": ["Costs more than the Nano", "Refresh rate not listed"],
-   "idealFor": "Buyers who want Ethernet and an SD slot without a big price jump.",
-   "skipIf": "You want the cheapest option."
-  },
-  {
-   "id": "anker-nano-13-in-1-laptop-docking-station",
-   "rank": 4,
-   "award": "Best for Three Displays",
-   "name": "Anker Nano 13-in-1 Laptop Docking Station",
-   "score": 87,
-   "imageUrl": "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FCLC1RMM?tag=primeareviews-20",
-   "verdict": "Three displays via 2 HDMI and 1 DisplayPort, with a detachable hub.",
-   "description": "The Nano 13-in-1 supports three displays at once through two HDMI ports and one DisplayPort, with 10Gbps USB-C, up to 100W PD and a detachable 6-in-1 hub in a compact modular design, at $100 to $200. The detachable hub lets you carry a slim part for travel and leave the rest on the desk.\n\nIt ranks fourth because it costs more than the 8-in-1 docks, but it is the pick when two monitors are not enough. It stops short of the 14-port Prime's 160W.\n\nChoose it for a triple-screen desk. The caveat is your laptop: three displays need a laptop that supports them, and many do not, so check before paying. Skip it if you only use one or two monitors, where the UGREEN costs far less.",
-   "keySpecs": [
-    {"label": "Ports", "value": "13-in-1"},
-    {"label": "Displays", "value": "3 (2 HDMI + 1 DisplayPort)"},
-    {"label": "Power", "value": "100W max PD"},
-    {"label": "Design", "value": "Detachable 6-in-1 hub"}
-   ],
-   "pros": ["Three displays at once", "Detachable 6-in-1 hub", "100W max PD", "Compact modular design"],
-   "cons": ["Pricier than 8-in-1 docks", "Laptop must support three displays"],
-   "idealFor": "Buyers who want 3-display support without a full 14-port dock.",
-   "skipIf": "You only use one or two monitors."
-  },
-  {
-   "id": "anker-prime-docking-station-14-port",
-   "rank": 5,
-   "award": "Best for Power and Ports",
-   "name": "Anker Prime Docking Station 14-Port",
-   "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=primeareviews-20",
-   "verdict": "14 ports and up to 160W of output with independent PD circuitry.",
-   "description": "The Anker Prime has 14 ports in total, up to 160W maximum output, dual 4K display support, 10Gbps data throughput and independent PD circuitry. Independent power circuitry means charging does not compete with the data and display chips, which keeps behavior steady when a hungry laptop pulls hard.\n\nIt ranks fifth because the specs outclass the cheaper docks but the $100 to $200 price is steep for a single-laptop desk. It offers more power headroom than any other pick here, ahead of the Nano 13-in-1's 100W.\n\nIt suits power-hungry laptops and desks with many peripherals. The caveat is overkill: most buyers will not use 14 ports, so skip it if you only need basic connections, because the UGREEN does the job for a fraction of the cost.",
-   "keySpecs": [
-    {"label": "Ports", "value": "14 total"},
-    {"label": "Power", "value": "Up to 160W output"},
-    {"label": "Displays", "value": "Dual 4K"},
-    {"label": "Data", "value": "10Gbps"}
-   ],
-   "pros": ["14 ports in one dock", "Up to 160W output", "Independent PD circuitry", "10Gbps throughput"],
-   "cons": ["Highest price tier here", "More ports than most need"],
-   "idealFor": "Buyers who need the highest PD wattage and the most ports in one dock.",
-   "skipIf": "You only need basic connections."
-  },
-  {
-   "id": "acer-usb-c-docking-station-9-in-1",
-   "rank": 6,
-   "award": "Best Known-Brand Budget Dock",
-   "name": "Acer USB-C Docking Station 9-in-1",
-   "score": 83,
-   "imageUrl": "https://m.media-amazon.com/images/I/41Zt6JO09EL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DW85W3FV?tag=primeareviews-20",
-   "verdict": "A compact 9-in-1 with two HDMI ports from a familiar brand.",
-   "description": "The Acer dock is a 9-in-1 with dual monitor support over two HDMI ports, a compact form factor and broad laptop compatibility, at $25 to $50. A familiar brand and nine ports make it attractive on a basic desk, and its small body travels easily.\n\nIt ranks sixth because the listing gives no wattage and no 4K refresh rate, which the UGREEN and Anker docks do. You are buying the brand and the port count, not verified performance, and the two specs that decide usability are blank.\n\nIt works for a basic desk where you do not need a stated power figure. The caveat is the unknown charging wattage, so skip it if your laptop needs a confirmed number, and expect to confirm 30Hz or 60Hz yourself.",
-   "keySpecs": [
-    {"label": "Ports", "value": "9-in-1"},
-    {"label": "Displays", "value": "Dual, 2 HDMI"},
-    {"label": "Connection", "value": "USB-C"},
-    {"label": "Form", "value": "Compact"}
-   ],
-   "pros": ["Nine ports", "Two HDMI outputs", "Compact form factor", "Broad laptop compatibility"],
-   "cons": ["PD wattage not listed", "4K refresh not stated"],
-   "idealFor": "Buyers who want a recognizable brand dock at a near-budget price.",
-   "skipIf": "You need a confirmed charging wattage."
-  },
-  {
-   "id": "hp-usb-c-dock-g5-11-in-1",
-   "rank": 7,
-   "award": "Best for HP Office Setups",
-   "name": "HP USB-C Dock G5 11-in-1",
-   "score": 81,
-   "imageUrl": "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B08TQPTPCK?tag=primeareviews-20",
-   "verdict": "A business 11-in-1 dock with firmware update support.",
-   "description": "The HP USB-C Dock G5 is a business-oriented 11-in-1 with firmware update support, designed for office desks and compatible with USB-C laptops beyond HP, at $50 to $100. Firmware updates matter in managed environments, where fixing a flaky display chip is routine.\n\nIt ranks seventh because it lists no wattage or display spec, so it offers less measurable value than the Anker docks. Its edge is business-grade support. Against the Acer, it costs more but adds an update path.\n\nIt suits business laptop buyers who want HP's firmware support and a consistent fleet dock. The caveat is value per dollar, and a home user shopping on specs will find the UGREEN and Anker docks clearer. Skip it unless an office policy points you here.",
-   "keySpecs": [
-    {"label": "Ports", "value": "11-in-1"},
-    {"label": "Type", "value": "Business USB-C dock"},
-    {"label": "Updates", "value": "Firmware support"},
-    {"label": "Compatibility", "value": "Beyond HP laptops"}
-   ],
-   "pros": ["Firmware update support", "11 ports", "Works beyond HP laptops", "Built for office desks"],
-   "cons": ["No wattage listed", "Less value per dollar"],
-   "idealFor": "Business laptop buyers who want HP's reliability and firmware support.",
-   "skipIf": "You are a home user shopping on specs."
-  },
-  {
-   "id": "hp-usb-c-100w-g6-dock",
-   "rank": 8,
-   "award": "Best HP 100W Dock",
-   "name": "HP USB-C 100W G6 Dock",
-   "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/31hvjotuUPL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GGTQ2KDQ?tag=primeareviews-20",
-   "verdict": "HP's current-generation G6 dock with genuine 100W PD.",
-   "description": "The HP USB-C 100W G6 Dock is a business-tier dock with 100W PD, firmware update support and a design built for the HP business laptop ecosystem, at $100 to $200. It is the current generation, and the 100W figure is stated, which the G5 does not give.\n\nIt ranks last because the $100 to $200 price is high for a listing with no stated port count or display spec. It does list 100W, which the G5 does not, but the UGREEN offers the same wattage for far less.\n\nIt makes sense for an HP fleet that wants a vendor dock. The caveat is cost and missing detail, so other buyers will get more from the Anker or UGREEN docks. Skip it if you do not use HP laptops.",
-   "keySpecs": [
-    {"label": "Power", "value": "100W PD"},
-    {"label": "Generation", "value": "G6"},
-    {"label": "Tier", "value": "Business"},
-    {"label": "Updates", "value": "Firmware support"}
-   ],
-   "pros": ["100W PD stated", "Current-generation G6", "Firmware update support", "HP ecosystem design"],
-   "cons": ["High price tier", "Port count not listed"],
-   "idealFor": "Business buyers who want HP's own ecosystem dock with genuine 100W PD.",
-   "skipIf": "You do not use HP laptops."
-  }
- ],
- "methodology": [
-  {"title": "Display support", "description": "We compared how many monitors each dock drives and at what resolution."},
-  {"title": "Power delivery", "description": "We weighed the wattage passed through to the laptop."},
-  {"title": "Port selection", "description": "We reviewed port counts and extras such as Ethernet and card readers."},
-  {"title": "Data speed", "description": "We noted 10Gbps ports where listed."},
-  {"title": "Value", "description": "We compared each dock against its price bucket."}
- ],
- "whatMatters": [
-  {"factor": "Power delivery wattage", "detail": "Power delivery wattage is the charging power that passes through the dock to your laptop. The dock must meet your laptop's needs, and one below your charger's rating charges slowly or not at all under load. Compare the PD number in the listing against your original charger, and give yourself a small margin. A 65W dock on a 100W laptop will charge it only while idle."},
-  {"factor": "Display count and refresh", "detail": "Display count and refresh rate decide how smooth multi-monitor work feels. A dock can list dual monitor support yet drive them at 30Hz, which feels sluggish when scrolling. 4K at 60Hz is smooth. Look for the refresh rate in the specs, and be wary of listings that name only the display count. Two displays at 30Hz is a common hidden compromise."},
-  {"factor": "Ethernet", "detail": "Ethernet gives a wired connection that is steadier than Wi-Fi for calls and large file transfers. Not every dock includes it, and the UGREEN and Anker Nano 8-in-1 do not list it. Look for Gigabit Ethernet in the port list if your desk has a wall jack, because it saves a separate adapter and a cable. Wi-Fi drops are the usual cause of video call stutter."},
-  {"factor": "Data speed", "detail": "Data speed describes how fast the dock's ports move files. 10Gbps ports transfer from external SSDs far faster than older USB speeds, which matters for video and photo work. Check for a 10Gbps mention in the listing, and confirm which ports offer it, since a dock often mixes fast and slow ports. Put your SSD on the fast one."},
-  {"factor": "Port count", "detail": "Port count in the name covers everything, including the input to your laptop. Count what you need, such as HDMI, USB-A and card slots, and match that list to your peripherals instead of trusting the headline number. A 7-in-1 with the right ports beats a 14-port dock with the wrong ones."}
- ],
- "howToChoose": [
-  {"subheading": "By Number of Displays", "intro": "Your monitor count narrows the field fast.", "table": {"headers": ["Your setup", "Our pick"], "rows": [["Two 4K monitors at 60Hz", "UGREEN 7-in-1 Docking Station (Revodok Pro)"], ["Three displays", "Anker Nano 13-in-1 Laptop Docking Station"], ["Two monitors plus wired network", "Anker Laptop Docking Station 8-in-1"], ["Two monitors, brand preference", "Acer USB-C Docking Station 9-in-1"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["$25-50, dual 4K and 100W", "UGREEN 7-in-1 Docking Station (Revodok Pro)"], ["$25-50, card reader", "Anker Nano Laptop Docking Station 8-in-1"], ["$50-100", "Anker Laptop Docking Station 8-in-1"], ["$100-200", "Anker Prime Docking Station 14-Port"]]}},
-  {"subheading": "Compact Hub vs Full Dock", "cards": [{"label": "Compact hub", "text": "Fewer ports, lower cost and easier to carry. Picks: UGREEN Revodok Pro, Anker Nano 8-in-1 and Acer 9-in-1."}, {"label": "Full dock", "text": "More ports and power for fixed desks. Picks: Anker Prime 14-Port and Anker Nano 13-in-1."}], "note": "Most buyers should default to a compact hub like the UGREEN unless they run three screens or need 160W."},
-  {"subheading": "By Charging Need", "table": {"headers": ["Laptop power", "Our pick"], "rows": [["Needs up to 85W", "Anker Nano Laptop Docking Station 8-in-1"], ["Needs 100W", "UGREEN 7-in-1 Docking Station (Revodok Pro)"], ["Needs 100W in an HP fleet", "HP USB-C 100W G6 Dock"], ["Needs more than 100W", "Anker Prime Docking Station 14-Port"]]}},
-  {"subheading": "For Office Fleets Specifically", "cards": [{"label": "Look for", "text": "Firmware update support and broad USB-C compatibility so the dock works across laptop models."}, {"label": "In this ranking", "text": "The HP USB-C Dock G5 11-in-1 and HP USB-C 100W G6 Dock both list firmware update support."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You run three displays or a power-hungry laptop. The Anker Nano 13-in-1 and Anker Prime 14-Port cover those."}, {"label": "Save if", "text": "Two monitors and 100W are enough. The UGREEN Revodok Pro delivers both at $25-50."}]}
- ],
- "faq": [
-  {"q": "Will any USB-C dock work with my laptop?", "a": "Not always. Docks need a USB-C port that supports video output and power delivery, and some laptop ports carry data only, so a dock plugged into one will charge nothing and show nothing. Check your laptop's specs before buying any of these."},
-  {"q": "What is the most common mistake?", "a": "Buying on the in-one number. The UGREEN is a 7-in-1 yet outperforms bigger names, so check wattage and display refresh rate, which decide real usability far more than the port count."},
-  {"q": "Is the Anker Prime worth it over the UGREEN?", "a": "Only if you need up to 160W output or 14 ports. The UGREEN handles dual 4K and 100W for much less, so most buyers are better served by it. The Prime suits heavy workstations and large peripheral collections."},
-  {"q": "How do I set up dual monitors?", "a": "Connect the dock to your laptop's USB-C port, plug the monitors into the HDMI ports and the charger into the dock. Then arrange displays in system settings. The UGREEN and Anker Nano 8-in-1 list 4K at 60Hz."},
-  {"q": "Do docks need maintenance?", "a": "Keep the dock ventilated and update firmware where supported. HP lists firmware updates for the G5 and G6, which is useful in a managed office environment. Home users can skip the update chase."},
-  {"q": "Can I run three screens?", "a": "Only if your laptop supports it. The Anker Nano 13-in-1 offers two HDMI and one DisplayPort for three displays, but the laptop's graphics must drive them, and many models cannot. Look for a stated three-display or multi-stream capability."}
- ],
- "finalTake": "Buy the UGREEN Revodok Pro unless a specific port forces your hand. Take the Anker Nano 8-in-1 for card offloading and the Anker 8-in-1 for wired networking. The Nano 13-in-1 is for three screens, and the Prime for laptops that draw serious power. Choose the HP docks only for office fleets, and confirm your laptop supports video output over USB-C before you spend anything.",
- "related": []
+  "slug": "best-usb-c-docking-stations",
+  "category": "tech-accessories",
+  "h1": "The 8 Best USB-C Docking Stations of 2026, Ranked & Reviewed",
+  "metaTitle": "Best USB-C Docking Stations: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: the best USB-C docking stations for 2026, compared on display support, power delivery wattage and port count.",
+  "mainKeyword": "docking station usb c",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "11 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
+  "summary": "The UGREEN Revodok Pro 7-in-1 is the best USB-C docking station because it delivers dual 4K at 60Hz and 100W passthrough in the $25 to $50 tier. The Anker Nano 8-in-1 adds an SD and TF reader at 85W, the Anker 8-in-1 brings Gigabit Ethernet, and the Nano 13-in-1 drives three displays. The Anker Prime tops out at 160W, while the Acer, HP G5 and G6 docks suit niche needs.",
+  "intro": [
+    "The number in a dock's name is a port count, not a performance rating. An 8-in-1 can still leave a laptop on a slow trickle of power or drive two monitors at a stuttering 30Hz, and neither shows up in the title. Two specs decide whether a dock works at your desk: how many watts reach the laptop, and what refresh rate each display actually gets.",
+    "We reviewed eight docks against their listed ports, display support, power delivery and data speed, and scored them on the Primea framework. Wattage and verified 4K at 60Hz carried the most weight, then Ethernet and card readers. A dock is a cable's worth of trust, so we marked down anything vague. Listings that omit wattage or refresh rate lost points, because those omissions hide the facts that matter."
+  ],
+  "products": [
+    {
+      "id": "ugreen-7-in-1-docking-station-revodok-pro",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "UGREEN 7-in-1 Docking Station (Revodok Pro)",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D1XSKZRJ?tag=primeareviews-20",
+      "verdict": "Dual 4K at 60Hz and 100W passthrough at a $25-50 price.",
+      "description": "The Revodok Pro is a 7-in-1 hub with dual 4K at 60Hz HDMI outputs, 10Gbps data ports, 100W PD passthrough and an aluminum body, in the $25 to $50 tier. A metal shell matters in a dock because it spreads heat from the display chip, and cheap plastic docks throttle quietly when two screens run for hours.\n\nIt wins because it packs the specs that matter most, two sharp displays and strong power delivery, into the lowest price tier. Against the Anker docks, it gives up port count: there is no Ethernet or card slot in the spec list.\n\nIt suits a typical laptop desk with two monitors. The honest caveat is the port shortage, so skip it if you need wired networking or an SD slot without carrying a second adapter.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "7-in-1"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K at 60Hz HDMI"
+        },
+        {
+          "label": "Data",
+          "value": "10Gbps"
+        },
+        {
+          "label": "Power",
+          "value": "100W PD passthrough"
+        }
+      ],
+      "pros": [
+        "Dual 4K at 60Hz",
+        "100W PD passthrough",
+        "10Gbps data ports",
+        "Aluminum body"
+      ],
+      "cons": [
+        "Fewer ports than larger docks",
+        "No Ethernet listed"
+      ],
+      "idealFor": "Buyers who want dual 4K and real 100W PD at the lowest possible price.",
+      "skipIf": "You need Ethernet or an SD slot."
+    },
+    {
+      "id": "anker-nano-laptop-docking-station-8-in-1",
+      "rank": 2,
+      "award": "Best for Card Readers",
+      "name": "Anker Nano Laptop Docking Station 8-in-1",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/415StnCe4ML._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=primeareviews-20",
+      "verdict": "Dual 4K at 60Hz with an SD and TF card reader and 85W PD.",
+      "description": "The Anker Nano 8-in-1 offers dual 4K at 60Hz HDMI, a 10Gbps USB-C port plus two USB-A ports, 85W PD and an SD and TF card reader, in the $25 to $50 tier. The card reader is the differentiator: photographers and drone owners offload straight to the laptop without a dongle.\n\nIt sits just behind the UGREEN because 85W is lower than 100W, which can matter for a laptop that draws more under load, and the UGREEN has the sturdier build. The Anker adds the reader the UGREEN lacks at a similar price.\n\nIt works for anyone moving card contents regularly. Check that 85W covers your laptop's charger rating, because a dock below it charges slowly under load. It lists no Ethernet, so wired-network users should look at the next pick.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8-in-1"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K at 60Hz HDMI"
+        },
+        {
+          "label": "Power",
+          "value": "85W PD"
+        },
+        {
+          "label": "Card reader",
+          "value": "SD/TF"
+        }
+      ],
+      "pros": [
+        "SD and TF card reader",
+        "Dual 4K at 60Hz",
+        "10Gbps USB-C port",
+        "Two USB-A ports"
+      ],
+      "cons": [
+        "85W PD is below 100W",
+        "No Ethernet listed"
+      ],
+      "idealFor": "Buyers who want an SD/TF card reader without paying more than $30.",
+      "skipIf": "Your laptop needs more than 85W."
+    },
+    {
+      "id": "anker-laptop-docking-station-8-in-1",
+      "rank": 3,
+      "award": "Best for Ethernet",
+      "name": "Anker Laptop Docking Station 8-in-1",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=primeareviews-20",
+      "verdict": "Gigabit Ethernet, two HDMI ports and an SD slot in an 8-in-1.",
+      "description": "The Anker 8-in-1 lists dual 4K monitor support over two HDMI ports, Gigabit Ethernet, 85W PD passthrough and an SD card slot, in the $50 to $100 tier. Gigabit Ethernet gives a steadier connection than Wi-Fi for video calls and large transfers, which is why offices still wire desks.\n\nIt ranks third because it asks for more than the Nano yet gives the same 85W. What you gain is wired Ethernet, which the Nano and UGREEN lack. Against the UGREEN, you pay for ports and lose 15W of charging headroom.\n\nIt suits a desk that needs a stable wired connection. The listing does not state the refresh rate of the dual displays, which is a real gap; confirm it before assuming 60Hz on both. Skip it if you want the cheapest dock.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8-in-1"
+        },
+        {
+          "label": "Network",
+          "value": "Gigabit Ethernet"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K, 2 HDMI"
+        },
+        {
+          "label": "Power",
+          "value": "85W PD"
+        }
+      ],
+      "pros": [
+        "Gigabit Ethernet port",
+        "Two HDMI outputs",
+        "SD card slot",
+        "85W PD passthrough"
+      ],
+      "cons": [
+        "Costs more than the Nano",
+        "Refresh rate not listed"
+      ],
+      "idealFor": "Buyers who want Ethernet and an SD slot without a big price jump.",
+      "skipIf": "You want the cheapest option."
+    },
+    {
+      "id": "anker-nano-13-in-1-laptop-docking-station",
+      "rank": 4,
+      "award": "Best for Three Displays",
+      "name": "Anker Nano 13-in-1 Laptop Docking Station",
+      "score": 87,
+      "imageUrl": "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FCLC1RMM?tag=primeareviews-20",
+      "verdict": "Three displays via 2 HDMI and 1 DisplayPort, with a detachable hub.",
+      "description": "The Nano 13-in-1 supports three displays at once through two HDMI ports and one DisplayPort, with 10Gbps USB-C, up to 100W PD and a detachable 6-in-1 hub in a compact modular design, at $100 to $200. The detachable hub lets you carry a slim part for travel and leave the rest on the desk.\n\nIt ranks fourth because it costs more than the 8-in-1 docks, but it is the pick when two monitors are not enough. It stops short of the 14-port Prime's 160W.\n\nChoose it for a triple-screen desk. The caveat is your laptop: three displays need a laptop that supports them, and many do not, so check before paying. Skip it if you only use one or two monitors, where the UGREEN costs far less.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "13-in-1"
+        },
+        {
+          "label": "Displays",
+          "value": "3 (2 HDMI + 1 DisplayPort)"
+        },
+        {
+          "label": "Power",
+          "value": "100W max PD"
+        },
+        {
+          "label": "Design",
+          "value": "Detachable 6-in-1 hub"
+        }
+      ],
+      "pros": [
+        "Three displays at once",
+        "Detachable 6-in-1 hub",
+        "100W max PD",
+        "Compact modular design"
+      ],
+      "cons": [
+        "Pricier than 8-in-1 docks",
+        "Laptop must support three displays"
+      ],
+      "idealFor": "Buyers who want 3-display support without a full 14-port dock.",
+      "skipIf": "You only use one or two monitors."
+    },
+    {
+      "id": "anker-prime-docking-station-14-port",
+      "rank": 5,
+      "award": "Best for Power and Ports",
+      "name": "Anker Prime Docking Station 14-Port",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=primeareviews-20",
+      "verdict": "14 ports and up to 160W of output with independent PD circuitry.",
+      "description": "The Anker Prime has 14 ports in total, up to 160W maximum output, dual 4K display support, 10Gbps data throughput and independent PD circuitry. Independent power circuitry means charging does not compete with the data and display chips, which keeps behavior steady when a hungry laptop pulls hard.\n\nIt ranks fifth because the specs outclass the cheaper docks but the $100 to $200 price is steep for a single-laptop desk. It offers more power headroom than any other pick here, ahead of the Nano 13-in-1's 100W.\n\nIt suits power-hungry laptops and desks with many peripherals. The caveat is overkill: most buyers will not use 14 ports, so skip it if you only need basic connections, because the UGREEN does the job for a fraction of the cost.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "14 total"
+        },
+        {
+          "label": "Power",
+          "value": "Up to 160W output"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K"
+        },
+        {
+          "label": "Data",
+          "value": "10Gbps"
+        }
+      ],
+      "pros": [
+        "14 ports in one dock",
+        "Up to 160W output",
+        "Independent PD circuitry",
+        "10Gbps throughput"
+      ],
+      "cons": [
+        "Highest price tier here",
+        "More ports than most need"
+      ],
+      "idealFor": "Buyers who need the highest PD wattage and the most ports in one dock.",
+      "skipIf": "You only need basic connections."
+    },
+    {
+      "id": "acer-usb-c-docking-station-9-in-1",
+      "rank": 6,
+      "award": "Best Known-Brand Budget Dock",
+      "name": "Acer USB-C Docking Station 9-in-1",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Zt6JO09EL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DW85W3FV?tag=primeareviews-20",
+      "verdict": "A compact 9-in-1 with two HDMI ports from a familiar brand.",
+      "description": "The Acer dock is a 9-in-1 with dual monitor support over two HDMI ports, a compact form factor and broad laptop compatibility, at $25 to $50. A familiar brand and nine ports make it attractive on a basic desk, and its small body travels easily.\n\nIt ranks sixth because the listing gives no wattage and no 4K refresh rate, which the UGREEN and Anker docks do. You are buying the brand and the port count, not verified performance, and the two specs that decide usability are blank.\n\nIt works for a basic desk where you do not need a stated power figure. The caveat is the unknown charging wattage, so skip it if your laptop needs a confirmed number, and expect to confirm 30Hz or 60Hz yourself.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "9-in-1"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual, 2 HDMI"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Form",
+          "value": "Compact"
+        }
+      ],
+      "pros": [
+        "Nine ports",
+        "Two HDMI outputs",
+        "Compact form factor",
+        "Broad laptop compatibility"
+      ],
+      "cons": [
+        "PD wattage not listed",
+        "4K refresh not stated"
+      ],
+      "idealFor": "Buyers who want a recognizable brand dock at a near-budget price.",
+      "skipIf": "You need a confirmed charging wattage."
+    },
+    {
+      "id": "hp-usb-c-dock-g5-11-in-1",
+      "rank": 7,
+      "award": "Best for HP Office Setups",
+      "name": "HP USB-C Dock G5 11-in-1",
+      "score": 81,
+      "imageUrl": "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08TQPTPCK?tag=primeareviews-20",
+      "verdict": "A business 11-in-1 dock with firmware update support.",
+      "description": "The HP USB-C Dock G5 is a business-oriented 11-in-1 with firmware update support, designed for office desks and compatible with USB-C laptops beyond HP, at $50 to $100. Firmware updates matter in managed environments, where fixing a flaky display chip is routine.\n\nIt ranks seventh because it lists no wattage or display spec, so it offers less measurable value than the Anker docks. Its edge is business-grade support. Against the Acer, it costs more but adds an update path.\n\nIt suits business laptop buyers who want HP's firmware support and a consistent fleet dock. The caveat is value per dollar, and a home user shopping on specs will find the UGREEN and Anker docks clearer. Skip it unless an office policy points you here.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "11-in-1"
+        },
+        {
+          "label": "Type",
+          "value": "Business USB-C dock"
+        },
+        {
+          "label": "Updates",
+          "value": "Firmware support"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Beyond HP laptops"
+        }
+      ],
+      "pros": [
+        "Firmware update support",
+        "11 ports",
+        "Works beyond HP laptops",
+        "Built for office desks"
+      ],
+      "cons": [
+        "No wattage listed",
+        "Less value per dollar"
+      ],
+      "idealFor": "Business laptop buyers who want HP's reliability and firmware support.",
+      "skipIf": "You are a home user shopping on specs."
+    },
+    {
+      "id": "hp-usb-c-100w-g6-dock",
+      "rank": 8,
+      "award": "Best HP 100W Dock",
+      "name": "HP USB-C 100W G6 Dock",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/31hvjotuUPL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GGTQ2KDQ?tag=primeareviews-20",
+      "verdict": "HP's current-generation G6 dock with genuine 100W PD.",
+      "description": "The HP USB-C 100W G6 Dock is a business-tier dock with 100W PD, firmware update support and a design built for the HP business laptop ecosystem, at $100 to $200. It is the current generation, and the 100W figure is stated, which the G5 does not give.\n\nIt ranks last because the $100 to $200 price is high for a listing with no stated port count or display spec. It does list 100W, which the G5 does not, but the UGREEN offers the same wattage for far less.\n\nIt makes sense for an HP fleet that wants a vendor dock. The caveat is cost and missing detail, so other buyers will get more from the Anker or UGREEN docks. Skip it if you do not use HP laptops.",
+      "keySpecs": [
+        {
+          "label": "Power",
+          "value": "100W PD"
+        },
+        {
+          "label": "Generation",
+          "value": "G6"
+        },
+        {
+          "label": "Tier",
+          "value": "Business"
+        },
+        {
+          "label": "Updates",
+          "value": "Firmware support"
+        }
+      ],
+      "pros": [
+        "100W PD stated",
+        "Current-generation G6",
+        "Firmware update support",
+        "HP ecosystem design"
+      ],
+      "cons": [
+        "High price tier",
+        "Port count not listed"
+      ],
+      "idealFor": "Business buyers who want HP's own ecosystem dock with genuine 100W PD.",
+      "skipIf": "You do not use HP laptops."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Display support",
+      "description": "We compared how many monitors each dock drives and at what resolution."
+    },
+    {
+      "title": "Power delivery",
+      "description": "We weighed the wattage passed through to the laptop."
+    },
+    {
+      "title": "Port selection",
+      "description": "We reviewed port counts and extras such as Ethernet and card readers."
+    },
+    {
+      "title": "Data speed",
+      "description": "We noted 10Gbps ports where listed."
+    },
+    {
+      "title": "Value",
+      "description": "We compared each dock against its price bucket."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Power delivery wattage",
+      "detail": "Power delivery wattage is the charging power that passes through the dock to your laptop. The dock must meet your laptop's needs, and one below your charger's rating charges slowly or not at all under load. Compare the PD number in the listing against your original charger, and give yourself a small margin. A 65W dock on a 100W laptop will charge it only while idle."
+    },
+    {
+      "factor": "Display count and refresh",
+      "detail": "Display count and refresh rate decide how smooth multi-monitor work feels. A dock can list dual monitor support yet drive them at 30Hz, which feels sluggish when scrolling. 4K at 60Hz is smooth. Look for the refresh rate in the specs, and be wary of listings that name only the display count. Two displays at 30Hz is a common hidden compromise."
+    },
+    {
+      "factor": "Ethernet",
+      "detail": "Ethernet gives a wired connection that is steadier than Wi-Fi for calls and large file transfers. Not every dock includes it, and the UGREEN and Anker Nano 8-in-1 do not list it. Look for Gigabit Ethernet in the port list if your desk has a wall jack, because it saves a separate adapter and a cable. Wi-Fi drops are the usual cause of video call stutter."
+    },
+    {
+      "factor": "Data speed",
+      "detail": "Data speed describes how fast the dock's ports move files. 10Gbps ports transfer from external SSDs far faster than older USB speeds, which matters for video and photo work. Check for a 10Gbps mention in the listing, and confirm which ports offer it, since a dock often mixes fast and slow ports. Put your SSD on the fast one."
+    },
+    {
+      "factor": "Port count",
+      "detail": "Port count in the name covers everything, including the input to your laptop. Count what you need, such as HDMI, USB-A and card slots, and match that list to your peripherals instead of trusting the headline number. A 7-in-1 with the right ports beats a 14-port dock with the wrong ones."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Number of Displays",
+      "intro": "Your monitor count narrows the field fast.",
+      "table": {
+        "headers": [
+          "Your setup",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Two 4K monitors at 60Hz",
+            "UGREEN 7-in-1 Docking Station (Revodok Pro)"
+          ],
+          [
+            "Three displays",
+            "Anker Nano 13-in-1 Laptop Docking Station"
+          ],
+          [
+            "Two monitors plus wired network",
+            "Anker Laptop Docking Station 8-in-1"
+          ],
+          [
+            "Two monitors, brand preference",
+            "Acer USB-C Docking Station 9-in-1"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$25-50, dual 4K and 100W",
+            "UGREEN 7-in-1 Docking Station (Revodok Pro)"
+          ],
+          [
+            "$25-50, card reader",
+            "Anker Nano Laptop Docking Station 8-in-1"
+          ],
+          [
+            "$50-100",
+            "Anker Laptop Docking Station 8-in-1"
+          ],
+          [
+            "$100-200",
+            "Anker Prime Docking Station 14-Port"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Compact Hub vs Full Dock",
+      "cards": [
+        {
+          "label": "Compact hub",
+          "text": "Fewer ports, lower cost and easier to carry. Picks: UGREEN Revodok Pro, Anker Nano 8-in-1 and Acer 9-in-1."
+        },
+        {
+          "label": "Full dock",
+          "text": "More ports and power for fixed desks. Picks: Anker Prime 14-Port and Anker Nano 13-in-1."
+        }
+      ],
+      "note": "Most buyers should default to a compact hub like the UGREEN unless they run three screens or need 160W."
+    },
+    {
+      "subheading": "By Charging Need",
+      "table": {
+        "headers": [
+          "Laptop power",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Needs up to 85W",
+            "Anker Nano Laptop Docking Station 8-in-1"
+          ],
+          [
+            "Needs 100W",
+            "UGREEN 7-in-1 Docking Station (Revodok Pro)"
+          ],
+          [
+            "Needs 100W in an HP fleet",
+            "HP USB-C 100W G6 Dock"
+          ],
+          [
+            "Needs more than 100W",
+            "Anker Prime Docking Station 14-Port"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Office Fleets Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Firmware update support and broad USB-C compatibility so the dock works across laptop models."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The HP USB-C Dock G5 11-in-1 and HP USB-C 100W G6 Dock both list firmware update support."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You run three displays or a power-hungry laptop. The Anker Nano 13-in-1 and Anker Prime 14-Port cover those."
+        },
+        {
+          "label": "Save if",
+          "text": "Two monitors and 100W are enough. The UGREEN Revodok Pro delivers both at $25-50."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will any USB-C dock work with my laptop?",
+      "a": "Not always. Docks need a USB-C port that supports video output and power delivery, and some laptop ports carry data only, so a dock plugged into one will charge nothing and show nothing. Check your laptop's specs before buying any of these."
+    },
+    {
+      "q": "What is the most common mistake?",
+      "a": "Buying on the in-one number. The UGREEN is a 7-in-1 yet outperforms bigger names, so check wattage and display refresh rate, which decide real usability far more than the port count."
+    },
+    {
+      "q": "Is the Anker Prime worth it over the UGREEN?",
+      "a": "Only if you need up to 160W output or 14 ports. The UGREEN handles dual 4K and 100W for much less, so most buyers are better served by it. The Prime suits heavy workstations and large peripheral collections."
+    },
+    {
+      "q": "How do I set up dual monitors?",
+      "a": "Connect the dock to your laptop's USB-C port, plug the monitors into the HDMI ports and the charger into the dock. Then arrange displays in system settings. The UGREEN and Anker Nano 8-in-1 list 4K at 60Hz."
+    },
+    {
+      "q": "Do docks need maintenance?",
+      "a": "Keep the dock ventilated and update firmware where supported. HP lists firmware updates for the G5 and G6, which is useful in a managed office environment. Home users can skip the update chase."
+    },
+    {
+      "q": "Can I run three screens?",
+      "a": "Only if your laptop supports it. The Anker Nano 13-in-1 offers two HDMI and one DisplayPort for three displays, but the laptop's graphics must drive them, and many models cannot. Look for a stated three-display or multi-stream capability."
+    }
+  ],
+  "finalTake": "Buy the UGREEN Revodok Pro unless a specific port forces your hand. Take the Anker Nano 8-in-1 for card offloading and the Anker 8-in-1 for wired networking. The Nano 13-in-1 is for three screens, and the Prime for laptops that draw serious power. Choose the HP docks only for office fleets, and confirm your laptop supports video output over USB-C before you spend anything.",
+  "related": [
+    "best-budget-docking-stations-under-100",
+    "best-docking-stations-for-4k-120hz-monitors",
+    "best-docking-stations-for-chromebooks"
+  ]
 }

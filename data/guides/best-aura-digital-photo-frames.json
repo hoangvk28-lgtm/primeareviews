@@ -10,7 +10,10 @@
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
   "summary": "The Aura Aspen is the best Aura frame for most families, because it handles portrait and landscape photos and needs no subscription. The Carver Mat is the polished gift, the Walden 15 inch suits a big room, and the plain Carver is the value pick. The Limited Edition is for buyers who want a different finish.",
-  "intro": ["Aura frames look alike, so shoppers assume the choice is cosmetic. It is not. The real split is how each frame handles photo orientation, how large the screen is and whether you pay for a mat effect, and those factors decide whether photos look intentional on a shelf or just fill space. A frame that crops portraits turns half of a phone library into awkward slices.","We reviewed five current Aura frames and ranked them on how they present mixed photos, how large the screen is, how polished they feel as gifts, and what each costs against the others. These rankings come from product listings and published specifications, not from claimed home trials. Because the listings are brief, each description leans on what the maker states."],
+  "intro": [
+    "Aura frames look alike, so shoppers assume the choice is cosmetic. It is not. The real split is how each frame handles photo orientation, how large the screen is and whether you pay for a mat effect, and those factors decide whether photos look intentional on a shelf or just fill space. A frame that crops portraits turns half of a phone library into awkward slices.",
+    "We reviewed five current Aura frames and ranked them on how they present mixed photos, how large the screen is, how polished they feel as gifts, and what each costs against the others. These rankings come from product listings and published specifications, not from claimed home trials. Because the listings are brief, each description leans on what the maker states."
+  ],
   "products": [
     {
       "id": "aura-aspen",
@@ -23,13 +26,33 @@
       "verdict": "The most flexible Aura for families whose photos come in every orientation.",
       "description": "The Aura Aspen is an HD digital frame marketed for both portrait and landscape orientation, with no subscription required and easy photo sharing. Orientation handling is the first thing to settle: a frame that shows vertical photos at full size makes a phone-heavy library look right, while one that letterboxes them wastes the screen.\n\nIt ranks first because it is the most flexible frame for photos of every shape. The Carver costs the same but lacks a stated orientation claim, and the Walden is far larger but costs more.\n\nBuy it for a household with a mix of vertical and horizontal photos. The caveat is screen size: it is not the biggest Aura, and it sits at the same price as the Carver, so skip it if you want the largest display available.",
       "keySpecs": [
-        { "label": "Display", "value": "HD" },
-        { "label": "Orientation", "value": "Portrait or landscape" },
-        { "label": "Subscription", "value": "None required" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Display",
+          "value": "HD"
+        },
+        {
+          "label": "Orientation",
+          "value": "Portrait or landscape"
+        },
+        {
+          "label": "Subscription",
+          "value": "None required"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Handles both orientations", "No monthly fee", "HD display", "Easy photo sharing"],
-      "cons": ["Same cost as Carver", "Not the largest screen"],
+      "pros": [
+        "Handles both orientations",
+        "No monthly fee",
+        "HD display",
+        "Easy photo sharing"
+      ],
+      "cons": [
+        "Same cost as Carver",
+        "Not the largest screen"
+      ],
       "idealFor": "Households with a mix of vertical and horizontal photos.",
       "skipIf": "You want the biggest Aura screen available."
     },
@@ -44,13 +67,33 @@
       "verdict": "The most polished presentation, with a matted look that suits a gift.",
       "description": "The Aura Carver Mat is an HD frame with a matted photo look, unlimited cloud storage, no subscription and a refined gift setup. A mat gives the screen a printed-photo feel, which flatters some pictures and crops others slightly, and it helps a gift feel finished out of the box.\n\nIt ranks second because the mat is mostly cosmetic and it costs more than the plain Carver. Functionally the two share the same display and storage.\n\nBuy it for a traditional framed-photo feel, especially as a gift. Skip it if you care more about screen size than styling. Check how the mat treats your photos in the listing images before you pay for the look.",
       "keySpecs": [
-        { "label": "Display", "value": "HD with mat look" },
-        { "label": "Cloud storage", "value": "Unlimited" },
-        { "label": "Subscription", "value": "None required" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Display",
+          "value": "HD with mat look"
+        },
+        {
+          "label": "Cloud storage",
+          "value": "Unlimited"
+        },
+        {
+          "label": "Subscription",
+          "value": "None required"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Matted photo styling", "Unlimited cloud storage", "No monthly fee", "Gift-ready design"],
-      "cons": ["Mat is mostly cosmetic", "Pricier than plain Carver"],
+      "pros": [
+        "Matted photo styling",
+        "Unlimited cloud storage",
+        "No monthly fee",
+        "Gift-ready design"
+      ],
+      "cons": [
+        "Mat is mostly cosmetic",
+        "Pricier than plain Carver"
+      ],
       "idealFor": "Gift buyers who want a traditional framed-photo feel.",
       "skipIf": "You care more about screen size than styling."
     },
@@ -65,13 +108,33 @@
       "verdict": "Aura's largest current screen, with setup handled through the Aura app.",
       "description": "The Aura Walden is a 15 inch Wi-Fi frame in White Clay with setup through the Aura app and no subscription required. At 15 inches it reads from across a room, which a desk-sized frame cannot, so it works as a wall or console piece.\n\nIt ranks third because it is the most expensive frame here and bulky on a small shelf. In return it is the largest Aura screen.\n\nBuy it for a living room where the frame has to be seen from a distance. Skip it if the frame will sit on a desk or nightstand. Measure the space first, because the Walden is much bigger than the HD models.",
       "keySpecs": [
-        { "label": "Display", "value": "15 inch" },
-        { "label": "Finish", "value": "White Clay" },
-        { "label": "Setup", "value": "Aura app" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Display",
+          "value": "15 inch"
+        },
+        {
+          "label": "Finish",
+          "value": "White Clay"
+        },
+        {
+          "label": "Setup",
+          "value": "Aura app"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["Largest Aura screen", "Quick app setup", "No monthly fee", "Suits large rooms"],
-      "cons": ["Highest cost here", "Bulky on small shelves"],
+      "pros": [
+        "Largest Aura screen",
+        "Quick app setup",
+        "No monthly fee",
+        "Suits large rooms"
+      ],
+      "cons": [
+        "Highest cost here",
+        "Bulky on small shelves"
+      ],
       "idealFor": "Living rooms where the frame has to be seen from a distance.",
       "skipIf": "The frame will sit on a desk or nightstand."
     },
@@ -86,13 +149,33 @@
       "verdict": "The core Aura experience without paying for the mat styling.",
       "description": "The Aura Carver is the standard HD frame with unlimited cloud storage, no subscription and a simple design. It is the core Aura experience without the mat styling, which makes it the plain value pick for a first frame or a second one in another room.\n\nIt ranks fourth because it has no standout feature next to the others. The Aspen adds orientation flexibility at the same price, and the Mat adds style.\n\nBuy it if you want Aura's value without styling extras, and you are happy with a plain look. Skip it if you want a mat look or a bigger display. For a first frame, the extras are optional, and the Carver does the job.",
       "keySpecs": [
-        { "label": "Display", "value": "HD" },
-        { "label": "Design", "value": "Standard Carver" },
-        { "label": "Cloud storage", "value": "Unlimited" },
-        { "label": "Subscription", "value": "None required" }
+        {
+          "label": "Display",
+          "value": "HD"
+        },
+        {
+          "label": "Design",
+          "value": "Standard Carver"
+        },
+        {
+          "label": "Cloud storage",
+          "value": "Unlimited"
+        },
+        {
+          "label": "Subscription",
+          "value": "None required"
+        }
       ],
-      "pros": ["Core Aura experience", "Unlimited cloud storage", "No monthly fee", "Simple design"],
-      "cons": ["No standout feature", "Plain compared with Mat"],
+      "pros": [
+        "Core Aura experience",
+        "Unlimited cloud storage",
+        "No monthly fee",
+        "Simple design"
+      ],
+      "cons": [
+        "No standout feature",
+        "Plain compared with Mat"
+      ],
       "idealFor": "Buyers who want Aura's value without styling extras.",
       "skipIf": "You want a mat look or a bigger display."
     },
@@ -107,101 +190,239 @@
       "verdict": "A one-off Aura finish for buyers who want a frame that looks different.",
       "description": "The Aura Limited Edition is an HD frame with a distinctive finish, no subscription required and good gift appeal. A different finish helps the frame stand out among the standard designs, which suits a gift for someone who already has a plain frame. It is the same HD display underneath, so the premium buys looks, not performance.\n\nIt ranks last because availability is limited and it offers few functional extras. It matches the Carver on the display.\n\nBuy it if you want a less common Aura look. Skip it if you want the broadest availability and support. Because limited designs can sell out, a replacement may be hard to find, and the price is the same as the more common Carver. Check availability before you commit.",
       "keySpecs": [
-        { "label": "Display", "value": "HD" },
-        { "label": "Design", "value": "Limited Edition finish" },
-        { "label": "Subscription", "value": "None required" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Display",
+          "value": "HD"
+        },
+        {
+          "label": "Design",
+          "value": "Limited Edition finish"
+        },
+        {
+          "label": "Subscription",
+          "value": "None required"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Distinctive finish", "HD display", "No monthly fee", "Good gift appeal"],
-      "cons": ["Limited availability", "Few functional extras"],
+      "pros": [
+        "Distinctive finish",
+        "HD display",
+        "No monthly fee",
+        "Good gift appeal"
+      ],
+      "cons": [
+        "Limited availability",
+        "Few functional extras"
+      ],
       "idealFor": "Style-minded buyers who want a less common Aura look.",
       "skipIf": "You want the broadest availability and support."
     }
   ],
   "methodology": [
-    { "title": "Orientation handling", "description": "We looked at how well each frame is built to display both vertical and horizontal photos." },
-    { "title": "Screen size", "description": "Display diagonal was compared, from the standard HD frames to the 15 inch Walden." },
-    { "title": "Ownership cost", "description": "We checked whether a subscription is needed and what cloud storage is included over time." },
-    { "title": "Gift appeal", "description": "Finish, mat styling and ease of setup were weighed for how well a frame works as a present." },
-    { "title": "Value in the line", "description": "Each Aura model was measured against its price bucket and what the extra money buys." }
+    {
+      "title": "Orientation handling",
+      "description": "We looked at how well each frame is built to display both vertical and horizontal photos."
+    },
+    {
+      "title": "Screen size",
+      "description": "Display diagonal was compared, from the standard HD frames to the 15 inch Walden."
+    },
+    {
+      "title": "Ownership cost",
+      "description": "We checked whether a subscription is needed and what cloud storage is included over time."
+    },
+    {
+      "title": "Gift appeal",
+      "description": "Finish, mat styling and ease of setup were weighed for how well a frame works as a present."
+    },
+    {
+      "title": "Value in the line",
+      "description": "Each Aura model was measured against its price bucket and what the extra money buys."
+    }
   ],
   "whatMatters": [
-    { "factor": "Orientation support", "detail": "A frame that crops or letterboxes vertical photos wastes much of your phone library. The Aspen is marketed for both portrait and landscape. Look for an orientation claim in the listing title or bullets and think about which shape most of your photos take, since most phone pictures are vertical. A frame that handles both avoids awkward black bars." },
-    { "factor": "Screen size", "detail": "Size decides where a frame can sit. Smaller HD frames suit a desk or bookshelf, while the 15 inch Walden is large enough for a wall or console. Check the stated diagonal in the title and compare it with the space you have, and consider how far away people will stand when they look at it." },
-    { "factor": "Subscription cost", "detail": "Some frames lock features or storage behind monthly plans. Aura lists no subscription requirement, so the price you pay is the price you keep. Confirm this in the product bullets, and read whether storage is unlimited, as on the Carver models, since limits would force you to delete older photos." },
-    { "factor": "Design and mat", "detail": "A mat gives a printed-photo look that flatters some pictures and crops others slightly. It is a style choice, not a capability. Check photos of the finish in your room color before paying more for it. The Carver Mat shows the effect, while the plain Carver and Limited Edition skip it." },
-    { "factor": "App setup", "detail": "A frame is only as easy as its app. The Walden lists quick setup through the Aura app, and the family shares the same ecosystem. Read the setup line on the listing and make sure the app suits the people who will send photos, including relatives who are not comfortable with new technology, who need a simple flow." }
+    {
+      "factor": "Orientation support",
+      "detail": "A frame that crops or letterboxes vertical photos wastes much of your phone library. The Aspen is marketed for both portrait and landscape. Look for an orientation claim in the listing title or bullets and think about which shape most of your photos take, since most phone pictures are vertical. A frame that handles both avoids awkward black bars."
+    },
+    {
+      "factor": "Screen size",
+      "detail": "Size decides where a frame can sit. Smaller HD frames suit a desk or bookshelf, while the 15 inch Walden is large enough for a wall or console. Check the stated diagonal in the title and compare it with the space you have, and consider how far away people will stand when they look at it."
+    },
+    {
+      "factor": "Subscription cost",
+      "detail": "Some frames lock features or storage behind monthly plans. Aura lists no subscription requirement, so the price you pay is the price you keep. Confirm this in the product bullets, and read whether storage is unlimited, as on the Carver models, since limits would force you to delete older photos."
+    },
+    {
+      "factor": "Design and mat",
+      "detail": "A mat gives a printed-photo look that flatters some pictures and crops others slightly. It is a style choice, not a capability. Check photos of the finish in your room color before paying more for it. The Carver Mat shows the effect, while the plain Carver and Limited Edition skip it."
+    },
+    {
+      "factor": "App setup",
+      "detail": "A frame is only as easy as its app. The Walden lists quick setup through the Aura app, and the family shares the same ecosystem. Read the setup line on the listing and make sure the app suits the people who will send photos, including relatives who are not comfortable with new technology, who need a simple flow."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Photo Mix",
       "intro": "The shape of your photos should drive the choice.",
       "table": {
-        "headers": ["Your library", "Our pick"],
+        "headers": [
+          "Your library",
+          "Our pick"
+        ],
         "rows": [
-          ["Mixed vertical and horizontal", "Aura Aspen"],
-          ["Mostly horizontal, formal gifts", "Aura Carver Mat"],
-          ["Large prints viewed from a distance", "Aura Walden 15\""],
-          ["Everyday family snapshots", "Aura Carver"],
-          ["Style-led, unusual finish", "Aura Limited Edition"]
+          [
+            "Mixed vertical and horizontal",
+            "Aura Aspen"
+          ],
+          [
+            "Mostly horizontal, formal gifts",
+            "Aura Carver Mat"
+          ],
+          [
+            "Large prints viewed from a distance",
+            "Aura Walden 15\""
+          ],
+          [
+            "Everyday family snapshots",
+            "Aura Carver"
+          ],
+          [
+            "Style-led, unusual finish",
+            "Aura Limited Edition"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200, best flexibility", "Aura Aspen"],
-          ["$100 to $200, plain and sensible", "Aura Carver"],
-          ["$100 to $200, gift presentation", "Aura Carver Mat"],
-          ["$200 to $500", "Aura Walden 15\""]
+          [
+            "$100 to $200, best flexibility",
+            "Aura Aspen"
+          ],
+          [
+            "$100 to $200, plain and sensible",
+            "Aura Carver"
+          ],
+          [
+            "$100 to $200, gift presentation",
+            "Aura Carver Mat"
+          ],
+          [
+            "$200 to $500",
+            "Aura Walden 15\""
+          ]
         ]
       }
     },
     {
       "subheading": "Large Screen vs Standard HD",
       "cards": [
-        { "label": "Large screen", "text": "The Walden at 15 inches fills a room and makes photos easy to see from a sofa, at a much higher price." },
-        { "label": "Standard HD", "text": "The Aspen, Carver, Carver Mat and Limited Edition suit shelves and desks at roughly the same price as each other." }
+        {
+          "label": "Large screen",
+          "text": "The Walden at 15 inches fills a room and makes photos easy to see from a sofa, at a much higher price."
+        },
+        {
+          "label": "Standard HD",
+          "text": "The Aspen, Carver, Carver Mat and Limited Edition suit shelves and desks at roughly the same price as each other."
+        }
       ],
       "note": "Most buyers should default to a standard HD frame, the Aspen, unless the room really needs a big display."
     },
     {
       "subheading": "By Occasion",
       "table": {
-        "headers": ["Occasion", "Our pick"],
+        "headers": [
+          "Occasion",
+          "Our pick"
+        ],
         "rows": [
-          ["Gift for grandparents", "Aura Carver Mat"],
-          ["Wedding or anniversary present", "Aura Limited Edition"],
-          ["Family room centerpiece", "Aura Walden 15\""],
-          ["Bedroom or office frame", "Aura Carver"]
+          [
+            "Gift for grandparents",
+            "Aura Carver Mat"
+          ],
+          [
+            "Wedding or anniversary present",
+            "Aura Limited Edition"
+          ],
+          [
+            "Family room centerpiece",
+            "Aura Walden 15\""
+          ],
+          [
+            "Bedroom or office frame",
+            "Aura Carver"
+          ]
         ]
       }
     },
     {
       "subheading": "For Remote Family Sharing Specifically",
       "cards": [
-        { "label": "Look for", "text": "An app-driven frame where relatives can send photos without a subscription fee blocking them." },
-        { "label": "In this ranking", "text": "All five Aura frames list no required subscription, and the Walden highlights quick setup through the Aura app, so any of them suits a sending-from-afar family." }
+        {
+          "label": "Look for",
+          "text": "An app-driven frame where relatives can send photos without a subscription fee blocking them."
+        },
+        {
+          "label": "In this ranking",
+          "text": "All five Aura frames list no required subscription, and the Walden highlights quick setup through the Aura app, so any of them suits a sending-from-afar family."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want the biggest Aura screen in the Walden, or the mat styling of the Carver Mat for gifting." },
-        { "label": "Save if", "text": "A shelf-size frame is plenty. The Aura Carver gives the same platform at the lower end of the line." }
+        {
+          "label": "Spend more if",
+          "text": "You want the biggest Aura screen in the Walden, or the mat styling of the Carver Mat for gifting."
+        },
+        {
+          "label": "Save if",
+          "text": "A shelf-size frame is plenty. The Aura Carver gives the same platform at the lower end of the line."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Do Aura frames need a monthly subscription?", "a": "The listings for all five frames here state that no subscription is required. Check the listing before buying in case terms change, and confirm the storage is unlimited on your model. The Aspen, Carver and Walden all list no subscription requirement in their bullets." },
-    { "q": "Which Aura frame is best for vertical photos?", "a": "The Aspen is marketed for both portrait and landscape display, which makes it the safest choice for a phone-heavy library. The other frames do not state an orientation claim in their titles, so check photos before you rely on them." },
-    { "q": "Is the Carver Mat worth the extra over the Carver?", "a": "Only if you want the matted look, often for a gift. The core display and cloud storage are the same, so function does not change. The plain Carver is the value choice, and the Mat can wait until you need a gift." },
-    { "q": "How does setup work?", "a": "Setup runs through the Aura app. The Walden listing highlights quick setup, and the rest share the same ecosystem. You add photos from your phone, and relatives can send more through the shared app." },
-    { "q": "Does the Walden fit on a shelf?", "a": "A 15 inch frame needs a wide shelf or wall mount. Measure first, because the screen is much larger than the HD models. Consider a console table or a wall mount instead of a bookshelf." },
-    { "q": "Will a limited edition be easy to replace?", "a": "Possibly not. Limited designs can sell out, so choose the Carver if long-term availability matters. A standard model is easier to replace or match later." }
+    {
+      "q": "Do Aura frames need a monthly subscription?",
+      "a": "The listings for all five frames here state that no subscription is required. Check the listing before buying in case terms change, and confirm the storage is unlimited on your model. The Aspen, Carver and Walden all list no subscription requirement in their bullets."
+    },
+    {
+      "q": "Which Aura frame is best for vertical photos?",
+      "a": "The Aspen is marketed for both portrait and landscape display, which makes it the safest choice for a phone-heavy library. The other frames do not state an orientation claim in their titles, so check photos before you rely on them."
+    },
+    {
+      "q": "Is the Carver Mat worth the extra over the Carver?",
+      "a": "Only if you want the matted look, often for a gift. The core display and cloud storage are the same, so function does not change. The plain Carver is the value choice, and the Mat can wait until you need a gift."
+    },
+    {
+      "q": "How does setup work?",
+      "a": "Setup runs through the Aura app. The Walden listing highlights quick setup, and the rest share the same ecosystem. You add photos from your phone, and relatives can send more through the shared app."
+    },
+    {
+      "q": "Does the Walden fit on a shelf?",
+      "a": "A 15 inch frame needs a wide shelf or wall mount. Measure first, because the screen is much larger than the HD models. Consider a console table or a wall mount instead of a bookshelf."
+    },
+    {
+      "q": "Will a limited edition be easy to replace?",
+      "a": "Possibly not. Limited designs can sell out, so choose the Carver if long-term availability matters. A standard model is easier to replace or match later."
+    }
   ],
   "finalTake": "The Aura Aspen is the right frame for most families, because it handles every photo shape and charges no monthly fee. Choose the Carver Mat for a gift and the Walden for a large room. Decide on orientation and size before paying for style.",
-  "related": []
+  "related": [
+    "best-10-inch-digital-photo-frames",
+    "best-15-inch-digital-photo-frames",
+    "best-digital-photo-frames"
+  ]
 }

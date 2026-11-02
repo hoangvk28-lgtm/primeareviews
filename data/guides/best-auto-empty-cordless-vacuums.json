@@ -1,176 +1,381 @@
 {
- "slug": "best-auto-empty-cordless-vacuums",
- "category": "home-living",
- "h1": "The 4 Best Auto-Empty Cordless Vacuums of 2026, Ranked & Reviewed",
- "metaTitle": "Best Auto-Empty Vacuums 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: four cordless stick vacuums with auto-empty systems, compared on listed run time, price range and what each dock adds.",
- "mainKeyword": "auto-empty cordless vacuums",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "8 min",
- "heroImage": "https://m.media-amazon.com/images/I/41pqwNPT7WL._SL500_.jpg",
- "summary": "The Shark PowerDetect Clean & Empty is the best auto-empty cordless vacuum for larger homes, with 70 minutes of listed run time. The PowerDetect Reveal offers the same run time at a lower price range. ILIFE is the pet-focused budget alternative, and the base Shark Clean & Empty suits apartments.",
- "intro": ["Auto-empty docks promise you will never touch a dusty bin again. The catch is the dock itself, which needs floor or wall space and an outlet, and which keeps a disposable bag that you will eventually buy more of. The convenience is real, but only if you plan for the dock first.","Four stick vacuums with an included auto-empty system make up this ranking. The listings share little beyond listed run time and price range, so those two numbers drove the order. Other cordless models without a dock were excluded, and no suction claims are made here."],
- "products": [
-  {
-   "id": "shark-powerdetect-clean-and-empty",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "Shark PowerDetect Clean & Empty Cordless Stick Vacuum",
-   "score": 92,
-   "imageUrl": "https://m.media-amazon.com/images/I/41y5I0n--sL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DBVW1RFW?tag=primeareviews-20",
-   "verdict": "70 minutes of listed run time with an auto-empty dock.",
-   "description": "The Shark PowerDetect Clean & Empty is a cordless stick vacuum paired with an auto-empty dock, listing 70 minutes of run time. It falls in the $200 to $500 price range.\n\nSeventy minutes is the longest figure in this ranking, enough to clean most of a larger home on one charge. It shares that number with the Reveal version just below, so the premium here rests on what the PowerDetect variant adds beyond its sibling. It also beats ILIFE and the base Shark by a wide margin on endurance.\n\nBuy it if you have a big floor plan and want one machine that finishes the job. The caveat is price and footprint, since the dock takes space and the listing does not itemize the PowerDetect extras.",
-   "keySpecs": [
-    {"label": "Run time", "value": "70 minutes"},
-    {"label": "Power", "value": "Cordless"},
-    {"label": "Dock", "value": "Auto-empty"},
-    {"label": "Price", "value": "$200 to $500"}
-   ],
-   "pros": ["70 minute run time", "Auto-empty dock", "Cordless stick", "Established brand"],
-   "cons": ["Higher price range", "Dock needs space"],
-   "idealFor": "Larger homes needing long run time.",
-   "skipIf": "You want the lowest price."
-  },
-  {
-   "id": "shark-powerdetect-reveal-clean-and-empty",
-   "rank": 2,
-   "award": "Best Value",
-   "name": "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &",
-   "score": 89,
-   "imageUrl": "https://m.media-amazon.com/images/I/41K8lHdh27L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GY698CB2?tag=primeareviews-20",
-   "verdict": "The same 70 minute run time in a lower price range.",
-   "description": "The Shark PowerDetect Reveal Clean & Empty is a cordless stick with an auto-empty system and the same 70 minutes of listed run time. It sits in the $100 to $200 price range.\n\nMatching the top model's run time at half the price bracket makes it the better deal on paper, yet it ranks second because its listing name is cut off and the bundle contents are unclear. The extra money for the first-place model buys detection features this listing does not spell out, so verify details before choosing.\n\nBuy it if you want the long run time and a dock without paying the highest price. Confirm the exact model and what ships with it on the product page, since a truncated title leaves room for mismatch.",
-   "keySpecs": [
-    {"label": "Run time", "value": "70 minutes"},
-    {"label": "Power", "value": "Cordless"},
-    {"label": "Dock", "value": "Auto-empty"},
-    {"label": "Price", "value": "$100 to $200"}
-   ],
-   "pros": ["70 minute run time", "Lower price range", "Auto-empty dock", "Cordless stick"],
-   "cons": ["Truncated listing name", "Bundle details unclear"],
-   "idealFor": "Value-focused buyers wanting a dock.",
-   "skipIf": "You need clear model details."
-  },
-  {
-   "id": "ilife-cordless-stick-vacuum-auto-empty-pet",
-   "rank": 3,
-   "award": "Best for Pets",
-   "name": "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet",
-   "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/41Oc+Dz1XUL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0GX9TZQY5?tag=primeareviews-20",
-   "verdict": "A pet-targeted stick vacuum with a dock and 45 minutes of run time.",
-   "description": "ILIFE's cordless stick vacuum includes an auto-empty system and is marketed for pet households. It lists 45 minutes of run time and costs $100 to $200.\n\nThe pet focus is its angle, and a dock suits homes where shed hair fills a bin fast. Still, the run time trails both 70-minute Shark models, and ILIFE is a less established name in the category. That is why it sits third despite sharing the Reveal's price range, which asks you to give up 25 minutes for a pet-targeted design.\n\nPick it for a smaller home with pets where 45 minutes is plenty. Skip it for large floor plans. Check the dock bag capacity and which tools are included before ordering.",
-   "keySpecs": [
-    {"label": "Run time", "value": "45 minutes"},
-    {"label": "Power", "value": "Cordless"},
-    {"label": "Dock", "value": "Auto-empty"},
-    {"label": "Price", "value": "$100 to $200"}
-   ],
-   "pros": ["Pet-focused model", "Auto-empty dock", "45 minute run time"],
-   "cons": ["Shorter run time", "Lesser known brand"],
-   "idealFor": "Smaller homes with pets.",
-   "skipIf": "You need over an hour of run time."
-  },
-  {
-   "id": "shark-clean-and-empty-cordless-stick-vacuum",
-   "rank": 4,
-   "award": "Also Consider",
-   "name": "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/41pqwNPT7WL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0D15YWYMD?tag=primeareviews-20",
-   "verdict": "The shortest run time here at 40 minutes, from a known brand.",
-   "description": "The base Shark Clean & Empty is a cordless stick vacuum with an auto-empty dock and 40 minutes of listed run time. It is priced in the $200 to $500 range.\n\nIt finishes last because that run time is the shortest in the group, yet its price range overlaps the 70-minute PowerDetect. In effect, you would pay premium money for roughly half the endurance, which is hard to defend when the Reveal costs less and runs longer.\n\nIt makes sense only for an apartment or small home where 40 minutes covers every floor, and where you happen to find it at the lower end of its range. Anyone with more than a couple of rooms should pick a longer-running model above.",
-   "keySpecs": [
-    {"label": "Run time", "value": "40 minutes"},
-    {"label": "Power", "value": "Cordless"},
-    {"label": "Dock", "value": "Auto-empty"},
-    {"label": "Price", "value": "$200 to $500"}
-   ],
-   "pros": ["Auto-empty dock", "Known brand", "Cordless stick"],
-   "cons": ["Shortest run time", "Pricey for its run time"],
-   "idealFor": "Apartments and small homes.",
-   "skipIf": "You want long run time."
-  }
- ],
- "methodology": [
-  {"title": "Auto-empty dock", "description": "We included only models whose listings name an auto-empty system."},
-  {"title": "Run time", "description": "We compared stated run time, from 40 to 70 minutes."},
-  {"title": "Price range", "description": "We weighed run time against each model's price range."},
-  {"title": "Brand support", "description": "We considered brand familiarity for parts and service."},
-  {"title": "Data clarity", "description": "Truncated or unclear listings were noted rather than guessed."}
- ],
- "whatMatters": [
-  {"factor": "Run time", "detail": "Run time is how long the battery lasts per charge, and listings here claim 40 to 70 minutes, usually at the lowest power setting. Higher settings drain faster. Check the figure in the specs and match it to your floor area, leaving margin for carpets and pet hair."},
-  {"factor": "Dock size", "detail": "The auto-empty dock stands on the floor or wall, needs an outlet and holds the dust bag. It matters because a bulky base can be awkward in a small apartment. Measure the spot you have in mind and check the dock dimensions on the product page."},
-  {"factor": "Bag cost", "detail": "Docks collect dust in disposable bags that must be replaced, and those bags are a running cost. It matters because a cheap vacuum with expensive bags can cost more over time. Look in the listing for how many bags are included and what replacements cost."},
-  {"factor": "Pet focus", "detail": "Pet-focused models like the ILIFE tend to add tools aimed at hair and a bin built for shedding. That matters in a household with a dog or cat, where the dock fills faster. Check which attachments come in the box and whether the bag size is stated."},
-  {"factor": "Price range", "detail": "Price ranges here span $100 to $500, so run time per dollar is a useful comparison. The Shark PowerDetect Reveal offers 70 minutes in the $100 to $200 range, while the base Shark lists 40 minutes in the $200 to $500 range. Compare listed run times against the price range."}
- ],
- "howToChoose": [
-  {
-   "subheading": "By Home Size",
-   "intro": "Run time maps closely to how much floor you have.",
-   "table": {"headers": ["Home", "Our pick"], "rows": [
-    ["Large home", "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"],
-    ["Medium home, value", "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"],
-    ["Pet household", "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"],
-    ["Apartment", "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"]
-   ]}
-  },
-  {
-   "subheading": "By Budget",
-   "table": {"headers": ["Spend", "Our pick"], "rows": [
-    ["$100 to $200 long run time", "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"],
-    ["$100 to $200 pet focus", "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"],
-    ["$200 to $500 long run time", "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"],
-    ["$200 to $500 shorter", "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"]
-   ]}
-  },
-  {
-   "subheading": "Long Run Time vs Short Run Time",
-   "cards": [
-    {"label": "Long (70 min)", "text": "Covers a big home on one charge. The PowerDetect and PowerDetect Reveal list it."},
-    {"label": "Short (40 to 45 min)", "text": "Fine for small spaces. The Shark Clean & Empty and ILIFE list it."}
-   ],
-   "note": "Most buyers should choose a 70 minute model for flexibility."
-  },
-  {
-   "subheading": "By Brand Preference",
-   "table": {"headers": ["Preference", "Our pick"], "rows": [
-    ["Shark, top model", "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"],
-    ["Shark, lower price", "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"],
-    ["Shark, basic", "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"],
-    ["Pet-first brand", "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"]
-   ]}
-  },
-  {
-   "subheading": "For Pet Owners Specifically",
-   "cards": [
-    {"label": "Look for", "text": "A pet-focused model with an auto-empty dock to avoid hair mess."},
-    {"label": "In this ranking", "text": "The ILIFE is marketed for pets and lists 45 minutes of run time."}
-   ]
-  },
-  {
-   "subheading": "When to Spend More",
-   "cards": [
-    {"label": "Spend more if", "text": "You have a large home. The PowerDetect lists 70 minutes."},
-    {"label": "Save if", "text": "You want the same run time for less. The PowerDetect Reveal is $100 to $200."}
-   ]
-  }
- ],
- "faq": [
-  {"q": "What does auto-empty do?", "a": "The dock pulls dust from the vacuum into a sealed bag so you do not handle the bin each time. The Shark Clean & Empty family uses one, and you still replace bags periodically."},
-  {"q": "What is the common mistake?", "a": "Overlooking dock size. The dock needs floor or wall space near an outlet, and a bulky base can be awkward in a small apartment. Measure the spot before choosing the Shark or ILIFE."},
-  {"q": "Is the PowerDetect worth it over the Reveal?", "a": "Both list 70 minutes, but the Reveal costs less. Pay for the PowerDetect only if you confirm it adds features you want, because the Reveal listing is truncated and needs checking too."},
-  {"q": "How long is 70 minutes in practice?", "a": "Listed run time is generally measured on the lowest power mode, so expect less on higher settings or with a motorized brush on carpet. A 70-minute Shark still covers more floor than the 40-minute base model."},
-  {"q": "How do I maintain the dock?", "a": "Replace the dock bag when full and keep the intake clear. Check the listing for the bag type and how many come in the box, especially with the ILIFE, where pet hair may fill bags quickly."},
-  {"q": "Do other cordless vacuums have docks?", "a": "Only some do. We left out cordless sticks that did not name an auto-empty system, so every model here includes a dock. Compare run time and price range among these four first."}
- ],
- "finalTake": "Run time and dock space are the two numbers to settle. The Shark PowerDetect Clean & Empty gives the most of both for larger homes, while the Reveal version is the smart saving if its bundle details check out. Choose ILIFE for a small pet household and the basic Shark only when 40 minutes will cover your floors.",
- "related": []
+  "slug": "best-auto-empty-cordless-vacuums",
+  "category": "home-living",
+  "h1": "The 4 Best Auto-Empty Cordless Vacuums of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Auto-Empty Vacuums 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: four cordless stick vacuums with auto-empty systems, compared on listed run time, price range and what each dock adds.",
+  "mainKeyword": "auto-empty cordless vacuums",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "8 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41pqwNPT7WL._SL500_.jpg",
+  "summary": "The Shark PowerDetect Clean & Empty is the best auto-empty cordless vacuum for larger homes, with 70 minutes of listed run time. The PowerDetect Reveal offers the same run time at a lower price range. ILIFE is the pet-focused budget alternative, and the base Shark Clean & Empty suits apartments.",
+  "intro": [
+    "Auto-empty docks promise you will never touch a dusty bin again. The catch is the dock itself, which needs floor or wall space and an outlet, and which keeps a disposable bag that you will eventually buy more of. The convenience is real, but only if you plan for the dock first.",
+    "Four stick vacuums with an included auto-empty system make up this ranking. The listings share little beyond listed run time and price range, so those two numbers drove the order. Other cordless models without a dock were excluded, and no suction claims are made here."
+  ],
+  "products": [
+    {
+      "id": "shark-powerdetect-clean-and-empty",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Shark PowerDetect Clean & Empty Cordless Stick Vacuum",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41y5I0n--sL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DBVW1RFW?tag=primeareviews-20",
+      "verdict": "70 minutes of listed run time with an auto-empty dock.",
+      "description": "The Shark PowerDetect Clean & Empty is a cordless stick vacuum paired with an auto-empty dock, listing 70 minutes of run time. It falls in the $200 to $500 price range.\n\nSeventy minutes is the longest figure in this ranking, enough to clean most of a larger home on one charge. It shares that number with the Reveal version just below, so the premium here rests on what the PowerDetect variant adds beyond its sibling. It also beats ILIFE and the base Shark by a wide margin on endurance.\n\nBuy it if you have a big floor plan and want one machine that finishes the job. The caveat is price and footprint, since the dock takes space and the listing does not itemize the PowerDetect extras.",
+      "keySpecs": [
+        {
+          "label": "Run time",
+          "value": "70 minutes"
+        },
+        {
+          "label": "Power",
+          "value": "Cordless"
+        },
+        {
+          "label": "Dock",
+          "value": "Auto-empty"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        }
+      ],
+      "pros": [
+        "70 minute run time",
+        "Auto-empty dock",
+        "Cordless stick",
+        "Established brand"
+      ],
+      "cons": [
+        "Higher price range",
+        "Dock needs space"
+      ],
+      "idealFor": "Larger homes needing long run time.",
+      "skipIf": "You want the lowest price."
+    },
+    {
+      "id": "shark-powerdetect-reveal-clean-and-empty",
+      "rank": 2,
+      "award": "Best Value",
+      "name": "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/41K8lHdh27L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GY698CB2?tag=primeareviews-20",
+      "verdict": "The same 70 minute run time in a lower price range.",
+      "description": "The Shark PowerDetect Reveal Clean & Empty is a cordless stick with an auto-empty system and the same 70 minutes of listed run time. It sits in the $100 to $200 price range.\n\nMatching the top model's run time at half the price bracket makes it the better deal on paper, yet it ranks second because its listing name is cut off and the bundle contents are unclear. The extra money for the first-place model buys detection features this listing does not spell out, so verify details before choosing.\n\nBuy it if you want the long run time and a dock without paying the highest price. Confirm the exact model and what ships with it on the product page, since a truncated title leaves room for mismatch.",
+      "keySpecs": [
+        {
+          "label": "Run time",
+          "value": "70 minutes"
+        },
+        {
+          "label": "Power",
+          "value": "Cordless"
+        },
+        {
+          "label": "Dock",
+          "value": "Auto-empty"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "70 minute run time",
+        "Lower price range",
+        "Auto-empty dock",
+        "Cordless stick"
+      ],
+      "cons": [
+        "Truncated listing name",
+        "Bundle details unclear"
+      ],
+      "idealFor": "Value-focused buyers wanting a dock.",
+      "skipIf": "You need clear model details."
+    },
+    {
+      "id": "ilife-cordless-stick-vacuum-auto-empty-pet",
+      "rank": 3,
+      "award": "Best for Pets",
+      "name": "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Oc+Dz1XUL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GX9TZQY5?tag=primeareviews-20",
+      "verdict": "A pet-targeted stick vacuum with a dock and 45 minutes of run time.",
+      "description": "ILIFE's cordless stick vacuum includes an auto-empty system and is marketed for pet households. It lists 45 minutes of run time and costs $100 to $200.\n\nThe pet focus is its angle, and a dock suits homes where shed hair fills a bin fast. Still, the run time trails both 70-minute Shark models, and ILIFE is a less established name in the category. That is why it sits third despite sharing the Reveal's price range, which asks you to give up 25 minutes for a pet-targeted design.\n\nPick it for a smaller home with pets where 45 minutes is plenty. Skip it for large floor plans. Check the dock bag capacity and which tools are included before ordering.",
+      "keySpecs": [
+        {
+          "label": "Run time",
+          "value": "45 minutes"
+        },
+        {
+          "label": "Power",
+          "value": "Cordless"
+        },
+        {
+          "label": "Dock",
+          "value": "Auto-empty"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Pet-focused model",
+        "Auto-empty dock",
+        "45 minute run time"
+      ],
+      "cons": [
+        "Shorter run time",
+        "Lesser known brand"
+      ],
+      "idealFor": "Smaller homes with pets.",
+      "skipIf": "You need over an hour of run time."
+    },
+    {
+      "id": "shark-clean-and-empty-cordless-stick-vacuum",
+      "rank": 4,
+      "award": "Also Consider",
+      "name": "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/41pqwNPT7WL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D15YWYMD?tag=primeareviews-20",
+      "verdict": "The shortest run time here at 40 minutes, from a known brand.",
+      "description": "The base Shark Clean & Empty is a cordless stick vacuum with an auto-empty dock and 40 minutes of listed run time. It is priced in the $200 to $500 range.\n\nIt finishes last because that run time is the shortest in the group, yet its price range overlaps the 70-minute PowerDetect. In effect, you would pay premium money for roughly half the endurance, which is hard to defend when the Reveal costs less and runs longer.\n\nIt makes sense only for an apartment or small home where 40 minutes covers every floor, and where you happen to find it at the lower end of its range. Anyone with more than a couple of rooms should pick a longer-running model above.",
+      "keySpecs": [
+        {
+          "label": "Run time",
+          "value": "40 minutes"
+        },
+        {
+          "label": "Power",
+          "value": "Cordless"
+        },
+        {
+          "label": "Dock",
+          "value": "Auto-empty"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        }
+      ],
+      "pros": [
+        "Auto-empty dock",
+        "Known brand",
+        "Cordless stick"
+      ],
+      "cons": [
+        "Shortest run time",
+        "Pricey for its run time"
+      ],
+      "idealFor": "Apartments and small homes.",
+      "skipIf": "You want long run time."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Auto-empty dock",
+      "description": "We included only models whose listings name an auto-empty system."
+    },
+    {
+      "title": "Run time",
+      "description": "We compared stated run time, from 40 to 70 minutes."
+    },
+    {
+      "title": "Price range",
+      "description": "We weighed run time against each model's price range."
+    },
+    {
+      "title": "Brand support",
+      "description": "We considered brand familiarity for parts and service."
+    },
+    {
+      "title": "Data clarity",
+      "description": "Truncated or unclear listings were noted rather than guessed."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Run time",
+      "detail": "Run time is how long the battery lasts per charge, and listings here claim 40 to 70 minutes, usually at the lowest power setting. Higher settings drain faster. Check the figure in the specs and match it to your floor area, leaving margin for carpets and pet hair."
+    },
+    {
+      "factor": "Dock size",
+      "detail": "The auto-empty dock stands on the floor or wall, needs an outlet and holds the dust bag. It matters because a bulky base can be awkward in a small apartment. Measure the spot you have in mind and check the dock dimensions on the product page."
+    },
+    {
+      "factor": "Bag cost",
+      "detail": "Docks collect dust in disposable bags that must be replaced, and those bags are a running cost. It matters because a cheap vacuum with expensive bags can cost more over time. Look in the listing for how many bags are included and what replacements cost."
+    },
+    {
+      "factor": "Pet focus",
+      "detail": "Pet-focused models like the ILIFE tend to add tools aimed at hair and a bin built for shedding. That matters in a household with a dog or cat, where the dock fills faster. Check which attachments come in the box and whether the bag size is stated."
+    },
+    {
+      "factor": "Price range",
+      "detail": "Price ranges here span $100 to $500, so run time per dollar is a useful comparison. The Shark PowerDetect Reveal offers 70 minutes in the $100 to $200 range, while the base Shark lists 40 minutes in the $200 to $500 range. Compare listed run times against the price range."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Home Size",
+      "intro": "Run time maps closely to how much floor you have.",
+      "table": {
+        "headers": [
+          "Home",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Large home",
+            "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"
+          ],
+          [
+            "Medium home, value",
+            "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"
+          ],
+          [
+            "Pet household",
+            "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"
+          ],
+          [
+            "Apartment",
+            "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$100 to $200 long run time",
+            "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"
+          ],
+          [
+            "$100 to $200 pet focus",
+            "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"
+          ],
+          [
+            "$200 to $500 long run time",
+            "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"
+          ],
+          [
+            "$200 to $500 shorter",
+            "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Long Run Time vs Short Run Time",
+      "cards": [
+        {
+          "label": "Long (70 min)",
+          "text": "Covers a big home on one charge. The PowerDetect and PowerDetect Reveal list it."
+        },
+        {
+          "label": "Short (40 to 45 min)",
+          "text": "Fine for small spaces. The Shark Clean & Empty and ILIFE list it."
+        }
+      ],
+      "note": "Most buyers should choose a 70 minute model for flexibility."
+    },
+    {
+      "subheading": "By Brand Preference",
+      "table": {
+        "headers": [
+          "Preference",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Shark, top model",
+            "Shark PowerDetect Clean & Empty Cordless Stick Vacuum"
+          ],
+          [
+            "Shark, lower price",
+            "Shark PowerDetect Reveal Clean & Empty Cordless Stick Vacuum &"
+          ],
+          [
+            "Shark, basic",
+            "Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System"
+          ],
+          [
+            "Pet-first brand",
+            "ILIFE Cordless Stick Vacuum Cleaner with Auto-Empty System for Pet"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Pet Owners Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A pet-focused model with an auto-empty dock to avoid hair mess."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The ILIFE is marketed for pets and lists 45 minutes of run time."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You have a large home. The PowerDetect lists 70 minutes."
+        },
+        {
+          "label": "Save if",
+          "text": "You want the same run time for less. The PowerDetect Reveal is $100 to $200."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does auto-empty do?",
+      "a": "The dock pulls dust from the vacuum into a sealed bag so you do not handle the bin each time. The Shark Clean & Empty family uses one, and you still replace bags periodically."
+    },
+    {
+      "q": "What is the common mistake?",
+      "a": "Overlooking dock size. The dock needs floor or wall space near an outlet, and a bulky base can be awkward in a small apartment. Measure the spot before choosing the Shark or ILIFE."
+    },
+    {
+      "q": "Is the PowerDetect worth it over the Reveal?",
+      "a": "Both list 70 minutes, but the Reveal costs less. Pay for the PowerDetect only if you confirm it adds features you want, because the Reveal listing is truncated and needs checking too."
+    },
+    {
+      "q": "How long is 70 minutes in practice?",
+      "a": "Listed run time is generally measured on the lowest power mode, so expect less on higher settings or with a motorized brush on carpet. A 70-minute Shark still covers more floor than the 40-minute base model."
+    },
+    {
+      "q": "How do I maintain the dock?",
+      "a": "Replace the dock bag when full and keep the intake clear. Check the listing for the bag type and how many come in the box, especially with the ILIFE, where pet hair may fill bags quickly."
+    },
+    {
+      "q": "Do other cordless vacuums have docks?",
+      "a": "Only some do. We left out cordless sticks that did not name an auto-empty system, so every model here includes a dock. Compare run time and price range among these four first."
+    }
+  ],
+  "finalTake": "Run time and dock space are the two numbers to settle. The Shark PowerDetect Clean & Empty gives the most of both for larger homes, while the Reveal version is the smart saving if its bundle details check out. Choose ILIFE for a small pet household and the basic Shark only when 40 minutes will cover your floors.",
+  "related": [
+    "best-bissell-cordless-vacuums",
+    "best-commercial-cordless-vacuums",
+    "best-cordless-stick-vacuums"
+  ]
 }

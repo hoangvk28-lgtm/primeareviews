@@ -10,7 +10,10 @@
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/31uX9zUZ5dL._SL500_.jpg",
   "summary": "The eufy Omni C20 is the best camera-free robot overall, combining vacuum and mop with a self-cleaning dock. The eufy C28 offers the most suction at 15,000 Pa, and the roborock Q7 M5+ stretches its dock to 7 to 9 weeks. The Roomba Max 705 brings obstacle sensors, while the Shark, Roomba 105 and eufy 11S MAX trade features for simplicity and price.",
-  "intro": ["The robot vacuums that get the most attention carry a front camera for object recognition. It spots cables and socks, and it also puts a lens in your bedroom. Plenty of buyers would rather skip that trade, and the good news is that the alternatives are not a step back in the way they used to be. LiDAR, a laser that measures distance, builds a floor plan with no image captured at all.","Every robot here navigates without an onboard camera, using LiDAR, bump sensors or cliff sensors. Our editors reviewed eight and ranked them on how well camera-free navigation suits a real home, then on suction, mopping and dock convenience. The Primea framework sets the scores, and bump-only robots drop where room size demands a map."],
+  "intro": [
+    "The robot vacuums that get the most attention carry a front camera for object recognition. It spots cables and socks, and it also puts a lens in your bedroom. Plenty of buyers would rather skip that trade, and the good news is that the alternatives are not a step back in the way they used to be. LiDAR, a laser that measures distance, builds a floor plan with no image captured at all.",
+    "Every robot here navigates without an onboard camera, using LiDAR, bump sensors or cliff sensors. Our editors reviewed eight and ranked them on how well camera-free navigation suits a real home, then on suction, mopping and dock convenience. The Primea framework sets the scores, and bump-only robots drop where room size demands a map."
+  ],
   "products": [
     {
       "id": "eufy-omni-c20",
@@ -543,6 +546,6 @@
   "related": [
     "best-anti-tangle-robot-vacuums",
     "best-bagless-self-emptying-robot-vacuums",
-    "best-ecovacs-robot-vacuums"
+    "best-commercial-robot-vacuums"
   ]
 }

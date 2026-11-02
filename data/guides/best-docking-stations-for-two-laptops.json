@@ -1,195 +1,498 @@
 {
- "slug": "best-docking-stations-for-two-laptops",
- "category": "tech-accessories",
- "h1": "The 7 Best Docking Stations for Two Laptops of 2026, Ranked & Reviewed",
- "metaTitle": "Best Two-Laptop Docks 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: seven docks for a two-laptop desk, from KVM docks to Thunderbolt 4, compared on charging, monitors and switching.",
- "mainKeyword": "docking station for two laptops",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41e02xrYlyL._SL500_.jpg",
- "summary": "The AV Access 100W KVM dock is the best overall: two laptop inputs, dual monitor switching and 100W PD for each machine. The 13-in-1 KVM adds a 4K120Hz option for a lower tier of detail. The dual HDMI AV Access suits laptops that charge at 60W. Standard docks like the Anker Prime and Dell serve one host at a time.",
- "intro": ["Most docks are built on one assumption: a single laptop is plugged in. Put a second machine on the desk and that assumption breaks. Either you swap cables every time you change computers, or you need hardware that can share a monitor, keyboard and mouse between two hosts. A KVM dock does that in one box, while a standard dock plus a separate KVM costs more and adds cable clutter. Mixing the two types up is the expensive mistake here.","We reviewed seven options on paper and ranked them on the Primea framework. Laptop inputs, charging per machine, monitor output, switching method and price tier carried the most weight. The list deliberately mixes true KVM docks with standard docks so you can see where each type earns its place."],
- "products": [
-  {
-   "id": "av-access-kvm-dock-100w",
-   "rank": 1,
-   "award": "Best Overall",
-   "name": "AV Access Docking Station KVM Switch 2 Monitors 2 Laptops (100W PD)",
-   "score": 94,
-   "imageUrl": "https://m.media-amazon.com/images/I/41NY0yTE9kL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DD3X51XS?tag=primeareviews-20",
-   "verdict": "Two laptop inputs with 100W charging on each.",
-   "description": "The AV Access 100W is the only dock here that treats both laptops equally. It has two laptop inputs, dual monitor KVM switching and 100W PD to each laptop. It adds 1G Ethernet, 4K monitor support and EDID emulation, so your windows stay put after a switch. Full 100W on both ports is what stops a heavy laptop from draining while docked.\n\nIt takes first place over the 13-in-1 KVM because the per-laptop charging is spelled out plainly, and both sit in the $100 to $200 bracket. The dual HDMI AV Access below it drops to 60W per laptop and costs more.\n\nBuy it when both machines draw real power, such as workstation laptops. The honest caveat is network speed: Ethernet is 1G only and no Wi-Fi is listed, so a fast office network will be limited.",
-   "keySpecs": [
-    {"label": "Inputs", "value": "2 laptops, dual-monitor KVM"},
-    {"label": "Charging", "value": "100W PD per laptop"},
-    {"label": "Video", "value": "4K monitor support"},
-    {"label": "Network", "value": "1G Ethernet"}
-   ],
-   "pros": ["100W PD per laptop", "Two laptop inputs", "EDID emulation", "KVM switching built in"],
-   "cons": ["1G Ethernet only", "No Wi-Fi"],
-   "idealFor": "Two-laptop desks needing full 100W charging on both.",
-   "skipIf": "You need more than two displays."
-  },
-  {
-   "id": "kvm-switch-dock-13-in-1-100w",
-   "rank": 2,
-   "award": "Best Budget KVM",
-   "name": "KVM Switch 2 Monitors 2 Computers Docking Station (13-in-1, 100W PD)",
-   "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/41zZDSI+zhL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FMQVLGX3?tag=primeareviews-20",
-   "verdict": "A 13-in-1 aluminum KVM dock with 100W PD and 4K120Hz support.",
-   "description": "The 13-in-1 KVM is an aluminum dock that charges at 100W and takes USB-C, HDMI and DisplayPort inputs. It outputs dual 4K60Hz or a single 4K120Hz signal and is plug and play. The choice of outputs matters: a single high refresh monitor suits gaming or fast motion, while two 60Hz screens suit spreadsheets.\n\nIt ranks second because it matches the AV Access on 100W charging but gives up a dual-monitor refresh above 60Hz. It lists no EDID emulation, which the AV Access leader does, so windows can shuffle on a switch. In return, you get that single 4K120Hz option and mixed inputs, and it stays in the $100 to $200 bracket.\n\nChoose it for a budget two-laptop desk that wants one fast monitor. The caveat is that 120Hz applies to a single display only.",
-   "keySpecs": [
-    {"label": "Build", "value": "13-in-1 aluminum"},
-    {"label": "Charging", "value": "100W PD"},
-    {"label": "Video", "value": "Dual 4K60Hz or single 4K120Hz"},
-    {"label": "Inputs", "value": "USB-C, HDMI, DisplayPort"}
-   ],
-   "pros": ["100W PD charging", "Single 4K120Hz option", "USB-C and HDMI inputs", "Plug and play"],
-   "cons": ["120Hz on one display only", "Less detailed listing"],
-   "idealFor": "Budget two-laptop setups wanting 4K120Hz.",
-   "skipIf": "You need dual 120Hz screens."
-  },
-  {
-   "id": "av-access-kvm-dock-usb-c-mst",
-   "rank": 3,
-   "award": "Best Dual HDMI",
-   "name": "AV Access KVM Switch Dock 2 Monitors 2 Laptops (2 USB-C MST)",
-   "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/41e02xrYlyL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0CP4PD3SM?tag=primeareviews-20",
-   "verdict": "Two USB-C MST inputs and dual HDMI 4K output.",
-   "description": "This AV Access model leans on MST over USB-C. It has two USB-C MST inputs, one per laptop, drives dual HDMI 4K monitors and delivers 60W per laptop alongside 1G Ethernet and EDID emulation. MST lets one USB-C connection carry two monitor streams, so each laptop needs only one cable.\n\nIt ranks third because 60W per laptop falls short of the 100W provided by the two docks above it. Power hungry machines will charge slowly under load, or not at all. It also sits in the $200 to $500 bracket, more than either of them.\n\nChoose it if both laptops are thin models that charge on 60W or less and you want two HDMI monitors. The caveat is that wattage ceiling. Check each charger rating before buying, and move up to the 100W model if either laptop exceeds 60W.",
-   "keySpecs": [
-    {"label": "Inputs", "value": "2 USB-C MST ports"},
-    {"label": "Video", "value": "Dual HDMI 4K"},
-    {"label": "Charging", "value": "60W PD per laptop"},
-    {"label": "Detection", "value": "EDID emulation"}
-   ],
-   "pros": ["Two USB-C MST inputs", "Dual HDMI 4K output", "EDID emulation", "KVM switching built in"],
-   "cons": ["Only 60W per laptop", "Higher price tier"],
-   "idealFor": "Laptops that charge at 60W or less.",
-   "skipIf": "Your laptops need 100W."
-  },
-  {
-   "id": "av-access-8k-kvm-switch",
-   "rank": 4,
-   "award": "Best for Laptop plus Desktop",
-   "name": "AV Access 8K KVM Switch 2 Monitors 2 Computers for Laptop & Desktop",
-   "score": 84,
-   "imageUrl": "https://m.media-amazon.com/images/I/41yf74dFdZL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0F6MTC9LR?tag=primeareviews-20",
-   "verdict": "Shared keyboard, mouse and monitor, with hotkey switching.",
-   "description": "The AV Access 8K is a pure KVM switch rather than a charging dock. It shares one keyboard, mouse and monitor between two computers, supports an 8K-capable signal and uses hotkey switching, with gigabit Ethernet. Because it handles a laptop and a desktop alike, it is the only pick that suits a mixed desk.\n\nIt ranks fourth because the listing gives no per-laptop charging, which the docks above include. You will still need a charger for each machine. It is also in the $200 to $500 bracket, so you pay more for switching alone. The 8K claim matters little unless you own a display that uses it.\n\nChoose it for a laptop beside a desktop that share peripherals. The caveat is simple: power delivery is not listed, so plan separate chargers.",
-   "keySpecs": [
-    {"label": "Computers", "value": "2, laptop and desktop"},
-    {"label": "Video", "value": "8K-capable signal"},
-    {"label": "Switching", "value": "Hotkey-based"},
-    {"label": "Network", "value": "Gigabit Ethernet"}
-   ],
-   "pros": ["Hotkey switching", "Shared keyboard and mouse", "8K-capable signal", "Laptop and desktop support"],
-   "cons": ["No charging listed", "Higher price tier"],
-   "idealFor": "Mixed laptop and desktop setups.",
-   "skipIf": "You need per-laptop charging."
-  },
-  {
-   "id": "anker-prime-dl7400-14-port",
-   "rank": 5,
-   "award": "Best Triple-Monitor Dock",
-   "name": "Anker Prime Docking Station (DL7400), 14-Port Triple Display with DisplayLink",
-   "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/31hyr0S1C9L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0DTSZC5Y7?tag=primeareviews-20",
-   "verdict": "A 14-port DisplayLink dock for three 4K60Hz monitors.",
-   "description": "The Anker Prime DL7400 is a different animal. It is a 14-port dock with 140W max power, a built-in cooling fan, smart display switching and triple 4K60Hz output through DisplayLink. Three monitors from one cable is something none of the KVM docks here can match.\n\nIt ranks fifth because it serves one laptop at a time and cannot switch hosts, which is the whole point of this guide. DisplayLink also relies on a driver, so image quality depends on software rather than the laptop's own graphics. The Plugable below it is cheaper but offers fewer displays.\n\nChoose it when one of your two laptops needs three monitors and the second can use another cable. The caveat is the driver dependence and the $200 to $500 price, which is steep for a dock that cannot switch.",
-   "keySpecs": [
-    {"label": "Ports", "value": "14"},
-    {"label": "Power", "value": "140W max"},
-    {"label": "Video", "value": "Triple 4K60Hz DisplayLink"},
-    {"label": "Cooling", "value": "Built-in fan"}
-   ],
-   "pros": ["Triple 4K60Hz display", "140W max power", "Built-in cooling fan", "Smart display switching"],
-   "cons": ["Not a KVM switch", "DisplayLink dependence"],
-   "idealFor": "One laptop needing triple monitors.",
-   "skipIf": "You want one-box laptop switching."
-  },
-  {
-   "id": "dell-pro-thunderbolt-4-smart-dock-sd25tb4",
-   "rank": 6,
-   "award": "Best for Dell Laptops",
-   "name": "Dell Pro Thunderbolt 4 Smart Dock SD25TB4",
-   "score": 80,
-   "imageUrl": "https://m.media-amazon.com/images/I/21-k4dyJK1L._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0F7SFQM2Y?tag=primeareviews-20",
-   "verdict": "Four-display support and 130W PD, at full rate on Dell laptops.",
-   "description": "The Dell SD25TB4 is a business dock with serious port count. It supports four 4K displays, delivers 130W PD at the full rate on Dell laptops, and adds two Thunderbolt 4 ports, 2.5GbE Ethernet, Wi-Fi, two DisplayPort 1.4 and HDMI 2.1. The 2.5GbE port gives it a faster wired connection than the AV Access models.\n\nIt ranks sixth because it is not a KVM switch, and the full charging rate applies to Dell laptops only. On other brands it may charge at a lower wattage. At $200 to $500 it also costs more than the leader, which switches between laptops.\n\nChoose it when a Dell laptop is the main machine and a second device only occasionally plugs in. The caveat is that Dell specific charging, so check the listing if your second laptop is another brand.",
-   "keySpecs": [
-    {"label": "Displays", "value": "4 supported at 4K"},
-    {"label": "Charging", "value": "130W PD (full on Dell)"},
-    {"label": "Ports", "value": "2x Thunderbolt 4, 2x DP 1.4, HDMI 2.1"},
-    {"label": "Network", "value": "2.5GbE, Wi-Fi"}
-   ],
-   "pros": ["Four displays supported", "2.5GbE Ethernet", "Wi-Fi built in", "Two Thunderbolt 4 ports"],
-   "cons": ["Full charge only on Dell", "Not a KVM"],
-   "idealFor": "Dell laptop users in a business setup.",
-   "skipIf": "You use non-Dell laptops."
-  },
-  {
-   "id": "plugable-thunderbolt-4-dock-macbook",
-   "rank": 7,
-   "award": "Best for Mac and Windows Pair",
-   "name": "Plugable Thunderbolt 4 Dock for M4/M5 MacBook Air & Pro",
-   "score": 78,
-   "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-   "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-20",
-   "verdict": "A certified Thunderbolt 4 dock with driverless setup.",
-   "description": "The Plugable is a Thunderbolt 4 certified dock aimed at M4 and M5 MacBooks. It charges at 100W, drives dual 4K HDMI or a single 6K display, offers six USB ports, an SD reader and Ethernet, and installs without drivers. Certification matters because it guarantees the full Thunderbolt feature set rather than a loose USB-C approximation.\n\nIt ranks last because it serves one host at a time and has no KVM switching, so a second laptop means unplugging. Against the Anker, it has fewer displays but costs less, in the $100 to $200 bracket.\n\nBuy it when the Mac is the machine you dock daily and the second laptop only visits. The caveat is that missing switch: for two laptops sharing a monitor and keyboard, the AV Access models above are the better answer.",
-   "keySpecs": [
-    {"label": "Certification", "value": "Thunderbolt 4"},
-    {"label": "Charging", "value": "100W"},
-    {"label": "Video", "value": "Dual 4K HDMI or single 6K"},
-    {"label": "Setup", "value": "Driverless"}
-   ],
-   "pros": ["Thunderbolt 4 certified", "100W charging", "Driverless setup", "Six USB ports"],
-   "cons": ["Not a KVM switch", "Serves one host"],
-   "idealFor": "A pair where the Mac needs certified Thunderbolt 4.",
-   "skipIf": "You want one-box switching."
-  }
- ],
- "methodology": [
-  {"title": "Laptop inputs", "description": "KVM docks with two inputs ranked above single-host docks."},
-  {"title": "Charging per laptop", "description": "Stated PD wattage per laptop was compared."},
-  {"title": "Monitor output", "description": "Display count and resolution were weighed."},
-  {"title": "Switching method", "description": "Built-in KVM and hotkey switching were compared with manual cable swaps."},
-  {"title": "Price tier", "description": "Value was judged within each bracket."}
- ],
- "whatMatters": [
-  {"factor": "KVM vs standard dock", "detail": "A KVM dock shares monitors, a keyboard and a mouse across two computers, while a standard dock serves one host at a time. This is the choice that decides everything else. Search the title for KVM and two laptops. Without that wording, assume you will be moving cables, as you would with the Anker, Dell or Plugable."},
-  {"factor": "Power delivery per laptop", "detail": "Power delivery is the wattage sent to each laptop. Many ultrabooks need 65W while workstation machines want 100W or more, and an underpowered dock charges slowly or drains under load. Compare your laptop charger rating against the listing. The AV Access leader lists 100W per laptop, while its dual HDMI sibling offers 60W."},
-  {"factor": "EDID emulation", "detail": "EDID emulation tells your computer that monitors are still connected when the dock switches to the other laptop. Without it, windows can jump or collapse onto one screen after every switch, which becomes maddening on a dual-monitor desk. Look for the term EDID emulation in the bullets. The AV Access models list it and the 13-in-1 does not."},
-  {"factor": "Display support", "detail": "Docks differ in how many monitors they drive and at what refresh rate. A dock may say 4K but only at 30Hz, or list dual 4K60Hz in one place and single 4K120Hz in another. Read the exact figure, such as dual 4K60Hz on the 13-in-1 or triple 4K60Hz on the Anker, then match it to your monitors."},
-  {"factor": "Host compatibility", "detail": "Host compatibility decides whether the dock works at all. Thunderbolt docks suit Thunderbolt laptops, DisplayLink docks like the Anker need a driver, and the Dell reaches full charging only on Dell machines. Check the ports on both laptops and read the listing for any brand limits before you buy."}
- ],
- "howToChoose": [
-  {"subheading": "By Charging Need", "intro": "Match the dock's wattage to your laptops.", "table": {"headers": ["Charger", "Our pick"], "rows": [["Both laptops need 100W", "AV Access KVM Dock (100W PD)"], ["Laptops under 60W", "AV Access KVM Dock (2 USB-C MST)"], ["Dell laptop at 130W", "Dell SD25TB4"], ["MacBook at 100W", "Plugable Thunderbolt 4 Dock"]]}},
-  {"subheading": "By Budget", "table": {"headers": ["Spend", "Our pick"], "rows": [["$100-200", "AV Access KVM Dock (100W PD), 13-in-1 KVM Dock or Plugable Dock"], ["$200-500", "AV Access 2 USB-C MST, AV Access 8K, Anker DL7400 or Dell SD25TB4"]]}},
-  {"subheading": "KVM Dock vs Standard Dock", "cards": [{"label": "KVM dock", "text": "One box switches two laptops. The AV Access docks and 13-in-1 KVM fit here."}, {"label": "Standard dock", "text": "Serves one laptop at a time. The Anker DL7400, Dell SD25TB4 and Plugable dock fit here."}], "note": "Most buyers with two laptops should choose a KVM dock."},
-  {"subheading": "By Monitor Setup", "table": {"headers": ["Setup", "Our pick"], "rows": [["Dual 4K", "AV Access KVM Dock (100W PD)"], ["Single 4K120Hz", "13-in-1 KVM Dock"], ["Triple monitor", "Anker Prime DL7400"], ["Four displays", "Dell SD25TB4"]]}},
-  {"subheading": "For Mixed Mac and Windows Pairs Specifically", "cards": [{"label": "Look for", "text": "A certified Thunderbolt 4 dock for the Mac and a switch for the other."}, {"label": "In this ranking", "text": "The Plugable Thunderbolt 4 dock covers the Mac side."}]},
-  {"subheading": "When to Spend More", "cards": [{"label": "Spend more if", "text": "You need four displays or Wi-Fi, so the Dell SD25TB4 fits."}, {"label": "Save if", "text": "You just want switching and 100W, so the AV Access 100W dock does it."}]}
- ],
- "faq": [
-  {"q": "Can one dock charge two laptops?", "a": "The KVM docks here list per-laptop charging, such as 100W PD on each input of the AV Access model. Standard docks like the Plugable charge only the laptop connected. Check the wattage each machine needs."},
-  {"q": "What mistake do buyers make?", "a": "Buying a standard dock and expecting it to switch laptops. Only a KVM dock, like the AV Access or the 13-in-1, does that. The Anker and Dell are excellent docks, but each serves one host at a time."},
-  {"q": "Is the AV Access worth it over the 13-in-1?", "a": "If you want per-laptop 100W spelled out and EDID emulation, yes. The 13-in-1 gains a single 4K120Hz option and mixed inputs, so choose it if one fast monitor matters more than window stability."},
-  {"q": "How do I switch between laptops?", "a": "Press the switch button or a keyboard hotkey, depending on the model. The AV Access 8K lists hotkey switching for its two computers. Check the listing so you know whether the model offers a button, hotkey or both."},
-  {"q": "How do I avoid windows rearranging?", "a": "Pick a dock with EDID emulation, like the AV Access models, which keeps monitors recognised during a switch. Without it, windows can collapse onto one screen, so the 13-in-1 may need a manual rearrange."},
-  {"q": "Does the Dell dock charge non-Dell laptops?", "a": "The listing says the 130W rate is the full speed on Dell laptops. Other brands may charge at a lower rate, so the Dell SD25TB4 suits a Dell-led desk better than a mixed pair."}
- ],
- "finalTake": "Buy the AV Access 100W KVM dock if two laptops need full charging and one-box switching. Take the 13-in-1 if a single 4K120Hz screen matters more. Pick a standard dock only when one laptop needs the heavy display load, since the Anker, Dell and Plugable cannot switch between hosts. Check your chargers' wattage first, because it decides which dock fits.",
- "related": []
+  "slug": "best-docking-stations-for-two-laptops",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Docking Stations for Two Laptops of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Two-Laptop Docks 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: seven docks for a two-laptop desk, from KVM docks to Thunderbolt 4, compared on charging, monitors and switching.",
+  "mainKeyword": "docking station for two laptops",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41e02xrYlyL._SL500_.jpg",
+  "summary": "The AV Access 100W KVM dock is the best overall: two laptop inputs, dual monitor switching and 100W PD for each machine. The 13-in-1 KVM adds a 4K120Hz option for a lower tier of detail. The dual HDMI AV Access suits laptops that charge at 60W. Standard docks like the Anker Prime and Dell serve one host at a time.",
+  "intro": [
+    "Most docks are built on one assumption: a single laptop is plugged in. Put a second machine on the desk and that assumption breaks. Either you swap cables every time you change computers, or you need hardware that can share a monitor, keyboard and mouse between two hosts. A KVM dock does that in one box, while a standard dock plus a separate KVM costs more and adds cable clutter. Mixing the two types up is the expensive mistake here.",
+    "We reviewed seven options on paper and ranked them on the Primea framework. Laptop inputs, charging per machine, monitor output, switching method and price tier carried the most weight. The list deliberately mixes true KVM docks with standard docks so you can see where each type earns its place."
+  ],
+  "products": [
+    {
+      "id": "av-access-kvm-dock-100w",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "AV Access Docking Station KVM Switch 2 Monitors 2 Laptops (100W PD)",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41NY0yTE9kL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DD3X51XS?tag=primeareviews-20",
+      "verdict": "Two laptop inputs with 100W charging on each.",
+      "description": "The AV Access 100W is the only dock here that treats both laptops equally. It has two laptop inputs, dual monitor KVM switching and 100W PD to each laptop. It adds 1G Ethernet, 4K monitor support and EDID emulation, so your windows stay put after a switch. Full 100W on both ports is what stops a heavy laptop from draining while docked.\n\nIt takes first place over the 13-in-1 KVM because the per-laptop charging is spelled out plainly, and both sit in the $100 to $200 bracket. The dual HDMI AV Access below it drops to 60W per laptop and costs more.\n\nBuy it when both machines draw real power, such as workstation laptops. The honest caveat is network speed: Ethernet is 1G only and no Wi-Fi is listed, so a fast office network will be limited.",
+      "keySpecs": [
+        {
+          "label": "Inputs",
+          "value": "2 laptops, dual-monitor KVM"
+        },
+        {
+          "label": "Charging",
+          "value": "100W PD per laptop"
+        },
+        {
+          "label": "Video",
+          "value": "4K monitor support"
+        },
+        {
+          "label": "Network",
+          "value": "1G Ethernet"
+        }
+      ],
+      "pros": [
+        "100W PD per laptop",
+        "Two laptop inputs",
+        "EDID emulation",
+        "KVM switching built in"
+      ],
+      "cons": [
+        "1G Ethernet only",
+        "No Wi-Fi"
+      ],
+      "idealFor": "Two-laptop desks needing full 100W charging on both.",
+      "skipIf": "You need more than two displays."
+    },
+    {
+      "id": "kvm-switch-dock-13-in-1-100w",
+      "rank": 2,
+      "award": "Best Budget KVM",
+      "name": "KVM Switch 2 Monitors 2 Computers Docking Station (13-in-1, 100W PD)",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41zZDSI+zhL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FMQVLGX3?tag=primeareviews-20",
+      "verdict": "A 13-in-1 aluminum KVM dock with 100W PD and 4K120Hz support.",
+      "description": "The 13-in-1 KVM is an aluminum dock that charges at 100W and takes USB-C, HDMI and DisplayPort inputs. It outputs dual 4K60Hz or a single 4K120Hz signal and is plug and play. The choice of outputs matters: a single high refresh monitor suits gaming or fast motion, while two 60Hz screens suit spreadsheets.\n\nIt ranks second because it matches the AV Access on 100W charging but gives up a dual-monitor refresh above 60Hz. It lists no EDID emulation, which the AV Access leader does, so windows can shuffle on a switch. In return, you get that single 4K120Hz option and mixed inputs, and it stays in the $100 to $200 bracket.\n\nChoose it for a budget two-laptop desk that wants one fast monitor. The caveat is that 120Hz applies to a single display only.",
+      "keySpecs": [
+        {
+          "label": "Build",
+          "value": "13-in-1 aluminum"
+        },
+        {
+          "label": "Charging",
+          "value": "100W PD"
+        },
+        {
+          "label": "Video",
+          "value": "Dual 4K60Hz or single 4K120Hz"
+        },
+        {
+          "label": "Inputs",
+          "value": "USB-C, HDMI, DisplayPort"
+        }
+      ],
+      "pros": [
+        "100W PD charging",
+        "Single 4K120Hz option",
+        "USB-C and HDMI inputs",
+        "Plug and play"
+      ],
+      "cons": [
+        "120Hz on one display only",
+        "Less detailed listing"
+      ],
+      "idealFor": "Budget two-laptop setups wanting 4K120Hz.",
+      "skipIf": "You need dual 120Hz screens."
+    },
+    {
+      "id": "av-access-kvm-dock-usb-c-mst",
+      "rank": 3,
+      "award": "Best Dual HDMI",
+      "name": "AV Access KVM Switch Dock 2 Monitors 2 Laptops (2 USB-C MST)",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41e02xrYlyL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CP4PD3SM?tag=primeareviews-20",
+      "verdict": "Two USB-C MST inputs and dual HDMI 4K output.",
+      "description": "This AV Access model leans on MST over USB-C. It has two USB-C MST inputs, one per laptop, drives dual HDMI 4K monitors and delivers 60W per laptop alongside 1G Ethernet and EDID emulation. MST lets one USB-C connection carry two monitor streams, so each laptop needs only one cable.\n\nIt ranks third because 60W per laptop falls short of the 100W provided by the two docks above it. Power hungry machines will charge slowly under load, or not at all. It also sits in the $200 to $500 bracket, more than either of them.\n\nChoose it if both laptops are thin models that charge on 60W or less and you want two HDMI monitors. The caveat is that wattage ceiling. Check each charger rating before buying, and move up to the 100W model if either laptop exceeds 60W.",
+      "keySpecs": [
+        {
+          "label": "Inputs",
+          "value": "2 USB-C MST ports"
+        },
+        {
+          "label": "Video",
+          "value": "Dual HDMI 4K"
+        },
+        {
+          "label": "Charging",
+          "value": "60W PD per laptop"
+        },
+        {
+          "label": "Detection",
+          "value": "EDID emulation"
+        }
+      ],
+      "pros": [
+        "Two USB-C MST inputs",
+        "Dual HDMI 4K output",
+        "EDID emulation",
+        "KVM switching built in"
+      ],
+      "cons": [
+        "Only 60W per laptop",
+        "Higher price tier"
+      ],
+      "idealFor": "Laptops that charge at 60W or less.",
+      "skipIf": "Your laptops need 100W."
+    },
+    {
+      "id": "av-access-8k-kvm-switch",
+      "rank": 4,
+      "award": "Best for Laptop plus Desktop",
+      "name": "AV Access 8K KVM Switch 2 Monitors 2 Computers for Laptop & Desktop",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41yf74dFdZL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F6MTC9LR?tag=primeareviews-20",
+      "verdict": "Shared keyboard, mouse and monitor, with hotkey switching.",
+      "description": "The AV Access 8K is a pure KVM switch rather than a charging dock. It shares one keyboard, mouse and monitor between two computers, supports an 8K-capable signal and uses hotkey switching, with gigabit Ethernet. Because it handles a laptop and a desktop alike, it is the only pick that suits a mixed desk.\n\nIt ranks fourth because the listing gives no per-laptop charging, which the docks above include. You will still need a charger for each machine. It is also in the $200 to $500 bracket, so you pay more for switching alone. The 8K claim matters little unless you own a display that uses it.\n\nChoose it for a laptop beside a desktop that share peripherals. The caveat is simple: power delivery is not listed, so plan separate chargers.",
+      "keySpecs": [
+        {
+          "label": "Computers",
+          "value": "2, laptop and desktop"
+        },
+        {
+          "label": "Video",
+          "value": "8K-capable signal"
+        },
+        {
+          "label": "Switching",
+          "value": "Hotkey-based"
+        },
+        {
+          "label": "Network",
+          "value": "Gigabit Ethernet"
+        }
+      ],
+      "pros": [
+        "Hotkey switching",
+        "Shared keyboard and mouse",
+        "8K-capable signal",
+        "Laptop and desktop support"
+      ],
+      "cons": [
+        "No charging listed",
+        "Higher price tier"
+      ],
+      "idealFor": "Mixed laptop and desktop setups.",
+      "skipIf": "You need per-laptop charging."
+    },
+    {
+      "id": "anker-prime-dl7400-14-port",
+      "rank": 5,
+      "award": "Best Triple-Monitor Dock",
+      "name": "Anker Prime Docking Station (DL7400), 14-Port Triple Display with DisplayLink",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31hyr0S1C9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DTSZC5Y7?tag=primeareviews-20",
+      "verdict": "A 14-port DisplayLink dock for three 4K60Hz monitors.",
+      "description": "The Anker Prime DL7400 is a different animal. It is a 14-port dock with 140W max power, a built-in cooling fan, smart display switching and triple 4K60Hz output through DisplayLink. Three monitors from one cable is something none of the KVM docks here can match.\n\nIt ranks fifth because it serves one laptop at a time and cannot switch hosts, which is the whole point of this guide. DisplayLink also relies on a driver, so image quality depends on software rather than the laptop's own graphics. The Plugable below it is cheaper but offers fewer displays.\n\nChoose it when one of your two laptops needs three monitors and the second can use another cable. The caveat is the driver dependence and the $200 to $500 price, which is steep for a dock that cannot switch.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "14"
+        },
+        {
+          "label": "Power",
+          "value": "140W max"
+        },
+        {
+          "label": "Video",
+          "value": "Triple 4K60Hz DisplayLink"
+        },
+        {
+          "label": "Cooling",
+          "value": "Built-in fan"
+        }
+      ],
+      "pros": [
+        "Triple 4K60Hz display",
+        "140W max power",
+        "Built-in cooling fan",
+        "Smart display switching"
+      ],
+      "cons": [
+        "Not a KVM switch",
+        "DisplayLink dependence"
+      ],
+      "idealFor": "One laptop needing triple monitors.",
+      "skipIf": "You want one-box laptop switching."
+    },
+    {
+      "id": "dell-pro-thunderbolt-4-smart-dock-sd25tb4",
+      "rank": 6,
+      "award": "Best for Dell Laptops",
+      "name": "Dell Pro Thunderbolt 4 Smart Dock SD25TB4",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/21-k4dyJK1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F7SFQM2Y?tag=primeareviews-20",
+      "verdict": "Four-display support and 130W PD, at full rate on Dell laptops.",
+      "description": "The Dell SD25TB4 is a business dock with serious port count. It supports four 4K displays, delivers 130W PD at the full rate on Dell laptops, and adds two Thunderbolt 4 ports, 2.5GbE Ethernet, Wi-Fi, two DisplayPort 1.4 and HDMI 2.1. The 2.5GbE port gives it a faster wired connection than the AV Access models.\n\nIt ranks sixth because it is not a KVM switch, and the full charging rate applies to Dell laptops only. On other brands it may charge at a lower wattage. At $200 to $500 it also costs more than the leader, which switches between laptops.\n\nChoose it when a Dell laptop is the main machine and a second device only occasionally plugs in. The caveat is that Dell specific charging, so check the listing if your second laptop is another brand.",
+      "keySpecs": [
+        {
+          "label": "Displays",
+          "value": "4 supported at 4K"
+        },
+        {
+          "label": "Charging",
+          "value": "130W PD (full on Dell)"
+        },
+        {
+          "label": "Ports",
+          "value": "2x Thunderbolt 4, 2x DP 1.4, HDMI 2.1"
+        },
+        {
+          "label": "Network",
+          "value": "2.5GbE, Wi-Fi"
+        }
+      ],
+      "pros": [
+        "Four displays supported",
+        "2.5GbE Ethernet",
+        "Wi-Fi built in",
+        "Two Thunderbolt 4 ports"
+      ],
+      "cons": [
+        "Full charge only on Dell",
+        "Not a KVM"
+      ],
+      "idealFor": "Dell laptop users in a business setup.",
+      "skipIf": "You use non-Dell laptops."
+    },
+    {
+      "id": "plugable-thunderbolt-4-dock-macbook",
+      "rank": 7,
+      "award": "Best for Mac and Windows Pair",
+      "name": "Plugable Thunderbolt 4 Dock for M4/M5 MacBook Air & Pro",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-20",
+      "verdict": "A certified Thunderbolt 4 dock with driverless setup.",
+      "description": "The Plugable is a Thunderbolt 4 certified dock aimed at M4 and M5 MacBooks. It charges at 100W, drives dual 4K HDMI or a single 6K display, offers six USB ports, an SD reader and Ethernet, and installs without drivers. Certification matters because it guarantees the full Thunderbolt feature set rather than a loose USB-C approximation.\n\nIt ranks last because it serves one host at a time and has no KVM switching, so a second laptop means unplugging. Against the Anker, it has fewer displays but costs less, in the $100 to $200 bracket.\n\nBuy it when the Mac is the machine you dock daily and the second laptop only visits. The caveat is that missing switch: for two laptops sharing a monitor and keyboard, the AV Access models above are the better answer.",
+      "keySpecs": [
+        {
+          "label": "Certification",
+          "value": "Thunderbolt 4"
+        },
+        {
+          "label": "Charging",
+          "value": "100W"
+        },
+        {
+          "label": "Video",
+          "value": "Dual 4K HDMI or single 6K"
+        },
+        {
+          "label": "Setup",
+          "value": "Driverless"
+        }
+      ],
+      "pros": [
+        "Thunderbolt 4 certified",
+        "100W charging",
+        "Driverless setup",
+        "Six USB ports"
+      ],
+      "cons": [
+        "Not a KVM switch",
+        "Serves one host"
+      ],
+      "idealFor": "A pair where the Mac needs certified Thunderbolt 4.",
+      "skipIf": "You want one-box switching."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Laptop inputs",
+      "description": "KVM docks with two inputs ranked above single-host docks."
+    },
+    {
+      "title": "Charging per laptop",
+      "description": "Stated PD wattage per laptop was compared."
+    },
+    {
+      "title": "Monitor output",
+      "description": "Display count and resolution were weighed."
+    },
+    {
+      "title": "Switching method",
+      "description": "Built-in KVM and hotkey switching were compared with manual cable swaps."
+    },
+    {
+      "title": "Price tier",
+      "description": "Value was judged within each bracket."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "KVM vs standard dock",
+      "detail": "A KVM dock shares monitors, a keyboard and a mouse across two computers, while a standard dock serves one host at a time. This is the choice that decides everything else. Search the title for KVM and two laptops. Without that wording, assume you will be moving cables, as you would with the Anker, Dell or Plugable."
+    },
+    {
+      "factor": "Power delivery per laptop",
+      "detail": "Power delivery is the wattage sent to each laptop. Many ultrabooks need 65W while workstation machines want 100W or more, and an underpowered dock charges slowly or drains under load. Compare your laptop charger rating against the listing. The AV Access leader lists 100W per laptop, while its dual HDMI sibling offers 60W."
+    },
+    {
+      "factor": "EDID emulation",
+      "detail": "EDID emulation tells your computer that monitors are still connected when the dock switches to the other laptop. Without it, windows can jump or collapse onto one screen after every switch, which becomes maddening on a dual-monitor desk. Look for the term EDID emulation in the bullets. The AV Access models list it and the 13-in-1 does not."
+    },
+    {
+      "factor": "Display support",
+      "detail": "Docks differ in how many monitors they drive and at what refresh rate. A dock may say 4K but only at 30Hz, or list dual 4K60Hz in one place and single 4K120Hz in another. Read the exact figure, such as dual 4K60Hz on the 13-in-1 or triple 4K60Hz on the Anker, then match it to your monitors."
+    },
+    {
+      "factor": "Host compatibility",
+      "detail": "Host compatibility decides whether the dock works at all. Thunderbolt docks suit Thunderbolt laptops, DisplayLink docks like the Anker need a driver, and the Dell reaches full charging only on Dell machines. Check the ports on both laptops and read the listing for any brand limits before you buy."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Charging Need",
+      "intro": "Match the dock's wattage to your laptops.",
+      "table": {
+        "headers": [
+          "Charger",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Both laptops need 100W",
+            "AV Access KVM Dock (100W PD)"
+          ],
+          [
+            "Laptops under 60W",
+            "AV Access KVM Dock (2 USB-C MST)"
+          ],
+          [
+            "Dell laptop at 130W",
+            "Dell SD25TB4"
+          ],
+          [
+            "MacBook at 100W",
+            "Plugable Thunderbolt 4 Dock"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$100-200",
+            "AV Access KVM Dock (100W PD), 13-in-1 KVM Dock or Plugable Dock"
+          ],
+          [
+            "$200-500",
+            "AV Access 2 USB-C MST, AV Access 8K, Anker DL7400 or Dell SD25TB4"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "KVM Dock vs Standard Dock",
+      "cards": [
+        {
+          "label": "KVM dock",
+          "text": "One box switches two laptops. The AV Access docks and 13-in-1 KVM fit here."
+        },
+        {
+          "label": "Standard dock",
+          "text": "Serves one laptop at a time. The Anker DL7400, Dell SD25TB4 and Plugable dock fit here."
+        }
+      ],
+      "note": "Most buyers with two laptops should choose a KVM dock."
+    },
+    {
+      "subheading": "By Monitor Setup",
+      "table": {
+        "headers": [
+          "Setup",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Dual 4K",
+            "AV Access KVM Dock (100W PD)"
+          ],
+          [
+            "Single 4K120Hz",
+            "13-in-1 KVM Dock"
+          ],
+          [
+            "Triple monitor",
+            "Anker Prime DL7400"
+          ],
+          [
+            "Four displays",
+            "Dell SD25TB4"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Mixed Mac and Windows Pairs Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A certified Thunderbolt 4 dock for the Mac and a switch for the other."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Plugable Thunderbolt 4 dock covers the Mac side."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You need four displays or Wi-Fi, so the Dell SD25TB4 fits."
+        },
+        {
+          "label": "Save if",
+          "text": "You just want switching and 100W, so the AV Access 100W dock does it."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can one dock charge two laptops?",
+      "a": "The KVM docks here list per-laptop charging, such as 100W PD on each input of the AV Access model. Standard docks like the Plugable charge only the laptop connected. Check the wattage each machine needs."
+    },
+    {
+      "q": "What mistake do buyers make?",
+      "a": "Buying a standard dock and expecting it to switch laptops. Only a KVM dock, like the AV Access or the 13-in-1, does that. The Anker and Dell are excellent docks, but each serves one host at a time."
+    },
+    {
+      "q": "Is the AV Access worth it over the 13-in-1?",
+      "a": "If you want per-laptop 100W spelled out and EDID emulation, yes. The 13-in-1 gains a single 4K120Hz option and mixed inputs, so choose it if one fast monitor matters more than window stability."
+    },
+    {
+      "q": "How do I switch between laptops?",
+      "a": "Press the switch button or a keyboard hotkey, depending on the model. The AV Access 8K lists hotkey switching for its two computers. Check the listing so you know whether the model offers a button, hotkey or both."
+    },
+    {
+      "q": "How do I avoid windows rearranging?",
+      "a": "Pick a dock with EDID emulation, like the AV Access models, which keeps monitors recognised during a switch. Without it, windows can collapse onto one screen, so the 13-in-1 may need a manual rearrange."
+    },
+    {
+      "q": "Does the Dell dock charge non-Dell laptops?",
+      "a": "The listing says the 130W rate is the full speed on Dell laptops. Other brands may charge at a lower rate, so the Dell SD25TB4 suits a Dell-led desk better than a mixed pair."
+    }
+  ],
+  "finalTake": "Buy the AV Access 100W KVM dock if two laptops need full charging and one-box switching. Take the 13-in-1 if a single 4K120Hz screen matters more. Pick a standard dock only when one laptop needs the heavy display load, since the Anker, Dell and Plugable cannot switch between hosts. Check your chargers' wattage first, because it decides which dock fits.",
+  "related": [
+    "best-kvm-docking-stations-for-two-computers",
+    "best-budget-docking-stations-under-100",
+    "best-docking-stations-for-4k-120hz-monitors"
+  ]
 }

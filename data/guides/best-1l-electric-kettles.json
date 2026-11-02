@@ -1,59 +1,465 @@
 {
-"slug":"best-1l-electric-kettles","category":"kitchen",
-"h1":"The 6 Best 1L Electric Kettles of 2026, Ranked & Reviewed",
-"metaTitle":"Best 1L Electric Kettles 2026: Ranked & Reviewed",
-"metaDescription":"Ranked and reviewed by Primea: six 1 liter electric kettles in stainless steel and glass, with wattage, spout style and price brackets compared.",
-"mainKeyword":"1L Electric Kettles","publishedAt":"2026-11-01","updatedAt":"2026-11-01","readTime":"9 min",
-"heroImage":"https://m.media-amazon.com/images/I/41MTGCO92+L._SL500_.jpg",
-"summary":"The Amazon Basics stainless kettle is our top pick: 1500W, a full steel body and a fair $25 to $50 price. If you share the kitchen with kids, the double-wall Cuisinart keeps the outside cooler for a similar spend. Pour-over drinkers should look at the YPJKR gooseneck, and anyone under $25 can pick between the Hamilton Beach and the Amazon Basics glass carafe.",
-"intro":["A one liter kettle is the right size for more kitchens than people admit. Most mornings you need two mugs of tea or a single pour-over, not a full 1.7 liter jug that takes longer to heat and leaves stale water sitting in the base. The smaller body also tucks under low cabinets and takes up less counter.","The tradeoff is that a 1L kettle punishes the wrong pick. With so little water inside, wall design, spout shape and wattage matter more than brand. We reviewed six compact kettles across stainless steel, double-wall and glass builds, then scored each on the Primea framework for boil speed, how hot the outside gets, pour control and what each price bracket really buys."],
-"products":[
-{"id":"amazon-basics-1l-stainless","rank":1,"award":"Best Overall","name":"Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee","score":92,"imageUrl":"https://m.media-amazon.com/images/I/41MTGCO92+L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B072DWYBL7?tag=primeareviews-20","verdict":"A 1500W stainless steel 1L kettle that balances speed and price.",
-"description":"This is the plain, sensible 1L kettle that most people should buy. The body is stainless steel, the element is rated at 1500W, and capacity tops out at 1 liter, which is about four standard mugs. It lands in the $25 to $50 bracket.\n\nIt takes first place because nothing else here combines full 1500W power with an all-steel body at this price. The Cuisinart and ZWILLING add a double wall, which matters for safety, but neither lists its wattage, so we cannot credit them with faster boils. The glass Amazon Basics matches the power but costs less for a reason.\n\nBuy it if you want a quick, durable kettle for one or two drinkers. The caveat: a single-wall steel shell gets hot during and right after a boil, so keep small hands away.",
-"keySpecs":[{"label":"Capacity","value":"1L"},{"label":"Power","value":"1500W"},{"label":"Material","value":"Stainless steel"},{"label":"Price bracket","value":"$25-50"}],
-"pros":["1500W power","Stainless steel body","1L compact size","Known brand"],"cons":["Costs $25-50","Outside may get hot"],
-"idealFor":"One or two drinkers.","skipIf":"You want a cool-touch body."},
-{"id":"cuisinart-1l-double-wall","rank":2,"award":"Best Double Wall","name":"Cuisinart Electric Kettle","score":89,"imageUrl":"https://m.media-amazon.com/images/I/31taEiXna7L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0DD5FH26S?tag=primeareviews-20","verdict":"Double-wall stainless in a 1L body.",
-"description":"Cuisinart's 1L kettle is built around a double-wall stainless body, an inner shell that holds the water and an outer shell that stays noticeably cooler to the touch. It sits in the same $25 to $50 bracket as our top pick.\n\nIt ranks second, not first, because the listing does not give a wattage figure. The Amazon Basics stainless tells you exactly what you get at 1500W. Against the ZWILLING above it in price, though, the Cuisinart offers the same double-wall idea for meaningfully less, which is why it outranks the premium pick.\n\nChoose it for a shared kitchen, an office pantry, or any home where someone might grab the kettle by the body instead of the handle. If boil speed is your top priority, the confirmed 1500W of the Amazon Basics is the safer bet.",
-"keySpecs":[{"label":"Capacity","value":"1L"},{"label":"Wall","value":"Double-wall stainless"},{"label":"Price bracket","value":"$25-50"},{"label":"Brand","value":"Cuisinart"}],
-"pros":["Double-wall build","1L size","Stainless steel","Mid price"],"cons":["No wattage listed","Few specs"],
-"idealFor":"Shared kitchens.","skipIf":"You need wattage details."},
-{"id":"zwilling-enfinigy-cool-touch","rank":3,"award":"Best Premium","name":"ZWILLING Enfinigy Cool Touch Electric Kettle","score":86,"imageUrl":"https://m.media-amazon.com/images/I/31+XkS+lI1L._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B09X68GBKK?tag=primeareviews-20","verdict":"A double-wall stainless kettle from a premium brand.",
-"description":"ZWILLING's Enfinigy Cool Touch is the design-led option in this group. Like the Cuisinart, it uses a double-wall stainless body to keep the exterior cool, and it holds 1 liter. The difference is the price, which steps up to the $50 to $100 bracket.\n\nIt sits third because, on paper, you are paying roughly double the Cuisinart for the same core safety feature. Neither lists a wattage, so there is no speed advantage we can verify. What the extra money buys is ZWILLING's styling and finish, which matters if the kettle lives on an open counter.\n\nBuy it if the kettle is part of how your kitchen looks and you want a cool-touch body too. Skip it if function is all you care about, because the Cuisinart covers the same job for less.",
-"keySpecs":[{"label":"Capacity","value":"1L"},{"label":"Wall","value":"Double-wall stainless"},{"label":"Style","value":"Cool Touch"},{"label":"Price bracket","value":"$50-100"}],
-"pros":["Cool Touch design","Double-wall stainless","1L size","Premium brand"],"cons":["Costs $50-100","No wattage listed"],
-"idealFor":"Design-minded buyers.","skipIf":"You want the lowest price."},
-{"id":"ypjkr-1l-gooseneck","rank":4,"award":"Best Gooseneck","name":"YPJKR Electric Kettle 1.0L","score":83,"imageUrl":"https://m.media-amazon.com/images/I/41ZX9uRVPBL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B0GV674841?tag=primeareviews-20","verdict":"A 1200W stainless kettle with a gooseneck spout.",
-"description":"The YPJKR is the only gooseneck kettle in this ranking. It pairs a stainless steel body and 1 liter capacity with a long, narrow spout that lets you control exactly where and how fast the water lands. Power is 1200W and it sells in the $25 to $50 bracket.\n\nThat spout is why it beats the budget picks, and its element is why it trails the top three. At 1200W it will take longer to boil than the 1500W Amazon Basics models. For pour-over coffee or careful tea, precision matters more than a few seconds of speed.\n\nBuy it if you brew pour-over or want a slow, steady pour for delicate leaves. The caveat is brand track record: YPJKR is far less established than Cuisinart or Hamilton Beach, so check the warranty terms before you order.",
-"keySpecs":[{"label":"Capacity","value":"1.0L"},{"label":"Power","value":"1200W"},{"label":"Spout","value":"Gooseneck"},{"label":"Material","value":"Stainless steel"}],
-"pros":["Gooseneck spout","Stainless steel","1L size","Mid price"],"cons":["Only 1200W","Lesser-known brand"],
-"idealFor":"Pour-over coffee.","skipIf":"You want fastest boil."},
-{"id":"hamilton-beach-1l","rank":5,"award":"Budget Pick","name":"Hamilton Beach 1 Liter Electric Tea Kettle","score":80,"imageUrl":"https://m.media-amazon.com/images/I/3191tICEVGL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B00ZPN3O2I?tag=primeareviews-20","verdict":"A 1 liter kettle under $25.",
-"description":"Hamilton Beach is one of the most familiar names in small appliances, and this 1L tea kettle is its compact entry for the under $25 bracket. Capacity is the one figure the listing commits to clearly.\n\nIt ranks fifth because the listing leaves out the details we score on, including body material and wattage. The Amazon Basics glass model below it at least confirms 1500W. What lifts the Hamilton Beach above that glass carafe is a longer brand history and wider service support, which counts for a lot at this price.\n\nBuy it if you want the cheapest reliable name for simple boiling and do not care about specs. If you want to know exactly what you are getting, spend a little more on the Amazon Basics stainless and get a confirmed 1500W steel kettle.",
-"keySpecs":[{"label":"Capacity","value":"1L"},{"label":"Price bracket","value":"Under $25"},{"label":"Brand","value":"Hamilton Beach"},{"label":"Details","value":"Few listed"}],
-"pros":["Under $25","1L size","Known brand","Simple"],"cons":["Few specs listed","No wattage"],
-"idealFor":"Basic boiling.","skipIf":"You want confirmed specs."},
-{"id":"amazon-basics-1l-glass","rank":6,"award":"Cheapest Glass","name":"Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee","score":78,"imageUrl":"https://m.media-amazon.com/images/I/31Ui7mtlCOL._SL500_.jpg","amazonUrl":"https://www.amazon.com/dp/B082MVGP8T?tag=primeareviews-20","verdict":"A 1500W glass 1L kettle under $25.",
-"description":"This Amazon Basics model swaps the steel shell for a glass carafe, so you can watch the water roll to a boil. It keeps the same 1500W element and 1 liter capacity as its stainless sibling and sells for under $25.\n\nIt ranks last because glass has real everyday drawbacks. Mineral scale shows up clearly in hard water areas, the carafe gets hot, and glass is less forgiving of a knock against the tap. The Hamilton Beach costs about the same and comes from a longer-running appliance brand, which is why it edges ahead.\n\nBuy it if you like seeing the water and want 1500W for the least money. Plan to descale it every few weeks if your water is hard, and skip it if the kettle gets handled roughly.",
-"keySpecs":[{"label":"Capacity","value":"1L"},{"label":"Power","value":"1500W"},{"label":"Material","value":"Glass"},{"label":"Price bracket","value":"Under $25"}],
-"pros":["Under $25","1500W power","See the water","1L size"],"cons":["Shows limescale","Glass is fragile"],
-"idealFor":"Watching the boil.","skipIf":"You are rough on gear."}
-],
-"methodology":[{"title":"Speed","description":"We compared listed wattage."},{"title":"Material","description":"We compared stainless and glass."},{"title":"Wall design","description":"We noted double-wall builds."},{"title":"Spout","description":"We compared gooseneck and standard."},{"title":"Price bracket","description":"We compared what each bracket buys."}],
-"whatMatters":[
-{"factor":"Wattage","detail":"Wattage is the power rating of the heating element, and it largely decides how long you wait. In a 1L kettle, 1500W is the practical ceiling on a standard US outlet, while 1200W models boil more slowly. Find the figure in the listing title or spec table. If it is missing, as on the Cuisinart and ZWILLING, do not assume it matches the fastest picks."},
-{"factor":"Material","detail":"Stainless steel and glass each change daily life. Steel resists knocks and hides mineral build-up, while glass shows the boil but also every spot of scale. In hard water areas a glass carafe needs descaling far more often to look clean. Check the material line in the spec table, and be wary when a listing only says the kettle has a stainless finish or trim."},
-{"factor":"Double wall","detail":"A double wall puts an air gap between the boiling water and the outer shell, so the body stays far cooler to the touch. That matters in homes with children or in shared office kitchens. Look for the words double-wall or cool touch in the title, as on the Cuisinart and ZWILLING. A single-wall steel kettle gets hot enough to burn."},
-{"factor":"Spout","detail":"The spout shape decides how much control you have over the pour. A standard spout dumps water quickly, which is fine for mugs and pots. A gooseneck like the YPJKR's narrows the stream so you can pour slowly and precisely over coffee grounds. Look at the product photos rather than the title, because gooseneck is sometimes buried deep in the listing text."},
-{"factor":"Capacity","detail":"One liter is roughly four mugs, or one full French press. That is ideal for one or two people but runs short for a family breakfast. If you regularly brew for three or more, a 1.7L kettle saves refills. Check the maximum fill line, not just the headline number, since some kettles list total volume rather than the usable fill."}],
-"howToChoose":[
-{"subheading":"By Use","intro":"Use decides material and spout.","table":{"headers":["Use","Our pick"],"rows":[["General","Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"],["Pour-over","YPJKR Electric Kettle 1.0L"],["Cooler outside","Cuisinart Electric Kettle"],["Design piece","ZWILLING Enfinigy Cool Touch Electric Kettle"]]}},
-{"subheading":"By Budget","table":{"headers":["Spend","Our pick"],"rows":[["Under $25","Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee"],["Under $25 brand","Hamilton Beach 1 Liter Electric Tea Kettle"],["$25-50","Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"],["$50-100","ZWILLING Enfinigy Cool Touch Electric Kettle"]]}},
-{"subheading":"Stainless vs Glass","cards":[{"label":"Stainless","text":"Durable and opaque. Amazon Basics stainless, Cuisinart, ZWILLING and YPJKR are stainless."},{"label":"Glass","text":"Shows the boil but scales visibly. The Amazon Basics glass is the example."}],"note":"Most buyers should default to stainless."},
-{"subheading":"By Safety","table":{"headers":["Priority","Our pick"],"rows":[["Cool exterior","Cuisinart Electric Kettle"],["Cool exterior premium","ZWILLING Enfinigy Cool Touch Electric Kettle"],["Fast boil","Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"],["Visible water","Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee"]]}},
-{"subheading":"For Small Kitchens Specifically","cards":[{"label":"Look for","text":"1L capacity and a compact base."},{"label":"In this ranking","text":"All six are 1L, with the Cuisinart as a compact double-wall option."}]},
-{"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You want a cooler exterior, as the ZWILLING offers."},{"label":"Save if","text":"You just boil water, where the Amazon Basics glass is under $25."}]}],
-"faq":[{"q":"How many cups?","a":"About four standard 8 ounce mugs, or one full French press. In practice you get a little less, because you should never fill past the max line. Any of these six, from the Amazon Basics stainless to the YPJKR, delivers roughly that."},{"q":"Is 1L enough?","a":"For one or two people, yes, and it heats faster than a big kettle because there is less water. For a family breakfast you will refill. If that happens daily, a 1L kettle like the Amazon Basics stainless is the wrong size for you."},{"q":"Stainless or glass?","a":"Stainless for most homes. It survives knocks and hides limescale, which is why the Amazon Basics stainless ranks first. Glass, as on the cheaper Amazon Basics carafe, is fun to watch but shows scale quickly and needs more careful handling around the sink."},{"q":"How to descale?","a":"Fill it halfway with equal parts white vinegar and water, bring it to a boil, let it sit for 20 minutes, then rinse and boil plain water twice. Glass models like the Amazon Basics carafe need this more often in hard water areas."},{"q":"Does double wall matter?","a":"Yes, if anyone might touch the body. A double wall like the Cuisinart's or ZWILLING's keeps the outside far cooler than a single steel shell. It does not boil faster, it simply makes the kettle safer to handle around kids or in a shared kitchen."},{"q":"Do I need a gooseneck?","a":"Only if you brew pour-over coffee or like a slow, careful pour. The YPJKR is the gooseneck pick here. For mugs, teapots and instant noodles, a standard spout like the Amazon Basics stainless is quicker and simpler to use."}],
-"finalTake":"The Amazon Basics stainless kettle is the one we would put on most counters: 1500W, an all-steel body and a fair price. Want a cooler exterior for a busy household? The double-wall Cuisinart is the smart buy, with the ZWILLING as the styled upgrade. Coffee people should go straight to the YPJKR gooseneck, and tight budgets are well served by the Hamilton Beach.",
-"related":[]
+  "slug": "best-1l-electric-kettles",
+  "category": "kitchen",
+  "h1": "The 6 Best 1L Electric Kettles of 2026, Ranked & Reviewed",
+  "metaTitle": "Best 1L Electric Kettles 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: six 1 liter electric kettles in stainless steel and glass, with wattage, spout style and price brackets compared.",
+  "mainKeyword": "1L Electric Kettles",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "9 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41MTGCO92+L._SL500_.jpg",
+  "summary": "The Amazon Basics stainless kettle is our top pick: 1500W, a full steel body and a fair $25 to $50 price. If you share the kitchen with kids, the double-wall Cuisinart keeps the outside cooler for a similar spend. Pour-over drinkers should look at the YPJKR gooseneck, and anyone under $25 can pick between the Hamilton Beach and the Amazon Basics glass carafe.",
+  "intro": [
+    "A one liter kettle is the right size for more kitchens than people admit. Most mornings you need two mugs of tea or a single pour-over, not a full 1.7 liter jug that takes longer to heat and leaves stale water sitting in the base. The smaller body also tucks under low cabinets and takes up less counter.",
+    "The tradeoff is that a 1L kettle punishes the wrong pick. With so little water inside, wall design, spout shape and wattage matter more than brand. We reviewed six compact kettles across stainless steel, double-wall and glass builds, then scored each on the Primea framework for boil speed, how hot the outside gets, pour control and what each price bracket really buys."
+  ],
+  "products": [
+    {
+      "id": "amazon-basics-1l-stainless",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41MTGCO92+L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B072DWYBL7?tag=primeareviews-20",
+      "verdict": "A 1500W stainless steel 1L kettle that balances speed and price.",
+      "description": "This is the plain, sensible 1L kettle that most people should buy. The body is stainless steel, the element is rated at 1500W, and capacity tops out at 1 liter, which is about four standard mugs. It lands in the $25 to $50 bracket.\n\nIt takes first place because nothing else here combines full 1500W power with an all-steel body at this price. The Cuisinart and ZWILLING add a double wall, which matters for safety, but neither lists its wattage, so we cannot credit them with faster boils. The glass Amazon Basics matches the power but costs less for a reason.\n\nBuy it if you want a quick, durable kettle for one or two drinkers. The caveat: a single-wall steel shell gets hot during and right after a boil, so keep small hands away.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1L"
+        },
+        {
+          "label": "Power",
+          "value": "1500W"
+        },
+        {
+          "label": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25-50"
+        }
+      ],
+      "pros": [
+        "1500W power",
+        "Stainless steel body",
+        "1L compact size",
+        "Known brand"
+      ],
+      "cons": [
+        "Costs $25-50",
+        "Outside may get hot"
+      ],
+      "idealFor": "One or two drinkers.",
+      "skipIf": "You want a cool-touch body."
+    },
+    {
+      "id": "cuisinart-1l-double-wall",
+      "rank": 2,
+      "award": "Best Double Wall",
+      "name": "Cuisinart Electric Kettle",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/31taEiXna7L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DD5FH26S?tag=primeareviews-20",
+      "verdict": "Double-wall stainless in a 1L body.",
+      "description": "Cuisinart's 1L kettle is built around a double-wall stainless body, an inner shell that holds the water and an outer shell that stays noticeably cooler to the touch. It sits in the same $25 to $50 bracket as our top pick.\n\nIt ranks second, not first, because the listing does not give a wattage figure. The Amazon Basics stainless tells you exactly what you get at 1500W. Against the ZWILLING above it in price, though, the Cuisinart offers the same double-wall idea for meaningfully less, which is why it outranks the premium pick.\n\nChoose it for a shared kitchen, an office pantry, or any home where someone might grab the kettle by the body instead of the handle. If boil speed is your top priority, the confirmed 1500W of the Amazon Basics is the safer bet.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1L"
+        },
+        {
+          "label": "Wall",
+          "value": "Double-wall stainless"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25-50"
+        },
+        {
+          "label": "Brand",
+          "value": "Cuisinart"
+        }
+      ],
+      "pros": [
+        "Double-wall build",
+        "1L size",
+        "Stainless steel",
+        "Mid price"
+      ],
+      "cons": [
+        "No wattage listed",
+        "Few specs"
+      ],
+      "idealFor": "Shared kitchens.",
+      "skipIf": "You need wattage details."
+    },
+    {
+      "id": "zwilling-enfinigy-cool-touch",
+      "rank": 3,
+      "award": "Best Premium",
+      "name": "ZWILLING Enfinigy Cool Touch Electric Kettle",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/31+XkS+lI1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09X68GBKK?tag=primeareviews-20",
+      "verdict": "A double-wall stainless kettle from a premium brand.",
+      "description": "ZWILLING's Enfinigy Cool Touch is the design-led option in this group. Like the Cuisinart, it uses a double-wall stainless body to keep the exterior cool, and it holds 1 liter. The difference is the price, which steps up to the $50 to $100 bracket.\n\nIt sits third because, on paper, you are paying roughly double the Cuisinart for the same core safety feature. Neither lists a wattage, so there is no speed advantage we can verify. What the extra money buys is ZWILLING's styling and finish, which matters if the kettle lives on an open counter.\n\nBuy it if the kettle is part of how your kitchen looks and you want a cool-touch body too. Skip it if function is all you care about, because the Cuisinart covers the same job for less.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1L"
+        },
+        {
+          "label": "Wall",
+          "value": "Double-wall stainless"
+        },
+        {
+          "label": "Style",
+          "value": "Cool Touch"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$50-100"
+        }
+      ],
+      "pros": [
+        "Cool Touch design",
+        "Double-wall stainless",
+        "1L size",
+        "Premium brand"
+      ],
+      "cons": [
+        "Costs $50-100",
+        "No wattage listed"
+      ],
+      "idealFor": "Design-minded buyers.",
+      "skipIf": "You want the lowest price."
+    },
+    {
+      "id": "ypjkr-1l-gooseneck",
+      "rank": 4,
+      "award": "Best Gooseneck",
+      "name": "YPJKR Electric Kettle 1.0L",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ZX9uRVPBL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GV674841?tag=primeareviews-20",
+      "verdict": "A 1200W stainless kettle with a gooseneck spout.",
+      "description": "The YPJKR is the only gooseneck kettle in this ranking. It pairs a stainless steel body and 1 liter capacity with a long, narrow spout that lets you control exactly where and how fast the water lands. Power is 1200W and it sells in the $25 to $50 bracket.\n\nThat spout is why it beats the budget picks, and its element is why it trails the top three. At 1200W it will take longer to boil than the 1500W Amazon Basics models. For pour-over coffee or careful tea, precision matters more than a few seconds of speed.\n\nBuy it if you brew pour-over or want a slow, steady pour for delicate leaves. The caveat is brand track record: YPJKR is far less established than Cuisinart or Hamilton Beach, so check the warranty terms before you order.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1.0L"
+        },
+        {
+          "label": "Power",
+          "value": "1200W"
+        },
+        {
+          "label": "Spout",
+          "value": "Gooseneck"
+        },
+        {
+          "label": "Material",
+          "value": "Stainless steel"
+        }
+      ],
+      "pros": [
+        "Gooseneck spout",
+        "Stainless steel",
+        "1L size",
+        "Mid price"
+      ],
+      "cons": [
+        "Only 1200W",
+        "Lesser-known brand"
+      ],
+      "idealFor": "Pour-over coffee.",
+      "skipIf": "You want fastest boil."
+    },
+    {
+      "id": "hamilton-beach-1l",
+      "rank": 5,
+      "award": "Budget Pick",
+      "name": "Hamilton Beach 1 Liter Electric Tea Kettle",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/3191tICEVGL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00ZPN3O2I?tag=primeareviews-20",
+      "verdict": "A 1 liter kettle under $25.",
+      "description": "Hamilton Beach is one of the most familiar names in small appliances, and this 1L tea kettle is its compact entry for the under $25 bracket. Capacity is the one figure the listing commits to clearly.\n\nIt ranks fifth because the listing leaves out the details we score on, including body material and wattage. The Amazon Basics glass model below it at least confirms 1500W. What lifts the Hamilton Beach above that glass carafe is a longer brand history and wider service support, which counts for a lot at this price.\n\nBuy it if you want the cheapest reliable name for simple boiling and do not care about specs. If you want to know exactly what you are getting, spend a little more on the Amazon Basics stainless and get a confirmed 1500W steel kettle.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1L"
+        },
+        {
+          "label": "Price bracket",
+          "value": "Under $25"
+        },
+        {
+          "label": "Brand",
+          "value": "Hamilton Beach"
+        },
+        {
+          "label": "Details",
+          "value": "Few listed"
+        }
+      ],
+      "pros": [
+        "Under $25",
+        "1L size",
+        "Known brand",
+        "Simple"
+      ],
+      "cons": [
+        "Few specs listed",
+        "No wattage"
+      ],
+      "idealFor": "Basic boiling.",
+      "skipIf": "You want confirmed specs."
+    },
+    {
+      "id": "amazon-basics-1l-glass",
+      "rank": 6,
+      "award": "Cheapest Glass",
+      "name": "Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Ui7mtlCOL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B082MVGP8T?tag=primeareviews-20",
+      "verdict": "A 1500W glass 1L kettle under $25.",
+      "description": "This Amazon Basics model swaps the steel shell for a glass carafe, so you can watch the water roll to a boil. It keeps the same 1500W element and 1 liter capacity as its stainless sibling and sells for under $25.\n\nIt ranks last because glass has real everyday drawbacks. Mineral scale shows up clearly in hard water areas, the carafe gets hot, and glass is less forgiving of a knock against the tap. The Hamilton Beach costs about the same and comes from a longer-running appliance brand, which is why it edges ahead.\n\nBuy it if you like seeing the water and want 1500W for the least money. Plan to descale it every few weeks if your water is hard, and skip it if the kettle gets handled roughly.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "1L"
+        },
+        {
+          "label": "Power",
+          "value": "1500W"
+        },
+        {
+          "label": "Material",
+          "value": "Glass"
+        },
+        {
+          "label": "Price bracket",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Under $25",
+        "1500W power",
+        "See the water",
+        "1L size"
+      ],
+      "cons": [
+        "Shows limescale",
+        "Glass is fragile"
+      ],
+      "idealFor": "Watching the boil.",
+      "skipIf": "You are rough on gear."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Speed",
+      "description": "We compared listed wattage."
+    },
+    {
+      "title": "Material",
+      "description": "We compared stainless and glass."
+    },
+    {
+      "title": "Wall design",
+      "description": "We noted double-wall builds."
+    },
+    {
+      "title": "Spout",
+      "description": "We compared gooseneck and standard."
+    },
+    {
+      "title": "Price bracket",
+      "description": "We compared what each bracket buys."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Wattage",
+      "detail": "Wattage is the power rating of the heating element, and it largely decides how long you wait. In a 1L kettle, 1500W is the practical ceiling on a standard US outlet, while 1200W models boil more slowly. Find the figure in the listing title or spec table. If it is missing, as on the Cuisinart and ZWILLING, do not assume it matches the fastest picks."
+    },
+    {
+      "factor": "Material",
+      "detail": "Stainless steel and glass each change daily life. Steel resists knocks and hides mineral build-up, while glass shows the boil but also every spot of scale. In hard water areas a glass carafe needs descaling far more often to look clean. Check the material line in the spec table, and be wary when a listing only says the kettle has a stainless finish or trim."
+    },
+    {
+      "factor": "Double wall",
+      "detail": "A double wall puts an air gap between the boiling water and the outer shell, so the body stays far cooler to the touch. That matters in homes with children or in shared office kitchens. Look for the words double-wall or cool touch in the title, as on the Cuisinart and ZWILLING. A single-wall steel kettle gets hot enough to burn."
+    },
+    {
+      "factor": "Spout",
+      "detail": "The spout shape decides how much control you have over the pour. A standard spout dumps water quickly, which is fine for mugs and pots. A gooseneck like the YPJKR's narrows the stream so you can pour slowly and precisely over coffee grounds. Look at the product photos rather than the title, because gooseneck is sometimes buried deep in the listing text."
+    },
+    {
+      "factor": "Capacity",
+      "detail": "One liter is roughly four mugs, or one full French press. That is ideal for one or two people but runs short for a family breakfast. If you regularly brew for three or more, a 1.7L kettle saves refills. Check the maximum fill line, not just the headline number, since some kettles list total volume rather than the usable fill."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Use",
+      "intro": "Use decides material and spout.",
+      "table": {
+        "headers": [
+          "Use",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "General",
+            "Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"
+          ],
+          [
+            "Pour-over",
+            "YPJKR Electric Kettle 1.0L"
+          ],
+          [
+            "Cooler outside",
+            "Cuisinart Electric Kettle"
+          ],
+          [
+            "Design piece",
+            "ZWILLING Enfinigy Cool Touch Electric Kettle"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee"
+          ],
+          [
+            "Under $25 brand",
+            "Hamilton Beach 1 Liter Electric Tea Kettle"
+          ],
+          [
+            "$25-50",
+            "Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"
+          ],
+          [
+            "$50-100",
+            "ZWILLING Enfinigy Cool Touch Electric Kettle"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Stainless vs Glass",
+      "cards": [
+        {
+          "label": "Stainless",
+          "text": "Durable and opaque. Amazon Basics stainless, Cuisinart, ZWILLING and YPJKR are stainless."
+        },
+        {
+          "label": "Glass",
+          "text": "Shows the boil but scales visibly. The Amazon Basics glass is the example."
+        }
+      ],
+      "note": "Most buyers should default to stainless."
+    },
+    {
+      "subheading": "By Safety",
+      "table": {
+        "headers": [
+          "Priority",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Cool exterior",
+            "Cuisinart Electric Kettle"
+          ],
+          [
+            "Cool exterior premium",
+            "ZWILLING Enfinigy Cool Touch Electric Kettle"
+          ],
+          [
+            "Fast boil",
+            "Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee"
+          ],
+          [
+            "Visible water",
+            "Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Small Kitchens Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "1L capacity and a compact base."
+        },
+        {
+          "label": "In this ranking",
+          "text": "All six are 1L, with the Cuisinart as a compact double-wall option."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want a cooler exterior, as the ZWILLING offers."
+        },
+        {
+          "label": "Save if",
+          "text": "You just boil water, where the Amazon Basics glass is under $25."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many cups?",
+      "a": "About four standard 8 ounce mugs, or one full French press. In practice you get a little less, because you should never fill past the max line. Any of these six, from the Amazon Basics stainless to the YPJKR, delivers roughly that."
+    },
+    {
+      "q": "Is 1L enough?",
+      "a": "For one or two people, yes, and it heats faster than a big kettle because there is less water. For a family breakfast you will refill. If that happens daily, a 1L kettle like the Amazon Basics stainless is the wrong size for you."
+    },
+    {
+      "q": "Stainless or glass?",
+      "a": "Stainless for most homes. It survives knocks and hides limescale, which is why the Amazon Basics stainless ranks first. Glass, as on the cheaper Amazon Basics carafe, is fun to watch but shows scale quickly and needs more careful handling around the sink."
+    },
+    {
+      "q": "How to descale?",
+      "a": "Fill it halfway with equal parts white vinegar and water, bring it to a boil, let it sit for 20 minutes, then rinse and boil plain water twice. Glass models like the Amazon Basics carafe need this more often in hard water areas."
+    },
+    {
+      "q": "Does double wall matter?",
+      "a": "Yes, if anyone might touch the body. A double wall like the Cuisinart's or ZWILLING's keeps the outside far cooler than a single steel shell. It does not boil faster, it simply makes the kettle safer to handle around kids or in a shared kitchen."
+    },
+    {
+      "q": "Do I need a gooseneck?",
+      "a": "Only if you brew pour-over coffee or like a slow, careful pour. The YPJKR is the gooseneck pick here. For mugs, teapots and instant noodles, a standard spout like the Amazon Basics stainless is quicker and simpler to use."
+    }
+  ],
+  "finalTake": "The Amazon Basics stainless kettle is the one we would put on most counters: 1500W, an all-steel body and a fair price. Want a cooler exterior for a busy household? The double-wall Cuisinart is the smart buy, with the ZWILLING as the styled upgrade. Coffee people should go straight to the YPJKR gooseneck, and tight budgets are well served by the Hamilton Beach.",
+  "related": [
+    "best-cordless-electric-kettles",
+    "best-easy-to-use-electric-kettles",
+    "best-electric-kettles-for-seniors"
+  ]
 }

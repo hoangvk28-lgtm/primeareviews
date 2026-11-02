@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/21lHiCq7mlL._SL500_.jpg",
   "summary": "The Ring Wired Doorbell 2K Plus is the best video doorbell for a mechanical chime: wired power, 2K video and no battery to recharge. The Ring 4K Pro adds 4K and 10x zoom for long driveways, and the WYZE v2 is the budget wired option. Battery and PoE models are for homes where the old wiring is not usable.",
-  "intro": ["A mechanical chime is the box in your hall with a solenoid and two tone bars, and it rings because the old button completes a low-voltage circuit. A video doorbell must live in that same circuit if you want the ding-dong to survive the upgrade. That makes the first question how the doorbell is powered, long before anyone asks about picture sharpness.","Seven models are covered here. Most of the strong picks are wired, since tapping the existing doorbell circuit is the usual way to keep a mechanical chime. Battery and PoE models are included for homes without suitable wiring, but they come with caveats you should read first: neither of them rings the hall chime by itself, so a separate plug-in chime is likely."],
+  "intro": [
+    "A mechanical chime is the box in your hall with a solenoid and two tone bars, and it rings because the old button completes a low-voltage circuit. A video doorbell must live in that same circuit if you want the ding-dong to survive the upgrade. That makes the first question how the doorbell is powered, long before anyone asks about picture sharpness.",
+    "Seven models are covered here. Most of the strong picks are wired, since tapping the existing doorbell circuit is the usual way to keep a mechanical chime. Battery and PoE models are included for homes without suitable wiring, but they come with caveats you should read first: neither of them rings the hall chime by itself, so a separate plug-in chime is likely."
+  ],
   "products": [
     {
       "id": "ring-wired-doorbell-2k-plus",
@@ -503,8 +506,8 @@
   ],
   "finalTake": "The Ring Wired Doorbell 2K Plus is the right video doorbell for a home with a working mechanical chime, because it uses the existing circuit and avoids batteries. Choose the 4K Pro for long driveways and the WYZE v2 for budget. Pick battery or PoE only when the old wiring is not an option.",
   "related": [
-    "best-paper-shredders-that-dont-overheat",
-    "best-15-sheet-paper-shredders",
-    "best-anti-tangle-robot-vacuums"
+    "best-ring-video-doorbells",
+    "best-video-doorbells-without-smartphones",
+    "best-wired-video-doorbells"
   ]
 }

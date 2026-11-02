@@ -10,7 +10,10 @@
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
   "summary": "The HP USB-C Dock G5 is the best budget dock under $100: 11 ports and its own power adapter, so it charges the laptop while you work. The Anker 8-in-1 is the sturdier hub, and the UGREEN 10-in-1 advertises dual HDMI at 4K@60Hz. The Selore targets three monitors, and the UGREEN Revodok Pro is the cheapest.",
-  "intro": ["A dock under $100 is really two products sharing a label. One is a hub, a small box that borrows power from your laptop and hands you extra ports. The other is a true dock with its own power brick that feeds the laptop back. Most listings blur the two, and the difference decides whether your laptop battery drains while you work.","We ranked seven budget docks on how honestly they deliver what the title promises. Display output came first, since many cheap docks quietly drop a second screen to 30Hz. Power delivery came next, then heat and build, then how many ports you realistically get for the money. Every score draws on listed specs and owner reports, nothing more."],
+  "intro": [
+    "A dock under $100 is really two products sharing a label. One is a hub, a small box that borrows power from your laptop and hands you extra ports. The other is a true dock with its own power brick that feeds the laptop back. Most listings blur the two, and the difference decides whether your laptop battery drains while you work.",
+    "We ranked seven budget docks on how honestly they deliver what the title promises. Display output came first, since many cheap docks quietly drop a second screen to 30Hz. Power delivery came next, then heat and build, then how many ports you realistically get for the money. Every score draws on listed specs and owner reports, nothing more."
+  ],
   "products": [
     {
       "id": "hp-usb-c-dock-g5",
@@ -507,8 +510,8 @@
   ],
   "finalTake": "The HP USB-C Dock G5 is the right budget dock for anyone who works docked all day, since it is the only one that charges the laptop. Choose the UGREEN 10-in-1 for dual 4K and the Anker 8-in-1 for build quality. Check refresh rate and power type before port count.",
   "related": [
-    "best-docking-stations-for-macbook-air",
-    "best-docking-stations-for-macbook-pro",
-    "best-budget-ergonomic-keyboards"
+    "best-docking-stations-for-4k-120hz-monitors",
+    "best-docking-stations-for-chromebooks",
+    "best-docking-stations-for-macbook-air"
   ]
 }

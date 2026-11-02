@@ -10,7 +10,10 @@
   "readTime": "9 min",
   "heroImage": "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500_.jpg",
   "summary": "The Logitech Ergo K860 is the best ergonomic keyboard for wrist pain: a curved split layout, negative tilt and a dense foam wrist rest. Adding the MX Vertical mouse treats both hands, while the Wave Keys is the gentlest entry point. The Arteck and Perixx are budget splits with real tradeoffs.",
-  "intro": ["Almost every piece of wrist advice about keyboards comes down to one idea: keep the wrists straight. A flat board bends them upward, while a split, tilted layout lets the hands and forearms rest closer to where they naturally sit. That is the design goal behind every keyboard in this ranking, from a gentle curve to a fully separated frame.","The less obvious point is that the keyboard is only half the story, because the mouse often does as much damage. So we reviewed six models, including three that pair a keyboard with a vertical mouse, and scored them on the Primea framework. None of this replaces advice from a doctor, and persistent pain, numbness or tingling deserves a medical opinion rather than a product swap."],
+  "intro": [
+    "Almost every piece of wrist advice about keyboards comes down to one idea: keep the wrists straight. A flat board bends them upward, while a split, tilted layout lets the hands and forearms rest closer to where they naturally sit. That is the design goal behind every keyboard in this ranking, from a gentle curve to a fully separated frame.",
+    "The less obvious point is that the keyboard is only half the story, because the mouse often does as much damage. So we reviewed six models, including three that pair a keyboard with a vertical mouse, and scored them on the Primea framework. None of this replaces advice from a doctor, and persistent pain, numbness or tingling deserves a medical opinion rather than a product swap."
+  ],
   "products": [
     {
       "id": "logitech-ergo-k860",
@@ -455,8 +458,8 @@
   ],
   "finalTake": "The Logitech Ergo K860 is the right ergonomic keyboard for most people dealing with wrist strain, because it combines a split layout, negative tilt and a good rest. Add a vertical mouse if you click all day, and start with the Wave Keys if a split feels like too much. See a doctor for persistent symptoms.",
   "related": [
+    "best-ergonomic-keyboards-for-carpal-tunnel",
     "best-ergonomic-keyboards-for-wrist-pain",
-    "best-bluetooth-ergonomic-keyboards",
-    "best-budget-ergonomic-keyboards"
+    "best-bluetooth-ergonomic-keyboards"
   ]
 }

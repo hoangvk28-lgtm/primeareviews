@@ -10,7 +10,10 @@
   "readTime": "11 min",
   "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
   "summary": "The Brother DCP-L2640DW is the best overall, a compact mono laser with automatic duplex, copy and scan for text-heavy offices. The Brother HL-L3220CDW is the colour laser for client-facing work, and the HP OfficeJet Pro 8139 adds fax and a feeder. The Epson EcoTank ET-2400 and HP Smart Tank 651 cut ink cost, and the HL-L2405W and WF-2930 serve light budgets.",
-  "intro": ["Small businesses tend to buy a printer on its sticker price and learn the real cost a year later in toner or ink. The cheapest unit is often the most expensive to run, and a colour printer used mostly for black text quietly wastes money. Matching the technology to what you print is the largest saving available, well ahead of any discount on the machine.","Our editors reviewed seven printers from their listings and ranked them on print technology, functions, duplex, document feeder and running cost. We give more weight to supply type than to the purchase price, because toner, cartridges and ink bottles decide long-term spend. Where a listing does not state a feature, such as duplex on the cheapest laser, we say so."],
+  "intro": [
+    "Small businesses tend to buy a printer on its sticker price and learn the real cost a year later in toner or ink. The cheapest unit is often the most expensive to run, and a colour printer used mostly for black text quietly wastes money. Matching the technology to what you print is the largest saving available, well ahead of any discount on the machine.",
+    "Our editors reviewed seven printers from their listings and ranked them on print technology, functions, duplex, document feeder and running cost. We give more weight to supply type than to the purchase price, because toner, cartridges and ink bottles decide long-term spend. Where a listing does not state a feature, such as duplex on the cheapest laser, we say so."
+  ],
   "products": [
     {
       "id": "brother-dcp-l2640dw",
@@ -23,13 +26,33 @@
       "verdict": "A compact mono laser that prints, copies and scans with automatic two-sided output.",
       "description": "The DCP-L2640DW is a wireless monochrome laser multifunction with automatic duplex printing, plus copy and scan. A laser fuses dry toner, so black text prints cheaply and does not smear, and the compact body suits a shared desk or counter. Automatic duplex halves paper use on contracts and statements.\n\nIt ranks first because most small business paper is black text, and a laser keeps the per-page cost low while the scanner covers day-to-day digitising. The HL-L2405W is cheaper but prints only, and the colour laser lacks scan and copy.\n\nBuy it for a law office, accounting firm or other text-heavy service. The caveats: no colour printing, and the $200 to $500 upfront price is above the budget models. If clients expect colour handouts, add a colour device.",
       "keySpecs": [
-        { "label": "Technology", "value": "Monochrome laser" },
-        { "label": "Functions", "value": "Print, copy, scan" },
-        { "label": "Duplex", "value": "Automatic" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Technology",
+          "value": "Monochrome laser"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, copy, scan"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["Automatic duplex", "Copy and scan built in", "Wireless", "Compact body"],
-      "cons": ["No color printing", "Higher upfront price"],
+      "pros": [
+        "Automatic duplex",
+        "Copy and scan built in",
+        "Wireless",
+        "Compact body"
+      ],
+      "cons": [
+        "No color printing",
+        "Higher upfront price"
+      ],
       "idealFor": "Text-heavy offices like law and accounting.",
       "skipIf": "You need color output for clients."
     },
@@ -44,13 +67,33 @@
       "verdict": "Professional color pages at up to 19 per minute with duplex and a 250-sheet tray.",
       "description": "The HL-L3220CDW is a laser that prints in colour at a rated up to 19 pages per minute, holds 250 sheets in its tray, and flips pages itself for two-sided jobs. It handles wireless and mobile printing, and is built for daily professional office use. Colour laser toner dries on the page, which resists smudging on brochures and listings.\n\nIt ranks second because colour laser output looks sharp for client-facing documents, but it is print only, and a full toner set is costly. The DCP-L2640DW scans and copies, which this model cannot.\n\nBuy it for design studios, real estate offices and agencies that print colour handouts. Skip it if you also need scanning. The caveat is toner cost: four cartridges add up, so check the page yield before you buy.",
       "keySpecs": [
-        { "label": "Technology", "value": "Color laser" },
-        { "label": "Speed", "value": "Up to 19 ppm" },
-        { "label": "Tray", "value": "250 sheets" },
-        { "label": "Duplex", "value": "Automatic" }
+        {
+          "label": "Technology",
+          "value": "Color laser"
+        },
+        {
+          "label": "Speed",
+          "value": "Up to 19 ppm"
+        },
+        {
+          "label": "Tray",
+          "value": "250 sheets"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        }
       ],
-      "pros": ["Color laser output", "250-sheet tray", "Automatic duplex", "Wireless"],
-      "cons": ["Print only", "Costly toner set"],
+      "pros": [
+        "Color laser output",
+        "250-sheet tray",
+        "Automatic duplex",
+        "Wireless"
+      ],
+      "cons": [
+        "Print only",
+        "Costly toner set"
+      ],
       "idealFor": "Studios and agencies printing client-facing color.",
       "skipIf": "You also need scanning and copying."
     },
@@ -65,13 +108,33 @@
       "verdict": "A color inkjet with an automatic document feeder, fax and duplex.",
       "description": "The OfficeJet Pro 8139 is an inkjet that prints, scans, copies and faxes, with an automatic document feeder and automatic duplex. The feeder lets you scan a stack of multi-page originals without placing each sheet. A one-year Instant Ink trial is included, and it prints in colour.\n\nIt ranks third because the feeder and fax make it the most complete office tool in the $100 to $200 bucket. Compared with the Brother lasers, the ink costs more per page and the engine is slower.\n\nBuy it for an office that still faxes and scans stacks of paper. Skip it if you print mostly black text in volume. The caveat: inkjet cartridges add up, so the low sticker price hides a higher running cost than the DCP-L2640DW over a year of steady use.",
       "keySpecs": [
-        { "label": "Technology", "value": "Color inkjet all-in-one" },
-        { "label": "Functions", "value": "Print, scan, copy, fax" },
-        { "label": "Feeder", "value": "Automatic document feeder" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Technology",
+          "value": "Color inkjet all-in-one"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy, fax"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic document feeder"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Fax included", "Document feeder", "Automatic duplex", "Color printing"],
-      "cons": ["Ink costs add up", "Slower than a laser"],
+      "pros": [
+        "Fax included",
+        "Document feeder",
+        "Automatic duplex",
+        "Color printing"
+      ],
+      "cons": [
+        "Ink costs add up",
+        "Slower than a laser"
+      ],
       "idealFor": "Offices that still fax and scan stacks of pages.",
       "skipIf": "You print mainly black text in volume."
     },
@@ -86,13 +149,33 @@
       "verdict": "A refillable ink tank that suits steady color printing.",
       "description": "The ET-2400 swaps cartridges for a refillable ink tank. It prints, scans and copies in colour over wireless, and bottled ink refills are included in the box. Refilling from bottles costs far less per page than buying cartridges, which is why tank printers suit steady colour volume.\n\nIt ranks fourth because tank economics pay off only with regular printing, and it has no document feeder or fax like the OfficeJet Pro 8139. For the right volume, though, running costs drop sharply. Its price falls between $100 and $200.\n\nBuy it for an office printing colour regularly. Skip it if you print only a few pages a week, because ink in the tank can dry out. The caveat: scanning is by flatbed only, so multi-page originals take time.",
       "keySpecs": [
-        { "label": "Ink system", "value": "Refillable tank" },
-        { "label": "Functions", "value": "Print, scan, copy" },
-        { "label": "Output", "value": "Color" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Ink system",
+          "value": "Refillable tank"
+        },
+        {
+          "label": "Functions",
+          "value": "Print, scan, copy"
+        },
+        {
+          "label": "Output",
+          "value": "Color"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["No cartridges", "Low ink cost", "Color scanning", "Wireless"],
-      "cons": ["No document feeder", "Little value if idle"],
+      "pros": [
+        "No cartridges",
+        "Low ink cost",
+        "Color scanning",
+        "Wireless"
+      ],
+      "cons": [
+        "No document feeder",
+        "Little value if idle"
+      ],
       "idealFor": "Offices printing color regularly.",
       "skipIf": "You print only a few pages a week."
     },
@@ -107,13 +190,33 @@
       "verdict": "Ink tank economics with a document feeder, fax and two years of ink supplied.",
       "description": "The Smart Tank Plus 651 uses an ink tank system and ships with two years of ink. It adds an automatic document feeder plus fax, scan, copy and print, and a higher-capacity tank design is meant for sustained volume. Mobile printing support is included.\n\nIt ranks fifth because it combines the low-cost refills of the Epson with the feeder and fax the Epson lacks, but it costs more, in the $200 to $500 bucket, and has a larger body.\n\nBuy it if you want ink tank savings with full office features. Skip it if you want the cheapest printer to buy. The caveat: the upfront cost is high, so the savings arrive only after enough pages. Two years of bundled ink soften that, but only for a busy office.",
       "keySpecs": [
-        { "label": "Ink system", "value": "Tank, 2 years of ink included" },
-        { "label": "Feeder", "value": "Automatic" },
-        { "label": "Functions", "value": "Fax, scan, copy, print" },
-        { "label": "Price bucket", "value": "$200-500" }
+        {
+          "label": "Ink system",
+          "value": "Tank, 2 years of ink included"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic"
+        },
+        {
+          "label": "Functions",
+          "value": "Fax, scan, copy, print"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
       ],
-      "pros": ["Two years of ink included", "Document feeder", "Fax built in", "Low running cost"],
-      "cons": ["Higher upfront price", "Larger body"],
+      "pros": [
+        "Two years of ink included",
+        "Document feeder",
+        "Fax built in",
+        "Low running cost"
+      ],
+      "cons": [
+        "Higher upfront price",
+        "Larger body"
+      ],
       "idealFor": "Offices wanting ink-tank savings with full features.",
       "skipIf": "You want the cheapest printer to buy."
     },
@@ -128,13 +231,33 @@
       "verdict": "A small mono laser that only prints, and does it dependably.",
       "description": "The HL-L2405W is a wireless monochrome laser that handles printing only, with mobile printing and a compact chassis. It prints at a low per-page cost, as lasers do, and sits in the $100 to $200 bucket.\n\nIt ranks sixth because it lacks the scan and copy functions of the DCP-L2640DW, and no automatic duplex is listed. It is a cheaper way to get text onto paper.\n\nChoose it if you already have a separate scanner and only need dependable black text. Skip it if you want one machine to do everything. The caveat: without scanning, a signed contract needs another device, and two-sided output may be a manual job. For most offices, the extra spend on the DCP-L2640DW buys back time.",
       "keySpecs": [
-        { "label": "Technology", "value": "Monochrome laser" },
-        { "label": "Functions", "value": "Print only" },
-        { "label": "Wireless", "value": "Yes, with mobile printing" },
-        { "label": "Price bucket", "value": "$100-200" }
+        {
+          "label": "Technology",
+          "value": "Monochrome laser"
+        },
+        {
+          "label": "Functions",
+          "value": "Print only"
+        },
+        {
+          "label": "Wireless",
+          "value": "Yes, with mobile printing"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
       ],
-      "pros": ["Compact chassis", "Wireless and mobile printing", "Low price for a laser", "Simple operation"],
-      "cons": ["No scan or copy", "Print only"],
+      "pros": [
+        "Compact chassis",
+        "Wireless and mobile printing",
+        "Low price for a laser",
+        "Simple operation"
+      ],
+      "cons": [
+        "No scan or copy",
+        "Print only"
+      ],
       "idealFor": "Businesses with a separate scanner.",
       "skipIf": "You want one machine to do everything."
     },
@@ -149,101 +272,239 @@
       "verdict": "A cheap all-in-one with a feeder, duplex and fax for light use.",
       "description": "The WF-2930 packs a document feeder, two-sided printing, fax, scanning and copying into a colour inkjet body, with a 1.4 inch colour display. It uses cartridges and costs $50 to $100.\n\nIt ranks last because cartridges make it costly if volume rises. For a home-based business with occasional printing, though, it offers the most features per dollar here. A feeder and fax at this price are unusual.\n\nBuy it for a very small operation that prints only now and then. Skip it if you print more than occasionally. The caveat: cartridge costs can quickly exceed the savings on the printer, so watch the page yield, and ink left idle can dry out.",
       "keySpecs": [
-        { "label": "Technology", "value": "Color inkjet all-in-one" },
-        { "label": "Feeder", "value": "Automatic" },
-        { "label": "Duplex", "value": "Automatic" },
-        { "label": "Price bucket", "value": "$50-100" }
+        {
+          "label": "Technology",
+          "value": "Color inkjet all-in-one"
+        },
+        {
+          "label": "Feeder",
+          "value": "Automatic"
+        },
+        {
+          "label": "Duplex",
+          "value": "Automatic"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50-100"
+        }
       ],
-      "pros": ["Lowest price here", "Document feeder", "Duplex printing", "Fax included"],
-      "cons": ["Cartridge costs", "Not for heavy use"],
+      "pros": [
+        "Lowest price here",
+        "Document feeder",
+        "Duplex printing",
+        "Fax included"
+      ],
+      "cons": [
+        "Cartridge costs",
+        "Not for heavy use"
+      ],
       "idealFor": "Very small or home-based businesses.",
       "skipIf": "You print more than occasionally."
     }
   ],
   "methodology": [
-    { "title": "Print technology", "description": "Laser, inkjet and ink tank systems were compared for running cost and output type." },
-    { "title": "Document handling", "description": "Automatic duplex, document feeders and fax were weighed for office workflows." },
-    { "title": "Output type", "description": "Monochrome versus color capability was matched to the businesses each suits." },
-    { "title": "Running costs", "description": "We looked at toner, cartridge and refillable ink approaches rather than upfront price alone." },
-    { "title": "Fit for the business", "description": "Each model was matched to the buyer type named in its listing." }
+    {
+      "title": "Print technology",
+      "description": "Laser, inkjet and ink tank systems were compared for running cost and output type."
+    },
+    {
+      "title": "Document handling",
+      "description": "Automatic duplex, document feeders and fax were weighed for office workflows."
+    },
+    {
+      "title": "Output type",
+      "description": "Monochrome versus color capability was matched to the businesses each suits."
+    },
+    {
+      "title": "Running costs",
+      "description": "We looked at toner, cartridge and refillable ink approaches rather than upfront price alone."
+    },
+    {
+      "title": "Fit for the business",
+      "description": "Each model was matched to the buyer type named in its listing."
+    }
   ],
   "whatMatters": [
-    { "factor": "Laser vs inkjet vs ink tank", "detail": "Lasers print black text cheaply and fast, inkjets handle colour and photos with pricier ink, and ink tank models refill cheaply but suit steady volume. Look for the technology word in the title and choose by what you print most. Check the tray size too. A laser is the default for text, and a tank suits colour output in volume." },
-    { "factor": "Automatic duplex", "detail": "Two-sided printing halves paper use and looks more professional on contracts and reports. Check for automatic duplex or auto 2-sided in the specifications rather than a manual option. The DCP-L2640DW, HL-L3220CDW, OfficeJet Pro 8139 and WF-2930 list it, while the HL-L2405W does not. Duplex also saves handling time on multi-page documents and keeps bundles slimmer." },
-    { "factor": "Document feeder", "detail": "An automatic document feeder scans or copies multi-page files without you placing each sheet. It saves time on paperwork, especially for stacks of invoices. Look for ADF or automatic document feeder in the listing. The OfficeJet Pro 8139, Smart Tank 651 and WF-2930 list one, while the ET-2400 scans from the glass." },
-    { "factor": "Fax and scan needs", "detail": "Some industries still use fax. If you do, check that the model lists it. Printers like the Brother HL-L2405W omit scanning and fax entirely, and the DCP-L2640DW scans but does not list fax. Confirm the function list before buying, since a missing function means buying a second device, which erases any saving." },
-    { "factor": "Running cost", "detail": "Cartridges, toner and ink bottles decide long-term spend. A cheap printer with expensive refills costs more over time. Check the supply type and any bundled ink on the listing, such as the two years on the Smart Tank 651. Add the cost of a first refill set to your budget. Compare page yields and refill prices before you commit to a model, and keep the first set of supplies in mind." }
+    {
+      "factor": "Laser vs inkjet vs ink tank",
+      "detail": "Lasers print black text cheaply and fast, inkjets handle colour and photos with pricier ink, and ink tank models refill cheaply but suit steady volume. Look for the technology word in the title and choose by what you print most. Check the tray size too. A laser is the default for text, and a tank suits colour output in volume."
+    },
+    {
+      "factor": "Automatic duplex",
+      "detail": "Two-sided printing halves paper use and looks more professional on contracts and reports. Check for automatic duplex or auto 2-sided in the specifications rather than a manual option. The DCP-L2640DW, HL-L3220CDW, OfficeJet Pro 8139 and WF-2930 list it, while the HL-L2405W does not. Duplex also saves handling time on multi-page documents and keeps bundles slimmer."
+    },
+    {
+      "factor": "Document feeder",
+      "detail": "An automatic document feeder scans or copies multi-page files without you placing each sheet. It saves time on paperwork, especially for stacks of invoices. Look for ADF or automatic document feeder in the listing. The OfficeJet Pro 8139, Smart Tank 651 and WF-2930 list one, while the ET-2400 scans from the glass."
+    },
+    {
+      "factor": "Fax and scan needs",
+      "detail": "Some industries still use fax. If you do, check that the model lists it. Printers like the Brother HL-L2405W omit scanning and fax entirely, and the DCP-L2640DW scans but does not list fax. Confirm the function list before buying, since a missing function means buying a second device, which erases any saving."
+    },
+    {
+      "factor": "Running cost",
+      "detail": "Cartridges, toner and ink bottles decide long-term spend. A cheap printer with expensive refills costs more over time. Check the supply type and any bundled ink on the listing, such as the two years on the Smart Tank 651. Add the cost of a first refill set to your budget. Compare page yields and refill prices before you commit to a model, and keep the first set of supplies in mind."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Print Mix",
       "intro": "What you print most should drive the technology.",
       "table": {
-        "headers": ["Mostly printing", "Our pick"],
+        "headers": [
+          "Mostly printing",
+          "Our pick"
+        ],
         "rows": [
-          ["Black text and contracts", "Brother DCP-L2640DW"],
-          ["Color brochures and listings", "Brother HL-L3220CDW"],
-          ["Color in steady volume", "Epson EcoTank ET-2400"],
-          ["Mixed work with fax", "HP OfficeJet Pro 8139"],
-          ["Text only, scanner owned", "Brother HL-L2405W"]
+          [
+            "Black text and contracts",
+            "Brother DCP-L2640DW"
+          ],
+          [
+            "Color brochures and listings",
+            "Brother HL-L3220CDW"
+          ],
+          [
+            "Color in steady volume",
+            "Epson EcoTank ET-2400"
+          ],
+          [
+            "Mixed work with fax",
+            "HP OfficeJet Pro 8139"
+          ],
+          [
+            "Text only, scanner owned",
+            "Brother HL-L2405W"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Epson Workforce WF-2930"],
-          ["$100 to $200", "HP OfficeJet Pro 8139 or Brother HL-L2405W"],
-          ["$100 to $200, ink tank", "Epson EcoTank ET-2400"],
-          ["$200 to $500", "Brother DCP-L2640DW or HP Smart Tank Plus 651"]
+          [
+            "$50 to $100",
+            "Epson Workforce WF-2930"
+          ],
+          [
+            "$100 to $200",
+            "HP OfficeJet Pro 8139 or Brother HL-L2405W"
+          ],
+          [
+            "$100 to $200, ink tank",
+            "Epson EcoTank ET-2400"
+          ],
+          [
+            "$200 to $500",
+            "Brother DCP-L2640DW or HP Smart Tank Plus 651"
+          ]
         ]
       }
     },
     {
       "subheading": "Laser vs Ink Tank",
       "cards": [
-        { "label": "Laser", "text": "The Brother DCP-L2640DW, HL-L3220CDW and HL-L2405W use toner, which holds up well for occasional or steady text." },
-        { "label": "Ink tank", "text": "The Epson ET-2400 and HP Smart Tank Plus 651 use refillable tanks, cheaper per page for regular color." }
+        {
+          "label": "Laser",
+          "text": "The Brother DCP-L2640DW, HL-L3220CDW and HL-L2405W use toner, which holds up well for occasional or steady text."
+        },
+        {
+          "label": "Ink tank",
+          "text": "The Epson ET-2400 and HP Smart Tank Plus 651 use refillable tanks, cheaper per page for regular color."
+        }
       ],
       "note": "Most small businesses should default to a laser, the Brother DCP-L2640DW, unless color is central to the work."
     },
     {
       "subheading": "By Office Workflow",
       "table": {
-        "headers": ["Workflow", "Our pick"],
+        "headers": [
+          "Workflow",
+          "Our pick"
+        ],
         "rows": [
-          ["Scan stacks of paperwork", "HP Smart Tank Plus 651"],
-          ["Send the occasional fax", "HP OfficeJet Pro 8139"],
-          ["Print two-sided in volume", "Brother DCP-L2640DW"],
-          ["Light home-based tasks", "Epson Workforce WF-2930"]
+          [
+            "Scan stacks of paperwork",
+            "HP Smart Tank Plus 651"
+          ],
+          [
+            "Send the occasional fax",
+            "HP OfficeJet Pro 8139"
+          ],
+          [
+            "Print two-sided in volume",
+            "Brother DCP-L2640DW"
+          ],
+          [
+            "Light home-based tasks",
+            "Epson Workforce WF-2930"
+          ]
         ]
       }
     },
     {
       "subheading": "For Client-Facing Printing Specifically",
       "cards": [
-        { "label": "Look for", "text": "A color laser for crisp text and graphics, with a decent tray and duplex." },
-        { "label": "In this ranking", "text": "The Brother HL-L3220CDW is a color laser with a 250-sheet tray and automatic duplex, the best fit." }
+        {
+          "label": "Look for",
+          "text": "A color laser for crisp text and graphics, with a decent tray and duplex."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Brother HL-L3220CDW is a color laser with a 250-sheet tray and automatic duplex, the best fit."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "Output is heavy or professional, so the DCP-L2640DW or the HL-L3220CDW pays back in running cost and polish." },
-        { "label": "Save if", "text": "You print rarely. The Epson WF-2930 handles light work for less." }
+        {
+          "label": "Spend more if",
+          "text": "Output is heavy or professional, so the DCP-L2640DW or the HL-L3220CDW pays back in running cost and polish."
+        },
+        {
+          "label": "Save if",
+          "text": "You print rarely. The Epson WF-2930 handles light work for less."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Is a laser or inkjet better for a small business?", "a": "A laser such as the Brother DCP-L2640DW suits text-heavy work. An inkjet or ink tank suits colour and photos. Choose by what you print most, not by what you could print, and price a year of supplies." },
-    { "q": "What is the most common buying mistake?", "a": "Buying on the sticker price and ignoring toner or ink cost. Over a year, supplies can exceed the printer's price, particularly with cartridge inkjets like the WF-2930. Ask what the supplies cost per page." },
-    { "q": "Is the EcoTank worth it over an inkjet?", "a": "If you print colour regularly, yes, since refills cost far less than cartridges. For low volume the savings do not arrive, and idle ink can dry out, which wastes both ink and money." },
-    { "q": "How do I connect these to a network?", "a": "All are listed as wireless. Check that your router and any security settings suit the printer before buying, and keep it on the same network as the computers that use it. Print a test page from each machine." },
-    { "q": "How do I maintain a laser?", "a": "Replace toner when prompted and keep the paper path clean. Lasers need less upkeep than inkjets that sit idle, which is a point in favour of the Brother models if the printer sits idle for weeks." },
-    { "q": "Do I still need a fax?", "a": "Only if your clients require it. The HP OfficeJet Pro 8139, HP Smart Tank 651 and Epson WF-2930 include fax; the Brother lasers here do not, so a fax-dependent office should start with the HP." }
+    {
+      "q": "Is a laser or inkjet better for a small business?",
+      "a": "A laser such as the Brother DCP-L2640DW suits text-heavy work. An inkjet or ink tank suits colour and photos. Choose by what you print most, not by what you could print, and price a year of supplies."
+    },
+    {
+      "q": "What is the most common buying mistake?",
+      "a": "Buying on the sticker price and ignoring toner or ink cost. Over a year, supplies can exceed the printer's price, particularly with cartridge inkjets like the WF-2930. Ask what the supplies cost per page."
+    },
+    {
+      "q": "Is the EcoTank worth it over an inkjet?",
+      "a": "If you print colour regularly, yes, since refills cost far less than cartridges. For low volume the savings do not arrive, and idle ink can dry out, which wastes both ink and money."
+    },
+    {
+      "q": "How do I connect these to a network?",
+      "a": "All are listed as wireless. Check that your router and any security settings suit the printer before buying, and keep it on the same network as the computers that use it. Print a test page from each machine."
+    },
+    {
+      "q": "How do I maintain a laser?",
+      "a": "Replace toner when prompted and keep the paper path clean. Lasers need less upkeep than inkjets that sit idle, which is a point in favour of the Brother models if the printer sits idle for weeks."
+    },
+    {
+      "q": "Do I still need a fax?",
+      "a": "Only if your clients require it. The HP OfficeJet Pro 8139, HP Smart Tank 651 and Epson WF-2930 include fax; the Brother lasers here do not, so a fax-dependent office should start with the HP."
+    }
   ],
   "finalTake": "Buy the DCP-L2640DW for most small businesses and the HL-L3220CDW when colour output matters. Choose the OfficeJet Pro 8139 if you still fax, an ink tank model for steady colour volume, and the cheaper HL-L2405W or WF-2930 only for light use. Price the supplies before you pay for the printer.",
-  "related": []
+  "related": [
+    "best-compact-printers-for-small-desks",
+    "best-mini-printers-for-small-spaces",
+    "best-nas-for-small-businesses"
+  ]
 }

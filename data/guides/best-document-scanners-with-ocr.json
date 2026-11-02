@@ -1,114 +1,453 @@
 {
- "slug": "best-document-scanners-with-ocr",
- "category": "home-living",
- "h1": "The 6 Best Document Scanners with OCR of 2026, Ranked & Reviewed",
- "metaTitle": "Best Scanners with OCR 2026: Ranked & Reviewed",
- "metaDescription": "Ranked and reviewed by Primea: the 6 best document scanners with OCR, from ScanSnap and Epson to Brother and Canon, compared by speed and software.",
- "mainKeyword": "document scanner with OCR",
- "publishedAt": "2026-11-01",
- "updatedAt": "2026-11-01",
- "readTime": "10 min",
- "heroImage": "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
- "summary": "The ScanSnap iX2500 is the best OCR scanner here because its software names and sorts files after recognition, on a 100-sheet feeder at 45 ppm. The Epson ES-400 II is the pick for editable Word and Excel output. The iX1300 suits small desks, the DS-640 is the cheap single-sheet option and the Canon R10 travels.",
- "intro": ["Every scanner here claims OCR, which tells you almost nothing. The useful question is what you get after the text is recognized. One machine names and files the result for you, another hands back an editable Word or Excel document, and the cheapest simply produces a searchable PDF. Pick the wrong output and you spend your evenings retyping or renaming files by hand.","We ranked six OCR scanners on the specs and software each listing names: feeder format, speed, connection and the bundled app. Scan speed matters less than people think, because a fast scanner feeding a clumsy filing workflow still leaves you with a pile of PDFs called Scan_0042. Decide what you want done with the paper, then choose the scanner that does it."],
- "products": [
-  {
-   "id": "scansnap-ix2500", "rank": 1, "award": "Best Overall", "name": "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner", "score": 95,
-   "imageUrl": "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B0F9B1H5VN?tag=primeareviews-20",
-   "verdict": "OCR that also names and sorts your files.",
-   "description": "The iX2500 pairs a 100-sheet feeder at 45 ppm with ScanSnap Home, which runs OCR and then names and sorts each file. That second step is what separates it from the field. A stack of receipts, letters and contracts comes out already filed, instead of a folder of identical scan names you must open one by one. A touchscreen holds personalized profiles, and Wi-Fi 6 plus USB-C covers both cable and wireless use.\n\nIt beats the Epson pair because they stop at recognition. The ES-400 II offers Word and Excel conversion, but half the feeder at 50 sheets and no auto-sorting. If your problem is volume and filing, the iX2500 wins on both.\n\nBuy it for large mixed batches. The caveat is lock-in: you live inside ScanSnap Home, and the price bucket is not confirmed in our data.",
-   "keySpecs": [{"label":"Speed","value":"45 ppm"},{"label":"Feeder","value":"100 sheets"},{"label":"Connection","value":"Wi-Fi 6 + USB-C"},{"label":"Interface","value":"Touchscreen profiles"}],
-   "pros": ["Auto-naming and sorting", "100-sheet feeder", "Touchscreen profiles", "Wi-Fi 6 and USB-C"],
-   "cons": ["Price bucket unconfirmed", "Tied to ScanSnap Home"],
-   "idealFor": "Anyone digitizing mixed paper at volume.",
-   "skipIf": "You want a low-cost entry scanner."
-  },
-  {
-   "id": "epson-es-400-ii-ocr", "rank": 2, "award": "Best for Editable Files", "name": "Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner", "score": 91,
-   "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=primeareviews-20",
-   "verdict": "Scans straight to editable Word and Excel.",
-   "description": "The ES-400 II is the scanner for people who want to edit what they scan. Its software outputs searchable PDF, or converts to Word and Excel, so a printed statement or table becomes something you can change rather than a picture of text. A 50-sheet duplex feeder, auto crop and blank-page removal handle double-sided stacks without manual cleanup.\n\nIt sits behind the iX2500 for two concrete reasons: the feeder holds half as many sheets, and nothing sorts the files afterward. It stays ahead of the ES-580W because it is the wired model with the clearest feeder spec, 50 sheets, where the ES-580W listing gives no figure.\n\nBuy it if conversion to Word or Excel is the point. Skip it for hundreds of pages per batch. The $200 to $500 price is the other thing to weigh against the ScanSnap iX1300.",
-   "keySpecs": [{"label":"Feeder","value":"50 sheets, duplex"},{"label":"OCR","value":"Searchable PDF"},{"label":"Export","value":"Word and Excel"},{"label":"Price bucket","value":"$200-500"}],
-   "pros": ["Word and Excel conversion", "50-sheet duplex feeder", "Auto crop", "Blank-page removal"],
-   "cons": ["Smaller feeder than iX2500", "$200-500 bucket"],
-   "idealFor": "People converting paper into editable documents.",
-   "skipIf": "You need to scan hundreds of pages per batch."
-  },
-  {
-   "id": "epson-es-580w-ocr", "rank": 3, "award": "Best Wireless Epson", "name": "Epson Workforce ES-580W Wireless Color Duplex Desktop Document Scanner", "score": 88,
-   "imageUrl": "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B07KQZWPYN?tag=primeareviews-20",
-   "verdict": "Searchable PDFs and Word or Excel via ScanSmart.",
-   "description": "The ES-580W is the wireless Epson, built around ScanSmart software that produces searchable PDFs and converts to Word and Excel. Duplex desktop scanning means double-sided pages go through in one pass, and the wireless connection lets the scanner sit on a shelf instead of beside your computer.\n\nIt ranks third because the listing is thin where it counts. No feeder capacity appears, and capacity is the spec that decides whether you scan a lease or a filing box. The ES-400 II offers the same software features with a stated 50-sheet duplex feeder, so the missing number costs it a place. The wireless convenience is the trade.\n\nBuy it if cables are the dealbreaker and your scanning is moderate. Skip it if you need documented feeder capacity. It sits in the $200 to $500 range, the same as the wired ES-400 II.",
-   "keySpecs": [{"label":"Software","value":"ScanSmart"},{"label":"OCR","value":"Searchable PDF"},{"label":"Export","value":"Word and Excel"},{"label":"Price bucket","value":"$200-500"}],
-   "pros": ["Wireless desktop scanner", "ScanSmart software", "Word and Excel export", "Duplex scanning"],
-   "cons": ["Feeder size not listed", "$200-500 bucket"],
-   "idealFor": "Wireless users wanting searchable PDFs.",
-   "skipIf": "You need documented feeder capacity."
-  },
-  {
-   "id": "scansnap-ix1300-ocr", "rank": 4, "award": "Best Compact", "name": "ScanSnap iX1300 Wireless or USB Double-Sided Color Document Scanner, White", "score": 85,
-   "imageUrl": "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B09FX5DWBK?tag=primeareviews-20",
-   "verdict": "ScanSnap OCR in a small body.",
-   "description": "The iX1300 shrinks the ScanSnap idea into a compact body: ScanSnap Home OCR, auto color optimization, 30 ppm duplex scanning and cloud service support, from a small ADF hopper. Auto color optimization matters for mixed paper, since a faded receipt and a glossy brochure need different treatment, and it handles that without manual tweaks.\n\nIt ranks fourth because it gives up what makes the iX2500 special at the top: 100 sheets and 45 ppm become a small hopper and 30 ppm. It does keep the ScanSnap software, which the Epsons lack, so it beats them for people who want a tidy filing workflow rather than Word conversion.\n\nBuy it for a home office with little desk space and modest volume. The caveat is batch size: a thick stack means refilling the hopper repeatedly. It sits in the $200 to $500 range.",
-   "keySpecs": [{"label":"Speed","value":"30 ppm duplex"},{"label":"OCR","value":"ScanSnap Home"},{"label":"Hopper","value":"Compact ADF"},{"label":"Price bucket","value":"$200-500"}],
-   "pros": ["Compact body", "ScanSnap Home OCR", "Auto color optimization", "Cloud support"],
-   "cons": ["Small hopper", "Slower than iX2500"],
-   "idealFor": "Home offices with little desk space.",
-   "skipIf": "You scan big stacks regularly."
-  },
-  {
-   "id": "brother-ds-640", "rank": 5, "award": "Best Budget", "name": "Brother DS-640 Compact Mobile Document Scanner", "score": 82,
-   "imageUrl": "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B083R36CY4?tag=primeareviews-20",
-   "verdict": "Bundled OCR software at the lowest price tier.",
-   "description": "The DS-640 is the entry point, a compact mobile scanner that feeds one sheet at a time and bundles OCR and document management software. Broad OS driver support is a quiet strength, because older or unusual computers often lack drivers for competing models. Expect the $100 to $200 tier.\n\nIt ranks fifth because single-sheet feeding changes how the machine feels. Each page needs your hand, so a ten-page contract takes ten insertions, while every other scanner here takes a stack. It beats the Canon R10 only on price and software bundling, since the R10 adds a real hopper.\n\nBuy it for occasional scans of a receipt, a form or a signed page. Skip it if you digitize anything in volume. The honest limit is time: its low price is paid for in your own minutes at the feeder.",
-   "keySpecs": [{"label":"Feed","value":"Single sheet"},{"label":"Software","value":"OCR bundled"},{"label":"OS support","value":"Broad drivers"},{"label":"Price bucket","value":"$100-200"}],
-   "pros": ["Bundled OCR software", "Compact and mobile", "Broad OS support", "Lower price bucket"],
-   "cons": ["Single-sheet feed", "Slow for batches"],
-   "idealFor": "Budget buyers with occasional scans.",
-   "skipIf": "You scan multi-page stacks."
-  },
-  {
-   "id": "canon-r10-ocr", "rank": 6, "award": "Best Portable", "name": "Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex", "score": 79,
-   "imageUrl": "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg", "amazonUrl": "https://www.amazon.com/dp/B08FBHTD9B?tag=primeareviews-20",
-   "verdict": "Portable OCR with a real feeder.",
-   "description": "The Canon imageFORMULA R10 weighs 1.7 lb, runs on USB power and carries a 20-sheet duplex hopper with built-in OCR to searchable PDF. USB power is the feature that matters on the road, since there is no brick or outlet to find. It is rated for 500 scans per day.\n\nIt ranks last because that daily rating and the 20-sheet hopper cap its usefulness at an office desk. Against the Brother DS-640, which feeds one sheet at a time, the R10 is the better machine, since a hopper beats hand-feeding. Against the ScanSnap iX1300, it lacks the filing software and the speed.\n\nBuy it for travel or light home scanning. Skip it if your daily load approaches the 500 scan limit.",
-   "keySpecs": [{"label":"Hopper","value":"20 sheets, duplex"},{"label":"Rating","value":"500 scans/day"},{"label":"Weight","value":"1.7 lb"},{"label":"Price bucket","value":"$100-200"}],
-   "pros": ["20-sheet duplex hopper", "1.7 lb", "USB powered", "Built-in OCR"],
-   "cons": ["500 scans per day cap", "Small hopper"],
-   "idealFor": "Travelers and light scanners.",
-   "skipIf": "You do heavy daily volume."
-  }
- ],
- "methodology": [
-  {"title":"OCR output","description":"We weighed what the software does with recognized text, from search to Word export."},
-  {"title":"Feeder and speed","description":"Hopper size and listed ppm decided batch suitability."},
-  {"title":"Software workflow","description":"Filing and naming features scored above plain text recognition."},
-  {"title":"Portability","description":"Weight and power source mattered for mobile use."},
-  {"title":"Price bucket","description":"Value was compared within the listed buckets."}
- ],
- "whatMatters": [
-  {"factor":"OCR output format","detail":"OCR turns a picture of text into real, searchable text, but the output varies. Some scanners give a searchable PDF, others convert to editable Word or Excel files. Decide what you do with scans afterward, then read the listing for the exact format it names. The Epson ES-400 II lists Word and Excel conversion."},
-  {"factor":"Auto-naming and sorting","detail":"Auto-naming and sorting put each scan in the right folder with a sensible title, which saves the manual filing that eats most digitizing time. The ScanSnap iX2500 lists this in ScanSnap Home. Look for it in the software description, because many scanners stop at recognition and leave the filing to you, which is slow for archives."},
-  {"factor":"Feeder type","detail":"An automatic feeder scans a stack, while a single-sheet feed needs you to insert every page. That decides how long you spend beside the machine. Hopper size varies from the Canon R10's 20 sheets to the iX2500's 100. Check the sheet count on the listing and whether the feeder is duplex, since a one-sided feeder doubles your handling time."},
-  {"factor":"Connectivity","detail":"Wi-Fi lets a scanner sit on a shelf and send files without a cable, while USB is simpler and avoids network setup. The iX2500 offers both, with Wi-Fi 6 plus USB-C. Decide where the scanner will live, then check the listing for the ports and wireless standard it names, since older Wi-Fi can slow big transfers."},
-  {"factor":"Daily duty rating","detail":"Lighter scanners carry a daily cap. The Canon R10 lists 500 scans per day, a limit that matters if you digitize an archive in one weekend. Estimate your biggest batch, divide by the duty rating, and check the listing for a stated daily figure. Missing ratings are a reason to ask the seller."}
- ],
- "howToChoose": [
-  {"subheading":"By OCR Output","intro":"Decide what you need the scanned text to become.","table":{"headers":["Need","Our pick"],"rows":[["Auto-named and sorted files","ScanSnap iX2500 Wireless or USB High-Speed Document Scanner"],["Editable Word or Excel","Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner"],["Searchable PDF via ScanSmart","Epson Workforce ES-580W Wireless Color Duplex Desktop Document Scanner"]]}},
-  {"subheading":"By Budget","table":{"headers":["Spend","Our pick"],"rows":[["$100-200","Brother DS-640 Compact Mobile Document Scanner"],["$100-200, portable duplex","Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex"],["$200-500","Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner"]]}},
-  {"subheading":"Automatic Feeder vs Single-Sheet","cards":[{"label":"Automatic feeder","text":"The ScanSnap iX2500, Epson ES-400 II and Canon R10 scan stacks hands-free."},{"label":"Single-sheet","text":"The Brother DS-640 feeds one page at a time, which suits occasional scanning."}],"note":"Most buyers should default to an automatic feeder unless scanning is rare."},
-  {"subheading":"By Desk Space","table":{"headers":["Space","Our pick"],"rows":[["Tiny desk","ScanSnap iX1300 Wireless or USB Double-Sided Color Document Scanner, White"],["Bag or travel","Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex"],["Full desktop","ScanSnap iX2500 Wireless or USB High-Speed Document Scanner"]]}},
-  {"subheading":"For Paperless Home Offices Specifically","cards":[{"label":"Look for","text":"Auto-naming, sorting and cloud support."},{"label":"In this ranking","text":"The ScanSnap iX2500 auto-names and sorts, and the iX1300 supports cloud services."}]},
-  {"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You digitize a lot, so the iX2500 saves filing time."},{"label":"Save if","text":"Scanning is occasional, so the Brother DS-640 does the job."}]}
- ],
- "faq": [
-  {"q":"Is OCR included with these scanners?","a":"All six list OCR, either built in or in bundled software. The iX2500 and iX1300 use ScanSnap Home, the ES-400 II and ES-580W use ScanSmart, and the Canon R10 converts to searchable PDF itself."},
-  {"q":"What is the most common mistake?","a":"Assuming all OCR is the same. Output varies from a searchable PDF on the Canon R10 to editable Word and Excel on the Epson ES-400 II, so choose by what you need to do with the text afterward."},
-  {"q":"Is the iX2500 worth over the Epson ES-400 II?","a":"If you want auto-naming and a 100-sheet feeder, yes. The iX2500 files documents for you at 45 ppm. If your priority is converting scans to Word or Excel, the Epson ES-400 II is the better fit."},
-  {"q":"Do I need Wi-Fi?","a":"Not necessarily. The ES-400 II and Canon R10 work over a cable, while Wi-Fi comes with the iX2500 and ES-580W. Wireless helps if the scanner sits away from your computer, but a USB link is simpler to set up."},
-  {"q":"How do I keep a scanner working?","a":"Clean the rollers per the manual and stay under the daily rating, such as the Canon R10's 500 scans. Paper dust builds up in any feeder, so the iX2500 and Epsons benefit from regular cleaning as volume grows."},
-  {"q":"Can the Brother DS-640 scan a stack?","a":"No. The Brother DS-640 feeds a single sheet at a time, so a stack means repeated insertions. For batches, the Canon R10 with its 20-sheet hopper or the iX2500 with 100 sheets is the realistic choice."}
- ],
- "finalTake": "Buy the ScanSnap iX2500 if you digitize mixed paper in volume and want filing handled for you. Choose the Epson ES-400 II when the goal is editable documents. Small desks suit the iX1300, light budgets the Brother DS-640, and the Canon R10 covers travel. Match the output format and feeder to your workload before you look at price.",
- "related": []
+  "slug": "best-document-scanners-with-ocr",
+  "category": "home-living",
+  "h1": "The 6 Best Document Scanners with OCR of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Scanners with OCR 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: the 6 best document scanners with OCR, from ScanSnap and Epson to Brother and Canon, compared by speed and software.",
+  "mainKeyword": "document scanner with OCR",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
+  "summary": "The ScanSnap iX2500 is the best OCR scanner here because its software names and sorts files after recognition, on a 100-sheet feeder at 45 ppm. The Epson ES-400 II is the pick for editable Word and Excel output. The iX1300 suits small desks, the DS-640 is the cheap single-sheet option and the Canon R10 travels.",
+  "intro": [
+    "Every scanner here claims OCR, which tells you almost nothing. The useful question is what you get after the text is recognized. One machine names and files the result for you, another hands back an editable Word or Excel document, and the cheapest simply produces a searchable PDF. Pick the wrong output and you spend your evenings retyping or renaming files by hand.",
+    "We ranked six OCR scanners on the specs and software each listing names: feeder format, speed, connection and the bundled app. Scan speed matters less than people think, because a fast scanner feeding a clumsy filing workflow still leaves you with a pile of PDFs called Scan_0042. Decide what you want done with the paper, then choose the scanner that does it."
+  ],
+  "products": [
+    {
+      "id": "scansnap-ix2500",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner",
+      "score": 95,
+      "imageUrl": "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F9B1H5VN?tag=primeareviews-20",
+      "verdict": "OCR that also names and sorts your files.",
+      "description": "The iX2500 pairs a 100-sheet feeder at 45 ppm with ScanSnap Home, which runs OCR and then names and sorts each file. That second step is what separates it from the field. A stack of receipts, letters and contracts comes out already filed, instead of a folder of identical scan names you must open one by one. A touchscreen holds personalized profiles, and Wi-Fi 6 plus USB-C covers both cable and wireless use.\n\nIt beats the Epson pair because they stop at recognition. The ES-400 II offers Word and Excel conversion, but half the feeder at 50 sheets and no auto-sorting. If your problem is volume and filing, the iX2500 wins on both.\n\nBuy it for large mixed batches. The caveat is lock-in: you live inside ScanSnap Home, and the price bucket is not confirmed in our data.",
+      "keySpecs": [
+        {
+          "label": "Speed",
+          "value": "45 ppm"
+        },
+        {
+          "label": "Feeder",
+          "value": "100 sheets"
+        },
+        {
+          "label": "Connection",
+          "value": "Wi-Fi 6 + USB-C"
+        },
+        {
+          "label": "Interface",
+          "value": "Touchscreen profiles"
+        }
+      ],
+      "pros": [
+        "Auto-naming and sorting",
+        "100-sheet feeder",
+        "Touchscreen profiles",
+        "Wi-Fi 6 and USB-C"
+      ],
+      "cons": [
+        "Price bucket unconfirmed",
+        "Tied to ScanSnap Home"
+      ],
+      "idealFor": "Anyone digitizing mixed paper at volume.",
+      "skipIf": "You want a low-cost entry scanner."
+    },
+    {
+      "id": "epson-es-400-ii-ocr",
+      "rank": 2,
+      "award": "Best for Editable Files",
+      "name": "Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=primeareviews-20",
+      "verdict": "Scans straight to editable Word and Excel.",
+      "description": "The ES-400 II is the scanner for people who want to edit what they scan. Its software outputs searchable PDF, or converts to Word and Excel, so a printed statement or table becomes something you can change rather than a picture of text. A 50-sheet duplex feeder, auto crop and blank-page removal handle double-sided stacks without manual cleanup.\n\nIt sits behind the iX2500 for two concrete reasons: the feeder holds half as many sheets, and nothing sorts the files afterward. It stays ahead of the ES-580W because it is the wired model with the clearest feeder spec, 50 sheets, where the ES-580W listing gives no figure.\n\nBuy it if conversion to Word or Excel is the point. Skip it for hundreds of pages per batch. The $200 to $500 price is the other thing to weigh against the ScanSnap iX1300.",
+      "keySpecs": [
+        {
+          "label": "Feeder",
+          "value": "50 sheets, duplex"
+        },
+        {
+          "label": "OCR",
+          "value": "Searchable PDF"
+        },
+        {
+          "label": "Export",
+          "value": "Word and Excel"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Word and Excel conversion",
+        "50-sheet duplex feeder",
+        "Auto crop",
+        "Blank-page removal"
+      ],
+      "cons": [
+        "Smaller feeder than iX2500",
+        "$200-500 bucket"
+      ],
+      "idealFor": "People converting paper into editable documents.",
+      "skipIf": "You need to scan hundreds of pages per batch."
+    },
+    {
+      "id": "epson-es-580w-ocr",
+      "rank": 3,
+      "award": "Best Wireless Epson",
+      "name": "Epson Workforce ES-580W Wireless Color Duplex Desktop Document Scanner",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07KQZWPYN?tag=primeareviews-20",
+      "verdict": "Searchable PDFs and Word or Excel via ScanSmart.",
+      "description": "The ES-580W is the wireless Epson, built around ScanSmart software that produces searchable PDFs and converts to Word and Excel. Duplex desktop scanning means double-sided pages go through in one pass, and the wireless connection lets the scanner sit on a shelf instead of beside your computer.\n\nIt ranks third because the listing is thin where it counts. No feeder capacity appears, and capacity is the spec that decides whether you scan a lease or a filing box. The ES-400 II offers the same software features with a stated 50-sheet duplex feeder, so the missing number costs it a place. The wireless convenience is the trade.\n\nBuy it if cables are the dealbreaker and your scanning is moderate. Skip it if you need documented feeder capacity. It sits in the $200 to $500 range, the same as the wired ES-400 II.",
+      "keySpecs": [
+        {
+          "label": "Software",
+          "value": "ScanSmart"
+        },
+        {
+          "label": "OCR",
+          "value": "Searchable PDF"
+        },
+        {
+          "label": "Export",
+          "value": "Word and Excel"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Wireless desktop scanner",
+        "ScanSmart software",
+        "Word and Excel export",
+        "Duplex scanning"
+      ],
+      "cons": [
+        "Feeder size not listed",
+        "$200-500 bucket"
+      ],
+      "idealFor": "Wireless users wanting searchable PDFs.",
+      "skipIf": "You need documented feeder capacity."
+    },
+    {
+      "id": "scansnap-ix1300-ocr",
+      "rank": 4,
+      "award": "Best Compact",
+      "name": "ScanSnap iX1300 Wireless or USB Double-Sided Color Document Scanner, White",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09FX5DWBK?tag=primeareviews-20",
+      "verdict": "ScanSnap OCR in a small body.",
+      "description": "The iX1300 shrinks the ScanSnap idea into a compact body: ScanSnap Home OCR, auto color optimization, 30 ppm duplex scanning and cloud service support, from a small ADF hopper. Auto color optimization matters for mixed paper, since a faded receipt and a glossy brochure need different treatment, and it handles that without manual tweaks.\n\nIt ranks fourth because it gives up what makes the iX2500 special at the top: 100 sheets and 45 ppm become a small hopper and 30 ppm. It does keep the ScanSnap software, which the Epsons lack, so it beats them for people who want a tidy filing workflow rather than Word conversion.\n\nBuy it for a home office with little desk space and modest volume. The caveat is batch size: a thick stack means refilling the hopper repeatedly. It sits in the $200 to $500 range.",
+      "keySpecs": [
+        {
+          "label": "Speed",
+          "value": "30 ppm duplex"
+        },
+        {
+          "label": "OCR",
+          "value": "ScanSnap Home"
+        },
+        {
+          "label": "Hopper",
+          "value": "Compact ADF"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200-500"
+        }
+      ],
+      "pros": [
+        "Compact body",
+        "ScanSnap Home OCR",
+        "Auto color optimization",
+        "Cloud support"
+      ],
+      "cons": [
+        "Small hopper",
+        "Slower than iX2500"
+      ],
+      "idealFor": "Home offices with little desk space.",
+      "skipIf": "You scan big stacks regularly."
+    },
+    {
+      "id": "brother-ds-640",
+      "rank": 5,
+      "award": "Best Budget",
+      "name": "Brother DS-640 Compact Mobile Document Scanner",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B083R36CY4?tag=primeareviews-20",
+      "verdict": "Bundled OCR software at the lowest price tier.",
+      "description": "The DS-640 is the entry point, a compact mobile scanner that feeds one sheet at a time and bundles OCR and document management software. Broad OS driver support is a quiet strength, because older or unusual computers often lack drivers for competing models. Expect the $100 to $200 tier.\n\nIt ranks fifth because single-sheet feeding changes how the machine feels. Each page needs your hand, so a ten-page contract takes ten insertions, while every other scanner here takes a stack. It beats the Canon R10 only on price and software bundling, since the R10 adds a real hopper.\n\nBuy it for occasional scans of a receipt, a form or a signed page. Skip it if you digitize anything in volume. The honest limit is time: its low price is paid for in your own minutes at the feeder.",
+      "keySpecs": [
+        {
+          "label": "Feed",
+          "value": "Single sheet"
+        },
+        {
+          "label": "Software",
+          "value": "OCR bundled"
+        },
+        {
+          "label": "OS support",
+          "value": "Broad drivers"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
+      ],
+      "pros": [
+        "Bundled OCR software",
+        "Compact and mobile",
+        "Broad OS support",
+        "Lower price bucket"
+      ],
+      "cons": [
+        "Single-sheet feed",
+        "Slow for batches"
+      ],
+      "idealFor": "Budget buyers with occasional scans.",
+      "skipIf": "You scan multi-page stacks."
+    },
+    {
+      "id": "canon-r10-ocr",
+      "rank": 6,
+      "award": "Best Portable",
+      "name": "Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08FBHTD9B?tag=primeareviews-20",
+      "verdict": "Portable OCR with a real feeder.",
+      "description": "The Canon imageFORMULA R10 weighs 1.7 lb, runs on USB power and carries a 20-sheet duplex hopper with built-in OCR to searchable PDF. USB power is the feature that matters on the road, since there is no brick or outlet to find. It is rated for 500 scans per day.\n\nIt ranks last because that daily rating and the 20-sheet hopper cap its usefulness at an office desk. Against the Brother DS-640, which feeds one sheet at a time, the R10 is the better machine, since a hopper beats hand-feeding. Against the ScanSnap iX1300, it lacks the filing software and the speed.\n\nBuy it for travel or light home scanning. Skip it if your daily load approaches the 500 scan limit.",
+      "keySpecs": [
+        {
+          "label": "Hopper",
+          "value": "20 sheets, duplex"
+        },
+        {
+          "label": "Rating",
+          "value": "500 scans/day"
+        },
+        {
+          "label": "Weight",
+          "value": "1.7 lb"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100-200"
+        }
+      ],
+      "pros": [
+        "20-sheet duplex hopper",
+        "1.7 lb",
+        "USB powered",
+        "Built-in OCR"
+      ],
+      "cons": [
+        "500 scans per day cap",
+        "Small hopper"
+      ],
+      "idealFor": "Travelers and light scanners.",
+      "skipIf": "You do heavy daily volume."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "OCR output",
+      "description": "We weighed what the software does with recognized text, from search to Word export."
+    },
+    {
+      "title": "Feeder and speed",
+      "description": "Hopper size and listed ppm decided batch suitability."
+    },
+    {
+      "title": "Software workflow",
+      "description": "Filing and naming features scored above plain text recognition."
+    },
+    {
+      "title": "Portability",
+      "description": "Weight and power source mattered for mobile use."
+    },
+    {
+      "title": "Price bucket",
+      "description": "Value was compared within the listed buckets."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "OCR output format",
+      "detail": "OCR turns a picture of text into real, searchable text, but the output varies. Some scanners give a searchable PDF, others convert to editable Word or Excel files. Decide what you do with scans afterward, then read the listing for the exact format it names. The Epson ES-400 II lists Word and Excel conversion."
+    },
+    {
+      "factor": "Auto-naming and sorting",
+      "detail": "Auto-naming and sorting put each scan in the right folder with a sensible title, which saves the manual filing that eats most digitizing time. The ScanSnap iX2500 lists this in ScanSnap Home. Look for it in the software description, because many scanners stop at recognition and leave the filing to you, which is slow for archives."
+    },
+    {
+      "factor": "Feeder type",
+      "detail": "An automatic feeder scans a stack, while a single-sheet feed needs you to insert every page. That decides how long you spend beside the machine. Hopper size varies from the Canon R10's 20 sheets to the iX2500's 100. Check the sheet count on the listing and whether the feeder is duplex, since a one-sided feeder doubles your handling time."
+    },
+    {
+      "factor": "Connectivity",
+      "detail": "Wi-Fi lets a scanner sit on a shelf and send files without a cable, while USB is simpler and avoids network setup. The iX2500 offers both, with Wi-Fi 6 plus USB-C. Decide where the scanner will live, then check the listing for the ports and wireless standard it names, since older Wi-Fi can slow big transfers."
+    },
+    {
+      "factor": "Daily duty rating",
+      "detail": "Lighter scanners carry a daily cap. The Canon R10 lists 500 scans per day, a limit that matters if you digitize an archive in one weekend. Estimate your biggest batch, divide by the duty rating, and check the listing for a stated daily figure. Missing ratings are a reason to ask the seller."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By OCR Output",
+      "intro": "Decide what you need the scanned text to become.",
+      "table": {
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Auto-named and sorted files",
+            "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner"
+          ],
+          [
+            "Editable Word or Excel",
+            "Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner"
+          ],
+          [
+            "Searchable PDF via ScanSmart",
+            "Epson Workforce ES-580W Wireless Color Duplex Desktop Document Scanner"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$100-200",
+            "Brother DS-640 Compact Mobile Document Scanner"
+          ],
+          [
+            "$100-200, portable duplex",
+            "Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex"
+          ],
+          [
+            "$200-500",
+            "Epson Workforce ES-400 II High-Speed Color Duplex Desktop Document Scanner"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Automatic Feeder vs Single-Sheet",
+      "cards": [
+        {
+          "label": "Automatic feeder",
+          "text": "The ScanSnap iX2500, Epson ES-400 II and Canon R10 scan stacks hands-free."
+        },
+        {
+          "label": "Single-sheet",
+          "text": "The Brother DS-640 feeds one page at a time, which suits occasional scanning."
+        }
+      ],
+      "note": "Most buyers should default to an automatic feeder unless scanning is rare."
+    },
+    {
+      "subheading": "By Desk Space",
+      "table": {
+        "headers": [
+          "Space",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Tiny desk",
+            "ScanSnap iX1300 Wireless or USB Double-Sided Color Document Scanner, White"
+          ],
+          [
+            "Bag or travel",
+            "Canon imageFORMULA R10 Portable Document Scanner, USB Powered, Duplex"
+          ],
+          [
+            "Full desktop",
+            "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Paperless Home Offices Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Auto-naming, sorting and cloud support."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The ScanSnap iX2500 auto-names and sorts, and the iX1300 supports cloud services."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You digitize a lot, so the iX2500 saves filing time."
+        },
+        {
+          "label": "Save if",
+          "text": "Scanning is occasional, so the Brother DS-640 does the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is OCR included with these scanners?",
+      "a": "All six list OCR, either built in or in bundled software. The iX2500 and iX1300 use ScanSnap Home, the ES-400 II and ES-580W use ScanSmart, and the Canon R10 converts to searchable PDF itself."
+    },
+    {
+      "q": "What is the most common mistake?",
+      "a": "Assuming all OCR is the same. Output varies from a searchable PDF on the Canon R10 to editable Word and Excel on the Epson ES-400 II, so choose by what you need to do with the text afterward."
+    },
+    {
+      "q": "Is the iX2500 worth over the Epson ES-400 II?",
+      "a": "If you want auto-naming and a 100-sheet feeder, yes. The iX2500 files documents for you at 45 ppm. If your priority is converting scans to Word or Excel, the Epson ES-400 II is the better fit."
+    },
+    {
+      "q": "Do I need Wi-Fi?",
+      "a": "Not necessarily. The ES-400 II and Canon R10 work over a cable, while Wi-Fi comes with the iX2500 and ES-580W. Wireless helps if the scanner sits away from your computer, but a USB link is simpler to set up."
+    },
+    {
+      "q": "How do I keep a scanner working?",
+      "a": "Clean the rollers per the manual and stay under the daily rating, such as the Canon R10's 500 scans. Paper dust builds up in any feeder, so the iX2500 and Epsons benefit from regular cleaning as volume grows."
+    },
+    {
+      "q": "Can the Brother DS-640 scan a stack?",
+      "a": "No. The Brother DS-640 feeds a single sheet at a time, so a stack means repeated insertions. For batches, the Canon R10 with its 20-sheet hopper or the iX2500 with 100 sheets is the realistic choice."
+    }
+  ],
+  "finalTake": "Buy the ScanSnap iX2500 if you digitize mixed paper in volume and want filing handled for you. Choose the Epson ES-400 II when the goal is editable documents. Small desks suit the iX1300, light budgets the Brother DS-640, and the Canon R10 covers travel. Match the output format and feeder to your workload before you look at price.",
+  "related": [
+    "best-compact-document-scanners",
+    "best-document-scanners-for-computers",
+    "best-document-scanners-for-lawyers"
+  ]
 }

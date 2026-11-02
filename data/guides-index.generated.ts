@@ -3218,7 +3218,7 @@ export const guideRegistry: GuideListing[] = [
   "slug": "best-murphy-bed-cabinets-for-studio-apartments",
   "h1": "The 6 Best Murphy Bed Cabinets for Studio Apartments of 2026, Ranked & Reviewed",
   "category": "home-living",
-  "metaDescription": "Ranked and reviewed by Primea: six assembled queen Murphy bed cabinets for studio apartments, compared on storage, charging, lighting, finish and lift mechanism.",
+  "metaDescription": "Ranked and reviewed by Primea: six assembled queen Murphy bed cabinets for studio apartments, compared on storage, charging, lighting, finish and lift.",
   "heroImage": "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 94
