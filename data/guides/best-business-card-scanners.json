@@ -9,11 +9,8 @@
  "updatedAt": "2026-11-01",
  "readTime": "10 min",
  "heroImage": "https://m.media-amazon.com/images/I/41y2MW3hRZL._SL500_.jpg",
- "summary": "The Ambir ImageScan Pro 667 is our pick for buyers who want card-specific software and a dedicated scan path. The PenPower WorldCard Pro suits anyone who lives in a contact database. The ScanSnap iX1300 is the one to buy if you also scan documents and want to batch cards through a hopper. The Brother DS-640 covers occasional card scanning on a budget.",
- "intro": [
-  "The biggest mistake with business card scanners is buying a general document scanner and expecting it to read cards well. A card is small, glossy, often printed in odd fonts, and the real work happens in the software that turns it into a contact. The hardware matters less than what happens after the scan.",
-  "We reviewed seven scanners that handle cards, from dedicated card-only units to general document scanners that accept cards as one of many jobs. We ranked them on the spec sheets and listed software, scan path, batch feeding and platform support. We left out a medical ID scanner that is not built for business cards."
- ],
+ "summary": "The Ambir ImageScan Pro 667 is the best business card scanner: a dedicated scan path with card-specific OCR software for Windows and Mac. PenPower WorldCard Pro is the pick for contact management, and the ScanSnap iX1300 wins for scanning stacks of cards plus paperwork. Document scanners from Brother and Canon work for occasional cards but lack card parsing.",
+ "intro": ["Business cards are a bad fit for most scanners. They are tiny, glossy, printed in decorative fonts and often have a logo where the name should be. A general document scanner captures a clean image of one and then stops, leaving you to type a phone number from a picture. The hardware is the easy half of the job.","The real work is OCR, the software that reads that image and splits it into name, title, phone and email. We reviewed seven scanners that handle cards, from dedicated card-only units to document scanners that treat cards as one of many jobs, and ranked them on listed software, scan path, batch feeding and platform support. A medical ID scanner was left out because it is not built for business cards."],
  "products": [
   {
    "id": "ambir-imagescan-pro-667",
@@ -24,7 +21,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/31lHBnbrcsL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B07VSHQSKW?tag=primeareviews-20",
    "verdict": "The most complete card-first package here, built around software that parses cards.",
-   "description": "The ImageScan Pro 667 is a dedicated business card scanner that ships with AmbirScan Business Card, a card-specific OCR software bundle. It works with both Windows and Mac, which matters because several rivals here lean on one platform.\n\nIt ranks first because the whole product is designed around cards, not borrowed from a document workflow. Against the PenPower WorldCard Pro below, it is a hardware-plus-software pairing in one box rather than a software-led contact manager.\n\nBuy it if business cards are your main scanning job and you want a purpose-built path. Keep expectations realistic: OCR on stylized fonts still needs a quick review pass, and it will not double as a general document scanner.",
+   "description": "The Ambir ImageScan Pro 667 pairs a dedicated business card scan path with the AmbirScan Business Card software and runs on Windows and Mac. A narrow path sized for cards keeps them aligned, and the bundled OCR reads fields into a contact instead of leaving a flat image. That software step is where card scanning succeeds or fails.\n\nIt tops the list because the hardware and software are built as a single card-first package. The PenPower WorldCard Pro is similar, but leans harder toward contact management. The ScanSnap iX1300 is faster in batches but treats cards as a document.\n\nBuy it if business cards are your main job. The caveats are two: it is not a document scanner, so letters need another machine, and OCR output still needs proofreading.",
    "keySpecs": [
     {"label": "Type", "value": "Dedicated card scanner"},
     {"label": "Software", "value": "AmbirScan Business Card"},
@@ -45,7 +42,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41TlodBP7BL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0075323W8?tag=primeareviews-20",
    "verdict": "A contact-management-first scanner with the software bundle doing the heavy lifting.",
-   "description": "The WorldCard Pro is a card scanner centered on contact management, bundled with WorldCard software and compatible with Windows and Mac. It is an established dedicated option rather than a general scanner.\n\nIt sits just behind the Ambir 667 because the pitch here is the database around the scan, not the scan path itself. If you already organize leads in a contact tool, that focus is a strength; if you just want images of cards, it is more than you need.\n\nBest for networkers and sales staff who want scanned cards to become searchable contacts. The caveat is that the software experience, not the scanner, defines whether you will enjoy it.",
+   "description": "PenPower's WorldCard Pro is a dedicated card scanner built around the WorldCard contact management software, with Windows and Mac support. The scanner is almost secondary: the product's value is the way it files cards into searchable contact records, which matters most when you collect dozens at a conference and need to find one later.\n\nIt ranks second because the Ambir bundle has a more complete card-first package, while WorldCard puts the weight on the database side. Against the ScanSnap iX1300 in third, it is cheaper and cards-only, with nothing to feed a pile of paperwork.\n\nBuy it if you are in sales or recruiting and want cards turned into contacts. The caveat is that the software defines your experience, so if you only need image files of cards, you are paying for features you will not use.",
    "keySpecs": [
     {"label": "Type", "value": "Dedicated card scanner"},
     {"label": "Focus", "value": "Contact management"},
@@ -66,7 +63,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B09FX5DWBK?tag=primeareviews-20",
    "verdict": "The one that can chew through a stack of cards and then do your paperwork.",
-   "description": "The iX1300 is a duplex document scanner with an ADF hopper that batches multiple cards at once. Its listing explicitly covers thick items and plastic cards, and ScanSnap Home software handles card management. It connects by wireless or USB.\n\nIt ranks third because it is a document scanner first. Compared with the dedicated Ambir and PenPower units above it, you get batching and duplex capture, but the card-specific parsing is less of the focus.\n\nBuy it after a conference when you return with a stack of cards, or if the same scanner must handle bills and receipts. Skip it if you want a tiny card-only unit.",
+   "description": "The ScanSnap iX1300 is a duplex document scanner with a batch hopper, wireless or USB connection, and ScanSnap Home software for card management. It explicitly handles thick items and plastic cards, and the hopper lets you load a stack and walk away. That matters after an event, when 60 cards arrive in one afternoon.\n\nIt ranks third because it is document-first and costs more than the dedicated units above. In return, it captures both sides at once and doubles as an office scanner for contracts and receipts.\n\nBuy it if you scan cards in stacks and also need paperwork handled. Skip it if you want the cheapest card-only unit. Without a dedicated card OCR bundle, expect to do more manual cleanup than with the Ambir.",
    "keySpecs": [
     {"label": "Type", "value": "ADF duplex scanner"},
     {"label": "Feeding", "value": "Batch hopper"},
@@ -87,7 +84,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/31J0Q92KtrL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0CC9SRRL3?tag=primeareviews-20",
    "verdict": "A niche vertical-feed card scanner for people who scan IDs and cards together.",
-   "description": "The PS670ST-AS is a high-speed, single-sided vertical scanner that is USB powered and made for both ID cards and business cards. It works on Windows and Mac.\n\nIt lands fourth because it sits in the $200-500 bracket while the Ambir 667 above covers business cards for less. The vertical, single-sided path is quick for stacks but will not capture the back of a card.\n\nBest for front desks and offices that process IDs and business cards together. The caveat is that it is a lower-volume niche product with less ecosystem around it.",
+   "description": "The AMBIR PS670ST-AS is a high-speed vertical-feed scanner that is USB powered and handles both ID cards and business cards on Windows and Mac. A vertical path drops each card straight through, which suits reception desks where staff scan a visitor's ID and a card back to back.\n\nIt ranks fourth because it scans one side only and costs more than the cheaper Ambir 667 above, which it overlaps. The ScanSnap in third captures both sides and batches cards, so this unit sits in a narrow niche.\n\nBuy it if a front desk scans IDs and cards together all day. Skip it if the back of the card matters, such as a second-language side. USB power avoids a wall adapter, but the single-sided design is a hard limit.",
    "keySpecs": [
     {"label": "Type", "value": "Vertical card scanner"},
     {"label": "Sides", "value": "Single sided"},
@@ -108,7 +105,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/21KARG3MEML._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0018POCW8?tag=primeareviews-20",
    "verdict": "A compact A6 simplex scanner that also takes small documents and IDs.",
-   "description": "The PS667 is a simplex scanner with an A6-format scan path, aimed at cards and small documents or IDs. It is compact and connects by USB.\n\nIt ranks fifth because the listing gives less to go on than the ImageScan Pro 667 above, which pairs similar hardware with card-specific software. Here the draw is a dedicated path and a small footprint at the same $100-200 level.\n\nPick it for a tidy desk and a mixed card-and-ID workload. The caveat is simplex scanning, so single-sided capture only.",
+   "description": "The Ambir PS667 is a simplex A6 card scanner that takes cards, small documents and IDs over USB, in a compact body. An A6 path is wider than a pure card slot, so it swallows receipts and small forms, which a narrow card scanner would reject.\n\nIt ranks fifth because the software story is thin. The listing does not name a bundled card OCR package, so unlike the ImageScan Pro 667 at the top, you may be typing contacts by hand. It is single-sided too.\n\nBuy it for a small desk with mixed card and ID scanning on a budget. Skip it if you want cards turned into contacts automatically. For that job, the Ambir ImageScan Pro 667 or PenPower WorldCard Pro are the better answers.",
    "keySpecs": [
     {"label": "Format", "value": "A6 simplex"},
     {"label": "Handles", "value": "Cards, small documents, IDs"},
@@ -129,7 +126,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B083R36CY4?tag=primeareviews-20",
    "verdict": "A portable document scanner that handles cards when you need it to.",
-   "description": "The DS-640 is a compact mobile single-sheet scanner that handles cards among other document types and works with the free iPrint&Scan app.\n\nIt ranks sixth because card scanning is incidental. Against the ScanSnap above, you lose the hopper and batching; against the dedicated units, you lose card-specific parsing.\n\nIt makes sense if you scan a business card now and then and mostly digitize general paperwork on the go. Buyers with regular card volume should step up.",
+   "description": "The Brother DS-640 is a compact, single-sheet mobile scanner that handles cards among other documents, using the free iPrint&Scan app. It runs light enough for a travel bag, which is its real appeal: scan a card on the road without carrying a separate unit.\n\nIt ranks sixth because it lacks card-specific software. Unlike the Ambir and PenPower units, it will not parse a card into fields, and single-sheet feeding means every card is a separate manual step. It beats the Canon R40II on portability.\n\nBuy it if you scan the occasional card with receipts and documents and need something small. Skip it for volume, because feeding cards one at a time after a trade show becomes tedious fast.",
    "keySpecs": [
     {"label": "Type", "value": "Mobile single-sheet"},
     {"label": "App", "value": "iPrint&Scan (free)"},
@@ -150,7 +147,7 @@
    "imageUrl": "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
    "amazonUrl": "https://www.amazon.com/dp/B0GJWWZ77J?tag=primeareviews-20",
    "verdict": "An office duplex scanner where cards are a side job.",
-   "description": "The R40II is an office-class duplex scanner that scans various document types, including cards, and offers direct cloud service connectivity. The listing highlights easy setup.\n\nIt finishes seventh because it is the least card-specific here and sits in the $200-500 range, above the Brother DS-640. It is a newer listing with a thinner track record.\n\nChoose it if your office already needs a duplex document scanner with cloud connections and cards are occasional. Dedicated card buyers should look higher up the ranking.",
+   "description": "The Canon imageFORMULA R40II is an office duplex scanner with direct cloud connectivity, easy setup and support for varied document types, including cards. Office scanners earn their place on paperwork: duplex capture, cloud filing and routine reliability for contracts and invoices.\n\nIt ranks last because cards are a side job. Without card OCR software or a dedicated path, it lacks what the Ambir and PenPower units bring, and it costs more than the Brother DS-640 above. The listing is also newer, so the track record is short.\n\nBuy it if your office scans documents all day and the occasional card is an afterthought. Skip it if business cards are the main task, because the dedicated models above handle that job better and for less money.",
    "keySpecs": [
     {"label": "Type", "value": "Office duplex scanner"},
     {"label": "Cloud", "value": "Direct connectivity"},
@@ -171,11 +168,11 @@
   {"title": "Value", "description": "What each scanner offers inside its price bucket, judged against narrower alternatives."}
  ],
  "whatMatters": [
-  {"factor": "Dedicated vs document scanner", "detail": "A dedicated card scanner uses a narrow path sized for cards, while a document scanner accepts cards as one more sheet type. The difference shows up in software: card units bundle OCR that splits a card into name, phone and email. Check whether the listing names card software, not just that cards are supported."},
-  {"factor": "Software bundle", "detail": "The scan is only an image until software reads it. Contact-focused bundles like WorldCard or AmbirScan turn a card into a record. Look for the software name in the title or bullets and confirm it matches your operating system."},
-  {"factor": "Single or double sided", "detail": "Simplex scanners capture only the front. If your cards carry details on the back, such as a second language, you need duplex. Look for the word duplex or double-sided on the listing."},
-  {"factor": "Batch feeding", "detail": "A hopper lets you load a stack and walk away, which matters after a trade show. Single-sheet scanners need you to feed each card. Check for ADF or hopper in the specs."},
-  {"factor": "Platform and power", "detail": "Some scanners are USB powered, which means no wall adapter, and some support wireless. Confirm Windows or Mac support before buying, since a mismatch strands the software."}
+  {"factor": "Dedicated vs document scanner", "detail": "A dedicated card scanner uses a narrow path sized for cards, while a document scanner treats a card as one more sheet type. The gap shows up in software: card units bundle OCR that splits a card into name, phone and email. Check whether the listing names card software, not just that cards are accepted, since that is the real difference."},
+  {"factor": "Software bundle", "detail": "A scan is only an image until software reads it. Contact-focused bundles such as WorldCard or AmbirScan turn a card into a record you can search. Look for the software name in the title or bullets, and confirm it matches your operating system before you buy, because a platform mismatch strands the bundle and leaves you with a plain image scanner."},
+  {"factor": "Single or double sided", "detail": "Simplex scanners capture only the front of a card. If your cards carry details on the back, such as a second language or a map, you need duplex capture. Look for the word duplex or double-sided on the listing. The ScanSnap iX1300 and Canon R40II scan both sides, while the Ambir PS667 and PS670ST-AS do not."},
+  {"factor": "Batch feeding", "detail": "A hopper lets you load a stack and walk away, which matters after a trade show when you come home with dozens of cards. Single-sheet scanners need you to feed each card by hand. Check for ADF or hopper in the specs, and look for plastic card support if your cards are thick."},
+  {"factor": "Platform and power", "detail": "Some scanners run on USB power, which means no wall adapter and easy travel, and some add wireless. Confirm Windows or Mac support before buying, since a mismatch strands the software. Check whether the scanner needs a driver download, and whether the bundled software works on the version of your operating system you actually run."}
  ],
  "howToChoose": [
   {
@@ -232,13 +229,13 @@
   }
  ],
  "faq": [
-  {"q": "Can a regular document scanner read business cards?", "a": "Many can scan them as images, and the ScanSnap iX1300 explicitly lists plastic and thick cards. What they lack is card-specific parsing, so you may type contacts by hand."},
-  {"q": "What is the most common mistake?", "a": "Buying on hardware alone. The value is in the software that turns a scan into a contact, so check the bundled software first."},
-  {"q": "Is a dedicated scanner worth it over a document scanner?", "a": "If cards are your main job, yes, since the Ambir and PenPower units bundle card software. If you also scan paperwork, a document scanner like the ScanSnap is the better single purchase."},
-  {"q": "How do I set one up?", "a": "Install the bundled software for your operating system first, then connect by USB. The ScanSnap iX1300 can also connect wirelessly."},
-  {"q": "Do I need to proofread scans?", "a": "Yes. OCR can stumble on stylized fonts and logos, so a quick review pass before saving contacts avoids bad data."},
-  {"q": "Will the single-sided models miss the back of a card?", "a": "Yes. The AMBIR PS670ST-AS and Ambir PS667 are single-sided, so choose the duplex ScanSnap iX1300 if backs matter."}
+  {"q": "Can a regular document scanner read business cards?", "a": "Many can, as images. The ScanSnap iX1300 explicitly lists plastic and thick cards. What document scanners lack is card-specific parsing, so you may type contacts by hand instead of getting fields filled in automatically."},
+  {"q": "What is the most common mistake?", "a": "Buying on hardware alone. The value is in the software that turns a scan into a contact, so check the bundled package first. The Ambir ImageScan Pro 667 and PenPower WorldCard Pro both name theirs."},
+  {"q": "Is a dedicated scanner worth it over a document scanner?", "a": "If cards are your main job, yes, since the Ambir and PenPower units bundle card software. If you also scan paperwork, a document scanner like the ScanSnap iX1300 is the better single purchase because it handles both."},
+  {"q": "How do I set one up?", "a": "Install the bundled software for your operating system first, then connect the scanner by USB and run a test card. The ScanSnap iX1300 can also connect wirelessly. Running the software before the cable avoids driver mismatches on both Windows and Mac."},
+  {"q": "Do I need to proofread scans?", "a": "Yes. OCR can stumble on stylized fonts, logos and glossy finishes, so a quick review pass before saving contacts avoids bad data. Expect this with every model here, including the Ambir ImageScan Pro 667, and budget a few minutes after a big batch."},
+  {"q": "Will the single-sided models miss the back of a card?", "a": "Yes. The AMBIR PS670ST-AS and Ambir PS667 scan one side only, so details printed on the back, such as a second language or a direct line, are lost. Choose the duplex ScanSnap iX1300 or Canon R40II if backs matter."}
  ],
- "finalTake": "For most buyers, the Ambir ImageScan Pro 667 is the safest card-first choice. The PenPower WorldCard Pro is the pick if contacts are the goal, and the ScanSnap iX1300 wins if you batch cards and documents. Match the scanner to your volume and your software needs, and you will not outgrow it quickly.",
+ "finalTake": "The Ambir ImageScan Pro 667 is the right buy for anyone whose main job is business cards, because the scanner and the card OCR software are designed together. Choose PenPower WorldCard Pro for contact management, or the ScanSnap iX1300 when cards arrive in stacks alongside paperwork. Check the software before the hardware, since that decides how much typing you do afterward.",
  "related": []
 }

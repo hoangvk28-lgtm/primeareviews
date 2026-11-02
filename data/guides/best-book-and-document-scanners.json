@@ -9,11 +9,8 @@
   "updatedAt": "2026-11-01",
   "readTime": "10 min",
   "heroImage": "https://m.media-amazon.com/images/I/41AkGJtV+CL._SL500_.jpg",
-  "summary": "The CZUR ET24 Pro is our top pick for bound books, with an A3 overhead capture area and auto-flatten curve correction. The CZUR Shine Ultra is the cheaper book scanner, the VIISAN A2/A3 handles oversized books, and the ScanSnap iX2400, Epson ES-400 II and ScanSnap iX1300 are the loose-paper partners.",
-  "intro": [
-    "The costly mistake here is expecting one scanner to do both jobs. A sheet-fed scanner with an automatic document feeder (ADF) races through loose pages but cannot scan a bound book without cutting the spine. An overhead book scanner handles books gently but has no feeder, so a 200-page contract is slow.",
-    "We reviewed the scanners in this category from their listings and sorted them into book scanners and document scanners. Both kinds are ranked here, with a clear label on each, and a Canon flatbed and an unproven combined overhead model were dropped for being less suited to either job."
-  ],
+  "summary": "The CZUR ET24 Pro is the best scanner for books, an A3 overhead model with auto-flatten curve correction and OCR software. The CZUR Shine Ultra offers the same idea portably for less, and the VIISAN handles oversized A2 and A3 material. For loose paper, the ScanSnap iX2400 leads with a 100-sheet feeder, ahead of the Epson ES-400 II and the compact ScanSnap iX1300.",
+  "intro": ["The costly mistake in this category is expecting one machine to do both jobs. A sheet-fed scanner with an automatic document feeder races through loose pages, and it cannot take a bound book without cutting the spine out. An overhead book scanner copes with a thick volume gracefully and then crawls through a stack of invoices one page at a time. Decide which pile you actually have.","Our editors compared six scanners, three overhead models for books and three sheet-fed models for paper, from their published specs, then scored each one on the Primea framework. Capture area, curve correction, feeder size and OCR carried the most weight. Prices are buckets only, and nothing here substitutes for checking your largest book against the capture area."],
   "products": [
     {
       "id": "czur-et24-pro",
@@ -24,7 +21,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41AkGJtV+CL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0BM92YPHW?tag=primeareviews-20",
       "verdict": "The most capable overhead scanner for bound books.",
-      "description": "The ET24 Pro is an A3 overhead book scanner with auto-flatten curve correction for spine curvature and OCR software included. It sits above $500, making it the priciest scanner here.\n\nIt ranks first because it is built for books, and curve correction flattens pages that bow near the spine. Against the Shine Ultra, it offers the bigger A3 capture area and a more complete package.\n\nBuy it if digitizing bound books is the main job. The caveat is the price and the missing ADF, so stacks of loose pages are slow.",
+      "description": "The ET24 Pro is an A3 overhead book scanner with auto-flatten curve correction for spine curvature and OCR software included. It sits above $500, making it the priciest scanner here. The camera looks down at the open pages, so the book never leaves the cradle, and software flattens the curved text near the spine.\n\nIt ranks first because it is built for books, and curve correction is the feature that decides whether text near the gutter is readable or warped. The Shine Ultra matches the idea at a lower price, but with a smaller capture area.\n\nBuy it if you digitize bound books regularly. The caveats are the top price tier and the lack of any document feeder. Skip it if your work is mostly loose pages, because a feeder scanner finishes a stack in minutes.",
       "keySpecs": [
         {
           "label": "Capture area",
@@ -65,7 +62,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31LQNyy7U0L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B08NSJQ65L?tag=primeareviews-20",
       "verdict": "The same curve-correcting idea at a much lower price.",
-      "description": "The Shine Ultra is a portable overhead scanner with auto-flatten curve correction, in the $100-200 range. It is built for book digitization and has no ADF.\n\nIt ranks second because it costs far less than the ET24 Pro while keeping curve correction. You give up the larger A3 capture area of the Pro.\n\nChoose it for occasional book scanning on a budget. The caveat is that smaller scale and portability come with fewer included extras than the Pro.",
+      "description": "The Shine Ultra is a portable overhead scanner with auto-flatten curve correction, in the $100 to $200 range. It is built for book digitization and has no ADF. Portability matters for students and researchers who scan at a library table and then pack up.\n\nIt ranks second because it costs far less than the ET24 Pro while keeping curve correction, which is the essential feature. What you give up is the A3 capture area and the fuller package. The VIISAN covers larger material but costs more.\n\nBuy it for budget scanning of occasional books. The caveats are a smaller capture area and no document feeder. Skip it if you need to scan A3 pages in one shot, where the ET24 Pro is the right tool.",
       "keySpecs": [
         {
           "label": "Design",
@@ -106,7 +103,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41OkxTvAv+L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B09TRFK7D2?tag=primeareviews-20",
       "verdict": "A large-format overhead scanner for big bound material.",
-      "description": "The VIISAN is an overhead scanner with an A2/A3 capture area and overhead LED lighting, in the $200-500 range. It is book-specific and has no ADF.\n\nIt ranks third because it targets a narrower need, oversized books and large documents, which the CZUR models handle only up to A3. It is the only one here that reaches A2.\n\nBuy it for atlases, art books and large drawings. The caveat is the bigger footprint, so plan your desk space.",
+      "description": "The VIISAN is an overhead scanner with an A2/A3 capture area and overhead LED lighting, in the $200 to $500 range. It is book-specific and has no ADF. Even light across a wide page cuts glare and shadow, which is the usual flaw of overhead capture on glossy pages.\n\nIt ranks third because it targets a narrower need, oversized books and large documents, which most buyers do not have. For standard books, the cheaper CZUR models cover the job. Its larger footprint also needs real desk space.\n\nBuy it for libraries and hobbyists with oversized volumes, maps or art books. The caveats are the bigger footprint and the absence of a document feeder. Skip it if your books and papers are standard size.",
       "keySpecs": [
         {
           "label": "Capture area",
@@ -147,7 +144,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0FWGTB3S3?tag=primeareviews-20",
       "verdict": "A 100-sheet duplex ADF for loose documents.",
-      "description": "The iX2400 has a 100-sheet ADF, high-speed duplex scanning and one-touch scanning, in the $200-500 range. It also deskews pages and removes blank ones automatically.\n\nIt ranks fourth because it cannot handle bound books, so it is a different tool from the three above. For paper, it is the largest-capacity feeder in this list.\n\nBuy it for invoices, contracts and receipts. The caveat is the books limitation, which means pairing it with an overhead model if you need both.",
+      "description": "The iX2400 has a 100-sheet ADF, high-speed duplex scanning and one-touch scanning, in the $200 to $500 range. It also deskews pages and removes blank ones automatically. A big feeder lets you load a month of paperwork and leave, which beats babysitting a small tray.\n\nIt ranks fourth because it cannot handle bound books, so it is a different tool from the overhead scanners above, and it only wins if paper is your pile. Within sheet-fed models, it leads on feeder size and speed.\n\nBuy it for a home office with stacks of paperwork. The caveats are that it cannot scan bound books and it sits in a mid-high price tier. Skip it if your main need is books.",
       "keySpecs": [
         {
           "label": "Feeder",
@@ -188,7 +185,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=primeareviews-20",
       "verdict": "A 50-sheet duplex ADF with searchable PDF output.",
-      "description": "The ES-400 II offers a 50-sheet ADF, duplex scanning, searchable PDF OCR and a TWAIN driver, in the $200-500 range. It does not scan bound books.\n\nIt ranks fifth because its feeder holds half what the iX2400 does. The TWAIN driver adds compatibility with some third-party apps.\n\nChoose it for a lower-cost document partner. The caveat is the smaller feeder, so large stacks need reloading.",
+      "description": "The ES-400 II offers a 50-sheet ADF, duplex scanning, searchable PDF OCR and a TWAIN driver, in the $200 to $500 range. It does not scan bound books. Searchable PDF output means you can find a phrase across your whole archive instead of filing paper by hand.\n\nIt ranks fifth because its feeder holds half what the iX2400 does. The TWAIN driver adds compatibility with older imaging software, which suits some office setups. Against the iX1300, it has the bigger feeder.\n\nBuy it for offices that need searchable PDFs from paper. The caveats are the smaller feeder and no book scanning. Skip it if you scan bound books, which would damage the spine on any feeder.",
       "keySpecs": [
         {
           "label": "Feeder",
@@ -229,7 +226,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B09FX5DWBK?tag=primeareviews-20",
       "verdict": "A compact 30 ppm duplex scanner that connects wirelessly.",
-      "description": "The iX1300 has a compact ADF, double-sided scanning at 30 pages per minute and wireless or USB connectivity, in the $200-500 range. It also deskews pages and optimizes color.\n\nIt ranks last because it is the slowest and smallest of the document scanners here. Its advantage is a body that fits crowded desks.\n\nBuy it if desk space is the constraint. The caveat is that it cannot handle bound books.",
+      "description": "The iX1300 has a compact ADF, double-sided scanning at 30 pages per minute and wireless or USB connectivity, in the $200 to $500 range. It also deskews pages and optimizes color. Wireless scanning lets a small desk stay free of cables, and the body is slim enough for a shelf.\n\nIt ranks last because it is the slowest and smallest of the document scanners. At 30 pages per minute it is fine for a few forms a week and slow for archives.\n\nBuy it for small desks with occasional paperwork. The caveats are the speed and no book scanning. Skip it if you scan large stacks daily, because the iX2400 or ES-400 II will finish in a fraction of the time.",
       "keySpecs": [
         {
           "label": "Speed",
@@ -287,23 +284,23 @@
   "whatMatters": [
     {
       "factor": "Overhead or sheet-fed",
-      "detail": "Overhead scanners capture a page from above, so they can handle bound books without damage. Sheet-fed scanners pull paper through a feeder and cannot take a bound book. Check the listing for the words overhead or ADF."
+      "detail": "Overhead scanners capture a page from above, so they can handle bound books without damage. Sheet-fed scanners pull paper through a feeder and cannot take a bound book. Check the listing for the words overhead or ADF, because a scanner that cannot take your material is useless regardless of its speed. Read the first line of the listing before the specs."
     },
     {
       "factor": "Curve correction",
-      "detail": "Pages in a book curve near the spine and distort text. Auto-flatten software corrects that. Look for flatten or curve correction in the title or bullets."
+      "detail": "Pages in a book curve near the spine and distort the text. Auto-flatten software corrects that. Look for flatten or curve correction in the title or bullets, since without it the inner margin of every page needs manual fixing, which defeats the point of scanning a whole book quickly. Check a sample image for gutter distortion."
     },
     {
       "factor": "Capture area",
-      "detail": "A3 captures larger pages than A4. Oversized books need A2. Check the listed paper size against your largest book."
+      "detail": "Capture area is the largest page the scanner can image in one shot. A3 captures larger pages than A4, and oversized books need A2. Check the listed paper size against your largest book before ordering, and remember to include the open spread, not just a single page, in your measurement. The camera sees the full spread."
     },
     {
       "factor": "ADF capacity",
-      "detail": "The sheet count tells you how many pages scan in one pass, from 30 or so up to 100. A larger feeder saves reloading. Look for the number in the listing."
+      "detail": "The sheet count tells you how many pages scan in one pass, from 50 up to 100 here. A larger feeder saves reloading and supervision. Look for the number in the listing, and match it to the stack you scan at once, since small feeders interrupt a big job every few minutes. Count your typical stack before you buy."
     },
     {
       "factor": "OCR and software",
-      "detail": "OCR turns scans into searchable text. Some models bundle it, others rely on separate software. Check whether searchable PDF output is listed."
+      "detail": "OCR turns scans into searchable text. Some models bundle it, others rely on separate software. Check whether searchable PDF output is listed, as with the CZUR ET24 Pro and Epson ES-400 II, and remember that accuracy depends on page quality, so poor scans produce poor text. Scan at the highest quality your files can bear."
     }
   ],
   "howToChoose": [
@@ -433,29 +430,29 @@
   "faq": [
     {
       "q": "Can a document scanner scan a book?",
-      "a": "Not a bound book. Sheet-fed scanners like the ScanSnap and Epson models pull paper through, so they need loose pages."
+      "a": "Not a bound book. Sheet-fed scanners like the ScanSnap and Epson models pull paper through, so they need loose pages. Use an overhead scanner like the CZUR ET24 Pro for books, since a feeder will tear the binding."
     },
     {
       "q": "What is the biggest mistake buyers make?",
-      "a": "Buying one type and expecting both jobs. Choose overhead for books and sheet-fed for paper."
+      "a": "Buying one type and expecting both jobs. Choose overhead for books and sheet-fed for paper, then check the capture area or feeder size against your biggest item."
     },
     {
       "q": "Is the CZUR ET24 Pro worth it over the Shine Ultra?",
-      "a": "If you scan books regularly, the A3 area and fuller package help. For occasional use the Shine Ultra is enough."
+      "a": "If you scan books regularly, the A3 area and fuller package help. For occasional use the Shine Ultra is enough, and it costs far less. The curve correction is the same idea in a smaller frame."
     },
     {
       "q": "How do I set up an overhead scanner?",
-      "a": "Place it on a flat desk, connect it, and install the included software. Position the book under the camera and scan."
+      "a": "Place it on a flat desk, connect it, and install the included software. Position the book under the camera and scan. Keep lighting steady to avoid shadows near the spine, and press the pages flat with the supplied tool or a clean sheet of glass."
     },
     {
       "q": "Do I need OCR?",
-      "a": "If you want to search text in scans, yes. The CZUR ET24 Pro bundles OCR, and the Epson lists searchable PDFs."
+      "a": "If you want to search text in scans, yes. The CZUR ET24 Pro bundles OCR, and the Epson lists searchable PDFs, so you can search an archive afterward. Check the output language settings first."
     },
     {
       "q": "Can I use two scanners together?",
-      "a": "Yes, many people pair an overhead scanner for books with a sheet-fed model for paperwork."
+      "a": "Yes, many people pair an overhead scanner for books with a sheet-fed model for paperwork. A CZUR for books and a ScanSnap for paper cover both jobs. The two machines together cost less than one oversized scanner."
     }
   ],
-  "finalTake": "If books are the job, the CZUR ET24 Pro is the pick, with the Shine Ultra as a cheaper alternative and the VIISAN for oversized volumes. For paperwork, the ScanSnap iX2400 has the biggest feeder, the Epson ES-400 II adds searchable PDFs, and the iX1300 fits small desks.",
+  "finalTake": "Buy an overhead scanner like the CZUR ET24 Pro if books are your main job, and a sheet-fed ScanSnap or Epson if paper is. The Shine Ultra is the budget way into book scanning, and the VIISAN is for oversized volumes. No document scanner here can take a bound book, so pair two machines only if you truly have both piles.",
   "related": []
 }
