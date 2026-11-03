@@ -1,0 +1,506 @@
+{
+  "slug": "best-mesh-wifi-system-under-300",
+  "category": "home-living",
+  "h1": "The 7 Best Mesh WiFi Systems Under $300 for Whole-Home Coverage, Ranked & Reviewed",
+  "metaTitle": "Best Mesh WiFi System 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 7 TP-Link Deco mesh WiFi systems under $300, from WiFi 5 starters to WiFi 7 kits, scored on speed class, coverage and wiring.",
+  "mainKeyword": "mesh wifi system under $300",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "11 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31JjLZD+50L._SL500_.jpg",
+  "summary": "The three-node TP-Link Deco X55 AX3000 kit is the best balance of WiFi 6 speed, coverage and cost for most homes. The Deco 7 BE23 is the pick if you want WiFi 7 and a wired backhaul option, the Deco 7 BE5000 is the faster WiFi 7 step up, and the Deco S4 sets are the bare-minimum choice for a small budget and light use.",
+  "intro": [
+    "The biggest mistake in mesh shopping is trusting the big number on the box. AX3000, BE5000 and AC1900 are combined theoretical figures, added up across bands, and no single phone or laptop ever sees that total. What you actually feel is how many nodes you get, how they talk to each other and whether the speed class matches the gadgets you own.",
+    "This ranking therefore sorts by generation, node count and backhaul options rather than headline speed. We reviewed seven TP-Link Deco kits from their listings: WiFi standard, rated speed class, stated coverage, port counts and whether wired backhaul is supported. Where a listing is thin, we say so and avoid inventing numbers."
+  ],
+  "products": [
+    {
+      "id": "tp-link-deco-x55-ax3000-3-pack",
+      "rank": 1,
+      "award": "Best Overall Value",
+      "name": "TP-Link Deco X55 AX3000 Mesh System, 3-Pack",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31JjLZD+50L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09PRB1MZM?tag=primeareviews-20",
+      "verdict": "Three WiFi 6 nodes at AX3000 class cover a typical multi-floor house without stretching the budget.",
+      "description": "The Deco X55 three-pack is a WiFi 6 mesh kit in the AX3000 speed class, sold as three units so a single order covers most homes. It sits in the $100 to $200 price range, which leaves real room under a $300 ceiling.\n\nThree nodes is the number that matters here. One node by the modem, one on the far side of the main floor and one upstairs gives overlapping coverage, and the mesh can hand devices between them as you move. WiFi 6 is also the generation most current phones, laptops and TVs already support, so you are not paying for a standard your devices cannot use.\n\nBuy it if you have a two-story or sprawling single-story home and want a dependable, mainstream system. Skip it if you want the newest WiFi 7 features or have gigabit-plus internet that you want to push to every room.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 6"
+        },
+        {
+          "label": "Speed class",
+          "value": "AX3000"
+        },
+        {
+          "label": "Nodes",
+          "value": "3"
+        },
+        {
+          "label": "Price range",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Three nodes cover most homes",
+        "WiFi 6 matches current devices",
+        "Leaves budget under the ceiling",
+        "Mainstream Deco app setup"
+      ],
+      "cons": [
+        "Not WiFi 7 ready",
+        "Specs on listing are brief"
+      ],
+      "idealFor": "Families in two-story homes wanting dependable coverage.",
+      "skipIf": "You need WiFi 7 or multi-gig throughput."
+    },
+    {
+      "id": "tp-link-deco-7-be23-be3600",
+      "rank": 2,
+      "award": "Best WiFi 7 Entry",
+      "name": "TP-Link Deco 7 BE23 BE3600 Mesh System",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DQP4DNNJ?tag=primeareviews-20",
+      "verdict": "WiFi 7 with 160 MHz channels, 2.5G ports and wired backhaul for up to 6,500 sq ft.",
+      "description": "The Deco 7 BE23 is a dual-band BE3600 WiFi 7 system with 4 streams, 3.6 Gbps class speeds, 160 MHz channels and 2.5G ports, rated to cover up to 6,500 square feet. It supports wired backhaul and VPN features, and it sits in the upper price range for this guide.\n\nIt takes second place because the 2.5G ports are what let a mesh keep up with a fast internet plan, since a gigabit port can bottleneck a connection above 1 Gbps. Running Ethernet between nodes also frees the wireless bands for devices instead of node-to-node traffic. The tradeoff against the X55 is price, and the fact that WiFi 7 devices are still a minority in most homes.\n\nIt is the best buy for someone with a faster internet plan or planning to future-proof. If your devices are mostly older, the X55 gives more coverage for less.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 7, BE3600"
+        },
+        {
+          "label": "Channel width",
+          "value": "160 MHz"
+        },
+        {
+          "label": "Ports",
+          "value": "2x 2.5G"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 6,500 sq ft"
+        }
+      ],
+      "pros": [
+        "2.5G ports avoid gigabit bottleneck",
+        "Wired backhaul frees wireless bands",
+        "Covers up to 6,500 sq ft",
+        "VPN features on the listing"
+      ],
+      "cons": [
+        "Priced near the top limit",
+        "Few WiFi 7 devices to use it"
+      ],
+      "idealFor": "Fast-internet households wanting wired backhaul and WiFi 7.",
+      "skipIf": "Your devices are all WiFi 5 or WiFi 6."
+    },
+    {
+      "id": "tp-link-deco-7-be5000-mesh",
+      "rank": 3,
+      "award": "Best Faster WiFi 7",
+      "name": "TP-Link Deco 7 BE5000 Mesh System",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/31cXnHQNtzL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DKVDZXSN?tag=primeareviews-20",
+      "verdict": "A dual-band BE5000 WiFi 7 kit with 4 streams and 240 MHz on the product name.",
+      "description": "The Deco 7 BE5000 is a dual-band WiFi 7 mesh system with 4 streams and a 5 Gbps speed class, and the listing title points to 240 MHz channel capability. It is priced in the upper range for this guide.\n\nIt ranks third because the listing offers few specifications beyond the name, so we cannot confirm port speeds, node counts or coverage the way we can for the BE23. The BE5000 rating suggests more headroom than the BE3600 model, but ratings are theoretical totals and depend on WiFi 7 clients to be realized.\n\nChoose it if you want the faster WiFi 7 tier and are happy to check the exact kit contents on the listing. If wired backhaul and 2.5G ports are your priority, the BE23 documents them more clearly.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 7, BE5000"
+        },
+        {
+          "label": "Streams",
+          "value": "4"
+        },
+        {
+          "label": "Bands",
+          "value": "Dual-band"
+        },
+        {
+          "label": "Channel width",
+          "value": "Up to 240 MHz named"
+        }
+      ],
+      "pros": [
+        "Higher BE5000 speed class",
+        "Four-stream WiFi 7 design",
+        "Dual-band simple setup",
+        "Strong choice for new devices"
+      ],
+      "cons": [
+        "Listing lacks port detail",
+        "Needs WiFi 7 clients to shine"
+      ],
+      "idealFor": "Early adopters with WiFi 7 phones and laptops.",
+      "skipIf": "You want documented 2.5G ports and coverage."
+    },
+    {
+      "id": "tp-link-deco-x15-ax1500",
+      "rank": 4,
+      "award": "Best Compact Kit",
+      "name": "TP-Link Deco X15 AX1500 Mesh System",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/21ZvKceDXEL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D7MKJ56S?tag=primeareviews-20",
+      "verdict": "A compact AX1500 WiFi 6 mesh with two gigabit ports per unit and Ethernet backhaul.",
+      "description": "The Deco X15 is a dual-band AX1500 WiFi 6 system that replaces routers and extenders, with two gigabit ports per unit and support for Ethernet backhaul. The listing quotes coverage of up to 5,600 square feet, and it sits in the $100 to $200 range.\n\nIt ranks fourth because AX1500 is a lower speed class than the X55, so it leaves less headroom for busy homes with many streaming devices. What it does well is give you a wired backhaul option at modest cost, which is a bigger real-world improvement than raw speed for homes already wired with Ethernet.\n\nBuy it for an apartment or a mid-size house on a standard internet plan, particularly if you can run cable between units. Skip it if you want the best speed class for the money.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 6, AX1500"
+        },
+        {
+          "label": "Ports",
+          "value": "2 gigabit per unit"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 5,600 sq ft"
+        },
+        {
+          "label": "Backhaul",
+          "value": "Ethernet supported"
+        }
+      ],
+      "pros": [
+        "Ethernet backhaul is supported",
+        "Two gigabit ports per unit",
+        "Replaces router and extenders",
+        "Quoted 5,600 sq ft coverage"
+      ],
+      "cons": [
+        "AX1500 trails AX3000 headroom",
+        "Gigabit ports cap fast plans"
+      ],
+      "idealFor": "Wired homes on standard internet plans.",
+      "skipIf": "You stream on many devices at once."
+    },
+    {
+      "id": "tp-link-deco-x55-ax3000-1-pack",
+      "rank": 5,
+      "award": "Best Add-On Node",
+      "name": "TP-Link Deco X55 AX3000 Mesh System, 1-Pack",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/218oEaQHBlL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09VJ5CSD6?tag=primeareviews-20",
+      "verdict": "A single WiFi 6 Deco X55 for small spaces or for expanding an existing Deco setup.",
+      "description": "This is the same WiFi 6 AX3000 Deco X55, sold as a single unit in the $50 to $100 range. On its own it works as a router replacement for a small home, and it can also join an existing Deco network as an extra node.\n\nIt ranks fifth because a single node is not a mesh until you add a second, and one unit will not blanket a multi-floor house. Its sweet spot is a flat or small house, or someone who already owns Deco gear and needs one more access point to fix a weak corner.\n\nBuy it if you are expanding an existing network or live in a compact space. If you need whole-house coverage from scratch, the three-pack is a much better route.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 6"
+        },
+        {
+          "label": "Speed class",
+          "value": "AX3000"
+        },
+        {
+          "label": "Nodes",
+          "value": "1"
+        },
+        {
+          "label": "Price range",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Cheap way to add a node",
+        "Same AX3000 class as the kit",
+        "Fine for small apartments",
+        "Easy Deco app expansion"
+      ],
+      "cons": [
+        "One unit is not a mesh",
+        "Will not cover a large home"
+      ],
+      "idealFor": "Small homes or owners expanding an existing Deco network.",
+      "skipIf": "You need coverage across several floors."
+    },
+    {
+      "id": "tp-link-deco-s4-ac1900-3-pack",
+      "rank": 6,
+      "award": "Best Budget Coverage",
+      "name": "TP-Link Deco S4 AC1900 Mesh System, 3-Pack",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/31tiDlj21YS._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B084GTH5LL?tag=primeareviews-20",
+      "verdict": "Three WiFi 5 nodes at the lowest spend, built for coverage rather than speed.",
+      "description": "The Deco S4 three-pack is an AC1900 WiFi 5 mesh system, in the $50 to $100 range. The listing gives few further specifications, so expect a basic, older-generation design.\n\nIt ranks sixth because WiFi 5 lacks the efficiency features of WiFi 6, such as better handling of many devices at once. For a household with a handful of phones and a TV, that gap is easy to miss, and three nodes still beat a single router at filling dead zones.\n\nIt is a fair pick for a tight budget, a rental or a family that mostly browses and streams. Skip it if you have a crowded smart home, since WiFi 5 handles dozens of devices less gracefully than the WiFi 6 kits above.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 5"
+        },
+        {
+          "label": "Speed class",
+          "value": "AC1900"
+        },
+        {
+          "label": "Nodes",
+          "value": "3"
+        },
+        {
+          "label": "Price range",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Three nodes at the lowest spend",
+        "Fixes dead zones cheaply",
+        "Simple Deco app setup",
+        "Fine for light households"
+      ],
+      "cons": [
+        "WiFi 5 is an older standard",
+        "Weaker with many devices"
+      ],
+      "idealFor": "Budget buyers and renters with few connected devices.",
+      "skipIf": "You run a crowded smart home."
+    },
+    {
+      "id": "tp-link-deco-s4-ac1900-2-pack",
+      "rank": 7,
+      "award": "Best for Small Homes",
+      "name": "TP-Link Deco S4 AC1900 Mesh System, 2-Pack",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31sf4icW4gL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08B3QNN9P?tag=primeareviews-20",
+      "verdict": "A two-node WiFi 5 whole-home kit for apartments and small houses on a tight budget.",
+      "description": "The Deco S4 two-pack is the same AC1900 WiFi 5 design sold as two units, in the $50 to $100 range. Two nodes suit a small house or a long apartment.\n\nIt ranks last because it combines the older WiFi 5 standard with only two nodes, so coverage and capacity are both limited. The pairing works when a router in one room and a satellite at the far end is all you need.\n\nBuy it if your home is small and your budget is tight. If you can stretch to a three-node kit, the three-pack covers more space for a similar spend.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "WiFi 5"
+        },
+        {
+          "label": "Speed class",
+          "value": "AC1900"
+        },
+        {
+          "label": "Nodes",
+          "value": "2"
+        },
+        {
+          "label": "Price range",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Lowest-cost whole-home kit",
+        "Two nodes suit small homes",
+        "Simple setup through the app",
+        "Easy to add nodes later"
+      ],
+      "cons": [
+        "WiFi 5 is dated now",
+        "Two nodes limit coverage"
+      ],
+      "idealFor": "Apartments and small houses on a tight budget.",
+      "skipIf": "Your home has several floors."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "WiFi generation and speed class",
+      "description": "We compared WiFi 5, 6 and 7 kits and treated the rated speed as a combined theoretical figure rather than what one device receives."
+    },
+    {
+      "title": "Node count and coverage",
+      "description": "Kits were scored on how many nodes ship in the box and the square footage the listing quotes."
+    },
+    {
+      "title": "Ports and backhaul",
+      "description": "Gigabit versus 2.5G ports and the option of Ethernet backhaul weighed heavily, since they decide whether a fast internet plan survives the mesh."
+    },
+    {
+      "title": "Setup and app experience",
+      "description": "Each kit uses the Deco app, so we credited listings that describe straightforward setup and router replacement."
+    },
+    {
+      "title": "Value under $300",
+      "description": "We judged what each kit delivers against its price range and how much of the budget it leaves for other gear."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "WiFi generation",
+      "detail": "WiFi 5, WiFi 6 and WiFi 7 differ in how efficiently they share airtime across many devices, and newer generations handle busy homes better. WiFi 6 is the sweet spot because most current devices support it, while WiFi 7 only pays off with WiFi 7 clients. Check the standard on the box and match it to your newest phone or laptop."
+    },
+    {
+      "factor": "Speed class numbers",
+      "detail": "Labels like AX3000 or BE5000 add the theoretical speeds of every band together, so no single device ever reaches the total. Compare them only within the same generation, and treat them as a rough tier rather than a promise. Look for the band count and stream count on the listing for a clearer picture."
+    },
+    {
+      "factor": "Node count and coverage",
+      "detail": "A mesh works because nodes overlap, so too few leaves gaps and too many wastes money. A three-node kit is the usual fit for a two-story house, while two nodes suit a compact home. Quoted square footage is a best-case open-space figure, so subtract for walls, floors and brick."
+    },
+    {
+      "factor": "Ports and backhaul",
+      "detail": "Backhaul is how nodes talk to each other, and dual-band kits share the same radio for devices and node traffic, which cuts speed. Running Ethernet between nodes avoids that penalty. Look for the number and speed of ports, and note whether the listing says wired backhaul is supported."
+    },
+    {
+      "factor": "Internet plan speed",
+      "detail": "Gigabit ports cap throughput near 1 Gbps, so a faster plan needs a 2.5G port to take advantage of it. Most households on plans under 500 Mbps will never notice the difference. Check your plan speed and the WAN port rating before paying for a premium kit."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By WiFi Generation",
+      "intro": "The generation decides how well the system handles busy homes and which devices benefit.",
+      "table": {
+        "headers": [
+          "Generation",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "WiFi 7, wired backhaul",
+            "TP-Link Deco 7 BE23 BE3600 Mesh System"
+          ],
+          [
+            "WiFi 7, faster class",
+            "TP-Link Deco 7 BE5000 Mesh System"
+          ],
+          [
+            "WiFi 6, best value",
+            "TP-Link Deco X55 AX3000 Mesh System, 3-Pack"
+          ],
+          [
+            "WiFi 5, lowest spend",
+            "TP-Link Deco S4 AC1900 Mesh System, 3-Pack"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50 to $100",
+            "TP-Link Deco S4 AC1900 Mesh System, 3-Pack"
+          ],
+          [
+            "$50 to $100 (expansion)",
+            "TP-Link Deco X55 AX3000 Mesh System, 1-Pack"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link Deco X55 AX3000 Mesh System, 3-Pack"
+          ],
+          [
+            "$200 to $300",
+            "TP-Link Deco 7 BE23 BE3600 Mesh System"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Wireless Backhaul vs Wired Backhaul",
+      "cards": [
+        {
+          "label": "Wireless backhaul",
+          "text": "Nodes talk to each other over the same radios your devices use, so speed drops at each hop. Fine for light use. Picks: Deco S4 sets and Deco X55 3-Pack."
+        },
+        {
+          "label": "Wired backhaul",
+          "text": "Ethernet cable between nodes keeps the radios free for devices and keeps speed high. Picks: Deco 7 BE23 and Deco X15."
+        }
+      ],
+      "note": "Default to wired backhaul if you can run cable, since it matters more than the speed class."
+    },
+    {
+      "subheading": "By Home Size",
+      "table": {
+        "headers": [
+          "Home",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Large home, 3+ floors",
+            "TP-Link Deco 7 BE23 BE3600 Mesh System"
+          ],
+          [
+            "Two-story house",
+            "TP-Link Deco X55 AX3000 Mesh System, 3-Pack"
+          ],
+          [
+            "Mid-size, wired",
+            "TP-Link Deco X15 AX1500 Mesh System"
+          ],
+          [
+            "Small apartment",
+            "TP-Link Deco S4 AC1900 Mesh System, 2-Pack"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Gigabit Internet Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A 2.5G port, wired backhaul and a modern WiFi generation. Gigabit ports on every node can bottleneck a plan above 1 Gbps."
+        },
+        {
+          "label": "In this ranking",
+          "text": "Deco 7 BE23 is the only kit with documented 2.5G ports. The Deco 7 BE5000 is the faster class if you confirm its ports on the listing."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You have a fast internet plan, a crowded smart home or plan to wire the house. The Deco 7 BE23 and Deco 7 BE5000 earn the premium."
+        },
+        {
+          "label": "Save if",
+          "text": "You live in a small space with few devices. The Deco S4 sets or the Deco X55 single node will do the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will these Deco kits work with my existing modem?",
+      "a": "Yes, they connect by Ethernet to any modem or ISP gateway. If your gateway is also a router, set it to bridge or IP passthrough mode so the two do not conflict."
+    },
+    {
+      "q": "What is the most common mesh setup mistake?",
+      "a": "Placing nodes too far apart, so the satellite only receives a weak signal. Put each node roughly halfway between the previous one and the dead zone, and use the app's signal indicator to confirm."
+    },
+    {
+      "q": "Is WiFi 7 worth it over WiFi 6 here?",
+      "a": "Only if you own WiFi 7 devices or have a plan faster than 1 Gbps. For most households the X55 three-pack gives better coverage per dollar, and you can upgrade later."
+    },
+    {
+      "q": "How do I set up a Deco system?",
+      "a": "Connect the first unit to the modem, install the Deco app and follow the prompts, then place the other nodes and let the app pair them. Most owners finish in well under half an hour."
+    },
+    {
+      "q": "Can I mix different Deco models?",
+      "a": "Many Deco models can join the same network, but a mixed kit runs at the capability of the weakest link in many cases. Check TP-Link's compatibility list before combining WiFi 5, 6 and 7 units."
+    },
+    {
+      "q": "How do I keep the system secure and fast?",
+      "a": "Keep the firmware updated through the app, use WPA3 where your devices support it and reboot nodes if speeds drop. Moving a node away from microwaves and thick walls often fixes odd slowdowns."
+    }
+  ],
+  "finalTake": "Buy the Deco X55 three-pack if you want dependable WiFi 6 across a multi-floor home without overspending. Step up to the Deco 7 BE23 if you have a fast internet plan and can use wired backhaul. Leave the Deco S4 sets for small homes and tight budgets, and skip any single-node kit when you need whole-house coverage.",
+  "related": [
+    "best-mesh-wifi-system-under-100",
+    "best-robot-vacuums-without-wifi",
+    "best-mesh-office-chair"
+  ]
+}
