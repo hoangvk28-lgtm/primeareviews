@@ -6653,15 +6653,6 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
-  "slug": "best-vacuum-sealer-under-50",
-  "h1": "The 8 Best Vacuum Sealer Bags for a Budget Sealer Under $50, Ranked & Reviewed",
-  "category": "home-living",
-  "metaDescription": "Ranked and reviewed by Primea: 8 vacuum sealer bag packs for budget sealers under $50, compared on roll length, bag size, sous vide use and cost per bag.",
-  "heroImage": "https://m.media-amazon.com/images/I/41NBA88Nu+L._SL500_.jpg",
-  "updatedAt": "2026-11-03",
-  "topScore": 94
- },
- {
   "slug": "best-variable-temperature-electric-kettles",
   "h1": "The 5 Best Variable-Temperature Electric Kettles of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -7816,7 +7807,6 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-vacuum-mops-for-pet-hair": () => import("./guides/best-vacuum-mops-for-pet-hair.json"),
   "best-vacuum-mops-for-seniors": () => import("./guides/best-vacuum-mops-for-seniors.json"),
   "best-vacuum-sealer-under-200": () => import("./guides/best-vacuum-sealer-under-200.json"),
-  "best-vacuum-sealer-under-50": () => import("./guides/best-vacuum-sealer-under-50.json"),
   "best-variable-temperature-electric-kettles": () => import("./guides/best-variable-temperature-electric-kettles.json"),
   "best-vax-carpet-cleaner-alternatives": () => import("./guides/best-vax-carpet-cleaner-alternatives.json"),
   "best-vertical-docking-stations-for-clean-desk-setups": () => import("./guides/best-vertical-docking-stations-for-clean-desk-setups.json"),
