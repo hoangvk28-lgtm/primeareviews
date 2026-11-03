@@ -13,9 +13,11 @@ import fs from "node:fs";
 import path from "node:path";
 
 const N = Number(process.argv[2] ?? 1000);
+// Windows paths on the original machine; sibling checkouts (../smartspace-picks, ../BestFindsReviews) elsewhere.
+const pick = (win, sib) => (fs.existsSync(win) ? win : path.join(process.cwd(), "..", sib, "data", "guides"));
 const SOURCES = [
-  { name: "deskfinds", dir: "C:/Users/ADMIN/Downloads/Roo-Code-main/smartspace-picks/data/guides" },
-  { name: "worthrated", dir: "C:/Users/ADMIN/Downloads/BestFindsReviews/data/guides" },
+  { name: "deskfinds", dir: pick("C:/Users/ADMIN/Downloads/Roo-Code-main/smartspace-picks/data/guides", "smartspace-picks") },
+  { name: "worthrated", dir: pick("C:/Users/ADMIN/Downloads/BestFindsReviews/data/guides", "BestFindsReviews") },
 ];
 const CLUSTER_CAP = 6;
 
@@ -56,14 +58,17 @@ const pools = SOURCES.map(({ name, dir }) => {
 const picked = [];
 const seenSets = new Set();
 const seenSlugs = new Set();
+const clusterKey = (slug) => slug.replace(/^best-/, "").split("-").filter((w) => !/^(for|with|and|the|under|\d+)$/.test(w)).slice(0, 2).join("-");
 const clusterCount = new Map();
+// Count already-published guides so a new batch does not pile more onto saturated clusters.
+for (const s of published) clusterCount.set(clusterKey(s), (clusterCount.get(clusterKey(s)) ?? 0) + 1);
 const idx = pools.map(() => 0);
 while (picked.length < N && idx.some((i, p) => i < pools[p].length)) {
   for (let p = 0; p < pools.length && picked.length < N; p++) {
     while (idx[p] < pools[p].length) {
       const c = pools[p][idx[p]++];
       const setKey = [...c.asins].sort().join(",");
-      const cluster = c.slug.replace(/^best-/, "").split("-").filter((w) => !/^(for|with|and|the|under|\d+)$/.test(w)).slice(0, 2).join("-");
+      const cluster = clusterKey(c.slug);
       if (seenSlugs.has(c.slug) || seenSets.has(setKey) || (clusterCount.get(cluster) ?? 0) >= CLUSTER_CAP) continue;
       seenSlugs.add(c.slug);
       seenSets.add(setKey);
@@ -75,7 +80,7 @@ while (picked.length < N && idx.some((i, p) => i < pools[p].length)) {
 }
 
 fs.mkdirSync(path.join(process.cwd(), "scripts", ".work"), { recursive: true });
-fs.writeFileSync(path.join(process.cwd(), "scripts", ".work", "candidates.json"), JSON.stringify(picked, null, 1));
+fs.writeFileSync(path.join(process.cwd(), "scripts", ".work", process.env.OUT ?? "candidates.json"), JSON.stringify(picked, null, 1));
 const bySource = picked.reduce((m, c) => ((m[c.source] = (m[c.source] ?? 0) + 1), m), {});
 const byCat = picked.reduce((m, c) => ((m[c.category] = (m[c.category] ?? 0) + 1), m), {});
 console.log(`Picked ${picked.length} candidates`, bySource, byCat);
