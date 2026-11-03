@@ -1,0 +1,506 @@
+{
+  "slug": "best-quiet-network-switches",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Quiet Network Switches for Desks, Bedrooms and Media Closets in 2026, Ranked & Reviewed",
+  "metaTitle": "Best Quiet Network Switches 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 7 fanless network switches from TP-Link and NETGEAR, 5 and 8 port, gigabit and 2.5G, compared on ports, speed and value.",
+  "mainKeyword": "quiet network switches",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
+  "summary": "The NETGEAR GS308 is the quiet switch to buy for most homes: eight gigabit ports, a fanless metal case and efficient Ethernet in a very low price bracket. The TP-Link TL-SG108S-M2 is the better pick if your internet or NAS has outgrown gigabit, and the TP-Link TL-SG105 is the five-port choice for a single desk. Every unit here is fanless, so the only thing you will hear is nothing.",
+  "intro": [
+    "People shop for a quiet switch and then check the wrong thing. They read noise decibel figures that rarely exist, when the real answer is simpler: if a switch has no fan, it makes no fan noise. The ugly truth about cheap networking gear is that noise almost always comes from a small cooling fan in a managed or PoE model, not from an unmanaged box like these.",
+    "So this ranking is about everything else that separates a silent switch from a good one: port count, whether the ports run at 1 gigabit or 2.5 gigabit, how the metal case handles heat without airflow, and how the unit mounts on a desk or wall. We reviewed seven fanless unmanaged switches from the listings and spec sheets, and we did not measure sound."
+  ],
+  "products": [
+    {
+      "id": "netgear-gs308-8-port-gigabit-switch",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "NETGEAR GS308 8-Port Gigabit Unmanaged Switch",
+      "score": 95,
+      "imageUrl": "https://m.media-amazon.com/images/I/31kV5XNYXoL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07PFYM5MZ?tag=primeareviews-20",
+      "verdict": "Eight gigabit ports in a fanless metal case, at a price almost everyone can justify.",
+      "description": "The GS308 is the default answer to a quiet home switch. It gives you eight gigabit ports in a fanless metal housing, supports 802.3az energy-efficient Ethernet, and can sit on a desk or mount to a wall. It sits in the under $25 bracket, which is remarkable for a metal-cased unit.\n\nIt ranks first because it covers the most common need, a handful of wired devices on a home network, without charging for features you will not use. Against the five-port GS305 it gives you three extra ports for the same kind of money, and extra ports are cheaper than a second switch later. The tradeoff is that gigabit speed is the ceiling, so it will not carry a multi-gig internet plan across your network.\n\nBuy it if you have a router, a console, a desktop and a few other wired devices. Skip it if your ISP plan or NAS is faster than 1 gigabit.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 gigabit"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless metal housing"
+        },
+        {
+          "label": "Efficiency",
+          "value": "802.3az energy-efficient Ethernet"
+        },
+        {
+          "label": "Mounting",
+          "value": "Desktop or wall mount"
+        }
+      ],
+      "pros": [
+        "Fanless metal housing stays silent",
+        "Eight ports for a tiny price",
+        "Energy-efficient Ethernet saves power",
+        "Desktop or wall mounting"
+      ],
+      "cons": [
+        "Gigabit speed ceiling",
+        "No management features"
+      ],
+      "idealFor": "Most homes with a router and several wired devices.",
+      "skipIf": "You pay for a multi-gig internet plan."
+    },
+    {
+      "id": "tp-link-tl-sg108-8-port-gigabit-switch",
+      "rank": 2,
+      "award": "Best Support",
+      "name": "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch",
+      "score": 93,
+      "imageUrl": "https://m.media-amazon.com/images/I/31vqMB5haFL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00A121WN6?tag=primeareviews-20",
+      "verdict": "A shielded metal eight-port switch with 24x7 live technical support behind it.",
+      "description": "The TL-SG108 pairs eight gigabit ports with a shielded metal housing, a fanless design and plug-and-play setup, and TP-Link lists 24x7 live technical support alongside it. That support line is unusual for a budget switch and matters if you are the family IT person.\n\nIt ranks second only because the NETGEAR GS308 offers the same port count and the same silent design with the added mention of energy-efficient Ethernet and wall mounting, while the TP-Link does not list either in the facts we reviewed. The two are close in practice, and the shielded housing helps in rooms with a lot of electrical noise. Both sit under $25, so the pick comes down to brand preference.\n\nBuy it if you like TP-Link's ecosystem or value a live support number. Skip it if you want a documented energy-saving mode.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 gigabit"
+        },
+        {
+          "label": "Housing",
+          "value": "Shielded metal"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Support",
+          "value": "24x7 live technical support"
+        }
+      ],
+      "pros": [
+        "Shielded metal housing",
+        "Fanless and plug-and-play",
+        "Live support around the clock",
+        "Eight ports in the lowest bracket"
+      ],
+      "cons": [
+        "No energy-saving mode listed",
+        "Gigabit speed only"
+      ],
+      "idealFor": "Home networks where you want simple setup and a support line.",
+      "skipIf": "Your uplink or storage is faster than gigabit."
+    },
+    {
+      "id": "tp-link-tl-sg108s-m2-8-port-2-5g-switch",
+      "rank": 3,
+      "award": "Best 2.5G Upgrade",
+      "name": "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-20",
+      "verdict": "Eight 2.5G ports with 40Gbps of switching capacity, and it runs on the Cat5e you already have.",
+      "description": "The TL-SG108S-M2 gives you eight 2.5G ports and a stated 40Gbps switching capacity in a fanless unmanaged case. The key detail is that it works over existing Cat5e cabling, so the upgrade from gigabit does not require a rewire.\n\nIt ranks third because the extra speed only pays off if something on your network uses it: a 2.5G internet plan, a NAS, or a PC and router with 2.5G ports. For that buyer it is a sensible and quiet step up, and the $50 to $100 bracket is fair. For a household with gigabit everywhere, the cheaper GS308 above it delivers the same day-to-day experience.\n\nBuy it if you already have 2.5G gear or plan to add it soon. Skip it if every device on your network is gigabit.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 x 2.5G"
+        },
+        {
+          "label": "Capacity",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Cabling",
+          "value": "Works over existing Cat5e"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless, unmanaged"
+        }
+      ],
+      "pros": [
+        "Eight 2.5G ports",
+        "40Gbps switching capacity",
+        "Reuses Cat5e cabling",
+        "Fanless and silent"
+      ],
+      "cons": [
+        "Costs more than gigabit",
+        "Needs 2.5G devices to benefit"
+      ],
+      "idealFor": "Owners with a 2.5G internet plan, NAS or multi-gig PC.",
+      "skipIf": "All your devices only support gigabit."
+    },
+    {
+      "id": "tp-link-tl-sg105-5-port-gigabit-switch",
+      "rank": 4,
+      "award": "Best 5-Port with QoS",
+      "name": "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-20",
+      "verdict": "A compact five-port switch with QoS, IGMP snooping and a three-year warranty.",
+      "description": "The TL-SG105 has five gigabit ports, QoS and IGMP snooping, a three-year warranty, and a metal case that works on a desk or a wall. It is the small-desk choice: a router at one end, a computer, a console, a printer and a spare port.\n\nIt ranks fourth because the eight-port models give you more room for the same money, but five ports is enough for a lot of people and the smaller body hides more easily. QoS and IGMP snooping are the interesting extras, and they help with video traffic and multicast streaming. The three-year warranty is the longest stated figure in this ranking, which counts as a durability signal.\n\nBuy it if you have five or fewer wired devices and value the warranty. Skip it if you expect to add more wired gear soon.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 gigabit"
+        },
+        {
+          "label": "Features",
+          "value": "QoS and IGMP snooping"
+        },
+        {
+          "label": "Warranty",
+          "value": "3 years"
+        },
+        {
+          "label": "Case",
+          "value": "Metal, desktop or wall mount"
+        }
+      ],
+      "pros": [
+        "QoS and IGMP snooping included",
+        "Three-year warranty",
+        "Small metal case",
+        "Lowest price bracket"
+      ],
+      "cons": [
+        "Only five ports",
+        "Gigabit speed only"
+      ],
+      "idealFor": "A compact desk with a handful of wired devices.",
+      "skipIf": "You will outgrow five ports quickly."
+    },
+    {
+      "id": "netgear-gs305-5-port-gigabit-switch",
+      "rank": 5,
+      "award": "Best Small Silent Switch",
+      "name": "NETGEAR GS305 5-Port Gigabit Unmanaged Switch",
+      "score": 87,
+      "imageUrl": "https://m.media-amazon.com/images/I/31JUxKEND6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-20",
+      "verdict": "A fanless five-port switch with energy-efficient Ethernet for tight spaces.",
+      "description": "The GS305 is the five-port sibling of the GS308, sharing the fanless build and the power-saving Ethernet mode, and it sits on a shelf or screws to a wall. It sits in the under $25 bracket and is the smallest and simplest option in the group.\n\nIt ranks below the TL-SG105 because that model adds QoS, IGMP snooping and a stated three-year warranty, while this one keeps to the basics. It ranks above the larger multi-gig models for a buyer who only wants silence and gigabit, though the eight-port GS308 gives better room to grow. Treat it as the right size for one workstation or one entertainment shelf.\n\nBuy it if you need to split one wall jack into several wired connections. Skip it if you want QoS features or more ports.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 gigabit"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Efficiency",
+          "value": "802.3az energy-efficient"
+        },
+        {
+          "label": "Mounting",
+          "value": "Desktop or wall"
+        }
+      ],
+      "pros": [
+        "Silent fanless design",
+        "Energy-efficient Ethernet",
+        "Wall mount option",
+        "Smallest footprint here"
+      ],
+      "cons": [
+        "Only five ports",
+        "No QoS listed"
+      ],
+      "idealFor": "A single desk or TV shelf needing a few more wired ports.",
+      "skipIf": "You want QoS or room to expand."
+    },
+    {
+      "id": "tp-link-tl-sg105s-m2-5-port-2-5g-switch",
+      "rank": 6,
+      "award": "Best Compact 2.5G",
+      "name": "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-20",
+      "verdict": "Five 2.5G ports and 25Gbps of capacity in a compact metal case, for $25 to $50.",
+      "description": "The TL-SG105S-M2 delivers five 2.5G ports with 25Gbps of switching capacity in a compact metal case, and it runs on existing Cat5e wiring. It is the cheapest way into multi-gig in this ranking, sitting in the $25 to $50 bracket.\n\nIt ranks sixth because a five-port 2.5G switch only makes sense if several of your devices have 2.5G ports, and most households do not yet. If you have one multi-gig PC and a router, you have a use for it. If you have a NAS plus workstation plus router, it is a strong pick. Otherwise the plain gigabit units below it in price give identical results for ordinary tasks.\n\nBuy it if you have a small 2.5G setup and want to avoid spending on eight ports. Skip it if you do not own anything that benefits from multi-gig.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 x 2.5G"
+        },
+        {
+          "label": "Capacity",
+          "value": "25Gbps"
+        },
+        {
+          "label": "Cabling",
+          "value": "Existing Cat5e"
+        },
+        {
+          "label": "Case",
+          "value": "Compact metal"
+        }
+      ],
+      "pros": [
+        "Cheapest multi-gig entry here",
+        "Reuses Cat5e cabling",
+        "25Gbps switching capacity",
+        "Compact metal case"
+      ],
+      "cons": [
+        "Only five ports",
+        "Needs multi-gig devices to matter"
+      ],
+      "idealFor": "A small setup with a few 2.5G devices.",
+      "skipIf": "Your devices all top out at gigabit."
+    },
+    {
+      "id": "netgear-ms308-8-port-2-5g-switch",
+      "rank": 7,
+      "award": "Premium 2.5G Pick",
+      "name": "NETGEAR MS308 8-Port 2.5G Unmanaged Switch",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31IMn-shZ3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D54STHFZ?tag=primeareviews-20",
+      "verdict": "A fanless eight-port 2.5G switch with efficient Ethernet, at the highest price here.",
+      "description": "The MS308 gives you eight 2.5G ports in a fanless design, works with existing Cat5e or Cat6 cabling, and supports 802.3az energy-efficient Ethernet. It is the most expensive unit here, sitting in the $100 to $200 bracket.\n\nIt ranks last, not because it is bad, but because the TP-Link TL-SG108S-M2 offers a comparable eight-port 2.5G setup for a lower price bracket and also states its 40Gbps switching capacity. The NETGEAR adds the energy-efficient Ethernet mention and a brand some owners trust for long-term firmware and support, which may justify the premium if you buy NETGEAR across your network.\n\nBuy it if you want eight silent 2.5G ports and prefer NETGEAR. Skip it if price matters more than brand.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 x 2.5G"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Cabling",
+          "value": "Cat5e or Cat6"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Eight silent 2.5G ports",
+        "Energy-efficient Ethernet",
+        "Works with Cat5e or Cat6",
+        "NETGEAR brand support"
+      ],
+      "cons": [
+        "Priciest switch here",
+        "No stated switching capacity"
+      ],
+      "idealFor": "NETGEAR households upgrading to multi-gig.",
+      "skipIf": "You want the lowest price for eight 2.5G ports."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Noise and cooling",
+      "description": "Every switch was required to be fanless, then compared on case material, since a metal body spreads heat without airflow."
+    },
+    {
+      "title": "Port count and speed",
+      "description": "Five and eight port layouts were compared across 1 gigabit and 2.5G speeds, with stated switching capacity where it is published."
+    },
+    {
+      "title": "Feature set",
+      "description": "QoS, IGMP snooping, energy-efficient Ethernet and shielding were weighed for what they change on a home network."
+    },
+    {
+      "title": "Mounting and support",
+      "description": "Desktop and wall mounting, warranty length and live support lines were scored as long-term ownership signals."
+    },
+    {
+      "title": "Value by bracket",
+      "description": "Each switch was judged against the under $25, $25 to $50, $50 to $100 and $100 to $200 brackets it occupies."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Fanless design",
+      "detail": "A switch with no fan has no moving parts to make noise or wear out. The trade is that heat has to escape through the case, which is why metal housings are common on quiet models. Check the listing for the word fanless, because PoE and managed switches often add fans."
+    },
+    {
+      "factor": "Port speed",
+      "detail": "Gigabit ports top out at 1000 Mbps, while 2.5G ports reach 2500 Mbps over the same Cat5e cable. The speed only matters if the device at the other end can use it, so look at the Ethernet port on your router, NAS and PC before paying extra. A multi-gig switch connected to gigabit devices simply runs at gigabit."
+    },
+    {
+      "factor": "Switching capacity",
+      "detail": "Switching capacity is the total bandwidth the chip can move across all ports at once. For a simple eight-port home switch this is rarely the bottleneck, but stated figures such as the 25Gbps and 40Gbps on the TP-Link 2.5G units show the chip can keep every port busy. Check the listing for a stated number instead of assuming."
+    },
+    {
+      "factor": "Unmanaged vs smart features",
+      "detail": "Unmanaged switches work out of the box with no configuration. Extras like QoS and IGMP snooping help prioritise video calls and multicast streams, but they are not a substitute for a managed switch with VLANs. Pick unmanaged for a plug-and-forget setup."
+    },
+    {
+      "factor": "Mounting and power",
+      "detail": "Many silent switches use a small external power adapter, so check where the outlet sits relative to the shelf or wall. Wall-mounting holes keep the switch off the desk and improve airflow around the metal case. Energy-efficient Ethernet also trims idle power draw."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Port Count",
+      "intro": "Count your wired devices now, then add two ports for growth.",
+      "table": {
+        "headers": [
+          "Wired devices",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Up to 4",
+            "NETGEAR GS305 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Up to 4, want QoS and a warranty",
+            "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "5 to 7",
+            "NETGEAR GS308 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "5 to 7, want 2.5G",
+            "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "NETGEAR GS308 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "$25 to $50",
+            "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch"
+          ],
+          [
+            "$50 to $100",
+            "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch"
+          ],
+          [
+            "$100 to $200",
+            "NETGEAR MS308 8-Port 2.5G Unmanaged Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Gigabit vs 2.5G",
+      "cards": [
+        {
+          "label": "Gigabit",
+          "text": "Cheaper and enough for streaming, gaming and ordinary downloads on a typical home plan. Picks: NETGEAR GS308, TP-Link TL-SG108, TP-Link TL-SG105 and NETGEAR GS305."
+        },
+        {
+          "label": "2.5G",
+          "text": "Worth it if your router, NAS or PC already has a 2.5G port or your internet plan exceeds gigabit. Picks: TP-Link TL-SG108S-M2, TP-Link TL-SG105S-M2 and NETGEAR MS308."
+        }
+      ],
+      "note": "Default to gigabit unless you already own 2.5G equipment."
+    },
+    {
+      "subheading": "By Placement",
+      "table": {
+        "headers": [
+          "Where it lives",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Bedroom or desk",
+            "NETGEAR GS305 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Media closet",
+            "NETGEAR GS308 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Electrically noisy room",
+            "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Home office with a NAS",
+            "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Home Offices and Bedrooms Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A fanless metal body, a power adapter that is small and easy to hide, and a wall-mount option that keeps cables off the desk."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The NETGEAR GS305 suits a bedroom desk, the NETGEAR GS308 handles a home office with several devices, and the TP-Link TL-SG108 adds shielding for crowded electronics."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "Your internet plan, NAS or workstation uses 2.5G. The TP-Link TL-SG108S-M2 or NETGEAR MS308 keep up without noise."
+        },
+        {
+          "label": "Save if",
+          "text": "Everything on your network is gigabit. The NETGEAR GS308 does the whole job for the lowest bracket."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will a quiet switch slow my internet?",
+      "a": "No. An unmanaged switch simply passes traffic between ports at wire speed. Your internet speed is limited by your plan and router, not by a switch with enough capacity."
+    },
+    {
+      "q": "What is the common mistake when buying a switch?",
+      "a": "Buying multi-gig ports with no multi-gig devices. A 2.5G switch plugged into gigabit devices runs at gigabit, so check your router, NAS and PC ports first."
+    },
+    {
+      "q": "Is a 2.5G switch worth it over a gigabit one?",
+      "a": "Only if you have gear that can use it, such as a 2.5G internet plan, a NAS or a modern motherboard. Otherwise the gigabit models do the same job for less and are just as silent."
+    },
+    {
+      "q": "How hard is setup?",
+      "a": "Plug in the power adapter, connect your router to one port, and plug your devices into the rest. There is no software or configuration with these unmanaged models."
+    },
+    {
+      "q": "Do these switches get hot without fans?",
+      "a": "They run warm to the touch, which is normal for a metal case that spreads heat. Give the switch some open space around it and avoid stacking items on top, especially in a closed cabinet."
+    },
+    {
+      "q": "Can I use my existing Cat5e cables with 2.5G?",
+      "a": "Yes. The 2.5G switches here are listed as working over existing Cat5e cabling for typical home distances. Very long or poor-quality cable runs may drop to gigabit."
+    }
+  ],
+  "finalTake": "The NETGEAR GS308 is the best quiet network switch for most people: eight silent gigabit ports, a metal case and wall mounting for very little money. The TP-Link TL-SG108 is a close second with live support, and the TP-Link TL-SG108S-M2 is the upgrade to buy when your internet or NAS goes multi-gig. Choose the five-port models only if you are sure you will never need a sixth cable.",
+  "related": [
+    "best-5-port-network-switches",
+    "best-8-port-network-switches",
+    "best-netgear-network-switches"
+  ]
+}

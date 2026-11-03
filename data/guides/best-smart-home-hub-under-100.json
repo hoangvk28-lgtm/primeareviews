@@ -1,0 +1,506 @@
+{
+  "slug": "best-smart-home-hub-under-100",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Smart Home Hubs Under $100 for Starter Setups, Ranked & Reviewed",
+  "metaTitle": "Best Smart Home Hub Under $100: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 7 smart home hubs and gateways under $100, compared on Zigbee, ecosystem support, voice control and starter value.",
+  "mainKeyword": "smart home hub under $100",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31791+0Zs5L._SL500_.jpg",
+  "summary": "The Lutron Caseta Smart Hub is the most dependable hub under $100 if lighting is your starting point, working with Alexa, Apple and Google Home. The Echo Show 5 is the best pick for a voice and display front end, the Tapo H100 is the cheapest brand-matched hub, and the MOES Zigbee gateways serve budget builders.",
+  "intro": [
+    "Most cheap smart home hubs fail on a detail that is printed on the box: they only work with one brand. A Tuya-only gateway will never talk to your Philips bulbs, and a Tapo hub is built for Tapo accessories. The mistake is buying the cheapest hub first and discovering which ecosystem you have joined afterwards.",
+    "This ranking sorts seven sub-$100 options by how openly they work and how well they suit a first smart home. We reviewed the listings for supported ecosystems, protocols, voice control and price tier. Some products here, such as the Echo devices, are voice or display front ends instead of radio hubs, and we say so wherever a listing does not claim a protocol."
+  ],
+  "products": [
+    {
+      "id": "lutron-caseta-smart-hub-under-100",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41aNCvXBZRL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00XPW67ZM?tag=primeareviews-20",
+      "verdict": "A dependable bridge that works with Alexa, Apple and Google Home, ideal for a lighting start.",
+      "description": "The Lutron Caseta Smart Hub is the bridge for Lutron's Caseta lighting range, and the listing says it is compatible with Alexa, Apple, Google Home and more. It falls in the $50 to $100 price tier.\n\nIt tops this ranking because it works with all three big voice platforms and keeps lighting control responsive. Caseta dimmers talk to the hub over Lutron's own radio instead of crowding your Wi-Fi, which is a big reason owners report that lights respond quickly. The caveat is scope: it is built around Lutron devices, so it is not the hub for a mixed collection of sensors and plugs.\n\nBuy it if lighting is the first thing you want to automate. Skip it if you want one box for every brand.",
+      "keySpecs": [
+        {
+          "label": "Ecosystems",
+          "value": "Alexa, Apple, Google Home"
+        },
+        {
+          "label": "Focus",
+          "value": "Lutron Caseta lighting"
+        },
+        {
+          "label": "Role",
+          "value": "Bridge for Lutron devices"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Works with Alexa, Apple and Google",
+        "Responsive lighting control",
+        "Established lighting brand",
+        "Simple one-box setup"
+      ],
+      "cons": [
+        "Limited to Lutron devices",
+        "Not a general-purpose hub"
+      ],
+      "idealFor": "Anyone starting a smart home with dimmers and switches.",
+      "skipIf": "You want to control many brands from one hub."
+    },
+    {
+      "id": "amazon-echo-show-5",
+      "rank": 2,
+      "award": "Best Display Front End",
+      "name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Cloud Blue",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/31z6qLJmQjL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09B2SRGXH?tag=primeareviews-20",
+      "verdict": "A compact Alexa+ smart display that doubles as a control panel for compatible devices.",
+      "description": "The Echo Show 5 is a small smart display designed for Alexa+, with improved bass and clearer sound than the previous generation. It falls in the $50 to $100 tier.\n\nIt ranks second because a screen makes a starter smart home far easier for the whole household. Dimming a light, viewing a camera or checking a timer is a tap instead of a spoken command, and it sits happily on a bedside table or desk. Be clear about what it is: the listing describes a display and speaker, so it controls devices through Wi-Fi and Alexa rather than adding Zigbee radios.\n\nBuy it if you use Alexa and want visible control in a bedroom or office. Skip it if your gadgets need a Zigbee bridge.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Smart display"
+        },
+        {
+          "label": "Assistant",
+          "value": "Alexa+"
+        },
+        {
+          "label": "Audio",
+          "value": "2x the bass, clearer sound"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Touchscreen makes control easy",
+        "Alexa+ voice assistant built in",
+        "Improved bass for a small display",
+        "Compact on desks and nightstands"
+      ],
+      "cons": [
+        "Not a Zigbee radio hub",
+        "Locked to the Alexa ecosystem"
+      ],
+      "idealFor": "Alexa households wanting a small visible control panel.",
+      "skipIf": "You use Apple or Google as your main platform."
+    },
+    {
+      "id": "tapo-smart-hub-h100",
+      "rank": 3,
+      "award": "Best Budget Brand Hub",
+      "name": "Tapo Smart Hub with Built-in Chime, H100, 2.4GHz Wi-Fi Required",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31LOzbhALTL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BYH9KZXS?tag=primeareviews-20",
+      "verdict": "A small Tapo hub with a built-in chime, available for under $25.",
+      "description": "The Tapo H100 is a small smart hub with a built-in chime that requires a 2.4GHz Wi-Fi network. It is in the under $25 price tier, the cheapest hub in this ranking.\n\nIt lands third because it solves a specific problem at a tiny cost. For anyone already buying Tapo sensors, buttons or switches, one H100 connects them and the chime adds an audible alert. Against the Lutron it is far cheaper but much narrower, since it is built for Tapo accessories. The 2.4GHz requirement is easy to miss, and some routers that merge bands make pairing awkward.\n\nChoose it if you plan a Tapo-based setup. Skip it if you want a hub that works with every brand.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Tapo smart hub"
+        },
+        {
+          "label": "Extra",
+          "value": "Built-in chime"
+        },
+        {
+          "label": "Network",
+          "value": "2.4GHz Wi-Fi required"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Cheapest hub in the field",
+        "Built-in chime for alerts",
+        "Small and easy to place",
+        "Ties Tapo accessories together"
+      ],
+      "cons": [
+        "Needs a 2.4GHz network",
+        "Aimed at the Tapo ecosystem"
+      ],
+      "idealFor": "Buyers building a small Tapo sensor setup.",
+      "skipIf": "You own gadgets from many different brands."
+    },
+    {
+      "id": "moes-zigbee-bluetooth-gateway-type-c",
+      "rank": 4,
+      "award": "Best Alexa and Google Gateway",
+      "name": "MOES ZigBee Bluetooth Smart Gateway Hub Type-C for Home Automation, Compatible with Alexa & Google Home",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif",
+      "amazonUrl": "https://www.amazon.com/dp/B0GMRB5GF2?tag=primeareviews-20",
+      "verdict": "A Zigbee and Bluetooth gateway powered over Type-C, compatible with Alexa and Google Home.",
+      "description": "This MOES gateway bridges ZigBee and Bluetooth devices, is powered through a Type-C port and is listed as compatible with Alexa and Google Home. The listing gives no price tier.\n\nIt ranks fourth because it opens up the cheap Zigbee sensor market that a Wi-Fi hub cannot. Zigbee sensors run on small batteries for a long time, and a gateway like this lets them feed your voice assistant. The compromise is brand ecosystem, as MOES gear usually works through the Tuya-style app, so device support varies by sensor.\n\nIt is a good value for a tinkerer building out sensors. Skip it if you want a polished, single-brand experience.",
+      "keySpecs": [
+        {
+          "label": "Radios",
+          "value": "ZigBee and Bluetooth"
+        },
+        {
+          "label": "Power",
+          "value": "Type-C"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa and Google Home"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Not listed"
+        }
+      ],
+      "pros": [
+        "Zigbee and Bluetooth in one gateway",
+        "Works with Alexa and Google",
+        "Type-C power is easy to supply",
+        "Opens up cheap Zigbee sensors"
+      ],
+      "cons": [
+        "Device support varies by sensor",
+        "No stated Apple support"
+      ],
+      "idealFor": "Budget builders adding Zigbee sensors.",
+      "skipIf": "You want a guaranteed single-brand experience."
+    },
+    {
+      "id": "amazon-echo-dot-newest-model",
+      "rank": 5,
+      "award": "Best Voice Starter",
+      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Glacier White",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/31791+0Zs5L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09B94RL1R?tag=primeareviews-20",
+      "verdict": "A small Alexa+ speaker that serves as the voice side of a starter smart home.",
+      "description": "The Echo Dot is a compact Alexa+ speaker, described as great for bedrooms, dining rooms and offices. It falls in the $25 to $50 tier.\n\nIt ranks fifth because it is a voice front end, not a radio hub. It lets you speak commands to compatible Wi-Fi lights and plugs, and for many first-time buyers that is all they want. Against the Echo Show 5, you lose the screen, but you also pay less and take up less space on a shelf.\n\nBuy it as the voice layer in a Wi-Fi smart home. Skip it if you expect it to bridge Zigbee or Z-Wave devices.",
+      "keySpecs": [
+        {
+          "label": "Type",
+          "value": "Alexa+ smart speaker"
+        },
+        {
+          "label": "Best rooms",
+          "value": "Bedrooms, dining rooms, offices"
+        },
+        {
+          "label": "Colour",
+          "value": "Glacier White"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
+      ],
+      "pros": [
+        "Very low cost entry to Alexa",
+        "Compact size fits any shelf",
+        "Vibrant sound for its size",
+        "Controls compatible Wi-Fi devices"
+      ],
+      "cons": [
+        "No screen for visual control",
+        "Not a Zigbee or Z-Wave hub"
+      ],
+      "idealFor": "First-time buyers who want voice control cheaply.",
+      "skipIf": "You need to connect Zigbee sensors."
+    },
+    {
+      "id": "moes-zhub-w-zigbee-gateway",
+      "rank": 6,
+      "award": "Best Wired Option",
+      "name": "MOES Wireless & Wired Smart Home Hub, ZigBee Gateway ZHUB W Bridge",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif",
+      "amazonUrl": "https://www.amazon.com/dp/B0GYQ84KBJ?tag=primeareviews-20",
+      "verdict": "A ZigBee bridge that offers both wireless and wired connections.",
+      "description": "The ZHUB W is a MOES ZigBee gateway that supports both wireless and wired connections. The listing provides no price tier and gives few other details.\n\nIt ranks sixth because the listing says little beyond the connection options. The wired option is the interesting part, since an Ethernet link is often more stable than Wi-Fi, which matters for a gateway that sits in a cupboard or behind a TV. Compared with the Type-C MOES gateway above, it trades the stated Alexa and Google compatibility for a wired option.\n\nChoose it if you want a wired, stable bridge for Zigbee gear. Skip it if you want confirmed voice-assistant support.",
+      "keySpecs": [
+        {
+          "label": "Radio",
+          "value": "ZigBee gateway"
+        },
+        {
+          "label": "Connection",
+          "value": "Wireless and wired"
+        },
+        {
+          "label": "Brand",
+          "value": "MOES"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Not listed"
+        }
+      ],
+      "pros": [
+        "Wired option for steadier links",
+        "ZigBee gateway for cheap sensors",
+        "Wireless fallback available",
+        "Suits cupboard installs"
+      ],
+      "cons": [
+        "Few details in the listing",
+        "No assistant support stated"
+      ],
+      "idealFor": "Zigbee builders who can run an Ethernet cable.",
+      "skipIf": "You need confirmed Alexa or Google support."
+    },
+    {
+      "id": "tuya-multi-mode-zigbee-gateway",
+      "rank": 7,
+      "award": "Best Tuya-Only Bridge",
+      "name": "Smart Multi-Mode Gateway: ZigBee 3.0 & Bluetooth & Mesh Hub, App Remote Control, Intelligent Bridge Wireless Smart Home Gateway",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/31MgCy3Y+tL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D2D89SFQ?tag=primeareviews-20",
+      "verdict": "A ZigBee 3.0, Bluetooth and Mesh gateway that supports only Tuya smart devices.",
+      "description": "This multi-mode gateway combines ZigBee 3.0, Bluetooth and Mesh in one hub with app remote control. The listing is blunt that it only supports Tuya smart devices, and it falls in the $25 to $50 tier.\n\nIt ranks last because of that limitation. If your sensors and switches use the Tuya platform it is a neat and low-cost bridge, but anything outside that family will not connect. The honesty of the listing helps, because it warns buyers before they pay.\n\nBuy it if your devices are already Tuya or Smart Life compatible. Skip it if you own anything from another platform.",
+      "keySpecs": [
+        {
+          "label": "Radios",
+          "value": "ZigBee 3.0, Bluetooth, Mesh"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Tuya devices only"
+        },
+        {
+          "label": "Control",
+          "value": "App remote control"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
+      ],
+      "pros": [
+        "ZigBee 3.0, Bluetooth and Mesh",
+        "Low cost bridge for Tuya gear",
+        "App remote control included",
+        "Clear about its limits"
+      ],
+      "cons": [
+        "Only supports Tuya devices",
+        "Lowest compatibility here"
+      ],
+      "idealFor": "Owners of existing Tuya sensors and switches.",
+      "skipIf": "Your devices come from other platforms."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Ecosystem openness",
+      "description": "We compared how many assistants and brands each product supports, from Alexa, Apple and Google to Tuya-only."
+    },
+    {
+      "title": "Radio protocols",
+      "description": "ZigBee, Bluetooth and Mesh support was checked, and voice or display devices without radios were labelled as front ends."
+    },
+    {
+      "title": "Starter friendliness",
+      "description": "Ease of setup, app dependence and whether the product works well alone were scored for first-time buyers."
+    },
+    {
+      "title": "Connection options",
+      "description": "Wired, wireless, Type-C power and 2.4GHz requirements were weighed for installation flexibility."
+    },
+    {
+      "title": "Value under $100",
+      "description": "Each hub was judged against the under $25, $25 to $50 and $50 to $100 buckets, with unlisted prices noted."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Hub vs voice assistant",
+      "detail": "A hub bridges the radios your devices use, such as Zigbee. A voice assistant like Echo Dot listens and sends commands. Many starter setups need only the second. Check the listing for radio names before assuming a speaker can add sensors."
+    },
+    {
+      "factor": "Single-brand lock-in",
+      "detail": "Cheap gateways often support one platform. A Tuya-only hub will not accept anything else, and a Tapo hub is aimed at Tapo gear. Read the compatibility line carefully, and prefer hubs that name several assistants, like Alexa, Apple and Google Home."
+    },
+    {
+      "factor": "Zigbee and why it matters",
+      "detail": "Zigbee is a low-power radio used by many inexpensive sensors and bulbs. It keeps traffic off your Wi-Fi and lets batteries last. A gateway is required, so look for the word ZigBee in the title if you plan to buy sensors."
+    },
+    {
+      "factor": "Network requirements",
+      "detail": "Some hubs, like the Tapo H100, need a 2.4GHz Wi-Fi network. If your router merges 2.4 and 5GHz bands, pairing can fail. Check the requirement and consider a temporary band split during setup."
+    },
+    {
+      "factor": "Wired vs wireless connection",
+      "detail": "A wired Ethernet link is usually more stable than Wi-Fi, which matters for a hub that controls locks or lights. If your hub sits far from the router, a wired option, like on the MOES ZHUB W, helps."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Starting Point",
+      "intro": "Start with the thing you want to automate first.",
+      "table": {
+        "headers": [
+          "First goal",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Smart lighting",
+            "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More"
+          ],
+          [
+            "Voice control in a bedroom",
+            "Amazon Echo Dot (newest model)"
+          ],
+          [
+            "A visible control panel",
+            "Amazon Echo Show 5 (newest model)"
+          ],
+          [
+            "Cheap Zigbee sensors",
+            "MOES ZigBee Bluetooth Smart Gateway Hub Type-C"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "Tapo Smart Hub with Built-in Chime, H100"
+          ],
+          [
+            "$25 to $50, voice",
+            "Amazon Echo Dot (newest model)"
+          ],
+          [
+            "$25 to $50, Tuya gear",
+            "Smart Multi-Mode Gateway: ZigBee 3.0 & Bluetooth & Mesh Hub"
+          ],
+          [
+            "$50 to $100",
+            "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Open Ecosystem vs Single Brand",
+      "cards": [
+        {
+          "label": "Open ecosystem",
+          "text": "Works with several voice assistants and keeps options open if you switch phones. Picks: Lutron Caseta Smart Hub and MOES ZigBee Bluetooth Gateway."
+        },
+        {
+          "label": "Single brand",
+          "text": "Cheaper and simpler, but locks you to one family of devices. Picks: Tapo H100, the Tuya multi-mode gateway and the Alexa-based Echo devices."
+        }
+      ],
+      "note": "Default to an open ecosystem if you are unsure which phone or speaker you will use in five years."
+    },
+    {
+      "subheading": "By Voice Assistant",
+      "table": {
+        "headers": [
+          "Assistant",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Alexa only",
+            "Amazon Echo Show 5 (newest model)"
+          ],
+          [
+            "Alexa and Google",
+            "MOES ZigBee Bluetooth Smart Gateway Hub Type-C"
+          ],
+          [
+            "Alexa, Apple and Google",
+            "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More"
+          ],
+          [
+            "No assistant, app only",
+            "Smart Multi-Mode Gateway: ZigBee 3.0 & Bluetooth & Mesh Hub"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For a First Smart Apartment Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "No wiring, a shelf-friendly footprint and a hub that moves with you. Start with voice control and add sensors later."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Echo Dot for the cheapest voice start, the Tapo H100 for a tiny sensor setup and the Lutron Caseta hub if your landlord allows swapping a dimmer."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want a hub that supports several assistants or a display the whole household uses. The Lutron Caseta hub and Echo Show 5 reach the $50 to $100 tier."
+        },
+        {
+          "label": "Save if",
+          "text": "You plan a few sensors in one ecosystem. The Tapo H100 under $25 does the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can an Echo Dot act as a Zigbee hub?",
+      "a": "The listing describes an Alexa+ speaker, with no Zigbee radio mentioned. It controls compatible Wi-Fi devices by voice, but a Zigbee sensor needs a gateway such as one of the MOES units."
+    },
+    {
+      "q": "What is the most common mistake when buying a cheap hub?",
+      "a": "Ignoring the compatibility line. Tuya-only and Tapo-focused hubs only work within their families, so buying one before you pick your devices can strand you with sensors that will not pair."
+    },
+    {
+      "q": "Is the Lutron Caseta hub worth it over an Echo Show 5?",
+      "a": "They do different jobs. The Lutron hub bridges Caseta lighting, while the Echo Show 5 is a display and voice front end. Many homes end up with both."
+    },
+    {
+      "q": "How hard is setup?",
+      "a": "Most take 10 to 20 minutes. Plug the hub in, install its app, connect to Wi-Fi, then add devices one at a time. The Tapo H100 needs a 2.4GHz network during pairing."
+    },
+    {
+      "q": "How do I keep a gateway reliable?",
+      "a": "Keep it away from metal cabinets and routers that crowd the same spectrum, and update its firmware when the app prompts. If sensors drop out, move the hub closer or add a mains-powered Zigbee device to extend the mesh."
+    },
+    {
+      "q": "Will these hubs work without internet?",
+      "a": "Most rely on cloud services for remote control and voice. Some local automations continue during an outage, but you should not expect a full experience without a connection."
+    }
+  ],
+  "finalTake": "For a first smart home under $100, the Lutron Caseta Smart Hub is the most dependable hub, with support for Alexa, Apple and Google Home. The Echo Show 5 is the best visible control, the Tapo H100 is the cheapest brand-matched bridge, and the MOES gateways serve Zigbee tinkerers. Decide which ecosystem you are joining before you buy anything.",
+  "related": [
+    "best-smart-home-hub-under-200",
+    "best-smart-home-hub-under-300",
+    "best-2-bay-nas-for-home-offices"
+  ]
+}

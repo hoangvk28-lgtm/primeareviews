@@ -1,0 +1,465 @@
+{
+  "slug": "best-mini-dc-ups-for-wifi-routers-under-90",
+  "category": "tech-accessories",
+  "h1": "The 6 Best Mini DC UPS Units for WiFi Routers Under $90, Ranked & Reviewed",
+  "metaTitle": "Mini DC UPS for WiFi Routers: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 6 mini DC UPS units under $90 for routers, ONTs and cameras, compared on watt-hours, voltage outputs and PoE support.",
+  "mainKeyword": "mini dc ups for wifi router under $90",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/21xJ+03Si1L._SL500_.jpg",
+  "summary": "The TalentCell 27000mAh is the best mini DC UPS for most routers, with 97.2Wh of capacity and four 12V outputs. The RGTTOTG is the pick for a documented zero-second switchover and 24V PoE, the 20000mAh dual-router unit backs up both modem and router, and the ALFOINE suits fiber ONT and passive PoE devices.",
+  "intro": [
+    "A mini DC UPS looks like a power bank, and that resemblance is the trap. A power bank charges your phone. A UPS must feed a router continuously while the mains is present and take over without a flicker when it fails. Many cheap banks cannot pass power through safely, and a router that reboots on every switchover has no backup at all.",
+    "This ranking sorts six units by capacity, voltage options and switchover behaviour. We reviewed the specification lists supplied, including watt-hour ratings and output voltages, and we show the maths on runtime so you can size one yourself. Where a listing is silent on switchover, we say so rather than assume it is seamless."
+  ],
+  "products": [
+    {
+      "id": "talentcell-mini-ups-27000mah-usb-c-pd",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "TalentCell Mini UPS 27000mAh with USB-C PD",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31yaJir8URL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07WLD32RP?tag=primeareviews-20",
+      "verdict": "The largest capacity here, 97.2Wh, with four 12V outputs, a 9V output and an 18W USB-C PD port.",
+      "description": "The TalentCell is a 27000mAh (97.2Wh) twelve-cell pack with four 12V DC outputs, one 9V DC output, two 5V USB ports and an 18W USB-C PD output. It has no PoE support.\n\nIt wins because stored energy is the spec that matters most. As a rule of thumb, divide watt-hours by the router's wattage, then knock off roughly a fifth for conversion losses: a 10W router on a 97.2Wh pack could run for several hours. Four 12V ports let you power a router, a modem and a small switch from one unit, and the 9V and USB ports cover odd devices.\n\nBuy it for the longest runtime and flexible outputs. Skip it if your gear needs PoE.",
+      "keySpecs": [
+        {
+          "label": "Capacity",
+          "value": "27000mAh (97.2Wh)"
+        },
+        {
+          "label": "DC outputs",
+          "value": "4x 12V, 1x 9V"
+        },
+        {
+          "label": "USB",
+          "value": "2x 5V and 18W USB-C PD"
+        },
+        {
+          "label": "PoE",
+          "value": "Not supported"
+        }
+      ],
+      "pros": [
+        "Largest capacity in the group",
+        "Four 12V outputs at once",
+        "9V and USB ports as well",
+        "USB-C PD for phones"
+      ],
+      "cons": [
+        "No PoE output",
+        "Larger and heavier unit"
+      ],
+      "idealFor": "Homes with a router, modem and switch to back up.",
+      "skipIf": "Your equipment uses PoE."
+    },
+    {
+      "id": "rgttotg-mini-ups-poe-24v",
+      "rank": 2,
+      "award": "Best Switchover",
+      "name": "RGTTOTG Power Systems Mini UPS with PoE Output DC24V",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/31CNQauTYFL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CP693BWD?tag=primeareviews-20",
+      "verdict": "A 29.6Wh unit with PoE 24V, 12V, 9V and USB outputs, and a documented zero-second switchover.",
+      "description": "The RGTTOTG has PoE 24V, DC 12V and 9V, and USB 5V outputs, with an 8000mAh (29.6Wh) lithium-ion battery. The listing states a zero-second switchover with no restart needed.\n\nIt ranks second because switchover is the thing a UPS exists to do, and this is one of the few listings to document it. A router that rides through a mains failure without rebooting is the whole point. The battery is modest at 29.6Wh, so runtime is shorter than the TalentCell, but the 24V PoE output serves cameras and some access points.\n\nChoose it if you want seamless switchover and PoE. Skip it if you need hours of runtime.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "8000mAh (29.6Wh)"
+        },
+        {
+          "label": "Outputs",
+          "value": "PoE 24V, DC 12V/9V, USB 5V"
+        },
+        {
+          "label": "Switchover",
+          "value": "Zero seconds, no restart"
+        },
+        {
+          "label": "Chemistry",
+          "value": "Lithium-ion"
+        }
+      ],
+      "pros": [
+        "Documented zero-second switchover",
+        "24V PoE output",
+        "12V, 9V and USB outputs",
+        "Low cost"
+      ],
+      "cons": [
+        "Modest 29.6Wh battery",
+        "Shorter runtime"
+      ],
+      "idealFor": "Routers and PoE cameras that must not reboot.",
+      "skipIf": "You need many hours of backup."
+    },
+    {
+      "id": "mini-ups-20000mah-dual-router-support",
+      "rank": 3,
+      "award": "Best for Router Plus Modem",
+      "name": "Mini UPS Battery Backup, 20000mAh, Dual Router Support",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/312p5-wC-LL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FF9QS7LK?tag=primeareviews-20",
+      "verdict": "A 74Wh pack with two 12V DC ports and 60W max output that doubles as a power bank.",
+      "description": "This unit has a 20000mAh (74Wh) battery, two 12V DC ports, a 60W maximum output and doubles as a standard USB power bank.\n\nIt ranks third because dual ports solve a common home problem: a modem and a router that both need power. Seventy-four watt-hours is enough for several hours of a typical pair. The weakness is that the listing says nothing about switchover behaviour, so a brief interruption on mains loss cannot be ruled out.\n\nBuy it if you need to back up both modem and router. Skip it if seamless switching is critical.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "20000mAh (74Wh)"
+        },
+        {
+          "label": "Ports",
+          "value": "Dual 12V DC"
+        },
+        {
+          "label": "Output",
+          "value": "60W max"
+        },
+        {
+          "label": "Extra",
+          "value": "Works as a USB power bank"
+        }
+      ],
+      "pros": [
+        "Two 12V DC ports",
+        "74Wh of capacity",
+        "60W maximum output",
+        "Doubles as a power bank"
+      ],
+      "cons": [
+        "Switchover not documented",
+        "No PoE output"
+      ],
+      "idealFor": "Backing up a modem and router together.",
+      "skipIf": "You need a documented seamless switchover."
+    },
+    {
+      "id": "alfoine-48wh-ups-passive-poe",
+      "rank": 4,
+      "award": "Best for Fiber ONT",
+      "name": "ALFOINE 48Wh UPS Battery Backup with Passive PoE",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/21xJ+03Si1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GJBWXM66?tag=primeareviews-20",
+      "verdict": "A 48Wh unit with passive PoE at 24V or 48V plus DC 5V, 9V and 12V, up to 30W total.",
+      "description": "The ALFOINE offers passive PoE at 24V or 48V, DC outputs of 5V, 9V and 12V, and a 48Wh (9.6V, 5000mAh) battery, with 30W maximum total output.\n\nIt ranks fourth because the voltage range is the widest here and suits fiber ONT or ONU boxes and passive PoE gear that other units cannot power. Passive PoE has no negotiation, so choosing the wrong voltage can damage a device, which makes the selector a double-edged feature. The 30W limit rules out power-hungry kit.\n\nChoose it if you have a fiber ONT or passive PoE device. Skip it if you want the most runtime.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "48Wh (9.6V, 5000mAh)"
+        },
+        {
+          "label": "Passive PoE",
+          "value": "24V or 48V"
+        },
+        {
+          "label": "DC outputs",
+          "value": "5V, 9V, 12V"
+        },
+        {
+          "label": "Max output",
+          "value": "30W total"
+        }
+      ],
+      "pros": [
+        "Passive PoE at 24V and 48V",
+        "5V, 9V and 12V DC outputs",
+        "48Wh battery",
+        "Low cost"
+      ],
+      "cons": [
+        "30W total limit",
+        "Wrong voltage can damage gear"
+      ],
+      "idealFor": "Fiber ONT and passive PoE equipment.",
+      "skipIf": "You need over 30W."
+    },
+    {
+      "id": "chinte-mini-ups-16000mah-lifepo4-poe",
+      "rank": 5,
+      "award": "Best LiFePO4 Pick",
+      "name": "CHINTE Mini UPS 16000mAh with PoE 15V/24V",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/31pHhSDy6PL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GWC8GVGZ?tag=primeareviews-20",
+      "verdict": "A LiFePO4 16000mAh unit with 15V and 24V PoE outputs, up to 36W.",
+      "description": "The CHINTE has a LiFePO4 battery of 16000mAh, PoE outputs of 15V at 1A and 24V at 0.6A, up to 36W, and an LED capacity indicator.\n\nIt ranks fifth because LiFePO4 is the safest and longest-lived common lithium chemistry, which suits a device that sits charged for years. The 15V PoE output is unusual and helpful for some routers. The listing does not state a watt-hour figure, so runtime is harder to estimate.\n\nBuy it if you want long battery life and 15V PoE. Skip it if you need a stated watt-hour rating.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "LiFePO4 16000mAh"
+        },
+        {
+          "label": "PoE",
+          "value": "15V/1A and 24V/0.6A"
+        },
+        {
+          "label": "Output",
+          "value": "Up to 36W"
+        },
+        {
+          "label": "Indicator",
+          "value": "LED capacity"
+        }
+      ],
+      "pros": [
+        "LiFePO4 chemistry lasts",
+        "15V and 24V PoE outputs",
+        "Up to 36W",
+        "LED capacity indicator"
+      ],
+      "cons": [
+        "Watt-hours not stated",
+        "Costs more than similar units"
+      ],
+      "idealFor": "Always-on routers needing a durable battery.",
+      "skipIf": "You want a stated watt-hour figure."
+    },
+    {
+      "id": "yuuki-power-mini-ups-lcd-screen",
+      "rank": 6,
+      "award": "Best Status Display",
+      "name": "Yuuki Power Mini UPS for WiFi Router with LCD Screen",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/31zzzW2SW3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FCV2Q8TB?tag=primeareviews-20",
+      "verdict": "A 10400mAh (32Wh) unit with an LCD status screen and USB-C PD, rated to 24W.",
+      "description": "The Yuuki has a clear LCD that shows real-time status, USB-A and USB-C PD fast charging, a 10400mAh (32Wh) battery and 24W maximum total output.\n\nIt ranks last because the screen is the highlight but the battery is small. A live readout shows how much runtime remains, which is more useful than a light that goes from green to red. But at 32Wh and 24W maximum, it gives the least capacity per dollar in the group.\n\nChoose it if you value a readable status display. Skip it if you want runtime.",
+      "keySpecs": [
+        {
+          "label": "Battery",
+          "value": "10400mAh (32Wh)"
+        },
+        {
+          "label": "Display",
+          "value": "LCD real-time status"
+        },
+        {
+          "label": "Output",
+          "value": "24W max total"
+        },
+        {
+          "label": "USB",
+          "value": "USB-A and USB-C PD"
+        }
+      ],
+      "pros": [
+        "Real LCD status screen",
+        "USB-C PD fast charging",
+        "Shows remaining battery",
+        "Compact"
+      ],
+      "cons": [
+        "Small 32Wh battery",
+        "Lowest capacity per dollar"
+      ],
+      "idealFor": "People who want to see remaining runtime.",
+      "skipIf": "You want long outages covered."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Stored energy",
+      "description": "Watt-hour ratings from 29.6Wh to 97.2Wh were compared, since capacity sets how long a router stays online."
+    },
+    {
+      "title": "Output voltages",
+      "description": "12V, 9V, 5V and PoE outputs were compared against what routers, modems, ONTs and cameras actually need."
+    },
+    {
+      "title": "Switchover behaviour",
+      "description": "Listings that document a zero-second switchover were rewarded over those that say nothing."
+    },
+    {
+      "title": "Battery chemistry and safety",
+      "description": "LiFePO4 and standard lithium-ion cells were compared for lifespan and safety in an always-on device."
+    },
+    {
+      "title": "Value under $90",
+      "description": "Each unit was set against the $25 to $50 and $50 to $100 buckets."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Watt-hours and runtime",
+      "detail": "Runtime is roughly watt-hours divided by the device wattage, minus about 20 percent for conversion losses. A 10W router on 50Wh could run around four hours. Check the router's label for its wattage."
+    },
+    {
+      "factor": "Matching the voltage",
+      "detail": "A router's power brick prints its voltage, such as 12V or 9V. The UPS output must match exactly, and passive PoE devices are especially unforgiving. Check the label on the adapter you are replacing."
+    },
+    {
+      "factor": "Switchover",
+      "detail": "A true UPS passes power through and takes over instantly. Cheap power banks may cut out for a moment on mains loss, which reboots the router. Look for words like zero-second switchover."
+    },
+    {
+      "factor": "Passive PoE",
+      "detail": "Passive PoE sends fixed voltage down the cable without negotiating. It suits ONTs and some cameras. Wrong voltage can damage equipment, so confirm what your device needs."
+    },
+    {
+      "factor": "Battery chemistry",
+      "detail": "LiFePO4 cells tolerate many charge cycles and are less prone to thermal problems. Standard lithium-ion packs hold more energy per size. For a device kept charged for years, durability matters."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Connected Device",
+      "intro": "Check what you plug in before you check capacity.",
+      "table": {
+        "headers": [
+          "Device",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "12V router and modem",
+            "Mini UPS Battery Backup, 20000mAh, Dual Router Support"
+          ],
+          [
+            "Router, modem and switch",
+            "TalentCell Mini UPS 27000mAh with USB-C PD"
+          ],
+          [
+            "Fiber ONT with passive PoE",
+            "ALFOINE 48Wh UPS Battery Backup with Passive PoE"
+          ],
+          [
+            "PoE camera or access point",
+            "RGTTOTG Power Systems Mini UPS with PoE Output DC24V"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$25 to $50, switchover",
+            "RGTTOTG Power Systems Mini UPS with PoE Output DC24V"
+          ],
+          [
+            "$25 to $50, ONT",
+            "ALFOINE 48Wh UPS Battery Backup with Passive PoE"
+          ],
+          [
+            "$50 to $100, capacity",
+            "TalentCell Mini UPS 27000mAh with USB-C PD"
+          ],
+          [
+            "$50 to $100, LiFePO4",
+            "CHINTE Mini UPS 16000mAh with PoE 15V/24V"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Capacity vs PoE Output",
+      "cards": [
+        {
+          "label": "Capacity first",
+          "text": "More watt-hours mean more hours online, ideal for standard 12V routers. Picks: TalentCell 27000mAh and the 20000mAh dual-router unit."
+        },
+        {
+          "label": "PoE output first",
+          "text": "Needed for cameras, access points and ONTs, usually with smaller batteries. Picks: RGTTOTG, ALFOINE and CHINTE."
+        }
+      ],
+      "note": "Default to capacity if your router uses a plain 12V adapter."
+    },
+    {
+      "subheading": "By Outage Length",
+      "table": {
+        "headers": [
+          "Outage",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Brief flickers",
+            "RGTTOTG Power Systems Mini UPS with PoE Output DC24V"
+          ],
+          [
+            "A few hours",
+            "Mini UPS Battery Backup, 20000mAh, Dual Router Support"
+          ],
+          [
+            "Long outages",
+            "TalentCell Mini UPS 27000mAh with USB-C PD"
+          ],
+          [
+            "Monitoring the battery",
+            "Yuuki Power Mini UPS for WiFi Router with LCD Screen"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Remote Workers Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Backup for both modem and router, instant switchover and enough hours to ride out a typical outage."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The TalentCell for four 12V outputs, or the dual-router 20000mAh unit for a simple two-device setup."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "Outages last hours or you rely on the connection for work. The TalentCell's 97.2Wh earns the $50 to $100 bracket."
+        },
+        {
+          "label": "Save if",
+          "text": "Outages are brief flickers. The RGTTOTG under $50 handles them."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will it power a router and modem together?",
+      "a": "Yes if the total wattage and voltages fit. The TalentCell has four 12V ports and the 20000mAh unit has two. Add the wattage of each device and keep it under the unit's maximum."
+    },
+    {
+      "q": "What is the biggest mistake?",
+      "a": "Using the wrong voltage. A 12V router fed 9V may not boot, and 12V into a 9V device can damage it. Check the label on your adapter."
+    },
+    {
+      "q": "Is the TalentCell worth it over the RGTTOTG?",
+      "a": "If you want hours of backup, yes. For short interruptions and PoE gear, the RGTTOTG's documented zero-second switchover is more important."
+    },
+    {
+      "q": "How hard is setup?",
+      "a": "Plug the UPS into the wall, connect its output cable to your router in place of the adapter, and charge fully first. It takes minutes."
+    },
+    {
+      "q": "How do I maintain it?",
+      "a": "Keep it charged, away from heat and covered air vents. Test it every few months by unplugging the wall power for a minute."
+    },
+    {
+      "q": "Does it also protect against surges?",
+      "a": "These are battery backups, not surge protectors. Use a surge protector upstream if your area has power spikes."
+    }
+  ],
+  "finalTake": "The TalentCell 27000mAh is the best mini DC UPS for WiFi routers under $90, with 97.2Wh of capacity and four 12V outputs. The RGTTOTG is the choice for seamless switchover and PoE, the 20000mAh dual-router pack covers modem and router, and the ALFOINE serves fiber ONTs. Match the voltage first and the capacity second.",
+  "related": [
+    "best-external-cooling-fans-for-mini-pcs",
+    "best-mesh-wifi-system-under-100",
+    "best-mesh-wifi-system-under-200"
+  ]
+}

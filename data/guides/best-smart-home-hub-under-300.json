@@ -1,0 +1,506 @@
+{
+  "slug": "best-smart-home-hub-under-300",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Smart Home Hubs Under $300 for Control and Automation, Ranked & Reviewed",
+  "metaTitle": "Best Smart Home Hub Under $300: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 7 smart home hubs under $300 compared on protocols, Matter support, local automation and touchscreen control.",
+  "mainKeyword": "smart home hub under $300",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31kYmnfM4wL._SL500_.jpg",
+  "summary": "The Amazon Echo Hub 8-inch is the best smart home hub for most people, with a wall-mountable screen and wide device support. Home Assistant Green is the pick for local control and advanced automations, the Aeotec Smart Home Hub with Z-Wave suits mixed-protocol homes, and the Lutron Caseta Smart Hub is the specialist for lighting.",
+  "intro": [
+    "Buying a smart home hub starts with a vocabulary mistake. People treat a hub, a smart speaker and a smart display as the same thing, then wonder why their Zigbee sensors will not pair. A speaker listens for commands. A hub speaks the radio languages your devices use, such as Zigbee, Z-Wave and Matter, and decides what happens when a sensor trips at 2 a.m.",
+    "So this ranking sorts seven hubs by what they actually connect to and how they run automations. We reviewed the listing details for protocols, voice assistant support, local control and hardware, and we ranked them against realistic homes rather than a spec race. Where a listing omits a protocol or a feature, we say so instead of guessing."
+  ],
+  "products": [
+    {
+      "id": "amazon-echo-hub-8-inch",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Amazon Echo Hub (newest model), 8\", Redesigned with customizable control and Alexa+, Compatible with thousands of devices",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31I9FCE-O6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BCR7M9KX?tag=primeareviews-20",
+      "verdict": "An 8-inch control panel for Alexa homes, with wide device compatibility and a clean touch interface.",
+      "description": "The Echo Hub is an 8 inch touchscreen built to act as the control point for a connected home. Amazon lists customizable controls, Alexa+ support and compatibility with thousands of devices, in the $100 to $200 price range.\n\nIt wins because it solves the part of smart homes that frustrates families most, which is control for people who do not want to open an app. A wall-mounted or counter-top panel lets everyone in the house dim a light, check a camera or arm a lock with a tap. The tradeoff is that it lives inside Amazon's ecosystem. It is less suited to power users who want deep automations running locally, which is where Home Assistant Green comes in.\n\nBuy it if you already use Alexa and want one visible control point. Skip it if you prefer Google or Apple ecosystems or need local-only automations.",
+      "keySpecs": [
+        {
+          "label": "Screen",
+          "value": "8 inch touchscreen"
+        },
+        {
+          "label": "Assistant",
+          "value": "Alexa+"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Thousands of devices"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Wall-friendly 8 inch control screen",
+        "Customizable control dashboard",
+        "Compatible with thousands of devices",
+        "Alexa+ voice assistant built in"
+      ],
+      "cons": [
+        "Tied to the Amazon ecosystem",
+        "Not a local-only controller"
+      ],
+      "idealFor": "Alexa households wanting one shared control panel.",
+      "skipIf": "You want Apple or Google as your main platform."
+    },
+    {
+      "id": "home-assistant-green",
+      "rank": 2,
+      "award": "Best for Local Automation",
+      "name": "Home Assistant Green | Smart Home hub with Advanced Automation | Official Home Assistant Hardware",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41RSSYTqdVL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CXVKSG19?tag=primeareviews-20",
+      "verdict": "The official Home Assistant box, for people who want automations that run in the house, not the cloud.",
+      "description": "Home Assistant Green is the project's own hardware, listed as a smart home hub with advanced automation. It arrives ready to run the Home Assistant software. Expect a $200 to $500 outlay.\n\nIt ranks second because it offers the deepest control in this guide. Home Assistant works with a huge range of devices and runs automations locally, so lights, schedules and sensors keep working when the internet drops. The cost is a learning curve: you build dashboards and rules yourself, and radio dongles for Zigbee or Z-Wave are usually extra. That makes it a hobbyist favourite rather than a plug-and-play choice.\n\nChoose it if you enjoy tinkering and care about privacy. Skip it if you want a finished product that works the moment you plug it in.",
+      "keySpecs": [
+        {
+          "label": "Software",
+          "value": "Home Assistant"
+        },
+        {
+          "label": "Focus",
+          "value": "Advanced automation"
+        },
+        {
+          "label": "Hardware",
+          "value": "Official Home Assistant"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200 to $500"
+        }
+      ],
+      "pros": [
+        "Automations run locally in your home",
+        "Official Home Assistant hardware",
+        "Huge range of integrations",
+        "No subscription for core features"
+      ],
+      "cons": [
+        "Steeper learning curve",
+        "Radio dongles may cost extra"
+      ],
+      "idealFor": "Tinkerers who want private, local automations.",
+      "skipIf": "You want setup finished in ten minutes."
+    },
+    {
+      "id": "aeotec-smart-home-hub-z-wave-zigbee",
+      "rank": 3,
+      "award": "Best for Mixed Protocols",
+      "name": "Aeotec Smart Home Hub, Works as a SmartThings Hub, Z-Wave, Zigbee, Matter Gateway, Compatible with Alexa, Google Assistant, WiFi",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ldEFvhZxL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08TWDNQ5Q?tag=primeareviews-20",
+      "verdict": "SmartThings hardware with Z-Wave, Zigbee and Matter, plus Alexa and Google support.",
+      "description": "This Aeotec hub works as a SmartThings hub and lists Z-Wave, Zigbee and Matter gateway support, alongside compatibility with Alexa and Google Assistant. It is in the $100 to $200 range.\n\nIt takes third place because few hubs cover this many protocols. Z-Wave and Zigbee devices have been sold for years, so a house with older locks, sensors or switches can bring them into one system. Matter adds newer devices on top. Against the Hub2 V4 below, the radios are the whole difference: the older design includes Z-Wave, which the newer one lacks.\n\nThis is the buy for owners with a mix of old and new gear. Skip it if your devices are all Wi-Fi or Matter and you want a screen.",
+      "keySpecs": [
+        {
+          "label": "Protocols",
+          "value": "Z-Wave, Zigbee, Matter"
+        },
+        {
+          "label": "Platform",
+          "value": "SmartThings"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa, Google Assistant"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Z-Wave and Zigbee together",
+        "Matter gateway for newer devices",
+        "Works with Alexa and Google",
+        "SmartThings automation app"
+      ],
+      "cons": [
+        "No screen or voice control",
+        "Needs the SmartThings app"
+      ],
+      "idealFor": "Homes with older Z-Wave and Zigbee devices.",
+      "skipIf": "You want a touchscreen control panel."
+    },
+    {
+      "id": "amazon-echo-show-15",
+      "rank": 4,
+      "award": "Best Family Display",
+      "name": "Amazon Echo Show 15 (newest model), Full HD 15.6\" kitchen hub for home organization, with built-in Fire TV, Designed for Alexa+",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31kYmnfM4wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C5DPSW5Y?tag=primeareviews-20",
+      "verdict": "A Full HD 15.6 inch kitchen display with Fire TV and Alexa+, more family organiser than hub.",
+      "description": "The Echo Show 15 is a 15.6 inch Full HD display designed for the kitchen, with built-in Fire TV and Alexa+. Amazon positions it as a home organisation hub, Expect a $200 to $500 outlay.\n\nIt ranks fourth because it is a screen first and a hub second. The large panel is excellent for calendars, notes, cameras and smart home controls that the whole family can see, but it does not add Zigbee or Z-Wave radios of its own, as far as the listing shows. Compared with the smaller Echo Hub, you pay more for size and Fire TV rather than for extra compatibility.\n\nBuy it for a busy kitchen where a big shared display adds value. Skip it if you want a protocol-heavy controller.",
+      "keySpecs": [
+        {
+          "label": "Screen",
+          "value": "15.6 inch Full HD"
+        },
+        {
+          "label": "Extras",
+          "value": "Built-in Fire TV"
+        },
+        {
+          "label": "Assistant",
+          "value": "Alexa+"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200 to $500"
+        }
+      ],
+      "pros": [
+        "Large 15.6 inch Full HD screen",
+        "Built-in Fire TV streaming",
+        "Great shared family organiser",
+        "Alexa+ voice control"
+      ],
+      "cons": [
+        "Radio protocols not listed",
+        "Costs more than the Echo Hub"
+      ],
+      "idealFor": "Families wanting a big shared kitchen screen.",
+      "skipIf": "You need Zigbee or Z-Wave radios."
+    },
+    {
+      "id": "aeotec-smart-home-hub2-v4",
+      "rank": 5,
+      "award": "Best Matter Gateway",
+      "name": "Aeotec Smart Home Hub2 - V4, Works as a SmartThings Hub, Zigbee, Matter Gateway, Compatible with Alexa, Google Assistant, WiFi (No Z-Wave)",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/31KTZc0066L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0G3YCFLJT?tag=primeareviews-20",
+      "verdict": "The newer SmartThings hub, with Zigbee and Matter but no Z-Wave.",
+      "description": "The Hub2 V4 is the newer Aeotec hub. It works as a SmartThings hub with Zigbee, a Matter gateway and Wi-Fi, and it is compatible with Alexa and Google Assistant. The listing says plainly that it does not include Z-Wave; expect to pay $100 to $200.\n\nIt ranks fifth because dropping Z-Wave narrows who it suits. If your sensors and locks are Zigbee or Matter, it is a modern and tidy controller. If you own Z-Wave devices, the older Aeotec hub above is the better choice.\n\nBuy it if your home is already Zigbee or Matter. Skip it if you rely on Z-Wave locks or switches.",
+      "keySpecs": [
+        {
+          "label": "Protocols",
+          "value": "Zigbee, Matter, Wi-Fi"
+        },
+        {
+          "label": "Z-Wave",
+          "value": "Not included"
+        },
+        {
+          "label": "Platform",
+          "value": "SmartThings"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Newer SmartThings hardware",
+        "Zigbee plus Matter gateway",
+        "Works with Alexa and Google",
+        "Clear about missing Z-Wave"
+      ],
+      "cons": [
+        "No Z-Wave support at all",
+        "No screen for local control"
+      ],
+      "idealFor": "Zigbee and Matter homes starting fresh.",
+      "skipIf": "You own Z-Wave locks or switches."
+    },
+    {
+      "id": "lutron-caseta-smart-hub",
+      "rank": 6,
+      "award": "Best for Lighting Control",
+      "name": "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41aNCvXBZRL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00XPW67ZM?tag=primeareviews-20",
+      "verdict": "A lighting-focused hub that talks to Alexa, Apple and Google Home.",
+      "description": "The Lutron Caseta Smart Hub is the bridge for Lutron's Caseta dimmers and switches, and the listing says it works with Alexa, Apple and Google Home. It is in the $50 to $100 price range.\n\nIt ranks sixth because it is a specialist. If you run Caseta lighting it is excellent, as the hub keeps those dimmers responsive and ties them to whichever voice assistant you use. It does not act as a general smart home controller for other brands, so it cannot replace a SmartThings or Home Assistant box.\n\nBuy it if lighting is your main smart home goal. Skip it if you need a hub for locks, sensors and cameras.",
+      "keySpecs": [
+        {
+          "label": "Focus",
+          "value": "Lutron Caseta lighting"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa, Apple, Google Home"
+        },
+        {
+          "label": "Role",
+          "value": "Bridge, not general hub"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Works with Alexa, Apple and Google",
+        "Cheapest dedicated hub here",
+        "Reliable for Caseta lighting",
+        "Simple to add and forget"
+      ],
+      "cons": [
+        "Mostly for Lutron devices",
+        "Not a general controller"
+      ],
+      "idealFor": "Lighting-first smart homes using Caseta dimmers.",
+      "skipIf": "You want locks, sensors and cameras on one hub."
+    },
+    {
+      "id": "tapo-centralhub-h500",
+      "rank": 7,
+      "award": "Best for Tapo Cameras",
+      "name": "Tapo CentralHub for Smart Devices, H500, Improves Camera AI Accuracy",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/21+LPbrXtOL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F77JHSMV?tag=primeareviews-20",
+      "verdict": "A hub for Tapo gear that is said to improve camera AI accuracy.",
+      "description": "The Tapo H500 is a central hub for Tapo smart devices, and the listing says it improves camera AI accuracy. It is in the $100 to $200 price range.\n\nIt ranks last because it is aimed at one ecosystem. For anyone with Tapo cameras and sensors, a central hub can offload some work and give more consistent detection. For everyone else, it is a narrow tool, and the listing gives few details on protocols or voice assistants.\n\nChoose it if your home is built around Tapo cameras. Skip it if you want a general-purpose smart home hub.",
+      "keySpecs": [
+        {
+          "label": "Ecosystem",
+          "value": "Tapo devices"
+        },
+        {
+          "label": "Benefit",
+          "value": "Improves camera AI accuracy"
+        },
+        {
+          "label": "Protocols",
+          "value": "Not listed"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Built for Tapo camera setups",
+        "Aims to improve camera AI",
+        "Central control for Tapo gear",
+        "Mid-range cost"
+      ],
+      "cons": [
+        "Narrow ecosystem",
+        "Few protocol details listed"
+      ],
+      "idealFor": "Owners who already run several Tapo devices.",
+      "skipIf": "You want a general smart home controller."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Protocol coverage",
+      "description": "We compared Zigbee, Z-Wave, Matter and Wi-Fi support, since radios determine which devices a hub can control."
+    },
+    {
+      "title": "Voice and ecosystem fit",
+      "description": "Alexa, Google Assistant and Apple support were weighed alongside how locked in each hub is to one brand."
+    },
+    {
+      "title": "Local control",
+      "description": "Hubs that run automations on the device, such as Home Assistant Green, scored above cloud-dependent designs."
+    },
+    {
+      "title": "Interface and ease of use",
+      "description": "Touchscreens, app-only control and setup effort were rated for how well a non-technical household can use them."
+    },
+    {
+      "title": "Value under $300",
+      "description": "Feature depth was set against the $50 to $100, $100 to $200 and $200 to $500 price buckets in this guide."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Which radio protocols you need",
+      "detail": "Zigbee and Z-Wave are low-power mesh radios used by sensors, locks and switches. Matter is a newer shared standard. A hub only controls the radios it has built in. Before buying, list the devices you own and confirm their protocol on the box."
+    },
+    {
+      "factor": "Matter gateway support",
+      "detail": "Matter lets devices from different brands work together, and a Matter gateway helps bridge older devices into that system. It is a sensible feature for a hub bought today. Look for the words Matter gateway or Matter controller on the listing, not just the Matter logo."
+    },
+    {
+      "factor": "Local vs cloud control",
+      "detail": "Local control runs your automations inside the house, so lights and sensors keep working when the internet drops. Cloud control depends on the manufacturer's servers. Home Assistant Green is the most local option here, while most Echo and SmartThings features lean on the cloud."
+    },
+    {
+      "factor": "Screen or no screen",
+      "detail": "A screen gives everyone in the house simple control without opening an app, which helps families and guests. A screenless hub is cheaper and sits out of sight. Choose by who will actually be controlling the system day to day."
+    },
+    {
+      "factor": "Ecosystem lock-in",
+      "detail": "Some hubs lean heavily on one brand, such as Lutron lighting or Tapo cameras. That is fine if you plan to stay, but it limits flexibility later. Check which assistants are supported on the listing and think about the phone your household uses."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Device Types You Own",
+      "intro": "The radios in your devices decide the hub, not the other way round.",
+      "table": {
+        "headers": [
+          "Your devices",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Older Z-Wave and Zigbee gear",
+            "Aeotec Smart Home Hub, Works as a SmartThings Hub, Z-Wave, Zigbee, Matter Gateway"
+          ],
+          [
+            "Zigbee and Matter only",
+            "Aeotec Smart Home Hub2 - V4, Works as a SmartThings Hub"
+          ],
+          [
+            "Alexa-compatible gadgets",
+            "Amazon Echo Hub (newest model), 8\""
+          ],
+          [
+            "Lutron Caseta lights",
+            "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50 to $100",
+            "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More"
+          ],
+          [
+            "$100 to $200, screen",
+            "Amazon Echo Hub (newest model), 8\""
+          ],
+          [
+            "$100 to $200, protocols",
+            "Aeotec Smart Home Hub, Works as a SmartThings Hub, Z-Wave, Zigbee, Matter Gateway"
+          ],
+          [
+            "Near $300, local control",
+            "Home Assistant Green | Smart Home hub with Advanced Automation"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Plug-and-Play vs Build-It-Yourself",
+      "cards": [
+        {
+          "label": "Plug-and-play",
+          "text": "Hubs with an app and a guided setup, ready in minutes and supported by a large company. Picks: Amazon Echo Hub, Echo Show 15 and the Lutron Caseta Smart Hub."
+        },
+        {
+          "label": "Build-it-yourself",
+          "text": "Platforms that reward effort with deeper control and local automations. Picks: Home Assistant Green and the Aeotec SmartThings hubs."
+        }
+      ],
+      "note": "Default to plug-and-play unless you enjoy tinkering."
+    },
+    {
+      "subheading": "By Control Style",
+      "table": {
+        "headers": [
+          "How you want to control it",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Wall panel for the family",
+            "Amazon Echo Hub (newest model), 8\""
+          ],
+          [
+            "Big kitchen display",
+            "Amazon Echo Show 15 (newest model)"
+          ],
+          [
+            "App and automation rules",
+            "Home Assistant Green | Smart Home hub with Advanced Automation"
+          ],
+          [
+            "Camera-centred home",
+            "Tapo CentralHub for Smart Devices, H500"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Renters Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A hub that needs no wiring, moves with you and works with plug-in devices. A countertop or shelf design beats anything needing a wall install."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Amazon Echo Hub and the Aeotec Smart Home Hub both sit on a shelf. Avoid wall-installed dimmers unless your landlord agrees."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want a screen the family will actually use, or automations that keep running offline. The Echo Hub and Home Assistant Green are worth the money."
+        },
+        {
+          "label": "Save if",
+          "text": "You only want dimmers or a few sensors controlled. The Lutron Caseta hub or an Aeotec hub handles it for less."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a hub if my devices use Wi-Fi?",
+      "a": "Not necessarily. Wi-Fi devices connect straight to your router and a speaker can control them. A hub helps when you add Zigbee or Z-Wave gear, or when you want faster, more reliable automations."
+    },
+    {
+      "q": "What is the most common mistake when buying a hub?",
+      "a": "Buying one without checking the protocols of the devices you already own. A hub with no Z-Wave radio cannot add a Z-Wave lock, however good its other features look."
+    },
+    {
+      "q": "Is Home Assistant Green worth it over an Echo Hub?",
+      "a": "If you want local automations and deeper control, yes. If you want something your family can use straight away with a touchscreen, the Echo Hub is far easier."
+    },
+    {
+      "q": "How hard is setup?",
+      "a": "An Echo Hub or Lutron Caseta hub is usually ready in 10 to 20 minutes. Home Assistant Green takes longer, because you add integrations and design your own dashboards."
+    },
+    {
+      "q": "How do I keep a hub reliable over time?",
+      "a": "Give it a stable Wi-Fi connection or Ethernet, keep its firmware updated and avoid moving it often. Reboot it if automations lag, and keep batteries fresh in any sensors it manages."
+    },
+    {
+      "q": "Can I use two hubs together?",
+      "a": "Often yes. Many homes pair a screen like the Echo Hub with a protocol hub like an Aeotec model. Check that the assistant you choose supports both before buying."
+    }
+  ],
+  "finalTake": "The Amazon Echo Hub is the easiest smart home hub to recommend, with an 8 inch screen and broad device support. Home Assistant Green is the better choice for local, private automations, and the Aeotec Smart Home Hub covers Z-Wave and Zigbee together. Treat the Lutron Caseta and Tapo hubs as specialists. Whatever you choose, list your device protocols first.",
+  "related": [
+    "best-smart-home-hub-under-100",
+    "best-smart-home-hub-under-200",
+    "best-2-bay-nas-for-home-offices"
+  ]
+}
