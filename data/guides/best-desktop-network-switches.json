@@ -1,0 +1,555 @@
+{
+  "slug": "best-desktop-network-switches",
+  "category": "home-office",
+  "h1": "8 Desktop Ethernet Switches for a Home Office or Gaming Desk, Ranked & Reviewed",
+  "metaTitle": "Best Desktop Network Switches: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 8 desktop network switches from 5 to 8 ports compared on gigabit versus 2.5G, PoE, QoS, fanless design and warranty.",
+  "mainKeyword": "desktop network switches",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
+  "summary": "The TP-Link TL-SG108 is the desktop switch to buy for most home offices: eight gigabit ports, a shielded metal case and fanless operation at a very low price. The TL-SG105 is the five-port choice with QoS, the NETGEAR GS308 is the alternative with energy-saving Ethernet, and the TL-SG108S-M2 is the pick if you already own 2.5G gear.",
+  "intro": [
+    "The most common mistake with a desktop switch is buying speed you cannot use. A 2.5G switch looks like an upgrade, but it only helps when both ends of a link are 2.5G capable, and a lot of laptops, consoles and routers are not. Plug a gigabit device into a 2.5G port and that link runs at gigabit, so the extra money buys nothing until you replace the other side.",
+    "This ranking sorts eight small switches by what they will actually do on a desk. We reviewed each from its listing, comparing port count, speed, PoE, QoS features, case material, cooling and warranty. Several of these are close to identical in plain gigabit mode, so the differences come down to port count, build and the few extras each one adds. Prices are brackets only."
+  ],
+  "products": [
+    {
+      "id": "tp-link-tl-sg108-8-port",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch",
+      "score": 95,
+      "imageUrl": "https://m.media-amazon.com/images/I/31vqMB5haFL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00A121WN6?tag=primeareviews-20",
+      "verdict": "Eight gigabit ports in a shielded metal case, fanless, plug-and-play, with live support.",
+      "description": "The TL-SG108 is an eight-port gigabit unmanaged switch with a shielded metal housing, fanless cooling and plug-and-play setup. The listing adds 24x7 live technical support. It falls under $25.\n\nIt takes first place because eight ports is the number most desks eventually need. A PC, a console, a NAS, a printer and a couple of spare ports will use them all. The metal housing helps with heat, since a fanless switch relies on the case to shed warmth, and the shielding reduces interference. Against the five-port TL-SG105, you gain three ports for little extra money, and you lose the QoS and IGMP snooping mentioned on that listing.\n\nBuy it for a standard home office. Skip it if you need PoE or multi-gig speeds.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 gigabit"
+        },
+        {
+          "label": "Case",
+          "value": "Shielded metal housing"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Support",
+          "value": "24x7 live technical support"
+        }
+      ],
+      "pros": [
+        "Eight ports for most desks",
+        "Shielded metal case sheds heat",
+        "Fanless and silent",
+        "Live support around the clock"
+      ],
+      "cons": [
+        "No QoS listed on this model",
+        "No PoE or multi-gig"
+      ],
+      "idealFor": "Home offices with a PC, NAS, printer and console.",
+      "skipIf": "You need PoE, QoS or 2.5G speeds."
+    },
+    {
+      "id": "tp-link-tl-sg105-5-port",
+      "rank": 2,
+      "award": "Best Five-Port With QoS",
+      "name": "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch",
+      "score": 93,
+      "imageUrl": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-20",
+      "verdict": "A five-port metal-case switch with QoS and IGMP snooping and a 3-year warranty.",
+      "description": "The TL-SG105 is a five-port gigabit unmanaged switch in a metal desktop or wall-mount case. It lists QoS and IGMP snooping and a 3-year warranty. It falls under $25.\n\nIt lands second because the extras are real. QoS, or quality of service, prioritizes certain traffic, so a video call is not starved when someone starts a download. IGMP snooping stops multicast traffic, such as IPTV streams, from flooding every port. On a small unmanaged switch these features run automatically, with no setup, and that is why they matter. Against the TL-SG108, it has fewer ports, and five fills up quickly.\n\nBuy it if you need only a few ports and want smarter traffic handling. Skip it if you expect to grow.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 gigabit"
+        },
+        {
+          "label": "Features",
+          "value": "QoS and IGMP snooping"
+        },
+        {
+          "label": "Case",
+          "value": "Metal, desktop or wall-mount"
+        },
+        {
+          "label": "Warranty",
+          "value": "3 years"
+        }
+      ],
+      "pros": [
+        "QoS runs automatically",
+        "IGMP snooping tames multicast",
+        "Three-year warranty included",
+        "Metal case, wall-mount option"
+      ],
+      "cons": [
+        "Only five ports",
+        "No PoE or 2.5G support"
+      ],
+      "idealFor": "Small desks that want smart traffic handling.",
+      "skipIf": "You expect to need more than five ports."
+    },
+    {
+      "id": "netgear-gs308-8-port",
+      "rank": 3,
+      "award": "Best Energy-Efficient Eight-Port",
+      "name": "NETGEAR GS308 8-Port Gigabit Unmanaged Switch",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/31kV5XNYXoL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07PFYM5MZ?tag=primeareviews-20",
+      "verdict": "A fanless metal eight-port with 802.3az energy-efficient Ethernet, desktop or wall-mount.",
+      "description": "The GS308 is an eight-port gigabit unmanaged switch with a fanless metal housing and 802.3az energy-efficient Ethernet. It mounts on a desk or a wall. It falls under $25.\n\nIt ranks third because it is a direct rival to the TL-SG108, and on the listing the two are close. The difference is the 802.3az standard, which lowers power use when links are idle. On one switch the saving is small, but it runs around the clock. NETGEAR also has strong brand recognition, which helps with finding replacements and documentation. It does not list support or warranty details as clearly as the TP-Link listings.\n\nBuy it if you prefer NETGEAR or want the energy-saving feature. Otherwise, the TL-SG108 is the better-documented choice.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 gigabit"
+        },
+        {
+          "label": "Energy",
+          "value": "802.3az energy-efficient Ethernet"
+        },
+        {
+          "label": "Case",
+          "value": "Fanless metal housing"
+        },
+        {
+          "label": "Mounting",
+          "value": "Desktop or wall-mount"
+        }
+      ],
+      "pros": [
+        "Energy-efficient Ethernet saves idle power",
+        "Fanless metal housing",
+        "Eight ports at a low price",
+        "Desk or wall mounting"
+      ],
+      "cons": [
+        "Warranty details not listed",
+        "No PoE or 2.5G"
+      ],
+      "idealFor": "NETGEAR households that leave the switch on all day.",
+      "skipIf": "You want QoS or a listed warranty."
+    },
+    {
+      "id": "tp-link-tl-sg108s-m2-8-port-2-5g",
+      "rank": 4,
+      "award": "Best 2.5G Eight-Port",
+      "name": "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-20",
+      "verdict": "Eight 2.5G ports with 40Gbps capacity that run over your existing Cat5e cabling.",
+      "description": "The TL-SG108S-M2 is an eight-port 2.5G unmanaged switch with 40Gbps switching capacity. The listing says it works over existing Cat5e cable, and it is fanless. It falls between $50 and $100.\n\nIt ranks fourth because it is the most expensive switch here, and only valuable if your gear is ready. 2.5G suits a fast NAS, a recent motherboard or a Wi-Fi 6 access point with a multi-gig port, and 40Gbps is eight ports at 2.5Gbps in both directions, so it does not bottleneck. Running on Cat5e saves rewiring, though long or poor cable may not reach the full rate. Against the five-port 2.5G model, it gives you more ports and costs more.\n\nBuy it if at least two devices on your desk are 2.5G. Skip it if everything is gigabit.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 x 2.5G"
+        },
+        {
+          "label": "Capacity",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Cabling",
+          "value": "Works over Cat5e"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless, unmanaged"
+        }
+      ],
+      "pros": [
+        "Eight 2.5G ports",
+        "40Gbps non-blocking capacity",
+        "Works over existing Cat5e",
+        "Fanless and unmanaged"
+      ],
+      "cons": [
+        "Priciest switch here",
+        "Wasted without 2.5G devices"
+      ],
+      "idealFor": "Desks with a 2.5G NAS, PC or Wi-Fi access point.",
+      "skipIf": "All your gear tops out at gigabit."
+    },
+    {
+      "id": "tp-link-tl-sg1005p-poe",
+      "rank": 5,
+      "award": "Best PoE Desktop Switch",
+      "name": "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41kx+YQoVLL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-20",
+      "verdict": "Four PoE+ ports sharing 65W, plus an uplink, QoS and IGMP snooping and a 3-year warranty.",
+      "description": "The TL-SG1005P has four PoE+ ports sharing a 65W budget, plus one uplink port. It lists QoS, IGMP snooping and a 3-year warranty. It falls between $25 and $50.\n\nIt ranks fifth only because few desks need PoE. If you do, it powers a camera, an access point or a VoIP phone through the same cable that carries data, with no separate adapter. The 65W budget is shared, so two PoE+ cameras at 30W each would use almost all of it. Check the draw of each device first. Against the TL-SG105, the premium buys power delivery, not speed.\n\nBuy it for a camera or a ceiling access point. Skip it if you only have computers.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "4 PoE+ plus 1 uplink"
+        },
+        {
+          "label": "PoE budget",
+          "value": "65W total"
+        },
+        {
+          "label": "Features",
+          "value": "QoS and IGMP snooping"
+        },
+        {
+          "label": "Warranty",
+          "value": "3 years"
+        }
+      ],
+      "pros": [
+        "Four PoE+ ports for devices",
+        "Shared 65W budget stated",
+        "QoS and IGMP snooping",
+        "Three-year warranty included"
+      ],
+      "cons": [
+        "Only five ports total",
+        "65W budget is shared"
+      ],
+      "idealFor": "People powering a camera or access point through the switch.",
+      "skipIf": "You have no PoE devices."
+    },
+    {
+      "id": "netgear-gs305-5-port",
+      "rank": 6,
+      "award": "Best Simple Five-Port",
+      "name": "NETGEAR GS305 5-Port Gigabit Unmanaged Switch",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/31JUxKEND6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-20",
+      "verdict": "A fanless five-port gigabit switch with 802.3az energy-efficient Ethernet.",
+      "description": "The GS305 is a fanless five-port gigabit unmanaged switch with 802.3az energy-efficient Ethernet. It can sit on a desk or mount on a wall. It falls under $25.\n\nIt ranks sixth because it is the NETGEAR counterpart to the TL-SG105, with fewer listed extras. You get no QoS or IGMP snooping, though you do get the energy-saving standard. For a PC, a console and a printer, that is plenty. It is a reasonable pick if you prefer the brand, but the TP-Link has more on paper for the same price.\n\nBuy it for a simple, small setup. Skip it if you want traffic prioritization.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 gigabit"
+        },
+        {
+          "label": "Energy",
+          "value": "802.3az energy-efficient"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Mounting",
+          "value": "Desktop or wall"
+        }
+      ],
+      "pros": [
+        "Fanless and silent",
+        "Energy-efficient Ethernet",
+        "Desk or wall mounting",
+        "Very low price"
+      ],
+      "cons": [
+        "No QoS listed",
+        "Only five ports"
+      ],
+      "idealFor": "Small setups that value a familiar brand.",
+      "skipIf": "You want QoS or more ports."
+    },
+    {
+      "id": "tp-link-tl-sg105s-m2-5-port-2-5g",
+      "rank": 7,
+      "award": "Best 2.5G Five-Port",
+      "name": "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-20",
+      "verdict": "Five 2.5G ports with 25Gbps capacity, working over existing Cat5e in a compact metal case.",
+      "description": "The TL-SG105S-M2 offers five 2.5G ports with 25Gbps capacity in a compact metal case, and works over existing Cat5e cabling. It falls between $25 and $50.\n\nIt ranks seventh because it is a niche buy: it is cheaper than the eight-port 2.5G model, but still wasted on gigabit devices. For a small desk with a NAS and a PC that both support 2.5G, it removes a bottleneck at low cost. Five ports leave little room, though, and one will go to the uplink. The 25Gbps figure matches five ports at 2.5Gbps full duplex.\n\nBuy it if two or three devices are already 2.5G. Otherwise, a gigabit switch costs less.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 x 2.5G"
+        },
+        {
+          "label": "Capacity",
+          "value": "25Gbps"
+        },
+        {
+          "label": "Cabling",
+          "value": "Works over Cat5e"
+        },
+        {
+          "label": "Case",
+          "value": "Compact metal"
+        }
+      ],
+      "pros": [
+        "Five 2.5G ports",
+        "25Gbps switching capacity",
+        "Works over existing Cat5e",
+        "Compact metal case"
+      ],
+      "cons": [
+        "Few ports once uplink is used",
+        "Wasted on gigabit gear"
+      ],
+      "idealFor": "Small desks with a 2.5G NAS and PC.",
+      "skipIf": "Your devices are all gigabit."
+    },
+    {
+      "id": "tp-link-ls1005g-litewave",
+      "rank": 8,
+      "award": "Best Pocket-Sized Switch",
+      "name": "TP-Link LS1005G Litewave 5-Port Gigabit Switch",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/21-Yq6W1ekL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0863M7C1L?tag=primeareviews-20",
+      "verdict": "A fanless five-port budget switch, just 2.8 x 3.5 x 0.9 inches and 2.8 oz.",
+      "description": "The LS1005G Litewave is a five-port gigabit switch with one uplink and four outputs, measuring 2.8 x 3.5 x 0.9 inches and weighing 2.8 oz. It is fanless and sits in the budget tier, under $25.\n\nIt ranks last because the others offer better build and features. What it does well is size: it fits in a laptop bag, behind a monitor or in a hotel room. The listing does not mention a metal case, and no QoS is listed. Four usable output ports is also fewer than the TL-SG105's five.\n\nBuy it for travel or a tight spot. For a permanent desk, buy the TL-SG108.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 (1 uplink and 4 output)"
+        },
+        {
+          "label": "Size",
+          "value": "2.8 x 3.5 x 0.9 in"
+        },
+        {
+          "label": "Weight",
+          "value": "2.8 oz"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        }
+      ],
+      "pros": [
+        "Very small and light",
+        "Fanless and silent",
+        "Easy to travel with",
+        "Lowest-cost tier"
+      ],
+      "cons": [
+        "Only four output ports",
+        "Plainest spec sheet here"
+      ],
+      "idealFor": "Travelers and tight desk spaces.",
+      "skipIf": "You want a permanent metal-case switch."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Port count and speed",
+      "description": "We compared ports against the gigabit and 2.5G speeds, and asked whether the extra speed pays off on a normal desk."
+    },
+    {
+      "title": "Traffic features",
+      "description": "QoS, IGMP snooping and energy-saving standards were weighed where the listing names them."
+    },
+    {
+      "title": "PoE delivery",
+      "description": "Where PoE is offered, we looked at the total shared budget rather than the port count."
+    },
+    {
+      "title": "Build and cooling",
+      "description": "Metal cases and fanless designs scored higher for heat, noise and durability."
+    },
+    {
+      "title": "Warranty and support",
+      "description": "We counted warranty length and live support, since a switch is expected to run for years."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Gigabit versus 2.5G",
+      "detail": "A 2.5G switch only runs faster when both ends of the cable are 2.5G capable. Many laptops and routers are still gigabit. Count your multi-gig devices first, and buy 2.5G only if at least two links will use it."
+    },
+    {
+      "factor": "Port count",
+      "detail": "A 5-port switch gives four usable ports once one connects to the router. Eight ports leave room for growth. Buy one size up from what you have today, since a desk fills with devices."
+    },
+    {
+      "factor": "PoE budget",
+      "detail": "PoE powers devices through the Ethernet cable. The budget is the total wattage, shared across ports. A 65W budget covers one or two cameras but not four. Check each device's draw before you buy."
+    },
+    {
+      "factor": "QoS and IGMP snooping",
+      "detail": "QoS prioritizes video calls and games over downloads, and IGMP snooping keeps multicast streams from flooding every port. On an unmanaged switch these work automatically. They matter more on a busy network."
+    },
+    {
+      "factor": "Case and cooling",
+      "detail": "A fanless switch is silent, but it relies on its case to shed heat. Metal cases do this better than thin plastic. Leave a gap around the switch and avoid stacking items on top."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Port Count",
+      "intro": "Count the devices you own, then add two.",
+      "table": {
+        "headers": [
+          "Ports needed",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Up to 4",
+            "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "4 with PoE",
+            "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch"
+          ],
+          [
+            "Up to 7",
+            "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "7 with energy saving",
+            "NETGEAR GS308 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Travel and tight spots",
+            "TP-Link LS1005G Litewave 5-Port Gigabit Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "Under $25 (five ports)",
+            "NETGEAR GS305 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "$25 to $50",
+            "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch"
+          ],
+          [
+            "$25 to $50 (PoE)",
+            "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch"
+          ],
+          [
+            "$50 to $100",
+            "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Gigabit vs 2.5G",
+      "cards": [
+        {
+          "label": "Gigabit",
+          "text": "Matches nearly every laptop, console and router, and costs little. Picks: TL-SG108, TL-SG105, NETGEAR GS308, NETGEAR GS305."
+        },
+        {
+          "label": "2.5G",
+          "text": "Removes a bottleneck for a fast NAS or recent PC, and runs on Cat5e, but needs 2.5G devices at both ends. Picks: TL-SG108S-M2, TL-SG105S-M2."
+        }
+      ],
+      "note": "Default to gigabit unless you already own two or more 2.5G devices."
+    },
+    {
+      "subheading": "By Brand Preference",
+      "table": {
+        "headers": [
+          "Brand",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "TP-Link, most ports",
+            "TP-Link TL-SG108 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "TP-Link, smart features",
+            "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "NETGEAR, eight ports",
+            "NETGEAR GS308 8-Port Gigabit Unmanaged Switch"
+          ],
+          [
+            "NETGEAR, five ports",
+            "NETGEAR GS305 5-Port Gigabit Unmanaged Switch"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For a Home Camera Setup Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "PoE+ ports and a total budget that covers every camera, with QoS to keep video steady. Add up each camera's wattage first."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The TP-Link TL-SG1005P gives four PoE+ ports on a 65W shared budget, plus QoS and IGMP snooping, so it suits one to two cameras."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You own 2.5G gear or need PoE. The TL-SG108S-M2 or TL-SG1005P deliver what the cheaper models cannot."
+        },
+        {
+          "label": "Save if",
+          "text": "Everything is gigabit and you just need more ports. The TL-SG108 or NETGEAR GS308 cost under $25."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a managed switch for a home office?",
+      "a": "No, an unmanaged switch is fine for most desks. Plug in and it works, and models like the TL-SG105 still add QoS and IGMP snooping automatically."
+    },
+    {
+      "q": "What is the most common mistake when buying a switch?",
+      "a": "Buying 2.5G without any 2.5G devices. A link runs at the speed of its slowest end, so a gigabit PC on a 2.5G switch still gets gigabit."
+    },
+    {
+      "q": "Is a switch worth it over a router with four ports?",
+      "a": "If you have more than three wired devices, yes. A switch adds ports without slowing the connection, and a model like the TL-SG108 costs little."
+    },
+    {
+      "q": "How do I set one up?",
+      "a": "Plug the power adapter in, connect one port to your router, and plug your devices into the others. There is no software to install on an unmanaged switch."
+    },
+    {
+      "q": "Do I need to maintain a switch?",
+      "a": "Mostly not. Keep it ventilated, dust the vents or case now and then, and power-cycle it if a port misbehaves. Fanless models like the NETGEAR GS308 have no fan to clean."
+    },
+    {
+      "q": "Will a 2.5G switch work with gigabit devices?",
+      "a": "Yes, ports auto-negotiate down to gigabit, so older devices still connect. They just do not gain any speed, and the TL-SG108S-M2 runs them at 1Gbps."
+    }
+  ],
+  "finalTake": "The TP-Link TL-SG108 is the desktop switch to buy for most people, because it gives eight gigabit ports in a metal fanless case at a very low price. Take the TL-SG105 for QoS in a smaller form, the TL-SG1005P if you need PoE, and the TL-SG108S-M2 only when your gear is ready for 2.5G. Count your devices, and buy two extra ports.",
+  "related": [
+    "best-5-port-network-switches",
+    "best-rackmount-network-switches",
+    "best-tp-link-network-switches"
+  ]
+}
