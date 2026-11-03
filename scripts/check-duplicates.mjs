@@ -31,8 +31,10 @@ const seen = new Map();
 for (const g of guides) {
   const mine = shingles(prose(g));
   const c = cands.get(g.slug);
-  if (c && isMine(g.slug) && fs.existsSync(c.file)) {
-    const src = shingles(fs.readFileSync(c.file, "utf8"));
+  // candidates.json stores Windows paths; fall back to the sibling checkout on other machines.
+  const file = c && (fs.existsSync(c.file) ? c.file : path.join(process.cwd(), "..", c.source === "deskfinds" ? "smartspace-picks" : "BestFindsReviews", "data", "guides", `${c.slug}.ts`));
+  if (c && isMine(g.slug) && fs.existsSync(file)) {
+    const src = shingles(fs.readFileSync(file, "utf8"));
     const copied = [...mine].filter((s) => src.has(s));
     if (copied.length) { hits++; console.log(`✗ ${g.slug}: ${copied.length} phrase(s) copied from source, e.g. "${copied[0]}"`); }
   }

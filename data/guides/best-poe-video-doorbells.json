@@ -1,0 +1,424 @@
+{
+  "slug": "best-poe-video-doorbells",
+  "category": "home-living",
+  "h1": "5 Video Doorbells for Ethernet-Powered Installs, Ranked & Reviewed (2026)",
+  "metaTitle": "PoE Video Doorbells 2026: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 5 wired video doorbells including PoE models, compared on resolution, power method, install effort and price bracket.",
+  "mainKeyword": "PoE video doorbells",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "9 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31KusgdSMGL._SL500_.jpg",
+  "summary": "The Ring Wired Doorbell 4K Elite is the PoE doorbell to buy if you want the sharpest picture and a single Ethernet cable for power and data. The REOLINK PoE 2K is the better value for a home that already has a PoE switch, and the Aqara G400 is the cheapest PoE model. The Ring 4K Pro and WYZE v2 are wired alternatives that do not state PoE, for homes with existing doorbell wire.",
+  "intro": [
+    "The usual PoE doorbell mistake happens before you open the box: people buy the doorbell and forget the other end of the cable. Power over Ethernet only works if a PoE switch or injector sits at the router, a cable runs to the front door, and the run stays inside the 100 meter Ethernet limit. A doorbell cannot fix a house that has no network cable near the door.",
+    "This ranking covers the three models that list PoE, then two wired alternatives that run on conventional doorbell wiring and do not state PoE in their listings. We reviewed all five on paper, looking at resolution, how they get power, the price bracket and what the listing leaves out. Anything not stated, such as storage or cloud fees, we do not claim."
+  ],
+  "products": [
+    {
+      "id": "ring-wired-doorbell-4k-elite",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Ring Wired Doorbell 4K Elite",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/210jWYKpi3L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FT74NT34?tag=primeareviews-20",
+      "verdict": "4K resolution and PoE in one wired doorbell, at $200 to $500.",
+      "description": "The Ring Wired Doorbell 4K Elite lists 4K video and PoE power, wired, in the $200 to $500 bracket. A single Ethernet cable carries both electricity and the video stream, so there is no battery to charge and no Wi-Fi signal to lose at the door.\n\nIt ranks first because it combines the highest listed resolution with the most reliable connection method. 4K gives you more pixels to zoom into when you need to read a license plate or a package label. The tradeoff is cost, since it is the most expensive doorbell here, and you will pay for Ring's subscription features to review footage in the app.\n\nBuy it if your house already has Ethernet at the door and you want top image quality. Skip it if you only have conventional doorbell wiring.",
+      "keySpecs": [
+        {
+          "label": "Resolution",
+          "value": "4K"
+        },
+        {
+          "label": "Power",
+          "value": "PoE"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200 to $500"
+        }
+      ],
+      "pros": [
+        "4K video for zooming into detail",
+        "PoE gives power and data on one cable",
+        "No battery or Wi-Fi dropouts",
+        "Familiar Ring app"
+      ],
+      "cons": [
+        "Highest price in the ranking",
+        "Needs Ethernet cable at the door"
+      ],
+      "idealFor": "New builds and renovations with Ethernet at the front door.",
+      "skipIf": "You have only low-voltage doorbell wire."
+    },
+    {
+      "id": "reolink-video-doorbell-poe-2k",
+      "rank": 2,
+      "award": "Best PoE Value",
+      "name": "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera with",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/31KusgdSMGL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B7S1HMPC?tag=primeareviews-20",
+      "verdict": "A 2K PoE doorbell for $100 to $200, from a company that builds PoE cameras.",
+      "description": "The REOLINK lists 2K video, PoE and a wired outdoor design, at $100 to $200. 2K is a clear step up from 1080p and perfectly good for faces and packages at a typical front door.\n\nIt ranks second because it delivers the PoE advantage at roughly half the cost of the Ring Elite. Reolink focuses on PoE security cameras, so the doorbell fits easily into a home camera setup. It sits behind the Ring because the resolution is lower, and the listing does not describe any app ecosystem or features beyond video.\n\nChoose it if you already run a PoE switch for cameras. Skip it if you want the highest resolution.",
+      "keySpecs": [
+        {
+          "label": "Resolution",
+          "value": "2K"
+        },
+        {
+          "label": "Power",
+          "value": "PoE"
+        },
+        {
+          "label": "Design",
+          "value": "Wired outdoor"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "2K video with PoE power",
+        "Half the price of the Ring Elite",
+        "Fits a PoE camera system",
+        "No battery to recharge"
+      ],
+      "cons": [
+        "Lower resolution than 4K",
+        "Needs an Ethernet run to the door"
+      ],
+      "idealFor": "Homes that already have a PoE switch for cameras.",
+      "skipIf": "You want 4K and an established app."
+    },
+    {
+      "id": "aqara-doorbell-camera-g400-with-chime",
+      "rank": 3,
+      "award": "Cheapest PoE",
+      "name": "Aqara Doorbell Camera G400 with Chime",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/413fvkmsBeL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0G52BVRLQ?tag=primeareviews-20",
+      "verdict": "The least expensive PoE doorbell here, with a chime included.",
+      "description": "The Aqara G400 lists PoE power, a wired design and an included chime, priced at $50 to $100. No resolution is stated, which is the main gap.\n\nIt ranks third because it is half the price of the Reolink and a quarter of the Ring, and the included chime means you do not need to hunt for a separate indoor unit. Aqara is a smart-home brand, so it should fit homes already using its sensors. With no resolution listed, we cannot place it above the Reolink for image quality.\n\nBuy it if you want PoE on a small budget. Skip it if you want to confirm picture quality before buying.",
+      "keySpecs": [
+        {
+          "label": "Power",
+          "value": "PoE"
+        },
+        {
+          "label": "Chime",
+          "value": "Included"
+        },
+        {
+          "label": "Design",
+          "value": "Wired"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Lowest-priced PoE doorbell",
+        "Chime included in the box",
+        "Fits Aqara smart-home gear",
+        "No battery to charge"
+      ],
+      "cons": [
+        "Resolution not listed",
+        "Needs Ethernet cable at the door"
+      ],
+      "idealFor": "Budget PoE installs in Aqara smart homes.",
+      "skipIf": "You need a confirmed picture quality."
+    },
+    {
+      "id": "ring-wired-doorbell-4k-pro",
+      "rank": 4,
+      "award": "Best 4K Without PoE",
+      "name": "Ring Wired Doorbell 4K Pro",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/21aR5kjPK9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F151GFYR?tag=primeareviews-20",
+      "verdict": "4K and wired, but the listing does not state PoE power.",
+      "description": "The Ring Wired Doorbell 4K Pro lists 4K video and a wired design, at $100 to $200. Unlike the Elite, the listing does not mention PoE, so assume it runs on conventional doorbell wiring unless the seller says otherwise.\n\nIt ranks fourth because it is the way to get 4K picture quality without installing Ethernet at the door. It sits behind the PoE models because power and data both depend on your existing wiring and Wi-Fi.\n\nChoose it if you want 4K and have working doorbell wire. Skip it if you specifically need PoE.",
+      "keySpecs": [
+        {
+          "label": "Resolution",
+          "value": "4K"
+        },
+        {
+          "label": "Power",
+          "value": "Wired (PoE not listed)"
+        },
+        {
+          "label": "Brand",
+          "value": "Ring"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "4K video at a lower price",
+        "Wired, so no battery swaps",
+        "Familiar Ring app",
+        "Simpler install than Ethernet"
+      ],
+      "cons": [
+        "PoE not stated on the listing",
+        "Relies on Wi-Fi for video"
+      ],
+      "idealFor": "Homes with doorbell wire that want 4K.",
+      "skipIf": "You require PoE power."
+    },
+    {
+      "id": "wyze-wired-doorbell-camera-v2",
+      "rank": 5,
+      "award": "Best Budget 2K Wired",
+      "name": "WYZE Wired Doorbell Camera v2",
+      "score": 81,
+      "imageUrl": "https://m.media-amazon.com/images/I/31DOJR0HLxL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C896D28H?tag=primeareviews-20",
+      "verdict": "A 2K wired doorbell for $50 to $100, with no PoE listed.",
+      "description": "The WYZE Wired Doorbell Camera v2 lists 2K video and a wired design, at $50 to $100. PoE is not mentioned in the listing, so treat it as a doorbell-wire model.\n\nIt ranks last because the PoE options give a steadier connection, while this one depends on Wi-Fi. It does bring 2K at the same price as the Aqara, which makes it a fair choice if you cannot run Ethernet.\n\nBuy it for a budget wired install on existing doorbell wiring. Skip it if you want PoE.",
+      "keySpecs": [
+        {
+          "label": "Resolution",
+          "value": "2K"
+        },
+        {
+          "label": "Power",
+          "value": "Wired (PoE not listed)"
+        },
+        {
+          "label": "Brand",
+          "value": "WYZE"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "2K video at a low price",
+        "Wired, no battery to charge",
+        "Simple install on doorbell wire",
+        "Low cost of entry"
+      ],
+      "cons": [
+        "PoE is not listed",
+        "Wi-Fi dependent"
+      ],
+      "idealFor": "Budget installs on existing doorbell wiring.",
+      "skipIf": "You need PoE or the best picture."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Power method",
+      "description": "Confirmed PoE models were ranked above doorbells whose listings only say wired, since PoE gives power and data over one cable."
+    },
+    {
+      "title": "Video resolution",
+      "description": "Listed 2K and 4K figures were compared, and a missing resolution counted against a listing."
+    },
+    {
+      "title": "Install requirements",
+      "description": "We weighed the need for an Ethernet run, a PoE switch or injector, or existing doorbell wire."
+    },
+    {
+      "title": "Ecosystem fit",
+      "description": "App and smart-home brand fit, from Ring to Reolink and Aqara, was considered for day-to-day use."
+    },
+    {
+      "title": "Value within the bracket",
+      "description": "Each doorbell was scored inside its $50 to $100, $100 to $200 or $200 to $500 bucket."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "PoE infrastructure",
+      "detail": "Power over Ethernet sends power and data over one cable, but needs a PoE switch or injector and a cable run under 100 meters. Without those, the doorbell cannot power on. Check that your router closet has a PoE port and a free path to the door."
+    },
+    {
+      "factor": "Resolution",
+      "detail": "4K captures four times the pixels of 1080p and allows deeper zoom on faces and plates. 2K is a good middle point. Look for the resolution in the title, because a missing number usually means a lower resolution."
+    },
+    {
+      "factor": "Chime and indoor alert",
+      "detail": "A PoE doorbell does not ring your existing mechanical chime without extra hardware. Some include a plug-in chime, like the Aqara G400. Check whether the listing includes one."
+    },
+    {
+      "factor": "Field of view and shape",
+      "detail": "A tall, narrow field of view shows packages on the doorstep while a wide one shows the porch. The listing may give degrees. Pick a model with a head-to-toe view if package theft worries you."
+    },
+    {
+      "factor": "Storage and subscriptions",
+      "detail": "Many doorbells store clips in a cloud plan that costs a monthly fee, while others record locally. The listings here do not state storage, so check the manufacturer's page before buying."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Power Source",
+      "intro": "Start by deciding what power you can actually get to the front door.",
+      "table": {
+        "headers": [
+          "Power available",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Ethernet and PoE switch, top image",
+            "Ring Wired Doorbell 4K Elite"
+          ],
+          [
+            "Ethernet and PoE switch, value",
+            "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera with"
+          ],
+          [
+            "Ethernet, small budget",
+            "Aqara Doorbell Camera G400 with Chime"
+          ],
+          [
+            "Doorbell wire only",
+            "Ring Wired Doorbell 4K Pro"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50 to $100 (PoE)",
+            "Aqara Doorbell Camera G400 with Chime"
+          ],
+          [
+            "$50 to $100 (doorbell wire)",
+            "WYZE Wired Doorbell Camera v2"
+          ],
+          [
+            "$100 to $200",
+            "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera with"
+          ],
+          [
+            "$200 to $500",
+            "Ring Wired Doorbell 4K Elite"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "PoE vs Doorbell Wire",
+      "cards": [
+        {
+          "label": "PoE",
+          "text": "One cable for power and data, with a stable wired link. Needs an Ethernet run and a PoE switch or injector. Picks: Ring 4K Elite, REOLINK, Aqara G400."
+        },
+        {
+          "label": "Doorbell wire",
+          "text": "Uses your existing low-voltage doorbell wiring and relies on Wi-Fi for video. Easier to install. Picks: Ring 4K Pro, WYZE v2."
+        }
+      ],
+      "note": "Default to PoE if you can run a cable, because a wired link beats Wi-Fi."
+    },
+    {
+      "subheading": "By Resolution",
+      "table": {
+        "headers": [
+          "Resolution",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "4K PoE",
+            "Ring Wired Doorbell 4K Elite"
+          ],
+          [
+            "4K, no PoE",
+            "Ring Wired Doorbell 4K Pro"
+          ],
+          [
+            "2K PoE",
+            "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera with"
+          ],
+          [
+            "2K, no PoE",
+            "WYZE Wired Doorbell Camera v2"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For a Home Camera System Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A PoE doorbell that works with the same switch as your cameras, so one device powers everything and the network stays simple."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The REOLINK PoE fits a PoE camera setup, and the Ring Elite gives the best image if you already use the Ring app."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want the sharpest picture and a rock-solid connection. The Ring Wired Doorbell 4K Elite delivers both."
+        },
+        {
+          "label": "Save if",
+          "text": "You just need PoE and a chime. The Aqara G400 offers that at a fraction of the cost."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a PoE switch for these doorbells?",
+      "a": "For the three PoE models, you need either a PoE switch or a PoE injector at the router end. The Ring 4K Pro and WYZE v2 do not list PoE and use doorbell wiring instead."
+    },
+    {
+      "q": "What is the biggest mistake with PoE doorbells?",
+      "a": "Forgetting the cable run. If your door has no Ethernet, you need to pull a cable through the wall, which is the real cost of a PoE install."
+    },
+    {
+      "q": "Is the Ring Elite worth it over the REOLINK?",
+      "a": "If you want 4K and Ring's app, yes. If you already run a PoE switch for cameras, the REOLINK gives you 2K and wired reliability for half the price."
+    },
+    {
+      "q": "How do I set up a PoE doorbell?",
+      "a": "Run an Ethernet cable from the PoE switch to the door, mount the bracket, plug in the doorbell and pair it through the app. Weatherproof the cable entry point."
+    },
+    {
+      "q": "How long can the Ethernet run be?",
+      "a": "Standard Ethernet carries power and data up to about 100 meters. Longer runs need an extender."
+    },
+    {
+      "q": "Will a PoE doorbell ring my indoor chime?",
+      "a": "Not by itself. You need a plug-in chime, like the one with the Aqara G400, or a compatible chime kit from the maker."
+    }
+  ],
+  "finalTake": "The Ring Wired Doorbell 4K Elite is the PoE doorbell to buy for the best picture and a stable connection. The REOLINK PoE 2K is the smart pick if you already have a PoE switch, and the Aqara G400 is the budget route. If you cannot run Ethernet, the Ring 4K Pro is the fallback.",
+  "related": [
+    "best-ring-video-doorbells",
+    "best-video-doorbells-that-work-with-mechanical-chimes",
+    "best-video-doorbells-without-smartphones"
+  ]
+}
