@@ -234,11 +234,11 @@
     { "title": "Portability and support", "description": "Weight, build and warranty length separated the close finishers." }
   ],
   "whatMatters": [
-    { "factor": "Wattage to the host", "detail": "Pass-through means a charger feeds the monitor and the monitor feeds the laptop, but the monitor keeps some power. The number that matters is wattage delivered to the laptop, not the charger rating. Look for a listing that says so, as with the Plugable's 85W, and compare it to your laptop's charger." },
-    { "factor": "Charger requirement", "detail": "Many monitors do not include a charger, and the pass-through only works with a high enough one. The Plugable needs a 100W unit sold separately. Check what charger you own, and buy one that matches the monitor's input rating before you travel." },
-    { "factor": "Panel power draw", "detail": "Brightness and resolution drive consumption. A 1200 nit 4K screen uses far more power than a 250 nit FHD one, leaving less for the laptop. If charging matters, favor lower-power panels such as the FHD cocopar or accept the drain with brighter screens." },
-    { "factor": "USB-C video support", "detail": "Your laptop's USB-C port must support video output (DisplayPort Alt Mode) for a single-cable setup to work. Older ports may charge but not show a picture. Check your laptop's spec sheet, and keep the monitor's HDMI port as a backup." },
-    { "factor": "Bidirectional charging", "detail": "Some monitors can also send power from a laptop or phone to the screen, so a single laptop cable runs the display. ASUS lists bidirectional pass-through on the MQ16FC. Verify the direction the listing means, since a one-way port will not run from your laptop." }
+    { "factor": "Wattage to the host", "detail": "Pass-through means a charger feeds the monitor and the monitor feeds the laptop, but the panel keeps a share of the power. The number that matters is wattage delivered to the laptop, not the charger rating. Look for a listing that says so, as with the Plugable's 85W from 100W in, and compare it to your laptop's own charger." },
+    { "factor": "Charger requirement", "detail": "Many monitors do not include a charger, and pass-through only works when the charger you attach can cover the screen and the laptop together. The Plugable needs a 100W unit sold separately. A weak phone brick leaves the laptop discharging while it drives the display. Check which charger you own, and match the monitor's input rating before you travel." },
+    { "factor": "Panel power draw", "detail": "Brightness and resolution drive consumption, and every watt the panel burns is a watt not reaching the laptop. A 1200 nit 4K screen like the EVICIV pulls far more than a 1080P panel, leaving less headroom. If charging matters, favor lower-power panels such as the FHD cocopar, or accept the drain with brighter screens." },
+    { "factor": "USB-C video support", "detail": "Your laptop's USB-C port must support video output (DisplayPort Alt Mode) for a single-cable setup to work, and many data-only or charge-only ports do not. Older ports may charge but never show a picture. Check your laptop's spec sheet, and use the HDMI port on the VisionOwl or cocopar as a backup." },
+    { "factor": "Bidirectional charging", "detail": "Some monitors can also draw power from a laptop or phone, so one cable runs the display with no wall charger at all. ASUS lists bidirectional pass-through on the MQ16FC. Verify which direction the listing means, since a one-way port will charge the laptop only when a charger is attached and will not run from the laptop." }
   ],
   "howToChoose": [
     {
@@ -316,19 +316,19 @@
     },
     {
       "q": "Is the Plugable worth it over the cocopar?",
-      "a": "If charging matters, yes. The Plugable publishes 85W to the host and adds 10Gbps hub ports. The cocopar FHD costs less and confirms pass-through but does not state the wattage."
+      "a": "If charging matters, yes. The Plugable publishes 85W to the host and adds 10Gbps hub ports, so you can size your laptop charger around a real number. The cocopar FHD costs less and confirms pass-through but does not state the wattage."
     },
     {
       "q": "How do I set up a single-cable workflow?",
-      "a": "Connect the charger to the monitor's power USB-C port, then run a USB-C cable from the monitor to your laptop. The Plugable includes a certified 1m cable. Your laptop port must support video output."
+      "a": "Connect the charger to the monitor's power USB-C port, then run a USB-C cable from the monitor to your laptop's video-capable port. The Plugable includes a certified 1m cable. Confirm your laptop port supports video output first, or you will charge without a picture."
     },
     {
       "q": "Does the OLED ASUS risk burn-in?",
-      "a": "OLED can burn in with static images. ASUS covers it with a 3-year warranty that includes burn-in, and auto-rotate software adds convenience. Use dark mode and a moving wallpaper to reduce the risk."
+      "a": "OLED can burn in when static images, such as a taskbar, stay in one place for long stretches. ASUS covers the ZenScreen with a 3-year warranty that includes burn-in, which is rare. Use dark mode, an auto-hiding taskbar and a moving wallpaper to reduce the risk."
     },
     {
       "q": "Can I charge a phone through these monitors?",
-      "a": "Often yes, through a spare USB-C port. The Plugable has two 10Gbps hub ports, and the VisionOwl and cocopar models have dual USB-C. Expect slow charging, since the screen draws first."
+      "a": "Often yes, through a spare USB-C port. The Plugable has two 10Gbps hub ports, and the VisionOwl and cocopar models have dual USB-C. Expect slow charging, since the screen draws first and the laptop shares what is left with the phone."
     }
   ],
   "finalTake": "The Plugable 15.6 inch USB-C monitor is the pass-through portable screen to buy because it is honest about power: 100W in and 85W to the laptop. The ASUS ZenScreen MQ16FC is the OLED upgrade with a burn-in warranty, and the VisionOwl gives the best LCD for the money. The 4K screens are lovely, but they take charging headroom with them.",

@@ -264,11 +264,11 @@
     {"title": "Build and mounting", "description": "Metal housings, desktop and wall mounting options and energy efficiency were compared for long-term reliability."}
   ],
   "whatMatters": [
-    {"factor": "Port speed", "detail": "Switch ports run at gigabit, 2.5 gigabit or 10 gigabit, and each link runs at the slowest device. A 2.5G switch only helps if both ends support it. Check the port speeds on the listing, and verify your NAS, PC and access points have matching ports."},
-    {"factor": "Managed versus unmanaged", "detail": "Unmanaged switches work out of the box with no settings. Managed or smart switches add VLANs, QoS and monitoring. If you want guest or IoT networks separate, look for VLAN support and a stated VLAN count, such as up to 64 on the GS308E."},
-    {"factor": "PoE and power budget", "detail": "PoE switches power devices like cameras over the network cable. The standard, such as 802.3at/af, defines how much per port. Check the total power budget on the product page, which the switch can deliver across all ports at once."},
-    {"factor": "Port count and growth", "detail": "Count how many wired devices you have, then add room to grow. Five ports fills quickly, eight is typical for a home, and 16 or 24 suit offices. Remember that one port often goes to the uplink."},
-    {"factor": "Cabling requirements", "detail": "Gigabit works on Cat5e, 2.5 gigabit also runs on Cat5e for short runs, and 10 gigabit needs better cabling over distance. Check the cable category in your walls and confirm the switch's claims. Poor cabling causes dropped links."}
+    {"factor": "Port speed", "detail": "Switch ports run at gigabit, 2.5 gigabit or 10 gigabit, and each link negotiates down to the slowest device on it. A 2.5G switch like the TL-SG108S-M2 only helps if both ends support it. Check the port speeds on the listing, and verify your NAS, PC and access points have matching ports."},
+    {"factor": "Managed versus unmanaged", "detail": "Unmanaged switches work out of the box with no settings, but they treat every device as equal. Managed or smart switches add VLANs, QoS and monitoring, so a camera or IoT gadget can be fenced off from your laptop. If you want separate guest or IoT networks, look for a stated VLAN count, such as up to 64 on the GS308E."},
+    {"factor": "PoE and power budget", "detail": "PoE switches power devices like cameras and access points over the network cable, so no outlet is needed at the mount point. The standard, such as 802.3at/af on the TL-SG1428PE, defines how much each port can give. The number that bites is the total power budget across all ports at once, so find it on the product page."},
+    {"factor": "Port count and growth", "detail": "Count how many wired devices you have, then add room to grow, since swapping a full switch later means rewiring. Five ports on the GS305 fills quickly, eight is typical for a home, and 16 or 24 suit offices. Remember that one port always goes to the uplink toward your router."},
+    {"factor": "Cabling requirements", "detail": "Gigabit works on Cat5e, 2.5 gigabit also runs on Cat5e for short runs, and 10 gigabit needs better cabling over distance. Cable quality sets the real speed, so a fast switch on old wiring falls back or drops. Check the cable category printed on the jacket or wall plates and confirm the switch's claims."}
   ],
   "howToChoose": [
     {
@@ -332,12 +332,12 @@
     }
   ],
   "faq": [
-    {"q": "Do I need Cat6 cable for a 2.5 gigabit switch?", "a": "Not usually. The TP-Link TL-SG108S-M2 is designed to reach 2.5 Gbps over existing Cat5e wiring, which saves rewiring. For 10 gigabit links on the 10GbE switch, higher quality cable is advisable over longer runs."},
-    {"q": "What is the common mistake when buying a switch?", "a": "Buying by port count and ignoring speed. A 24-port TL-SG1024DE is gigabit only, so a 2.5G NAS will still be capped. Match the ports to your fastest device before checking count."},
-    {"q": "Is the managed GS308E worth it over the GS108?", "a": "For most people yes. It adds up to 64 VLANs, QoS, IGMP snooping and port mirroring in the same eight-port form, while the GS108 is purely plug and play with no tuning."},
+    {"q": "Do I need Cat6 cable for a 2.5 gigabit switch?", "a": "Not usually. The TP-Link TL-SG108S-M2 is designed to reach 2.5 Gbps over existing Cat5e wiring, which saves you from rewiring walls. For the 10 gigabit links on the 10GbE switch, higher quality cable is advisable over longer runs."},
+    {"q": "What is the common mistake when buying a switch?", "a": "Buying by port count and ignoring speed. A 24-port TL-SG1024DE is gigabit only, so a 2.5G NAS plugged into it will still be capped at gigabit. Match the ports to your fastest device first, then check the count."},
+    {"q": "Is the managed GS308E worth it over the GS108?", "a": "For most people yes. It adds up to 64 VLANs, QoS, IGMP snooping and port mirroring in the same eight-port form, while the GS108 is purely plug and play with no tuning. Skip the upgrade only if you will never touch a setting."},
     {"q": "How do I set up VLANs on an easy smart switch?", "a": "Connect to the switch with a browser, open the VLAN page on the GS308E and assign each port to a VLAN. Keep your admin port in the default VLAN so you do not lock yourself out."},
-    {"q": "How do I keep a switch running well?", "a": "Give it airflow, keep cable runs tidy and update firmware on managed units. The metal GS108 dissipates heat well, while the TL-SG1428PE and other PoE models need ventilation."},
-    {"q": "Can I power cameras from a normal switch?", "a": "No. Only PoE switches like the TP-Link TL-SG1428PE send power over the cable. With the GS308E or TL-SG108S-M2 you need a separate power adapter or a PoE injector for each camera."}
+    {"q": "How do I keep a switch running well?", "a": "Give it airflow, keep cable runs tidy and update firmware on managed units such as the GS308E. The metal GS108 case helps shed heat, while the 24-port TL-SG1428PE and other PoE models need open ventilation because powering devices adds warmth."},
+    {"q": "Can I power cameras from a normal switch?", "a": "No. Only PoE switches like the TP-Link TL-SG1428PE send power over the cable. With the GS308E or TL-SG108S-M2 you need a separate power adapter or a PoE injector for each camera, which adds clutter at every mount."}
   ],
   "finalTake": "The NETGEAR GS308E is the best value switch in this ranking, giving you eight gigabit ports with VLANs, QoS and port mirroring for the price of a basic box. Upgrade to the TP-Link TL-SG108S-M2 when your devices are 2.5G, or the TL-SG1428PE when you need PoE for cameras. Choose by the speed and power your devices need, not by port count.",
   "related": []

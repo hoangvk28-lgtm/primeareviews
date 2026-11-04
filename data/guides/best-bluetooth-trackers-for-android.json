@@ -204,11 +204,11 @@
     {"title": "Form factor and pack value", "description": "Round tags, wallet cards and multi-packs were compared on how well each fits real items and what is included."}
   ],
   "whatMatters": [
-    {"factor": "Google Find Hub support", "detail": "Find Hub lets nearby Android phones anonymously relay a tag's location to you, so the tag works far beyond Bluetooth range. Confirm that the listing names Google Find Hub and gives a minimum Android version, such as Android 9 or later, before you buy."},
-    {"factor": "Ring volume", "detail": "Louder alarms are easier to hear through cushions and bags. A 120 dB tag like the Lifemate cuts through noise better than an 80 to 100 dB buzzer. Look for an actual decibel number in the listing, not just a claim of a loud alarm."},
-    {"factor": "Bluetooth range", "detail": "Range is how far your phone can talk to the tag directly, measured in open air. Walls and bodies cut it sharply. Treat 150 m or 350 ft as a best case, and rely on Find Hub's relay network for anything beyond your own home."},
-    {"factor": "Battery type", "detail": "A replaceable CR2032 lasts around a year and is easy to swap, while a rechargeable tag like the UGREEN needs a USB-C top-up. Spare cells in the box, as on the XJQX, avoid the first-year scramble. Check whether the battery is replaceable."},
-    {"factor": "Water and dust protection", "detail": "Keys, bikes and bags get wet. An IP67 or IP68 rating tells you how the tag was sealed, while a vague water-resistant label tells you little. Look for the IP number or a stated test, like Lifemate's 30 minutes at 3 feet."}
+    {"factor": "Google Find Hub support", "detail": "Find Hub lets nearby Android phones anonymously relay a tag's location to you, so the tag works far beyond Bluetooth range and a lost bag across town is still findable. Confirm that the listing names Google Find Hub, as on the Lifemate and MiLi, and gives a minimum Android version such as Android 9 or later."},
+    {"factor": "Ring volume", "detail": "Louder alarms are easier to hear through couch cushions and packed bags, which is where tags usually hide. A 120 dB tag like the Lifemate cuts through noise better than the XJQX's 105 dB or the Ajblg card's 80 to 100 dB buzzer. Look for an actual decibel number in the listing, not just a claim of a loud alarm."},
+    {"factor": "Bluetooth range", "detail": "Range is how far your phone can talk to the tag directly, measured in open air with a clear line of sight. Walls, furniture and bodies cut it sharply because they absorb the radio signal. Treat 150 m or 350 ft as a best case, and rely on Find Hub's relay network for anything beyond your own home."},
+    {"factor": "Battery type", "detail": "A replaceable CR2032 lasts around a year and is easy to swap, while a rechargeable tag like the UGREEN needs a USB-C top-up and goes dark if you forget. Spare cells in the box, as on the XJQX, avoid the first-year scramble. Check whether the battery is replaceable or sealed in."},
+    {"factor": "Water and dust protection", "detail": "Keys, bikes and bags get rained on, and a tag that fails when wet fails when you need it. An IP67 or IP68 rating shows how the tag was sealed, as on the MiLi and Ajblg, while a vague water-resistant label tells you little. Look for the IP number or a stated test, like Lifemate's 30 minutes at 3 feet."}
   ],
   "howToChoose": [
     {
@@ -273,7 +273,7 @@
   ],
   "faq": [
     {"q": "Do these trackers work on any Android phone?", "a": "Most listings require Android 9 or later for Google Find Hub, including the Lifemate, MiLi and Ajblg. The Life360 Tile uses its own app, so it has different requirements. Check your phone's Android version in Settings before buying."},
-    {"q": "What is the common mistake with Android trackers?", "a": "Buying an Apple-only tag, or an Android-only card for an iPhone. The Ajblg card explicitly says it does not support iOS, and the Lifemate is built for Android, so read the supported platform first."},
+    {"q": "What is the common mistake with Android trackers?", "a": "Buying an Apple-only tag, or an Android-only card for an iPhone. The Ajblg card explicitly says it does not support iOS, and the Lifemate is built for Android, so read the supported platform first. The UGREEN is the one tag here that supports either network."},
     {"q": "Is the Lifemate worth it over cheaper packs?", "a": "Yes if you want loudness and documented durability. It reaches 120 dB and lists a 30 minute, 3 foot water test, while the XJQX two-pack tops out at 105 dB with no water rating given."},
     {"q": "How do I set up a Find Hub tracker?", "a": "Insert the battery or power the tag, open Google Find Hub on your phone and follow the pairing prompt. The MiLi and Lifemate use this flow, and you can then ring the tag or see its last known location."},
     {"q": "How often should I replace the battery?", "a": "The MiLi's CR2032 is rated up to a year, and the XJQX ships with spare cells. For the UGREEN rechargeables, plug into USB-C about once a year. Check battery status in the app before long trips."},

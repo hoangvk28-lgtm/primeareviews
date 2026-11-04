@@ -20,3 +20,9 @@ best-easy-to-use-carpet-cleaners	facts state no ease-of-use attribute; only upri
 best-carpet-cleaners-for-apartments	facts state no apartment attribute (size, weight, noise); only upright/portable type
 best-steam-mops-for-tile-floors	only 4 products state tile in name or facts (Bissell 1806, Bissell 1940A, Wotaste, Black+Decker 1500W)
 best-usb-c-ethernet-adapters-for-macbook-pro	facts state Mac compatibility on only 2-3 adapters; no MacBook Pro attribute on the rest
+best-steam-mops-for-vinyl-floors	only 1 product states vinyl in name or facts
+best-usb-c-laptop-charging-carts	only 2 actual carts; rest are desktop chargers
+best-steam-mops-for-seniors	facts state no senior-specific attribute (weight, handle, controls)
+best-usb-c-to-2-5gbe-ethernet-adapters-under-30	only 3 products have a priceBucket entirely under $30
+best-digital-photo-frames-with-usb-and-sd-card-support	only 3 products state USB or SD card support
+best-ergonomic-keyboards-for-small-hands	lineup duplicates best-compact-ergonomic-keyboards

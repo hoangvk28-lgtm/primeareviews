@@ -1,0 +1,284 @@
+{
+  "slug": "best-sdi-video-switchers",
+  "category": "home-living",
+  "h1": "The 6 Best SDI Video Switchers of 2026, Ranked & Reviewed",
+  "metaTitle": "Best SDI Video Switchers: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 6 SDI video switchers scored on SDI input count, streaming, ISO recording and control, from a basic 4x1 to ATEM Extreme ISO.",
+  "mainKeyword": "SDI video switcher",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41wjrd9aanL._SL500_.jpg",
+  "summary": "The Blackmagic Design ATEM SDI Extreme ISO is the SDI switcher to buy for serious multi-camera work: eight 3G-SDI inputs, 10-bit HD switching and direct internet streaming. The Osee GoStream Duet 8 ISO matches it with four SDI and four 4K HDMI inputs. For a simple signal selector, the Wiistar 4x1 does one job for under $100. The rest depends on how many cameras you run.",
+  "intro": [
+    "The usual SDI buying error is counting inputs and ignoring what the switcher does with them. A box with four SDI ports that only selects one at a time is a router, not a production switcher, and the gap in price reflects it. Real switchers add transitions, keying, recording of each camera and a way to stream, and which of those you need decides the right model.",
+    "We ranked six SDI switchers on the Primea framework, from a plain 4x1 selector to an eight-input streaming production unit. Scores weigh SDI input count, whether the unit streams or records, the control options, the build and the fit for small crews. Several listings are short on detail, so we mark what the page states and tell you what to verify before ordering."
+  ],
+  "products": [
+    {
+      "id": "blackmagic-design-atem-sdi-extreme-iso-live-stream-switcher",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Blackmagic Design ATEM SDI Extreme ISO Live Stream Switcher Bundle with 8' Cable",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/518LfETB9YL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BBXSS8GX?tag=primeareviews-amz-20",
+      "verdict": "Eight 3G-SDI inputs, 10-bit HD switching and internet streaming. The most capable switcher here.",
+      "description": "The ATEM SDI Extreme ISO is described as feature rich, with eight 3G-SDI inputs, 10-bit HD switching and multicamera live streaming to the internet. This listing is a bundle that includes an 8 foot cable, and it sits in the $500 and up bracket.\n\nIt takes first place for input count and scope. Eight SDI inputs cover a church, a classroom or a multi-camera event without adding a second box, and the ISO naming points to separate recording of camera feeds, which the Osee below also lists. Against the ATEM SDI Pro ISO, you get twice the inputs on paper. The Pro ISO tops out at four.\n\nA fit for crews running several cameras. The caveat is that the listing gives few details on outputs and recording, so verify them before you buy.",
+      "keySpecs": [
+        {"label": "SDI inputs", "value": "8 x 3G-SDI"},
+        {"label": "Switching", "value": "10-bit HD"},
+        {"label": "Streaming", "value": "Multicamera to the internet"},
+        {"label": "Bundle", "value": "Includes 8 ft cable"}
+      ],
+      "pros": [
+        "Eight 3G-SDI inputs",
+        "10-bit HD switching",
+        "Live streams to the internet",
+        "Cable included in bundle"
+      ],
+      "cons": [
+        "Top of the price range",
+        "Output details thin on listing",
+        "Overkill for two cameras"
+      ],
+      "idealFor": "Multi-camera event, church and classroom crews who need many SDI inputs.",
+      "skipIf": "You only use one or two cameras."
+    },
+    {
+      "id": "osee-gostream-duet-8-iso-live-streaming-video-switcher",
+      "rank": 2,
+      "award": "Best Mixed SDI and HDMI",
+      "name": "Osee GoStream Duet 8 ISO Live Streaming Video Switcher",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ojzbvXqAL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F28ZL6F2?tag=primeareviews-amz-20",
+      "verdict": "Four 4K HDMI plus four SDI inputs, clean ISO recording and hardware RTMP streaming.",
+      "description": "Osee's Duet 8 ISO features four 4K HDMI inputs and four physical SDI inputs. The listing says it records clean individual feeds from every source and streams directly from the hardware over RTMP to major platforms. It sits in the $500 and up bracket.\n\nThe mix of input types is the draw. Many small productions use SDI on long cable runs and HDMI for a laptop or a mirrorless camera nearby, and this box takes both without converters. It ranks second behind the ATEM Extreme because it offers four SDI inputs against the ATEM's eight, so it fits fewer SDI-only rigs.\n\nBest for a studio mixing broadcast-style SDI cameras and HDMI sources. The caveat is that only four of the eight inputs are SDI.",
+      "keySpecs": [
+        {"label": "SDI inputs", "value": "4 physical"},
+        {"label": "HDMI inputs", "value": "4 x 4K"},
+        {"label": "Recording", "value": "Clean ISO feeds"},
+        {"label": "Streaming", "value": "Hardware RTMP"}
+      ],
+      "pros": [
+        "Four SDI and four 4K HDMI",
+        "Records clean individual feeds",
+        "Direct hardware RTMP streaming",
+        "Mixes camera types without converters"
+      ],
+      "cons": [
+        "Only four SDI inputs",
+        "Top price bracket",
+        "Less SDI scale than the ATEM"
+      ],
+      "idealFor": "Studios mixing SDI cameras with HDMI sources in one box.",
+      "skipIf": "You need more than four SDI inputs."
+    },
+    {
+      "id": "blackmagic-design-atem-sdi-pro-iso-live-stream-switcher",
+      "rank": 3,
+      "award": "Best Mid-Range ATEM",
+      "name": "Blackmagic Design ATEM SDI Pro ISO Live Stream Switcher (SWATEMMXEPBPRISO)",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41mwY2Lj+JL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B776W3XR?tag=primeareviews-amz-20",
+      "verdict": "Four 3G-SDI inputs and direct ethernet streaming. The sensible ATEM for smaller productions.",
+      "description": "The ATEM SDI Pro ISO offers four 3G-SDI inputs and lets you stream directly via ethernet. The listing also points to built-in production management. It falls in the $500 and up bracket.\n\nIt is the sensible half-step down from the Extreme. You keep the ATEM approach and the streaming, but with four SDI inputs instead of eight, which is enough for most two-to-three camera shoots. It ranks third because the Extreme gives you headroom for the same family of controls, and the Osee Duet 8 ISO adds HDMI. The listing also gives fewer details than we would like.\n\nA fit for small crews who want ATEM streaming. The caveat is that four inputs leave no room to grow.",
+      "keySpecs": [
+        {"label": "SDI inputs", "value": "4 x 3G-SDI"},
+        {"label": "Streaming", "value": "Direct via ethernet"},
+        {"label": "Family", "value": "Blackmagic ATEM"},
+        {"label": "Model", "value": "SWATEMMXEPBPRISO"}
+      ],
+      "pros": [
+        "Four 3G-SDI inputs",
+        "Streams directly over ethernet",
+        "Same ATEM family as Extreme",
+        "Production management built in"
+      ],
+      "cons": [
+        "No room beyond four inputs",
+        "Listing detail is limited",
+        "No HDMI inputs listed"
+      ],
+      "idealFor": "Small crews running two or three SDI cameras with streaming.",
+      "skipIf": "You expect to add more cameras later."
+    },
+    {
+      "id": "blackmagic-design-atem-sdi-live-production-switcher",
+      "rank": 4,
+      "award": "Best Ethernet Control",
+      "name": "Blackmagic Design ATEM SDI Live Production Switcher (SWATEMMXEP)",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41157E0RoFL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B778GH27?tag=primeareviews-amz-20",
+      "verdict": "A broadcast-style SDI switcher with ethernet control and a USB-C 2.0 interface.",
+      "description": "The ATEM SDI Live Production Switcher is described as delivering pristine broadcast visuals from SDI inputs, with ethernet control and a USB Type-C 2.0 interface. It is in the $200 to $500 bucket, below the ISO models.\n\nThe lower price is the point. This is the cheaper ATEM, with the same family of controls and no ISO tag in its name, which suggests it does not record individual feeds the way its siblings do. That keeps it fourth. Ethernet control lets a laptop or a hardware panel run the switching, a useful option for a crew that wants the operator away from the rack.\n\nA fit for a live production that needs switching but not isolated recordings. The caveat is that the listing gives a short feature list, so check recording and streaming support before ordering.",
+      "keySpecs": [
+        {"label": "Inputs", "value": "SDI"},
+        {"label": "Control", "value": "Ethernet"},
+        {"label": "Interface", "value": "USB Type-C 2.0"},
+        {"label": "Model", "value": "SWATEMMXEP"}
+      ],
+      "pros": [
+        "Robust ethernet control",
+        "USB Type-C 2.0 interface",
+        "Lower $200 to $500 bucket",
+        "Broadcast-style SDI switching"
+      ],
+      "cons": [
+        "No ISO recording named",
+        "Streaming not highlighted",
+        "Short listing detail"
+      ],
+      "idealFor": "Live productions that need switching and remote control without ISO recording.",
+      "skipIf": "You must record each camera separately."
+    },
+    {
+      "id": "osee-gostream-duet-multiple-camera-sdi-and-hdmi-live-stream-video-mixer-switcher",
+      "rank": 5,
+      "award": "Best Value Hybrid",
+      "name": "Osee GoStream Duet Multiple Camera SDI and HDMI Live Stream Video Mixer Switcher",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41wjrd9aanL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CZ98YVY3?tag=primeareviews-amz-20",
+      "verdict": "A multi-camera SDI and HDMI live stream mixer with key effects and several control methods.",
+      "description": "Osee's GoStream Duet is a multiple camera SDI and HDMI live stream mixer. The listing highlights an enriched input selection, multiple control methods, and a rich set of key effects and transitions. Pricing is in the $200 to $500 range.\n\nFifth place follows from how much it asks you to take the mixer features on trust. The listing gives no input counts or streaming specifications, so it is harder to place against the Duet 8 ISO, which prints four SDI and four HDMI inputs. What it offers is a lower price than the ISO model, along with the same hybrid SDI and HDMI approach and a strong set of effects.\n\nChoose it for a smaller hybrid setup. The caveat is the missing input count.",
+      "keySpecs": [
+        {"label": "Inputs", "value": "SDI and HDMI"},
+        {"label": "Control", "value": "Multiple methods"},
+        {"label": "Effects", "value": "Key effects and transitions"},
+        {"label": "Use", "value": "Live stream mixer"}
+      ],
+      "pros": [
+        "Takes SDI and HDMI",
+        "Key effects and transitions",
+        "Multiple control methods",
+        "Lower $200 to $500 bucket"
+      ],
+      "cons": [
+        "Input counts not stated",
+        "No recording details listed",
+        "Less documented than Duet 8 ISO"
+      ],
+      "idealFor": "Smaller hybrid setups that mix SDI and HDMI cameras.",
+      "skipIf": "You need to know the exact input count before buying."
+    },
+    {
+      "id": "wiistar-4x1-3gb-s-sdi-switcher-with-reclock-technology",
+      "rank": 6,
+      "award": "Best Budget Selector",
+      "name": "Wiistar 4x1 3Gb/s SDI Switcher with ReClock Technology",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ZRw3J5KAL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B012F9YM4I?tag=primeareviews-amz-20",
+      "verdict": "A four-in, one-out SDI selector that auto-switches between SD, HD and 3G-SDI. A router, not a mixer.",
+      "description": "Wiistar's 4x1 takes four SDI inputs to one output and switches automatically between SD, HD and 3G-SDI signals. It supports multiple video resolutions and uses ReClock technology to regenerate the signal. Expect to spend $50 to $100.\n\nLast place is down to category, not quality. There are no transitions, no streaming and no recording, so it cannot replace the ATEM or Osee units above. As a plain four-to-one selector for a monitor, a recorder or a projector, though, it is the cheapest way to choose between SDI sources, and the signal regeneration helps keep long cable runs clean.\n\nBest for someone who needs to pick among SDI feeds without production features. The caveat is that it cannot mix, record or stream.",
+      "keySpecs": [
+        {"label": "Inputs", "value": "4 x SDI"},
+        {"label": "Output", "value": "1 x SDI"},
+        {"label": "Formats", "value": "SD, HD and 3G-SDI auto-switch"},
+        {"label": "Feature", "value": "ReClock regeneration"}
+      ],
+      "pros": [
+        "Cheapest SDI switcher here",
+        "Auto-switches SD, HD and 3G",
+        "ReClock signal regeneration",
+        "Simple four-in, one-out"
+      ],
+      "cons": [
+        "No streaming or recording",
+        "No transitions or effects",
+        "Selector, not a production mixer"
+      ],
+      "idealFor": "Anyone who needs to choose among SDI feeds on a tight budget.",
+      "skipIf": "You want to cut between cameras with transitions or stream."
+    }
+  ],
+  "methodology": [
+    {"title": "SDI input count", "description": "We compared the stated SDI inputs, from four to eight, against typical camera counts."},
+    {"title": "Streaming and recording", "description": "Direct ethernet or RTMP streaming and ISO recording separate production switchers from selectors."},
+    {"title": "Control options", "description": "Ethernet, USB and on-unit control affect how an operator runs the switcher."},
+    {"title": "Input mix", "description": "Units that take both SDI and HDMI suit mixed rigs, so we credited hybrids."},
+    {"title": "Listing clarity", "description": "Several listings omit specs, so we scored stated detail and flagged gaps."}
+  ],
+  "whatMatters": [
+    {"factor": "SDI input count", "detail": "Each camera needs its own input, and extra inputs leave room for graphics or a laptop. The ATEM Extreme lists eight 3G-SDI inputs, the Pro ISO four, and the Wiistar four in and one out. Count your cameras today, add two for growth, and check the listing states a number, because a graphics laptop or a replay source also needs a port."},
+    {"factor": "ISO recording", "detail": "ISO means each camera feed is recorded separately alongside the program, so you can re-edit later. The Osee Duet 8 ISO says it records clean feeds from all sources, and the ATEM units carry ISO in their names. Look for explicit wording about recording individual inputs, not just a general record function, because only separate files let you fix a bad cut afterward in an editor."},
+    {"factor": "Streaming output", "detail": "Direct hardware streaming means the switcher sends video to a platform without a computer in between. The Osee lists hardware RTMP, and the ATEM Pro ISO lists streaming over ethernet. Check that the listing names the streaming method, and remember a stable wired connection matters more than the switcher, so test your upload speed at the venue before the event day."},
+    {"factor": "Control method", "detail": "Switchers run from the front panel, a computer over ethernet, a USB link or a hardware controller. The ATEM SDI lists ethernet control and USB Type-C 2.0, and the Osee Duet lists multiple methods. Decide who operates the unit and from where, then look for the interface that fits, since a switcher with no remote option forces the operator to sit beside the rack."},
+    {"factor": "Signal formats", "detail": "SDI comes in SD, HD and 3G flavours, and a switcher must support the one your cameras output. The Wiistar auto-switches among all three and the ATEM Extreme lists 10-bit HD. Check your camera's SDI output format against the listing, and note that 4K may need different hardware, so confirm the resolution before cabling a whole venue around one model."}
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Camera Count",
+      "intro": "Count your SDI cameras first. It narrows the field faster than any feature.",
+      "table": {
+        "headers": ["SDI cameras", "Our pick"],
+        "rows": [
+          ["Up to 4 SDI, selection only", "Wiistar 4x1 3Gb/s SDI Switcher with ReClock Technology"],
+          ["Up to 4 SDI, with streaming", "Blackmagic Design ATEM SDI Pro ISO Live Stream Switcher (SWATEMMXEPBPRISO)"],
+          ["4 SDI plus 4 HDMI", "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"],
+          ["Up to 8 SDI", "Blackmagic Design ATEM SDI Extreme ISO Live Stream Switcher Bundle with 8' Cable"]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": ["Spend", "Our pick"],
+        "rows": [
+          ["$50 to $100", "Wiistar 4x1 3Gb/s SDI Switcher with ReClock Technology"],
+          ["$200 to $500, ATEM", "Blackmagic Design ATEM SDI Live Production Switcher (SWATEMMXEP)"],
+          ["$200 to $500, hybrid", "Osee GoStream Duet Multiple Camera SDI and HDMI Live Stream Video Mixer Switcher"],
+          ["$500 and up", "Blackmagic Design ATEM SDI Extreme ISO Live Stream Switcher Bundle with 8' Cable"]
+        ]
+      }
+    },
+    {
+      "subheading": "Production Switcher vs Selector",
+      "cards": [
+        {"label": "Production switcher", "text": "The ATEM and Osee units offer transitions, effects, streaming and recording, so one operator runs the show."},
+        {"label": "Selector", "text": "The Wiistar 4x1 only chooses which SDI source reaches the output, with no effects, at a far lower price."}
+      ],
+      "note": "Default to a production switcher if you cut between cameras live; take the selector only for monitoring."
+    },
+    {
+      "subheading": "By Streaming Need",
+      "table": {
+        "headers": ["Streaming need", "Our pick"],
+        "rows": [
+          ["Direct RTMP from the hardware", "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"],
+          ["Direct over ethernet", "Blackmagic Design ATEM SDI Pro ISO Live Stream Switcher (SWATEMMXEPBPRISO)"],
+          ["Multicamera internet streaming", "Blackmagic Design ATEM SDI Extreme ISO Live Stream Switcher Bundle with 8' Cable"],
+          ["No streaming needed", "Wiistar 4x1 3Gb/s SDI Switcher with ReClock Technology"]
+        ]
+      }
+    },
+    {
+      "subheading": "For Small Church and Event Crews Specifically",
+      "cards": [
+        {"label": "Look for", "text": "Enough SDI inputs for every camera, ethernet control for a remote operator and streaming that does not need a computer."},
+        {"label": "In this ranking", "text": "The ATEM SDI Pro ISO covers two to three cameras and streams over ethernet; the Extreme covers larger rigs."}
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {"label": "Spend more if", "text": "You need many SDI inputs or isolated recording, which points to the ATEM Extreme ISO or the Osee Duet 8 ISO."},
+        {"label": "Save if", "text": "You only select a feed; the Wiistar 4x1 does it for under $100."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Do these switchers handle 4K?", "a": "The listings are mixed. The Osee Duet 8 ISO names four 4K HDMI inputs, while the ATEM SDI models describe HD and 3G-SDI. Check the resolution on the specific input you plan to use."},
+    {"q": "What is the most common mistake?", "a": "Buying a selector when you need a mixer. The Wiistar 4x1 only chooses a source, so you cannot dissolve between cameras or add graphics. If you cut live, start with an ATEM or Osee."},
+    {"q": "Is the ATEM Extreme worth it over the Pro ISO?", "a": "Only if you need more than four cameras. The Extreme lists eight 3G-SDI inputs, while the Pro ISO lists four and costs less. For a two or three camera shoot the Pro ISO covers it."},
+    {"q": "How do I connect cameras to an SDI switcher?", "a": "Use BNC cables rated for your signal, connect each camera to an input and set the output format to match. For the Osee Duet 8 ISO, HDMI cameras go to the HDMI inputs instead."},
+    {"q": "How do I keep the unit running reliably?", "a": "Keep vents clear, use quality BNC cables and update firmware only between events. The Wiistar's ReClock helps long runs, and the ATEM units benefit from a wired ethernet link when streaming."},
+    {"q": "Can I stream without a computer?", "a": "Yes with some models. The Osee Duet 8 ISO streams over hardware RTMP and the ATEM SDI Pro ISO streams via ethernet. You still need a stable network connection and a destination platform account."}
+  ],
+  "finalTake": "The Blackmagic Design ATEM SDI Extreme ISO earns first place with eight 3G-SDI inputs, 10-bit HD switching and internet streaming. The Osee GoStream Duet 8 ISO is the pick for mixed SDI and HDMI rigs, and the ATEM SDI Pro ISO fits smaller crews. Use the Wiistar only as a selector, and verify gaps on the sparse listings first.",
+  "related": []
+}
