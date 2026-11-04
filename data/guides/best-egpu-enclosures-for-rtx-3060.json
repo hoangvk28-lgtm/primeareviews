@@ -1,0 +1,547 @@
+{
+  "slug": "best-egpu-enclosures-for-rtx-3060",
+  "category": "tech-accessories",
+  "h1": "The 8 Best eGPU Enclosures and Docks for an RTX 3060, Ranked & Reviewed",
+  "metaTitle": "eGPU Enclosures for RTX 3060: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 8 eGPU enclosures and docks for an RTX 3060, scored on power options, controller, handheld PC support and card clearance.",
+  "mainKeyword": "egpu enclosures for rtx 3060",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41y+ttUJO7L._SL500_.jpg",
+  "summary": "The ORARA 750W enclosure is the safest all-in-one home for an RTX 3060, with a supply that handles the card with room to spare. The ANQUORA ANQ-L336 is the best compact dock for handheld PCs, with confirmed ROG Ally X and MSI Claw 8 support, and the External eGPU Enclosure with a 240W supply is the portable choice for a short travel kit.",
+  "intro": [
+    "An RTX 3060 is the friendliest card in eGPU land. It draws roughly 170 watts, fits in most cases, and does not need Thunderbolt 5 to be worthwhile. That frees you to choose on other grounds: how portable the box is, whether it can charge your laptop, and whether the maker has bothered to confirm compatibility with the handheld or ultrabook you actually own.",
+    "Eight boxes and docks are ranked here, from a full 750W enclosure to bare docks that accept your own power supply. Scoring covers power flexibility, controller, link speed, portability and compatibility notes. A 40Gbps Thunderbolt link will hold back a 3060 somewhat, but less than it holds back faster cards."
+  ],
+  "products": [
+    {
+      "id": "orara-egpu-enclosure-thunderbolt-750w-psu-3060",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41y+ttUJO7L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-20",
+      "verdict": "A 750W supply that leaves a 3060 hugely overpowered in headroom, with a JHL7440 controller.",
+      "description": "The ORARA ships with a 750W supply and a JHL7440 controller, supporting a 32Gbps daisy chain over Thunderbolt 3, 4 and USB4. Its card bay measures 13.7 inches long, 6.17 tall and 2.3 thick, so triple-slot designs are out.\n\nFor a 3060, the supply is more than enough, and nearly every 3060 is a two-slot card that fits the clearance. It wins because it is complete: no extra supply to source, no case to find. The 750W unit is overkill, so you are paying for headroom you will not use, which is the reason to look at smaller options if cost matters.\n\nBuy it if you want a no-fuss box that will accept a bigger card later. Skip it if you want something small and cheap.",
+      "keySpecs": [
+        {
+          "label": "Supply",
+          "value": "750W included"
+        },
+        {
+          "label": "Controller",
+          "value": "JHL7440, 32Gbps daisy chain"
+        },
+        {
+          "label": "Card limit",
+          "value": "13.7 x 6.17 x 2.3 in"
+        },
+        {
+          "label": "Link",
+          "value": "Thunderbolt 3/4, USB4"
+        }
+      ],
+      "pros": [
+        "Supply included, nothing to source",
+        "Fits nearly every 3060",
+        "Room to upgrade the card",
+        "Daisy chain support"
+      ],
+      "cons": [
+        "More supply than a 3060 needs",
+        "Not travel sized"
+      ],
+      "idealFor": "A simple home eGPU that can grow.",
+      "skipIf": "You need a pocketable box."
+    },
+    {
+      "id": "anquora-anq-l336-mini-egpu-enclosure",
+      "rank": 2,
+      "award": "Best for Handheld PCs",
+      "name": "ANQUORA ANQ-L336 Mini eGPU Enclosure, 40Gbps Thunderbolt 3/4 USB4",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/31AuNRvMSIL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D6BVGCR5?tag=primeareviews-20",
+      "verdict": "A mini dock with confirmed ROG Ally X and MSI Claw 8 support and flexible power options.",
+      "description": "The ANQUORA ANQ-L336 uses a JHL7440 controller delivering 32Gbps through PCIe 4.0 x4, with confirmed ROG Ally X and MSI Claw 8 support, and accepts ATX, SFX, FLEX or DC power.\n\nConfirmed compatibility is rare in this category, and handheld gaming PCs are among the fussiest hosts. It ranks second because it needs a separately sourced power supply, so the total cost and build effort is higher than the ORARA's.\n\nBuy it if you game on a handheld and want a proven pairing. Skip it if you want a finished box.",
+      "keySpecs": [
+        {
+          "label": "Controller",
+          "value": "JHL7440, PCIe 4.0 x4"
+        },
+        {
+          "label": "Compatibility",
+          "value": "ROG Ally X, MSI Claw 8"
+        },
+        {
+          "label": "Power",
+          "value": "ATX, SFX, FLEX, DC"
+        },
+        {
+          "label": "Link",
+          "value": "40Gbps Thunderbolt 3/4, USB4"
+        }
+      ],
+      "pros": [
+        "Confirmed handheld compatibility",
+        "Flexible power inputs",
+        "Compact dock",
+        "Modern JHL7440 controller"
+      ],
+      "cons": [
+        "Needs a separate supply",
+        "No case included"
+      ],
+      "idealFor": "Handheld PC gamers adding a desktop GPU.",
+      "skipIf": "You want a sealed box."
+    },
+    {
+      "id": "external-egpu-enclosure-240w-psu-thunderbolt-4-3-usb4",
+      "rank": 3,
+      "award": "Best Travel Kit",
+      "name": "External eGPU Enclosure with 240W PSU, Thunderbolt 4/3 & USB4",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/41YkxL-oc1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0G48YDLBR?tag=primeareviews-20",
+      "verdict": "A 240W supply, a carrying case and dual Thunderbolt ports with 85W and 15W power delivery.",
+      "description": "This enclosure includes a 240W supply and a carrying case, supports GPUs up to 205 by 150 by 55mm, and has dual Thunderbolt ports with 85W and 15W power delivery.\n\nA 240W supply is the right size for a 3060, which draws around 170W, leaving a modest margin. Because it includes a carrying case, it is the one that makes sense in a laptop bag. The 55mm height limit means a slim, two-slot card only. It ranks third because the margin leaves no room for a more powerful card later.\n\nBuy it if you travel with your GPU. Skip it if you may upgrade to a power-hungry card.",
+      "keySpecs": [
+        {
+          "label": "Supply",
+          "value": "240W included"
+        },
+        {
+          "label": "Card limit",
+          "value": "205 x 150 x 55mm"
+        },
+        {
+          "label": "Ports",
+          "value": "Dual TB, 85W and 15W PD"
+        },
+        {
+          "label": "Extra",
+          "value": "Carrying case"
+        }
+      ],
+      "pros": [
+        "Right-sized 240W supply",
+        "Carrying case included",
+        "85W laptop charging",
+        "Portable footprint"
+      ],
+      "cons": [
+        "Small card limit",
+        "No headroom for bigger cards"
+      ],
+      "idealFor": "Travelling with a slim 3060.",
+      "skipIf": "You plan to upgrade the card."
+    },
+    {
+      "id": "maskedfish-egpu-enclosure-thunderbolt-mk-l18-3060",
+      "rank": 4,
+      "award": "Best Open Frame",
+      "name": "Maskedfish eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps PD 85W Charging (MK-L18)",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/41MxyXo6D4L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DGV1YPZZ?tag=primeareviews-20",
+      "verdict": "An open frame with PCIe 4.0 x16 mode and 85W charging that takes any card length.",
+      "description": "The MK-L18 uses JHL7540 or JHL7440 controllers in PCIe 4.0 x16 mode, has 85W PD charging and dual Thunderbolt ports, and its open frame has no GPU length limit.\n\nIt makes sense for a 3060 because the card is easy to power from a small supply, and an open frame stays cool without fans. It ranks fourth because it lists no included supply and gives a bare setup experience.\n\nBuy it if you have a spare supply and like tinkering. Skip it if you want an enclosed unit.",
+      "keySpecs": [
+        {
+          "label": "Controller",
+          "value": "JHL7540/7440, x16 mode"
+        },
+        {
+          "label": "Charging",
+          "value": "85W PD"
+        },
+        {
+          "label": "Ports",
+          "value": "Dual Thunderbolt"
+        },
+        {
+          "label": "Frame",
+          "value": "Open, no length limit"
+        }
+      ],
+      "pros": [
+        "Any card length fits",
+        "85W laptop charging",
+        "Runs cool in open air",
+        "Reasonable price bracket"
+      ],
+      "cons": [
+        "No supply listed",
+        "Exposed card collects dust"
+      ],
+      "idealFor": "Tinkerers with a spare supply.",
+      "skipIf": "You want a closed box."
+    },
+    {
+      "id": "vikinyee-thunderbolt-egpu-enclosure-vk-y900-3060",
+      "rank": 5,
+      "award": "Best Board Quality",
+      "name": "VIKINYEE Thunderbolt 3/4 eGPU Enclosure USB4 (VK-Y900)",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41HiGEZkv9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F138HBVF?tag=primeareviews-20",
+      "verdict": "An ENIG-plated board with JHL7440/7450 controllers and dual Thunderbolt ports with 85W charging.",
+      "description": "The VK-Y900 uses JHL7440 or JHL7450 controllers on an ENIG-plated board, with dual Thunderbolt ports at 15W and 85W PD and support for newer RTX 50 and RX 9000 cards.\n\nENIG plating protects contacts from corrosion, which suggests care in the manufacture. For a 3060 it is a capable base. It ranks fifth because the listing omits supply and clearance details.\n\nBuy it if you want a quality board for a DIY build. Skip it if you want a finished enclosure.",
+      "keySpecs": [
+        {
+          "label": "Controller",
+          "value": "JHL7440/7450"
+        },
+        {
+          "label": "Board",
+          "value": "ENIG PCB"
+        },
+        {
+          "label": "Charging",
+          "value": "15W and 85W PD"
+        },
+        {
+          "label": "GPU support",
+          "value": "RTX 50, RX 9000"
+        }
+      ],
+      "pros": [
+        "ENIG-plated board",
+        "Dual Thunderbolt ports",
+        "85W charging",
+        "Wide card support"
+      ],
+      "cons": [
+        "No supply listed",
+        "Clearance not stated"
+      ],
+      "idealFor": "DIY builders who value board quality.",
+      "skipIf": "You want a closed unit."
+    },
+    {
+      "id": "mini-egpu-enclosure-thunderbolt-3-4-usb4-40gbps-external-gpu-dock",
+      "rank": 6,
+      "award": "Best Documented Compatibility",
+      "name": "Mini eGPU Enclosure Thunderbolt 3/4, USB4 40Gbps External GPU Dock",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/41GKymiTpVL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CZDSSVKK?tag=primeareviews-20",
+      "verdict": "A JHL7440 mini dock with a pre-purchase compatibility check and SFX, ATX, FLEX and DC power support.",
+      "description": "This mini dock uses a JHL7440 controller, supports SFX, ATX, FLEX and DC power, and offers a detailed pre-purchase compatibility check.\n\nThe compatibility check saves returns, since eGPU problems usually come from laptop firmware, not the dock. It ranks sixth because it is a bare dock with no host list in our data.\n\nBuy it if you want to confirm compatibility before ordering. Skip it if you need a complete kit.",
+      "keySpecs": [
+        {
+          "label": "Controller",
+          "value": "JHL7440"
+        },
+        {
+          "label": "Power",
+          "value": "SFX, ATX, FLEX, DC"
+        },
+        {
+          "label": "Link",
+          "value": "Thunderbolt 3/4, USB4, 40Gbps"
+        },
+        {
+          "label": "Extra",
+          "value": "Pre-purchase compatibility check"
+        }
+      ],
+      "pros": [
+        "Compatibility check offered",
+        "Multiple power inputs",
+        "Compact dock",
+        "Mid price bracket"
+      ],
+      "cons": [
+        "Bare dock only",
+        "Host list not in listing"
+      ],
+      "idealFor": "Cautious buyers who want to verify fit.",
+      "skipIf": "You want a finished box."
+    },
+    {
+      "id": "external-gpu-dock-station-mini-egpu-enclosure-thunderbolt-3060",
+      "rank": 7,
+      "award": "Best Dock and Hub Combo",
+      "name": "External GPU Dock Station, Mini eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/31VsKLDnacL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D2V5YFMH?tag=primeareviews-20",
+      "verdict": "A JHL7440 dock that also acts as a USB-A and Thunderbolt 4 hub.",
+      "description": "This dock accepts ATX, SFX, FLEX or DC 12V power, uses a JHL7440 controller with a 32Gbps daisy chain, and also works as a USB-A and Thunderbolt 4 hub.\n\nThe hub function means one cable can serve both the graphics card and peripherals. It ranks seventh because it ships without a supply or case and gives no clearance data.\n\nBuy it if you want a graphics dock that doubles as a hub. Skip it if you prefer a full kit.",
+      "keySpecs": [
+        {
+          "label": "Power",
+          "value": "ATX, SFX, FLEX, DC 12V"
+        },
+        {
+          "label": "Controller",
+          "value": "JHL7440, 32Gbps"
+        },
+        {
+          "label": "Hub",
+          "value": "USB-A and Thunderbolt 4"
+        },
+        {
+          "label": "Bracket",
+          "value": "$100 to $200"
+        }
+      ],
+      "pros": [
+        "Acts as a hub too",
+        "Accepts several supply types",
+        "Compact",
+        "Daisy chain support"
+      ],
+      "cons": [
+        "No supply or case",
+        "Clearance not given"
+      ],
+      "idealFor": "One-cable desk setups.",
+      "skipIf": "You want a complete kit."
+    },
+    {
+      "id": "pcie-3-0-x16-22gbps-egpu-dock-with-thunderbolt-4-cable",
+      "rank": 8,
+      "award": "Cheapest Entry Dock",
+      "name": "PCIE 3.0 x16 22Gbps eGPU Dock with Thunderbolt 4 Cable",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/512E9HNnCGL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FGJLL4L1?tag=primeareviews-20",
+      "verdict": "A JHL6340 dock at about 22Gbps with four power inputs and confirmed Legion Go compatibility.",
+      "description": "This dock uses a JHL6340 controller for roughly 22Gbps transfer and offers 4 power input options: CPU, Molex, PD and DC5521. It lists confirmed Legion Go compatibility and sits in the $50 to $100 bracket.\n\nThe controller is older and slower than the JHL7440 docks, so a 3060 loses more performance. It earns a spot because it is the cheapest way in, and it names the Legion Go. It ranks last because 22Gbps is about half the link of the leaders.\n\nBuy it if you want the lowest-cost entry for a Legion Go. Skip it if you want full bandwidth.",
+      "keySpecs": [
+        {
+          "label": "Controller",
+          "value": "JHL6340, about 22Gbps"
+        },
+        {
+          "label": "Power inputs",
+          "value": "CPU, Molex, PD, DC5521"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Legion Go confirmed"
+        },
+        {
+          "label": "Bracket",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Lowest price bracket",
+        "Four power input options",
+        "Legion Go confirmed",
+        "Thunderbolt 4 cable included"
+      ],
+      "cons": [
+        "Only about 22Gbps",
+        "Older controller"
+      ],
+      "idealFor": "Cheap entry on a Legion Go.",
+      "skipIf": "You want full bandwidth."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Power options",
+      "description": "Included supplies and accepted inputs were compared, since a 3060 needs only about 170W."
+    },
+    {
+      "title": "Controller and link",
+      "description": "JHL7440 and JHL7450 docks at 32 to 40Gbps were set against the older 22Gbps controller."
+    },
+    {
+      "title": "Host compatibility",
+      "description": "Confirmed handhelds and compatibility checks were credited."
+    },
+    {
+      "title": "Portability",
+      "description": "Carrying cases, mini docks and open frames were weighed for travel and desks."
+    },
+    {
+      "title": "Value",
+      "description": "Kits were compared against bare docks across the $50 to $100, $100 to $200 and $200 to $500 brackets."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Supply size for a 3060",
+      "detail": "An RTX 3060 draws about 170W, so a 240W supply is adequate and a 750W supply is plenty. Smaller supplies leave less margin for a later upgrade. Check the card's rated draw."
+    },
+    {
+      "factor": "Controller generation",
+      "detail": "The JHL7440 gives about 32Gbps of usable bandwidth, while the older JHL6340 gives about 22Gbps. A faster controller lets a 3060 run closer to desktop speed."
+    },
+    {
+      "factor": "Handheld compatibility",
+      "detail": "Handheld PCs have quirky USB4 and Thunderbolt implementations. A dock that names your device, like the ANQUORA for the ROG Ally X, removes guesswork."
+    },
+    {
+      "factor": "Complete kit versus bare dock",
+      "detail": "A kit includes a supply and case, so it works on arrival. A bare dock needs a supply you provide and some wiring care. Choose by your comfort with PC hardware."
+    },
+    {
+      "factor": "Laptop charging",
+      "detail": "A port with 85W power delivery can run a laptop and the GPU from one cable. Lower wattage only trickle charges."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Host Device",
+      "intro": "What you plug into decides the shortlist.",
+      "table": {
+        "headers": [
+          "Host",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "ROG Ally X or MSI Claw 8",
+            "ANQUORA ANQ-L336 Mini eGPU Enclosure, 40Gbps Thunderbolt 3/4 USB4"
+          ],
+          [
+            "Lenovo Legion Go",
+            "PCIE 3.0 x16 22Gbps eGPU Dock with Thunderbolt 4 Cable"
+          ],
+          [
+            "Thunderbolt laptop at home",
+            "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU"
+          ],
+          [
+            "Travel laptop",
+            "External eGPU Enclosure with 240W PSU, Thunderbolt 4/3 & USB4"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$50 to $100",
+            "PCIE 3.0 x16 22Gbps eGPU Dock with Thunderbolt 4 Cable"
+          ],
+          [
+            "$100 to $200 (dock)",
+            "ANQUORA ANQ-L336 Mini eGPU Enclosure, 40Gbps Thunderbolt 3/4 USB4"
+          ],
+          [
+            "$100 to $200 (open frame)",
+            "Maskedfish eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps PD 85W Charging (MK-L18)"
+          ],
+          [
+            "$200 to $500",
+            "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Complete Kit vs Bare Dock",
+      "cards": [
+        {
+          "label": "Complete kit",
+          "text": "Includes a supply and works on arrival. Picks: ORARA, the 240W travel box."
+        },
+        {
+          "label": "Bare dock",
+          "text": "You add a supply, but you control cost and size. Picks: ANQUORA, Maskedfish, VIKINYEE, the two mini docks."
+        }
+      ],
+      "note": "Default to a complete kit unless you already own a spare power supply."
+    },
+    {
+      "subheading": "By Link Speed",
+      "table": {
+        "headers": [
+          "Priority",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Fastest link",
+            "ANQUORA ANQ-L336 Mini eGPU Enclosure, 40Gbps Thunderbolt 3/4 USB4"
+          ],
+          [
+            "Open-frame x16 mode",
+            "Maskedfish eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps PD 85W Charging (MK-L18)"
+          ],
+          [
+            "Hub features",
+            "External GPU Dock Station, Mini eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps"
+          ],
+          [
+            "Lowest speed, lowest cost",
+            "PCIE 3.0 x16 22Gbps eGPU Dock with Thunderbolt 4 Cable"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Handheld Gaming Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A dock that names your handheld, a controller of at least JHL7440 grade and a supply you can place near your desk."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The ANQUORA lists the ROG Ally X and MSI Claw 8, and the 22Gbps dock lists the Legion Go."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You may upgrade the card later. The ORARA's 750W supply covers a far larger GPU."
+        },
+        {
+          "label": "Save if",
+          "text": "A 3060 is your ceiling. A bare dock or the 240W kit is plenty."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is an RTX 3060 worth putting in an eGPU?",
+      "a": "Yes, particularly with a handheld or thin laptop that has weak graphics. It loses less to the 40Gbps link than faster cards do."
+    },
+    {
+      "q": "What is the biggest mistake when buying one?",
+      "a": "Assuming every Thunderbolt port works. Some handhelds and laptops are unreliable with eGPUs. Choose a dock that lists your device."
+    },
+    {
+      "q": "Is the ORARA worth it over a bare dock?",
+      "a": "If you do not own a supply, yes, since it is complete. If you have a spare SFX unit, a dock is cheaper."
+    },
+    {
+      "q": "Do I need a power supply for a bare dock?",
+      "a": "Yes. You supply an ATX, SFX, FLEX or DC unit and connect the card's power cables yourself."
+    },
+    {
+      "q": "Will it work with a Mac?",
+      "a": "Apple silicon Macs do not support external GPUs for graphics. Intel Macs with Thunderbolt 3 may, with limits."
+    },
+    {
+      "q": "How much performance do I lose?",
+      "a": "Some, because the link carries less than a desktop slot. The loss varies by game and by link speed."
+    }
+  ],
+  "finalTake": "The ORARA 750W enclosure is the simplest, safest home for an RTX 3060, with a supply that handles the card with room for an upgrade. The ANQUORA ANQ-L336 is the best choice for handheld PCs, and the 240W kit is the travel option. Pick a dock that names your device and check the link speed.",
+  "related": [
+    "best-egpu-enclosures-for-rtx-3080",
+    "best-egpu-enclosures-for-rtx-5090",
+    "best-nvme-enclosures"
+  ]
+}

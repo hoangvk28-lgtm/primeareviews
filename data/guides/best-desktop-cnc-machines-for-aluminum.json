@@ -1,0 +1,547 @@
+{
+  "slug": "best-desktop-cnc-machines-for-aluminum",
+  "category": "home-office",
+  "h1": "The 8 Best Desktop CNC Machines for Cutting Aluminum, Ranked & Reviewed",
+  "metaTitle": "Best Desktop CNC for Aluminum: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 8 desktop CNC machines for aluminum, scored on spindle power, frame rigidity, stated accuracy, work area and tool support.",
+  "mainKeyword": "desktop cnc machines for aluminum",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "12 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41K0w8BPrbL._SL500_.jpg",
+  "summary": "The Carvera Air is the most dependable desktop machine for aluminum, with an enclosed body, an automatic tool changer and a very low spindle runout. The AnoleX 3030-Evo Max is the best open metal-frame router, with strong stated accuracy on 6061 and a path to a 1.5kW spindle. The LUNYEE 3020 Nova is the ready-to-run 800W option, and the Genmitsu 3020-PRO Ultra is the cheapest way into thin aluminum.",
+  "intro": [
+    "Aluminum is the material that exposes a weak desktop CNC. It is soft enough to look easy and sticky enough to weld itself onto a bit if the feed is wrong, and it punishes any frame that flexes under the cutter. The mistake we see most is buying a wood router, adding a better spindle, and wondering why the cuts chatter. In aluminum, the spindle matters less than the stiffness of everything holding it.",
+    "This ranking is built around that idea. We reviewed eight machines on frame construction, spindle power, accuracy claims, work area and what is in the box, using each listing and its stated numbers. Accuracy and repeatability are the maker's figures, and we mark them as such. Anyone cutting metal should plan on coolant or lubricant, a vacuum for chips and eye protection, because none of these machines handle that for you."
+  ],
+  "products": [
+    {
+      "id": "carvera-air-desktop-cnc-enclosed-mini-mill",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Carvera Air Desktop CNC by MAKERA, Enclosed Mini Mill with CAM",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41fZipzDhAL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F7LJ66BW?tag=primeareviews-20",
+      "verdict": "A true enclosed mini mill, with a tool changer and the tightest runout in this group.",
+      "description": "The Carvera Air has an enclosed 11.8 x 7.9 x 5.1 inch work area, an automatic tool changer that swaps bits in roughly ten seconds, and a listed spindle runout below 0.0004 inch. CAM support is part of the package.\n\nIt wins because aluminum rewards a stiff, enclosed machine. Low runout keeps the cutting edge loaded evenly, so the bit stays sharp longer and walls come out cleaner. The enclosure traps hot chips, which are the main hazard when milling metal. Swapping between a roughing end mill and a finishing tool automatically also suits the multi-step jobs aluminum parts usually need. It costs more than any router here and its bed is small.\n\nBuy it if you make small aluminum parts, brackets or prototypes and want repeatable results. Skip it if you need to cut full sheets.",
+      "keySpecs": [
+        {
+          "label": "Work area",
+          "value": "11.8 x 7.9 x 5.1 in"
+        },
+        {
+          "label": "Tool change",
+          "value": "Automatic, about 10 sec"
+        },
+        {
+          "label": "Runout",
+          "value": "Under 0.0004 in"
+        },
+        {
+          "label": "Design",
+          "value": "Enclosed mini mill"
+        }
+      ],
+      "pros": [
+        "Enclosure contains hot metal chips",
+        "Automatic tool changer",
+        "Very low listed runout",
+        "CAM workflow supported"
+      ],
+      "cons": [
+        "Most expensive machine in the group",
+        "Small bed for large parts"
+      ],
+      "idealFor": "Makers machining small aluminum parts that need repeatable accuracy.",
+      "skipIf": "Your parts are larger than about 11 inches."
+    },
+    {
+      "id": "anolex-cnc-router-machine-3030-evo-max",
+      "rank": 2,
+      "award": "Best Open Metal-Frame Router",
+      "name": "AnoleX CNC Router Machine 3030-Evo Max, All-Metal with 800W Trimmer Router",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41HN7RIek0L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DSRVWDSL?tag=primeareviews-20",
+      "verdict": "Stated repeatability of 0.01mm and 0.05mm on 6061, with a route to a 1.5kW spindle.",
+      "description": "The AnoleX 3030-Evo Max is an all-metal router with an 800W trimmer router. Its listing claims plus or minus 0.01mm repeatability and plus or minus 0.05mm on 6061 aluminum, uses 650 mN-m steppers against a standard 420 mN-m NEMA17, and can upgrade to a 1.5kW spindle through the same 65mm mount.\n\nIt ranks second because it is the only router with published accuracy tied to a named aluminum alloy, which shows the maker expects you to cut metal. Stronger steppers mean fewer lost steps when the cutter bites. The upgrade path is the other strength: the same mount accepts a 1.5kW spindle later, so the machine can grow with your work. It sits behind the Carvera because it is open and has no tool changer, and these accuracy numbers remain the seller's.\n\nChoose it for aluminum plates and brackets on a budget above entry level. Expect to build a chip and coolant setup yourself.",
+      "keySpecs": [
+        {
+          "label": "Repeatability",
+          "value": "Plus or minus 0.01mm"
+        },
+        {
+          "label": "On 6061",
+          "value": "Plus or minus 0.05mm"
+        },
+        {
+          "label": "Steppers",
+          "value": "650 mN-m"
+        },
+        {
+          "label": "Spindle",
+          "value": "800W, upgradable to 1.5kW"
+        }
+      ],
+      "pros": [
+        "Accuracy stated for 6061 aluminum",
+        "Strong 650 mN-m stepper motors",
+        "Mount accepts a 1.5kW spindle",
+        "All-metal frame"
+      ],
+      "cons": [
+        "Open design needs chip control",
+        "Accuracy figures are seller claims"
+      ],
+      "idealFor": "Serious hobbyists who want a metal-frame router with a growth path.",
+      "skipIf": "You want an enclosure and automatic tool change."
+    },
+    {
+      "id": "lunyee-3020-nova-cnc-router-machine",
+      "rank": 3,
+      "award": "Best Ready-to-Run",
+      "name": "LUNYEE 3020 Nova CNC Router Machine, All-Metal with 800W Trimmer Router",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/51r2nM8HY9L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0G4MDB99Q?tag=primeareviews-20",
+      "verdict": "Arrives fully assembled with wiring done, an 800W spindle and 0.05mm stated accuracy.",
+      "description": "The LUNYEE 3020 Nova lists plus or minus 0.05mm accuracy, a 5,000 mm/min maximum speed, and an 800W spindle running 6,000 to 30,000 RPM. It ships fully assembled with the wiring pre-connected.\n\nIt takes third place because assembly is where metal-cutting machines go wrong. A frame built loosely, with a skewed gantry, will never cut aluminum cleanly, and a factory-assembled unit removes that variable. The 800W spindle has plenty of torque at low RPM for aluminum, and the 30,000 RPM top end suits small cutters. It lacks the AnoleX's published alloy-specific accuracy and its upgrade note, which is why it ranks lower.\n\nBuy it if you want to start cutting metal without a build day. Check the work area, since a 3020-class bed is small.",
+      "keySpecs": [
+        {
+          "label": "Accuracy",
+          "value": "Plus or minus 0.05mm"
+        },
+        {
+          "label": "Max speed",
+          "value": "5,000 mm/min"
+        },
+        {
+          "label": "Spindle",
+          "value": "800W, 6,000 to 30,000 RPM"
+        },
+        {
+          "label": "Assembly",
+          "value": "Fully assembled, wired"
+        }
+      ],
+      "pros": [
+        "Ships fully assembled",
+        "800W spindle for metal",
+        "Stated 0.05mm accuracy",
+        "Wiring pre-connected"
+      ],
+      "cons": [
+        "Small 3020-class bed",
+        "No upgrade path stated"
+      ],
+      "idealFor": "Buyers who want a factory-built machine to start cutting metal quickly.",
+      "skipIf": "You need to machine large aluminum plates."
+    },
+    {
+      "id": "genmitsu-3020-pro-ultra-cnc-router-all-metal-engraver",
+      "rank": 4,
+      "award": "Best Budget Metal Router",
+      "name": "Genmitsu 3020-PRO Ultra CNC Router Machine, All-Metal Engraver for Metal",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41K0w8BPrbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F18TC7QL?tag=primeareviews-20",
+      "verdict": "A 710W spindle with 7.3 Nm of listed torque that cuts 1.5mm aluminum in one pass.",
+      "description": "The 3020-PRO Ultra has an all-metal build and a 710W spindle that runs 6,500 to 30,000 RPM, with 7.3 Nm of torque on the listing. It is described as cutting 1.5mm aluminum in one pass, and comes with 65mm and 52mm adapters for a spindle or laser.\n\nIt places fourth because it is the cheapest machine here that genuinely targets metal. The 1.5mm single-pass claim tells you how much to expect: thin plate and engraving, not thick blocks. The adapters leave room to fit a different spindle or add a laser later. It gives ground to the LUNYEE and AnoleX on stated accuracy, because the listing publishes none.\n\nPick it for engraving and cutting thin aluminum on a $200 to $500 budget. Do not plan on deep pockets.",
+      "keySpecs": [
+        {
+          "label": "Spindle",
+          "value": "710W, 6,500 to 30,000 RPM"
+        },
+        {
+          "label": "Torque",
+          "value": "7.3 Nm listed"
+        },
+        {
+          "label": "Aluminum",
+          "value": "1.5mm in one pass"
+        },
+        {
+          "label": "Adapters",
+          "value": "65mm and 52mm included"
+        }
+      ],
+      "pros": [
+        "Cheapest dedicated metal router",
+        "Listed single-pass aluminum depth",
+        "Adapters for spindle or laser",
+        "All-metal build"
+      ],
+      "cons": [
+        "No accuracy figure is published",
+        "Limited to thin material"
+      ],
+      "idealFor": "Engravers and thin-plate cutters on a limited budget.",
+      "skipIf": "You need deep pockets or tight tolerances."
+    },
+    {
+      "id": "lunyee-3018-pro-ultra-cnc-machine-500w",
+      "rank": 5,
+      "award": "Best Z Height",
+      "name": "Lunyee 3018 Pro Ultra CNC Machine 500W All-Metal CNC Router Machine",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/51THjuQNEEL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CHM481NS?tag=primeareviews-20",
+      "verdict": "80mm of Z height, a 500W spindle and T-track clamps to hold metal down.",
+      "description": "The Lunyee 3018 Pro Ultra has 80mm of Z-axis height, a 500W spindle, 2040 profiles on the X-axis and 4040 profiles on the Y-axis, and two T-track hold-down clamps. It costs between $200 and $500.\n\nIt ranks fifth because it focuses on rigidity and workholding. The thicker profiles are what stiffen the gantry, and metal needs to be clamped hard, which the T-track system and two clamps address. The 80mm of Z height gives you room for vises and taller stock. The 500W spindle is the weakest of the metal-focused group, so passes need to be shallow.\n\nBuy it if you want a stiff small frame and good workholding for aluminum parts. Run light cuts and let the stiffness do the work.",
+      "keySpecs": [
+        {
+          "label": "Z height",
+          "value": "80mm"
+        },
+        {
+          "label": "Spindle",
+          "value": "500W"
+        },
+        {
+          "label": "Profiles",
+          "value": "2040 X, 4040 Y"
+        },
+        {
+          "label": "Workholding",
+          "value": "2 T-track clamps"
+        }
+      ],
+      "pros": [
+        "Thick profiles stiffen the gantry",
+        "80mm Z height fits tall stock",
+        "T-track clamps included",
+        "Lower price than the 800W models"
+      ],
+      "cons": [
+        "500W spindle limits cut depth",
+        "No accuracy figure published"
+      ],
+      "idealFor": "Hobbyists who need workholding and stiffness for small aluminum parts.",
+      "skipIf": "You want the strongest spindle."
+    },
+    {
+      "id": "genmitsu-4040-pro-cnc-router-machine-metal-acrylic",
+      "rank": 6,
+      "award": "Best Large Bed",
+      "name": "Genmitsu 4040-PRO CNC Router Machine for Metal Acrylic Cutting Milling",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41eu4kiynCL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BKSJJS34?tag=primeareviews-20",
+      "verdict": "A 435 x 400mm bed on dual steel tube rails, best for larger parts in light passes.",
+      "description": "The 4040-PRO has a 435 x 400 x 80mm work area and dual 16mm steel tubes on each axis. The listing says it assembles in about 15 minutes, and its title names metal among the target materials.\n\nIt ranks sixth because a big bed and a modest spindle are a poor match for metal. Two steel tubes per axis give good stiffness for a router, but a large span flexes more than a compact frame, and aluminum punishes that. The upside is that you can cut parts that do not fit the 3020 machines. Take light passes at moderate feed and swap to sharp single-flute bits.\n\nChoose it if your aluminum parts are larger than 12 inches and you can accept slower cutting. For small, precise work, a 3020-class machine is stiffer.",
+      "keySpecs": [
+        {
+          "label": "Work area",
+          "value": "435 x 400 x 80mm"
+        },
+        {
+          "label": "Axis build",
+          "value": "Dual 16mm steel tubes"
+        },
+        {
+          "label": "Assembly",
+          "value": "About 15 minutes"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$500+"
+        }
+      ],
+      "pros": [
+        "Largest bed among metal-capable picks",
+        "Steel tube rails resist bending",
+        "Quick assembly",
+        "80mm of Z height"
+      ],
+      "cons": [
+        "Large span flexes in metal",
+        "Needs light, slow passes"
+      ],
+      "idealFor": "Makers cutting larger aluminum panels in light passes.",
+      "skipIf": "You need tight tolerances on small parts."
+    },
+    {
+      "id": "foxalien-masuter-pro-3-axis-cnc-router",
+      "rank": 7,
+      "award": "Best Rail-Guided Z",
+      "name": "FoxAlien Masuter Pro 3-Axis CNC Router Machine",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/51GKkLa3pqL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09ZTYGGTJ?tag=primeareviews-20",
+      "verdict": "An aluminum frame with a rail on the Z-axis, but a short 2.36 inch cutting height.",
+      "description": "The Masuter Pro gives you a roughly 15.75 inch square bed with 2.36 inches of Z travel, plus an aluminum frame and a linear rail guiding the Z-axis. It assembles in 10 to 15 minutes according to the listing.\n\nIt ranks seventh because its design aims at wood and soft materials, and the listing does not mention metal. The rail-guided Z is a real advantage, as it resists rocking under side load, which matters in aluminum. But the 2.36 inch height limits workholding and tool length, and no spindle power is listed. Treat it as capable of very light aluminum work with the right bit.\n\nBuy it if you split your time between wood carving and the occasional thin aluminum job. If metal is your main goal, buy a machine with a stated metal spindle.",
+      "keySpecs": [
+        {
+          "label": "Work area",
+          "value": "15.75 x 15.75 x 2.36 in"
+        },
+        {
+          "label": "Frame",
+          "value": "All aluminum"
+        },
+        {
+          "label": "Z-axis",
+          "value": "Linear rail"
+        },
+        {
+          "label": "Assembly",
+          "value": "10 to 15 minutes"
+        }
+      ],
+      "pros": [
+        "Rail-guided Z resists rocking",
+        "Rigid aluminum frame",
+        "Easy assembly",
+        "Roomy square bed"
+      ],
+      "cons": [
+        "Metal use is not a stated target",
+        "Short Z limits workholding"
+      ],
+      "idealFor": "Mixed-material users who do occasional thin aluminum work.",
+      "skipIf": "Aluminum is your main material."
+    },
+    {
+      "id": "wolfpawn-cnc-router-machine-4040-pro-metal-acrylic",
+      "rank": 8,
+      "award": "Best Accessory Bundle",
+      "name": "WolfPawn CNC Router Machine 4040-PRO for Metal Acrylic Cutting Milling",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/41SN4wI+-aL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DT8MWK2G?tag=primeareviews-20",
+      "verdict": "A belt and V-wheel router with a full accessory kit, better for plastics than metal.",
+      "description": "The WolfPawn offers a 15.7 x 15.7 x 2.9 inch working area, belt and V-wheel motion on X and Y, a linear guide on Z and a full accessory kit in the box.\n\nIt ranks last for aluminum because belts and V-wheels are the least rigid motion system in the group. They are fine for acrylic and wood, but metal cutting forces can make them flex and wander. The bundled kit is helpful for newcomers, and the 2.9 inch height is slightly better than the Masuter Pro. It simply is not designed to resist aluminum's cutting forces.\n\nConsider it for acrylic, wood and the lightest aluminum engraving. For real metal work, buy one of the steel tube or all-metal machines above.",
+      "keySpecs": [
+        {
+          "label": "Work area",
+          "value": "15.7 x 15.7 x 2.9 in"
+        },
+        {
+          "label": "X/Y motion",
+          "value": "Belt and V-wheel"
+        },
+        {
+          "label": "Z-axis",
+          "value": "Linear guide"
+        },
+        {
+          "label": "In the box",
+          "value": "Full accessory kit"
+        }
+      ],
+      "pros": [
+        "Full accessory kit included",
+        "Linear guide on Z",
+        "2.9 inches of cutting height",
+        "Mid-range price"
+      ],
+      "cons": [
+        "Belt drive flexes in metal",
+        "Not built for aluminum forces"
+      ],
+      "idealFor": "Acrylic and wood users who want a bundled kit.",
+      "skipIf": "You plan to cut aluminum regularly."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Frame stiffness",
+      "description": "We rated metal frames, thick profiles, steel tubes and enclosures above belt-driven designs, since aluminum exposes any flex."
+    },
+    {
+      "title": "Spindle power",
+      "description": "We compared stated wattage, RPM range and torque, and we checked for spindle upgrade options."
+    },
+    {
+      "title": "Stated accuracy",
+      "description": "We favored listings that publish accuracy or repeatability, especially on a named alloy, and we treat every figure as the seller's claim."
+    },
+    {
+      "title": "Workholding and Z height",
+      "description": "We looked at clamps, T-track and vertical travel, because metal must be held down hard."
+    },
+    {
+      "title": "Setup and value",
+      "description": "We weighed assembly effort and price bracket against what each machine can realistically cut."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Frame rigidity",
+      "detail": "Aluminum creates strong cutting forces, and a flexing frame makes the cutter vibrate, which ruins the surface and breaks bits. All-metal frames, thick extrusions and steel rails hold up better than belts and plastic parts. Look for words like all-metal, steel tubes or enclosed on the listing."
+    },
+    {
+      "factor": "Spindle power and RPM",
+      "detail": "Spindle wattage is the motor's power, and RPM range is how fast the bit spins. Aluminum cuts well with small cutters at high RPM and light feed, so a wide range is useful. Look for 500W or more with a range reaching 24,000 RPM or higher."
+    },
+    {
+      "factor": "Stated accuracy and repeatability",
+      "detail": "Accuracy is how close the machine gets to a programmed position, and repeatability is how consistently it returns there. Figures like plus or minus 0.05mm on 6061 aluminum are useful, but they are the maker's. Look for a figure tied to a specific material, and be skeptical when none is given."
+    },
+    {
+      "factor": "Workholding",
+      "detail": "Aluminum must be clamped firmly, because a shifting plate breaks bits and ruins parts. T-track slots and hold-down clamps are the standard solution, and a spoilboard protects the bed. Check what clamps are included and whether the bed has T-slots."
+    },
+    {
+      "factor": "Chip and heat control",
+      "detail": "Aluminum chips are sharp and hot, and they can weld to the cutter if not cleared. An enclosure, a vacuum and a lubricant mist or air blast all help. Plan on these accessories, as none of the listings include them."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Part Size",
+      "intro": "The size of your parts decides whether a compact stiff machine or a large-bed router is the right tool.",
+      "table": {
+        "headers": [
+          "Biggest part",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under 8 inches, precise",
+            "Carvera Air Desktop CNC by MAKERA"
+          ],
+          [
+            "Around 12 inches, metal frame",
+            "AnoleX CNC Router Machine 3030-Evo Max"
+          ],
+          [
+            "Thin plate, engraving",
+            "Genmitsu 3020-PRO Ultra CNC Router Machine"
+          ],
+          [
+            "Larger than 15 inches",
+            "Genmitsu 4040-PRO CNC Router Machine"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "$200 to $500, thin aluminum",
+            "Genmitsu 3020-PRO Ultra CNC Router Machine"
+          ],
+          [
+            "$200 to $500, stiffness",
+            "Lunyee 3018 Pro Ultra CNC Machine 500W"
+          ],
+          [
+            "$200 to $500, bundled kit",
+            "WolfPawn CNC Router Machine 4040-PRO"
+          ],
+          [
+            "$500+",
+            "Carvera Air Desktop CNC by MAKERA"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Enclosed Mill vs Open Router",
+      "cards": [
+        {
+          "label": "Enclosed mill",
+          "text": "Stiff, accurate and contains chips and coolant, with an automatic tool changer. Small bed and high price. Pick: Carvera Air."
+        },
+        {
+          "label": "Open router",
+          "text": "Bigger bed and lower cost, but you manage chips and flex yourself. Picks: AnoleX 3030-Evo Max, LUNYEE 3020 Nova, Genmitsu 3020-PRO Ultra and the 4040 models."
+        }
+      ],
+      "note": "Choose the mill for repeatable parts, and an open metal-frame router if you need a bigger bed."
+    },
+    {
+      "subheading": "By Spindle Power",
+      "table": {
+        "headers": [
+          "Spindle",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "500W, light passes",
+            "Lunyee 3018 Pro Ultra CNC Machine 500W"
+          ],
+          [
+            "710W, thin plate",
+            "Genmitsu 3020-PRO Ultra CNC Router Machine"
+          ],
+          [
+            "800W, factory assembled",
+            "LUNYEE 3020 Nova CNC Router Machine"
+          ],
+          [
+            "800W with 1.5kW upgrade",
+            "AnoleX CNC Router Machine 3030-Evo Max"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Brackets and Small Parts Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "Low runout, a stiff enclosed or all-metal frame, strong clamps and an automatic way to set tool length. Small parts demand repeatability."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Carvera Air is the best fit, with the AnoleX 3030-Evo Max as the open-frame alternative with published 6061 accuracy."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You make aluminum parts you will use or sell and need repeatable tolerances. The Carvera Air or AnoleX 3030-Evo Max earns it."
+        },
+        {
+          "label": "Save if",
+          "text": "You engrave or cut thin plate occasionally. The Genmitsu 3020-PRO Ultra is the lower-cost route."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can any desktop CNC cut aluminum?",
+      "a": "Only machines with a stiff frame and a suitable spindle can do it well. The Carvera Air and the all-metal routers in the top five are the realistic choices. Belt-driven routers are better kept for wood and plastic."
+    },
+    {
+      "q": "What is the most common mistake when cutting aluminum?",
+      "a": "Feeding too fast or cutting too deep, which clogs the bit and snaps it. Use sharp single-flute cutters, shallow passes and a lubricant mist or air blast. Clamp the plate hard so it cannot move."
+    },
+    {
+      "q": "Is a mill worth it over a router for aluminum?",
+      "a": "It is if you need accuracy and repeatability on small parts, because the stiffer enclosed structure holds tolerances better. A router is cheaper and has a larger bed, but needs lighter cuts. Many hobbyists start with a router."
+    },
+    {
+      "q": "What accessories do I need?",
+      "a": "Plan on carbide end mills made for aluminum, hold-down clamps, a vacuum for chips, eye protection and a lubricant or mist system. These are not included in most kits. Add a dust shoe if the machine is open."
+    },
+    {
+      "q": "How accurate can I expect a desktop machine to be?",
+      "a": "Published figures run from plus or minus 0.01mm repeatability to plus or minus 0.05mm accuracy, but real results depend on setup, bit wear and workholding. Treat the numbers as a ceiling. Test on scrap before the real part."
+    },
+    {
+      "q": "Can I upgrade the spindle later?",
+      "a": "On the AnoleX 3030-Evo Max, the listing says the same 65mm mount takes a 1.5kW spindle, and the Genmitsu 3020-PRO Ultra includes 65mm and 52mm adapters. Check mount size and power supply before ordering a new spindle."
+    }
+  ],
+  "finalTake": "The Carvera Air is the best desktop CNC for aluminum, with its enclosure, tool changer and tight runout justifying the price. The AnoleX 3030-Evo Max is the best open router for metal, and the LUNYEE 3020 Nova is the one to buy if you want it assembled. For thin plate on a budget, the Genmitsu 3020-PRO Ultra gets you started.",
+  "related": [
+    "best-desktop-cnc-machines",
+    "best-desktop-cnc-machines-for-wood",
+    "best-desktop-network-switches"
+  ]
+}
