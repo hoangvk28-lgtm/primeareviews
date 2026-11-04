@@ -47,3 +47,12 @@ Senior product reviewer, years in the category. Confident, decisive, plain Engli
  "related": []
 }
 ```
+
+## Depth targets (mandatory, checked by `node scripts/audit-depth.mjs`)
+- products[].description: 3 paragraphs, ~110-130 words total.
+- whatMatters[].detail: ~55-65 words. faq[].a: ~35-45 words, naming products from the guide.
+- intro: 2 paragraphs, ~130 words. summary and finalTake: 3-4 sentences each.
+A guide that audit-depth still flags as thin is not done.
+
+## Expert voice
+Follow the "Expert voice standard" section of scripts/.work/FIX-BRIEF.md (judgment not description, insider mechanism, named comparisons with real numbers, no filler, honest caveat per product, nothing reusable across guides).
