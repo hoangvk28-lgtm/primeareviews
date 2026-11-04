@@ -1,0 +1,254 @@
+{
+  "slug": "best-smart-plugs-for-google-home",
+  "category": "home-living",
+  "h1": "The 5 Best Smart Plugs for Google Home of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Smart Plugs for Google Home: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 5 smart plugs that work with Google Home, scored on Matter support, load rating, pack size, app requirements and setup.",
+  "mainKeyword": "google smart plug",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "8 min",
+  "heroImage": "https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg",
+  "summary": "The Tapo Matter Smart Plug Mini is the best smart plug for Google Home: Matter-certified, 15A and 1800W, with local network control. Kasa's HS103P4 four-pack is the value pick for whole-room setups, and Govee's four-pack adds a group controller. EIGHTREE is the lowest-cost multipack, and the GHome Mini is a simple single plug with an auto-off timer.",
+  "intro": [
+    "Most smart plugs say they work with Google Home, but the route matters. Some talk to Google through their own cloud and app, so a vendor outage takes your lamp offline. Matter plugs link straight into the home network, and Google Home controls them locally. That difference decides how reliable the plug feels on a bad internet day.",
+    "We reviewed five plugs from their listings, comparing Matter support, load rating, pack size, app requirements and setup method. Every plug here works on the 2.4GHz Wi-Fi band at most, which matters if your router merges its bands. Listings do not publish power monitoring or latency, so we ranked on certification, rating and ease."
+  ],
+  "products": [
+    {
+      "id": "tapo-matter-smart-plug-mini",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Tapo Matter Smart Plug Mini",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BXMNJDW3?tag=primeareviews-amz-20",
+      "verdict": "Matter-certified, locally controlled and rated 15A and 1800W in a compact mini body.",
+      "description": "The Tapo is Matter certified, rated 15A and 1800W, supports local network control and works with Google Home, Apple Home and other platforms. Its mini body leaves the second outlet free.\n\nMatter is the reason it leads. A Matter plug keeps working through Google Home even if the maker's cloud goes down, which none of the app-bound plugs here can promise. It is also the only one that moves cleanly if you later switch platforms.\n\nIt suits anyone starting a Google Home setup. The caveat is that it is sold singly, so a whole-room setup costs more than the four-packs.",
+      "keySpecs": [
+        { "label": "Standard", "value": "Matter" },
+        { "label": "Load rating", "value": "15A / 1800W max" },
+        { "label": "Control", "value": "Local network" },
+        { "label": "Platforms", "value": "Google Home, Apple Home, others" }
+      ],
+      "pros": [
+        "Matter certified",
+        "Local network control",
+        "15A and 1800W rating",
+        "Compact mini body"
+      ],
+      "cons": [
+        "Sold as a single plug",
+        "Multipacks cost less per plug",
+        "No power monitoring listed"
+      ],
+      "idealFor": "Google Home users who want a plug that survives cloud outages.",
+      "skipIf": "You need a four-pack at the lowest cost."
+    },
+    {
+      "id": "kasa-smart-plug-hs103p4",
+      "rank": 2,
+      "award": "Best Multipack",
+      "name": "Kasa Smart Plug HS103P4",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/41JnNfpIRXL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07RCNB2L3?tag=primeareviews-amz-20",
+      "verdict": "Four plugs, no hub and a touch actuator on the plug for manual control.",
+      "description": "The HS103P4 is a pack of four 15A plugs that needs no hub, works with Alexa and Google Home, and has a touch actuator on the plug itself.\n\nThe touch actuator is a small feature with big benefit: if Wi-Fi drops, you still switch the lamp by hand. It ranks second because it is not Matter certified in the listing, so Google control goes through the Kasa link.\n\nChoose it for lamps, fans and holiday lights. The caveat is the 15A rating without a stated wattage cap, so avoid heavy heaters.",
+      "keySpecs": [
+        { "label": "Pack size", "value": "4 plugs" },
+        { "label": "Load rating", "value": "15A" },
+        { "label": "Hub", "value": "Not required" },
+        { "label": "Controls", "value": "Touch actuator on the plug" }
+      ],
+      "pros": [
+        "Four plugs in the box",
+        "No hub required",
+        "Manual touch actuator",
+        "Works with Alexa too"
+      ],
+      "cons": [
+        "Matter not listed",
+        "Needs 2.4GHz Wi-Fi",
+        "Wattage cap not stated"
+      ],
+      "idealFor": "Outfitting several rooms at a lower per-plug cost.",
+      "skipIf": "You want Matter."
+    },
+    {
+      "id": "govee-smart-plug-4-pack",
+      "rank": 3,
+      "award": "Best for Groups",
+      "name": "Govee Smart Plug 4-Pack",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/310tVwCQrVL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08731J1L4?tag=primeareviews-amz-20",
+      "verdict": "A four-pack with WiFi and Bluetooth, a group controller and custom schedules.",
+      "description": "The Govee four-pack combines WiFi and Bluetooth connectivity, supports Alexa and Google Assistant, and offers custom schedules and a group controller.\n\nThe group controller lets you switch a whole set of plugs at once, which suits holiday lights and living-room lamps. It ranks below the Kasa pack because the listing gives no load rating, which is the number you check before plugging in anything hot.\n\nIt is best for scene-style control. The caveat is the missing rating, so keep it to lamps and chargers.",
+      "keySpecs": [
+        { "label": "Pack size", "value": "4 plugs" },
+        { "label": "Connectivity", "value": "WiFi and Bluetooth" },
+        { "label": "Voice", "value": "Alexa and Google Assistant" },
+        { "label": "Features", "value": "Schedules, group controller" }
+      ],
+      "pros": [
+        "Group controller",
+        "Custom schedules",
+        "WiFi plus Bluetooth",
+        "Four plugs in the box"
+      ],
+      "cons": [
+        "No load rating listed",
+        "Matter not listed",
+        "Cloud app needed"
+      ],
+      "idealFor": "Holiday lights and lamps controlled as a group.",
+      "skipIf": "You want a published amperage."
+    },
+    {
+      "id": "eightree-smart-plug-4-pack",
+      "rank": 4,
+      "award": "Best Budget Multipack",
+      "name": "EIGHTREE Smart Plug 4-Pack",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/31NOg-5pEvL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0B62LPR5Z?tag=primeareviews-amz-20",
+      "verdict": "Four 15A plugs under the Smart Life app at the lowest price.",
+      "description": "The EIGHTREE four-pack rates each plug at 15A, uses the Smart Life app, offers Bluetooth-assisted setup and works with Alexa and Google Home.\n\nBluetooth-assisted setup is helpful because it pairs more reliably than a pure Wi-Fi handoff on busy networks. It ranks fourth because it is the least established brand of the group and lacks the touch actuator or group controls on the others.\n\nIt suits cost-driven buyers who want several plugs. The caveat is that Smart Life is a generic third-party app, so privacy and long-term updates depend on that ecosystem.",
+      "keySpecs": [
+        { "label": "Pack size", "value": "4 plugs" },
+        { "label": "Load rating", "value": "15A" },
+        { "label": "App", "value": "Smart Life" },
+        { "label": "Setup", "value": "Bluetooth-assisted" }
+      ],
+      "pros": [
+        "Lowest price per plug",
+        "Four plugs in the box",
+        "Bluetooth-assisted setup",
+        "15A rating"
+      ],
+      "cons": [
+        "Generic third-party app",
+        "No group control listed",
+        "Brand is less established"
+      ],
+      "idealFor": "Budget buyers who want many plugs.",
+      "skipIf": "You want a major-brand app."
+    },
+    {
+      "id": "ghome-smart-plug-mini",
+      "rank": 5,
+      "award": "Best Single Mini",
+      "name": "GHome Smart Plug Mini",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/41kAQMtriOL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09JZKK3KS?tag=primeareviews-amz-20",
+      "verdict": "A single mini plug with schedules, auto-off and Bluetooth-assisted setup.",
+      "description": "The GHome runs on 2.4GHz WiFi, uses Bluetooth to assist setup, offers schedules and an auto-off timer, and works with Alexa and Google Home.\n\nAuto-off is useful for a space heater or iron you worry about leaving on. It ranks last because it is a single plug with no load rating listed and no Matter support.\n\nChoose it for one lamp or appliance. The caveat is the missing rating, so treat it as a light-duty plug.",
+      "keySpecs": [
+        { "label": "Wi-Fi band", "value": "2.4GHz only" },
+        { "label": "Setup", "value": "Bluetooth-assisted" },
+        { "label": "Features", "value": "Schedules and auto-off timer" },
+        { "label": "Voice", "value": "Alexa and Google Home" }
+      ],
+      "pros": [
+        "Auto-off timer",
+        "Custom schedules",
+        "Bluetooth-assisted setup",
+        "Compact mini design"
+      ],
+      "cons": [
+        "No load rating listed",
+        "Single plug only",
+        "Matter not listed"
+      ],
+      "idealFor": "A single lamp or small appliance.",
+      "skipIf": "You are outfitting several rooms."
+    }
+  ],
+  "methodology": [
+    { "title": "Matter and local control", "description": "Matter certification and local control keep Google Home working when a cloud goes down." },
+    { "title": "Load rating", "description": "A stated amperage tells us what the plug can safely switch." },
+    { "title": "Pack value", "description": "Multipacks lower the per-plug cost for whole-home setups." },
+    { "title": "App and setup", "description": "Reliable pairing and a well-known app make daily use easier." },
+    { "title": "Manual fallback", "description": "A touch button or actuator keeps control when Wi-Fi fails." }
+  ],
+  "whatMatters": [
+    { "factor": "Matter certification", "detail": "Matter is a shared smart-home standard that lets Google Home talk to the plug over your local network. A Matter plug keeps working during a cloud outage and moves easily between platforms. Look for the Matter logo or the word certified on the listing, since works with Google can mean cloud only." },
+    { "factor": "Load rating", "detail": "A plug's amperage rating is the current it can safely switch. 15A at 120V is about 1800W, enough for most small appliances. If the listing gives no number, keep it to lamps and chargers, and never use an unrated plug with a space heater, a toaster or any other appliance that draws heavy current for long stretches." },
+    { "factor": "2.4GHz Wi-Fi", "detail": "Most smart plugs only join the 2.4GHz band, not 5GHz. Routers that merge both bands under one name can block pairing. If setup fails, split the bands temporarily or use the Bluetooth-assisted setup that the EIGHTREE and GHome list." },
+    { "factor": "Pack size", "detail": "A four-pack of 15A plugs usually costs less per unit than single mini plugs. Count the lamps, fans and holiday lights you would automate before buying. Remember that Matter versions such as the Tapo are sold singly, so the per-plug cost is higher, and decide which two or three lamps deserve that extra reliability." },
+    { "factor": "Manual control", "detail": "A touch actuator or button on the plug lets you switch a lamp when Wi-Fi is down or your phone is across the house. The Kasa HS103P4 lists one. Plugs without it become useless during a router reboot, which is worth considering for a bedside lamp." }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Smart-Home Standard",
+      "intro": "Decide whether you value Matter before comparing packs.",
+      "table": {
+        "headers": ["Need", "Our pick"],
+        "rows": [
+          ["Matter, local control", "Tapo Matter Smart Plug Mini"],
+          ["Hub-free multipack", "Kasa Smart Plug HS103P4"],
+          ["Group scenes", "Govee Smart Plug 4-Pack"],
+          ["Lowest-cost multipack", "EIGHTREE Smart Plug 4-Pack"]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": ["Spend", "Our pick"],
+        "rows": [
+          ["Under $25, single plug", "Tapo Matter Smart Plug Mini"],
+          ["Under $25, four plugs", "EIGHTREE Smart Plug 4-Pack"],
+          ["$25 to $50, four plugs", "Kasa Smart Plug HS103P4"],
+          ["$25 to $50, group control", "Govee Smart Plug 4-Pack"]
+        ]
+      }
+    },
+    {
+      "subheading": "Matter vs App-Based",
+      "cards": [
+        { "label": "Matter", "text": "The Tapo links directly to Google Home and keeps local control when the maker's cloud fails." },
+        { "label": "App-based", "text": "The Kasa, Govee, EIGHTREE and GHome rely on their own apps and clouds, with Google Home as a link." }
+      ],
+      "note": "Choose Matter like the Tapo for your most important lamps, and app-based packs for the rest."
+    },
+    {
+      "subheading": "By Pack Size",
+      "table": {
+        "headers": ["Plugs needed", "Our pick"],
+        "rows": [
+          ["1", "GHome Smart Plug Mini"],
+          ["1, Matter", "Tapo Matter Smart Plug Mini"],
+          ["4, hub-free", "Kasa Smart Plug HS103P4"],
+          ["4, group control", "Govee Smart Plug 4-Pack"]
+        ]
+      }
+    },
+    {
+      "subheading": "For Lamps and Holiday Lights Specifically",
+      "cards": [
+        { "label": "Look for", "text": "A multipack, schedules, and group control so lights go on and off together." },
+        { "label": "In this ranking", "text": "The Govee four-pack has a group controller, and the Kasa HS103P4 adds a manual touch actuator." }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        { "label": "Spend more if", "text": "You want reliability that survives a cloud outage, where the Matter-certified Tapo earns it." },
+        { "label": "Save if", "text": "You are automating a few lamps, where the EIGHTREE four-pack costs the least." }
+      ]
+    }
+  ],
+  "faq": [
+    { "q": "Do all these plugs work with Google Home?", "a": "Yes. The Tapo lists Google Home directly through Matter, and the Kasa HS103P4, Govee, EIGHTREE and GHome list Google Home or Google Assistant. All need a 2.4GHz Wi-Fi network at most to pair." },
+    { "q": "What mistake do people make with smart plugs?", "a": "Plugging in a heater or air conditioner. The Govee and GHome publish no rating at all, and even 15A models are meant for small appliances. Check wattage before switching anything that makes heat." },
+    { "q": "Is the Tapo worth it over the Kasa four-pack?", "a": "If you value Matter and local control, yes. The Tapo works through Google Home without the cloud. The Kasa pack costs less per plug and adds a touch actuator, so it suits many lamps." },
+    { "q": "How do I set one up?", "a": "Plug it in, open the maker's app or Google Home, and follow pairing. The EIGHTREE and GHome use Bluetooth-assisted setup, which helps when Wi-Fi pairing stalls on a merged router." },
+    { "q": "What if the plug stops responding?", "a": "Unplug it for 10 seconds, confirm your router is on 2.4GHz and retry. Plugs with a manual button, like the Kasa HS103P4, still switch by hand while you troubleshoot." },
+    { "q": "Can I control one without Google Home?", "a": "Yes. Each plug has its own app, such as Smart Life for EIGHTREE or Kasa, and some have Bluetooth. Google Home just adds voice control and routines on top." }
+  ],
+  "finalTake": "The Tapo Matter Smart Plug Mini is the plug to pick for Google Home, because local control keeps it working when the cloud does not. The Kasa HS103P4 four-pack is the practical choice for many lamps, and the Govee adds group scenes. Buy the EIGHTREE only for cost, and never plug a heater into an unrated model.",
+  "related": []
+}

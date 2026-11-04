@@ -32,3 +32,6 @@ For "under-$N" slugs, a product counts only if its priceBucket lies entirely und
 
 ## Depth floor (added)
 audit-depth flags a guide as thin when the whatMatters average is under 45 words (also desc < 85, faq < 30, intro < 80). Write every whatMatters detail at 55-65 words and every faq answer at 35-45 words. Do not run audit-depth yourself (it rewrites a shared file); count words instead.
+
+## Image/ASIN check (added)
+Each product's imageUrl must be that product's own imageUrl from the facts file (never the heroImage for every product). After writing, run `node scripts/.work/c600/asincheck.mjs | grep <slug>`; it must print nothing for your slug.
