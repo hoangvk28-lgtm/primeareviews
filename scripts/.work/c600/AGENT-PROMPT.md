@@ -26,3 +26,6 @@ Never pad or tweak a lineup with duplicate/variant listings (same product in ano
 
 ## No outside-knowledge specs (added)
 A product counts toward the slug only if its name or facts state the slug feature. Never assign a spec, class or rating "from your own knowledge" (e.g. a BTU figure the facts do not give). If that leaves fewer than 5, skip.
+
+## Price-cap slugs (added)
+For "under-$N" slugs, a product counts only if its priceBucket lies entirely under $N (e.g. "under $25" does NOT prove under $20; "$50-100" does NOT prove under $75). Fewer than 5 such products: skip.
