@@ -1,8 +1,8 @@
 part-0-c0..c5 done
 part-1-c0..c3 done; c4-c5 running
 part-2-c0..c2 done; c3-c4 running; c5 done
-deepen-1 running
+deepen-1 done
 part-3 all done
 part-4-c0..c2 done; c3 running; c4 done
 part-5-c0..c2 done; c3-c4 running
-backup-c00-c01 done; c02 running; c03-c04 running; c05..c14 pending
+backup-c00-c01 done; c02 running; c03-c04 running; c05-c06 running; c07..c14 pending
