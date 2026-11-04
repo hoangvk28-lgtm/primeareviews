@@ -221,11 +221,11 @@
   "whatMatters": [
     {
       "factor": "Decibel output",
-      "detail": "Decibels measure alarm loudness, and the scale is logarithmic, so every 10dB is roughly a doubling of perceived volume. A 113dB or 115dB clock is far louder than a standard 85dB bedside unit. Check the spec line for a maximum, but also for volume steps, since you want to start lower and build."
+      "detail": "Decibels measure alarm loudness, and the scale is logarithmic, so every 10dB is roughly a doubling of perceived volume. A 113dB or 115dB clock is far louder than a standard 85dB bedside unit. Check the spec line for a maximum, but also for volume steps, since you want to start lower and build, and for the ring length that goes with it."
     },
     {
       "factor": "Vibration channel",
-      "detail": "Deep sleepers tend to tune out a repeating tone, which is why a shaker often beats extra volume. The Sonic Bomb, ANJANK, REACHER and uscce all include one. Confirm whether the shaker is wired or cordless, what range it has and whether the bed or pillow is the intended location before you buy."
+      "detail": "Deep sleepers tend to tune out a repeating tone, which is why a shaker often beats extra volume. The Sonic Bomb, ANJANK, REACHER and uscce all include one. Confirm whether the shaker is wired or cordless, what range it has and whether the bed or pillow is the intended location, and whether strength can be adjusted, before you buy."
     },
     {
       "factor": "Alarm duration",
@@ -233,11 +233,11 @@
     },
     {
       "factor": "Backup power",
-      "detail": "A plug-in clock without a battery will lose its settings or alarm in a power cut, which is exactly when you can't afford to miss an alarm. The Acedeck lists AAA battery memory and the ANJANK states no backup. Find the backup line on the listing, and treat silence as a no."
+      "detail": "A plug-in clock without a battery will lose its settings or alarm in a power cut, which is exactly when you can't afford to miss an alarm. The Acedeck lists AAA battery memory and the ANJANK states no backup. Find the backup line on the listing, and treat silence as a no, then keep a fresh set of spare batteries nearby."
     },
     {
       "factor": "Display control",
-      "detail": "A bright display can interrupt sleep, so a dimmable or fully dark setting matters for a bedroom. The uscce offers a 0 to 100% dial and the Cadmos four brightness levels. Look for a brightness range in the listing, and check whether the lowest setting is truly off or just dim."
+      "detail": "A bright display can interrupt sleep, so a dimmable or fully dark setting matters for a bedroom. The uscce offers a 0 to 100% dial and the Cadmos four brightness levels. Look for a brightness range in the listing, and check whether the lowest setting is truly off or just dim, since a faint glow still bothers some sleepers."
     }
   ],
   "howToChoose": [
