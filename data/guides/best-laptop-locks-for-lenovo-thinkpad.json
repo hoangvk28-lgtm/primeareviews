@@ -204,11 +204,11 @@
     { "title": "Warranty and support", "description": "We counted warranty years and lifetime support as part of overall value." }
   ],
   "whatMatters": [
-    { "factor": "Your slot type", "detail": "Current ThinkPads have a thin Nano security slot, while older models use the standard T-bar slot. A lock for one will not fit the other. Look at the edge of your laptop for the slot shape, or check the model's spec page, before choosing any of these locks." },
-    { "factor": "Combination or key", "detail": "A combination lock never needs a key but can be forgotten or watched. A keyed lock hides its secret but can be lost. In a shared office with an administrator, keyed with a master key suits; for personal use, a combination with recovery is simpler." },
-    { "factor": "Code recovery", "detail": "Forgetting a four-digit code is the usual way a combination lock fails. The K60603WW offers online recovery and the K62316WW offers Register and Retrieve. The K60214WW states it has none. Check the listing for a recovery service before choosing a combination lock." },
-    { "factor": "Cable length", "detail": "A short cable leaves nothing to loop around. A 5 ft cable, as on the K60214WW, reaches a table leg and a 6 ft cable on the K62316WW reaches further. Check the listing for a length in feet, and for anti-shearing or cut-resistant wording." },
-    { "factor": "Warranty and support", "detail": "A lock is a long-term accessory, and warranty tells you what the maker believes. Kensington lists 2 years and lifetime technical support on the NanoSaver models. Lenovo's listing states less. Read the warranty line before buying for a fleet." }
+    { "factor": "Your slot type", "detail": "Current ThinkPads have a thin Nano security slot, while older models use the standard T-bar slot. A lock built for one physically will not seat in the other, so a wrong order is a return, not a workaround. Look at the edge of your laptop for the slot shape, or check the model's spec page, before choosing." },
+    { "factor": "Combination or key", "detail": "A combination lock never needs a key but the code can be forgotten or watched over your shoulder. A keyed lock like the K64444WW hides its secret but the key can be lost. In a shared office with an administrator, keyed with a master key suits; for personal use, a combination with recovery is simpler." },
+    { "factor": "Code recovery", "detail": "Forgetting a four-digit code is the usual way a combination lock fails, and a locked cable on a locked desk is a bad morning. The K60603WW offers online recovery and the K62316WW offers Register and Retrieve. The K60214WW states it has none. Check the listing for a recovery service before choosing a combination lock." },
+    { "factor": "Cable length", "detail": "A short cable leaves nothing to loop around, and a lock you cannot anchor is only a decoration. A 5 ft cable, as on the K60214WW, reaches a table leg and a 6 ft cable on the K62316WW reaches further. Check the listing for a length in feet, and for anti-shearing or cut-resistant wording." },
+    { "factor": "Warranty and support", "detail": "A lock is a long-term accessory that outlives several laptops, and the warranty shows what the maker stands behind. Kensington lists 2 years and lifetime technical support on the NanoSaver models, while Lenovo's listing states less. Read the warranty line before buying for a fleet, where replacements add up." }
   ],
   "howToChoose": [
     {
@@ -276,7 +276,7 @@
   ],
   "faq": [
     { "q": "Will the K60603WW fit my ThinkPad?", "a": "It fits ThinkPads with a Nano security slot, which the listing ties to ThinkPad NanoSaver documentation. Check the edge of your laptop for a thin slot, because a standard T-bar slot needs the K64673AM instead." },
-    { "q": "What is the most common mistake?", "a": "Buying the wrong slot size. A T-bar lock like the K64673AM will not fit a Nano slot, and the Nano locks will not fit older machines. The K62316WW avoids the problem with three tips." },
+    { "q": "What is the most common mistake?", "a": "Buying the wrong slot size. A T-bar lock like the K64673AM will not fit a Nano slot, and the Nano locks will not fit older machines. The K62316WW avoids the problem with Standard, Nano and Wedge tips, which suits mixed fleets." },
     { "q": "Is the Lenovo lock worth over Kensington?", "a": "Pick Lenovo if your IT team standardizes on first-party accessories. The Kensington K60603WW publishes more, including a web recovery route for lost codes plus two years of cover, so for personal buying it is the better documented choice." },
     { "q": "How do I set a new combination?", "a": "Follow the reset sequence in the manual: typically align the current code, engage the reset position and dial a new one. Do this before first use on the K60603WW or K62316WW, and register the code to use recovery." },
     { "q": "What should I loop the cable around?", "a": "Use a fixed anchor such as a heavy table leg or desk frame, not something that can be lifted off. The 6 ft cable on the K62316WW gives more choice than the 5 ft K60214WW, but a loose chair is never an anchor." },
