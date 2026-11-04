@@ -1,0 +1,413 @@
+{
+  "slug": "best-usb-c-ethernet-adapters",
+  "category": "tech-accessories",
+  "h1": "The 8 Best USB-C Ethernet Adapters of 2026, Ranked & Reviewed",
+  "metaTitle": "Best USB-C Ethernet Adapters: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 8 USB-C Ethernet adapters scored on speed, chipset, driver support, cable design and warranty, from 2.5Gbps UGREEN to TP-Link.",
+  "mainKeyword": "usb-c ethernet adapters",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "9 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31qWnFxWYaL._SL500_.jpg",
+  "summary": "The UGREEN 2.5G adapter is the one to buy: a Realtek RTL8156BG chip, an aluminum body with status LEDs and backward compatibility with 1Gb networks, for under $50. The uni 2.5Gbps adds a longer braided cable for less. For plain gigabit, the TP-Link UE300C is driver-free even on Linux, and the Anker is the dependable aluminum classic.",
+  "intro": [
+    "A USB-C Ethernet adapter looks like a commodity, and the box is quick to say gigabit. The thing the box leaves out is that your router, your switch and your cable have to agree before any adapter delivers its stated speed. A 2.5Gb adapter on a gigabit network runs at gigabit, and a gigabit adapter on a 2.5Gb network wastes the upgrade.",
+    "We ranked eight adapters, from 1Gbps staples to 2.5Gb models, and scored them on the Primea framework, weighting speed and chipset first, then operating system and driver support, build and cable design, and warranty. Almost all of these are priced under $25, so differences are about details like heat, cable length and compatibility. We left out the 5Gb UGREEN, which is limited to newer Apple chips."
+  ],
+  "products": [
+    {
+      "id": "ugreen-usb-c-to-ethernet-adapter-2-5g",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "UGREEN USB-C to Ethernet Adapter 2.5G",
+      "score": 93,
+      "imageUrl": "https://m.media-amazon.com/images/I/41OJU+YcmIL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CD1FDKT1?tag=primeareviews-amz-20",
+      "verdict": "2.5Gb on a Realtek RTL8156BG chip in an aluminum body with status LEDs.",
+      "description": "UGREEN's 2.5G adapter runs 2.5Gb through a Realtek RTL8156BG chip, in an aluminum housing with status LEDs, and is backward compatible with 1Gb networks. It sits in the $25 to $50 tier, the only adapter here above $25.\n\nIt ranks first because it is future-proof: if your router or switch moves to 2.5Gb, the adapter is ready, and on a gigabit network it simply falls back. The aluminum body helps spread heat, which matters at higher speeds, and the LEDs show whether the link is live. Against the uni 2.5Gbps, it costs more but offers a sturdier case.\n\nBest for desks with a 2.5Gb router or plans to get one. Gigabit-only users can save money below.",
+      "keySpecs": [
+        { "label": "Speed", "value": "2.5Gb, 1Gb compatible" },
+        { "label": "Chip", "value": "Realtek RTL8156BG" },
+        { "label": "Housing", "value": "Aluminum with status LEDs" },
+        { "label": "Price tier", "value": "$25 to $50" }
+      ],
+      "pros": [
+        "2.5Gb speed for faster networks",
+        "Aluminum housing",
+        "Status LEDs show link state",
+        "Falls back to 1Gb networks"
+      ],
+      "cons": [
+        "Priciest adapter here",
+        "Speed unused on gigabit networks",
+        "Warranty not listed"
+      ],
+      "idealFor": "Desks with a 2.5Gb router or plans for one.",
+      "skipIf": "Your network is gigabit and will stay that way."
+    },
+    {
+      "id": "uni-usb-c-to-ethernet-adapter-2-5gbps",
+      "rank": 2,
+      "award": "Best Value 2.5G",
+      "name": "uni USB-C to Ethernet Adapter 2.5Gbps",
+      "score": 91,
+      "imageUrl": "https://m.media-amazon.com/images/I/31fMpfhy9PL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C2H9HVH3?tag=primeareviews-amz-20",
+      "verdict": "2.5Gbps on an RTL8156B with a longer braided cable, under $25.",
+      "description": "The uni 2.5Gbps adapter uses a Realtek RTL8156B chip, includes a longer braided cable that the listing says reduces Bluetooth interference, and carries an 18-month warranty, all in the under $25 tier.\n\nIt ranks second because it undercuts the UGREEN 2.5G on price while keeping the speed, and it states the warranty where the UGREEN does not. The longer cable is a practical detail: the listing says it pulls the adapter away from the laptop's wireless radios, which can cut Bluetooth dropouts on some machines. The tradeoff is a less premium case than the UGREEN's aluminum body.\n\nA smart pick for 2.5Gb networks on a budget. Check that your port supplies enough bandwidth.",
+      "keySpecs": [
+        { "label": "Speed", "value": "2.5Gbps" },
+        { "label": "Chip", "value": "Realtek RTL8156B" },
+        { "label": "Cable", "value": "Longer braided" },
+        { "label": "Warranty", "value": "18 months" }
+      ],
+      "pros": [
+        "2.5Gbps at the lowest tier",
+        "Longer braided cable",
+        "Eighteen-month warranty",
+        "Cable keeps adapter away from radios"
+      ],
+      "cons": [
+        "Less premium housing",
+        "Speed wasted on gigabit networks",
+        "Plastic-feeling case possible"
+      ],
+      "idealFor": "Budget buyers with a 2.5Gb network.",
+      "skipIf": "You want the sturdier aluminum case."
+    },
+    {
+      "id": "tp-link-ue300c-usb-c-to-ethernet-adapter",
+      "rank": 3,
+      "award": "Best Driver-Free",
+      "name": "TP-Link UE300C USB-C to Ethernet Adapter",
+      "score": 89,
+      "imageUrl": "https://m.media-amazon.com/images/I/21mcicfhKHL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08HQBC678?tag=primeareviews-amz-20",
+      "verdict": "A 1Gbps adapter that is driver-free, even on Linux, and folds to 2.8 inches.",
+      "description": "TP-Link's UE300C delivers 1Gbps, works driver-free including on Linux, and folds to 2.8 by 1.0 by 0.6 inches. Its maker is a signatory to the CISA Secure-by-Design pledge, and it sells for under $25.\n\nIt ranks third because gigabit is plenty for most connections, and driver-free operation matters for people on Linux, locked-down work laptops or servers. The foldable design tucks it into a bag. Against the Anker, it is smaller and cheaper, but the Anker uses an aluminum body. Against the 2.5G adapters, it will not keep pace with a faster network.\n\nA solid pick for travellers and Linux users. Check that your port supports data, not just charging.",
+      "keySpecs": [
+        { "label": "Speed", "value": "1Gbps" },
+        { "label": "Drivers", "value": "Driver-free, including Linux" },
+        { "label": "Size", "value": "2.8 x 1.0 x 0.6 in, foldable" },
+        { "label": "Price tier", "value": "Under $25" }
+      ],
+      "pros": [
+        "Driver-free including Linux",
+        "Foldable and tiny",
+        "Under $25",
+        "Brand with Secure-by-Design pledge"
+      ],
+      "cons": [
+        "Gigabit only",
+        "Plastic housing expected",
+        "Warranty not listed"
+      ],
+      "idealFor": "Travellers and Linux or managed-laptop users.",
+      "skipIf": "You have a 2.5Gb network."
+    },
+    {
+      "id": "anker-usb-c-to-ethernet-adapter",
+      "rank": 4,
+      "award": "Best Classic",
+      "name": "Anker USB-C to Ethernet Adapter",
+      "score": 87,
+      "imageUrl": "https://m.media-amazon.com/images/I/31qWnFxWYaL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08CK9X9Z8?tag=primeareviews-amz-20",
+      "verdict": "A metal-cased gigabit adapter on USB-C 3.0, with a braided lead and a year and a half of cover.",
+      "description": "Anker pairs 1Gbps over USB-C 3.0 with an aluminum shell, a braided nylon lead and 18 months of warranty cover, and it costs under $25.\n\nIt ranks fourth because the specs are sound but unremarkable: no driver claim, no 2.5Gb option and no folding. The USB 3.0 mention is useful, since it confirms the port bandwidth to feed a gigabit link. Compared with the TP-Link, the Anker offers a metal case and a warranty length, and compared with the uni 1Gbps it offers a sturdier cable.\n\nA good pick for buyers who want a familiar name and a durable build. Pay attention to cable length.",
+      "keySpecs": [
+        { "label": "Speed", "value": "1Gbps, USB-C 3.0" },
+        { "label": "Housing", "value": "Aluminum" },
+        { "label": "Cable", "value": "Braided nylon" },
+        { "label": "Warranty", "value": "18 months" }
+      ],
+      "pros": [
+        "Aluminum body",
+        "Braided nylon cable",
+        "Eighteen-month warranty",
+        "Under $25"
+      ],
+      "cons": [
+        "Gigabit only",
+        "No driver claims listed",
+        "Does not fold"
+      ],
+      "idealFor": "Buyers who want a durable, familiar-brand gigabit adapter.",
+      "skipIf": "You want 2.5Gb or driver-free assurance."
+    },
+    {
+      "id": "ugreen-usb-c-to-ethernet-adapter-1gbps",
+      "rank": 5,
+      "award": "Best for Consoles",
+      "name": "UGREEN USB-C to Ethernet Adapter (1Gbps)",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41dlards86L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B082K62S48?tag=primeareviews-amz-20",
+      "verdict": "A driver-free gigabit adapter with an LED and Nintendo Switch and Steam Deck support.",
+      "description": "UGREEN's 1Gbps adapter works driver-free on most operating systems, uses an aluminum alloy case with an LED status light, and lists compatibility with the Nintendo Switch and the Steam Deck. It costs under $25.\n\nIt ranks fifth because console and handheld compatibility is the draw, which neither the TP-Link nor the Anker states. For a Switch dock or a Steam Deck, a wired link cuts latency compared with Wi-Fi. The tradeoff is that it offers no warranty length in the listing and no speed above gigabit.\n\nA sensible pick for gamers who want wired internet from a handheld. Check your dock's port arrangement first.",
+      "keySpecs": [
+        { "label": "Speed", "value": "1Gbps" },
+        { "label": "Drivers", "value": "Driver-free on most OSes" },
+        { "label": "Housing", "value": "Aluminum alloy, LED light" },
+        { "label": "Consoles", "value": "Switch, Steam Deck" }
+      ],
+      "pros": [
+        "Switch and Steam Deck compatible",
+        "Driver-free on most systems",
+        "Aluminum case with LED",
+        "Under $25"
+      ],
+      "cons": [
+        "Gigabit only",
+        "Warranty not listed",
+        "Dock fit needs checking"
+      ],
+      "idealFor": "Gamers wanting wired internet on a Switch or Steam Deck.",
+      "skipIf": "You need 2.5Gb or a listed warranty."
+    },
+    {
+      "id": "benfei-usb-c-to-ethernet-adapter",
+      "rank": 6,
+      "award": "Best Thunderbolt Compatible",
+      "name": "BENFEI USB-C to Ethernet Adapter",
+      "score": 83,
+      "imageUrl": "https://m.media-amazon.com/images/I/41DQZgg+g2L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07XTGKP5M?tag=primeareviews-amz-20",
+      "verdict": "A 1Gbps adapter that lists Thunderbolt 3 and 4 compatibility and an unconditional 18-month warranty.",
+      "description": "BENFEI lists 1Gbps with Thunderbolt 3 and 4 compatibility, a braided nylon cable, an aluminum casing and an 18-month unconditional warranty, in the under $25 tier.\n\nIt ranks sixth because Thunderbolt compatibility is a confirmation, not a speed upgrade: the link is still gigabit. It does reassure owners of Thunderbolt laptops and docks that the adapter will be recognised. The unconditional warranty is a point in its favour. Against Anker, it is nearly identical in build, with the Thunderbolt mention the main difference.\n\nA fine choice if you own a Thunderbolt machine and want that compatibility stated. Others have no reason to prefer it.",
+      "keySpecs": [
+        { "label": "Speed", "value": "1Gbps" },
+        { "label": "Compatibility", "value": "Thunderbolt 3/4" },
+        { "label": "Housing", "value": "Aluminum, braided nylon cable" },
+        { "label": "Warranty", "value": "18 months unconditional" }
+      ],
+      "pros": [
+        "Thunderbolt 3/4 compatibility stated",
+        "Unconditional 18-month warranty",
+        "Aluminum casing",
+        "Under $25"
+      ],
+      "cons": [
+        "Gigabit only",
+        "Nearly identical to Anker",
+        "No driver claims listed"
+      ],
+      "idealFor": "Thunderbolt laptop owners who want compatibility confirmed.",
+      "skipIf": "You want faster-than-gigabit speeds."
+    },
+    {
+      "id": "amazon-basics-usb-c-to-rj45-ethernet-adapter",
+      "rank": 7,
+      "award": "Best Plug-and-Play",
+      "name": "Amazon Basics USB-C to RJ45 Ethernet Adapter",
+      "score": 81,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Y738kbOWL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08989MYQ2?tag=primeareviews-amz-20",
+      "verdict": "10/100/1000M Ethernet with a reversible USB-C plug and no external power needed.",
+      "description": "Amazon Basics sells a 10/100/1000M Ethernet adapter with a reversible USB-C plug, no external power requirement and Nintendo Switch compatibility, priced under $25.\n\nIt ranks seventh because the listing is spare: no chipset, no housing description and no warranty length. Its 10/100/1000M wording tells you it negotiates down to older networks, which is useful in older buildings. Against the UGREEN gigabit adapter, it lacks the aluminum case and LED but costs similar money. Basic is the point of this one, and the reversible plug saves fumbling at the back of a desk.\n\nChoose it if you want a minimal adapter from a house brand and mainly need a wired link on a Switch or laptop. Do not expect extras such as an LED, a metal case or a named chipset, and confirm the return terms before you rely on it for work.",
+      "keySpecs": [
+        { "label": "Speed", "value": "10/100/1000M" },
+        { "label": "Plug", "value": "Reversible USB-C" },
+        { "label": "Power", "value": "No external power" },
+        { "label": "Consoles", "value": "Nintendo Switch compatible" }
+      ],
+      "pros": [
+        "Reversible USB-C plug",
+        "No external power needed",
+        "Switch compatible",
+        "Works with older networks"
+      ],
+      "cons": [
+        "Sparse listing details",
+        "No warranty length listed",
+        "Plain build"
+      ],
+      "idealFor": "Buyers who want a basic house-brand adapter.",
+      "skipIf": "You want chip, warranty or build details."
+    },
+    {
+      "id": "uni-usb-c-to-ethernet-adapter-1gbps",
+      "rank": 8,
+      "award": "Best Port-Clearing Design",
+      "name": "uni USB-C to Ethernet Adapter 1Gbps",
+      "score": 79,
+      "imageUrl": "https://m.media-amazon.com/images/I/414juUaWOEL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B077KXY71Q?tag=primeareviews-amz-20",
+      "verdict": "A driver-free gigabit adapter with a non-slip, port-clearing design and an 18-month warranty.",
+      "description": "The uni 1Gbps adapter works driver-free on most operating systems, uses a non-slip, port-clearing design and carries an 18-month warranty, under $25.\n\nThe port-clearing design is meant to avoid blocking a neighbouring USB-C port, a real annoyance on laptops with ports close together. It ranks last because the same price buys the faster uni 2.5Gbps, and because it matches the Anker and UGREEN for speed without their aluminum cases. Compared with the TP-Link, it does not fold.\n\nA reasonable pick for crowded laptops with ports close together, where a wide plug blocks the neighbour. If a faster option costs the same, take it, and keep this one as a spare in the travel bag.",
+      "keySpecs": [
+        { "label": "Speed", "value": "1Gbps" },
+        { "label": "Drivers", "value": "Driver-free on most OSes" },
+        { "label": "Design", "value": "Non-slip, port-clearing" },
+        { "label": "Warranty", "value": "18 months" }
+      ],
+      "pros": [
+        "Port-clearing shape",
+        "Driver-free on most systems",
+        "Eighteen-month warranty",
+        "Under $25"
+      ],
+      "cons": [
+        "Same price as faster uni model",
+        "No metal case listed",
+        "Does not fold"
+      ],
+      "idealFor": "Crowded laptops where adjacent ports must stay usable.",
+      "skipIf": "You can get the 2.5Gbps model for the same money."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Speed and chipset",
+      "description": "We compared 2.5Gb and 1Gb models and the Realtek chips named in the listings, since the controller sets what the adapter can sustain."
+    },
+    {
+      "title": "Driver and OS support",
+      "description": "Driver-free operation, Linux support and console compatibility were credited where the listing states them."
+    },
+    {
+      "title": "Build and cable",
+      "description": "Aluminum bodies, braided cables, folding designs and port-clearing shapes were compared for durability and fit."
+    },
+    {
+      "title": "Warranty",
+      "description": "Eighteen-month and two-year coverage was credited over listings that state no warranty."
+    },
+    {
+      "title": "Price against speed",
+      "description": "Nearly every adapter is under $25, so we asked whether paying for 2.5Gb is worthwhile on a given network."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Speed and your network",
+      "detail": "An adapter can only go as fast as the slowest link: your router port, your cable and the adapter. A 2.5Gb adapter on a gigabit network runs at gigabit. Check your router or switch for 2.5Gb ports before paying extra, and use Cat5e or better cable, since older cable can hold a link at 100Mbps."
+    },
+    {
+      "factor": "Chipset",
+      "detail": "The Realtek RTL8156B and RTL8156BG power the 2.5Gb models here, and the controller affects heat, stability and driver support. A named chip lets you search for known issues and updated drivers. Look for the chip in the listing, and be cautious of adapters that say only gigabit or fast with nothing behind it."
+    },
+    {
+      "factor": "Drivers and operating systems",
+      "detail": "Driver-free means the operating system recognises the adapter immediately, which matters on locked-down work laptops, Linux machines and consoles. The TP-Link UE300C names Linux. Check the listing for supported systems and consoles, and remember that macOS and Windows versions sometimes need a one-time driver for 2.5Gb models."
+    },
+    {
+      "factor": "Port bandwidth and power",
+      "detail": "An adapter needs a USB-C port that carries data, not a charge-only port. A gigabit link needs USB 3.0 speeds, and a 2.5Gb link needs a little more. The Anker names USB-C 3.0. Check your laptop's port specification, and avoid hubs shared with fast storage, which can throttle the Ethernet adapter."
+    },
+    {
+      "factor": "Cable and port fit",
+      "detail": "A short, stiff adapter can strain a laptop port, and a bulky one can block its neighbour. Longer braided cables, as on the uni 2.5Gbps, reduce strain, and port-clearing shapes help on crowded laptops. Look for cable length and shape in the photos, and consider how often you will plug and unplug the adapter, since repeated flexing is what wears out a short, stiff dongle first."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Speed",
+      "intro": "Match the adapter to your router, not to the box.",
+      "table": {
+        "headers": ["Speed", "Our pick"],
+        "rows": [
+          ["2.5Gb, aluminum case", "UGREEN USB-C to Ethernet Adapter 2.5G"],
+          ["2.5Gbps, lowest price", "uni USB-C to Ethernet Adapter 2.5Gbps"],
+          ["1Gbps, driver-free", "TP-Link UE300C USB-C to Ethernet Adapter"],
+          ["1Gbps, aluminum", "Anker USB-C to Ethernet Adapter"],
+          ["10/100/1000M, house brand", "Amazon Basics USB-C to RJ45 Ethernet Adapter"]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": ["Spend", "Our pick"],
+        "rows": [
+          ["Under $25, 2.5Gbps", "uni USB-C to Ethernet Adapter 2.5Gbps"],
+          ["Under $25, gigabit", "TP-Link UE300C USB-C to Ethernet Adapter"],
+          ["Under $25, durable", "Anker USB-C to Ethernet Adapter"],
+          ["Under $25, Thunderbolt", "BENFEI USB-C to Ethernet Adapter"],
+          ["$25 to $50", "UGREEN USB-C to Ethernet Adapter 2.5G"]
+        ]
+      }
+    },
+    {
+      "subheading": "2.5Gb vs Gigabit",
+      "cards": [
+        {
+          "label": "2.5Gb",
+          "text": "Future-proof for faster routers and quicker file transfers, at the same or slightly higher price. Picks: UGREEN 2.5G and uni 2.5Gbps."
+        },
+        {
+          "label": "Gigabit",
+          "text": "Plenty for most internet connections and home networks. Picks: TP-Link UE300C, Anker, UGREEN 1Gbps, BENFEI, Amazon Basics and uni 1Gbps."
+        }
+      ],
+      "note": "Default to 2.5Gb if the price is similar, since it costs little and falls back to gigabit."
+    },
+    {
+      "subheading": "By Compatibility",
+      "table": {
+        "headers": ["Need", "Our pick"],
+        "rows": [
+          ["Linux and driver-free", "TP-Link UE300C USB-C to Ethernet Adapter"],
+          ["Switch and Steam Deck", "UGREEN USB-C to Ethernet Adapter (1Gbps)"],
+          ["Thunderbolt 3 and 4", "BENFEI USB-C to Ethernet Adapter"],
+          ["Crowded laptop ports", "uni USB-C to Ethernet Adapter 1Gbps"],
+          ["Reversible plug, no power", "Amazon Basics USB-C to RJ45 Ethernet Adapter"]
+        ]
+      }
+    },
+    {
+      "subheading": "For Home Office Video Calls Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A stable link, driver-free operation so IT does not need to touch the machine, and a cable that does not block other ports."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The TP-Link UE300C for driver-free reliability, or the UGREEN 2.5G if your office network supports faster speeds."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You have a 2.5Gb router and move big files, which makes the UGREEN 2.5G in its aluminum case worth the premium."
+        },
+        {
+          "label": "Save if",
+          "text": "Your network is gigabit. The TP-Link UE300C or the Anker cost under $25 and do the job."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will a 2.5Gb adapter work on a gigabit network?",
+      "a": "Yes. The UGREEN 2.5G is backward compatible with 1Gb networks and simply runs at gigabit speed. You will not see 2.5Gb until your router, switch and cable all support it."
+    },
+    {
+      "q": "What mistake do buyers make with Ethernet adapters?",
+      "a": "Plugging into a charge-only USB-C port or an old cable. The Anker needs a data-capable USB-C 3.0 connection, and Cat5 cable can hold a link at slower speeds. Check both before blaming the adapter."
+    },
+    {
+      "q": "Is the UGREEN 2.5G worth it over the uni 2.5Gbps?",
+      "a": "For the sturdier case, yes. The UGREEN has an aluminum housing and LEDs in the $25 to $50 tier, while the uni is under $25 with a longer braided cable and an 18-month warranty."
+    },
+    {
+      "q": "Do I need to install drivers?",
+      "a": "Usually not for gigabit. The TP-Link UE300C, UGREEN 1Gbps and uni 1Gbps are driver-free on most systems. 2.5Gb adapters may need a driver on some versions of Windows or macOS."
+    },
+    {
+      "q": "How do I keep an adapter from overheating?",
+      "a": "Use it with some airflow and keep it off soft surfaces. The aluminum housings on the UGREEN and Anker spread heat, and the uni's longer cable lets you set the adapter away from the laptop."
+    },
+    {
+      "q": "Can I use these with a Switch or Steam Deck?",
+      "a": "Yes, several can. The UGREEN 1Gbps lists Switch and Steam Deck support, and the Amazon Basics adapter lists Switch compatibility. Check that your dock has a free USB-C port or a USB adapter."
+    }
+  ],
+  "finalTake": "For most people the UGREEN 2.5G is the best USB-C Ethernet adapter: a named Realtek chip, an aluminum case and backward compatibility with gigabit. Choose the uni 2.5Gbps if price matters, the TP-Link UE300C for driver-free reliability and Linux, and the UGREEN 1Gbps for a Switch or Steam Deck. The Anker is the durable gigabit classic.",
+  "related": []
+}

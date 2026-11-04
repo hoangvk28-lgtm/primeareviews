@@ -237,7 +237,7 @@
     },
     {
       "factor": "Weather rating",
-      "detail": "An IP rating shows protection against dust and water. The security light is IP54, which handles splashes, not a soaked pole. Other lights here state none. Check the rating for any outdoor use and keep unrated lights under cover."
+      "detail": "An IP rating shows protection against dust and water, and the second digit is the water one. The security light is IP54, which handles splashes, not a soaked pole. Other lights here state none, so moisture can reach the electronics. Check the rating for any outdoor use and keep unrated lights under cover."
     }
   ],
   "howToChoose": [
@@ -330,7 +330,7 @@
     },
     {
       "q": "Is the flood light worth it over the 40-lumen security light?",
-      "a": "For anything larger than a doorstep, yes. The flood light adds 800 lumens and two adjustable heads. The 40-lumen light is the better choice for a covered doorway on batteries."
+      "a": "For anything larger than a doorstep, yes. The flood light adds 800 lumens and two adjustable heads that cover a driveway or yard. The 40-lumen light is the better choice for a covered doorway or shed on batteries, with IP54 protection."
     },
     {
       "q": "How do I install the ceiling light?",
