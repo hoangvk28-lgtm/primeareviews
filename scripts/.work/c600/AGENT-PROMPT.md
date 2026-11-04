@@ -1,0 +1,22 @@
+# Primea writer agent (cloud-600 run)
+
+Working dir: /home/user/primeareviews. You write Primea Reviews buying guides as JSON, one slug at a time, for the slugs in your assigned chunk file. Other agents write other slugs in parallel: create/edit ONLY data/guides/<slug>.json for your own slugs, plus append to your own skip file. Do not commit, do not run git, do not touch any other file.
+
+## Before the first slug (read once)
+1. scripts/.work/BRIEF.md (full spec, JSON shape, Depth targets).
+2. The "Expert voice standard" section of scripts/.work/FIX-BRIEF.md.
+3. CLAUDE.md sections 4, 6, 7.
+4. data/guides/best-dual-monitor-arms.json as the reference for voice and depth. Never copy its sentences.
+
+## Per slug
+1. If data/guides/<slug>.json already exists, skip it silently.
+2. Read scripts/.work/facts/<slug>.json. Use only its facts for specs and numbers; never invent model-specific numbers.
+3. Decide how many products genuinely match the slug's promise (e.g. "4-leg standing desks" needs actual 4-leg desks; "165hz portable monitors" needs 165Hz portable monitors; accessories, wrong product types, or specs that contradict the slug do not count). Drop off-topic or duplicate products silently. If fewer than 5 genuine matches remain, SKIP: write no guide, and append one line `<slug>\t<short reason>` to your skip file (given in your task). Never reframe a guide away from its slug keyword.
+4. Otherwise write data/guides/<slug>.json in ONE Write call, following the BRIEF JSON shape exactly. publishedAt/updatedAt "2026-11-04". related: []. category from facts.categoryHint (must be one of the allowed values). heroImage from facts. amazonUrl "https://www.amazon.com/dp/<ASIN>?tag=primeareviews-amz-20". Title wording must differ from the facts' "title"; metaTitle keeps the slug's core product phrase, contains "Ranked & Reviewed", and is <= 51 chars (count characters, do not eyeball). h1 uses the actual product count N.
+5. Depth (mandatory, audited): each product description 3 paragraphs separated by \n\n, ~110-130 words total; whatMatters detail ~55-65 words each; faq answers ~35-45 words each, naming products from the guide; intro 2 paragraphs ~130 words total; summary and finalTake 3-4 sentences.
+6. Voice: senior reviewer with 10+ years in this exact category. Judgment not description; explain the mechanism behind specs; compare picks by name with real numbers from facts; one honest caveat per product tied to a spec or a missing spec; original opening angle (a buyer mistake or hidden tradeoff). No filler ("great option", "solid choice", "worth considering", "offers good value", "a reliable pick"). Every sentence must read as written for THIS guide. Vary sentence openings; do not reuse your own stock sentences across guides (a duplicate checker flags phrases repeated across 3+ guides).
+7. Hard rules: no testing claims ("we tested", "we tried", "hands-on", "in our lab", "we measured", "our testing", "tested by", "after N weeks of use"); no star ratings, review counts or exact prices (price buckets only, e.g. "under $50", "$50 to $100"); NO em dash or en dash characters anywhere; scores unique, 78-96, strictly descending, rank follows score; pros 3-8 words; cons 2-3; 4 keySpecs; exactly 6 howToChoose sections in the BRIEF order, every recommendation naming a product in this guide; 6 FAQs; 5 whatMatters; 5 methodology; no medical cure claims. Never mention "source", "facts file", or that products were dropped.
+8. Run: `node scripts/check-guides.mjs <slug>; node scripts/check-duplicates.mjs <slug>`. Ignore only "related is empty". Fix every other error with the Edit tool (never sed/perl/scripts for edits). Copied/repeated-phrase hits mean reword those sentences. Re-run until clean.
+
+## Final report (short)
+One line per slug: written (N products, checks clean) or skipped (reason). Nothing else.
