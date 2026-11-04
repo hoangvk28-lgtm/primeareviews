@@ -1,7 +1,7 @@
-# cloud-600 progress (2026-11-04T18:21 UTC)
+# cloud-600 progress (2026-11-04T18:24 UTC)
 
-New guides written: 74 / 600 target (main list 74, backup 0)
-Skipped: main 170, backup 0. Pending: main 356, backup 300
+New guides written: 83 / 600 target (main list 83, backup 0)
+Skipped: main 180, backup 0. Pending: main 337, backup 300
 
 ## Skipped slugs (reason) -> replacement backup slug
 best-4-leg-standing-desks	no genuine 4-leg desks; all 2-leg frames, a rolling cart, or unspecified	-> (no replacement yet)
@@ -174,6 +174,16 @@ best-weed-pullers-with-ejectors	Facts confirm an ejector on only one product	-> 
 best-carpet-cleaners-for-pet-urine	Only 2 carpet cleaner machines; rest are sprays/formulas	-> (no replacement yet)
 best-canister-vacuums-with-powerheads	No facts confirm powerheads on enough models	-> (no replacement yet)
 best-canister-vacuums-without-beater-bars	No facts confirm beater-bar-free design on enough models	-> (no replacement yet)
+best-ultrasonic-cleaners-for-mouthguards	only 1 product (Zima) lists guards; rest are retainer pods	-> (no replacement yet)
+best-ultrasonic-cleaners-for-dentures	only 3 products (7MAGIC, MUAYSY, Zima) state dentures	-> (no replacement yet)
+best-garden-carts-with-large-wheels	no wheel-size data for any product	-> (no replacement yet)
+best-ring-lights-under-20	only 3 genuine ring lights fit the under-$20 bucket	-> (no replacement yet)
+best-meeting-room-scheduling-systems	only 1 real room scheduler; rest are books, signs, mounts, displays	-> (no replacement yet)
+best-meeting-room-booking-displays	only 3 distinct room-booking panels; rest are room dividers and boards	-> (no replacement yet)
+best-700-ansi-lumens-projectors	no ANSI lumen data for any product	-> (no replacement yet)
+best-costway-kneeling-chairs	no Costway products in source	-> (no replacement yet)
+best-wood-storage-carts	only 4 genuine wood carts	-> (no replacement yet)
+best-nypot-kneeling-chairs	fewer than 5 distinct NYPOT models (rest are duplicate listings)	-> (no replacement yet)
 
 ## Skipped backup slugs (reason)
 
@@ -188,6 +198,8 @@ best-outdoor-storage-shed-under-1000
 best-lawn-aerator-under-200
 best-talking-clock-under-50
 best-whole-house-humidifiers
+best-6l-ultrasonic-cleaners
+best-creworks-ultrasonic-cleaners
 best-bluetooth-trackers
 best-laser-engravers-under-3000
 best-adaptive-scissors-under-20
@@ -203,6 +215,9 @@ best-network-switches-under-500
 best-watering-wands
 best-halloween-entryway-inflatables
 best-bluetooth-trackers-for-wallets
+best-14000-btu-portable-air-conditioners
+best-shower-chairs-under-150
+best-laser-engravers-under-300
 best-snow-blowers-under-500
 best-garden-augers-for-bulbs
 best-homekit-smart-plugs
@@ -217,6 +232,7 @@ best-large-sock-aids
 best-rain-barrels
 best-large-button-calculators
 best-giant-halloween-inflatables
+best-5ghz-wi-fi-extenders
 best-50-inch-tvs
 best-laptop-cooling-pads-for-lenovo-legion-laptops
 best-98-inch-tvs
@@ -232,12 +248,15 @@ best-portable-monitors-for-photo-editing
 best-shoe-rack-bench
 best-electric-kettles-under-400
 best-small-safes-for-closets
+best-paper-shredders-under-100
 best-small-safes-for-offices
 best-electric-kettles-for-pour-over-coffee
+best-video-doorbells-for-apartments
 best-lawn-mowers-under-150
 best-vertical-mice-for-small-hands
 best-digital-photo-frames-that-play-video
 best-electric-pruning-shears-for-vines
+best-85-inch-tvs
 best-air-quality-monitors-for-mold
 best-toaster-ovens-under-100
 best-air-quality-monitors-for-3d-printing
@@ -260,7 +279,6 @@ best-m-audio-studio-monitors
 best-hdmi-projectors
 best-nvme-enclosures-under-100
 best-vankyo-projectors
-best-6l-ultrasonic-cleaners
 best-pir-motion-sensor-lights
 best-wi-fi-extenders-for-large-homes
 best-hose-reel-carts-for-seniors
@@ -269,7 +287,6 @@ best-smart-alarm-clocks
 best-soaker-hoses-for-rain-barrels
 best-garden-sprayers-under-20
 best-dual-band-wi-fi-extenders
-best-creworks-ultrasonic-cleaners
 best-ultrasonic-cleaner-baskets
 best-bedside-commodes-under-75
 best-ultrasonic-cleaners-for-airbrushes
@@ -316,9 +333,6 @@ best-oil-filled-space-heaters
 best-bluetooth-trackers-for-seniors
 best-animated-halloween-projectors
 best-digital-calendar-clocks
-best-14000-btu-portable-air-conditioners
-best-shower-chairs-under-150
-best-laser-engravers-under-300
 best-talking-clocks-for-seniors
 best-halloween-skeletons-under-75
 best-watering-wands-with-shut-off-valves
@@ -399,7 +413,6 @@ best-watering-wands-for-seniors
 best-halloween-laser-projectors
 best-lightweight-cast-iron-skillets
 best-task-stools
-best-5ghz-wi-fi-extenders
 best-telescoping-watering-wands
 best-cordless-automatic-pot-stirrers
 best-black-floating-shelves
@@ -463,8 +476,6 @@ best-electric-mops-for-vinyl-floors
 best-docking-stations-for-surface-pro-laptop
 best-electric-mops-for-pet-messes
 best-40-inch-tvs
-best-paper-shredders-under-100
-best-video-doorbells-for-apartments
 best-bed-frame-wood
 best-bed-frame-platform
 best-bed-frame-twin-xl
@@ -525,7 +536,6 @@ best-ultrawide-monitor-for-work
 best-electric-mops-for-hardwood-floors
 best-digital-photo-frames-with-remote-upload
 best-digital-photo-frames-with-usb-and-sd-card-support
-best-85-inch-tvs
 best-electric-pruning-shears-for-fruit-trees
 best-electric-pruning-shears-for-thick-branches
 best-ultrawide-monitor-arm
@@ -537,7 +547,6 @@ best-motion-sensor-ceiling-lights
 best-ultrasonic-cleaners-for-invisalign-and-aligners
 best-ultrasonic-cleaners-for-retainers
 best-ultrasonic-cleaner-solutions
-best-ultrasonic-cleaners-for-mouthguards
 best-halloween-inflatables-under-45
 best-halloween-animatronics-under-150
 best-halloween-animatronics-under-70
@@ -548,29 +557,20 @@ best-ultrasonic-cleaner-baths
 best-ring-lights-for-laptop
 best-wi-fi-extenders
 best-ring-lights-for-content-creation
-best-ultrasonic-cleaners-for-dentures
 best-portable-air-conditioners-under-1000
 best-motion-sensor-lights-for-home
 best-bluetooth-trackers-for-iphone
-best-garden-carts-with-large-wheels
-best-ring-lights-under-20
 best-halloween-animatronics-under-80
-best-meeting-room-scheduling-systems
 best-halloween-inflatables-under-60
 best-bluetooth-trackers-for-cars
 best-halloween-inflatables-under-20
-best-meeting-room-booking-displays
 best-halloween-inflatables-under-35
 best-wi-fi-extenders-for-starlink
 best-wi-fi-extenders-for-gaming
 best-heavy-duty-storage-carts
 best-corner-desks
-best-700-ansi-lumens-projectors
-best-costway-kneeling-chairs
 best-task-chairs-for-gaming
-best-wood-storage-carts
 best-5-in-1-jar-openers
-best-nypot-kneeling-chairs
 best-divided-plates-under-15
 best-e-ink-meeting-room-schedulers
 best-outdoor-solar-motion-sensor-lights
