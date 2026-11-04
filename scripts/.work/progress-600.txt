@@ -1,7 +1,7 @@
-# cloud-600 progress (2026-11-04T18:46 UTC)
+# cloud-600 progress (2026-11-04T18:49 UTC)
 
-New guides written: 173 / 600 target (main list 163, backup 10)
-Skipped: main 291, backup 23. Pending: main 146, backup 267
+New guides written: 183 / 600 target (main list 170, backup 13)
+Skipped: main 298, backup 23. Pending: main 132, backup 264
 
 ## Skipped slugs (reason) -> replacement backup slug
 best-4-leg-standing-desks	no genuine 4-leg desks; all 2-leg frames, a rolling cart, or unspecified	-> best-halloween-animatronics-under-100
@@ -14,9 +14,9 @@ best-tvs-with-wide-viewing-angles	no viewing-angle data in facts; cannot support
 best-horizontal-murphy-beds-with-desks	only 3 confirmed horizontal beds, none with desks	-> best-jmgo-projectors
 best-standing-desk-frames	products are complete fixed-top desks, not frames	-> best-halloween-projector-lights
 best-ames-garden-carts	only 1 Ames-branded product	-> best-space-heaters-for-large-rooms
-best-printers-for-stickers-and-cricut	all black-only thermal label printers, none marketed for Cricut print-then-cut	-> (no replacement yet)
-best-standing-desks-with-storage	no product is both height-adjustable and has built-in storage	-> (no replacement yet)
-best-4-bay-nas-for-home-offices	only 3 true 4-bay NAS units; rest are DAS enclosures or 2-bay	-> (no replacement yet)
+best-printers-for-stickers-and-cricut	all black-only thermal label printers, none marketed for Cricut print-then-cut	-> best-corner-desk-connectors
+best-standing-desks-with-storage	no product is both height-adjustable and has built-in storage	-> best-anti-fatigue-mats-for-garage-workshop
+best-4-bay-nas-for-home-offices	only 3 true 4-bay NAS units; rest are DAS enclosures or 2-bay	-> best-space-heaters-under-150
 best-electric-mops-with-edge-cleaning	only 3 products document edge cleaning	-> (no replacement yet)
 best-77-inch-tvs	only 3 products are 77-inch	-> (no replacement yet)
 best-tablets-with-caregiver-family-management	facts have no caregiver/family-management data for most products	-> (no replacement yet)
@@ -158,6 +158,12 @@ best-lightweight-sauce-pans	no weight data for any pan	-> (no replacement yet)
 best-6000-lumen-4k-projectors	listed lumens are 3200 to 5500; none confirm 6000	-> (no replacement yet)
 best-lighted-magnifying-glasses-under-20	price bucket is under $25; under $20 unverifiable	-> (no replacement yet)
 best-digital-radios-for-seniors-under-25	no confirmed digital tuners; mostly analog or clock radios	-> (no replacement yet)
+best-wi-fi-extenders-for-t-mobile-home-internet	only 1 extender states gateway or provider compatibility; none name T-Mobile	-> (no replacement yet)
+best-portable-ultrasonic-cleaners	only 4 units state portable or cordless use; rest are plain tubs	-> (no replacement yet)
+best-corded-landline-phones-for-seniors-under-30	only 3 phones have a bucket entirely under $30	-> (no replacement yet)
+best-lightweight-handheld-steam-cleaners	only 1 steamer states a weight	-> (no replacement yet)
+best-meeting-room-scheduler-tablets	only 3 are actual scheduler tablets or panels; rest are mounts and enclosures	-> (no replacement yet)
+best-animated-halloween-projectors	only 4 distinct models state animated or dynamic effects; others are variants or static	-> (no replacement yet)
 best-humidifiers-with-rgb-light	only 3 products with a stated RGB light; others are plain humidifiers or oil diffusers	-> (no replacement yet)
 best-adaptive-scissors-under-20	price promise unverifiable: data only gives an under-$25 bucket (removed after review)	-> (no replacement yet)
 best-power-banks-for-camping	only 4 true power banks; the rest are portable power stations, a different product type	-> (no replacement yet)
@@ -182,6 +188,7 @@ best-watering-wands-under-20	price cap: every product has an under-$25 bucket, w
 best-leather-task-chairs	only 3 products state leather or PU leather; others are mesh or unstated upholstery	-> (no replacement yet)
 best-storage-carts-between-washer-and-dryer	only about 3 distinct carts state a laundry gap or narrow-space use; SPACEKEEPER and Vivihomety listings are variants of each other	-> (no replacement yet)
 best-bed-wedge-pillows-under-30	price cap: every product has a $25-50 bucket, which does not prove under $30	-> (no replacement yet)
+best-microphone-arms-for-twitch-streamers	only 1 standalone microphone arm; the rest are microphone kits or microphones	-> (no replacement yet)
 best-humidifiers-for-cpap-machines	only replacement water chambers for different machines plus a room humidifier; no usable specs	-> (no replacement yet)
 best-metal-corner-desks	facts do not confirm metal construction for most desks; no material or load specs	-> (no replacement yet)
 best-halloween-speakers-under-30	fewer than 5 genuine Halloween speakers; rest are sound modules, projector or comms speakers	-> (no replacement yet)
@@ -350,6 +357,7 @@ best-zero-gravity-chairs-with-canopies
 best-tabletop-patio-heaters
 best-deco-wi-fi-extenders
 best-bird-feeders-under-50
+best-sliding-transfer-boards
 best-bluetooth-trackers
 best-laser-engravers-under-3000
 best-corner-desks-for-college-students
@@ -382,6 +390,8 @@ best-cane-tips
 best-transfer-boards
 best-network-switches-under-300
 best-electric-jar-openers-for-seniors
+best-cross-platform-bluetooth-trackers
+best-carbon-fiber-walking-canes
 best-snow-blowers-under-500
 best-garden-augers-for-bulbs
 best-homekit-smart-plugs
@@ -411,6 +421,8 @@ best-height-adjustable-drafting-chairs
 best-portable-bathtub-grab-bars
 best-under-cabinet-motion-sensor-lights
 best-rocking-chairs-under-100
+best-ergonomic-corner-desks
+best-eightree-smart-plugs
 best-50-inch-tvs
 best-laptop-cooling-pads-for-lenovo-legion-laptops
 best-98-inch-tvs
@@ -444,6 +456,8 @@ best-ergonomic-keyboards
 best-gaming-chair-with-lumbar-support
 best-portable-monitors-for-macbook-air
 best-standing-desk-for-tall-person
+best-leaf-blowers-under-100
+best-weed-pullers
 best-vertical-mice-for-small-hands
 best-digital-photo-frames-that-play-video
 best-electric-pruning-shears-for-vines
@@ -487,32 +501,22 @@ best-halloween-animatronics-under-80
 best-halloween-inflatables-under-60
 
 ## Pending (main list)
-best-sliding-transfer-boards
 best-couch-assist-handles
 best-garden-augers
 best-zipper-pulls-for-arthritis
-best-wi-fi-extenders-for-t-mobile-home-internet
 best-y-peelers
-best-portable-ultrasonic-cleaners
 best-rocking-chairs-under-300
 best-universal-audio-audio-interfaces
-best-corded-landline-phones-for-seniors-under-30
 best-weighted-adaptive-utensils
 best-large-base-quad-canes
-best-lightweight-handheld-steam-cleaners
 best-sdi-video-switchers
 best-walker-bags-under-30
 best-manual-can-openers
-best-meeting-room-scheduler-tablets
 best-bluetooth-trackers-for-pets
 best-oil-filled-space-heaters
 best-bluetooth-trackers-for-seniors
-best-animated-halloween-projectors
 best-digital-calendar-clocks
-best-cross-platform-bluetooth-trackers
-best-carbon-fiber-walking-canes
 best-video-switchers-for-churches
-best-microphone-arms-for-twitch-streamers
 best-lightweight-cookware-under-30
 best-utility-carts
 best-5ft-portable-wheelchair-ramps
@@ -553,8 +557,6 @@ best-watering-wands-for-seniors
 best-halloween-laser-projectors
 best-lightweight-cast-iron-skillets
 best-task-stools
-best-ergonomic-corner-desks
-best-eightree-smart-plugs
 best-smart-alarm-clocks-for-heavy-sleepers
 best-indoor-motion-sensor-lights
 best-tablets-under-150
@@ -568,8 +570,6 @@ best-2-tier-pull-out-cabinet-organizers
 best-warm-mist-humidifiers
 best-whistle-key-finders
 best-docking-stations-for-dell-laptops
-best-leaf-blowers-under-100
-best-weed-pullers
 best-room-divider-panels
 best-carpet-cleaners-under-100
 best-room-divider-with-storage
@@ -636,9 +636,6 @@ best-solar-powered-wi-fi-extenders
 
 ## Pending (backup)
 best-humidifiers-for-bedroom
-best-corner-desk-connectors
-best-anti-fatigue-mats-for-garage-workshop
-best-space-heaters-under-150
 best-google-tv-projectors
 best-xgimi-projectors
 best-jackery-portable-power-stations

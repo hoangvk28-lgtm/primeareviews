@@ -199,9 +199,9 @@
   ],
   "whatMatters": [
     { "factor": "Platform and Matter", "detail": "Matter is a cross-brand standard that lets one plug work with Apple Home, Alexa and Google Home. Without it, a plug may be tied to a brand app. Check the listing for Matter and Apple Home if you own an iPhone, and avoid assuming Alexa and Google support covers Apple." },
-    { "factor": "Load rating", "detail": "Amperage and wattage tell you how much a plug can switch. A 15A / 1800W rating covers most lamps and fans and some heaters. Look for the rating printed on the listing, and avoid using an unrated plug with high-draw appliances." },
-    { "factor": "Wi-Fi band", "detail": "Many plugs connect only on 2.4GHz Wi-Fi. If your router merges bands, setup can fail. The Kasa EP10P4 states 2.4GHz. Check the listing for the band, and know how to split bands on your router before you begin." },
-    { "factor": "Body size", "detail": "A bulky plug can cover the second socket of a wall outlet. Ultra mini bodies, like the Kasa EP10P4's, leave space. Check the listing for a mini label and the dimension, especially if you plan to use both outlets." },
+    { "factor": "Load rating", "detail": "Amperage and wattage tell you how much a plug can switch. A 15A / 1800W rating covers most lamps and fans and some heaters. Look for the rating printed on the listing, and avoid using an unrated plug with high-draw appliances. Check the appliance label too, since heaters can pull close to the limit." },
+    { "factor": "Wi-Fi band", "detail": "Many plugs connect only on 2.4GHz Wi-Fi. If your router merges bands, setup can fail. The Kasa EP10P4 states 2.4GHz. Check the listing for the band, and know how to split bands on your router before you begin. Most routers let you name each band separately in their settings." },
+    { "factor": "Body size", "detail": "A bulky plug can cover the second socket of a wall outlet. Ultra mini bodies, like the Kasa EP10P4's, leave space. Check the listing for a mini label and the dimension, especially if you plan to use both outlets. Photos with a hand for scale tell you more than the dimension line." },
     { "factor": "Manual control and groups", "detail": "A physical button lets anyone switch the plug without an app, while groups turn several plugs on at once. The Kasa HS103P4 has a touch actuator and the Govee has a group controller. Check which matters more for your household." }
   ],
   "howToChoose": [
@@ -268,7 +268,7 @@
     { "q": "Do these work with Apple HomeKit?", "a": "Only the Tapo Matter Smart Plug Mini lists Apple Home support. The Kasa, Govee, EIGHTREE and GHome plugs list Alexa and Google only, so iPhone households should choose the Tapo." },
     { "q": "What mistake do people make with smart plugs?", "a": "Plugging in a high-draw appliance without checking the rating. The Tapo and EIGHTREE list a 15A rating, but the GHome lists none. Confirm the load before running a heater." },
     { "q": "Is the Tapo worth it over the Kasa 4-pack?", "a": "For Apple users or anyone who wants Matter, yes. The Kasa HS103P4 gives four plugs and a physical button for $25 to $50, but without Matter or Apple Home support." },
-    { "q": "How do I set one up?", "a": "Plug it in, open the app, and connect it to your 2.4GHz network. The Kasa EP10P4 is 2.4GHz only, so split your router bands first if setup fails." },
+    { "q": "How do I set one up?", "a": "Plug it in, open the app, and connect it to your 2.4GHz network. The Kasa EP10P4 is 2.4GHz only, so split your router bands first if setup fails, and keep the phone close to the plug during pairing." },
     { "q": "What if my Wi-Fi goes down?", "a": "The Govee and GHome plugs offer a Bluetooth path, and the Tapo keeps LAN control. Kasa plugs have a button on the HS103P4, so you can always switch by hand." },
     { "q": "Can I use two plugs on one outlet?", "a": "Only if they are slim. The Kasa EP10P4 and Tapo Mini are compact enough to try, while bulky plugs usually block the second socket. Check the product photos for width." }
   ],

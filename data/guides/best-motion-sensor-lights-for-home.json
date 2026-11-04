@@ -200,9 +200,9 @@
   "whatMatters": [
     { "factor": "Sensor type and range", "detail": "Microwave sensors read movement in a full circle, while PIR sensors see a forward cone. The Abovizo senses to 72 ft over 180 degrees, and the AUVON covers 3 to 5 meters at 120 degrees. Check the listing for distance and angle, and match them to the room." },
     { "factor": "Brightness", "detail": "A night light at 30 to 60 lumens guides you, a ceiling panel at 2400 lumens lights a room, and a floodlight at 8500 lumens lights a yard. Pick the level for the job. Check for a lumen figure, as several listings here omit it." },
-    { "factor": "Power source", "detail": "Plug-in lights need no batteries but occupy an outlet, battery lights go anywhere but need cells, and wired fixtures need an electrician. The Guankai needs 24 AAA batteries per pack. Check how each light is powered before you plan placement." },
-    { "factor": "Weather rating", "detail": "Outdoor lights need a rating such as IP65 to survive rain and dust. The Abovizo lists it. Indoor night lights do not. Check the listing for an IP number before putting any light outdoors." },
-    { "factor": "Colour temperature", "detail": "Warm 3000K light feels restful in bedrooms and halls, while 6500K reads as harsh daylight. The L LOHAS and DORESshop use 3000K, the Abovizo 6500K. Check the colour on the listing, and choose warm for sleeping areas." }
+    { "factor": "Power source", "detail": "Plug-in lights need no batteries but occupy an outlet, battery lights go anywhere but need cells, and wired fixtures need an electrician. The Guankai needs 24 AAA batteries per pack. Check how each light is powered before you plan placement. Count free outlets in each hallway first, because plug-in lights fail the moment an outlet is already taken." },
+    { "factor": "Weather rating", "detail": "Outdoor lights need a rating such as IP65 to survive rain and dust. The Abovizo lists it. Indoor night lights do not. Check the listing for an IP number before putting any light outdoors. Even then, mount the fixture with the lens facing downward so water runs off instead of pooling." },
+    { "factor": "Colour temperature", "detail": "Warm 3000K light feels restful in bedrooms and halls, while 6500K reads as harsh daylight. The L LOHAS and DORESshop use 3000K, the Abovizo 6500K. Check the colour on the listing, and choose warm for sleeping areas. Cool light suits garages and driveways, where visibility matters more than comfort." }
   ],
   "howToChoose": [
     {

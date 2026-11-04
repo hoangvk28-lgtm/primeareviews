@@ -171,9 +171,9 @@
   "whatMatters": [
     { "factor": "Watts per litre", "detail": "Total wattage means little without tank volume. Divide watts by litres: the 3 L VEVOR gives 40W per litre, and the 6 L gives 30W per litre. Higher density cleans more aggressively. Check wattage and litres on the listing and do the division yourself." },
     { "factor": "Heater", "detail": "Warm water loosens oils, wax and polish far better than cold. The 6 L VEVOR has a 200W heater to 80 degrees C, the 1.3 L lists none. Check for heater wattage and a temperature range, and avoid using solvents or flammable liquids in the tank." },
-    { "factor": "Frequency", "detail": "At 40 kHz, cavitation bubbles are large enough for tools and parts and gentle enough for jewelry. Higher frequencies are gentler and finer. Check the listing for kHz, as the CREWORKS lists none." },
-    { "factor": "Degassing", "detail": "Fresh water contains dissolved air that absorbs ultrasonic energy. A degassing mode runs the transducers without a load to clear it. The 30 L VEVOR has one. Check for the mode, or run a five-minute empty cycle yourself." },
-    { "factor": "Tank dimensions", "detail": "The tank depth limits what hangs inside. The 1.3 L VEVOR is only 2.6 inches deep, so tall items will not submerge. Check the dimensions on the listing, and leave room for a basket." }
+    { "factor": "Frequency", "detail": "At 40 kHz, cavitation bubbles are large enough for tools and parts and gentle enough for jewelry. Higher frequencies are gentler and finer. Check the listing for kHz, as the CREWORKS lists none. Lower frequencies hit harder and suit tools, while higher ones are gentler on delicate jewelry." },
+    { "factor": "Degassing", "detail": "Fresh water contains dissolved air that absorbs ultrasonic energy. A degassing mode runs the transducers without a load to clear it. The 30 L VEVOR has one. Check for the mode, or run a five-minute empty cycle yourself. Skipping this step is why a fresh bath often seems weak for its first few minutes." },
+    { "factor": "Tank dimensions", "detail": "The tank depth limits what hangs inside. The 1.3 L VEVOR is only 2.6 inches deep, so tall items will not submerge. Check the dimensions on the listing, and leave room for a basket. Baskets lift items off the stainless floor, so subtract an inch or two of usable depth." }
   ],
   "howToChoose": [
     {

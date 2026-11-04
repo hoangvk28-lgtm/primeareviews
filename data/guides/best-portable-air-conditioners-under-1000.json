@@ -200,9 +200,9 @@
   "whatMatters": [
     { "factor": "ASHRAE vs SACC", "detail": "ASHRAE is the larger headline number, and SACC is a lower rating closer to real cooling. The BLACK+DECKER lists 14,000 ASHRAE and 10,200 SACC. Size the unit by the SACC value, and be wary of listings that give only one unlabeled BTU number." },
     { "factor": "Room size", "detail": "A unit's stated square footage should match its BTU. Midea claims 150 sq ft from 8,500 BTU ASHRAE. A claim of 450 sq ft from 12000 BTU, like the Uhome's, looks generous. Check the listing for a coverage number and compare it with the BTU." },
-    { "factor": "Drainage", "detail": "Portable units collect condensate. Self-evaporating systems, like the GrowthWing's, reduce how often you empty a tank. Others need regular draining. Check whether the listing mentions self-evaporation or a drain hose." },
-    { "factor": "Window kit", "detail": "A portable unit vents hot air through a hose and window kit. A poor seal lets hot air return. Garvee lists quick window installation. Check that the kit fits your window type, and measure the opening before you buy." },
-    { "factor": "Extra modes", "detail": "Dehumidify, fan, heat and sleep modes extend a unit's use. SereneLife and Garvee are 3-in-1, and the BLACK+DECKER and Uhome heat. Check which modes the listing names, and whether they matter in your climate." }
+    { "factor": "Drainage", "detail": "Portable units collect condensate. Self-evaporating systems, like the GrowthWing's, reduce how often you empty a tank. Others need regular draining. Check whether the listing mentions self-evaporation or a drain hose. In humid weather even a self-evaporating unit may need an occasional drain, so ask how overflow is handled." },
+    { "factor": "Window kit", "detail": "A portable unit vents hot air through a hose and window kit. A poor seal lets hot air return. Garvee lists quick window installation. Check that the kit fits your window type, and measure the opening before you buy. Sliding and casement windows often need different adapters, and gaps around the panel are where cool air leaks out." },
+    { "factor": "Extra modes", "detail": "Dehumidify, fan, heat and sleep modes extend a unit's use. SereneLife and Garvee are 3-in-1, and the BLACK+DECKER and Uhome heat. Check which modes the listing names, and whether they matter in your climate. A heat mode helps in mild seasons but rarely replaces a real heater in a cold room." }
   ],
   "howToChoose": [
     {
@@ -266,10 +266,10 @@
   ],
   "faq": [
     { "q": "Do these need a window?", "a": "Yes. Portable units vent hot air through a hose, usually via a window kit. Garvee lists quick window installation, and the others use similar kits. Check that the kit fits your window type." },
-    { "q": "What mistake do buyers make?", "a": "Sizing by the headline BTU. The BLACK+DECKER shows 14,000 BTU ASHRAE but 10,200 BTU SACC. Size by the lower figure, and check the room size the listing claims." },
-    { "q": "Is the GrowthWing worth it over the BLACK+DECKER?", "a": "If app and voice control and self-evaporating drainage matter, yes. The BLACK+DECKER offers clearer ratings and a heat mode. The GrowthWing listing also contradicts itself on BTU." },
-    { "q": "How do I set one up?", "a": "Attach the hose to the unit, fit the window kit, seal the gaps and plug in. On the GrowthWing, pair the app after the first power-up." },
-    { "q": "How often must I empty the water?", "a": "The GrowthWing is self-evaporating, so it needs less draining. Other units may need regular emptying in humid weather, especially the SereneLife when in dehumidify mode." },
+    { "q": "What mistake do buyers make?", "a": "Sizing by the headline BTU. The BLACK+DECKER shows 14,000 BTU ASHRAE but 10,200 BTU SACC. Size by the lower figure, and check the room size the listing claims. Oversizing wastes money, while undersizing leaves the compressor running nonstop." },
+    { "q": "Is the GrowthWing worth it over the BLACK+DECKER?", "a": "If app and voice control and self-evaporating drainage matter, yes. The BLACK+DECKER offers clearer ratings and a heat mode. The GrowthWing listing also contradicts itself on BTU, so verify the figure on the page before paying." },
+    { "q": "How do I set one up?", "a": "Attach the hose to the unit, fit the window kit, seal the gaps and plug in. On the GrowthWing, pair the app after the first power-up. Keep the exhaust hose short and straight to limit heat loss." },
+    { "q": "How often must I empty the water?", "a": "The GrowthWing is self-evaporating, so it needs less draining. Other units may need regular emptying in humid weather, especially the SereneLife when in dehumidify mode. Check the tank or drain port weekly during humid spells." },
     { "q": "Can one cool a whole apartment?", "a": "Rarely. A portable unit cools one room. The Midea covers up to 150 sq ft, and larger units cover more. Close doors and keep the hose short for best results." }
   ],
   "finalTake": "The BLACK+DECKER Smart Portable Air Conditioner with Heat is the one to buy, because its listing states both ASHRAE and SACC ratings and includes heat and a remote. Pick the GrowthWing for smart control, the Midea for a small room, and treat the 14,000 BTU badges on SereneLife and Garvee with caution. Size by the lower rating.",
