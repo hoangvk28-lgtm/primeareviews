@@ -221,23 +221,23 @@
   "whatMatters": [
     {
       "factor": "Detection pattern",
-      "detail": "A sensor sees an arc, not a circle. A 110 degree pattern suits a single door, 200 degrees covers a garage front, and 360 degrees below with 180 outward covers a corner. Match the arc to where people actually walk, and check whether the listing mentions look-down coverage."
+      "detail": "A sensor sees an arc, not a circle. A 110 degree pattern suits a single door, 200 degrees covers a garage front, and 360 degrees below with 180 outward covers a corner. Match the arc to where people actually walk, and check whether the listing mentions look-down coverage. Sensors mounted high often miss someone standing right below, which is exactly where a prowler would be."
     },
     {
       "factor": "Adjustability",
-      "detail": "Sensitivity sets how large a heat source triggers the light, range sets how far it looks, and hold time sets how long it stays on. The LU160 adjusts all three. Fixtures that list none of these use factory defaults, which can mean false triggers from cars and animals."
+      "detail": "Sensitivity sets how large a heat source triggers the light, range sets how far it looks, and hold time sets how long it stays on. The LU160 adjusts all three. Fixtures that list none of these use factory defaults, which can mean false triggers from cars and animals. Look for named dials or settings in the specs, since a vague line about adjustability usually describes only the head angle."
     },
     {
       "factor": "Lumens and color temperature",
-      "detail": "Lumens measure brightness, and 3600 is plenty for a door or yard. Color temperature changes the feel: 3000K is warm, 5000K is cool white. The GT500RW/L offers all three. Look for CRI too, as 90 renders colors accurately."
+      "detail": "Lumens measure brightness, and 3600 is plenty for a door or yard. Color temperature changes the feel: 3000K is warm, 5000K is cool white. The GT500RW/L offers all three. Look for CRI too, as 90 renders colors accurately, which helps a camera or a neighbor describe a car's paint correctly. Confirm the lamps are included and whether the fixture lets you change the color temperature later."
     },
     {
       "factor": "Voltage and wiring",
-      "detail": "Residential supply is 120V, while commercial sites often use 277V. The GT500 handles both. Confirm your supply, check the load rating against your lamps, and be ready to hardwire. If you are unsure, an electrician should make the connection."
+      "detail": "Residential supply is 120V, while commercial sites often use 277V. The GT500 handles both. Confirm your supply, check the load rating against your lamps, and be ready to hardwire. If you are unsure, an electrician should make the connection. Read the listing for a wiring diagram or box type, and switch off the breaker, not just the wall switch, before touching the fixture."
     },
     {
       "factor": "Weather rating",
-      "detail": "An IP65 rating, as on the LU160, means dust-tight and protected against water jets. Fixtures marked wet location in their model name, such as the HW series, are intended for outdoor mounting. Look for a stated rating in the listing before mounting under open sky."
+      "detail": "An IP65 rating, as on the LU160, means dust-tight and protected against water jets. Fixtures marked wet location in their model name, such as the HW series, are intended for outdoor mounting. Look for a stated rating in the listing before mounting under open sky. Sealed gaskets and a downward-facing head keep rain out of the lamp socket, which is where cheap fixtures fail first."
     }
   ],
   "howToChoose": [

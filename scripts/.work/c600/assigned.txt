@@ -1,6 +1,7 @@
 part-0-c0..c5 done
 part-1-c0..c3 done; c4-c5 running
-part-2-c0 done; c1-c2 running; c5 done
+part-2-c0..c2 done; c3-c4 pending; c5 done
+deepen-1 running
 part-3-c0..c2 done; c3-c4 running; c5 done
 part-4-c0 done; c1-c2 running; c4 done
 part-5-c0..c2 done; c3-c4 running

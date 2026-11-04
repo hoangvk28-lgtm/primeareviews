@@ -1,7 +1,7 @@
-# cloud-600 progress (2026-11-04T18:49 UTC)
+# cloud-600 progress (2026-11-04T18:54 UTC)
 
-New guides written: 183 / 600 target (main list 170, backup 13)
-Skipped: main 298, backup 23. Pending: main 132, backup 264
+New guides written: 196 / 600 target (main list 182, backup 14)
+Skipped: main 310, backup 23. Pending: main 108, backup 263
 
 ## Skipped slugs (reason) -> replacement backup slug
 best-4-leg-standing-desks	no genuine 4-leg desks; all 2-leg frames, a rolling cart, or unspecified	-> best-halloween-animatronics-under-100
@@ -17,7 +17,7 @@ best-ames-garden-carts	only 1 Ames-branded product	-> best-space-heaters-for-lar
 best-printers-for-stickers-and-cricut	all black-only thermal label printers, none marketed for Cricut print-then-cut	-> best-corner-desk-connectors
 best-standing-desks-with-storage	no product is both height-adjustable and has built-in storage	-> best-anti-fatigue-mats-for-garage-workshop
 best-4-bay-nas-for-home-offices	only 3 true 4-bay NAS units; rest are DAS enclosures or 2-bay	-> best-space-heaters-under-150
-best-electric-mops-with-edge-cleaning	only 3 products document edge cleaning	-> (no replacement yet)
+best-electric-mops-with-edge-cleaning	only 3 products document edge cleaning	-> best-google-tv-projectors
 best-77-inch-tvs	only 3 products are 77-inch	-> (no replacement yet)
 best-tablets-with-caregiver-family-management	facts have no caregiver/family-management data for most products	-> (no replacement yet)
 best-tvs-you-can-use-without-internet	no offline-use data in facts; mixed sizes and a streaming cube	-> (no replacement yet)
@@ -302,6 +302,18 @@ best-wood-storage-carts	only 4 genuine wood carts	-> (no replacement yet)
 best-5-in-1-jar-openers	Otstar sets are 6-in-1 jar openers; only 4 products state 5-in-1	-> (no replacement yet)
 best-nypot-kneeling-chairs	fewer than 5 distinct NYPOT models (rest are duplicate listings)	-> (no replacement yet)
 best-divided-plates-under-15	priceBucket "under $25" does not prove under $15	-> (no replacement yet)
+best-e-ink-meeting-room-schedulers	only 4 products state e-ink and two are the same Joan 6 Pro in two colours	-> (no replacement yet)
+best-projectors-for-bedroom	bedroom use not stated by products; lineup mixes theater projectors and star projectors	-> (no replacement yet)
+best-drafting-chairs-with-arms	fewer than 5 products state arms	-> (no replacement yet)
+best-lightweight-nonstick-cookware	no product states a lightweight claim	-> (no replacement yet)
+best-halloween-speakers-under-100	fewer than 5 genuine Halloween speakers	-> (no replacement yet)
+best-portable-power-stations-under-100	only 1 product proven under $100	-> (no replacement yet)
+best-jabra-room-schedulers	only 1 Jabra room scheduler	-> (no replacement yet)
+best-space-heaters-for-bathroom	only 2 products state bathroom use	-> (no replacement yet)
+best-adaptive-utensils-for-dementia	no product name or spec states dementia use	-> (no replacement yet)
+best-humidifiers-for-plants	only 2 products state plants	-> (no replacement yet)
+best-room-schedulers-for-microsoft-365	no product states Microsoft 365 compatibility	-> (no replacement yet)
+best-microphone-arms-for-clamp-free-desks	every arm is a clamp mount, none clamp-free	-> (no replacement yet)
 
 ## Skipped backup slugs (reason)
 best-crawling-halloween-animatronics	only 3 products state crawling
@@ -358,6 +370,9 @@ best-tabletop-patio-heaters
 best-deco-wi-fi-extenders
 best-bird-feeders-under-50
 best-sliding-transfer-boards
+best-couch-assist-handles
+best-garden-augers
+best-zipper-pulls-for-arthritis
 best-bluetooth-trackers
 best-laser-engravers-under-3000
 best-corner-desks-for-college-students
@@ -392,6 +407,7 @@ best-network-switches-under-300
 best-electric-jar-openers-for-seniors
 best-cross-platform-bluetooth-trackers
 best-carbon-fiber-walking-canes
+best-video-switchers-for-churches
 best-snow-blowers-under-500
 best-garden-augers-for-bulbs
 best-homekit-smart-plugs
@@ -423,6 +439,10 @@ best-under-cabinet-motion-sensor-lights
 best-rocking-chairs-under-100
 best-ergonomic-corner-desks
 best-eightree-smart-plugs
+best-smart-alarm-clocks-for-heavy-sleepers
+best-indoor-motion-sensor-lights
+best-tablets-under-150
+best-metal-storage-carts
 best-50-inch-tvs
 best-laptop-cooling-pads-for-lenovo-legion-laptops
 best-98-inch-tvs
@@ -458,6 +478,8 @@ best-portable-monitors-for-macbook-air
 best-standing-desk-for-tall-person
 best-leaf-blowers-under-100
 best-weed-pullers
+best-room-divider-panels
+best-carpet-cleaners-under-100
 best-vertical-mice-for-small-hands
 best-digital-photo-frames-that-play-video
 best-electric-pruning-shears-for-vines
@@ -499,11 +521,10 @@ best-motion-sensor-lights-for-home
 best-bluetooth-trackers-for-iphone
 best-halloween-animatronics-under-80
 best-halloween-inflatables-under-60
+best-outdoor-solar-motion-sensor-lights
+best-watering-wands-under-25
 
 ## Pending (main list)
-best-couch-assist-handles
-best-garden-augers
-best-zipper-pulls-for-arthritis
 best-y-peelers
 best-rocking-chairs-under-300
 best-universal-audio-audio-interfaces
@@ -516,7 +537,6 @@ best-bluetooth-trackers-for-pets
 best-oil-filled-space-heaters
 best-bluetooth-trackers-for-seniors
 best-digital-calendar-clocks
-best-video-switchers-for-churches
 best-lightweight-cookware-under-30
 best-utility-carts
 best-5ft-portable-wheelchair-ramps
@@ -557,10 +577,6 @@ best-watering-wands-for-seniors
 best-halloween-laser-projectors
 best-lightweight-cast-iron-skillets
 best-task-stools
-best-smart-alarm-clocks-for-heavy-sleepers
-best-indoor-motion-sensor-lights
-best-tablets-under-150
-best-metal-storage-carts
 best-hose-reel-carts-under-200
 best-outdoor-rocking-chairs
 best-50000mah-power-banks
@@ -570,8 +586,6 @@ best-2-tier-pull-out-cabinet-organizers
 best-warm-mist-humidifiers
 best-whistle-key-finders
 best-docking-stations-for-dell-laptops
-best-room-divider-panels
-best-carpet-cleaners-under-100
 best-room-divider-with-storage
 best-small-safes-for-apartments
 best-usb-c-ethernet-adapters
@@ -595,35 +609,22 @@ best-ultrawide-monitor-for-work
 best-electric-mops-for-hardwood-floors
 best-digital-photo-frames-with-remote-upload
 best-digital-photo-frames-with-usb-and-sd-card-support
-best-e-ink-meeting-room-schedulers
-best-outdoor-solar-motion-sensor-lights
-best-projectors-for-bedroom
-best-watering-wands-under-25
-best-drafting-chairs-with-arms
 best-soaker-hoses-for-trees
 best-floor-rising-projector-screen
-best-lightweight-nonstick-cookware
-best-halloween-speakers-under-100
 best-7-egg-cookers
 best-microphone-arms-for-podcasting
 best-ezvalo-motion-sensor-lights
 best-levoit-humidifiers
 best-garden-augers-for-potted-plants
-best-portable-power-stations-under-100
 best-shower-chairs-with-backrests
 best-dehumidifiers-for-large-rooms
 best-adaptive-utensils-for-arthritis
 best-magnetic-desk-pads
 best-smart-plugs-for-seniors
-best-jabra-room-schedulers
 best-electric-can-openers-for-arthritis
-best-space-heaters-for-bathroom
 best-zero-gravity-camping-chairs
 best-halloween-skeletons-under-30
-best-adaptive-utensils-for-dementia
-best-humidifiers-for-plants
 best-adirondack-rocking-chairs
-best-room-schedulers-for-microsoft-365
 best-portable-patio-heaters
 best-mouse-pads-with-wrist-rest
 best-transfer-boards-for-car
@@ -631,12 +632,10 @@ best-zoom-podcast-mixers
 best-tub-rail-bathtub-grab-bars
 best-humidifiers-easy-to-clean
 best-key-finders-for-car-keys
-best-microphone-arms-for-clamp-free-desks
 best-solar-powered-wi-fi-extenders
 
 ## Pending (backup)
 best-humidifiers-for-bedroom
-best-google-tv-projectors
 best-xgimi-projectors
 best-jackery-portable-power-stations
 best-video-switchers-for-live-video

@@ -54,7 +54,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41bMCiM-aUL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B086R79PBC?tag=primeareviews-amz-20",
       "verdict": "Four HDMI Type A inputs at 10-bit 4:2:2, with multicamera live streaming straight to the internet.",
-      "description": "The ATEM Mini Pro is the widely documented option: four HDMI Type A inputs at 10-bit 4:2:2, multicamera live streaming to the internet, and a feature-rich control set. Because it is common, a church crew can find tutorials, volunteers who already know it, and compatible accessories.\n\nIt ranks second because the listing does not describe a volunteer-oriented interface or PTZ control. Against the RGBlink Mini-pro, the ATEM has deeper community support but a steeper learning curve. Against the Osee Duet 8 ISO, it is simpler and cheaper, though it has fewer inputs and no separate feed recording stated. It sits in the $200 to $500 bracket.\n\nBest for churches that already have a volunteer familiar with ATEM. The caveat is that it needs a computer for advanced control.",
+      "description": "The ATEM Mini Pro is the widely documented option: four HDMI Type A inputs at 10-bit 4:2:2, multicamera live streaming to the internet, and a feature-rich control set. Because it is common, a church crew can find tutorials, volunteers who already know it, and compatible accessories.\n\nIt ranks second because the listing does not describe a volunteer-oriented interface or PTZ control. Against the RGBlink Mini-pro, the ATEM has deeper community support but a steeper learning curve. Against the Osee Duet 8 ISO, it is simpler and cheaper, though it has fewer inputs and no separate feed recording stated. Street price lands between $200 and $500.\n\nBest for churches that already have a volunteer familiar with ATEM. The caveat is that it needs a computer for advanced control.",
       "keySpecs": [
         { "label": "Inputs", "value": "4 x HDMI Type A" },
         { "label": "Color", "value": "10-bit 4:2:2" },
@@ -114,7 +114,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/417oNGbLD1L._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0CBP925KT?tag=primeareviews-amz-20",
       "verdict": "SD card recording, USB streaming, multi-platform direct streaming and five video inputs.",
-      "description": "The GoStream Deck Pro offers five video inputs, SD card recording with USB streaming, and multi-platform direct streaming. Its multisource layout lets you show a speaker and slides side by side, which suits sermon streams. It sits in the $200 to $500 bracket.\n\nIt ranks fourth because it does not publish church-specific features like PTZ control or a volunteer interface, so its fit depends on how simple the layout is for your crew. Against the CineTreak, it records to an SD card without a computer. Against the ATEM Mini Pro, it adds a fifth input and multi-platform streaming.\n\nBest for churches that stream to more than one platform. The caveat is that a deck-style panel has many buttons, so volunteers need a labeled cheat sheet.",
+      "description": "The GoStream Deck Pro offers five video inputs, SD card recording with USB streaming, and multi-platform direct streaming. Its multisource layout lets you show a speaker and slides side by side, which suits sermon streams. Its price band is $200 to $500.\n\nIt ranks fourth because it does not publish church-specific features like PTZ control or a volunteer interface, so its fit depends on how simple the layout is for your crew. Against the CineTreak, it records to an SD card without a computer. Against the ATEM Mini Pro, it adds a fifth input and multi-platform streaming.\n\nBest for churches that stream to more than one platform. The caveat is that a deck-style panel has many buttons, so volunteers need a labeled cheat sheet.",
       "keySpecs": [
         { "label": "Inputs", "value": "5 video inputs, 4 channel HDMI" },
         { "label": "Recording", "value": "SD card" },
@@ -144,7 +144,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51EcHckZSbL._SL500_.jpg",
       "amazonUrl": "https://www.amazon.com/dp/B0GVYK4GC9?tag=primeareviews-amz-20",
       "verdict": "A 4.5 inch LCD monitors all four HDMI inputs, program and preview, with PTZ control and production tools.",
-      "description": "CineTreak's Mixer Plus puts a 4.5 inch LCD on the switcher to monitor all four HDMI inputs, plus program and preview. That multiview means a volunteer sees every camera without an external monitor, and the listing adds PTZ control and production tools. It costs $200 to $500.\n\nIt ranks fifth because the brand is less established than Blackmagic or RGBlink, and the listing is light on streaming details. The built-in monitor is a real advantage for tight booths with no spare screen. Against the RGBlink Mini-pro, it offers a monitor but no church-specific promise.\n\nBest for small booths without space for a monitor. The caveat is that a 4.5 inch screen is small for judging focus.",
+      "description": "CineTreak's Mixer Plus puts a 4.5 inch LCD on the switcher to monitor all four HDMI inputs, plus program and preview. That multiview means a volunteer sees every camera without an external monitor, and the listing adds PTZ control and production tools. It costs $200 to $500.\n\nFifth place reflects that the brand is less established than Blackmagic or RGBlink, and the listing is light on streaming details. The built-in monitor is a real advantage for tight booths with no spare screen. Against the RGBlink Mini-pro, it offers a monitor but no church-specific promise.\n\nBest for small booths without space for a monitor. The caveat is that a 4.5 inch screen is small for judging focus.",
       "keySpecs": [
         { "label": "Inputs", "value": "4-channel HDMI" },
         { "label": "Monitor", "value": "4.5 inch LCD multiview" },
@@ -221,23 +221,23 @@
   "whatMatters": [
     {
       "factor": "Ease for volunteers",
-      "detail": "A switcher used by rotating volunteers needs a clear preview and program layout, labeled buttons and a short learning curve. The RGBlink Mini-pro states a volunteer-friendly interface. Ask whether a new operator can run it after one practice session, and keep a laminated cheat sheet beside it."
+      "detail": "A switcher used by rotating volunteers needs a clear preview and program layout, labeled buttons and a short learning curve. The RGBlink Mini-pro states a volunteer-friendly interface. Ask whether a new operator can run it after one practice session, and keep a laminated cheat sheet beside it. Read the listing for words like preview, program and one-touch transitions, which signal a layout a first-timer can follow."
     },
     {
       "factor": "Input type and count",
-      "detail": "HDMI inputs suit cameras within about 25 feet, while SDI handles long runs from a balcony. Count your cameras plus a computer for slides. The Duet 8 ISO offers four HDMI and four SDI, while most others offer four HDMI. Plan for one spare input."
+      "detail": "HDMI inputs suit cameras within about 25 feet, while SDI handles long runs from a balcony. Count your cameras plus a computer for slides. The Duet 8 ISO offers four HDMI and four SDI, while most others offer four HDMI. Plan for one spare input, because the day a guest speaker brings a laptop is the day a four-input switcher turns out to be one input short."
     },
     {
       "factor": "PTZ control",
-      "detail": "PTZ cameras pan, tilt and zoom remotely, which lets one volunteer run a whole service. A switcher with built-in PTZ control, as on the RGBlink Mini-pro and CineTreak, avoids a separate controller. Check the protocols your camera uses against the listing."
+      "detail": "PTZ cameras pan, tilt and zoom remotely, which lets one volunteer run a whole service. A switcher with built-in PTZ control, as on the RGBlink Mini-pro and CineTreak, avoids a separate controller. Check the protocols your camera uses against the listing. A mismatch leaves you with a camera you can only steer from a separate remote, which defeats the purpose of one operator running the whole service."
     },
     {
       "factor": "Recording and ISO",
-      "detail": "Program recording saves the mixed show, while ISO recording saves each camera separately for later editing. The Duet 8 ISO records clean feeds, and the Deck Pro records to an SD card. Decide whether you will edit services or only archive them."
+      "detail": "Program recording saves the mixed show, while ISO recording saves each camera separately for later editing. The Duet 8 ISO records clean feeds, and the Deck Pro records to an SD card. Decide whether you will edit services or only archive them. Separate camera files take time to assemble, so a church without an editor is usually better served by one clean program recording."
     },
     {
       "factor": "Streaming path",
-      "detail": "Some switchers stream directly with built-in encoders, such as the Duet's hardware RTMP, while others pass video to a computer over USB. Direct streaming removes a computer from the chain, which means one less thing to crash. Check which platforms the switcher supports."
+      "detail": "Some switchers stream directly with built-in encoders, such as the Duet's hardware RTMP, while others pass video to a computer over USB. Direct streaming removes a computer from the chain, which means one less thing to crash. Check which platforms the switcher supports. Confirm the listing names your service, such as YouTube or Facebook, instead of assuming that any hardware encoder will log in everywhere."
     }
   ],
   "howToChoose": [

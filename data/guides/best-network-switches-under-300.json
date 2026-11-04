@@ -281,23 +281,23 @@
   "whatMatters": [
     {
       "factor": "Port speed",
-      "detail": "Gigabit is 1000 Mbps, 2.5 gigabit gives 2500 Mbps and 10 gigabit gives 10000 Mbps. A switch only runs as fast as its slowest link. Check the ports on your router, NAS and PC before paying for speed. The TL-SG108S-M2 claims 2.5 Gbps without a Cat6 upgrade."
+      "detail": "Gigabit is 1000 Mbps, 2.5 gigabit gives 2500 Mbps and 10 gigabit gives 10000 Mbps. A switch only runs as fast as its slowest link. Check the ports on your router, NAS and PC before paying for speed. The TL-SG108S-M2 claims 2.5 Gbps without a Cat6 upgrade. Look up the port rating of your router, NAS and PC first, since one gigabit device in the chain caps that link regardless of the switch."
     },
     {
       "factor": "Managed versus unmanaged",
-      "detail": "Unmanaged switches need no setup and offer no controls. Smart-managed switches such as the GS308E add VLANs, QoS and port mirroring through a web interface. If you want to isolate IoT devices or prioritize calls, you need management. Otherwise, it only adds complexity."
+      "detail": "Unmanaged switches need no setup and offer no controls. Smart-managed switches such as the GS308E add VLANs, QoS and port mirroring through a web interface. If you want to isolate IoT devices or prioritize calls, you need management. Otherwise, it only adds complexity. Read the listing for a web interface and a VLAN count, because a managed switch with no browser interface is awkward to configure."
     },
     {
       "factor": "Port count",
-      "detail": "Buy more ports than you need, since networks grow. Eight ports suit a desk, sixteen suit a home with several wired rooms, and twenty-four suit a closet. Remember one port is used as the uplink to your router, so subtract one when counting."
+      "detail": "Buy more ports than you need, since networks grow. Eight ports suit a desk, sixteen suit a home with several wired rooms, and twenty-four suit a closet. Remember one port is used as the uplink to your router, so subtract one when counting. Networks tend to grow with every new camera or console, so buying one size larger now is cheaper than replacing the switch next year."
     },
     {
       "factor": "PoE and power budget",
-      "detail": "PoE powers cameras and access points over the data cable. The listing should name the standard, such as 802.3at, and the total power budget in watts. The TL-SG1428PE lists 24 PoE+ ports but not the budget, so check before connecting many devices."
+      "detail": "PoE powers cameras and access points over the data cable. The listing should name the standard, such as 802.3at, and the total power budget in watts. The TL-SG1428PE lists 24 PoE+ ports but not the budget, so check before connecting many devices. Add the wattage of each camera or access point, and keep the total below the switch's budget with some headroom to spare."
     },
     {
       "factor": "Jumbo frames and flow control",
-      "detail": "Jumbo frames, supported up to 9K on the TL-SG1024DE, cut overhead for big file transfers but need support on every device in the path. Flow control, listed on the TL-SG116, slows senders when a port is overloaded. Neither matters for ordinary browsing."
+      "detail": "Jumbo frames, supported up to 9K on the TL-SG1024DE, cut overhead for big file transfers but need support on every device in the path. Flow control, listed on the TL-SG116, slows senders when a port is overloaded. Neither matters for ordinary browsing, but both can help a busy NAS or backup job. Look for the feature names in the spec bullets instead of assuming every switch includes them."
     }
   ],
   "howToChoose": [
