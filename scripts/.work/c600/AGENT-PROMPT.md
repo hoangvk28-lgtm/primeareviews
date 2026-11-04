@@ -29,3 +29,6 @@ A product counts toward the slug only if its name or facts state the slug featur
 
 ## Price-cap slugs (added)
 For "under-$N" slugs, a product counts only if its priceBucket lies entirely under $N (e.g. "under $25" does NOT prove under $20; "$50-100" does NOT prove under $75). Fewer than 5 such products: skip.
+
+## Depth floor (added)
+audit-depth flags a guide as thin when the whatMatters average is under 45 words (also desc < 85, faq < 30, intro < 80). Write every whatMatters detail at 55-65 words and every faq answer at 35-45 words. Do not run audit-depth yourself (it rewrites a shared file); count words instead.
