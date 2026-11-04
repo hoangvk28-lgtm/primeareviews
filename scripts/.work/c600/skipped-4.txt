@@ -8,3 +8,15 @@ best-rolling-garden-seats-with-big-wheels	facts give no wheel size on any produc
 best-video-doorbells-with-door-release	facts never mention door release or unlock relay; several are plain doorbells
 best-cordless-vacuums-for-apartments	facts carry no apartment attributes (weight, size, noise, storage); generic stick vacuums
 best-video-doorbells-for-nvr-systems	only 3 PoE doorbells (Reolink, Aqara G400, Ring 4K Elite); facts show no ONVIF/RTSP/NVR support on the rest
+best-cordless-vacuums-under-300	only 4 products have a priceBucket entirely under $300 (Dyson V8/V10 and Shark IZ363HT are $200-500, V11 has no bucket)
+best-toaster-ovens-with-dehydrators	facts state no dehydrate function on any product (air fry only)
+best-weed-pullers-for-crabgrass	facts state no crabgrass attribute; generic stand-up pullers
+best-cordless-vacuums-for-carpets	facts state no carpet attribute (no brushroll or suction class); generic stick vacuums
+best-cordless-vacuums-for-cars	only 4 products state car use (ONAVOT, Antaha, KMM, FAOGO)
+best-leaf-blowers-for-gravel	facts state no gravel attribute, only CFM and type
+best-ergonomic-keyboards-for-mac	only 1 product (Wave Keys for Mac) states Mac layout; rest are Windows-layout needing remap
+best-toaster-ovens-under-150	only 2 products have a priceBucket entirely under $150 ($50-100); rest are $100-200 or higher
+best-easy-to-use-carpet-cleaners	facts state no ease-of-use attribute; only upright/portable type
+best-carpet-cleaners-for-apartments	facts state no apartment attribute (size, weight, noise); only upright/portable type
+best-steam-mops-for-tile-floors	only 4 products state tile in name or facts (Bissell 1806, Bissell 1940A, Wotaste, Black+Decker 1500W)
+best-usb-c-ethernet-adapters-for-macbook-pro	facts state Mac compatibility on only 2-3 adapters; no MacBook Pro attribute on the rest
