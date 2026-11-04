@@ -1,139 +1,92 @@
-// Adds extra on-topic product candidates to scripts/.work/facts/<slug>.json from the Amazon Creators API,
-// so slugs skipped for "fewer than 5 genuine matches" can be retried.
-// Never stores star ratings, review counts or exact prices (only a price bucket for internal use).
+// Refills facts for slugs that were skipped for too few matching products, using the Amazon
+// Creators/PA API. Searches by the guide's keyword, merges results with any existing facts and
+// writes up to 12 candidate products to scripts/.work/facts/<slug>.json. The writer still decides
+// which products genuinely match the title.
 //
-// Env (never commit these): AMAZON_PAAPI_ACCESS_KEY (client id), AMAZON_PAAPI_SECRET_KEY (client secret)
-// Optional overrides: AMZ_TOKEN_URL, AMZ_API_BASE, AMZ_SEARCH_PATH, AMZ_CRED_VERSION, AMZ_MARKETPLACE
-// Network: api.amazon.com and creatorsapi.amazon must be allowed in the environment.
-//
-// Usage: node scripts/enrich-facts.mjs slug-a slug-b ...
-//        node scripts/enrich-facts.mjs --skipped        (every slug in scripts/.work/c600/skipped-*.txt)
-//        add --dry to print what would be added without writing.
+// Usage: node scripts/enrich-facts.mjs <slug-list.txt>
+// Credentials: AMAZON_PAAPI_ACCESS_KEY / AMAZON_PAAPI_SECRET_KEY / AMAZON_PAAPI_PARTNER_TAG from the
+// environment, or from the .env file named by ENV_FILE (default .env.local). Never commit keys.
 import fs from "node:fs";
-import path from "node:path";
 
-const CLIENT_ID = process.env.AMAZON_PAAPI_ACCESS_KEY;
-const CLIENT_SECRET = process.env.AMAZON_PAAPI_SECRET_KEY;
-const TOKEN_URL = process.env.AMZ_TOKEN_URL || "https://api.amazon.com/auth/o2/token";
-const API_BASE = process.env.AMZ_API_BASE || "https://creatorsapi.amazon";
-const SEARCH_PATH = process.env.AMZ_SEARCH_PATH || "/catalog/v1/searchItems";
-const CRED_VERSION = process.env.AMZ_CRED_VERSION || "3.1";
-const MARKETPLACE = process.env.AMZ_MARKETPLACE || "www.amazon.com";
-const PARTNER_TAG = "primeareviews-amz-20";
-const FACTS = path.join(process.cwd(), "scripts", ".work", "facts");
-
-if (!CLIENT_ID || !CLIENT_SECRET) {
-  console.error("Missing AMAZON_PAAPI_ACCESS_KEY / AMAZON_PAAPI_SECRET_KEY in the environment.");
-  process.exit(1);
-}
-
-const args = process.argv.slice(2);
-const dry = args.includes("--dry");
-let slugs = args.filter((a) => !a.startsWith("--"));
-if (args.includes("--skipped")) {
-  const dir = path.join(process.cwd(), "scripts", ".work", "c600");
-  for (const f of fs.readdirSync(dir).filter((f) => f.startsWith("skipped-"))) {
-    for (const line of fs.readFileSync(path.join(dir, f), "utf8").split("\n")) {
-      const s = line.split("\t")[0].trim();
-      if (s) slugs.push(s);
-    }
+const envFile = process.env.ENV_FILE ?? ".env.local";
+if (fs.existsSync(envFile)) {
+  for (const l of fs.readFileSync(envFile, "utf8").split(/\r?\n/)) {
+    const i = l.indexOf("=");
+    if (i > 0 && !process.env[l.slice(0, i)]) process.env[l.slice(0, i)] = l.slice(i + 1).trim();
   }
 }
-slugs = [...new Set(slugs)];
+const { AMAZON_PAAPI_ACCESS_KEY: id, AMAZON_PAAPI_SECRET_KEY: secret, AMAZON_PAAPI_PARTNER_TAG: tag } = process.env;
+if (!id || !secret || !tag) throw new Error("Amazon API credentials missing");
 
-async function getToken() {
-  const res = await fetch(TOKEN_URL, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ grant_type: "client_credentials", client_id: CLIENT_ID, client_secret: CLIENT_SECRET, scope: "creatorsapi::default" }),
-  });
-  const body = await res.text();
-  if (!res.ok) throw new Error(`token ${res.status}: ${body.slice(0, 300)}`);
-  return JSON.parse(body).access_token;
-}
-
+const M = "www.amazon.com";
+const W = "scripts/.work/";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const candidates = new Map(JSON.parse(fs.readFileSync(W + "candidates.json", "utf8")).map((c) => [c.slug, c]));
+const slugs = fs.readFileSync(process.argv[2], "utf8").split(/\r?\n/).filter(Boolean);
 
-async function search(token, keywords) {
-  const res = await fetch(API_BASE + SEARCH_PATH, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${token}, Version ${CRED_VERSION}`,
-      "x-marketplace": MARKETPLACE,
-    },
-    body: JSON.stringify({
-      keywords,
-      searchIndex: "All",
-      itemCount: 10,
-      partnerTag: PARTNER_TAG,
-      resources: ["images.primary.large", "itemInfo.title", "itemInfo.features", "itemInfo.byLineInfo", "offersV2.listings.price"],
-    }),
-  });
-  const body = await res.text();
-  if (!res.ok) throw new Error(`search ${res.status}: ${body.slice(0, 300)}`);
-  return JSON.parse(body);
-}
+const token = (
+  await (
+    await fetch("https://api.amazon.com/auth/o2/token", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ grant_type: "client_credentials", client_id: id, client_secret: secret, scope: "creatorsapi::default" }),
+    })
+  ).json()
+).access_token;
+if (!token) throw new Error("token request failed");
 
-// Tolerant accessors: the response may use camelCase or PascalCase keys.
-const pick = (o, ...keys) => { for (const k of keys) if (o && o[k] != null) return o[k]; return undefined; };
-const val = (x) => (x && typeof x === "object" ? pick(x, "displayValue", "DisplayValue", "displayValues", "DisplayValues") : x);
-
-function bucket(amount) {
-  if (amount == null || isNaN(amount)) return undefined;
-  if (amount < 25) return "under $25";
-  if (amount < 50) return "$25-50";
-  if (amount < 100) return "$50-100";
-  if (amount < 200) return "$100-200";
-  if (amount < 500) return "$200-500";
-  return "$500+";
-}
-
-function toProduct(item) {
-  const asin = pick(item, "asin", "ASIN");
-  const info = pick(item, "itemInfo", "ItemInfo") || {};
-  const name = val(pick(info, "title", "Title"));
-  const features = val(pick(info, "features", "Features")) || [];
-  const brand = val(pick(pick(info, "byLineInfo", "ByLineInfo") || {}, "brand", "Brand"));
-  const img = pick(pick(pick(pick(item, "images", "Images") || {}, "primary", "Primary") || {}, "large", "Large") || {}, "url", "URL");
-  const listing = (pick(pick(item, "offersV2", "OffersV2") || {}, "listings", "Listings") || [])[0];
-  const money = pick(pick(listing || {}, "price", "Price") || {}, "money", "Money") || pick(listing || {}, "price", "Price") || {};
-  const amount = Number(pick(money, "amount", "Amount"));
-  if (!asin || !name || !img || !/^https:\/\/m\.media-amazon\.com\//.test(img)) return null;
-  return {
-    name: String(name).slice(0, 200),
-    asin,
-    imageUrl: img,
-    brand: brand || undefined,
-    specs: (Array.isArray(features) ? features : [features]).slice(0, 6).map((f) => String(f).replace(/\s+/g, " ").slice(0, 220)),
-    priceBucket: bucket(amount),
-    origin: "amazon-api",
-  };
-}
-
-const token = await getToken();
-let added = 0;
-for (const slug of slugs) {
-  const file = path.join(FACTS, `${slug}.json`);
-  if (!fs.existsSync(file)) { console.log(`- ${slug}: no facts file`); continue; }
-  const facts = JSON.parse(fs.readFileSync(file, "utf8"));
-  const keywords = slug.replace(/^best-/, "").replace(/-/g, " ");
-  try {
-    const data = await search(token, keywords);
-    const result = pick(data, "searchResult", "SearchResult") || {};
-    const items = pick(result, "items", "Items") || [];
-    const have = new Set((facts.products || []).map((p) => p.asin));
-    const fresh = items.map(toProduct).filter((p) => p && !have.has(p.asin));
-    if (!dry && fresh.length) {
-      facts.products = [...(facts.products || []), ...fresh];
-      fs.writeFileSync(file, JSON.stringify(facts, null, 1));
-    }
-    added += fresh.length;
-    console.log(`+ ${slug}: "${keywords}" -> ${items.length} results, ${fresh.length} new`);
-  } catch (e) {
-    console.log(`! ${slug}: ${e.message}`);
-    if (/token|401|403/.test(e.message)) break;
+async function search(keywords) {
+  for (let t = 0; t < 3; t++) {
+    const r = await fetch("https://creatorsapi.amazon/catalog/v1/searchItems", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}`, "x-marketplace": M },
+      body: JSON.stringify({
+        keywords,
+        marketplace: M,
+        partnerTag: tag,
+        itemCount: 10,
+        resources: ["images.primary.large", "itemInfo.title", "itemInfo.features", "offersV2.listings.price"],
+      }),
+    });
+    const d = await r.json();
+    if (r.ok) return d.searchResult?.items ?? d.itemsResult?.items ?? [];
+    await sleep(1500);
   }
-  await sleep(1100); // stay under 1 request/second
+  return [];
 }
-console.log(`done: ${added} products added across ${slugs.length} slugs${dry ? " (dry run)" : ""}`);
+
+const bucket = (v) =>
+  !v ? undefined : v < 25 ? "under $25" : v < 50 ? "$25-50" : v < 100 ? "$50-100" : v < 200 ? "$100-200" : v < 500 ? "$200-500" : "$500+";
+
+let done = 0;
+for (const slug of slugs) {
+  const c = candidates.get(slug);
+  const path = `${W}facts/${slug}.json`;
+  const old = fs.existsSync(path) ? JSON.parse(fs.readFileSync(path, "utf8")) : {};
+  const keyword = c?.mainKeyword || slug.replace(/^best-/, "").replace(/-/g, " ");
+  const products = old.products ?? [];
+  const seen = new Set(products.map((p) => p.asin));
+  for (const item of await search(keyword)) {
+    const asin = item.asin || item.itemId;
+    const img = item.images?.primary?.large?.url;
+    if (!asin || seen.has(asin) || !img?.startsWith("https://m.media-amazon.com/")) continue;
+    seen.add(asin);
+    products.push({
+      name: item.itemInfo?.title?.displayValue,
+      asin,
+      imageUrl: img,
+      // Listing bullets are a fact source only; writers must not copy them.
+      specs: (item.itemInfo?.features?.displayValues ?? []).map((f) => f.slice(0, 220)),
+      priceBucket: bucket(item.offersV2?.listings?.[0]?.price?.money?.amount),
+    });
+  }
+  const facts =
+    products.length < 5
+      ? { skip: `only ${products.length} products after API search` }
+      : { slug, title: c?.title, mainKeyword: keyword, categoryHint: c?.category, heroImage: products[0].imageUrl, products: products.slice(0, 12), enriched: true };
+  fs.writeFileSync(path, JSON.stringify(facts));
+  console.log(`${slug}: ${facts.skip ?? facts.products.length + " products"}`);
+  done++;
+  await sleep(1100);
+}
+console.log(`enriched ${done} slugs`);
