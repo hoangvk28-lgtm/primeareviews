@@ -206,23 +206,23 @@
   "whatMatters": [
     {
       "factor": "HomeKit versus Matter",
-      "detail": "HomeKit plugs work only with Apple Home. Matter plugs join Apple, Alexa and Google, so they survive a change of phone or speaker. Choose Matter unless you only use Apple and need a specific feature like energy monitoring. Look for the Matter logo, not just compatible wording."
+      "detail": "HomeKit plugs talk only to Apple Home, while Matter plugs join Apple, Alexa and Google at once. That matters because a Matter plug like the Tapo Matter or Linkind survives a switch of phone or speaker, and a HomeKit-only plug like the Kasa EP25P4 does not. Look for the Matter logo on the listing, not vague wording such as compatible with."
     },
     {
       "factor": "Load rating",
-      "detail": "A 15A rating allows about 1,800 watts at 120 volts, enough for lamps, fans and small heaters. Anything with a motor or heating element deserves a rated plug. The Tapo Matter lists 15A and 1800W. If a listing omits the rating, as the Linkind does, check the box."
+      "detail": "A 15A rating allows about 1,800 watts at 120 volts, which covers lamps, fans and small heaters. It matters because relay contacts in an underrated plug heat up under a motor or heating element, the usual cause of melted plugs. The Tapo Matter prints 15A and 1800W. If a listing omits the rating, as the Linkind does, check the box."
     },
     {
       "factor": "Home hub for remote control",
-      "detail": "Away from home, HomeKit plugs need a HomePod, Apple TV or iPad as a hub. The meross four-pack states this. Matter plugs also need a hub or cloud app for remote access. Check whether remote control works without one before you buy."
+      "detail": "Away from home, HomeKit plugs need a HomePod, Apple TV or iPad acting as a hub to relay commands, which is why the meross four-pack spells it out. Without one, schedules still run but you cannot toggle a lamp from the office. Matter plugs often rely on a hub or cloud app too, so read the remote-access line."
     },
     {
       "factor": "Energy monitoring",
-      "detail": "Monitoring plugs report the watts and kilowatt-hours an appliance uses, letting you find standby draw. The Kasa EP25P4 includes this on every plug. Check where the data appears, since it may sit in the maker's app instead of Apple Home."
+      "detail": "Monitoring plugs report the watts and kilowatt-hours an appliance draws, which exposes standby drain from chargers, game consoles and old fans that you would otherwise never notice. The Kasa EP25P4 builds this into all four plugs. Check where the readings appear, because they may live only in the maker's app rather than inside Apple Home."
     },
     {
       "factor": "Wi-Fi band and local control",
-      "detail": "Smart plugs use 2.4 GHz, so a 5 GHz-only network will not work. Local control, as on the Linkind, keeps the plug responding when the internet is down. Check your router's 2.4 GHz band is enabled and that your phone is on it during setup."
+      "detail": "Smart plug radios use the 2.4 GHz band, so a router broadcasting only 5 GHz leaves the plug unable to pair. Local control, as on the Linkind, keeps switching working over your home network when the internet drops. Confirm the 2.4 GHz band is enabled and that your phone sits on it during setup."
     }
   ],
   "howToChoose": [
@@ -288,12 +288,12 @@
     }
   ],
   "faq": [
-    {"q": "Do I need a HomePod or Apple TV for a HomeKit plug?", "a": "Only for remote control and automations while away. The meross HomeKit four-pack lists a HomePod, Apple TV or iPad as a hub. At home, plugs like the Kasa EP25P4 work without one."},
+    {"q": "Do I need a HomePod or Apple TV for a HomeKit plug?", "a": "Only for remote control and automations while you are away. The meross HomeKit four-pack lists a HomePod, Apple TV or iPad as the hub for that job. At home, on the same Wi-Fi, plugs like the Kasa EP25P4 respond to Siri and the Home app without one."},
     {"q": "What is the most common smart plug mistake?", "a": "Using a 5 GHz network. Every plug here, including the Tapo P125 and meross Matter, uses 2.4 GHz Wi-Fi. During setup, make sure your phone is on the 2.4 GHz band or the plug will not pair."},
     {"q": "Is the Kasa worth it over the Tapo Matter?", "a": "Yes for monitoring. The Kasa EP25P4 reports real-time energy use on each of its four plugs. If you want one plug that works with Apple, Alexa and Google, the Tapo Matter is the better buy."},
-    {"q": "How do I set up a Matter plug in Apple Home?", "a": "Plug it in, open the Home app, tap Add Accessory and scan the Matter code. The meross Matter needs iOS or iPadOS 16.1 or later. Keep your phone on the 2.4 GHz network."},
+    {"q": "How do I set up a Matter plug in Apple Home?", "a": "Plug it in, open the Home app, tap Add Accessory and scan the Matter code on the plug or box. The meross Matter needs iOS or iPadOS 16.1 or later, so update first. Keep your phone on the 2.4 GHz network until pairing finishes."},
     {"q": "Can I switch a HomeKit plug to Alexa later?", "a": "Not with native HomeKit models like the Kasa EP25P4, which are Apple-specific. Matter plugs such as the Tapo Matter and Linkind can be added to several platforms, so they are the better choice for flexibility."},
-    {"q": "Can I run a heater on a smart plug?", "a": "Only on a plug with a stated rating that covers the heater. The Tapo Matter lists 15A and 1800W, but the Linkind lists none. Check your heater's wattage and never exceed the rating."}
+    {"q": "Can I run a heater on a smart plug?", "a": "Only on a plug with a stated rating that covers the heater. The Tapo Matter lists 15A and 1800W, but the Linkind lists none, so skip it for heaters. Read your heater's wattage label and never exceed the plug's rating."}
   ],
   "finalTake": "The Tapo Matter Smart Plug Mini is the best HomeKit smart plug for most households: Matter certified, 15A and 1800W, and priced under $25. Pick the Kasa EP25P4 when energy monitoring matters, and the Linkind when you want local control through outages. The Tapo P125 and meross four-pack suit Apple-only homes, while the meross Matter helps in mixed Echo homes. Check your Wi-Fi band first.",
   "related": []

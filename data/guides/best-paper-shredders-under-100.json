@@ -234,11 +234,11 @@
     { "title": "Footprint and extras", "description": "Under-desk fit, staple and card handling and jam reverse decided close results." }
   ],
   "whatMatters": [
-    { "factor": "Security level", "detail": "Security levels such as P-3 and P-4 describe the particle size left after shredding. P-4 cuts smaller pieces and is the sensible minimum for bank statements and ID documents. Look for the P rating in the title or specs, and don't assume cross-cut means P-4." },
-    { "factor": "Continuous run time", "detail": "Shredder motors overheat and must rest. Run time is how long it can work before a cool-down, from 3 minutes to 15 here. For a one-time backlog it matters more than sheet count. Match the run time to the largest batch you shred at once." },
-    { "factor": "Sheets per pass", "detail": "This is the number of sheets the shredder can take in one feed, typically 8 to 12. Exceeding it jams the cutters. The rated number assumes standard 20 lb paper, so thicker paper or folded sheets lower it. Feed fewer sheets than the maximum for reliability." },
-    { "factor": "Bin size", "detail": "A larger bin means fewer trips to empty it, and cross-cut particles pack densely. Bin sizes run 3.7 to 5.5 gallons here. Also check whether the bin pulls out easily, and whether the unit fits under your desk with the bin in place." },
-    { "factor": "Jam protection", "detail": "A reverse function backs paper out of the cutters when it jams. Some models detect an overload and stop. Look for a jam-proof or reverse function in the listing, and remove staples and clips unless the listing states the shredder handles them." }
+    { "factor": "Security level", "detail": "Security levels such as P-3 and P-4 describe the particle size left after shredding. P-4 cuts smaller confetti that is hard to reassemble, making it the sensible minimum for bank statements and ID documents. The Amazon Basics 12-Sheet stops at P-3. Look for the P rating in the title or specs, and do not assume cross-cut means P-4." },
+    { "factor": "Continuous run time", "detail": "Shredder motors overheat and must rest. Run time is how long a unit can work before a forced cool-down, from 3 minutes on the Amazon Basics 8-Sheet to 15 on the big Bonsaii. For a one-time backlog it matters more than sheet count, because a stalled motor leaves you waiting. Match the run time to your largest batch." },
+    { "factor": "Sheets per pass", "detail": "This is the number of sheets the shredder can take in one feed, typically 8 to 12 here. Exceeding it jams the cutters and can stall the motor. The rating assumes standard 20 lb paper, so thicker stock or folded sheets lower it. Feed a couple fewer sheets than the maximum, and read the rated figure on the listing." },
+    { "factor": "Bin size", "detail": "A larger bin means fewer trips to empty it, and cross-cut particles pack densely. Bin sizes run from the Amazon Basics 8-Sheet's 3.7 gallons up to 5.5 gallons on the Bonsaii models. A full bin also overloads the cutter head. Check that the bin pulls out easily, and that the unit fits under your desk." },
+    { "factor": "Jam protection", "detail": "A reverse function backs paper out of the cutters when it jams, and some models detect an overload and stop before the motor burns out. Clearing a jam by hand is slow and risky near blades. Look for a jam-proof or reverse function on the listing, and remove staples and clips unless it says the shredder handles them." }
   ],
   "howToChoose": [
     {
@@ -308,19 +308,19 @@
   "faq": [
     {
       "q": "Is P-4 security necessary at home?",
-      "a": "For statements, tax papers and ID, yes. P-4 leaves tiny particles. The Amazon Basics 8-Sheet delivers it cheaply, while the Amazon Basics 12-Sheet is only P-3 and better kept for non-sensitive paper."
+      "a": "For statements, tax papers and ID, yes. P-4 leaves tiny particles that are hard to piece back together. The Amazon Basics 8-Sheet delivers it cheaply, while the Amazon Basics 12-Sheet is only P-3 and better kept for junk mail and non-sensitive paper."
     },
     {
       "q": "What mistake do buyers make with shredders?",
-      "a": "Buying by sheet count and ignoring run time. The Bonsaii 12-Sheet runs 15 minutes for about 900 sheets, while the Amazon Basics 8-Sheet stops at 3 minutes. For big jobs, run time decides."
+      "a": "Buying by sheet count and ignoring run time. The Bonsaii 12-Sheet runs 15 minutes for about 900 sheets, while the Amazon Basics 8-Sheet stops at 3 minutes and then cools down. For big purges of old files, run time decides how long the job takes."
     },
     {
       "q": "Is the 15-minute Bonsaii worth it over the BONSEN?",
-      "a": "If you shred in batches, yes. It takes 12 sheets and runs 15 minutes versus the BONSEN's 8 sheets and 5 minutes. For a weekly handful of mail, the BONSEN's under-desk fit suffices."
+      "a": "If you shred in batches, yes. It takes 12 sheets and runs 15 minutes versus the BONSEN's 8 sheets and 5 minutes, so a full file drawer finishes in one sitting. For a weekly handful of mail, the BONSEN's compact under-desk fit is enough."
     },
     {
       "q": "How do I avoid jams?",
-      "a": "Feed fewer sheets than the rating, remove paper clips and avoid folded stacks. The Bonsaii models include a jam-proof reverse, and the Bonsaii 10-Sheet handles staples, but thick card stock still strains the cutters."
+      "a": "Feed fewer sheets than the rating, remove paper clips and avoid folded stacks that bunch at the cutter. The Bonsaii models include a jam-proof reverse, and the Bonsaii 10-Sheet handles staples, but thick card stock still strains the cutters on every model here."
     },
     {
       "q": "How should I maintain a shredder?",
@@ -328,7 +328,7 @@
     },
     {
       "q": "Can these shred credit cards?",
-      "a": "Several can. The Amazon Basics 8-Sheet, BONSEN, Bonsaii 10-Sheet and Amazon Basics 12-Sheet list credit card shredding. Feed one card at a time and avoid cards with metal parts."
+      "a": "Several can. The Amazon Basics 8-Sheet, BONSEN, Bonsaii 10-Sheet and Amazon Basics 12-Sheet list credit card shredding, which matters for expired cards with account numbers on them. Feed one card at a time and avoid cards with metal parts."
     }
   ],
   "finalTake": "The Bonsaii 12-Sheet shredder with a 15-minute run time is the best paper shredder under $100, because it combines P-4 security with a cycle long enough to clear a backlog. The Amazon Basics 8-Sheet is the best entry-level P-4 buy, and the BONSEN is the under-desk pick. Skip the P-3 Amazon Basics 12-Sheet if you shred sensitive records.",
