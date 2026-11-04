@@ -20,3 +20,6 @@ Working dir: /home/user/primeareviews. You write Primea Reviews buying guides as
 
 ## Final report (short)
 One line per slug: written (N products, checks clean) or skipped (reason). Nothing else.
+
+## Duplicate-lineup rule (added)
+Never pad or tweak a lineup with duplicate/variant listings (same product in another colour, "alternate listing", bundles of the same item) to dodge the identical-lineup check. If the only way to pass is such padding, the guide is a duplicate: delete your file and SKIP the slug with reason "lineup duplicates <other-slug>". Every product must be a distinct model with its exact name.
