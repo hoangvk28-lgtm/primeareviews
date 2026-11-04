@@ -229,9 +229,9 @@
   "whatMatters": [
     { "factor": "Rack units", "detail": "One U is 1.75 inches of vertical space, and a 12U rack gives 21 inches of mounting height. Switches take 1U, servers 1U to 4U, and UPS units 2U or more. Count your gear, add 30 percent for growth, and compare that with the listing's U rating before choosing." },
     { "factor": "Open frame versus cabinet", "detail": "Open frames give airflow and easy access but no dust or security. Cabinets keep gear locked and quiet but trap heat. Choose by where the rack lives: a closet suits open, a living space suits a door. Check whether the listing names fans, vents or a glass door." },
-    { "factor": "Depth", "detail": "A shallow rack that holds a patch panel can refuse a deep server chassis. Depth is the dimension buyers forget. Check the usable mounting depth, not just the outer size, and look for adjustable rear posts such as on the VEVOR and RackPath frames." },
+    { "factor": "Depth", "detail": "A shallow rack that holds a patch panel can refuse a deep server chassis. Depth is the dimension buyers forget. Check the usable mounting depth, not just the outer size, and look for adjustable rear posts such as on the VEVOR and RackPath frames. Leave a few inches behind the gear for power cables and airflow." },
     { "factor": "Weight capacity", "detail": "A UPS and servers add up fast, and an under-rated rack can buckle or tip. Capacity is often a heading with the number tucked away. Look for a stated figure in pounds or kilograms, and place the heaviest items at the bottom regardless." },
-    { "factor": "Casters and mounting", "detail": "Wheels make service easy but raise the centre of gravity, so they should lock. Wall-mount cabinets need studs or masonry anchors. Check whether casters are included and locking, and verify your wall construction before choosing a wall-mount rack." }
+    { "factor": "Casters and mounting", "detail": "Wheels make service easy but raise the centre of gravity, so they should lock. Wall-mount cabinets need studs or masonry anchors. Check whether casters are included and locking, and verify your wall construction before choosing a wall-mount rack. A full cabinet can weigh well over a hundred pounds once loaded with batteries and servers." }
   ],
   "howToChoose": [
     {
