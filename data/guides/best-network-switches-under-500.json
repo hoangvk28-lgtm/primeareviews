@@ -1,0 +1,344 @@
+{
+  "slug": "best-network-switches-under-500",
+  "category": "home-living",
+  "h1": "The 8 Best Network Switches Under $500 of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Network Switches Under $500: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 8 network switches under $500 scored on port speed, management features and PoE, from 5-port desk units to 24-port PoE+ models.",
+  "mainKeyword": "network switches under $500",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+  "summary": "The NETGEAR GS308E is the best overall switch: eight gigabit ports with VLANs, QoS and port mirroring in an easy web interface for a small price. The TP-Link TL-SG108S-M2 is the pick for 2.5 gigabit upgrades, and the 10GbE switch with two 10Gb ports suits NAS and workstation links. The TP-Link TL-SG1428PE is the PoE+ choice for cameras and access points.",
+  "intro": [
+    "Most buyers pick a switch by port count, then discover the real limit is somewhere else. A gigabit switch cannot make a 2.5 gigabit connection faster, a switch without PoE needs a separate power brick for every camera, and an unmanaged switch cannot split a guest network from your work gear. Port count tells you how many things connect, not how well.",
+    "So these eight were ranked by what they let you do. The Primea framework weighted port speed and uplink capability highest, then management features such as VLANs and QoS, then PoE and mounting. Everything here sits well under the $500 ceiling, so the decision is about matching the switch to your network rather than stretching a budget."
+  ],
+  "products": [
+    {
+      "id": "netgear-8-port-gigabit-easy-smart-managed-switch-gs308e",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
+      "verdict": "Eight gigabit ports with VLANs, QoS and port mirroring for the price of an unmanaged switch.",
+      "description": "NETGEAR's GS308E pairs eight auto-negotiating 1 Gbps ports with an easy smart web interface that runs on Windows, Mac or Linux. Up to 64 VLANs let you split a guest network or IoT devices from your main LAN, QoS prioritizes voice or video, IGMP snooping keeps multicast from flooding ports, and port mirroring helps troubleshoot.\n\nIt beats the unmanaged GS108 because those management features cost little extra, and it leads the 2.5 gigabit TP-Link on proven software even though it is slower per port. Compared with the 24-port switches, it is the right size for a desk or media cabinet.\n\nBest for a home lab, a small office or a smart home that wants network segmentation. Caveat: managed settings add a learning curve, and the ports are 1 Gbps, so multi-gig internet plans will exceed them.",
+      "keySpecs": [
+        {"label": "Ports", "value": "8 x 1 Gbps"},
+        {"label": "Management", "value": "Easy smart web GUI"},
+        {"label": "VLANs", "value": "Up to 64"},
+        {"label": "Features", "value": "QoS, IGMP snooping, port mirroring"}
+      ],
+      "pros": [
+        "VLANs and QoS at a low price",
+        "Works on Windows, Mac, Linux",
+        "Port mirroring for troubleshooting",
+        "Auto-negotiating gigabit ports"
+      ],
+      "cons": [
+        "Only gigabit per port",
+        "Management has a learning curve",
+        "No PoE on any port"
+      ],
+      "idealFor": "Home labs and small offices wanting VLANs and QoS affordably.",
+      "skipIf": "You have multi-gig internet or devices."
+    },
+    {
+      "id": "tp-link-tl-sg108s-m2",
+      "rank": 2,
+      "award": "Best 2.5 Gigabit Switch",
+      "name": "TP-Link TL-SG108S-M2",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-amz-20",
+      "verdict": "Eight 2.5 gigabit ports that upgrade your wired speed without rewiring to Cat6.",
+      "description": "TP-Link's TL-SG108S-M2 gives you eight 2.5 gigabit ports, the main appeal being that you can reach 2.5 Gbps over existing Cat5e cabling without upgrading to Cat6. That is a real saving in a house already wired. TP-Link positions it for LAN parties, home entertainment and small or home offices.\n\nIt ranks second because the GS308E offers management features and this unit is unmanaged, so there are no VLANs or QoS. In exchange, every port is 2.5 times as fast, which matters if your PCs, NAS or Wi-Fi 6 access points have 2.5G ports.\n\nA strong buy for fast home networks. Caveat: devices with only gigabit ports will still run at gigabit, so you need 2.5G network cards on both ends to see the gain.",
+      "keySpecs": [
+        {"label": "Ports", "value": "8 x 2.5 Gbps"},
+        {"label": "Cabling", "value": "Works over existing Cat5e"},
+        {"label": "Management", "value": "Unmanaged"},
+        {"label": "Target use", "value": "Home, LAN parties, small office"}
+      ],
+      "pros": [
+        "Eight 2.5 Gbps ports",
+        "No need for Cat6 cable",
+        "Simple plug and play",
+        "Fast for NAS and PCs"
+      ],
+      "cons": [
+        "No VLANs or QoS",
+        "Needs 2.5G devices to benefit",
+        "No PoE on any port"
+      ],
+      "idealFor": "Fast home networks with 2.5G PCs, NAS or Wi-Fi access points.",
+      "skipIf": "You need VLANs or traffic prioritization."
+    },
+    {
+      "id": "10gbe-ethernet-switch-unmanaged-2-x-10gb-rj45-4-x-2-5gb",
+      "rank": 3,
+      "award": "Best for 10 Gigabit Links",
+      "name": "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/41aol4eJAbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DS4KC7Y3?tag=primeareviews-amz-20",
+      "verdict": "Two 10Gb RJ45 ports and four 2.5Gb ports for a NAS or workstation uplink.",
+      "description": "This unmanaged switch combines two 10 Gb RJ45 ports with four 2.5 Gb Base-T ports, a layout designed around one fast link plus several mid-speed devices. A typical setup puts a NAS or workstation on a 10 Gb port and runs 2.5G clients off the rest. The listing says it delivers 2.5x faster network performance than gigabit gear and is simple to set up.\n\nIt ranks third because six ports is a small count and the unit is unmanaged. Compared with the TL-SG108S-M2, it gives up two ports for a pair of 10G links, a trade that makes sense when a NAS is the bottleneck.\n\nPick it for video editing storage or a fast server connection. Caveat: reaching 10 Gbps over copper needs good cabling and 10G network cards on both ends.",
+      "keySpecs": [
+        {"label": "10 Gb ports", "value": "2 x 10Gb RJ45"},
+        {"label": "2.5 Gb ports", "value": "4 x 2.5Gb Base-T"},
+        {"label": "Management", "value": "Unmanaged"},
+        {"label": "Speed", "value": "2.5x faster than gigabit"}
+      ],
+      "pros": [
+        "Two 10 Gb RJ45 ports",
+        "Four 2.5 Gb ports",
+        "Simple to set up",
+        "Ideal for a NAS uplink"
+      ],
+      "cons": [
+        "Only six ports in total",
+        "Unmanaged, no VLANs",
+        "Needs 10G cards and good cable"
+      ],
+      "idealFor": "Creators linking a NAS or workstation at 10 Gbps.",
+      "skipIf": "You need many ports or managed features."
+    },
+    {
+      "id": "tp-link-tl-sg1428pe",
+      "rank": 4,
+      "award": "Best PoE+ Switch",
+      "name": "TP-Link TL-SG1428PE",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/31lRw0mF7sL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08J9ZC6J5?tag=primeareviews-amz-20",
+      "verdict": "Twenty-four PoE+ gigabit ports with VLANs for cameras and access points.",
+      "description": "The TL-SG1428PE provides 24 PoE+ (802.3at/af) 10/100/1000 Mbps RJ45 ports, meaning it powers cameras, access points and VoIP phones directly through the network cable. Setup and monitoring use an easy web interface, and VLAN features let you isolate security traffic from the rest of the network. That removes a power adapter from every device.\n\nIt ranks fourth because it is a specialist: you only need it if you have PoE devices. Against the TL-SG1024DE it adds PoE+ on its ports, but the listing gives no power budget, so you must check how many devices it can run at once.\n\nA fit for small business installs and camera systems. Caveat: PoE switches draw more power and run warmer, and the fan or vents may add noise in a quiet room.",
+      "keySpecs": [
+        {"label": "Ports", "value": "24 x PoE+ gigabit"},
+        {"label": "PoE standard", "value": "802.3at/af"},
+        {"label": "Management", "value": "Web-based, VLAN support"},
+        {"label": "Speed", "value": "10/100/1000 Mbps"}
+      ],
+      "pros": [
+        "Powers cameras and access points",
+        "24 ports cover a whole office",
+        "VLAN features for security",
+        "Web-based monitoring"
+      ],
+      "cons": [
+        "Power budget not listed",
+        "Larger and warmer than desk units",
+        "Overkill without PoE devices"
+      ],
+      "idealFor": "Small offices and homes with PoE cameras or access points.",
+      "skipIf": "You have no PoE devices."
+    },
+    {
+      "id": "tp-link-tl-sg1024de",
+      "rank": 5,
+      "award": "Best 24-Port Gigabit",
+      "name": "TP-Link TL-SG1024DE",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/312cxnpjJzL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00CUG8ESM?tag=primeareviews-amz-20",
+      "verdict": "Twenty-four gigabit ports with jumbo frames and port mirroring in a rack-friendly size.",
+      "description": "TP-Link's TL-SG1024DE offers 24 gigabit ports, 9K jumbo frame support and port mirroring for monitoring. Jumbo frames are packets larger than the standard 1,500 bytes, which can reduce overhead during big file transfers between a NAS and a workstation. It is a straightforward way to connect many wired devices from one box.\n\nIt ranks fifth because it lacks PoE and a modern multi-gig port, and it costs more than the 8-port options for capacity you may not need. Against the GS308E, you gain port count but use older management features.\n\nBest for a rack, a home office with many wired devices or a media server hub. Caveat: jumbo frames only help if every device in the path supports them, so mixed gear can cause problems.",
+      "keySpecs": [
+        {"label": "Ports", "value": "24 x gigabit"},
+        {"label": "Jumbo frames", "value": "9K supported"},
+        {"label": "Monitoring", "value": "Port mirroring"},
+        {"label": "Use", "value": "Large file transfers"}
+      ],
+      "pros": [
+        "24 gigabit ports",
+        "9K jumbo frame support",
+        "Port mirroring for monitoring",
+        "Good for file transfers"
+      ],
+      "cons": [
+        "No PoE",
+        "No multi-gig ports",
+        "More ports than most homes need"
+      ],
+      "idealFor": "Racks and offices with many wired devices.",
+      "skipIf": "You need PoE or faster than gigabit."
+    },
+    {
+      "id": "netgear-8-port-gigabit-unmanaged-switch-gs108",
+      "rank": 6,
+      "award": "Best Plug-and-Play Metal Switch",
+      "name": "NETGEAR 8-Port Gigabit Ethernet Unmanaged Network Switch (GS108)",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/41DPYjSDQ1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00MPVR50A?tag=primeareviews-amz-20",
+      "verdict": "A compact metal eight-port switch with no software and wall or desk mounting.",
+      "description": "NETGEAR's GS108 delivers eight 1 Gbps ports in a compact metal case that sits on a desk or mounts to a wall. Setup is plug and play with no software to install, which is exactly right for someone who wants more ports behind a router and nothing else. Metal housing also helps with heat.\n\nIt ranks sixth because the managed GS308E gives much more control for a small difference in price. The GS108 beats the five-port GS305 on port count, and the TP-Link TL-SG116 on build, but it has no tuning options.\n\nA good fit for a TV cabinet or workbench. Caveat: with no management, you cannot create VLANs or prioritize traffic, and an unmanaged switch cannot tell you what is wrong when something misbehaves.",
+      "keySpecs": [
+        {"label": "Ports", "value": "8 x 1.0 Gbps"},
+        {"label": "Setup", "value": "Plug and play, no software"},
+        {"label": "Case", "value": "Compact metal"},
+        {"label": "Mounting", "value": "Desktop or wall"}
+      ],
+      "pros": [
+        "True plug and play",
+        "Compact metal build",
+        "Desk or wall mounting",
+        "Eight gigabit ports"
+      ],
+      "cons": [
+        "No VLANs or QoS",
+        "No diagnostics",
+        "Slower than 2.5G rivals"
+      ],
+      "idealFor": "A simple port expansion for a TV cabinet or workbench.",
+      "skipIf": "You want any management features."
+    },
+    {
+      "id": "tp-link-tl-sg116",
+      "rank": 7,
+      "award": "Best 16-Port Budget",
+      "name": "TP-Link TL-SG116",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=primeareviews-amz-20",
+      "verdict": "Sixteen gigabit ports with energy-efficient design and flow control.",
+      "description": "The TL-SG116 provides 16 ports at 10/100/1000 Mbps, with energy-efficient technology that lowers power use when ports are idle, and IEEE 802.3x flow control that helps avoid packet loss when a link is saturated. It is unmanaged, with no setup other than plugging in cables.\n\nIt ranks seventh because 16 ports with no management is a narrow use case, and the metal NETGEAR options have a more refined build. It beats the GS305 on port count if you run many wired devices.\n\nA fit for a home with a wired TV, console, PC, NAS and printers. Caveat: with 16 ports and no VLANs, a mistake in one device can affect the whole network, and there is no way to isolate it.",
+      "keySpecs": [
+        {"label": "Ports", "value": "16 x 10/100/1000 Mbps"},
+        {"label": "Efficiency", "value": "Energy-efficient design"},
+        {"label": "Flow control", "value": "IEEE 802.3x"},
+        {"label": "Management", "value": "Unmanaged"}
+      ],
+      "pros": [
+        "Sixteen gigabit ports",
+        "Energy-efficient design",
+        "Flow control reduces loss",
+        "Simple plug-in use"
+      ],
+      "cons": [
+        "No management features",
+        "No PoE or multi-gig",
+        "Plastic build less rugged"
+      ],
+      "idealFor": "Homes with many wired devices and no special needs.",
+      "skipIf": "You want to separate networks or prioritize traffic."
+    },
+    {
+      "id": "netgear-5-port-gigabit-unmanaged-switch-gs305",
+      "rank": 8,
+      "award": "Best Tiny Switch",
+      "name": "NETGEAR 5-Port Gigabit Ethernet Unmanaged Network Switch (GS305)",
+      "score": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/31JUxKEND6L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-amz-20",
+      "verdict": "A five-port gigabit plug-and-play switch with flexible mounting options.",
+      "description": "The GS305 is the smallest switch in this roundup, with five gigabit ports, plug-and-play operation and flexible mounting. It suits a desk where one wall jack needs to feed a laptop, a printer, a console and a streamer. At this size it is easy to hide behind a monitor or TV.\n\nIt finishes last because five ports run out fast, and there are no management features or PoE. It is the one to pick when space and budget matter more than expansion, while the GS108 gives more ports for a modest step up.\n\nBest for a single desk or a bedroom TV setup. Caveat: if you add one more device you will need another switch, so consider the eight-port GS108 if you plan to grow.",
+      "keySpecs": [
+        {"label": "Ports", "value": "5 x gigabit"},
+        {"label": "Setup", "value": "Plug and play, unmanaged"},
+        {"label": "Mounting", "value": "Flexible options"},
+        {"label": "Price bucket", "value": "Under $25"}
+      ],
+      "pros": [
+        "Very small footprint",
+        "Plug and play setup",
+        "Flexible mounting options",
+        "Lowest price in the group"
+      ],
+      "cons": [
+        "Only five ports",
+        "No management or PoE",
+        "Easy to outgrow"
+      ],
+      "idealFor": "One desk or TV stand needing a few extra ports.",
+      "skipIf": "You expect to add more wired devices."
+    }
+  ],
+  "methodology": [
+    {"title": "Port speed", "description": "Gigabit, 2.5 gigabit and 10 gigabit ports were compared, because the slowest link in a path caps real speed."},
+    {"title": "Management features", "description": "VLANs, QoS, IGMP snooping and port mirroring were weighed against fully unmanaged plug-and-play designs."},
+    {"title": "Port count", "description": "Five, eight, 16 and 24-port layouts were matched to home, desk and rack scenarios rather than scored by size alone."},
+    {"title": "PoE support", "description": "PoE+ ports that power cameras and access points earned points for installs where outlets are scarce."},
+    {"title": "Build and mounting", "description": "Metal housings, desktop and wall mounting options and energy efficiency were compared for long-term reliability."}
+  ],
+  "whatMatters": [
+    {"factor": "Port speed", "detail": "Switch ports run at gigabit, 2.5 gigabit or 10 gigabit, and each link runs at the slowest device. A 2.5G switch only helps if both ends support it. Check the port speeds on the listing, and verify your NAS, PC and access points have matching ports."},
+    {"factor": "Managed versus unmanaged", "detail": "Unmanaged switches work out of the box with no settings. Managed or smart switches add VLANs, QoS and monitoring. If you want guest or IoT networks separate, look for VLAN support and a stated VLAN count, such as up to 64 on the GS308E."},
+    {"factor": "PoE and power budget", "detail": "PoE switches power devices like cameras over the network cable. The standard, such as 802.3at/af, defines how much per port. Check the total power budget on the product page, which the switch can deliver across all ports at once."},
+    {"factor": "Port count and growth", "detail": "Count how many wired devices you have, then add room to grow. Five ports fills quickly, eight is typical for a home, and 16 or 24 suit offices. Remember that one port often goes to the uplink."},
+    {"factor": "Cabling requirements", "detail": "Gigabit works on Cat5e, 2.5 gigabit also runs on Cat5e for short runs, and 10 gigabit needs better cabling over distance. Check the cable category in your walls and confirm the switch's claims. Poor cabling causes dropped links."}
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Port Speed",
+      "intro": "Match the switch speed to the fastest device you own.",
+      "table": {
+        "headers": ["Speed", "Our pick"],
+        "rows": [
+          ["Gigabit with management", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["2.5 gigabit", "TP-Link TL-SG108S-M2"],
+          ["10 gigabit uplink", "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T"],
+          ["Plain gigabit", "NETGEAR 8-Port Gigabit Ethernet Unmanaged Network Switch (GS108)"]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": ["Spend", "Our pick"],
+        "rows": [
+          ["Under $25", "NETGEAR 5-Port Gigabit Ethernet Unmanaged Network Switch (GS305)"],
+          ["$25 to $50", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["$50 to $100", "TP-Link TL-SG108S-M2"],
+          ["$100 to $200", "TP-Link TL-SG1428PE"]
+        ]
+      }
+    },
+    {
+      "subheading": "Managed vs Unmanaged",
+      "cards": [
+        {"label": "Managed or smart", "text": "The GS308E adds VLANs, QoS and port mirroring, and the TL-SG1428PE and TL-SG1024DE offer web monitoring."},
+        {"label": "Unmanaged", "text": "The GS108, GS305 and TL-SG116 work instantly with no settings, which suits simple port expansion."}
+      ],
+      "note": "Most homes should buy the GS308E for its management at almost unmanaged prices."
+    },
+    {
+      "subheading": "By Port Count",
+      "table": {
+        "headers": ["Ports needed", "Our pick"],
+        "rows": [
+          ["5 ports", "NETGEAR 5-Port Gigabit Ethernet Unmanaged Network Switch (GS305)"],
+          ["8 ports", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["16 ports", "TP-Link TL-SG116"],
+          ["24 ports", "TP-Link TL-SG1024DE"]
+        ]
+      }
+    },
+    {
+      "subheading": "For Security Cameras Specifically",
+      "cards": [
+        {"label": "Look for", "text": "PoE or PoE+ ports to power cameras, enough ports for all of them, and VLAN support to isolate camera traffic."},
+        {"label": "In this ranking", "text": "The TP-Link TL-SG1428PE has 24 PoE+ ports with VLAN features, so cameras need no separate power adapters."}
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {"label": "Spend more if", "text": "You have 2.5G or 10G devices: the TP-Link TL-SG108S-M2 or the 10GbE switch removes the wired bottleneck."},
+        {"label": "Save if", "text": "Your devices are all gigabit. The NETGEAR GS108 covers them for less."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Do I need Cat6 cable for a 2.5 gigabit switch?", "a": "Not usually. The TP-Link TL-SG108S-M2 is designed to reach 2.5 Gbps over existing Cat5e wiring, which saves rewiring. For 10 gigabit links on the 10GbE switch, higher quality cable is advisable over longer runs."},
+    {"q": "What is the common mistake when buying a switch?", "a": "Buying by port count and ignoring speed. A 24-port TL-SG1024DE is gigabit only, so a 2.5G NAS will still be capped. Match the ports to your fastest device before checking count."},
+    {"q": "Is the managed GS308E worth it over the GS108?", "a": "For most people yes. It adds up to 64 VLANs, QoS, IGMP snooping and port mirroring in the same eight-port form, while the GS108 is purely plug and play with no tuning."},
+    {"q": "How do I set up VLANs on an easy smart switch?", "a": "Connect to the switch with a browser, open the VLAN page on the GS308E and assign each port to a VLAN. Keep your admin port in the default VLAN so you do not lock yourself out."},
+    {"q": "How do I keep a switch running well?", "a": "Give it airflow, keep cable runs tidy and update firmware on managed units. The metal GS108 dissipates heat well, while the TL-SG1428PE and other PoE models need ventilation."},
+    {"q": "Can I power cameras from a normal switch?", "a": "No. Only PoE switches like the TP-Link TL-SG1428PE send power over the cable. With the GS308E or TL-SG108S-M2 you need a separate power adapter or a PoE injector for each camera."}
+  ],
+  "finalTake": "The NETGEAR GS308E is the best value switch in this ranking, giving you eight gigabit ports with VLANs, QoS and port mirroring for the price of a basic box. Upgrade to the TP-Link TL-SG108S-M2 when your devices are 2.5G, or the TL-SG1428PE when you need PoE for cameras. Choose by the speed and power your devices need, not by port count.",
+  "related": []
+}
