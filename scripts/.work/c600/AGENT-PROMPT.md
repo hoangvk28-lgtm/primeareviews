@@ -38,3 +38,6 @@ Each product's imageUrl must be that product's own imageUrl from the facts file 
 
 ## Category (added)
 categoryHint in facts is often wrong. Pick the category by product type: networking/computer/audio/video gear -> tech-accessories; garden tools, watering, bird feeders, outdoor seating -> outdoor-garden; cookware/utensils/can openers/peelers -> kitchen; mobility and daily-living aids (incl. arthritis/senior aids) -> health-mobility; desks, office chairs, office safes -> home-office; Halloween/holiday, heaters, humidifiers, fans -> seasonal; otherwise home-living.
+
+## Enriched facts (added)
+Facts with "enriched": true contain raw Amazon listing bullets (marketing copy, 【】 headers, superlatives like "the only", "upgrade"). Treat them as seller claims: extract numbers and stated features only, never copy their sentences or phrasing, never repeat unverifiable superlatives as fact, and attribute claims ("the listing says") where it matters. Product names may be long listing titles: use a shortened but still exact model identification in prose; keep the "name" field as given in facts (you may trim trailing marketing after the model/size/colour, never invent).

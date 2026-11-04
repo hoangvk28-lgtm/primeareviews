@@ -1,6 +1,6 @@
 import fs from "node:fs";
 process.chdir("/home/user/primeareviews");
-const lists = ["cloud-600.txt", "cloud-backup.txt"].flatMap((f) => fs.readFileSync("scripts/.work/" + f, "utf8").split("\n").filter(Boolean));
+const lists = ["cloud-600.txt", "cloud-backup.txt", "c600/enriched.txt"].flatMap((f) => fs.readFileSync("scripts/.work/" + f, "utf8").split("\n").filter(Boolean));
 let bad = 0, n = 0;
 for (const s of lists) {
   if (!fs.existsSync(`data/guides/${s}.json`)) continue; n++;
