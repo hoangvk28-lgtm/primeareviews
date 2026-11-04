@@ -35,3 +35,6 @@ audit-depth flags a guide as thin when the whatMatters average is under 45 words
 
 ## Image/ASIN check (added)
 Each product's imageUrl must be that product's own imageUrl from the facts file (never the heroImage for every product). After writing, run `node scripts/.work/c600/asincheck.mjs | grep <slug>`; it must print nothing for your slug.
+
+## Category (added)
+categoryHint in facts is often wrong. Pick the category by product type: networking/computer/audio/video gear -> tech-accessories; garden tools, watering, bird feeders, outdoor seating -> outdoor-garden; cookware/utensils/can openers/peelers -> kitchen; mobility and daily-living aids (incl. arthritis/senior aids) -> health-mobility; desks, office chairs, office safes -> home-office; Halloween/holiday, heaters, humidifiers, fans -> seasonal; otherwise home-living.

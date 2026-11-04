@@ -1,0 +1,265 @@
+{
+  "slug": "best-network-switches-under-150",
+  "category": "home-living",
+  "h1": "The 6 Best Network Switches Under $150 of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Network Switches Under $150: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 6 network switches under $150 scored on port speed, VLAN support and port count, from Gigabit managed to 2.5G and 10G uplinks.",
+  "mainKeyword": "network switches under $150",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg",
+  "summary": "The NETGEAR GS308E is the switch most homes should buy: eight Gigabit ports plus a web interface with VLANs and QoS for a small outlay. If your internet or NAS already outruns Gigabit, the TP-Link TL-SG108S-M2 gives you eight 2.5G ports, and the TL-SG105S-M2 does it in five. Need a 10G uplink to a server or NAS? The unmanaged 10GbE switch is the only pick here with two 10Gb RJ45 ports. For a crowded desk with many wired devices, the 16-port TL-SG116 is the one to beat.",
+  "intro": [
+    "Most people buy a switch by counting ports and never look at what is behind them. That is how a household with a 2.5G router ends up capping a fast NAS at Gigabit, or how a home office pays for management features it never opens. Every switch on this list costs under $150, and the real difference is port speed, how many ports you get, and whether you can configure the box at all.",
+    "We reviewed six switches covering the realistic home and small office choices: 8-port and 16-port Gigabit, two 2.5G models, and one mixed 10G and 2.5G box. Each was scored on the Primea framework, with the most weight on port speed for the money, VLAN and traffic control where offered, and how well the port count fits a desk or media closet."
+  ],
+  "methodology": [
+    { "title": "Port speed per dollar", "description": "We compared Gigabit, 2.5G and 10G ports against the price bracket, because upgrading the wrong end of the network wastes the spend." },
+    { "title": "Management features", "description": "Switches with VLANs, QoS and port mirroring were ranked above plain unmanaged boxes only where those tools are actually usable at home." },
+    { "title": "Port count", "description": "Five, eight and sixteen ports suit very different rooms, so each pick was judged against the layout it is built for." },
+    { "title": "Cable and device fit", "description": "We noted which models need Cat6 for full speed and which run on existing cabling, since rewiring a house is the hidden cost of a faster switch." },
+    { "title": "Value within the field", "description": "Features, speed and port count were weighed against each switch's price bracket relative to the others here." }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Match port speed to your slowest link",
+      "detail": "A switch can only move traffic as fast as the slowest device on the path. Gigabit ports top out at 1 Gbps, 2.5G ports at 2.5 Gbps. If your router, NAS and PC are all Gigabit, paying for 2.5G changes nothing. Check the network card speed of each device before choosing the port type."
+    },
+    {
+      "factor": "Managed versus unmanaged",
+      "detail": "Unmanaged switches work on plug-in and offer no settings. Managed or smart switches add a web interface for VLANs, QoS and port mirroring. That matters if you want to separate cameras or a guest network from your main devices. Look for the word VLAN and a stated VLAN count on the listing before assuming it is managed."
+    },
+    {
+      "factor": "Cabling decides real 2.5G speed",
+      "detail": "A 2.5G switch only reaches 2.5 Gbps if the cable and the device at the other end support it. The TP-Link 2.5G models note that you can upgrade to 2.5 Gbps without moving to Cat6, but older cable runs still vary. Test one wall run with a 2.5G device before replacing any cabling."
+    },
+    {
+      "factor": "Count the ports you will need in a year",
+      "detail": "Most buyers fill a 5-port switch within months once a TV, console, printer and access point arrive. Add up every wired device, then leave at least two ports free. An 8-port switch is the practical minimum for a home office, and a 16-port model suits a media closet or shared desk."
+    },
+    {
+      "factor": "Uplink ports for servers and NAS",
+      "detail": "A few switches mix port speeds so one or two fast ports feed a server while the rest serve ordinary devices. The 10GbE model here pairs two 10Gb RJ45 ports with four 2.5Gb ports. Read the port list line by line on the listing and check that your NAS card actually supports 10GBASE-T."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Port Speed",
+      "intro": "Start with the fastest link you actually own.",
+      "table": {
+        "headers": ["Your fastest device", "Our pick"],
+        "rows": [
+          ["Gigabit everywhere, want settings", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["2.5G router or PC, 8 devices", "TP-Link TL-SG108S-M2"],
+          ["2.5G router or PC, 5 devices", "TP-Link TL-SG105S-M2"],
+          ["10G NAS or server uplink", "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T"],
+          ["Many Gigabit devices", "TP-Link TL-SG116"]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": ["Spend", "Our pick"],
+        "rows": [
+          ["Under $25", "TP-Link 8 Port Gigabit Switch"],
+          ["$25 to $50", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["$25 to $50 (2.5G)", "TP-Link TL-SG105S-M2"],
+          ["$50 to $100", "TP-Link TL-SG108S-M2"],
+          ["$50 to $100 (10G uplink)", "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T"]
+        ]
+      }
+    },
+    {
+      "subheading": "Gigabit vs 2.5G",
+      "cards": [
+        { "label": "Gigabit", "text": "Plenty for streaming, video calls and ordinary file copies, and the cheapest way to add ports. Picks: NETGEAR GS308E, TP-Link 8 Port Gigabit Switch, TP-Link TL-SG116." },
+        { "label": "2.5G", "text": "Worth it when your internet plan, router or NAS already exceeds 1 Gbps, and the TP-Link models claim no Cat6 upgrade is needed. Picks: TP-Link TL-SG108S-M2, TP-Link TL-SG105S-M2." }
+      ],
+      "note": "Default to Gigabit unless a device you own can already use more than 1 Gbps."
+    },
+    {
+      "subheading": "By Management Features",
+      "table": {
+        "headers": ["What you need", "Our pick"],
+        "rows": [
+          ["Plug in and forget", "TP-Link TL-SG116"],
+          ["Web GUI, VLANs, QoS and port mirroring", "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"],
+          ["Cheapest VLAN segmentation (up to 32 VLANs)", "TP-Link 8 Port Gigabit Switch"],
+          ["Fast ports, no setup", "TP-Link TL-SG108S-M2"]
+        ]
+      }
+    },
+    {
+      "subheading": "For a Home NAS Specifically",
+      "cards": [
+        { "label": "Look for", "text": "A port speed that matches your NAS network card, enough ports for the NAS, router and your PC, and a fast uplink if several people pull files at once." },
+        { "label": "In this ranking", "text": "The 10GbE unmanaged switch if your NAS has a 10G port, the TP-Link TL-SG108S-M2 if it has 2.5G, and the NETGEAR GS308E if it is Gigabit." }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        { "label": "Spend more if", "text": "You already own 2.5G or 10G hardware. The TP-Link TL-SG108S-M2 or the 10GbE switch lets you use the speed you paid for." },
+        { "label": "Save if", "text": "Everything on your network is Gigabit. The TP-Link 8 Port Gigabit Switch or NETGEAR GS308E covers it for under $50." }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "netgear-gs308e",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
+      "verdict": "Eight Gigabit ports with a real web interface, VLANs and QoS for $25 to $50.",
+      "description": "The GS308E is an 8-port Gigabit switch with an Easy Smart web interface that runs on Windows, Mac or Linux. Inside it you can carve out as many as 64 VLANs and set QoS, IGMP snooping and mirroring, tools usually reserved for much pricier boxes.\n\nIt tops this list because it gives you control without a steep price. The TP-Link 8 Port Gigabit Switch below offers VLANs too, but only up to 32, and the NETGEAR interface has the broader toolset with port mirroring for traffic troubleshooting. The faster TP-Link 2.5G models beat it on raw speed, but only pay off if your other gear can use it.\n\nBuy it if you want to split cameras, a home lab or guest devices onto separate VLANs. The caveat is speed: every port is 1 Gbps, so a 2.5G router or NAS will be held back.",
+      "keySpecs": [
+        { "label": "Ports", "value": "8 x 1 Gbps" },
+        { "label": "VLANs", "value": "Up to 64" },
+        { "label": "Management", "value": "Web GUI, QoS, IGMP snooping" },
+        { "label": "Price", "value": "$25 to $50" }
+      ],
+      "pros": ["Web GUI on any operating system", "Up to 64 VLANs", "Port mirroring for troubleshooting", "Eight ports at a low price"],
+      "cons": ["Gigabit only", "Smart management has a learning curve", "Cannot use 2.5G devices fully"],
+      "idealFor": "Home office and home lab users who want VLANs and QoS on a small budget.",
+      "skipIf": "You own 2.5G or 10G gear and need those speeds."
+    },
+    {
+      "id": "tp-link-tl-sg108s-m2",
+      "rank": 2,
+      "award": "Best 2.5G",
+      "name": "TP-Link TL-SG108S-M2",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-amz-20",
+      "verdict": "Eight 2.5-gigabit ports for the home that has outgrown Gigabit.",
+      "description": "The TL-SG108S-M2 puts eight 2.5-gigabit ports in one box and is aimed at LAN parties, home entertainment, small and home offices. TP-Link states you can reach 2.5 Gbps without upgrading to Cat6 cabling, which removes the usual rewiring objection.\n\nIt ranks second because it is the cleanest way to future-proof a network without paying for 10G. It beats the five-port TL-SG105S-M2 on sheer capacity, and it outruns the NETGEAR GS308E on speed, though it gives up the web management that makes the NETGEAR flexible. The $50 to $100 bracket is also the second-highest here.\n\nBuy it if your router, PC or NAS has a 2.5G port and you want all eight ports at that speed. The caveat is the listing says nothing about VLAN or QoS support, so do not count on managed features.",
+      "keySpecs": [
+        { "label": "Ports", "value": "8 x 2.5 Gbps" },
+        { "label": "Cabling", "value": "No Cat6 upgrade stated as required" },
+        { "label": "Use", "value": "Home office, LAN parties, entertainment" },
+        { "label": "Price", "value": "$50 to $100" }
+      ],
+      "pros": ["All eight ports run 2.5G", "No Cat6 upgrade claimed", "Good for fast NAS and PCs", "Simple to set up"],
+      "cons": ["No management features listed", "Costs more than Gigabit boxes"],
+      "idealFor": "Owners of 2.5G routers, PCs or NAS units who need eight fast ports.",
+      "skipIf": "Your devices are all Gigabit or you need VLANs."
+    },
+    {
+      "id": "tp-link-tl-sg105s-m2",
+      "rank": 3,
+      "award": "Best Compact 2.5G",
+      "name": "TP-Link TL-SG105S-M2",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-amz-20",
+      "verdict": "The cheapest way into 2.5G, with five fast ports for $25 to $50.",
+      "description": "The TL-SG105S-M2 is the smaller sibling of our number two pick, with five 2.5-gigabit ports. It targets LAN parties, home entertainment and small offices, and TP-Link says it can lift a network to 2.5 Gbps without Cat6 upgrades.\n\nIt ranks third because five ports run out quickly. Against the eight-port TL-SG108S-M2, you save money but lose room to grow, and compared with the NETGEAR GS308E you give up management and port count in exchange for faster ports. For a desk with a router, PC, NAS and one or two other devices it is the sensible size.\n\nBuy it if you have a small setup with a handful of 2.5G devices. The caveat is simple: once a console, TV and access point arrive, five ports will not be enough.",
+      "keySpecs": [
+        { "label": "Ports", "value": "5 x 2.5 Gbps" },
+        { "label": "Cabling", "value": "No Cat6 upgrade stated as required" },
+        { "label": "Use", "value": "Small and home offices" },
+        { "label": "Price", "value": "$25 to $50" }
+      ],
+      "pros": ["Five 2.5G ports cheaply", "Small footprint for a desk", "No Cat6 upgrade claimed", "Plug-in simplicity"],
+      "cons": ["Only five ports", "No management listed"],
+      "idealFor": "Small desks with a few 2.5G devices.",
+      "skipIf": "You expect to wire more than four or five devices."
+    },
+    {
+      "id": "10gbe-ethernet-switch-unmanaged",
+      "rank": 4,
+      "award": "Best 10G Uplink",
+      "name": "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T",
+      "score": 87,
+      "imageUrl": "https://m.media-amazon.com/images/I/41aol4eJAbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DS4KC7Y3?tag=primeareviews-amz-20",
+      "verdict": "The only pick here with two 10Gb RJ45 ports, for a server or NAS uplink.",
+      "description": "This unmanaged switch pairs two 10Gb RJ45 ports with four 2.5Gb Base-T ports and is sold as 2.5x faster than a standard Gigabit switch. Setup is plug-in simple, and the box costs $50 to $100.\n\nThe fourth slot reflects that it solves a narrower problem than the picks above. A fast NAS and a fast PC on the two 10G ports with everything else on 2.5G is a clean layout, but the TL-SG108S-M2 gives you twice the ports at one speed. Against the NETGEAR GS308E you trade management for raw uplink speed.\n\nBuy it if you have a 10G NAS or workstation and a handful of 2.5G devices. The caveat is that only six ports exist in total, and the listing offers no management features.",
+      "keySpecs": [
+        { "label": "10G ports", "value": "2 x 10Gb RJ45" },
+        { "label": "2.5G ports", "value": "4 x 2.5Gb Base-T" },
+        { "label": "Management", "value": "Unmanaged" },
+        { "label": "Price", "value": "$50 to $100" }
+      ],
+      "pros": ["Two 10Gb RJ45 ports", "Four 2.5G ports alongside", "Simple unmanaged setup", "Strong value for 10G"],
+      "cons": ["Only six ports total", "No VLANs or QoS", "Unnamed brand listing"],
+      "idealFor": "Users with a 10G NAS or workstation plus a few 2.5G devices.",
+      "skipIf": "You need more than six ports or any managed features."
+    },
+    {
+      "id": "tp-link-8-port-gigabit-switch",
+      "rank": 5,
+      "award": "Best Budget Managed",
+      "name": "TP-Link 8 Port Gigabit Switch",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/41mABHEKN8L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=primeareviews-amz-20",
+      "verdict": "Eight Gigabit ports with web management and up to 32 VLANs for under $25.",
+      "description": "This TP-Link 8-port Gigabit switch can be configured through a web interface and segments traffic with up to 32 VLANs at once. For under $25 it is one of the cheapest ways to get managed networking at home.\n\nIt ranks fifth because the NETGEAR GS308E does more with the same port count: 64 VLANs against 32, plus QoS, IGMP snooping and port mirroring on the listing. The TP-Link keeps pace on basics and wins on price, which is why it still beats the plain unmanaged boxes. Its features are limited to what the listing states, so check the interface before building anything complex.\n\nBuy it if you want to try VLANs without spending much. The caveat is that the listing gives few details beyond port count and VLANs, so QoS support is not confirmed.",
+      "keySpecs": [
+        { "label": "Ports", "value": "8 x Gigabit" },
+        { "label": "VLANs", "value": "Up to 32" },
+        { "label": "Management", "value": "Web interface" },
+        { "label": "Price", "value": "Under $25" }
+      ],
+      "pros": ["Web-managed for under $25", "Up to 32 VLANs", "Eight Gigabit ports", "Cheapest segmented option"],
+      "cons": ["Fewer features than NETGEAR", "Gigabit only", "Sparse listing detail"],
+      "idealFor": "Budget buyers who want to learn VLANs.",
+      "skipIf": "You need QoS, port mirroring or 2.5G speeds."
+    },
+    {
+      "id": "tp-link-tl-sg116",
+      "rank": 6,
+      "award": "Best Port Count",
+      "name": "TP-Link TL-SG116",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=primeareviews-amz-20",
+      "verdict": "Sixteen Gigabit ports in an energy-efficient, quiet unmanaged box.",
+      "description": "The TL-SG116 expands a network with 16 Gigabit RJ45 ports, uses TP-Link's energy-efficient design, and supports IEEE 802.3x flow control for reliable transfers. TP-Link also describes it as quiet.\n\nIt ranks sixth only because most homes do not need sixteen ports. The NETGEAR GS308E and TP-Link 8 Port switch cost less and give you management features, while this one is plug-in only. Where ports are the constraint, though, nothing else on this list comes close, and it avoids the daisy-chained cheap switches that cause trouble.\n\nBuy it for a media closet, workshop or shared office with many wired devices. The caveat is that the listing mentions no VLAN or management features, so it cannot segment your network.",
+      "keySpecs": [
+        { "label": "Ports", "value": "16 x 10/100/1000 Mbps" },
+        { "label": "Flow control", "value": "IEEE 802.3x" },
+        { "label": "Management", "value": "Unmanaged" },
+        { "label": "Price", "value": "$50 to $100" }
+      ],
+      "pros": ["Sixteen Gigabit ports", "Energy-efficient design", "Described as quiet", "Plug in and forget"],
+      "cons": ["No management features", "Gigabit only", "Overkill for small desks"],
+      "idealFor": "Media closets and busy offices with many wired devices.",
+      "skipIf": "You want VLANs or have fewer than eight devices."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a managed switch at home?",
+      "a": "Usually no. A plain switch like the TP-Link TL-SG116 works with no setup. Choose the NETGEAR GS308E or TP-Link 8 Port Gigabit Switch only if you want VLANs to separate cameras, guests or a home lab from your main devices."
+    },
+    {
+      "q": "What is the most common buying mistake with a 2.5G switch?",
+      "a": "Buying a TP-Link TL-SG108S-M2 while the router and PC are still Gigabit. Speed is set by the slowest link, so a 2.5G switch changes nothing until at least two devices on the path support 2.5 Gbps."
+    },
+    {
+      "q": "Is the 10G switch worth it over the 2.5G models?",
+      "a": "Only with a 10G NAS or workstation. The 10GbE unmanaged switch has two 10Gb RJ45 ports and four 2.5G ports, while the TP-Link TL-SG108S-M2 gives eight 2.5G ports. If nothing you own is 10G, buy the TP-Link."
+    },
+    {
+      "q": "How do I set up VLANs on the NETGEAR GS308E?",
+      "a": "Open the Easy Smart web interface from a Windows, Mac or Linux computer and assign ports to VLAN groups. Start with one spare port for a test device, confirm it works, then move cameras or guest devices over."
+    },
+    {
+      "q": "Will 2.5G work over my old network cables?",
+      "a": "TP-Link says the TL-SG105S-M2 and TL-SG108S-M2 can reach 2.5 Gbps without upgrading to Cat6, but results depend on run length and cable quality. Plug a 2.5G device into your longest existing run before ordering."
+    },
+    {
+      "q": "Can I chain a five-port switch off a sixteen-port one?",
+      "a": "Yes, a TP-Link TL-SG105S-M2 can hang off a TL-SG116 uplink. Remember the link between them runs at the slower speed, so a 2.5G switch behind a Gigabit one is capped at 1 Gbps."
+    }
+  ],
+  "finalTake": "For most households the NETGEAR GS308E is the right answer: eight Gigabit ports with VLANs and QoS for $25 to $50. If your devices have moved to 2.5G, step up to the TP-Link TL-SG108S-M2, or the five-port TL-SG105S-M2 for a small desk. Have a 10G NAS? The unmanaged 10GbE switch is the only pick here with two 10Gb RJ45 ports. And if you simply need lots of ports, the TP-Link TL-SG116 is the easy call.",
+  "related": []
+}
