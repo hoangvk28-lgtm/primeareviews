@@ -26,10 +26,22 @@
       "verdict": "A real 10.1 inch 1080p screen, 4GB of RAM and a 13 hour battery. The best screen in the group.",
       "description": "The Fire HD 10 has a 10.1 inch Full HD (1080p) display, an octa-core processor, 4GB of RAM, 32GB of storage and up to 13 hours of battery life. It sits in the $50 to $100 bucket.\n\nIt wins on the specs that cannot be faked. The 1080p panel is sharper than every 1280x800 rival here, and 4GB of physical RAM is what the others try to make up with virtual memory. Compared with the URAO, you get a better display but lose storage: 32GB is a quarter of the URAO's 128GB. It also runs Fire OS rather than stock Android, so the app store is narrower.\n\nBuy it for streaming, reading and family use. The limits are the 32GB base storage and the Amazon-flavored software, so plan on a memory card if you hoard downloads.",
       "keySpecs": [
-        { "label": "Screen", "value": "10.1 in 1080p Full HD" },
-        { "label": "Memory", "value": "4GB RAM" },
-        { "label": "Storage", "value": "32GB" },
-        { "label": "Battery", "value": "Up to 13 hours" }
+        {
+          "label": "Screen",
+          "value": "10.1 in 1080p Full HD"
+        },
+        {
+          "label": "Memory",
+          "value": "4GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "32GB"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 13 hours"
+        }
       ],
       "pros": [
         "True 1080p display",
@@ -56,10 +68,22 @@
       "verdict": "Android 16, 128GB and a 6000mAh battery in the $50 to $100 bucket.",
       "description": "URAO ships Android 16 on a 1.8 GHz octa-core processor, with 6GB of RAM plus 30GB of virtual memory, 128GB of storage that can grow to 1TB with a TF card, a 6000mAh battery, dual cameras and a low blue light screen.\n\nIts storage is the story. Four times the Fire HD 10's space, plus a card slot, makes it the better choice for downloaded video and offline reading. It ranks second because the listing does not state a resolution, and the 30GB virtual figure is a marketing add-on, so count only the 6GB of real RAM. Against the ECOPAD it has a newer Android release.\n\nBuy it for a user who wants stock Android and room for files. The unstated display resolution is the gap, so check it before ordering.",
       "keySpecs": [
-        { "label": "System", "value": "Android 16" },
-        { "label": "Memory", "value": "6GB plus 30GB virtual" },
-        { "label": "Storage", "value": "128GB, TF up to 1TB" },
-        { "label": "Battery", "value": "6000mAh" }
+        {
+          "label": "System",
+          "value": "Android 16"
+        },
+        {
+          "label": "Memory",
+          "value": "6GB plus 30GB virtual"
+        },
+        {
+          "label": "Storage",
+          "value": "128GB, TF up to 1TB"
+        },
+        {
+          "label": "Battery",
+          "value": "6000mAh"
+        }
       ],
       "pros": [
         "128GB with card expansion",
@@ -86,10 +110,22 @@
       "verdict": "Android 15, 64GB, cameras and a 1280x800 IPS screen. Half the storage of the URAO.",
       "description": "ECOPAD runs Android 15 with 12GB of RAM, of which only 4GB is physical and 8GB is expanded, 64GB of storage with SD expansion to 1TB, a 2MP front and 8MP rear camera and a 10.1 inch 1280x800 IPS display.\n\nThe headline 12GB is mostly virtual, so read it as 4GB, the same as the Fire HD 10. It ranks below the URAO because it has less storage and an older Android release, and below the Fire because its 1280x800 panel is softer than 1080p. The listed cameras are the part most budget tablets skip, which helps for video calls.\n\nBuy it for a second family tablet used for calls and browsing. Do not count on the 12GB figure for gaming.",
       "keySpecs": [
-        { "label": "System", "value": "Android 15" },
-        { "label": "Memory", "value": "12GB (4GB plus 8GB expanded)" },
-        { "label": "Storage", "value": "64GB, SD up to 1TB" },
-        { "label": "Screen", "value": "10.1 in 1280x800 IPS" }
+        {
+          "label": "System",
+          "value": "Android 15"
+        },
+        {
+          "label": "Memory",
+          "value": "12GB (4GB plus 8GB expanded)"
+        },
+        {
+          "label": "Storage",
+          "value": "64GB, SD up to 1TB"
+        },
+        {
+          "label": "Screen",
+          "value": "10.1 in 1280x800 IPS"
+        }
       ],
       "pros": [
         "64GB with SD expansion",
@@ -116,10 +152,22 @@
       "verdict": "A stylus and folding case in the box, with 8GB of RAM but only 32GB of storage.",
       "description": "NOVOJOY pairs Android 15 and a quad-core processor with 8GB of RAM, 32GB of ROM expandable to 1TB, a 6000mAh battery and a 10.1 inch 1280x800 IPS screen. A stylus and folding case are included.\n\nThe bundle is the draw for students and kids, because a case and stylus would add to the cost of the others. It ranks fourth because the quad-core chip is a step down from the octa-core processors in the Fire HD 10 and URAO, and because the listing does not say how much of the 8GB is physical. The 32GB storage matches the Fire but needs a card sooner.\n\nBuy it for a child or a student who will use the stylus. If speed matters, step up to the URAO, since a quad-core chip will be slower.",
       "keySpecs": [
-        { "label": "System", "value": "Android 15" },
-        { "label": "Memory", "value": "8GB RAM, quad-core" },
-        { "label": "Storage", "value": "32GB, up to 1TB" },
-        { "label": "Extras", "value": "Stylus and folding case" }
+        {
+          "label": "System",
+          "value": "Android 15"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB RAM, quad-core"
+        },
+        {
+          "label": "Storage",
+          "value": "32GB, up to 1TB"
+        },
+        {
+          "label": "Extras",
+          "value": "Stylus and folding case"
+        }
       ],
       "pros": [
         "Case and stylus included",
@@ -146,10 +194,22 @@
       "verdict": "A 7 inch kid-sized tablet with a case included, but a 1024x600 screen.",
       "description": "The HOTTABLET is a 7 inch Android 14 tablet with a 1024x600 IPS screen, 8GB of RAM of which 3GB is physical and 5GB expanded, 32GB of storage, dual-band Wi-Fi and a protective case in the box. It sits in the $25 to $50 bucket, the cheapest here.\n\nIt ranks last because 1024x600 is the lowest resolution in the ranking and 3GB of real RAM is the thinnest. But its 7 inch size is the only one here that fits small hands or a bag easily. Compared with the NOVOJOY, it costs less but also gives you a smaller, lower-resolution screen.\n\nBuy it for a young child or as a simple e-reader. Anyone who plans to stream or run several apps should step up.",
       "keySpecs": [
-        { "label": "System", "value": "Android 14" },
-        { "label": "Screen", "value": "7 in 1024x600 IPS" },
-        { "label": "Memory", "value": "8GB (3GB plus 5GB expanded)" },
-        { "label": "Storage", "value": "32GB" }
+        {
+          "label": "System",
+          "value": "Android 14"
+        },
+        {
+          "label": "Screen",
+          "value": "7 in 1024x600 IPS"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB (3GB plus 5GB expanded)"
+        },
+        {
+          "label": "Storage",
+          "value": "32GB"
+        }
       ],
       "pros": [
         "Cheapest tablet here",
@@ -215,24 +275,54 @@
       "subheading": "By Screen Quality",
       "intro": "Start with what you will look at most.",
       "table": {
-        "headers": ["Screen need", "Our pick"],
+        "headers": [
+          "Screen need",
+          "Our pick"
+        ],
         "rows": [
-          ["Sharpest 1080p display", "Amazon Fire HD 10 Tablet"],
-          ["Stock Android on 10.1 inch", "URAO 10.1-Inch Android 16 Tablet"],
-          ["IPS with cameras", "ECOPAD 10.1-Inch Android 15 Tablet"],
-          ["Compact 7 inch", "HOTTABLET 7-Inch Android 14 Tablet"]
+          [
+            "Sharpest 1080p display",
+            "Amazon Fire HD 10 Tablet"
+          ],
+          [
+            "Stock Android on 10.1 inch",
+            "URAO 10.1-Inch Android 16 Tablet"
+          ],
+          [
+            "IPS with cameras",
+            "ECOPAD 10.1-Inch Android 15 Tablet"
+          ],
+          [
+            "Compact 7 inch",
+            "HOTTABLET 7-Inch Android 14 Tablet"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "HOTTABLET 7-Inch Android 14 Tablet"],
-          ["$50 to $100, best screen", "Amazon Fire HD 10 Tablet"],
-          ["$50 to $100, most storage", "URAO 10.1-Inch Android 16 Tablet"],
-          ["$50 to $100, bundle", "NOVOJOY 10-Inch Android 15 Tablet with Case"]
+          [
+            "$25 to $50",
+            "HOTTABLET 7-Inch Android 14 Tablet"
+          ],
+          [
+            "$50 to $100, best screen",
+            "Amazon Fire HD 10 Tablet"
+          ],
+          [
+            "$50 to $100, most storage",
+            "URAO 10.1-Inch Android 16 Tablet"
+          ],
+          [
+            "$50 to $100, bundle",
+            "NOVOJOY 10-Inch Android 15 Tablet with Case"
+          ]
         ]
       }
     },
@@ -253,12 +343,27 @@
     {
       "subheading": "By Storage Need",
       "table": {
-        "headers": ["Storage use", "Our pick"],
+        "headers": [
+          "Storage use",
+          "Our pick"
+        ],
         "rows": [
-          ["Lots of offline video", "URAO 10.1-Inch Android 16 Tablet"],
-          ["Mixed use, 64GB", "ECOPAD 10.1-Inch Android 15 Tablet"],
-          ["Streaming only", "Amazon Fire HD 10 Tablet"],
-          ["Kid with a card", "NOVOJOY 10-Inch Android 15 Tablet with Case"]
+          [
+            "Lots of offline video",
+            "URAO 10.1-Inch Android 16 Tablet"
+          ],
+          [
+            "Mixed use, 64GB",
+            "ECOPAD 10.1-Inch Android 15 Tablet"
+          ],
+          [
+            "Streaming only",
+            "Amazon Fire HD 10 Tablet"
+          ],
+          [
+            "Kid with a card",
+            "NOVOJOY 10-Inch Android 15 Tablet with Case"
+          ]
         ]
       }
     },
@@ -316,5 +421,9 @@
     }
   ],
   "finalTake": "For most buyers the Amazon Fire HD 10 is the best tablet under $150, thanks to its 1080p screen and 4GB of real RAM. If you want Android and more space, choose the URAO with 128GB and a card slot. The ECOPAD suits calls and browsing, the NOVOJOY suits students, and the HOTTABLET fits young children.",
-  "related": []
+  "related": [
+    "best-8-5-inch-lcd-writing-tablets",
+    "best-digital-notebook-tablets",
+    "best-drawing-tablets-under-200"
+  ]
 }

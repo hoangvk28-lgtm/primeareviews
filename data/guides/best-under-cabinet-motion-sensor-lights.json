@@ -26,10 +26,22 @@
       "verdict": "Five 10-inch bars with 2400mAh each, 12 ft sensing and a remote.",
       "description": "EZVALO's pack contains five 10 inch bars, each with a 2400mAh battery, a 120 degree detection angle out to 12 feet and a 0.1 second response. A remote comes in the box. It costs $25 to $50, the only pack above the under-$25 bracket.\n\nThe 2400mAh cell is the largest in the group, which is the spec that decides whether you recharge monthly or quarterly. A 0.1 second response matters in practice: the light is on before your hand reaches the shelf, where slower sensors leave you in the dark for a beat. It tops the ranking on those two numbers, plus the remote for switching modes without reaching under the cabinet.\n\nBuy it to light a whole kitchen or workshop with one pack. Skip it if you only need two bars.",
       "keySpecs": [
-        { "label": "Pack size", "value": "5 lights" },
-        { "label": "Battery", "value": "2400mAh each" },
-        { "label": "Detection", "value": "120 degrees, up to 12 ft" },
-        { "label": "Response", "value": "0.1 seconds" }
+        {
+          "label": "Pack size",
+          "value": "5 lights"
+        },
+        {
+          "label": "Battery",
+          "value": "2400mAh each"
+        },
+        {
+          "label": "Detection",
+          "value": "120 degrees, up to 12 ft"
+        },
+        {
+          "label": "Response",
+          "value": "0.1 seconds"
+        }
       ],
       "pros": [
         "Largest battery per bar",
@@ -56,10 +68,22 @@
       "verdict": "Motion, always-on and off modes with five dimming levels.",
       "description": "MCGOR's pair uses 10 inch bars with 40 LEDs each, five levels of dimming and three modes: motion, always-on and off. It is rechargeable and costs under $25.\n\nThe always-on mode is the reason to pick it. Motion lights are wrong for tasks where you stand still, like chopping, and being able to hold the light on solves that. Five dimming levels also let you set glare for a late-night snack. It ranks second because the listing prints no battery capacity or sensing range, so the EZVALO is easier to trust. It is cheaper per bar than the EZVALO in a two-pack.\n\nBuy it for kitchen counters where you work in one spot. Skip it if you want documented battery life.",
       "keySpecs": [
-        { "label": "Bar length", "value": "10 inches" },
-        { "label": "LEDs", "value": "40 per bar" },
-        { "label": "Dimming", "value": "5 levels" },
-        { "label": "Modes", "value": "Motion, always-on, off" }
+        {
+          "label": "Bar length",
+          "value": "10 inches"
+        },
+        {
+          "label": "LEDs",
+          "value": "40 per bar"
+        },
+        {
+          "label": "Dimming",
+          "value": "5 levels"
+        },
+        {
+          "label": "Modes",
+          "value": "Motion, always-on, off"
+        }
       ],
       "pros": [
         "Always-on mode for tasks",
@@ -86,10 +110,22 @@
       "verdict": "Three 10-inch bars with 1800mAh batteries and a stated 8 to 10 hour runtime.",
       "description": "ZioeYiue's three-pack offers 10 inch bars with 10 feet of 120 degree sensing, an 1800mAh battery, three color temperatures and a stated runtime of 8 to 10 hours. The battery is non-detachable. It costs under $25.\n\nA stated runtime is rare, and 8 to 10 hours of active lighting is a helpful figure for planning charges. Three color temperatures let you choose warm for living areas or cooler for tasks. It ranks third because 1800mAh and 10 feet trail the EZVALO's 2400mAh and 12 feet. The non-detachable battery means you cannot swap in a spare, which limits repair.\n\nBuy it for three cabinets or shelves at the lowest price per bar. Skip it if you want user-replaceable batteries.",
       "keySpecs": [
-        { "label": "Pack size", "value": "3 lights" },
-        { "label": "Detection", "value": "10 ft, 120 degrees" },
-        { "label": "Battery", "value": "1800mAh, non-detachable" },
-        { "label": "Runtime", "value": "8 to 10 hours" }
+        {
+          "label": "Pack size",
+          "value": "3 lights"
+        },
+        {
+          "label": "Detection",
+          "value": "10 ft, 120 degrees"
+        },
+        {
+          "label": "Battery",
+          "value": "1800mAh, non-detachable"
+        },
+        {
+          "label": "Runtime",
+          "value": "8 to 10 hours"
+        }
       ],
       "pros": [
         "Stated 8 to 10 hour runtime",
@@ -116,10 +152,22 @@
       "verdict": "Eight-inch bars with stepless dimming and a motion plus light sensor.",
       "description": "Rihvy's three-pack uses 8 inch bars with stepless dimming, a motion and light sensor and three color options including warm white. It costs under $25.\n\nStepless dimming lets you set any brightness instead of choosing from fixed steps, and the light sensor keeps the bars off in daytime when motion alone would waste battery. That combination is smart for a closet that gets sunlight. It ranks fourth because the listing gives no battery capacity, runtime or sensing range, so there is little to verify. At 8 inches, the bars also suit narrower shelves than the 10 inch models.\n\nBuy it for small closets and shelves where space is tight. Skip it if you need documented battery numbers.",
       "keySpecs": [
-        { "label": "Bar length", "value": "8 inches" },
-        { "label": "Pack size", "value": "3 lights" },
-        { "label": "Dimming", "value": "Stepless" },
-        { "label": "Sensing", "value": "Motion and light sensor" }
+        {
+          "label": "Bar length",
+          "value": "8 inches"
+        },
+        {
+          "label": "Pack size",
+          "value": "3 lights"
+        },
+        {
+          "label": "Dimming",
+          "value": "Stepless"
+        },
+        {
+          "label": "Sensing",
+          "value": "Motion and light sensor"
+        }
       ],
       "pros": [
         "Stepless dimming",
@@ -146,10 +194,22 @@
       "verdict": "Five 7.9-inch bars with a 1100mAh USB-C battery and up to 100 lumens.",
       "description": "YLXS sells five bars of 7.9 inches each, with 42 LEDs, up to 100 lumens, a 1100mAh USB-C battery and three work modes. It costs under $25.\n\nFive bars for under $25 is the cheapest per-bar price in the roundup, and USB-C charging uses cables you already own. The 100 lumen figure is a helpful anchor, but the 1100mAh battery is the smallest here, about half the EZVALO's. It ranks last for that reason: more frequent recharging is the price of the low cost. The short 7.9 inch bars are also the least coverage per fixture.\n\nBuy it for many small cabinets on a tight budget. Skip it for heavy daily use.",
       "keySpecs": [
-        { "label": "Pack size", "value": "5 lights" },
-        { "label": "LEDs", "value": "42, up to 100 lumens" },
-        { "label": "Battery", "value": "1100mAh USB-C" },
-        { "label": "Bar length", "value": "7.9 inches" }
+        {
+          "label": "Pack size",
+          "value": "5 lights"
+        },
+        {
+          "label": "LEDs",
+          "value": "42, up to 100 lumens"
+        },
+        {
+          "label": "Battery",
+          "value": "1100mAh USB-C"
+        },
+        {
+          "label": "Bar length",
+          "value": "7.9 inches"
+        }
       ],
       "pros": [
         "Lowest price per bar",
@@ -215,24 +275,54 @@
       "subheading": "By Cabinet Run",
       "intro": "Count how many bars you need, then match pack size and length.",
       "table": {
-        "headers": ["Setup", "Our pick"],
+        "headers": [
+          "Setup",
+          "Our pick"
+        ],
         "rows": [
-          ["Long kitchen run, 4 to 5 bars", "EZVALO 5-Pack 10 inch Under Cabinet Lights with Remote"],
-          ["Two counters", "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"],
-          ["Three shelves", "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"],
-          ["Narrow shelves or closets", "Rihvy 8 inch Wireless Under Cabinet Lights 3 Pack"]
+          [
+            "Long kitchen run, 4 to 5 bars",
+            "EZVALO 5-Pack 10 inch Under Cabinet Lights with Remote"
+          ],
+          [
+            "Two counters",
+            "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"
+          ],
+          [
+            "Three shelves",
+            "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"
+          ],
+          [
+            "Narrow shelves or closets",
+            "Rihvy 8 inch Wireless Under Cabinet Lights 3 Pack"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, two bars", "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"],
-          ["Under $25, three bars", "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"],
-          ["Under $25, five bars", "YLXS 5-Pack Motion Sensor Under Cabinet Light 7.9 inch"],
-          ["$25 to $50", "EZVALO 5-Pack 10 inch Under Cabinet Lights with Remote"]
+          [
+            "Under $25, two bars",
+            "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"
+          ],
+          [
+            "Under $25, three bars",
+            "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"
+          ],
+          [
+            "Under $25, five bars",
+            "YLXS 5-Pack Motion Sensor Under Cabinet Light 7.9 inch"
+          ],
+          [
+            "$25 to $50",
+            "EZVALO 5-Pack 10 inch Under Cabinet Lights with Remote"
+          ]
         ]
       }
     },
@@ -253,12 +343,27 @@
     {
       "subheading": "By Brightness Control",
       "table": {
-        "headers": ["Control", "Our pick"],
+        "headers": [
+          "Control",
+          "Our pick"
+        ],
         "rows": [
-          ["Five dimming levels", "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"],
-          ["Stepless dimming", "Rihvy 8 inch Wireless Under Cabinet Lights 3 Pack"],
-          ["Three color temperatures", "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"],
-          ["Stated 100 lumens", "YLXS 5-Pack Motion Sensor Under Cabinet Light 7.9 inch"]
+          [
+            "Five dimming levels",
+            "MCGOR 10 inch Rechargeable Under Cabinet Lights 2 Pack"
+          ],
+          [
+            "Stepless dimming",
+            "Rihvy 8 inch Wireless Under Cabinet Lights 3 Pack"
+          ],
+          [
+            "Three color temperatures",
+            "ZioeYiue Wireless Under Cabinet Lights 10 inch 3 Pack"
+          ],
+          [
+            "Stated 100 lumens",
+            "YLXS 5-Pack Motion Sensor Under Cabinet Light 7.9 inch"
+          ]
         ]
       }
     },
@@ -316,5 +421,9 @@
     }
   ],
   "finalTake": "The EZVALO 5-Pack is the best under-cabinet motion light because it combines the largest stated battery, a 12 ft range and a remote. The MCGOR pair is the right pick for counters where you need an always-on mode, and the ZioeYiue is a three-bar option with a stated runtime. Choose Rihvy or YLXS for compact shelves and tight budgets.",
-  "related": []
+  "related": [
+    "best-energizer-motion-sensor-lights",
+    "best-ezvalo-motion-sensor-lights",
+    "best-indoor-motion-sensor-lights"
+  ]
 }

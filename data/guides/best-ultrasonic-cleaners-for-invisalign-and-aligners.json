@@ -26,10 +26,22 @@
       "verdict": "A dental-only pod with an auto-adjusting 42 to 47 kHz range and a 12-month warranty.",
       "description": "Zima's Dental Pod is built around oral appliances rather than jewelry, and its listing says so: aligners, retainers, guards, dentures and braces are all named. The unit auto-adjusts between 42 and 47 kHz, offers Standard and Max Clean cycles, and has a compact, bathroom-sized body with a non-abrasive design.\n\nIt beats the Invisalign-branded unit because you get two cycle strengths, where that pod gives one. It beats the UV pods on trust: a published frequency range and a 12-month warranty with support replying within one business day are rare at this price.\n\nBuy it if you want a dedicated dental unit without extras. The caveat is the $50 to $100 price band, higher than the UV models, and it has no UV lamps.",
       "keySpecs": [
-        { "label": "Frequency", "value": "42 to 47 kHz, auto-adjusting" },
-        { "label": "Modes", "value": "Standard and Max Clean" },
-        { "label": "Warranty", "value": "12 months" },
-        { "label": "Designed for", "value": "Aligners, retainers, guards, dentures" }
+        {
+          "label": "Frequency",
+          "value": "42 to 47 kHz, auto-adjusting"
+        },
+        {
+          "label": "Modes",
+          "value": "Standard and Max Clean"
+        },
+        {
+          "label": "Warranty",
+          "value": "12 months"
+        },
+        {
+          "label": "Designed for",
+          "value": "Aligners, retainers, guards, dentures"
+        }
       ],
       "pros": [
         "Published auto-adjusting frequency",
@@ -55,10 +67,22 @@
       "verdict": "One power button and one 5 minute cycle, branded for Invisalign wearers.",
       "description": "This pod is sold under the Invisalign name and runs on Zima technology. You fill it with water, press the single power button, and it runs a 5 minute cycle before shutting itself off. It is aimed at food, drink and cosmetic stains on aligners and retainers.\n\nIt ranks second because it trades the Dental Pod's two cycle strengths for a single fixed cycle and no published frequency range. That is a feature for people who want no settings at all, and a limit for anyone who wants a longer soak on a stained tray.\n\nBuy it for a household member who will not read a manual. Skip it if you want to choose cycle length. Like its sibling, it sits in the $50 to $100 bracket.",
       "keySpecs": [
-        { "label": "Cycle", "value": "5 minutes, then auto stop" },
-        { "label": "Controls", "value": "One power button" },
-        { "label": "Designed for", "value": "Invisalign aligners, retainers" },
-        { "label": "Targets", "value": "Food, drink, cosmetic stains" }
+        {
+          "label": "Cycle",
+          "value": "5 minutes, then auto stop"
+        },
+        {
+          "label": "Controls",
+          "value": "One power button"
+        },
+        {
+          "label": "Designed for",
+          "value": "Invisalign aligners, retainers"
+        },
+        {
+          "label": "Targets",
+          "value": "Food, drink, cosmetic stains"
+        }
       ],
       "pros": [
         "One-button operation",
@@ -84,10 +108,22 @@
       "verdict": "A sweeping 42 to 48 kHz pod with four UV lights and a viewing window.",
       "description": "The Cakiyn sweeps between 42 and 48 kHz, which avoids standing-wave dead spots that a fixed frequency can leave. Four UV lights sit under the lid, three one-touch modes cover 5 minute quick, 10 minute deep and 10 minute UV only, and a digital timer and viewing window show progress. It includes tweezers and a microfiber cloth.\n\nIt ranks below the Zima units because their dental-only design and warranties are better documented, while the Cakiyn has no stated warranty on the spec list. Against the UEOFEN it offers a frequency sweep and a UV-only mode.\n\nBuy it for the most features in the $25 to $50 bracket. The caveat is that the UV claim is unverified, so treat the lamps as a bonus.",
       "keySpecs": [
-        { "label": "Frequency", "value": "42 to 48 kHz sweep" },
-        { "label": "UV", "value": "4 lights under the lid" },
-        { "label": "Modes", "value": "5 min, 10 min, 10 min UV only" },
-        { "label": "Tank", "value": "200 ml" }
+        {
+          "label": "Frequency",
+          "value": "42 to 48 kHz sweep"
+        },
+        {
+          "label": "UV",
+          "value": "4 lights under the lid"
+        },
+        {
+          "label": "Modes",
+          "value": "5 min, 10 min, 10 min UV only"
+        },
+        {
+          "label": "Tank",
+          "value": "200 ml"
+        }
       ],
       "pros": [
         "Sweeping frequency range",
@@ -113,10 +149,22 @@
       "verdict": "A quiet 45 kHz pod with pulse and continuous cleaning and a clear countdown.",
       "description": "UEOFEN runs a fixed 45 kHz with 254 nm UV lights and two timed modes: a 5 minute quick clean and a 10 minute enhanced cycle that splits into 5 minutes of pulse and 5 minutes of continuous operation. A digital countdown shows time left, and noise is listed below 45 dB.\n\nIt ranks fourth because the fixed frequency lacks the Cakiyn's sweep, and it offers no UV-only mode. The pulse-plus-continuous cycle is a good idea for stubborn film, since pulsing can shift debris before the continuous phase takes over.\n\nChoose it for a quiet bathroom routine with a short daily cycle. The 200 ml tank holds a full set of aligners, but not a large retainer case. Like the Cakiyn, it sits in the $25 to $50 bracket.",
       "keySpecs": [
-        { "label": "Frequency", "value": "45 kHz" },
-        { "label": "UV", "value": "254 nm lights" },
-        { "label": "Modes", "value": "5 min quick, 10 min pulse plus continuous" },
-        { "label": "Noise", "value": "Below 45 dB" }
+        {
+          "label": "Frequency",
+          "value": "45 kHz"
+        },
+        {
+          "label": "UV",
+          "value": "254 nm lights"
+        },
+        {
+          "label": "Modes",
+          "value": "5 min quick, 10 min pulse plus continuous"
+        },
+        {
+          "label": "Noise",
+          "value": "Below 45 dB"
+        }
       ],
       "pros": [
         "Quiet operation under 45 dB",
@@ -142,10 +190,22 @@
       "verdict": "The container lifts away from the base, so rinsing and drying takes seconds.",
       "description": "Haneuul's design detail is the detachable 6.1 oz container and lid, which lifts off the base for rinsing. It runs at 42,000 Hz with 5, 8 and 10 minute modes and a UV on/off button, backed by a 12-month warranty and 30-day returns.\n\nIt lands fifth because the 6.1 oz container is smaller than the 200 ml tanks of the UV models, and the 42 kHz figure is a single fixed frequency. Its advantage is hygiene: a tank you can empty and dry cleanly is less likely to grow film, which is a real issue for the daily user.\n\nBuy it for the easiest cleanup routine. The 8 minute mode is useful for aligners that need more than the quick cycle but less than the full ten.",
       "keySpecs": [
-        { "label": "Frequency", "value": "42,000 Hz" },
-        { "label": "Container", "value": "6.1 oz, detachable" },
-        { "label": "Modes", "value": "5, 8 and 10 minutes" },
-        { "label": "Warranty", "value": "12 months, 30-day returns" }
+        {
+          "label": "Frequency",
+          "value": "42,000 Hz"
+        },
+        {
+          "label": "Container",
+          "value": "6.1 oz, detachable"
+        },
+        {
+          "label": "Modes",
+          "value": "5, 8 and 10 minutes"
+        },
+        {
+          "label": "Warranty",
+          "value": "12 months, 30-day returns"
+        }
       ],
       "pros": [
         "Container separates from base",
@@ -171,10 +231,22 @@
       "verdict": "Four modes including ultrasonic only or UV only, plus a lid that holds a brush.",
       "description": "MUAYSY offers a 45,000 Hz pod with four UV lamps and four cleaning modes, including ultrasonic only and UV only. The 200 ml capacity matches the other UV models, and a double-hole lid provides two holes for ventilation and brushes.\n\nIt ranks last because it lists no warranty, no noise figure and no timer detail on the spec sheet, so there is less to compare against the Zima and Cakiyn pods. The lid design is practical, since a spare toothbrush stored in the lid can scrub the inside of an aligner while it dries.\n\nBuy it if you like to decide whether a given cycle is ultrasonic, UV or both. Look closely at the return policy, since the spec sheet offers no warranty.",
       "keySpecs": [
-        { "label": "Frequency", "value": "45,000 Hz" },
-        { "label": "UV", "value": "4 lamps" },
-        { "label": "Modes", "value": "4, including ultrasonic only or UV only" },
-        { "label": "Capacity", "value": "200 ml" }
+        {
+          "label": "Frequency",
+          "value": "45,000 Hz"
+        },
+        {
+          "label": "UV",
+          "value": "4 lamps"
+        },
+        {
+          "label": "Modes",
+          "value": "4, including ultrasonic only or UV only"
+        },
+        {
+          "label": "Capacity",
+          "value": "200 ml"
+        }
       ],
       "pros": [
         "Four selectable modes",
@@ -191,87 +263,199 @@
     }
   ],
   "methodology": [
-    { "title": "Frequency and cleaning action", "description": "Published kHz range, sweep or pulse behaviour decides how evenly the bath clears film from aligner plastic." },
-    { "title": "Cycle options", "description": "Timer lengths and mode count decide how well the pod handles a daily rinse versus a stained tray." },
-    { "title": "Tank design", "description": "Capacity, container shape and whether the base separates affect aligner fit and cleanup." },
-    { "title": "Noise and warranty", "description": "Listed decibels and warranty terms show how the pod behaves on a bathroom counter over time." },
-    { "title": "Value", "description": "Price bucket is weighed against feature set, from one-button pods to UV models." }
+    {
+      "title": "Frequency and cleaning action",
+      "description": "Published kHz range, sweep or pulse behaviour decides how evenly the bath clears film from aligner plastic."
+    },
+    {
+      "title": "Cycle options",
+      "description": "Timer lengths and mode count decide how well the pod handles a daily rinse versus a stained tray."
+    },
+    {
+      "title": "Tank design",
+      "description": "Capacity, container shape and whether the base separates affect aligner fit and cleanup."
+    },
+    {
+      "title": "Noise and warranty",
+      "description": "Listed decibels and warranty terms show how the pod behaves on a bathroom counter over time."
+    },
+    {
+      "title": "Value",
+      "description": "Price bucket is weighed against feature set, from one-button pods to UV models."
+    }
   ],
   "whatMatters": [
-    { "factor": "Frequency", "detail": "Ultrasonic cleaners create tiny bubbles through vibration, and frequency sets how fine they are. Aligner plastic suits 40 to 48 kHz. A sweeping range like the Cakiyn's 42 to 48 kHz evens out dead spots in the tank. Check the listing for kHz and whether it is fixed or sweeping." },
-    { "factor": "Cycle length", "detail": "A 5 minute cycle handles daily film, while 10 minutes suits stained trays. Pods with only one cycle, such as the Invisalign unit, are simplest but inflexible. Look for at least two timer lengths on the listing if your trays stain from coffee or tea." },
-    { "factor": "Tank size", "detail": "Aligners are flat, curved trays that need to sit submerged without touching the tank walls. A 200 ml tank fits one set comfortably, while the Haneuul's 6.1 oz container is slightly smaller. Check tank capacity in ml or oz and whether the listing mentions two sets." },
-    { "factor": "UV lamps", "detail": "Many pods add UV lamps under the lid, but a lamp does not replace a proper rinse and dry. The listings do not prove a disinfecting result, so treat UV as an extra, not a reason to pay more. Check whether UV can be switched off, as on the Haneuul." },
-    { "factor": "Noise and warranty", "detail": "A pod on a bathroom counter runs for 5 to 10 minutes, so noise below 45 dB, as listed on the UEOFEN, matters mostly at night. A warranty tells you how the seller backs the motor, and 12 months is the benchmark here. Look for both numbers on the listing." }
+    {
+      "factor": "Frequency",
+      "detail": "Ultrasonic cleaners create tiny bubbles through vibration, and frequency sets how fine they are. Aligner plastic suits 40 to 48 kHz. A sweeping range like the Cakiyn's 42 to 48 kHz evens out dead spots in the tank. Check the listing for kHz and whether it is fixed or sweeping."
+    },
+    {
+      "factor": "Cycle length",
+      "detail": "A 5 minute cycle handles daily film, while 10 minutes suits stained trays. Pods with only one cycle, such as the Invisalign unit, are simplest but inflexible. Look for at least two timer lengths on the listing if your trays stain from coffee or tea."
+    },
+    {
+      "factor": "Tank size",
+      "detail": "Aligners are flat, curved trays that need to sit submerged without touching the tank walls. A 200 ml tank fits one set comfortably, while the Haneuul's 6.1 oz container is slightly smaller. Check tank capacity in ml or oz and whether the listing mentions two sets."
+    },
+    {
+      "factor": "UV lamps",
+      "detail": "Many pods add UV lamps under the lid, but a lamp does not replace a proper rinse and dry. The listings do not prove a disinfecting result, so treat UV as an extra, not a reason to pay more. Check whether UV can be switched off, as on the Haneuul."
+    },
+    {
+      "factor": "Noise and warranty",
+      "detail": "A pod on a bathroom counter runs for 5 to 10 minutes, so noise below 45 dB, as listed on the UEOFEN, matters mostly at night. A warranty tells you how the seller backs the motor, and 12 months is the benchmark here. Look for both numbers on the listing."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Cleaning Style",
       "intro": "Start with how much attention you want to give the routine to be.",
       "table": {
-        "headers": ["Style", "Our pick"],
+        "headers": [
+          "Style",
+          "Our pick"
+        ],
         "rows": [
-          ["Dedicated dental unit", "Zima Dental Pod Ultrasonic Cleaner for Aligners"],
-          ["One button, no settings", "Invisalign Ultrasonic Cleaner Powered by Zima"],
-          ["Frequency sweep with UV", "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"],
-          ["Pulse plus continuous", "UEOFEN 45kHz Dental Cleaning Pod with UV, 200 ml"]
+          [
+            "Dedicated dental unit",
+            "Zima Dental Pod Ultrasonic Cleaner for Aligners"
+          ],
+          [
+            "One button, no settings",
+            "Invisalign Ultrasonic Cleaner Powered by Zima"
+          ],
+          [
+            "Frequency sweep with UV",
+            "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"
+          ],
+          [
+            "Pulse plus continuous",
+            "UEOFEN 45kHz Dental Cleaning Pod with UV, 200 ml"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"],
-          ["$25 to $50, quietest", "UEOFEN 45kHz Dental Cleaning Pod with UV, 200 ml"],
-          ["$50 to $100", "Zima Dental Pod Ultrasonic Cleaner for Aligners"]
+          [
+            "$25 to $50",
+            "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"
+          ],
+          [
+            "$25 to $50, quietest",
+            "UEOFEN 45kHz Dental Cleaning Pod with UV, 200 ml"
+          ],
+          [
+            "$50 to $100",
+            "Zima Dental Pod Ultrasonic Cleaner for Aligners"
+          ]
         ]
       }
     },
     {
       "subheading": "Fixed vs Sweeping Frequency",
       "cards": [
-        { "label": "Fixed frequency", "text": "The UEOFEN (45 kHz) and MUAYSY (45,000 Hz) hold one frequency. It is simple and quiet, though cavitation can concentrate in spots." },
-        { "label": "Sweeping or adjusting", "text": "The Cakiyn sweeps 42 to 48 kHz and the Zima Dental Pod auto-adjusts 42 to 47 kHz, which spreads cavitation across the tank." }
+        {
+          "label": "Fixed frequency",
+          "text": "The UEOFEN (45 kHz) and MUAYSY (45,000 Hz) hold one frequency. It is simple and quiet, though cavitation can concentrate in spots."
+        },
+        {
+          "label": "Sweeping or adjusting",
+          "text": "The Cakiyn sweeps 42 to 48 kHz and the Zima Dental Pod auto-adjusts 42 to 47 kHz, which spreads cavitation across the tank."
+        }
       ],
       "note": "Default to a sweeping or auto-adjusting unit for aligners; use a fixed unit if quiet matters most."
     },
     {
       "subheading": "By Cleanup Ease",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["Detachable container", "Haneuul Removable Base Ultrasonic Retainer Cleaner"],
-          ["Viewing window", "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"],
-          ["Lid holds a brush", "MUAYSY 45kHz Retainer Cleaner with 4 UV Lamps, 200 ml"],
-          ["Auto shut-off after one cycle", "Invisalign Ultrasonic Cleaner Powered by Zima"]
+          [
+            "Detachable container",
+            "Haneuul Removable Base Ultrasonic Retainer Cleaner"
+          ],
+          [
+            "Viewing window",
+            "Cakiyn 42-48kHz Dynamic Retainer Cleaner with UV, 200 ml"
+          ],
+          [
+            "Lid holds a brush",
+            "MUAYSY 45kHz Retainer Cleaner with 4 UV Lamps, 200 ml"
+          ],
+          [
+            "Auto shut-off after one cycle",
+            "Invisalign Ultrasonic Cleaner Powered by Zima"
+          ]
         ]
       }
     },
     {
       "subheading": "For Invisalign Specifically",
       "cards": [
-        { "label": "Look for", "text": "A gentle, non-abrasive design, a short cycle and a tank deep enough to submerge a full tray without bending it." },
-        { "label": "In this ranking", "text": "The Invisalign Powered by Zima unit is branded for it, and the Zima Dental Pod names aligners directly." }
+        {
+          "label": "Look for",
+          "text": "A gentle, non-abrasive design, a short cycle and a tank deep enough to submerge a full tray without bending it."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Invisalign Powered by Zima unit is branded for it, and the Zima Dental Pod names aligners directly."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want published frequency and a 12-month warranty, which the Zima Dental Pod provides." },
-        { "label": "Save if", "text": "You only need a daily rinse, where the UEOFEN does the job quietly." }
+        {
+          "label": "Spend more if",
+          "text": "You want published frequency and a 12-month warranty, which the Zima Dental Pod provides."
+        },
+        {
+          "label": "Save if",
+          "text": "You only need a daily rinse, where the UEOFEN does the job quietly."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can I put my aligners in any ultrasonic cleaner?", "a": "Aligner plastic is thin, so use a low-power pod with water only. The Zima Dental Pod is designed for aligners and the Invisalign unit is branded for them. Follow your orthodontist's care advice before adding any cleaning solution." },
-    { "q": "What mistake do aligner wearers make?", "a": "Using hot water. Heat can warp clear trays. Fill a pod like the Haneuul or Cakiyn with cool or lukewarm water and let the vibration do the work instead of heat or brushing." },
-    { "q": "Is the Zima Dental Pod worth over the UEOFEN?", "a": "If you value a published 42 to 47 kHz range and a 12-month warranty, yes. The UEOFEN costs less, adds UV and is quieter, but it has a fixed 45 kHz and no stated warranty." },
-    { "q": "How do I set up a pod?", "a": "Fill the tank to the marked line with water, place the aligners so they are fully submerged, close the lid and press the mode button. On the Invisalign unit, one press starts the 5 minute cycle." },
-    { "q": "How do I maintain the tank?", "a": "Empty and dry it after every use. The Haneuul's detachable container makes that easiest, while fixed tanks like the Cakiyn's should be wiped with a soft cloth to avoid mineral film." },
-    { "q": "Do UV lamps matter?", "a": "They are an extra. The Cakiyn, UEOFEN and MUAYSY add UV lamps, but the listings do not prove a disinfecting result. Rely on ultrasonic cleaning plus rinsing, and treat UV as optional." }
+    {
+      "q": "Can I put my aligners in any ultrasonic cleaner?",
+      "a": "Aligner plastic is thin, so use a low-power pod with water only. The Zima Dental Pod is designed for aligners and the Invisalign unit is branded for them. Follow your orthodontist's care advice before adding any cleaning solution."
+    },
+    {
+      "q": "What mistake do aligner wearers make?",
+      "a": "Using hot water. Heat can warp clear trays. Fill a pod like the Haneuul or Cakiyn with cool or lukewarm water and let the vibration do the work instead of heat or brushing."
+    },
+    {
+      "q": "Is the Zima Dental Pod worth over the UEOFEN?",
+      "a": "If you value a published 42 to 47 kHz range and a 12-month warranty, yes. The UEOFEN costs less, adds UV and is quieter, but it has a fixed 45 kHz and no stated warranty."
+    },
+    {
+      "q": "How do I set up a pod?",
+      "a": "Fill the tank to the marked line with water, place the aligners so they are fully submerged, close the lid and press the mode button. On the Invisalign unit, one press starts the 5 minute cycle."
+    },
+    {
+      "q": "How do I maintain the tank?",
+      "a": "Empty and dry it after every use. The Haneuul's detachable container makes that easiest, while fixed tanks like the Cakiyn's should be wiped with a soft cloth to avoid mineral film."
+    },
+    {
+      "q": "Do UV lamps matter?",
+      "a": "They are an extra. The Cakiyn, UEOFEN and MUAYSY add UV lamps, but the listings do not prove a disinfecting result. Rely on ultrasonic cleaning plus rinsing, and treat UV as optional."
+    }
   ],
   "finalTake": "The Zima Dental Pod is the aligner cleaner to buy, because it combines a dental-only design with a published frequency range and a 12-month warranty. Choose the Invisalign Powered by Zima if you want one button and no decisions. The Cakiyn gives the best feature set for less, while the Haneuul is the easiest to rinse. Whatever you pick, keep the water cool and follow your orthodontist's advice.",
-  "related": []
+  "related": [
+    "best-6l-ultrasonic-cleaners",
+    "best-budget-ultrasonic-cleaners",
+    "best-creworks-ultrasonic-cleaners"
+  ]
 }

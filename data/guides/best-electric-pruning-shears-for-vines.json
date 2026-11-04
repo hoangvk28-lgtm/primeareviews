@@ -26,10 +26,22 @@
       "verdict": "The only pruner here that states cuts per charge, built for repeat small cuts.",
       "description": "BLACK+DECKER's 20V MAX pruner lists 900 cuts per charge, ships with its battery and charger, and uses a tool-free blade change. Vine work is repetition, so a stated cut count is the most useful number a listing can give.\n\nIt leads because it answers the question vine growers actually ask: will it last the row? The KOMOK models list 8 to 10 hours of runtime, but those figures are looser than a cut count. Against the SEESII, you give up the larger jaw and brushless motor for a proven brand ecosystem and quick blade swaps, which matter when sap gums up a blade.\n\nBuy it for trellised grapes, climbing roses and similar thin growth. The caveat is that the listing gives no cutting diameter, so confirm capacity against your thickest stems.",
       "keySpecs": [
-        { "label": "Battery", "value": "20V MAX, included" },
-        { "label": "Endurance", "value": "900 cuts per charge" },
-        { "label": "Blade access", "value": "Tool-free change" },
-        { "label": "Charger", "value": "Included" }
+        {
+          "label": "Battery",
+          "value": "20V MAX, included"
+        },
+        {
+          "label": "Endurance",
+          "value": "900 cuts per charge"
+        },
+        {
+          "label": "Blade access",
+          "value": "Tool-free change"
+        },
+        {
+          "label": "Charger",
+          "value": "Included"
+        }
       ],
       "pros": [
         "Stated 900 cuts per charge",
@@ -56,10 +68,22 @@
       "verdict": "A brushless 1.4-inch pruner for old woody vines, at a modest price.",
       "description": "The SEESII combines a 1.4-inch cutting diameter with a brushless motor. For woody vines such as mature grape or wisteria canes, that capacity lets you cut a stem in one pass instead of rocking and twisting.\n\nIt ranks second because the listing gives no cut count or battery detail, where the BLACK+DECKER names 900 cuts per charge. Against the identical-diameter Upgraded model, the SEESII leaves out the LCD, but at the same price bracket it is the simpler tool with fewer things to go wrong in the damp. Brushless motors run cooler under repeated cuts, which suits long pruning days.\n\nBuy it if your vines have thick old growth. The caveat is that endurance is unconfirmed, so keep a spare battery in mind for long rows.",
       "keySpecs": [
-        { "label": "Cutting diameter", "value": "1.4 inches" },
-        { "label": "Motor", "value": "Brushless" },
-        { "label": "Style", "value": "Cordless pruner" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Cutting diameter",
+          "value": "1.4 inches"
+        },
+        {
+          "label": "Motor",
+          "value": "Brushless"
+        },
+        {
+          "label": "Style",
+          "value": "Cordless pruner"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "1.4-inch cut capacity",
@@ -86,10 +110,22 @@
       "verdict": "The SEESII's spec, plus an LCD that tells you what the battery is doing.",
       "description": "This Upgraded pruner matches the SEESII on a 1.4-inch cutting diameter and brushless motor, and adds an LCD display. On a long vine row, a readout that shows battery level beats guessing when the blades will stall.\n\nIt sits third purely on a judgment call. The LCD is helpful information, but it is also another component that can fail on a wet trellis, and the extra feature does not change cutting ability. The SEESII does the same cutting for the same bracket. Against the BLACK+DECKER, it offers a bigger jaw but no stated cuts per charge.\n\nBuy it if you want to see battery status before the shears quit mid-stem. The caveat is the generic listing: with no brand name, support depends entirely on the seller.",
       "keySpecs": [
-        { "label": "Cutting diameter", "value": "1.4 inches" },
-        { "label": "Motor", "value": "Brushless" },
-        { "label": "Display", "value": "LCD" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Cutting diameter",
+          "value": "1.4 inches"
+        },
+        {
+          "label": "Motor",
+          "value": "Brushless"
+        },
+        {
+          "label": "Display",
+          "value": "LCD"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "LCD shows battery status",
@@ -116,10 +152,22 @@
       "verdict": "Two 2Ah batteries and an 8 to 10 hour runtime for all-day pruning.",
       "description": "The KOMOK pruner offers a 1.2-inch (30mm) cutting diameter, ships with two 2Ah batteries and lists an 8 to 10 hour runtime. Two packs means you can swap and keep working while the spare charges.\n\nIt ranks fourth because the price bracket is $100 to $200, which is more than the SEESII and Upgraded models for a smaller jaw. Against the BLACK+DECKER, the runtime claim is looser than 900 specific cuts. What you buy here is continuity: a second battery for a large vineyard row or an overgrown fence.\n\nBuy it for a big planting where one battery will not finish the job. The caveat is cost and weight: it asks for roughly double the budget of the two 1.4-inch picks without a larger cut.",
       "keySpecs": [
-        { "label": "Cutting diameter", "value": "1.2 inches (30mm)" },
-        { "label": "Batteries", "value": "2 x 2Ah included" },
-        { "label": "Runtime", "value": "8 to 10 hours" },
-        { "label": "Price bracket", "value": "$100 to $200" }
+        {
+          "label": "Cutting diameter",
+          "value": "1.2 inches (30mm)"
+        },
+        {
+          "label": "Batteries",
+          "value": "2 x 2Ah included"
+        },
+        {
+          "label": "Runtime",
+          "value": "8 to 10 hours"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Two batteries included",
@@ -146,10 +194,22 @@
       "verdict": "A named 880g weight and 25mm cut, for overhead trellis work.",
       "description": "The Kebtek pruner lists a 25mm cutting diameter and an 880g weight. On a vine, weight is felt overhead and at arm's length, so a stated figure helps you compare against the others, which mostly omit it.\n\nIt ranks fifth because the price bracket is $100 to $200 and the listing gives no battery or runtime detail. Against the KOMOK in the same bracket, you get a similar-size cut but no two-battery supply or runtime claim. 880g is workable for a morning of pruning, but not light enough that fatigue disappears over a long vineyard row.\n\nBuy it if weight is your priority and you will check the battery specs before ordering. The caveat is the missing battery information, which is the biggest unknown on a vine-pruning tool.",
       "keySpecs": [
-        { "label": "Cutting diameter", "value": "25mm" },
-        { "label": "Weight", "value": "880g" },
-        { "label": "Type", "value": "Cordless electric pruner" },
-        { "label": "Price bracket", "value": "$100 to $200" }
+        {
+          "label": "Cutting diameter",
+          "value": "25mm"
+        },
+        {
+          "label": "Weight",
+          "value": "880g"
+        },
+        {
+          "label": "Type",
+          "value": "Cordless electric pruner"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Weight clearly stated",
@@ -176,10 +236,22 @@
       "verdict": "A 0.8-inch, 7.2V pruner for fresh vine shoots and tendrils, nothing thicker.",
       "description": "The WORKPRO lists a 0.8-inch cutting diameter and a 7.2V motor, in the $25 to $50 bracket. For soft green growth, tendrils and the current season's shoots, that capacity covers nearly all of the cutting a vine needs.\n\nIt ranks last because the jaw is the smallest here: next to the 1.4-inch SEESII, it stops short on older canes. A 7.2V system also has less headroom than 20V MAX, so expect it to slow down sooner on tougher stems. But for light summer training, it is the cheapest way to avoid hand cramps.\n\nBuy it for thin, fresh growth and small hands. The caveat is the winter prune: dormant, lignified canes are the cut this tool is least suited to.",
       "keySpecs": [
-        { "label": "Cutting diameter", "value": "0.8 inches" },
-        { "label": "Voltage", "value": "7.2V motor" },
-        { "label": "Price bracket", "value": "$25 to $50" },
-        { "label": "Best use", "value": "Soft green shoots" }
+        {
+          "label": "Cutting diameter",
+          "value": "0.8 inches"
+        },
+        {
+          "label": "Voltage",
+          "value": "7.2V motor"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        },
+        {
+          "label": "Best use",
+          "value": "Soft green shoots"
+        }
       ],
       "pros": [
         "Cheap entry point",
@@ -197,90 +269,211 @@
     }
   ],
   "methodology": [
-    { "title": "Endurance", "description": "Vine pruning is hundreds of small cuts, so stated cuts per charge, runtime and battery supply carried the most weight." },
-    { "title": "Cut capacity", "description": "We matched jaw sizes from 0.8 to 1.4 inches to the stems a vine really produces, from tendrils to old canes." },
-    { "title": "Weight and handling", "description": "Overhead trellis work punishes heavy tools, so stated weight and compact bodies scored higher." },
-    { "title": "Blade access", "description": "Sap builds up on blades fast, so tool-free blade changes and simple designs ranked above fussy ones." },
-    { "title": "Value", "description": "We weighed what each price bracket delivers in confirmed specs, from battery supply to motor type." }
+    {
+      "title": "Endurance",
+      "description": "Vine pruning is hundreds of small cuts, so stated cuts per charge, runtime and battery supply carried the most weight."
+    },
+    {
+      "title": "Cut capacity",
+      "description": "We matched jaw sizes from 0.8 to 1.4 inches to the stems a vine really produces, from tendrils to old canes."
+    },
+    {
+      "title": "Weight and handling",
+      "description": "Overhead trellis work punishes heavy tools, so stated weight and compact bodies scored higher."
+    },
+    {
+      "title": "Blade access",
+      "description": "Sap builds up on blades fast, so tool-free blade changes and simple designs ranked above fussy ones."
+    },
+    {
+      "title": "Value",
+      "description": "We weighed what each price bracket delivers in confirmed specs, from battery supply to motor type."
+    }
   ],
   "whatMatters": [
-    { "factor": "Cuts per charge", "detail": "A vine row can mean hundreds of cuts, and a pruner that quits halfway wastes the afternoon. A stated figure, like the BLACK+DECKER's 900 cuts, is more useful than a vague runtime in hours. If a listing offers neither, treat endurance as unknown and plan for a spare battery." },
-    { "factor": "Cutting diameter", "detail": "Diameter is the thickest stem the blade will cut cleanly. Summer vine shoots are thin, but old canes can reach an inch or more. Measure your thickest stem with a ruler, then choose a jaw at least a quarter inch larger, so the motor never labors." },
-    { "factor": "Weight", "detail": "Arm fatigue is the real limit on overhead trellis work. Every ounce is multiplied by hundreds of lifts. The Kebtek lists 880g, which most rivals omit. If a listing does not give weight, check the photos for hand size and the battery location." },
-    { "factor": "Battery supply", "detail": "A second battery turns a one-hour tool into an all-day tool. The KOMOK ships with two 2Ah packs, and the BLACK+DECKER includes one with a charger. Count the batteries in the box, and note whether a charger is listed, since some bare tools omit it." },
-    { "factor": "Blade changes", "detail": "Sap and plant juices gum blades, and a dull or sticky blade cuts ragged and stresses the vine. Tool-free blade changes, listed on the BLACK+DECKER, let you swap in seconds. Check the listing for the words tool-free or spare blades." }
+    {
+      "factor": "Cuts per charge",
+      "detail": "A vine row can mean hundreds of cuts, and a pruner that quits halfway wastes the afternoon. A stated figure, like the BLACK+DECKER's 900 cuts, is more useful than a vague runtime in hours. If a listing offers neither, treat endurance as unknown and plan for a spare battery."
+    },
+    {
+      "factor": "Cutting diameter",
+      "detail": "Diameter is the thickest stem the blade will cut cleanly. Summer vine shoots are thin, but old canes can reach an inch or more. Measure your thickest stem with a ruler, then choose a jaw at least a quarter inch larger, so the motor never labors."
+    },
+    {
+      "factor": "Weight",
+      "detail": "Arm fatigue is the real limit on overhead trellis work. Every ounce is multiplied by hundreds of lifts. The Kebtek lists 880g, which most rivals omit. If a listing does not give weight, check the photos for hand size and the battery location."
+    },
+    {
+      "factor": "Battery supply",
+      "detail": "A second battery turns a one-hour tool into an all-day tool. The KOMOK ships with two 2Ah packs, and the BLACK+DECKER includes one with a charger. Count the batteries in the box, and note whether a charger is listed, since some bare tools omit it."
+    },
+    {
+      "factor": "Blade changes",
+      "detail": "Sap and plant juices gum blades, and a dull or sticky blade cuts ragged and stresses the vine. Tool-free blade changes, listed on the BLACK+DECKER, let you swap in seconds. Check the listing for the words tool-free or spare blades."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Stem Thickness",
       "intro": "Match the jaw to your thickest cane.",
       "table": {
-        "headers": ["Stem type", "Our pick"],
+        "headers": [
+          "Stem type",
+          "Our pick"
+        ],
         "rows": [
-          ["Thin green shoots, tendrils", "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"],
-          ["Mixed growth up to 1.2 inches", "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"],
-          ["Old woody canes to 1.4 inches", "SEESII Electric Pruning Shears, 1.4\" Cutting Cordless Pruner for Gardening"],
-          ["Old canes, battery readout", "Upgraded Electric Pruning Shears, 1.4\" Cutting Diameter Cordless Power Pruner with LCD Display, Brushless Motor"],
-          ["Thin cuts, high volume", "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"]
+          [
+            "Thin green shoots, tendrils",
+            "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"
+          ],
+          [
+            "Mixed growth up to 1.2 inches",
+            "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"
+          ],
+          [
+            "Old woody canes to 1.4 inches",
+            "SEESII Electric Pruning Shears, 1.4\" Cutting Cordless Pruner for Gardening"
+          ],
+          [
+            "Old canes, battery readout",
+            "Upgraded Electric Pruning Shears, 1.4\" Cutting Diameter Cordless Power Pruner with LCD Display, Brushless Motor"
+          ],
+          [
+            "Thin cuts, high volume",
+            "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50 (thin growth)", "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"],
-          ["$25 to $50 (woody vines)", "SEESII Electric Pruning Shears, 1.4\" Cutting Cordless Pruner for Gardening"],
-          ["$50 to $100", "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"],
-          ["$100 to $200 (two batteries)", "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"],
-          ["$100 to $200 (stated weight)", "Kebtek Cordless Pruning Shears 25MM Electric Pruners 880G Lightweight"]
+          [
+            "$25 to $50 (thin growth)",
+            "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"
+          ],
+          [
+            "$25 to $50 (woody vines)",
+            "SEESII Electric Pruning Shears, 1.4\" Cutting Cordless Pruner for Gardening"
+          ],
+          [
+            "$50 to $100",
+            "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"
+          ],
+          [
+            "$100 to $200 (two batteries)",
+            "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"
+          ],
+          [
+            "$100 to $200 (stated weight)",
+            "Kebtek Cordless Pruning Shears 25MM Electric Pruners 880G Lightweight"
+          ]
         ]
       }
     },
     {
       "subheading": "Endurance vs Capacity",
       "cards": [
-        { "label": "Endurance first", "text": "Many small cuts demand stated cuts per charge or spare batteries. Picks: BLACK+DECKER 20V MAX and KOMOK 1.2-inch." },
-        { "label": "Capacity first", "text": "Woody canes need a bigger jaw and a motor that does not labor. Picks: SEESII 1.4-inch and the Upgraded LCD model." }
+        {
+          "label": "Endurance first",
+          "text": "Many small cuts demand stated cuts per charge or spare batteries. Picks: BLACK+DECKER 20V MAX and KOMOK 1.2-inch."
+        },
+        {
+          "label": "Capacity first",
+          "text": "Woody canes need a bigger jaw and a motor that does not labor. Picks: SEESII 1.4-inch and the Upgraded LCD model."
+        }
       ],
       "note": "Default to endurance for trellised vines, and capacity only if your canes pass an inch."
     },
     {
       "subheading": "By Battery Setup",
       "table": {
-        "headers": ["Battery need", "Our pick"],
+        "headers": [
+          "Battery need",
+          "Our pick"
+        ],
         "rows": [
-          ["Battery and charger in the box", "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"],
-          ["Two spare batteries", "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"],
-          ["Battery level on a screen", "Upgraded Electric Pruning Shears, 1.4\" Cutting Diameter Cordless Power Pruner with LCD Display, Brushless Motor"],
-          ["Smallest battery system", "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"]
+          [
+            "Battery and charger in the box",
+            "BLACK+DECKER 20V MAX Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge"
+          ],
+          [
+            "Two spare batteries",
+            "KOMOK Electric Pruning Shears, Cordless Electric Pruner Battery Operated Tree Branch Cutter, 1.2 inch (30mm) Cutting Diameter"
+          ],
+          [
+            "Battery level on a screen",
+            "Upgraded Electric Pruning Shears, 1.4\" Cutting Diameter Cordless Power Pruner with LCD Display, Brushless Motor"
+          ],
+          [
+            "Smallest battery system",
+            "WORKPRO 7.2V Electric Pruning Shears, 0.8\" Cutting Diameter"
+          ]
         ]
       }
     },
     {
       "subheading": "For Trellis Pruning Specifically",
       "cards": [
-        { "label": "Look for", "text": "A stated cuts-per-charge figure, a stated weight, tool-free blade changes and a jaw larger than your thickest cane." },
-        { "label": "In this ranking", "text": "The BLACK+DECKER covers endurance and blade changes. The Kebtek 880g is the only listing with a stated weight." }
+        {
+          "label": "Look for",
+          "text": "A stated cuts-per-charge figure, a stated weight, tool-free blade changes and a jaw larger than your thickest cane."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The BLACK+DECKER covers endurance and blade changes. The Kebtek 880g is the only listing with a stated weight."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You prune a large vineyard row. The KOMOK's two 2Ah batteries keep you cutting while a spare charges." },
-        { "label": "Save if", "text": "Your vines are a single trellis. The SEESII or WORKPRO cover it for under $50." }
+        {
+          "label": "Spend more if",
+          "text": "You prune a large vineyard row. The KOMOK's two 2Ah batteries keep you cutting while a spare charges."
+        },
+        {
+          "label": "Save if",
+          "text": "Your vines are a single trellis. The SEESII or WORKPRO cover it for under $50."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can the WORKPRO cut dormant grape canes?", "a": "It lists a 0.8-inch cutting diameter and a 7.2V motor, so thin canes are within reach but old lignified wood is not. For dormant pruning, step up to the 1.4-inch SEESII or Upgraded model." },
-    { "q": "Is the BLACK+DECKER's battery shared with other tools?", "a": "It uses a 20V MAX battery, which the brand uses across other tools, but check compatibility on the product page before assuming a swap works. The listing confirms the battery and charger are included with the pruner." },
-    { "q": "Is the KOMOK worth over the SEESII?", "a": "Only if you need two batteries. The KOMOK costs more for a smaller 1.2-inch jaw, while the SEESII gives 1.4 inches in a brushless body. Choose KOMOK for endurance on big plantings, SEESII for capacity on a budget." },
-    { "q": "How do I keep sap off the blades?", "a": "Wipe the blade with rubbing alcohol after each session. On the BLACK+DECKER, the tool-free change makes swapping a dull blade fast. Sticky blades cut ragged and can tear the vine, so clean them before storing." },
-    { "q": "How should I store the batteries?", "a": "Take the battery off the pruner, store it indoors partly charged, and keep it away from freezing sheds. This matters most with the KOMOK, whose spare pack otherwise sits idle for months." },
-    { "q": "Can electric pruners cut wire trellis ties?", "a": "Avoid it. Metal wire damages the blade on any of these, from the 0.8-inch WORKPRO to the 25mm Kebtek. Remove ties by hand before cutting, or you will dull the edge in minutes." }
+    {
+      "q": "Can the WORKPRO cut dormant grape canes?",
+      "a": "It lists a 0.8-inch cutting diameter and a 7.2V motor, so thin canes are within reach but old lignified wood is not. For dormant pruning, step up to the 1.4-inch SEESII or Upgraded model."
+    },
+    {
+      "q": "Is the BLACK+DECKER's battery shared with other tools?",
+      "a": "It uses a 20V MAX battery, which the brand uses across other tools, but check compatibility on the product page before assuming a swap works. The listing confirms the battery and charger are included with the pruner."
+    },
+    {
+      "q": "Is the KOMOK worth over the SEESII?",
+      "a": "Only if you need two batteries. The KOMOK costs more for a smaller 1.2-inch jaw, while the SEESII gives 1.4 inches in a brushless body. Choose KOMOK for endurance on big plantings, SEESII for capacity on a budget."
+    },
+    {
+      "q": "How do I keep sap off the blades?",
+      "a": "Wipe the blade with rubbing alcohol after each session. On the BLACK+DECKER, the tool-free change makes swapping a dull blade fast. Sticky blades cut ragged and can tear the vine, so clean them before storing."
+    },
+    {
+      "q": "How should I store the batteries?",
+      "a": "Take the battery off the pruner, store it indoors partly charged, and keep it away from freezing sheds. This matters most with the KOMOK, whose spare pack otherwise sits idle for months."
+    },
+    {
+      "q": "Can electric pruners cut wire trellis ties?",
+      "a": "Avoid it. Metal wire damages the blade on any of these, from the 0.8-inch WORKPRO to the 25mm Kebtek. Remove ties by hand before cutting, or you will dull the edge in minutes."
+    }
   ],
   "finalTake": "For most vine growers the BLACK+DECKER 20V MAX is the best buy: a stated 900 cuts per charge, a battery and charger in the box, and tool-free blade changes. For old woody canes, step up to the SEESII 1.4-inch brushless. A large planting calls for the KOMOK with its two batteries, and the WORKPRO suits light summer training on a tight budget.",
-  "related": []
+  "related": [
+    "best-brushless-electric-pruning-shears",
+    "best-dewalt-electric-pruning-shears",
+    "best-electric-pruning-shears"
+  ]
 }

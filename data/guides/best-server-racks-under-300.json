@@ -26,10 +26,22 @@
       "verdict": "A 12U open frame with adjustable depth and strong load capacity in the $50 to $100 bucket.",
       "description": "The VEVOR 12U skips doors and panels entirely: twelve units of bare rails, rear posts that slide to change depth, and a listing that promises a high weight rating. Adjustable depth is the standout, because it lets the rear posts move to match a shallow switch or a deeper server.\n\nIt takes first place because 12U with adjustable depth at $50 to $100 beats every enclosed cabinet on flexibility per dollar. The NavePoint 12U offers a glass door and a tidier look, but costs more and fixes its depth.\n\nA strong choice for a garage, closet or office corner. The caveat is the open design: there is no door, no lock and no dust protection, so it suits rooms you control.",
       "keySpecs": [
-        { "label": "Height", "value": "12U" },
-        { "label": "Frame", "value": "Open" },
-        { "label": "Depth", "value": "Adjustable" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Height",
+          "value": "12U"
+        },
+        {
+          "label": "Frame",
+          "value": "Open"
+        },
+        {
+          "label": "Depth",
+          "value": "Adjustable"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Adjustable depth",
@@ -55,10 +67,22 @@
       "verdict": "A 12U IT cabinet with a glass front and removable side panels.",
       "description": "NavePoint's 12U cabinet has a glass front door and removable side panels, with a durable build. The glass lets you see status lights, and the side panels come off when you need to run cables.\n\nIt ranks second because an enclosed cabinet is neater and quieter than the VEVOR frame, but it costs more and traps heat. It beats the smaller NavePoint 9U on capacity, which matters when you add a second device.\n\nGood for a living-room or office installation where the rack stays visible. The caveat is airflow, so a closed cabinet needs a fan if the gear runs warm.",
       "keySpecs": [
-        { "label": "Height", "value": "12U" },
-        { "label": "Door", "value": "Glass" },
-        { "label": "Panels", "value": "Removable sides" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "12U"
+        },
+        {
+          "label": "Door",
+          "value": "Glass"
+        },
+        {
+          "label": "Panels",
+          "value": "Removable sides"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Glass door for visibility",
@@ -84,10 +108,22 @@
       "verdict": "A 6U wall-mount cabinet with a lockable door that keeps network gear off the floor.",
       "description": "Tecmojo's 6U cabinet mounts on the wall to save floor space, locks to keep network equipment secure and is built for easy equipment configuration. Six units fit a modem, router, switch and patch panel with room to spare.\n\nIt ranks third because it combines security and a small footprint, which the open frames cannot, though 6U limits expansion. It sits above the RIVECO 4U because it adds a door.\n\nBest for an apartment, a hallway closet or a small office. The caveat is that the cabinet loads weight onto the wall, so mount it to studs or masonry.",
       "keySpecs": [
-        { "label": "Height", "value": "6U" },
-        { "label": "Mount", "value": "Wall" },
-        { "label": "Security", "value": "Lockable door" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Height",
+          "value": "6U"
+        },
+        {
+          "label": "Mount",
+          "value": "Wall"
+        },
+        {
+          "label": "Security",
+          "value": "Lockable door"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Lockable door",
@@ -113,10 +149,22 @@
       "verdict": "A 4U two-post wall rack in SPCC steel with an 80 kg load rating.",
       "description": "RIVECO's 4U rack is a two-post open frame for the wall, 17.7 inches deep and 11 inches tall, built from heavy-duty SPCC cold-rolled steel with an 80 kg load capacity. An 80 kg figure is unusually specific among budget racks.\n\nIt ranks fourth because 4U holds only a switch, a patch panel and a small device, whereas the Tecmojo adds a door and extra space. It beats the larger open frames on how little room it consumes.\n\nA fit for a home network closet or a hall cupboard. The caveat is depth: 17.7 inches rejects deep servers, so it is for networking gear only.",
       "keySpecs": [
-        { "label": "Height", "value": "4U (11 in)" },
-        { "label": "Depth", "value": "17.7 in" },
-        { "label": "Load", "value": "80 kg" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Height",
+          "value": "4U (11 in)"
+        },
+        {
+          "label": "Depth",
+          "value": "17.7 in"
+        },
+        {
+          "label": "Load",
+          "value": "80 kg"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "80 kg load rating stated",
@@ -142,10 +190,22 @@
       "verdict": "A steel 12U rack on wheels with universal 19 inch compatibility.",
       "description": "AxcessAbles offers a 12U steel rack on wheels that accepts universal 19 inch gear and claims heavy-duty load capacity. Wheels let you pull the rack out to reach the rear, which is a real help for cabling.\n\nIt ranks fifth because the VEVOR gives similar height for less, with adjustable depth, and the AxcessAbles listing gives no depth or load figure. It wins on mobility, which neither open frame offers.\n\nGood for a workshop or studio where the rack moves. The caveat is that wheels need locking casters in use, and loaded racks can be top-heavy.",
       "keySpecs": [
-        { "label": "Height", "value": "12U" },
-        { "label": "Fit", "value": "Universal 19 in" },
-        { "label": "Frame", "value": "Steel" },
-        { "label": "Mobility", "value": "Wheels" }
+        {
+          "label": "Height",
+          "value": "12U"
+        },
+        {
+          "label": "Fit",
+          "value": "Universal 19 in"
+        },
+        {
+          "label": "Frame",
+          "value": "Steel"
+        },
+        {
+          "label": "Mobility",
+          "value": "Wheels"
+        }
       ],
       "pros": [
         "Rolls out for rear access",
@@ -171,10 +231,22 @@
       "verdict": "A 9U enclosed cabinet with a glass door and removable side panels.",
       "description": "The NavePoint 9U is a smaller version of the 12U, with the same glass door and removable side panels and a durable, convenient design. Nine units suit a switch, a patch panel, a small server and a UPS.\n\nIt ranks sixth because the 12U cabinet gives three more units for the same bucket of $100 to $200, so the 9U is only worth it if space is tight. It remains a fair choice for a desk-side install.\n\nThe pick for a compact enclosed rack. The caveat is that capacity runs out fast, and glass doors still need ventilation.",
       "keySpecs": [
-        { "label": "Height", "value": "9U" },
-        { "label": "Door", "value": "Glass" },
-        { "label": "Panels", "value": "Removable sides" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "9U"
+        },
+        {
+          "label": "Door",
+          "value": "Glass"
+        },
+        {
+          "label": "Panels",
+          "value": "Removable sides"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Glass door",
@@ -200,10 +272,22 @@
       "verdict": "A 12U cabinet pitched on sturdy construction, space saving and a ventilation design.",
       "description": "ZHPHMBM sells a 12U cabinet with a sturdy build, a space-saving layout and a ventilation design. The ventilation mention is the useful one, since enclosed racks overheat without airflow paths.\n\nIt ranks seventh because the listing is the vaguest in the group, with no door type, depth or load figure, and the brand has little history. It stays on the list as a 12U enclosed option in the $100 to $200 bucket.\n\nSuits a buyer who wants a vented cabinet and will verify the details. The caveat is that vague listings invite surprises, so read the dimensions before you order.",
       "keySpecs": [
-        { "label": "Height", "value": "12U" },
-        { "label": "Type", "value": "Cabinet" },
-        { "label": "Airflow", "value": "Ventilation design" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "12U"
+        },
+        {
+          "label": "Type",
+          "value": "Cabinet"
+        },
+        {
+          "label": "Airflow",
+          "value": "Ventilation design"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Ventilation design",
@@ -220,77 +304,170 @@
     }
   ],
   "methodology": [
-    { "title": "Capacity and fit", "description": "Rack units and whether they match a realistic home or small-office setup." },
-    { "title": "Frame type", "description": "Open frame, cabinet or wall mount, and the airflow and security trade-offs." },
-    { "title": "Depth and load", "description": "Stated depth, adjustability and weight ratings, with named figures valued." },
-    { "title": "Mobility and mounting", "description": "Wheels, wall mounts and the floor space each option saves." },
-    { "title": "Value under $300", "description": "Features delivered at the $50 to $100 and $100 to $200 price buckets." }
+    {
+      "title": "Capacity and fit",
+      "description": "Rack units and whether they match a realistic home or small-office setup."
+    },
+    {
+      "title": "Frame type",
+      "description": "Open frame, cabinet or wall mount, and the airflow and security trade-offs."
+    },
+    {
+      "title": "Depth and load",
+      "description": "Stated depth, adjustability and weight ratings, with named figures valued."
+    },
+    {
+      "title": "Mobility and mounting",
+      "description": "Wheels, wall mounts and the floor space each option saves."
+    },
+    {
+      "title": "Value under $300",
+      "description": "Features delivered at the $50 to $100 and $100 to $200 price buckets."
+    }
   ],
   "whatMatters": [
-    { "factor": "Rack units", "detail": "A rack unit is 1.75 inches of height. A modem, router, switch and patch panel typically fill four to six units, and a small server adds two. Count what you own, then add a few spare units. Check the listed U rating against that count so a cheap rack does not run out of space immediately." },
-    { "factor": "Wall mount versus floor", "detail": "Wall racks free the floor but hang their weight on studs or masonry, while floor racks carry weight on their own legs. A loaded wall cabinet is heavy. Check the stated load rating, locate studs before ordering and avoid drywall-only mounting for anything with a UPS." },
-    { "factor": "Adjustable depth", "detail": "Servers and NAS boxes vary from shallow to very deep. Adjustable posts let the rack accept either. A fixed 17.7 inch depth suits switches only. Look for the word adjustable depth or a stated depth range, and compare it with the deepest device you plan to mount." },
-    { "factor": "Doors and locks", "detail": "Doors keep dust and curious hands out, and a lock protects equipment in shared spaces. They also trap heat. Check whether the listing names a lock and a vented panel, and decide based on where the rack sits and how much power your gear draws." },
-    { "factor": "Load rating", "detail": "The rack must carry every device, plus a UPS if you have one. Listings often skip this number. An 80 kg rating, as on the RIVECO, is specific and testable. Check for a figure in kilograms or pounds, and place the heaviest items at the bottom." }
+    {
+      "factor": "Rack units",
+      "detail": "A rack unit is 1.75 inches of height. A modem, router, switch and patch panel typically fill four to six units, and a small server adds two. Count what you own, then add a few spare units. Check the listed U rating against that count so a cheap rack does not run out of space immediately."
+    },
+    {
+      "factor": "Wall mount versus floor",
+      "detail": "Wall racks free the floor but hang their weight on studs or masonry, while floor racks carry weight on their own legs. A loaded wall cabinet is heavy. Check the stated load rating, locate studs before ordering and avoid drywall-only mounting for anything with a UPS."
+    },
+    {
+      "factor": "Adjustable depth",
+      "detail": "Servers and NAS boxes vary from shallow to very deep. Adjustable posts let the rack accept either. A fixed 17.7 inch depth suits switches only. Look for the word adjustable depth or a stated depth range, and compare it with the deepest device you plan to mount."
+    },
+    {
+      "factor": "Doors and locks",
+      "detail": "Doors keep dust and curious hands out, and a lock protects equipment in shared spaces. They also trap heat. Check whether the listing names a lock and a vented panel, and decide based on where the rack sits and how much power your gear draws."
+    },
+    {
+      "factor": "Load rating",
+      "detail": "The rack must carry every device, plus a UPS if you have one. Listings often skip this number. An 80 kg rating, as on the RIVECO, is specific and testable. Check for a figure in kilograms or pounds, and place the heaviest items at the bottom."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Rack Units",
       "intro": "Count your gear before you shop.",
       "table": {
-        "headers": ["Capacity", "Our pick"],
+        "headers": [
+          "Capacity",
+          "Our pick"
+        ],
         "rows": [
-          ["4U, switch only", "RIVECO 4U Wall Mount Network Rack"],
-          ["6U, network basics", "Tecmojo 6U Wall Mount Server Cabinet"],
-          ["9U, compact enclosed", "NavePoint 9U Server Rack Enclosure"],
-          ["12U, growth", "VEVOR 12U Open Frame Server Rack"]
+          [
+            "4U, switch only",
+            "RIVECO 4U Wall Mount Network Rack"
+          ],
+          [
+            "6U, network basics",
+            "Tecmojo 6U Wall Mount Server Cabinet"
+          ],
+          [
+            "9U, compact enclosed",
+            "NavePoint 9U Server Rack Enclosure"
+          ],
+          [
+            "12U, growth",
+            "VEVOR 12U Open Frame Server Rack"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100, open frame", "VEVOR 12U Open Frame Server Rack"],
-          ["$50 to $100, wall locked", "Tecmojo 6U Wall Mount Server Cabinet"],
-          ["$50 to $100, wall open", "RIVECO 4U Wall Mount Network Rack"],
-          ["$100 to $200, enclosed", "NavePoint 12U Server Rack Enclosure"]
+          [
+            "$50 to $100, open frame",
+            "VEVOR 12U Open Frame Server Rack"
+          ],
+          [
+            "$50 to $100, wall locked",
+            "Tecmojo 6U Wall Mount Server Cabinet"
+          ],
+          [
+            "$50 to $100, wall open",
+            "RIVECO 4U Wall Mount Network Rack"
+          ],
+          [
+            "$100 to $200, enclosed",
+            "NavePoint 12U Server Rack Enclosure"
+          ]
         ]
       }
     },
     {
       "subheading": "Open Frame vs Closed Cabinet",
       "cards": [
-        { "label": "Open frame", "text": "Cool, easy to cable and cheaper. The VEVOR and RIVECO suit closets and workshops." },
-        { "label": "Closed cabinet", "text": "Tidier, locked and quieter. The NavePoint and Tecmojo suit shared or visible spaces." }
+        {
+          "label": "Open frame",
+          "text": "Cool, easy to cable and cheaper. The VEVOR and RIVECO suit closets and workshops."
+        },
+        {
+          "label": "Closed cabinet",
+          "text": "Tidier, locked and quieter. The NavePoint and Tecmojo suit shared or visible spaces."
+        }
       ],
       "note": "Default to an open frame like the VEVOR unless the room is shared or dusty."
     },
     {
       "subheading": "By Mounting",
       "table": {
-        "headers": ["Mounting", "Our pick"],
+        "headers": [
+          "Mounting",
+          "Our pick"
+        ],
         "rows": [
-          ["Wall, locked", "Tecmojo 6U Wall Mount Server Cabinet"],
-          ["Wall, open", "RIVECO 4U Wall Mount Network Rack"],
-          ["Floor, stationary", "VEVOR 12U Open Frame Server Rack"],
-          ["Floor, wheels", "AxcessAbles 12U Network Rack with Wheels"]
+          [
+            "Wall, locked",
+            "Tecmojo 6U Wall Mount Server Cabinet"
+          ],
+          [
+            "Wall, open",
+            "RIVECO 4U Wall Mount Network Rack"
+          ],
+          [
+            "Floor, stationary",
+            "VEVOR 12U Open Frame Server Rack"
+          ],
+          [
+            "Floor, wheels",
+            "AxcessAbles 12U Network Rack with Wheels"
+          ]
         ]
       }
     },
     {
       "subheading": "For Home Networks Specifically",
       "cards": [
-        { "label": "Look for", "text": "A small wall rack that holds a switch and patch panel, with room for a UPS if the closet allows." },
-        { "label": "In this ranking", "text": "The Tecmojo 6U adds a lock, while the RIVECO 4U is the minimal wall option with a stated 80 kg rating." }
+        {
+          "label": "Look for",
+          "text": "A small wall rack that holds a switch and patch panel, with room for a UPS if the closet allows."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Tecmojo 6U adds a lock, while the RIVECO 4U is the minimal wall option with a stated 80 kg rating."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You need documented load ratings, locking panels and a long service life. Look above $300 for a larger cabinet." },
-        { "label": "Save if", "text": "Your rack lives in a closet. The VEVOR or RIVECO covers it for $50 to $100." }
+        {
+          "label": "Spend more if",
+          "text": "You need documented load ratings, locking panels and a long service life. Look above $300 for a larger cabinet."
+        },
+        {
+          "label": "Save if",
+          "text": "Your rack lives in a closet. The VEVOR or RIVECO covers it for $50 to $100."
+        }
       ]
     }
   ],
@@ -321,5 +498,9 @@
     }
   ],
   "finalTake": "The VEVOR 12U Open Frame is the best server rack under $300 because it pairs adjustable depth with 12U at a low bucket. Pick the NavePoint 12U for a tidy glass-door look, the Tecmojo 6U for a locked wall cabinet and the RIVECO 4U if all you own is a switch. Match units to your gear first.",
-  "related": []
+  "related": [
+    "best-server-racks-under-1000",
+    "best-server-racks-under-1500",
+    "best-server-racks-under-500"
+  ]
 }

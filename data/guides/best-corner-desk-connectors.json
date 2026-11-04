@@ -26,10 +26,22 @@
       "verdict": "A steel sleeve with a knob-less clamp that removes the most common failure point.",
       "description": "StarTech's corner sleeve is a steel clamp-on connector for L-shaped desks, and its main selling point is a knob-less clamp that the maker says eliminates common issues. Knobs are the weak point on cheaper connectors, since they can loosen with vibration and slowly let the platform sag.\n\nIt ranks first because that clamp design addresses the single failure that matters, and StarTech documents it clearly. It sits at $50 to $100, the highest bracket here, so you pay about double what the VIVO or BOUNHOHE cost for a design that stays put.\n\nBuy it if you plan to put a monitor or a heavy keyboard tray on the corner and want it to stay level. The caveat is that the summary gives no dimensions or thickness range, so check your desk edge against the full specification before ordering.",
       "keySpecs": [
-        { "label": "Material", "value": "Steel" },
-        { "label": "Clamp", "value": "Knob-less clamp" },
-        { "label": "Fit", "value": "L-shaped and corner desks" },
-        { "label": "Price bracket", "value": "$50 to $100" }
+        {
+          "label": "Material",
+          "value": "Steel"
+        },
+        {
+          "label": "Clamp",
+          "value": "Knob-less clamp"
+        },
+        {
+          "label": "Fit",
+          "value": "L-shaped and corner desks"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Knob-less clamp design",
@@ -56,10 +68,22 @@
       "verdict": "A 17 by 10 inch clamp-on plate that states it fits desks up to 1.4 inches thick.",
       "description": "The BOUNHOHE is a 17 by 10 inch clamp-on sleeve plate that attaches with screw clamps and fits most desks up to 1.4 inches thick. The thickness figure is useful: clamp-on connectors only grip a limited edge depth, and knowing the maximum prevents a return.\n\nIt ranks second because it states its fit range where several rivals do not, though it lacks StarTech's knob-less clamp. At $25 to $50 it matches the VIVO models on price, and the documented thickness gives it the edge over them in this guide.\n\nBuy it for a standard desk with a 1 inch top, such as most laminate and particleboard models. The caveat is that desks thicker than 1.4 inches, including many butcher-block and some standing desk tops, will not accept the clamp.",
       "keySpecs": [
-        { "label": "Platform", "value": "17 x 10 in" },
-        { "label": "Max desk thickness", "value": "1.4 in" },
-        { "label": "Attachment", "value": "Screw clamps" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Platform",
+          "value": "17 x 10 in"
+        },
+        {
+          "label": "Max desk thickness",
+          "value": "1.4 in"
+        },
+        {
+          "label": "Attachment",
+          "value": "Screw clamps"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "States a 1.4 inch fit limit",
@@ -86,10 +110,22 @@
       "verdict": "A 16.8 by 9.8 inch clamp-on platform from a familiar desk accessory brand.",
       "description": "VIVO's clamp-on sleeve plate offers a 16.8 by 9.8 inch platform that clamps to desks, with sturdy construction. VIVO is one of the better-known desk accessory brands, which matters when you need replacement parts or support after a loose clamp.\n\nIt ranks third because its listing is less specific than the BOUNHOHE about thickness limits, though it matches it on platform size and price at $25 to $50. Compared with the Black VIVO connector below, this clamp-on version is the one meant for desks with no existing mounting holes.\n\nBuy it if you want a mainstream brand and a straightforward installation on a standard desk. The caveat is that the summary says only sturdy construction, so verify the desk thickness range and the clamp hardware before relying on it to carry anything heavy.",
       "keySpecs": [
-        { "label": "Platform", "value": "16.8 x 9.8 in" },
-        { "label": "Attachment", "value": "Clamp-on" },
-        { "label": "Brand", "value": "VIVO" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Platform",
+          "value": "16.8 x 9.8 in"
+        },
+        {
+          "label": "Attachment",
+          "value": "Clamp-on"
+        },
+        {
+          "label": "Brand",
+          "value": "VIVO"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Recognized desk accessory brand",
@@ -116,10 +152,22 @@
       "verdict": "A black 16.8 by 9.8 inch platform in solid steel for support.",
       "description": "The Black VIVO platform is a 16.8 by 9.8 inch corner extension in solid steel, designed to make use of unused corner space. Solid steel supports far more weight than the plastic or thin laminate platforms that some cheap connectors use, so it is the better choice for a monitor or printer.\n\nIt ranks fourth because it is not described as a clamp-on, which suggests it secures to the desk differently and leaves the attachment details less clear than the StarTech or BOUNHOHE. It shares the $25 to $50 bracket with them, so the decision comes down to color and the steel material.\n\nBuy it if your desk is black and you want a matching platform with a steel base. The caveat is that the attachment method is vaguer than the top picks, so read the full instructions before assuming it will not need drilling.",
       "keySpecs": [
-        { "label": "Platform", "value": "16.8 x 9.8 in" },
-        { "label": "Material", "value": "Solid steel" },
-        { "label": "Finish", "value": "Black" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Platform",
+          "value": "16.8 x 9.8 in"
+        },
+        {
+          "label": "Material",
+          "value": "Solid steel"
+        },
+        {
+          "label": "Finish",
+          "value": "Black"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Solid steel support",
@@ -146,10 +194,22 @@
       "verdict": "A solid steel 17 inch platform that markets wide compatibility with L-shaped desks.",
       "description": "The YuPinDiZu is a 17 inch corner platform in solid steel, marketed for precise sizing and wide compatibility with L-shaped desks. Steel is the right choice for a connector that will hold a monitor stand or lamp, and the compatibility claim addresses the biggest buyer worry: whether it fits at all.\n\nIt ranks fifth because the listing relies on general phrases rather than measurements, with no stated thickness range or exact platform dimensions in the summary. Against the BOUNHOHE it is the same price bracket, $25 to $50, but with less proof of fit.\n\nBuy it if you want steel at a modest price and you have checked your desk gap against the full listing. The caveat is that compatibility depends on the gap between your two desks, so measure the opening before ordering rather than trusting the label.",
       "keySpecs": [
-        { "label": "Platform", "value": "17 in" },
-        { "label": "Material", "value": "Solid steel" },
-        { "label": "Use", "value": "L-shaped desk corner" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Platform",
+          "value": "17 in"
+        },
+        {
+          "label": "Material",
+          "value": "Solid steel"
+        },
+        {
+          "label": "Use",
+          "value": "L-shaped desk corner"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Solid steel construction",
@@ -176,10 +236,22 @@
       "verdict": "The cheapest steel option, a 16.8 by 9.8 inch black bracket under $25.",
       "description": "The Suptek is a 17 inch black mounting bracket extender with a 16.8 by 9.8 inch platform, built from solid steel. It is the only connector here priced under $25, and it still names the same steel material and platform size as the more expensive VIVO models.\n\nIt ranks last because it is the least documented on attachment and brand support, and it is a bracket extender rather than a described clamp-on sleeve. At the lowest price bracket in the guide it makes sense for a lightweight shelf, but it is the one to avoid for a heavy monitor.\n\nBuy it for a lamp, a plant or a phone dock at a budget price. The caveat is that cheaper hardware usually means thinner clamps, so tighten it periodically and keep the load light.",
       "keySpecs": [
-        { "label": "Platform", "value": "16.8 x 9.8 in" },
-        { "label": "Material", "value": "Solid steel" },
-        { "label": "Finish", "value": "Black" },
-        { "label": "Price bracket", "value": "Under $25" }
+        {
+          "label": "Platform",
+          "value": "16.8 x 9.8 in"
+        },
+        {
+          "label": "Material",
+          "value": "Solid steel"
+        },
+        {
+          "label": "Finish",
+          "value": "Black"
+        },
+        {
+          "label": "Price bracket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Only option under $25",
@@ -245,26 +317,62 @@
       "subheading": "By Desk Thickness",
       "intro": "Measure your desktop edge first.",
       "table": {
-        "headers": ["Desk edge", "Our pick"],
+        "headers": [
+          "Desk edge",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to 1.4 in, documented", "BOUNHOHE 17 inch Clamp-on Corner Desk Connector Sleeve Plate"],
-          ["Standard laminate, mainstream brand", "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"],
-          ["Heavy use, knob-less clamp", "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"],
-          ["Black matching desks", "VIVO Black 17 in Corner Desk Connector Platform"],
-          ["Light-duty use", "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"]
+          [
+            "Up to 1.4 in, documented",
+            "BOUNHOHE 17 inch Clamp-on Corner Desk Connector Sleeve Plate"
+          ],
+          [
+            "Standard laminate, mainstream brand",
+            "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"
+          ],
+          [
+            "Heavy use, knob-less clamp",
+            "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"
+          ],
+          [
+            "Black matching desks",
+            "VIVO Black 17 in Corner Desk Connector Platform"
+          ],
+          [
+            "Light-duty use",
+            "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"],
-          ["$25 to $50, documented fit", "BOUNHOHE 17 inch Clamp-on Corner Desk Connector Sleeve Plate"],
-          ["$25 to $50, brand", "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"],
-          ["$25 to $50, steel", "YuPinDiZu 17 inch Corner Desk Connector Platform for Mounting on L-Shaped Desk"],
-          ["$50 to $100", "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"]
+          [
+            "Under $25",
+            "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"
+          ],
+          [
+            "$25 to $50, documented fit",
+            "BOUNHOHE 17 inch Clamp-on Corner Desk Connector Sleeve Plate"
+          ],
+          [
+            "$25 to $50, brand",
+            "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"
+          ],
+          [
+            "$25 to $50, steel",
+            "YuPinDiZu 17 inch Corner Desk Connector Platform for Mounting on L-Shaped Desk"
+          ],
+          [
+            "$50 to $100",
+            "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"
+          ]
         ]
       }
     },
@@ -285,12 +393,27 @@
     {
       "subheading": "By Load",
       "table": {
-        "headers": ["What you place on it", "Our pick"],
+        "headers": [
+          "What you place on it",
+          "Our pick"
+        ],
         "rows": [
-          ["Monitor or heavy gear", "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"],
-          ["Keyboard tray or printer", "VIVO Black 17 in Corner Desk Connector Platform"],
-          ["Lamp or speaker", "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"],
-          ["Plant or phone dock", "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"]
+          [
+            "Monitor or heavy gear",
+            "StarTech.com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"
+          ],
+          [
+            "Keyboard tray or printer",
+            "VIVO Black 17 in Corner Desk Connector Platform"
+          ],
+          [
+            "Lamp or speaker",
+            "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"
+          ],
+          [
+            "Plant or phone dock",
+            "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"
+          ]
         ]
       }
     },
@@ -348,5 +471,9 @@
     }
   ],
   "finalTake": "For anything heavier than a lamp, buy the StarTech.com Clamp-On Steel Desk Corner Sleeve, because its knob-less clamp tackles the one thing that goes wrong. The BOUNHOHE is the careful choice for standard desks, thanks to its stated 1.4 inch limit. Treat the Suptek as a light-duty budget fix. Measure the gap and the desk thickness before you order any of them.",
-  "related": []
+  "related": [
+    "best-corner-desk-extensions-add-ons",
+    "best-corner-desk-vanity-combos",
+    "best-corner-standing-desk"
+  ]
 }

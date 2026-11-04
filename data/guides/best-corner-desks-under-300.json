@@ -26,10 +26,22 @@
       "verdict": "A 63 inch reversible L desk with built-in outlets and a 0.95 inch desktop for heavy workloads.",
       "description": "The Huuger is a 63 inch L-shaped desk with built-in power outlets and a desktop that is 0.95 inches thick, designed for heavy workloads. Desktop thickness matters because thin panels bow under two monitors and a tower.\n\nIt ranks first because it gives the strongest build claim and the power outlets, and the reversible layout lets it fit a left or right corner. The Furologee costs less, but states no thickness.\n\nBest for a dual-monitor setup in a bedroom or home office. The caveat is that built-in outlets still need a wall socket nearby, and the listing does not describe the frame material.",
       "keySpecs": [
-        { "label": "Length", "value": "63 in" },
-        { "label": "Desktop", "value": "0.95 in thick" },
-        { "label": "Power", "value": "Built-in outlets" },
-        { "label": "Layout", "value": "Reversible L" }
+        {
+          "label": "Length",
+          "value": "63 in"
+        },
+        {
+          "label": "Desktop",
+          "value": "0.95 in thick"
+        },
+        {
+          "label": "Power",
+          "value": "Built-in outlets"
+        },
+        {
+          "label": "Layout",
+          "value": "Reversible L"
+        }
       ],
       "pros": [
         "Thicker 0.95 inch desktop",
@@ -55,10 +67,22 @@
       "verdict": "A 66 inch L desk with a charging station, two movable monitor stands and a fabric file drawer.",
       "description": "Furologee offers a 66 inch L-shaped desk with a charging station, two movable monitor stands and an upgraded fabric file drawer, in the $50 to $100 bucket. Two monitor stands lift screens to eye level and free the desktop below.\n\nIt ranks second because the bucket is the lowest in the group, and it packs more features than any other desk at that price. It trails the Huuger on stated desktop thickness, which the listing never gives.\n\nIdeal for a first desk or a student room. The caveat is that fabric drawers are lightweight and best for paper, not heavy supplies.",
       "keySpecs": [
-        { "label": "Length", "value": "66 in" },
-        { "label": "Power", "value": "Charging station" },
-        { "label": "Stands", "value": "2 movable monitor stands" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Length",
+          "value": "66 in"
+        },
+        {
+          "label": "Power",
+          "value": "Charging station"
+        },
+        {
+          "label": "Stands",
+          "value": "2 movable monitor stands"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Lowest price bucket here",
@@ -84,10 +108,22 @@
       "verdict": "A reversible 63 inch L desk with power outlets, a USB-C port and a movable monitor stand.",
       "description": "The PRAISUN is a 63 inch reversible L desk with a charging station, power outlets, a USB-C port, a movable monitor stand and both a fabric drawer and a file drawer. The USB-C port charges modern phones and laptops without a brick.\n\nIt ranks third because it adds USB-C and two storage types, but the listing gives no desktop thickness, which the Huuger states. It beats the AODK on charging flexibility.\n\nSuits a modern setup with a USB-C laptop. The caveat is that a charging port is only as useful as the wattage behind it, which the summary does not list.",
       "keySpecs": [
-        { "label": "Length", "value": "63 in" },
-        { "label": "Charging", "value": "Outlets and USB-C" },
-        { "label": "Storage", "value": "Fabric and file drawers" },
-        { "label": "Layout", "value": "Reversible L" }
+        {
+          "label": "Length",
+          "value": "63 in"
+        },
+        {
+          "label": "Charging",
+          "value": "Outlets and USB-C"
+        },
+        {
+          "label": "Storage",
+          "value": "Fabric and file drawers"
+        },
+        {
+          "label": "Layout",
+          "value": "Reversible L"
+        }
       ],
       "pros": [
         "USB-C port",
@@ -113,10 +149,22 @@
       "verdict": "A 66 inch L desk with a power outlet, LED light and file cabinet with fabric drawers.",
       "description": "AODK sells a 66 inch L-shaped computer desk with a power outlet, an LED light and a file cabinet with fabric drawers. The LED adds ambient lighting, which suits a gaming-style setup.\n\nIt ranks fourth because the features are decorative as much as functional, and the listing gives no thickness. It beats the shelved desk by including a power outlet and drawers.\n\nBest for a gaming corner with lighting. The caveat is the lack of load or thickness data, so avoid stacking more than a few monitors.",
       "keySpecs": [
-        { "label": "Length", "value": "66 in" },
-        { "label": "Power", "value": "Outlet" },
-        { "label": "Lighting", "value": "LED light" },
-        { "label": "Storage", "value": "File cabinet, fabric drawers" }
+        {
+          "label": "Length",
+          "value": "66 in"
+        },
+        {
+          "label": "Power",
+          "value": "Outlet"
+        },
+        {
+          "label": "Lighting",
+          "value": "LED light"
+        },
+        {
+          "label": "Storage",
+          "value": "File cabinet, fabric drawers"
+        }
       ],
       "pros": [
         "LED light included",
@@ -142,10 +190,22 @@
       "verdict": "A 65 by 59 inch L desk with lockable drawers and a charging port.",
       "description": "The SEDETA is a 65 by 59 inch L-shaped desk with lockable drawers, storage and a charging port. Those two dimensions tell you it needs a room corner of roughly five feet on each side.\n\nIt ranks fifth because lockable drawers are rare at this price, but the listing's marketing language leaves out thickness and load. It beats the Pamray for storage.\n\nGood for a shared home office where documents need locking. The caveat is that it takes the most floor in the group, with nearly five feet on the short side.",
       "keySpecs": [
-        { "label": "Footprint", "value": "65 x 59 in" },
-        { "label": "Storage", "value": "Lockable drawers" },
-        { "label": "Charging", "value": "Charging port" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Footprint",
+          "value": "65 x 59 in"
+        },
+        {
+          "label": "Storage",
+          "value": "Lockable drawers"
+        },
+        {
+          "label": "Charging",
+          "value": "Charging port"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Lockable drawers",
@@ -171,10 +231,22 @@
       "verdict": "A 64.5 inch reversible space-saving L desk with multiple colour options.",
       "description": "Pamray offers a 64.5 inch reversible L-shaped corner computer desk with ample desktop space and multiple colour options. Reversible means the return can go left or right, which is vital when your room has a fixed layout.\n\nIt ranks sixth because the listing is thin on power, storage and thickness, while the Huuger and PRAISUN state more. It wins on colour choice for matching a room.\n\nA fit for a plain, flexible corner desk. The caveat is that without outlets or drawers, you will add a power strip and storage yourself.",
       "keySpecs": [
-        { "label": "Length", "value": "64.5 in" },
-        { "label": "Layout", "value": "Reversible" },
-        { "label": "Finish", "value": "Multiple colours" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Length",
+          "value": "64.5 in"
+        },
+        {
+          "label": "Layout",
+          "value": "Reversible"
+        },
+        {
+          "label": "Finish",
+          "value": "Multiple colours"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Reversible design",
@@ -200,10 +272,22 @@
       "verdict": "A 64.84 inch gaming corner desk with versatile storage and a wide desktop.",
       "description": "This 64.84 inch corner desk adds shelves for versatile storage and a multifunctional wide desktop. Shelves lift books and display items off the working surface, which helps in a small room.\n\nIt ranks last because the listing does not state outlets, thickness or drawers, and the shelves add height that some people dislike. It earns a place for a clean, storage-forward design in the $100 to $200 bucket.\n\nBest for book-heavy or display-heavy workspaces. The caveat is that open shelves collect dust and wobble if overloaded.",
       "keySpecs": [
-        { "label": "Length", "value": "64.84 in" },
-        { "label": "Storage", "value": "Shelves" },
-        { "label": "Desktop", "value": "Wide" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Length",
+          "value": "64.84 in"
+        },
+        {
+          "label": "Storage",
+          "value": "Shelves"
+        },
+        {
+          "label": "Desktop",
+          "value": "Wide"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Shelves add storage",
@@ -220,77 +304,170 @@
     }
   ],
   "methodology": [
-    { "title": "Desktop strength", "description": "Stated thickness and load claims that suggest the desktop will resist bowing." },
-    { "title": "Power and charging", "description": "Built-in outlets and USB ports that reduce cable clutter." },
-    { "title": "Storage", "description": "Drawers, shelves and file options, including locking storage." },
-    { "title": "Corner fit", "description": "Reversibility and stated footprint for matching a room corner." },
-    { "title": "Value under $300", "description": "Features delivered within the $50 to $200 price buckets." }
+    {
+      "title": "Desktop strength",
+      "description": "Stated thickness and load claims that suggest the desktop will resist bowing."
+    },
+    {
+      "title": "Power and charging",
+      "description": "Built-in outlets and USB ports that reduce cable clutter."
+    },
+    {
+      "title": "Storage",
+      "description": "Drawers, shelves and file options, including locking storage."
+    },
+    {
+      "title": "Corner fit",
+      "description": "Reversibility and stated footprint for matching a room corner."
+    },
+    {
+      "title": "Value under $300",
+      "description": "Features delivered within the $50 to $200 price buckets."
+    }
   ],
   "whatMatters": [
-    { "factor": "Desktop thickness", "detail": "A thin panel bows under two monitors and a tower, while a thicker one stays flat. The Huuger states 0.95 inches. Check whether the listing names a thickness in inches, and be wary of desks that list only length and width, since those numbers say nothing about sag. Particleboard sags first along the unsupported middle of the long arm." },
-    { "factor": "Reversible layout", "detail": "A reversible L-shaped desk lets the return sit on either side. That matters because your room has a fixed wall, window and door. Check for the word reversible or a note about left and right assembly, and measure both wall lengths against the stated footprint." },
-    { "factor": "Built-in power", "detail": "Outlets and USB ports on the desk cut cable runs, but they still plug into one wall socket. Check how many outlets and what charging ports are listed, and confirm whether they include surge protection, since many budget desks mention only the count." },
-    { "factor": "Storage type", "detail": "Fabric drawers are light and cheap, file cabinets hold paper and lockable drawers protect documents. Shelves free the surface but add height. Match the storage to what you keep: paperwork needs a file drawer, while supplies suit shelves. Fabric bins collapse under heavy binders, so check what each drawer is made from." },
-    { "factor": "Footprint and clearance", "detail": "The long arm of an L desk can be over five feet, and the short return nearly as deep. Measure the corner, the door swing and any radiator. Compare the stated dimensions to the space, and leave room to pull a chair out without hitting a wall." }
+    {
+      "factor": "Desktop thickness",
+      "detail": "A thin panel bows under two monitors and a tower, while a thicker one stays flat. The Huuger states 0.95 inches. Check whether the listing names a thickness in inches, and be wary of desks that list only length and width, since those numbers say nothing about sag. Particleboard sags first along the unsupported middle of the long arm."
+    },
+    {
+      "factor": "Reversible layout",
+      "detail": "A reversible L-shaped desk lets the return sit on either side. That matters because your room has a fixed wall, window and door. Check for the word reversible or a note about left and right assembly, and measure both wall lengths against the stated footprint."
+    },
+    {
+      "factor": "Built-in power",
+      "detail": "Outlets and USB ports on the desk cut cable runs, but they still plug into one wall socket. Check how many outlets and what charging ports are listed, and confirm whether they include surge protection, since many budget desks mention only the count."
+    },
+    {
+      "factor": "Storage type",
+      "detail": "Fabric drawers are light and cheap, file cabinets hold paper and lockable drawers protect documents. Shelves free the surface but add height. Match the storage to what you keep: paperwork needs a file drawer, while supplies suit shelves. Fabric bins collapse under heavy binders, so check what each drawer is made from."
+    },
+    {
+      "factor": "Footprint and clearance",
+      "detail": "The long arm of an L desk can be over five feet, and the short return nearly as deep. Measure the corner, the door swing and any radiator. Compare the stated dimensions to the space, and leave room to pull a chair out without hitting a wall."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Desktop Strength",
       "intro": "Desktop thickness separates the sturdy from the springy.",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["Stated thick desktop", "Huuger 63 Inch L Shaped Desk"],
-          ["Two monitors on stands", "Furologee 66\" L Shaped Desk"],
-          ["Lighting and storage", "AODK 66\" L Shaped Computer Desk"],
-          ["Wide open surface", "L Shaped Desk with Shelves 64.84\""]
+          [
+            "Stated thick desktop",
+            "Huuger 63 Inch L Shaped Desk"
+          ],
+          [
+            "Two monitors on stands",
+            "Furologee 66\" L Shaped Desk"
+          ],
+          [
+            "Lighting and storage",
+            "AODK 66\" L Shaped Computer Desk"
+          ],
+          [
+            "Wide open surface",
+            "L Shaped Desk with Shelves 64.84\""
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Furologee 66\" L Shaped Desk"],
-          ["$100 to $200, sturdy", "Huuger 63 Inch L Shaped Desk"],
-          ["$100 to $200, USB-C", "PRAISUN 63 Inch L Shaped Desk"],
-          ["$100 to $200, lockable", "SEDETA 65\"x59\" L Shaped Desk"]
+          [
+            "$50 to $100",
+            "Furologee 66\" L Shaped Desk"
+          ],
+          [
+            "$100 to $200, sturdy",
+            "Huuger 63 Inch L Shaped Desk"
+          ],
+          [
+            "$100 to $200, USB-C",
+            "PRAISUN 63 Inch L Shaped Desk"
+          ],
+          [
+            "$100 to $200, lockable",
+            "SEDETA 65\"x59\" L Shaped Desk"
+          ]
         ]
       }
     },
     {
       "subheading": "Drawers vs Shelves",
       "cards": [
-        { "label": "Drawers", "text": "Hide clutter and hold paperwork. The PRAISUN, AODK and SEDETA include drawer storage." },
-        { "label": "Shelves", "text": "Lift items off the surface for display. The shelved L desk suits books and decor." }
+        {
+          "label": "Drawers",
+          "text": "Hide clutter and hold paperwork. The PRAISUN, AODK and SEDETA include drawer storage."
+        },
+        {
+          "label": "Shelves",
+          "text": "Lift items off the surface for display. The shelved L desk suits books and decor."
+        }
       ],
       "note": "Choose drawers for a work desk and shelves for a display-heavy gaming corner."
     },
     {
       "subheading": "By Power Features",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["Outlets built in", "Huuger 63 Inch L Shaped Desk"],
-          ["USB-C port", "PRAISUN 63 Inch L Shaped Desk"],
-          ["Charging station", "Furologee 66\" L Shaped Desk"],
-          ["Charging port", "SEDETA 65\"x59\" L Shaped Desk"]
+          [
+            "Outlets built in",
+            "Huuger 63 Inch L Shaped Desk"
+          ],
+          [
+            "USB-C port",
+            "PRAISUN 63 Inch L Shaped Desk"
+          ],
+          [
+            "Charging station",
+            "Furologee 66\" L Shaped Desk"
+          ],
+          [
+            "Charging port",
+            "SEDETA 65\"x59\" L Shaped Desk"
+          ]
         ]
       }
     },
     {
       "subheading": "For Small Rooms Specifically",
       "cards": [
-        { "label": "Look for", "text": "A compact footprint, a reversible layout and monitor stands that free the surface for other things." },
-        { "label": "In this ranking", "text": "The Huuger and PRAISUN at 63 inches are the shortest, and the Furologee adds two monitor stands." }
+        {
+          "label": "Look for",
+          "text": "A compact footprint, a reversible layout and monitor stands that free the surface for other things."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Huuger and PRAISUN at 63 inches are the shortest, and the Furologee adds two monitor stands."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want a thick desktop with a stated load rating. Look above $300 for a steel-framed desk." },
-        { "label": "Save if", "text": "A first desk will do. The Furologee at $50 to $100 covers the basics." }
+        {
+          "label": "Spend more if",
+          "text": "You want a thick desktop with a stated load rating. Look above $300 for a steel-framed desk."
+        },
+        {
+          "label": "Save if",
+          "text": "A first desk will do. The Furologee at $50 to $100 covers the basics."
+        }
       ]
     }
   ],
@@ -321,5 +498,9 @@
     }
   ],
   "finalTake": "The Huuger 63 Inch L Shaped Desk is the best corner desk under $300 here because of its stated 0.95 inch desktop, outlets and reversible layout. The Furologee is the value pick, the PRAISUN is the USB-C choice and the SEDETA is the lockable one. Measure your corner before you order.",
-  "related": []
+  "related": [
+    "best-corner-desks-for-college-students",
+    "best-corner-desks-under-200",
+    "best-corner-desks-with-drawers"
+  ]
 }

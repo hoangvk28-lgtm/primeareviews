@@ -26,10 +26,22 @@
       "verdict": "A 40-inch IPS ultrawide with 144Hz, HDR400, 95% DCI-P3 and USB-C.",
       "description": "The INNOCN 40C1R is a 40-inch 21:9 IPS monitor at 3440x1440, with a 144Hz refresh rate, FreeSync Premium, HDR400, 500 nits and 95% DCI-P3. It has USB Type-C, DisplayPort and HDMI inputs, and a stand that tilts and adjusts in height.\n\nIt leads because it is the only listing here that states brightness and a wide color gamut together. Against the 34-inch LG, the 40-inch panel at 3440x1440 gives larger text and more vertical room, at lower pixel density. Against the 49-inch models, it avoids the desk-depth and graphics-card demands of a 5120x1440 canvas.\n\nBuy it for mixed work and play at a desk at least 30 inches deep. The caveat is that it is flat, not curved, which makes the edges of a 40-inch panel sit further away.",
       "keySpecs": [
-        { "label": "Size", "value": "40 inches, 21:9 IPS" },
-        { "label": "Resolution", "value": "3440 x 1440" },
-        { "label": "Refresh", "value": "144Hz, FreeSync Premium" },
-        { "label": "HDR and color", "value": "HDR400, 500 nits, 95% DCI-P3" }
+        {
+          "label": "Size",
+          "value": "40 inches, 21:9 IPS"
+        },
+        {
+          "label": "Resolution",
+          "value": "3440 x 1440"
+        },
+        {
+          "label": "Refresh",
+          "value": "144Hz, FreeSync Premium"
+        },
+        {
+          "label": "HDR and color",
+          "value": "HDR400, 500 nits, 95% DCI-P3"
+        }
       ],
       "pros": [
         "500 nits and HDR400",
@@ -56,10 +68,22 @@
       "verdict": "The sensible 34-inch: curved WQHD at 144Hz with FreeSync Premium.",
       "description": "LG's 34U640B-B is a curved 21:9 UltraWide WQHD monitor at 34 inches, with 144Hz, FreeSync Premium and up to 99% sRGB. It is the format most buyers should start with: wide enough to replace two windows side by side, but with a manageable footprint.\n\nIt ranks second because it states no brightness figure or HDR rating, where the INNOCN lists 500 nits and HDR400. But 34 inches at WQHD gives a higher pixel density than the 40-inch, so text looks crisper. Against the Samsung S55GH, LG offers 144Hz to the Samsung's 120Hz. A curved panel also keeps the edges closer to your eyes.\n\nBuy it for a desk setup of normal depth. The caveat is the missing HDR and brightness detail.",
       "keySpecs": [
-        { "label": "Size", "value": "34 inches, curved 21:9" },
-        { "label": "Resolution", "value": "WQHD" },
-        { "label": "Refresh", "value": "144Hz, FreeSync Premium" },
-        { "label": "Color", "value": "Up to 99% sRGB" }
+        {
+          "label": "Size",
+          "value": "34 inches, curved 21:9"
+        },
+        {
+          "label": "Resolution",
+          "value": "WQHD"
+        },
+        {
+          "label": "Refresh",
+          "value": "144Hz, FreeSync Premium"
+        },
+        {
+          "label": "Color",
+          "value": "Up to 99% sRGB"
+        }
       ],
       "pros": [
         "144Hz refresh rate",
@@ -86,10 +110,22 @@
       "verdict": "A 34-inch QHD curved panel at 120Hz with HDR10 and an 1800R curve.",
       "description": "The ViewFinity S5 S55GH is a 34-inch ultrawide QHD monitor at 120Hz with a 1800R curve and HDR10 support. HDR10 is an input format that lets the monitor read high-dynamic-range signals, though it is not a brightness guarantee like HDR400.\n\nIt ranks third because the 120Hz refresh rate is below the 144Hz of the LG 34U640B and INNOCN. For office work and general viewing that gap is small; for fast games it is real. Against the LG 34SR60QC, the Samsung drops the smart platform and keeps a plain monitor feel. The 1800R curve is tight enough to wrap your peripheral view.\n\nBuy it for productivity first and gaming second. The caveat is that the listing publishes no brightness, so confirm HDR is more than a label.",
       "keySpecs": [
-        { "label": "Size", "value": "34 inches, ultrawide QHD" },
-        { "label": "Refresh", "value": "120Hz" },
-        { "label": "Curve", "value": "1800R" },
-        { "label": "HDR", "value": "HDR10" }
+        {
+          "label": "Size",
+          "value": "34 inches, ultrawide QHD"
+        },
+        {
+          "label": "Refresh",
+          "value": "120Hz"
+        },
+        {
+          "label": "Curve",
+          "value": "1800R"
+        },
+        {
+          "label": "HDR",
+          "value": "HDR10"
+        }
       ],
       "pros": [
         "Tight 1800R curve",
@@ -116,10 +152,22 @@
       "verdict": "A 3440x1440 curved monitor with webOS streaming built in.",
       "description": "The LG 34SR60QC-W is a 34-inch curved QHD (3440x1440) smart monitor with webOS 23 built in, so you can stream without a computer. The listing mentions Handpicked by Amazon, and the platform adds streaming apps directly on the screen.\n\nFourth place reflects a missing refresh rate on the page, so nothing confirms it matches the 144Hz LG 34U640B. What you gain is convenience: a spare-room or dorm monitor that doubles as a television. Against the Samsung S55GH, it adds the smart features but gives you less information on speed.\n\nBuy it if you want one screen for streaming and desk work. The caveat is that a missing refresh figure makes it a risk for gamers, so check Amazon's full specification before buying.",
       "keySpecs": [
-        { "label": "Size", "value": "34 inches, curved" },
-        { "label": "Resolution", "value": "3440 x 1440 QHD" },
-        { "label": "Platform", "value": "webOS 23 smart streaming" },
-        { "label": "Type", "value": "Smart monitor" }
+        {
+          "label": "Size",
+          "value": "34 inches, curved"
+        },
+        {
+          "label": "Resolution",
+          "value": "3440 x 1440 QHD"
+        },
+        {
+          "label": "Platform",
+          "value": "webOS 23 smart streaming"
+        },
+        {
+          "label": "Type",
+          "value": "Smart monitor"
+        }
       ],
       "pros": [
         "Built-in streaming",
@@ -146,10 +194,22 @@
       "verdict": "A 49-inch super ultrawide at 165Hz, with USB-C 65W and a built-in KVM.",
       "description": "The Deco Gear is a 49-inch curved super ultrawide with a 165Hz refresh rate, USB-C with 65W power delivery and a built-in KVM switch. The KVM lets one keyboard and mouse control two computers, and 65W USB-C can charge a laptop over the same cable that carries the video.\n\nIt ranks fifth because a 49-inch canvas demands a deep desk and a capable graphics card, and the listing does not state the resolution. Against the INNOCN, which spells out 3440x1440, you get a bigger canvas and a faster refresh rate, but with less verified detail. For a laptop-plus-desktop setup, the KVM and 65W charging are the practical draw.\n\nBuy it for a two-computer workspace that wants one cable. The caveat is the missing resolution on the listing.",
       "keySpecs": [
-        { "label": "Size", "value": "49 inches, curved" },
-        { "label": "Refresh", "value": "165Hz" },
-        { "label": "USB-C", "value": "65W power delivery" },
-        { "label": "Switch", "value": "Built-in KVM" }
+        {
+          "label": "Size",
+          "value": "49 inches, curved"
+        },
+        {
+          "label": "Refresh",
+          "value": "165Hz"
+        },
+        {
+          "label": "USB-C",
+          "value": "65W power delivery"
+        },
+        {
+          "label": "Switch",
+          "value": "Built-in KVM"
+        }
       ],
       "pros": [
         "165Hz refresh rate",
@@ -176,10 +236,22 @@
       "verdict": "A 49-inch DQHD curved gaming panel at 120Hz and 1ms.",
       "description": "The GAMEPOWER is a 49-inch super ultrawide with a DQHD display, 120Hz refresh, 1ms response and an 1800R curve. DQHD means a 5120x1440 canvas, equal to two 1440p screens side by side.\n\nIt ranks last because it lists in the $500 and up bracket with the least supporting detail, and its 120Hz refresh rate trails the 165Hz Deco Gear. No USB-C or KVM is mentioned. Against the Deco Gear, you get a stated DQHD resolution and a 1ms response figure, but lose the connectivity extras. The price bracket suggests checking that the live price stays under $800.\n\nBuy it for immersive racing and simulation on a deep desk. The caveat is the thin feature list.",
       "keySpecs": [
-        { "label": "Size", "value": "49 inches, 1800R curve" },
-        { "label": "Resolution", "value": "DQHD (5120 x 1440)" },
-        { "label": "Refresh", "value": "120Hz" },
-        { "label": "Response", "value": "1ms" }
+        {
+          "label": "Size",
+          "value": "49 inches, 1800R curve"
+        },
+        {
+          "label": "Resolution",
+          "value": "DQHD (5120 x 1440)"
+        },
+        {
+          "label": "Refresh",
+          "value": "120Hz"
+        },
+        {
+          "label": "Response",
+          "value": "1ms"
+        }
       ],
       "pros": [
         "DQHD 5120x1440 canvas",
@@ -197,89 +269,207 @@
     }
   ],
   "methodology": [
-    { "title": "Resolution and density", "description": "We compared 3440x1440 and 5120x1440 canvases against panel size, since pixel density sets text sharpness." },
-    { "title": "Refresh rate", "description": "Stated rates from 120Hz to 165Hz were weighed for both gaming smoothness and the cost of driving a wide display." },
-    { "title": "Panel and color", "description": "IPS panels, curve radius, HDR labels and color gamut figures were compared where the listing provided them." },
-    { "title": "Connectivity", "description": "USB-C power delivery, KVM and extra inputs were credited for one-cable desk setups." },
-    { "title": "Price fit", "description": "We checked each monitor against the $800 ceiling and the value its price bracket suggests." }
+    {
+      "title": "Resolution and density",
+      "description": "We compared 3440x1440 and 5120x1440 canvases against panel size, since pixel density sets text sharpness."
+    },
+    {
+      "title": "Refresh rate",
+      "description": "Stated rates from 120Hz to 165Hz were weighed for both gaming smoothness and the cost of driving a wide display."
+    },
+    {
+      "title": "Panel and color",
+      "description": "IPS panels, curve radius, HDR labels and color gamut figures were compared where the listing provided them."
+    },
+    {
+      "title": "Connectivity",
+      "description": "USB-C power delivery, KVM and extra inputs were credited for one-cable desk setups."
+    },
+    {
+      "title": "Price fit",
+      "description": "We checked each monitor against the $800 ceiling and the value its price bracket suggests."
+    }
   ],
   "whatMatters": [
-    { "factor": "Size and desk depth", "detail": "A 34-inch ultrawide fits most desks, a 40-inch like the INNOCN wants roughly 30 inches of depth and a 49-inch needs more still. Sit too close and the edges fall outside your vision, so you turn your head constantly. Measure your desk depth and viewing distance before choosing, and check the stand footprint in the photos." },
-    { "factor": "Resolution and density", "detail": "Pixel density falls as the same pixels spread over more glass. At 34 inches, 3440x1440 gives sharper text than the same resolution on the 40-inch INNOCN. A 49-inch DQHD panel like the GAMEPOWER stretches 5120x1440 across an even wider surface. Look for the pixel dimensions in the title, since a listing without them leaves sharpness unknown." },
-    { "factor": "Refresh rate", "detail": "Refresh rate is how often the picture updates each second. 120Hz, as on the Samsung S55GH, is fine for work, while 144Hz on the LG 34U640B or 165Hz on the Deco Gear feels smoother in fast games. Check the Hz figure and whether FreeSync is listed. Driving a wide screen at high refresh also demands a stronger graphics card." },
-    { "factor": "HDR labels", "detail": "HDR10 means the monitor accepts HDR signals, while HDR400 implies a minimum brightness target. The INNOCN pairs HDR400 with 500 nits, the Samsung lists HDR10 only. An HDR label with no nits figure may accept the signal without making highlights any brighter, so look for the brightness number on the listing." },
-    { "factor": "USB-C and KVM", "detail": "A USB-C port with power delivery sends video and charges a laptop over one cable, clearing a charger from your desk. The Deco Gear lists 65W, which suits most thin laptops. A built-in KVM lets one keyboard and mouse switch between two computers. Check the wattage on the listing, since a port without it only carries video." }
+    {
+      "factor": "Size and desk depth",
+      "detail": "A 34-inch ultrawide fits most desks, a 40-inch like the INNOCN wants roughly 30 inches of depth and a 49-inch needs more still. Sit too close and the edges fall outside your vision, so you turn your head constantly. Measure your desk depth and viewing distance before choosing, and check the stand footprint in the photos."
+    },
+    {
+      "factor": "Resolution and density",
+      "detail": "Pixel density falls as the same pixels spread over more glass. At 34 inches, 3440x1440 gives sharper text than the same resolution on the 40-inch INNOCN. A 49-inch DQHD panel like the GAMEPOWER stretches 5120x1440 across an even wider surface. Look for the pixel dimensions in the title, since a listing without them leaves sharpness unknown."
+    },
+    {
+      "factor": "Refresh rate",
+      "detail": "Refresh rate is how often the picture updates each second. 120Hz, as on the Samsung S55GH, is fine for work, while 144Hz on the LG 34U640B or 165Hz on the Deco Gear feels smoother in fast games. Check the Hz figure and whether FreeSync is listed. Driving a wide screen at high refresh also demands a stronger graphics card."
+    },
+    {
+      "factor": "HDR labels",
+      "detail": "HDR10 means the monitor accepts HDR signals, while HDR400 implies a minimum brightness target. The INNOCN pairs HDR400 with 500 nits, the Samsung lists HDR10 only. An HDR label with no nits figure may accept the signal without making highlights any brighter, so look for the brightness number on the listing."
+    },
+    {
+      "factor": "USB-C and KVM",
+      "detail": "A USB-C port with power delivery sends video and charges a laptop over one cable, clearing a charger from your desk. The Deco Gear lists 65W, which suits most thin laptops. A built-in KVM lets one keyboard and mouse switch between two computers. Check the wattage on the listing, since a port without it only carries video."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Screen Size",
       "intro": "Pick the width your desk can handle.",
       "table": {
-        "headers": ["Size", "Our pick"],
+        "headers": [
+          "Size",
+          "Our pick"
+        ],
         "rows": [
-          ["34 inches, 144Hz", "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"],
-          ["34 inches, office-first", "Samsung 34\" ViewFinity S5 (S55GH) Ultrawide QHD 120Hz Curved Monitor"],
-          ["34 inches, smart", "LG 34SR60QC-W 34-inch QHD (3440x1440) Curved Smart Monitor with Streaming"],
-          ["40 inches", "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"],
-          ["49 inches", "Deco Gear 49\" Curved Super Ultrawide Monitor"]
+          [
+            "34 inches, 144Hz",
+            "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"
+          ],
+          [
+            "34 inches, office-first",
+            "Samsung 34\" ViewFinity S5 (S55GH) Ultrawide QHD 120Hz Curved Monitor"
+          ],
+          [
+            "34 inches, smart",
+            "LG 34SR60QC-W 34-inch QHD (3440x1440) Curved Smart Monitor with Streaming"
+          ],
+          [
+            "40 inches",
+            "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"
+          ],
+          [
+            "49 inches",
+            "Deco Gear 49\" Curved Super Ultrawide Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$200 to $500 (best overall)", "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"],
-          ["$200 to $500 (34-inch)", "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"],
-          ["$200 to $500 (49-inch)", "Deco Gear 49\" Curved Super Ultrawide Monitor"],
-          ["$500 and up, under $800", "GAMEPOWER 49 inch Curved Ultrawide Gaming Monitor"]
+          [
+            "$200 to $500 (best overall)",
+            "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"
+          ],
+          [
+            "$200 to $500 (34-inch)",
+            "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"
+          ],
+          [
+            "$200 to $500 (49-inch)",
+            "Deco Gear 49\" Curved Super Ultrawide Monitor"
+          ],
+          [
+            "$500 and up, under $800",
+            "GAMEPOWER 49 inch Curved Ultrawide Gaming Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "34 Inches vs 49 Inches",
       "cards": [
-        { "label": "34 inches", "text": "Sharper text, a smaller footprint and easier on a mid-range graphics card. Picks: LG 34U640B, Samsung S55GH and LG 34SR60QC." },
-        { "label": "49 inches", "text": "A canvas equal to two monitors, but it needs a deep desk and a strong GPU. Picks: Deco Gear and GAMEPOWER." }
+        {
+          "label": "34 inches",
+          "text": "Sharper text, a smaller footprint and easier on a mid-range graphics card. Picks: LG 34U640B, Samsung S55GH and LG 34SR60QC."
+        },
+        {
+          "label": "49 inches",
+          "text": "A canvas equal to two monitors, but it needs a deep desk and a strong GPU. Picks: Deco Gear and GAMEPOWER."
+        }
       ],
       "note": "Default to 34 inches, and move to 40 or 49 only when your desk is deep enough."
     },
     {
       "subheading": "By Refresh Rate",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["165Hz", "Deco Gear 49\" Curved Super Ultrawide Monitor"],
-          ["144Hz with HDR400", "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"],
-          ["144Hz, curved 34-inch", "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"],
-          ["120Hz", "Samsung 34\" ViewFinity S5 (S55GH) Ultrawide QHD 120Hz Curved Monitor"]
+          [
+            "165Hz",
+            "Deco Gear 49\" Curved Super Ultrawide Monitor"
+          ],
+          [
+            "144Hz with HDR400",
+            "INNOCN 40C1R Ultrawide Monitor 40\" WQHD 3440 x 1440p 144Hz FreeSync Premium HDR400 21:9 Computer Display 95% DCI-P3 500Nits IPS USB Type-C HDMI Tilt/Height Adjustable"
+          ],
+          [
+            "144Hz, curved 34-inch",
+            "LG 34U640B-B 34-inch UltraWide WQHD 144Hz FreeSync Premium Curved Monitor"
+          ],
+          [
+            "120Hz",
+            "Samsung 34\" ViewFinity S5 (S55GH) Ultrawide QHD 120Hz Curved Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "For One-Cable Desks Specifically",
       "cards": [
-        { "label": "Look for", "text": "USB-C with at least 65W power delivery, a built-in KVM and enough ports to share one display across two computers." },
-        { "label": "In this ranking", "text": "The Deco Gear lists USB-C 65W with KVM, and the INNOCN 40C1R includes USB Type-C alongside DisplayPort and HDMI." }
+        {
+          "label": "Look for",
+          "text": "USB-C with at least 65W power delivery, a built-in KVM and enough ports to share one display across two computers."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Deco Gear lists USB-C 65W with KVM, and the INNOCN 40C1R includes USB Type-C alongside DisplayPort and HDMI."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want maximum width for racing or simulation. The GAMEPOWER 49-inch DQHD sits in the upper bracket and delivers the canvas." },
-        { "label": "Save if", "text": "You mostly work. The LG 34U640B or Samsung S55GH deliver QHD at 34 inches for less." }
+        {
+          "label": "Spend more if",
+          "text": "You want maximum width for racing or simulation. The GAMEPOWER 49-inch DQHD sits in the upper bracket and delivers the canvas."
+        },
+        {
+          "label": "Save if",
+          "text": "You mostly work. The LG 34U640B or Samsung S55GH deliver QHD at 34 inches for less."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Will my laptop run the INNOCN 40C1R over USB-C?", "a": "It has a USB Type-C port alongside DisplayPort and HDMI, but check that your laptop's USB-C supports video output. The listing does not state a power delivery wattage, so assume you still need your charger." },
-    { "q": "What is the most common mistake with 49-inch monitors?", "a": "Buying one for a shallow desk. The Deco Gear and GAMEPOWER are about two screens wide, so you turn your head constantly at normal distance. Measure your desk depth first, and plan for a strong graphics card." },
-    { "q": "Is the LG 34U640B worth it over the Samsung S55GH?", "a": "Yes for gaming: 144Hz against 120Hz. For office use, the Samsung's tight 1800R curve and HDR10 support are fine, and the gap shrinks. Pick the LG if you also play, and the Samsung if you mostly work." },
-    { "q": "How do I set up an ultrawide properly?", "a": "Use DisplayPort or the right HDMI port to reach the stated refresh rate, then set the Windows or macOS resolution to native. The INNOCN at 3440x1440 and 144Hz needs a cable rated for that bandwidth." },
-    { "q": "Do I need a monitor arm for these?", "a": "Optional for the 34-inch models on stands, but helpful for the 40 and 49-inch panels to free desk depth. Check weight and VESA support in each listing first, since the heavier 49-inch monitors need a rated arm." },
-    { "q": "Can the LG 34SR60QC replace a TV?", "a": "For a small room, yes. The webOS 23 platform streams without a computer, and the 34-inch curved screen suits solo viewing. For group viewing a larger television is better, and gaming needs a refresh rate check." }
+    {
+      "q": "Will my laptop run the INNOCN 40C1R over USB-C?",
+      "a": "It has a USB Type-C port alongside DisplayPort and HDMI, but check that your laptop's USB-C supports video output. The listing does not state a power delivery wattage, so assume you still need your charger."
+    },
+    {
+      "q": "What is the most common mistake with 49-inch monitors?",
+      "a": "Buying one for a shallow desk. The Deco Gear and GAMEPOWER are about two screens wide, so you turn your head constantly at normal distance. Measure your desk depth first, and plan for a strong graphics card."
+    },
+    {
+      "q": "Is the LG 34U640B worth it over the Samsung S55GH?",
+      "a": "Yes for gaming: 144Hz against 120Hz. For office use, the Samsung's tight 1800R curve and HDR10 support are fine, and the gap shrinks. Pick the LG if you also play, and the Samsung if you mostly work."
+    },
+    {
+      "q": "How do I set up an ultrawide properly?",
+      "a": "Use DisplayPort or the right HDMI port to reach the stated refresh rate, then set the Windows or macOS resolution to native. The INNOCN at 3440x1440 and 144Hz needs a cable rated for that bandwidth."
+    },
+    {
+      "q": "Do I need a monitor arm for these?",
+      "a": "Optional for the 34-inch models on stands, but helpful for the 40 and 49-inch panels to free desk depth. Check weight and VESA support in each listing first, since the heavier 49-inch monitors need a rated arm."
+    },
+    {
+      "q": "Can the LG 34SR60QC replace a TV?",
+      "a": "For a small room, yes. The webOS 23 platform streams without a computer, and the 34-inch curved screen suits solo viewing. For group viewing a larger television is better, and gaming needs a refresh rate check."
+    }
   ],
   "finalTake": "For most buyers the INNOCN 40C1R is the best ultrawide under $800: 3440x1440 at 144Hz, HDR400, 500 nits and USB-C. If you want a standard 34-inch footprint, the LG 34U640B gives curved WQHD at 144Hz. A laptop-plus-desktop desk suits the Deco Gear's 165Hz and KVM, and the GAMEPOWER delivers a full DQHD canvas for racing.",
-  "related": []
+  "related": [
+    "best-49-inch-ultrawide-monitor",
+    "best-curved-ultrawide-monitor",
+    "best-ultrawide-monitor-arm"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "Dual sensors and a percent-humidity readout make this the easiest whole-house unit to trust.",
       "description": "The AprilAire 600 uses dual sensors that respond to both outdoor conditions and indoor humidity, and it shows percent humidity on the control. That pairing is what separates it from the single-sensor models lower down: the unit backs off as the weather gets colder, so you are not wiping condensation off glass in January.\n\nIt wins because the 500 gives you the same sensing and the 700 adds furnace-fed airflow that only some homes can use. The 600 sits in the middle of the line, so it is the model most houses can run without second-guessing the installer. What you give up against the 800 steam unit is output in a big, tightly built house.\n\nIt suits a typical forced-air home of average size. Every unit in this family needs installation onto the furnace and a water line, so budget for a professional.",
       "keySpecs": [
-        { "label": "Type", "value": "Evaporative, whole-house" },
-        { "label": "Sensors", "value": "Dual, indoor and outdoor" },
-        { "label": "Display", "value": "Shows percent humidity" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Type",
+          "value": "Evaporative, whole-house"
+        },
+        {
+          "label": "Sensors",
+          "value": "Dual, indoor and outdoor"
+        },
+        {
+          "label": "Display",
+          "value": "Shows percent humidity"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Reads outdoor and indoor conditions",
@@ -56,10 +68,22 @@
       "verdict": "The same dual-sensor brain as the 600 in a smaller-house package.",
       "description": "The AprilAire 500 carries the same dual sensors and percent-humidity display as the 600, and that is the real reason to buy it. For a smaller or moderately sized home, you get the automatic response to outdoor conditions without paying for the step up in the line.\n\nIt ranks second only because the 600 sits one rung higher and is the safer choice when you are unsure about house size. Against the 500M and 600M below it, the 500 is the better buy: those models use a single sensor, so they track indoor humidity but not the outside swings that cause window condensation on the worst days.\n\nChoose it for a smaller home with a forced-air furnace. The caveat is the same as for the rest of the family: plumbing and sheet-metal work are required, so it is not a weekend DIY for most buyers.",
       "keySpecs": [
-        { "label": "Type", "value": "Evaporative, whole-house" },
-        { "label": "Sensors", "value": "Dual, indoor and outdoor" },
-        { "label": "Display", "value": "Shows percent humidity" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Type",
+          "value": "Evaporative, whole-house"
+        },
+        {
+          "label": "Sensors",
+          "value": "Dual, indoor and outdoor"
+        },
+        {
+          "label": "Display",
+          "value": "Shows percent humidity"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Dual sensors at the lower tier",
@@ -86,10 +110,22 @@
       "verdict": "Pulls heated air straight from the furnace through the humidifier, with dual sensors on top.",
       "description": "The AprilAire 700 pulls heated air directly from the furnace through the humidifier, rather than relying on a bypass line, and it keeps the dual sensors and percent-humidity display of the 500 and 600. Warm air takes up moisture more readily, so feeding it hot air is the logic behind the design.\n\nIt ranks third because the extra complexity is only worth it in some homes. The 600 does the job for most houses at a lower price bracket, and the 700 lands in the top $500-plus tier. Against the 720MKZ below, it relies on the furnace airflow rather than its own fan, so it needs the furnace running to deliver moisture.\n\nGood for a house where the furnace layout suits it. The caveat is cost: this is the most expensive of the evaporative models.",
       "keySpecs": [
-        { "label": "Type", "value": "Furnace-fed evaporative" },
-        { "label": "Sensors", "value": "Dual, indoor and outdoor" },
-        { "label": "Air source", "value": "Heated air from furnace" },
-        { "label": "Price bracket", "value": "$500 and up" }
+        {
+          "label": "Type",
+          "value": "Furnace-fed evaporative"
+        },
+        {
+          "label": "Sensors",
+          "value": "Dual, indoor and outdoor"
+        },
+        {
+          "label": "Air source",
+          "value": "Heated air from furnace"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Draws heated air for better uptake",
@@ -116,10 +152,22 @@
       "verdict": "A fan-powered 21-gallon-per-day unit with a one-piece disposable water panel.",
       "description": "The 720MKZ is fan-powered and rated to deliver 21 gallons per day, with a one-piece disposable hydrocore water panel that pops out for replacement. The fan is the key: it moves air through the pad itself instead of waiting on the furnace blower, so output does not depend on how hard the system is running.\n\nIt ranks fourth because it is the only unit here that quotes a daily output figure we can compare against the 12-gallon 500M listing, and that number is attractive. Yet AprilAire's dual-sensor models sit above it on control, which matters more day to day. The one-piece panel is a real convenience, though.\n\nIt is a sensible pick for a larger home or one with long fan-off periods. Check the install requirements, because a fan-powered unit needs an electrical connection as well as plumbing.",
       "keySpecs": [
-        { "label": "Output", "value": "21 gallons per day" },
-        { "label": "Airflow", "value": "Built-in fan" },
-        { "label": "Water panel", "value": "One-piece, disposable" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Output",
+          "value": "21 gallons per day"
+        },
+        {
+          "label": "Airflow",
+          "value": "Built-in fan"
+        },
+        {
+          "label": "Water panel",
+          "value": "One-piece, disposable"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Stated 21 gallons daily output",
@@ -146,10 +194,22 @@
       "verdict": "A high-output steam unit rated for up to 10,300 square feet in tightly built homes.",
       "description": "The AprilAire 800 is a steam humidifier using electrode technology, and it is rated for up to 10,300 square feet in tightly built homes. Steam makes its own vapor with electrodes, so it does not depend on the warmth or volume of air from the furnace the way evaporative models do.\n\nIt ranks fifth because steam is overkill for most houses and it asks more of you. Electrode technology needs impurities in the water to carry the current, so very soft or purified water can stop it working. The evaporative 600 is simpler and cheaper to run for an average home. The 800 earns its place where output is the limit.\n\nBuy it for a large, airtight house in a dry climate. The caveat is the $500-plus price and the water-quality requirement.",
       "keySpecs": [
-        { "label": "Type", "value": "Steam, electrode" },
-        { "label": "Coverage", "value": "Up to 10,300 sq ft, tight homes" },
-        { "label": "Water", "value": "Needs mineral content" },
-        { "label": "Price bracket", "value": "$500 and up" }
+        {
+          "label": "Type",
+          "value": "Steam, electrode"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 10,300 sq ft, tight homes"
+        },
+        {
+          "label": "Water",
+          "value": "Needs mineral content"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Highest coverage in the ranking",
@@ -176,10 +236,22 @@
       "verdict": "The 600's hardware with a single built-in sensor on the standard control.",
       "description": "The 600M is built around a single sensor in the standard control that monitors indoor humidity, and that is the difference to hold on to. It does the core job of holding a target, but it reads only the inside of the house.\n\nIt ranks sixth because the 600 and 500 add the outdoor sensor for a modest bracket difference, and that sensor is what prevents over-humidifying on bitterly cold days. Against the 500M below, the 600M is the stronger pick if your house is on the larger side, though it is no match for the 600 on control.\n\nA fit for owners who want a simpler control and do not mind adjusting the setpoint by hand as the weather swings. Watch the windows on the coldest mornings and lower the setting if fog forms.",
       "keySpecs": [
-        { "label": "Type", "value": "Evaporative, whole-house" },
-        { "label": "Sensors", "value": "Single, indoor" },
-        { "label": "Control", "value": "Standard built-in" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Type",
+          "value": "Evaporative, whole-house"
+        },
+        {
+          "label": "Sensors",
+          "value": "Single, indoor"
+        },
+        {
+          "label": "Control",
+          "value": "Standard built-in"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Straightforward single-sensor control",
@@ -206,10 +278,22 @@
       "verdict": "A single-sensor bypass model that protects furniture and floors from dry air.",
       "description": "The 500M has a single sensor built into its standard control that watches indoor humidity, with the aim of preserving items that suffer when air gets too dry. Hardwood floors, instruments and wooden furniture are the usual victims.\n\nIt ranks seventh because the dual-sensor 500 sits just above it in the same size class, and the extra sensing is worth seeking out. Compared with the other 500M listing at the bottom of this list, this version has the sensor-based control, so it adjusts without you touching a dial. That makes it the better of the two M models.\n\nBuy it if the 500 is unavailable or you want the lowest-cost route to automatic humidity. The caveat is that, as with the 600M, it does not read outdoor conditions, so lower the setting by hand when temperatures plunge.",
       "keySpecs": [
-        { "label": "Type", "value": "Bypass evaporative" },
-        { "label": "Sensors", "value": "Single, indoor" },
-        { "label": "Aim", "value": "Protect wood and furnishings" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Type",
+          "value": "Bypass evaporative"
+        },
+        {
+          "label": "Sensors",
+          "value": "Single, indoor"
+        },
+        {
+          "label": "Aim",
+          "value": "Protect wood and furnishings"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Automatic indoor humidity control",
@@ -236,10 +320,22 @@
       "verdict": "A small bypass unit rated for 12 gallons per day, run from a manual humidistat.",
       "description": "This 500M variant is a small bypass evaporative unit that delivers 12 gallons of moisture per day, and it ships with the model 4655 manual humidistat that monitors the air in your home. AprilAire also notes the design helps minimize the formation of bacteria.\n\nIt ranks last because the manual humidistat puts the work on you. There is no outdoor sensing and no automatic adjustment as the weather turns, so you will be turning the dial through the season. The 720MKZ puts out 21 gallons a day against this unit's 12, so it suits a smaller footprint only.\n\nChoose it for a modest home where you are happy to set and adjust a dial. The caveat is capacity: 12 gallons per day will not keep up in a large, leaky house.",
       "keySpecs": [
-        { "label": "Output", "value": "12 gallons per day" },
-        { "label": "Type", "value": "Small bypass evaporative" },
-        { "label": "Control", "value": "Model 4655 manual humidistat" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Output",
+          "value": "12 gallons per day"
+        },
+        {
+          "label": "Type",
+          "value": "Small bypass evaporative"
+        },
+        {
+          "label": "Control",
+          "value": "Model 4655 manual humidistat"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Stated 12 gallons daily output",
@@ -305,26 +401,62 @@
       "subheading": "By Control Type",
       "intro": "Decide how much attention you want to give the unit each winter.",
       "table": {
-        "headers": ["Control", "Our pick"],
+        "headers": [
+          "Control",
+          "Our pick"
+        ],
         "rows": [
-          ["Dual sensors, indoor and outdoor", "AprilAire 600 Whole-House Humidifier"],
-          ["Dual sensors, smaller home", "AprilAire 500 Whole-House Humidifier"],
-          ["Single indoor sensor", "AprilAire 600M Whole-House Humidifier"],
-          ["Single indoor sensor, lowest cost", "AprilAire 500M Whole-House Humidifier"],
-          ["Manual dial", "AprilAire 500M 12-Gallon Whole-House Small Bypass Evaporative Humidifier"]
+          [
+            "Dual sensors, indoor and outdoor",
+            "AprilAire 600 Whole-House Humidifier"
+          ],
+          [
+            "Dual sensors, smaller home",
+            "AprilAire 500 Whole-House Humidifier"
+          ],
+          [
+            "Single indoor sensor",
+            "AprilAire 600M Whole-House Humidifier"
+          ],
+          [
+            "Single indoor sensor, lowest cost",
+            "AprilAire 500M Whole-House Humidifier"
+          ],
+          [
+            "Manual dial",
+            "AprilAire 500M 12-Gallon Whole-House Small Bypass Evaporative Humidifier"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$200 to $500, best control", "AprilAire 600 Whole-House Humidifier"],
-          ["$200 to $500, value", "AprilAire 500 Whole-House Humidifier"],
-          ["$200 to $500, high output", "AprilAire 720MKZ Whole-House Fan-Powered Evaporative Humidifier"],
-          ["$500 and up, furnace-fed", "AprilAire 700 Whole-House Humidifier"],
-          ["$500 and up, large home", "AprilAire 800 Whole-House Steam Humidifier"]
+          [
+            "$200 to $500, best control",
+            "AprilAire 600 Whole-House Humidifier"
+          ],
+          [
+            "$200 to $500, value",
+            "AprilAire 500 Whole-House Humidifier"
+          ],
+          [
+            "$200 to $500, high output",
+            "AprilAire 720MKZ Whole-House Fan-Powered Evaporative Humidifier"
+          ],
+          [
+            "$500 and up, furnace-fed",
+            "AprilAire 700 Whole-House Humidifier"
+          ],
+          [
+            "$500 and up, large home",
+            "AprilAire 800 Whole-House Steam Humidifier"
+          ]
         ]
       }
     },
@@ -345,12 +477,27 @@
     {
       "subheading": "By Delivery Method",
       "table": {
-        "headers": ["Method", "Our pick"],
+        "headers": [
+          "Method",
+          "Our pick"
+        ],
         "rows": [
-          ["Evaporative with dual sensors","AprilAire 600 Whole-House Humidifier"],
-          ["Heated air pulled from furnace", "AprilAire 700 Whole-House Humidifier"],
-          ["Own fan, 21 gallons per day", "AprilAire 720MKZ Whole-House Fan-Powered Evaporative Humidifier"],
-          ["Steam", "AprilAire 800 Whole-House Steam Humidifier"]
+          [
+            "Evaporative with dual sensors",
+            "AprilAire 600 Whole-House Humidifier"
+          ],
+          [
+            "Heated air pulled from furnace",
+            "AprilAire 700 Whole-House Humidifier"
+          ],
+          [
+            "Own fan, 21 gallons per day",
+            "AprilAire 720MKZ Whole-House Fan-Powered Evaporative Humidifier"
+          ],
+          [
+            "Steam",
+            "AprilAire 800 Whole-House Steam Humidifier"
+          ]
         ]
       }
     },
@@ -408,5 +555,9 @@
     }
   ],
   "finalTake": "AprilAire 600 is the whole-house humidifier to buy for most homes: dual sensors, a clear readout and no seasonal fuss. The 500 is the value move for smaller houses, and the 700 and 720MKZ cover furnace-fed and fan-powered needs. The 800 steam is for big, airtight homes only. Whichever you choose, hire an installer and replace the water panel every season.",
-  "related": []
+  "related": [
+    "best-aprilaire-whole-house-humidifiers-under-1000",
+    "best-whole-house-humidifiers-under-500",
+    "best-halloween-projectors-for-house"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "Steam and a scrub function in one mop, chemical-free, for confirmed sealed stone.",
       "description": "The S8001 combines steam with a scrub function, so water vapor does the sanitizing and the pad does the loosening. That matters on stone because it removes the need for a cleaning solution, the usual source of etching on marble and limestone. The listing restricts it to confirmed sealed stone.\n\nIt ranks first because it is the lowest-risk method here: nothing acidic touches the floor. Against the wet-dry vacuums, steam applies heat that sealed stone tolerates only if the sealer is intact. It costs $100 to $200, level with the Dreame and roborock.\n\nBuy it if you want chemical-free cleaning on sealed stone. The caveat: steam is wrong for unsealed or cracked surfaces, so check your sealer first.",
       "keySpecs": [
-        { "label": "Method", "value": "Steam with scrub function" },
-        { "label": "Chemistry", "value": "Water only" },
-        { "label": "Floor rating", "value": "Confirmed sealed stone only" },
-        { "label": "Price tier", "value": "$100 to $200" }
+        {
+          "label": "Method",
+          "value": "Steam with scrub function"
+        },
+        {
+          "label": "Chemistry",
+          "value": "Water only"
+        },
+        {
+          "label": "Floor rating",
+          "value": "Confirmed sealed stone only"
+        },
+        {
+          "label": "Price tier",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "No cleaning chemicals needed",
@@ -56,10 +68,22 @@
       "verdict": "Vacuums and washes in one pass with controlled water use, self-cleaning and hot air drying.",
       "description": "The H12 PRO vacuums and washes at the same time, with controlled water use, auto self-cleaning, edge-to-edge cleaning and hot air drying. Controlled water matters for stone, because standing water seeps into grout and under tiles.\n\nIt ranks second because it needs a pH-neutral solution, which adds a step and a purchase that the Shark avoids. In exchange, it removes dry debris first, so you skip a separate vacuum pass. It undercuts the Bissell CrossWave by roughly $100 at the $100 to $200 tier.\n\nChoose it for a home with lots of mixed wet and dry messes on sealed stone. The caveat: roller brushes and trays need rinsing, so factor in maintenance time.",
       "keySpecs": [
-        { "label": "Method", "value": "Wet-dry vacuum mop" },
-        { "label": "Water", "value": "Controlled use" },
-        { "label": "Extras", "value": "Self-cleaning, hot air drying" },
-        { "label": "Solution", "value": "pH-neutral only" }
+        {
+          "label": "Method",
+          "value": "Wet-dry vacuum mop"
+        },
+        {
+          "label": "Water",
+          "value": "Controlled use"
+        },
+        {
+          "label": "Extras",
+          "value": "Self-cleaning, hot air drying"
+        },
+        {
+          "label": "Solution",
+          "value": "pH-neutral only"
+        }
       ],
       "pros": [
         "Vacuums and mops in one pass",
@@ -86,10 +110,22 @@
       "verdict": "A pet-focused wet-dry vacuum mop for sealed stone, used with pH-neutral solution.",
       "description": "The CrossWave Pet Pro 2306A is a wet-dry vacuum mop designed around pet messes, and the listing pairs it with a pH-neutral solution for stone. It picks up pet hair and wet accidents together, which is useful on tile and stone near the door.\n\nIt ranks third because it sits in the $200 to $500 tier, the highest here, while the Dreame offers a similar method for less. The pet focus is the reason to pay more: it is aimed at hair and accidents that other models handle only generally.\n\nBuy it if pets share your sealed stone floors. The caveat: wet-dry machines can leave a film if you overdose on solution, so use the pH-neutral formula sparingly.",
       "keySpecs": [
-        { "label": "Method", "value": "Wet-dry vacuum mop" },
-        { "label": "Focus", "value": "Pet messes" },
-        { "label": "Solution", "value": "pH-neutral" },
-        { "label": "Price tier", "value": "$200 to $500" }
+        {
+          "label": "Method",
+          "value": "Wet-dry vacuum mop"
+        },
+        {
+          "label": "Focus",
+          "value": "Pet messes"
+        },
+        {
+          "label": "Solution",
+          "value": "pH-neutral"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Built for pet hair and accidents",
@@ -116,10 +152,22 @@
       "verdict": "A cordless wet-dry vacuum mop combo for sealed stone at $100 to $200.",
       "description": "Roborock's F25 GT Gen 2 washes and vacuums off a battery pack instead of a cord, and its listing steers stone owners to pH-neutral solution. Cordless operation means no cable dragging across polished surfaces.\n\nIt ranks fourth because it lists fewer stone-relevant details than the Dreame, such as controlled water use or hot air drying. It is the budget route into vacuum-and-wash, in the same price tier as the Dreame.\n\nChoose it if you want a cordless tool and a known robot-vacuum brand. The caveat: the listing says little about water control, which matters most on stone, so keep passes short and avoid pooling.",
       "keySpecs": [
-        { "label": "Method", "value": "Wet-dry vacuum mop" },
-        { "label": "Power", "value": "Cordless" },
-        { "label": "Solution", "value": "pH-neutral" },
-        { "label": "Price tier", "value": "$100 to $200" }
+        {
+          "label": "Method",
+          "value": "Wet-dry vacuum mop"
+        },
+        {
+          "label": "Power",
+          "value": "Cordless"
+        },
+        {
+          "label": "Solution",
+          "value": "pH-neutral"
+        },
+        {
+          "label": "Price tier",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Cordless, no cable drag",
@@ -146,10 +194,22 @@
       "verdict": "A 10-in-1 steam mop with a detachable handheld, for confirmed sealed stone at a lower price.",
       "description": "This 10-in-1 steam mop adds a detachable handheld steamer to the floor mop, and the listing marks it for confirmed sealed stone only. The handheld reaches grout lines, stone countertops and steps.\n\nIt ranks fifth because the Shark S8001 has a scrub function and a clearer pedigree, while this model lists little beyond versatility. Its advantage is price: $50 to $100, the cheapest steam option for stone here.\n\nBuy it if you want steam for floors and detail work together. The caveat: listing details are thin, so verify tank size, cord length and replacement pad availability before buying.",
       "keySpecs": [
-        { "label": "Method", "value": "Steam mop with handheld" },
-        { "label": "Attachments", "value": "10-in-1 kit" },
-        { "label": "Floor rating", "value": "Confirmed sealed stone only" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Method",
+          "value": "Steam mop with handheld"
+        },
+        {
+          "label": "Attachments",
+          "value": "10-in-1 kit"
+        },
+        {
+          "label": "Floor rating",
+          "value": "Confirmed sealed stone only"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Detachable handheld steamer",
@@ -176,10 +236,22 @@
       "verdict": "Basic steam cleaning for confirmed sealed surfaces, with two Dirt Grip pads.",
       "description": "The S1000 is a plain steam mop for sealed hard floors and ships with two Dirt Grip pads. It does one job without a scrub function, a handheld or a vacuum.\n\nIt ranks last because the S8001 adds a scrub function for a modest price step. Compared with the 10-in-1, you give up the handheld but gain a recognized brand and a simpler design. Pricing is $50 to $100.\n\nChoose it if you want basic steam cleaning on sealed stone. The caveat: the listing states sealed surfaces only, so confirm your stone sealer is intact and avoid lingering in one spot.",
       "keySpecs": [
-        { "label": "Method", "value": "Steam mop" },
-        { "label": "Pads", "value": "2 Dirt Grip" },
-        { "label": "Floor rating", "value": "Sealed surfaces only" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Method",
+          "value": "Steam mop"
+        },
+        {
+          "label": "Pads",
+          "value": "2 Dirt Grip"
+        },
+        {
+          "label": "Floor rating",
+          "value": "Sealed surfaces only"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Simple, chemical-free steam",
@@ -197,88 +269,203 @@
     }
   ],
   "methodology": [
-    { "title": "Chemistry safety", "description": "Chemical-free steam and pH-neutral compatibility scored highest, since acids etch calcium-based stone." },
-    { "title": "Water control", "description": "Controlled water use limits seepage into grout and under tiles, so it was weighted heavily." },
-    { "title": "Cleaning method", "description": "Steam, handheld steam and wet-dry vacuums were compared for effectiveness on sealed stone." },
-    { "title": "Convenience", "description": "Cordless design, self-cleaning and drying features reduce maintenance after each use." },
-    { "title": "Value", "description": "Price tier against features and floor-rating clarity." }
+    {
+      "title": "Chemistry safety",
+      "description": "Chemical-free steam and pH-neutral compatibility scored highest, since acids etch calcium-based stone."
+    },
+    {
+      "title": "Water control",
+      "description": "Controlled water use limits seepage into grout and under tiles, so it was weighted heavily."
+    },
+    {
+      "title": "Cleaning method",
+      "description": "Steam, handheld steam and wet-dry vacuums were compared for effectiveness on sealed stone."
+    },
+    {
+      "title": "Convenience",
+      "description": "Cordless design, self-cleaning and drying features reduce maintenance after each use."
+    },
+    {
+      "title": "Value",
+      "description": "Price tier against features and floor-rating clarity."
+    }
   ],
   "whatMatters": [
-    { "factor": "Sealed vs unsealed stone", "detail": "Sealer is a protective coating that stops liquids soaking into porous stone. Every pick here is for confirmed sealed stone only. If water beads on the surface, the seal is working; if it darkens and soaks in, stop. Test a hidden corner with a few drops before using any mop." },
-    { "factor": "pH-neutral solution", "detail": "Stone like marble and limestone reacts with acids, so cleaners must sit near pH 7. The Dreame, Bissell and roborock listings call for pH-neutral solution. Check the bottle label for the words pH neutral or stone safe, and avoid vinegar, citrus or generic multi-surface sprays." },
-    { "factor": "Water control", "detail": "Controlled water use means the mop meters liquid onto the floor rather than flooding it. Excess moisture seeps into grout lines and can stain porous stone from below. The Dreame lists controlled water use. Look for adjustable flow or a note about limiting moisture." },
-    { "factor": "Steam vs wet-dry vacuum", "detail": "Steam sanitizes with heat and no chemicals, but only suits intact sealer. Wet-dry vacuums scrub and collect dirty water, but need a compatible solution. Steam is simpler for light cleaning, while vacuums handle debris. Pick based on whether you have pets, hair or heavy foot traffic." },
-    { "factor": "Maintenance features", "detail": "Wet-dry machines need rollers and tanks cleaned, or they smell. Self-cleaning and hot air drying, as on the Dreame H12 PRO, reduce that chore. Steam mops need descaling in hard water areas. Read the manual for cleaning steps before you buy, and count the time you will spend." }
+    {
+      "factor": "Sealed vs unsealed stone",
+      "detail": "Sealer is a protective coating that stops liquids soaking into porous stone. Every pick here is for confirmed sealed stone only. If water beads on the surface, the seal is working; if it darkens and soaks in, stop. Test a hidden corner with a few drops before using any mop."
+    },
+    {
+      "factor": "pH-neutral solution",
+      "detail": "Stone like marble and limestone reacts with acids, so cleaners must sit near pH 7. The Dreame, Bissell and roborock listings call for pH-neutral solution. Check the bottle label for the words pH neutral or stone safe, and avoid vinegar, citrus or generic multi-surface sprays."
+    },
+    {
+      "factor": "Water control",
+      "detail": "Controlled water use means the mop meters liquid onto the floor rather than flooding it. Excess moisture seeps into grout lines and can stain porous stone from below. The Dreame lists controlled water use. Look for adjustable flow or a note about limiting moisture."
+    },
+    {
+      "factor": "Steam vs wet-dry vacuum",
+      "detail": "Steam sanitizes with heat and no chemicals, but only suits intact sealer. Wet-dry vacuums scrub and collect dirty water, but need a compatible solution. Steam is simpler for light cleaning, while vacuums handle debris. Pick based on whether you have pets, hair or heavy foot traffic."
+    },
+    {
+      "factor": "Maintenance features",
+      "detail": "Wet-dry machines need rollers and tanks cleaned, or they smell. Self-cleaning and hot air drying, as on the Dreame H12 PRO, reduce that chore. Steam mops need descaling in hard water areas. Read the manual for cleaning steps before you buy, and count the time you will spend."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Cleaning Method",
       "intro": "Decide between chemical-free steam and vacuum-washing.",
       "table": {
-        "headers": ["Method", "Our pick"],
+        "headers": [
+          "Method",
+          "Our pick"
+        ],
         "rows": [
-          ["Steam and scrub", "Shark Steam & Scrub Steam Mop S8001"],
-          ["Wet-dry vacuum, controlled water", "DREAME H12 PRO Vacuum Mop"],
-          ["Pet-focused wet-dry", "Bissell CrossWave Pet Pro 2306A"],
-          ["Cordless wet-dry", "roborock F25 GT Gen 2"]
+          [
+            "Steam and scrub",
+            "Shark Steam & Scrub Steam Mop S8001"
+          ],
+          [
+            "Wet-dry vacuum, controlled water",
+            "DREAME H12 PRO Vacuum Mop"
+          ],
+          [
+            "Pet-focused wet-dry",
+            "Bissell CrossWave Pet Pro 2306A"
+          ],
+          [
+            "Cordless wet-dry",
+            "roborock F25 GT Gen 2"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100, with handheld", "10-in-1 Steam Mop, Detachable Handheld"],
-          ["$50 to $100, basic", "Shark Steam Mop S1000"],
-          ["$100 to $200", "Shark Steam & Scrub Steam Mop S8001"],
-          ["$200 to $500", "Bissell CrossWave Pet Pro 2306A"]
+          [
+            "$50 to $100, with handheld",
+            "10-in-1 Steam Mop, Detachable Handheld"
+          ],
+          [
+            "$50 to $100, basic",
+            "Shark Steam Mop S1000"
+          ],
+          [
+            "$100 to $200",
+            "Shark Steam & Scrub Steam Mop S8001"
+          ],
+          [
+            "$200 to $500",
+            "Bissell CrossWave Pet Pro 2306A"
+          ]
         ]
       }
     },
     {
       "subheading": "Steam vs Wet-Dry Vacuum",
       "cards": [
-        { "label": "Steam", "text": "No chemicals, simple operation. The Shark S8001, S1000 and 10-in-1 use heat and a pad, which suits light daily cleaning on intact sealer." },
-        { "label": "Wet-dry vacuum", "text": "Picks up debris and dirty water in one pass, but needs pH-neutral solution. The Dreame, Bissell and roborock work this way." }
+        {
+          "label": "Steam",
+          "text": "No chemicals, simple operation. The Shark S8001, S1000 and 10-in-1 use heat and a pad, which suits light daily cleaning on intact sealer."
+        },
+        {
+          "label": "Wet-dry vacuum",
+          "text": "Picks up debris and dirty water in one pass, but needs pH-neutral solution. The Dreame, Bissell and roborock work this way."
+        }
       ],
       "note": "Choose steam for chemical-free simplicity and a vacuum for hair and mess."
     },
     {
       "subheading": "By Household",
       "table": {
-        "headers": ["Household", "Our pick"],
+        "headers": [
+          "Household",
+          "Our pick"
+        ],
         "rows": [
-          ["Pets", "Bissell CrossWave Pet Pro 2306A"],
-          ["Busy family, mixed mess", "DREAME H12 PRO Vacuum Mop"],
-          ["Minimal chemicals", "Shark Steam & Scrub Steam Mop S8001"],
-          ["Cordless preference", "roborock F25 GT Gen 2"]
+          [
+            "Pets",
+            "Bissell CrossWave Pet Pro 2306A"
+          ],
+          [
+            "Busy family, mixed mess",
+            "DREAME H12 PRO Vacuum Mop"
+          ],
+          [
+            "Minimal chemicals",
+            "Shark Steam & Scrub Steam Mop S8001"
+          ],
+          [
+            "Cordless preference",
+            "roborock F25 GT Gen 2"
+          ]
         ]
       }
     },
     {
       "subheading": "For Marble and Travertine Specifically",
       "cards": [
-        { "label": "Look for", "text": "Confirmed sealed stone rating, chemical-free steam or pH-neutral solution, and limited water output." },
-        { "label": "In this ranking", "text": "The Shark S8001 cleans without chemistry, and the Dreame H12 PRO pairs controlled water with pH-neutral solution." }
+        {
+          "label": "Look for",
+          "text": "Confirmed sealed stone rating, chemical-free steam or pH-neutral solution, and limited water output."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Shark S8001 cleans without chemistry, and the Dreame H12 PRO pairs controlled water with pH-neutral solution."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "Pets or heavy traffic create daily messes. The Bissell at $200 to $500 is built for them." },
-        { "label": "Save if", "text": "Floors only need light cleaning. The Shark S1000 or 10-in-1 at $50 to $100 is enough." }
+        {
+          "label": "Spend more if",
+          "text": "Pets or heavy traffic create daily messes. The Bissell at $200 to $500 is built for them."
+        },
+        {
+          "label": "Save if",
+          "text": "Floors only need light cleaning. The Shark S1000 or 10-in-1 at $50 to $100 is enough."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can I use a steam mop on marble?", "a": "Only on confirmed sealed marble. The Shark S8001 is listed for sealed stone only, and steam on unsealed marble can darken or dull it. Test a hidden area, then keep the mop moving rather than parking it." },
-    { "q": "What is the biggest mistake with stone floors?", "a": "Using vinegar or an all-purpose spray. Acids etch calcium-based stone. With the Dreame, Bissell or roborock, use only pH-neutral solution, and skip lemon or citrus products entirely." },
-    { "q": "Is a wet-dry vacuum worth it over steam?", "a": "If you have pets or heavy traffic, yes. The Bissell CrossWave picks up hair and spills together. For light cleaning, the Shark S8001 steam mop is simpler and avoids buying solution." },
-    { "q": "How do I set up for stone safely?", "a": "Fill the tank with the correct water or pH-neutral solution, start on a hidden corner, and check for dulling or darkening. On the Dreame H12 PRO, confirm the controlled water setting before the first full pass." },
-    { "q": "How do I maintain a wet-dry mop?", "a": "Empty the dirty tank after every use, rinse the roller, and let it dry. The Dreame's hot air drying helps prevent odors. For steam models like the S1000, descale if your water is hard." },
-    { "q": "What if my stone is unsealed?", "a": "Do not use any of these. Unsealed stone absorbs moisture and stains. Seal it first, or use a dry dust mop and a barely damp pH-neutral cloth by hand until a sealer is applied." }
+    {
+      "q": "Can I use a steam mop on marble?",
+      "a": "Only on confirmed sealed marble. The Shark S8001 is listed for sealed stone only, and steam on unsealed marble can darken or dull it. Test a hidden area, then keep the mop moving rather than parking it."
+    },
+    {
+      "q": "What is the biggest mistake with stone floors?",
+      "a": "Using vinegar or an all-purpose spray. Acids etch calcium-based stone. With the Dreame, Bissell or roborock, use only pH-neutral solution, and skip lemon or citrus products entirely."
+    },
+    {
+      "q": "Is a wet-dry vacuum worth it over steam?",
+      "a": "If you have pets or heavy traffic, yes. The Bissell CrossWave picks up hair and spills together. For light cleaning, the Shark S8001 steam mop is simpler and avoids buying solution."
+    },
+    {
+      "q": "How do I set up for stone safely?",
+      "a": "Fill the tank with the correct water or pH-neutral solution, start on a hidden corner, and check for dulling or darkening. On the Dreame H12 PRO, confirm the controlled water setting before the first full pass."
+    },
+    {
+      "q": "How do I maintain a wet-dry mop?",
+      "a": "Empty the dirty tank after every use, rinse the roller, and let it dry. The Dreame's hot air drying helps prevent odors. For steam models like the S1000, descale if your water is hard."
+    },
+    {
+      "q": "What if my stone is unsealed?",
+      "a": "Do not use any of these. Unsealed stone absorbs moisture and stains. Seal it first, or use a dry dust mop and a barely damp pH-neutral cloth by hand until a sealer is applied."
+    }
   ],
   "finalTake": "The Shark S8001 is the safest electric mop for sealed stone floors, since it cleans with steam and avoids acidic chemistry. Pick the DREAME H12 PRO if you want vacuum-and-wash with controlled water, and the Bissell CrossWave if pets share the floor. In every case, confirm the sealer before the first pass.",
-  "related": []
+  "related": [
+    "best-electric-mops-for-laminate-floors",
+    "best-electric-mops-for-tile-floors",
+    "best-cordless-electric-mops"
+  ]
 }

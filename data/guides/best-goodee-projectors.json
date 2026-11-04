@@ -26,10 +26,22 @@
       "verdict": "The fullest GooDee spec sheet, with WiFi 6, TOF auto focus and built-in streaming apps.",
       "description": "This is GooDee's most complete listing: a smart projector with built-in streaming apps, 5G WiFi 6, Bluetooth, ultra-bright cinema and HDR visuals and TOF auto focus with a smart screen. TOF focus uses a distance sensor, so the picture sharpens itself when you move the projector instead of making you turn a ring in the dark.\n\nIt leads because no other GooDee here documents both a modern wireless standard and a sensor-based focus system. It costs the most, in the $200 to $500 bucket, and the 4K label is a title claim, not a native-resolution spec.\n\nBuy it for a living room that will see regular movie nights. Skip it if you want a stated native resolution.",
       "keySpecs": [
-        {"label": "Wireless", "value": "5G WiFi 6, Bluetooth"},
-        {"label": "Focus", "value": "TOF auto focus"},
-        {"label": "Software", "value": "Built-in streaming apps"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Wireless",
+          "value": "5G WiFi 6, Bluetooth"
+        },
+        {
+          "label": "Focus",
+          "value": "TOF auto focus"
+        },
+        {
+          "label": "Software",
+          "value": "Built-in streaming apps"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "WiFi 6 for stable streaming",
@@ -56,10 +68,22 @@
       "verdict": "A mini projector with Google TV, voice control and a stated native 1920x1080 picture.",
       "description": "This mini lists streaming with Google TV, the Google voice assistant and native 1920x1080 resolution. Google TV is the interface most people already know from a TV stick, so setup is a login, not a learning curve, and voice search saves typing with a remote.\n\nIt places second because the 4K flagship adds a sensor focus system and WiFi 6, while this one is the more honest on resolution, naming a true native figure. It sits in the $100 to $200 bucket, half the cost of the leader.\n\nIt suits families who care about a simple interface and a documented 1080p picture. Skip it if you want auto focus detail, which the listing leaves unclear.",
       "keySpecs": [
-        {"label": "Software", "value": "Google TV"},
-        {"label": "Voice", "value": "Google voice assistant"},
-        {"label": "Resolution", "value": "Native 1920x1080"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Software",
+          "value": "Google TV"
+        },
+        {
+          "label": "Voice",
+          "value": "Google voice assistant"
+        },
+        {
+          "label": "Resolution",
+          "value": "Native 1920x1080"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Familiar Google TV interface",
@@ -86,10 +110,22 @@
       "verdict": "A 4K-titled smart projector that streams without an extra stick, for less than the WiFi 6 model.",
       "description": "This is the older sibling of the flagship, a 4K-titled smart projector with 5G WiFi and Bluetooth that streams without an extra device. The listing also talks about ending the struggle of manual focus, which suggests an automatic system, though it does not name the technology.\n\nIt sits third because the WiFi 6 version names its sensor focus and HDR visuals, while this one leaves those details vague. It drops a full price bucket, $100 to $200, so it is the easy compromise.\n\nBuy it to get the main experience for less money. Skip it if you want the wireless standard or focus system documented.",
       "keySpecs": [
-        {"label": "Wireless", "value": "5G WiFi, Bluetooth"},
-        {"label": "Software", "value": "Built-in streaming"},
-        {"label": "Focus", "value": "Hands-free, unnamed"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Wireless",
+          "value": "5G WiFi, Bluetooth"
+        },
+        {
+          "label": "Software",
+          "value": "Built-in streaming"
+        },
+        {
+          "label": "Focus",
+          "value": "Hands-free, unnamed"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Streams without an extra stick",
@@ -116,10 +152,22 @@
       "verdict": "The YG600-Mini, a smart streaming mini with instant focus and AI optical technology.",
       "description": "The AI Smart Mini is the YG600-Mini, running a smart streaming system with instant sharpening and what the listing calls advanced AI optical technology. Treat AI in a projector listing carefully: it usually means automatic correction of focus or keystone, which helps, but the listing does not say what is automated.\n\nIt lands fourth because the Google TV mini states a native resolution and the 4K models show more sensor detail. It is sized for portability at $100 to $200, level with the older 4K model.\n\nChoose it if you want a small projector that sets itself up. Skip it if you want the resolution and brightness stated.",
       "keySpecs": [
-        {"label": "Model", "value": "YG600-Mini"},
-        {"label": "Software", "value": "Smart streaming system"},
-        {"label": "Focus", "value": "Instant sharpening"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Model",
+          "value": "YG600-Mini"
+        },
+        {
+          "label": "Software",
+          "value": "Smart streaming system"
+        },
+        {
+          "label": "Focus",
+          "value": "Instant sharpening"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Automatic sharpening claimed",
@@ -146,10 +194,22 @@
       "verdict": "The cheapest GooDee here, with built-in apps and a stable WiFi connection.",
       "description": "The entry-level mini lists built-in apps, a stable WiFi connection and Bluetooth, and nothing about focus, resolution or brightness. Its job is to be the cheapest way into a GooDee, in the $50 to $100 bucket.\n\nIt finishes fifth because the listing gives you the least to check, and the Google TV mini costs only a bucket more while naming a native 1920x1080 picture. At this price, expect a smaller, dimmer picture best suited to a dark room, since the listing makes no brightness promise.\n\nA fit for a bedroom wall or a child's room. Skip it for a living room or any room with daylight.",
       "keySpecs": [
-        {"label": "Software", "value": "Built-in apps"},
-        {"label": "Wireless", "value": "WiFi, Bluetooth"},
-        {"label": "Connection", "value": "Stable WiFi pitched"},
-        {"label": "Price band", "value": "$50 to $100"}
+        {
+          "label": "Software",
+          "value": "Built-in apps"
+        },
+        {
+          "label": "Wireless",
+          "value": "WiFi, Bluetooth"
+        },
+        {
+          "label": "Connection",
+          "value": "Stable WiFi pitched"
+        },
+        {
+          "label": "Price band",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Lowest price in the group",
@@ -167,11 +227,26 @@
     }
   ],
   "methodology": [
-    {"title": "Stated resolution", "description": "Listings that name a native resolution scored above those that only put 4K in the title."},
-    {"title": "Focus system", "description": "Sensor-based auto focus was credited over unnamed or manual focus, since a sharp picture is the base of everything else."},
-    {"title": "Streaming interface", "description": "We compared Google TV, built-in app systems and unnamed platforms for ease of use at a family level."},
-    {"title": "Wireless standard", "description": "WiFi 6 and 5G WiFi support were weighed for streaming stability, with Bluetooth as a secondary factor."},
-    {"title": "Value within GooDee", "description": "Each model was weighed against its price bucket and against its nearest GooDee sibling."}
+    {
+      "title": "Stated resolution",
+      "description": "Listings that name a native resolution scored above those that only put 4K in the title."
+    },
+    {
+      "title": "Focus system",
+      "description": "Sensor-based auto focus was credited over unnamed or manual focus, since a sharp picture is the base of everything else."
+    },
+    {
+      "title": "Streaming interface",
+      "description": "We compared Google TV, built-in app systems and unnamed platforms for ease of use at a family level."
+    },
+    {
+      "title": "Wireless standard",
+      "description": "WiFi 6 and 5G WiFi support were weighed for streaming stability, with Bluetooth as a secondary factor."
+    },
+    {
+      "title": "Value within GooDee",
+      "description": "Each model was weighed against its price bucket and against its nearest GooDee sibling."
+    }
   ],
   "whatMatters": [
     {
@@ -200,61 +275,130 @@
       "subheading": "By Priority",
       "intro": "Start with the feature you would miss most.",
       "table": {
-        "headers": ["What matters most", "Our pick"],
+        "headers": [
+          "What matters most",
+          "Our pick"
+        ],
         "rows": [
-          ["Best overall spec sheet", "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"],
-          ["Familiar interface and voice", "GOODEE Mini Projector Built-in Apps"],
-          ["4K title at a lower price", "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"],
-          ["Self-setting portable", "GooDee AI Smart Mini Projector with WiFi & Bluetooth"],
-          ["Lowest price", "GOODEE Mini Projector with WiFi and Bluetooth"]
+          [
+            "Best overall spec sheet",
+            "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"
+          ],
+          [
+            "Familiar interface and voice",
+            "GOODEE Mini Projector Built-in Apps"
+          ],
+          [
+            "4K title at a lower price",
+            "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"
+          ],
+          [
+            "Self-setting portable",
+            "GooDee AI Smart Mini Projector with WiFi & Bluetooth"
+          ],
+          [
+            "Lowest price",
+            "GOODEE Mini Projector with WiFi and Bluetooth"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "GOODEE Mini Projector with WiFi and Bluetooth"],
-          ["$100 to $200, interface", "GOODEE Mini Projector Built-in Apps"],
-          ["$100 to $200, 4K title", "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"],
-          ["$100 to $200, portable", "GooDee AI Smart Mini Projector with WiFi & Bluetooth"],
-          ["$200 to $500", "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"]
+          [
+            "$50 to $100",
+            "GOODEE Mini Projector with WiFi and Bluetooth"
+          ],
+          [
+            "$100 to $200, interface",
+            "GOODEE Mini Projector Built-in Apps"
+          ],
+          [
+            "$100 to $200, 4K title",
+            "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"
+          ],
+          [
+            "$100 to $200, portable",
+            "GooDee AI Smart Mini Projector with WiFi & Bluetooth"
+          ],
+          [
+            "$200 to $500",
+            "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"
+          ]
         ]
       }
     },
     {
       "subheading": "Mini vs Full-Size 4K",
       "cards": [
-        {"label": "Mini", "text": "Smaller and more portable, often with a stated native 1080p. Picks: GOODEE Mini Projector Built-in Apps, AI Smart Mini and the GOODEE Mini with WiFi and Bluetooth."},
-        {"label": "4K model", "text": "Larger, with more wireless and focus detail in the listing. Picks: GooDee 4K Smart Projector with 5G WiFi 6 and the 5G WiFi version."}
+        {
+          "label": "Mini",
+          "text": "Smaller and more portable, often with a stated native 1080p. Picks: GOODEE Mini Projector Built-in Apps, AI Smart Mini and the GOODEE Mini with WiFi and Bluetooth."
+        },
+        {
+          "label": "4K model",
+          "text": "Larger, with more wireless and focus detail in the listing. Picks: GooDee 4K Smart Projector with 5G WiFi 6 and the 5G WiFi version."
+        }
       ],
       "note": "Default to a mini for a bedroom and a 4K-titled model for a main living room."
     },
     {
       "subheading": "By Focus Method",
       "table": {
-        "headers": ["Focus", "Our pick"],
+        "headers": [
+          "Focus",
+          "Our pick"
+        ],
         "rows": [
-          ["TOF auto focus", "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"],
-          ["Hands-free, unnamed", "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"],
-          ["Instant sharpening", "GooDee AI Smart Mini Projector with WiFi & Bluetooth"],
-          ["Not described", "GOODEE Mini Projector with WiFi and Bluetooth"]
+          [
+            "TOF auto focus",
+            "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"
+          ],
+          [
+            "Hands-free, unnamed",
+            "GooDee 4K Smart Projector with 5G WiFi & Bluetooth"
+          ],
+          [
+            "Instant sharpening",
+            "GooDee AI Smart Mini Projector with WiFi & Bluetooth"
+          ],
+          [
+            "Not described",
+            "GOODEE Mini Projector with WiFi and Bluetooth"
+          ]
         ]
       }
     },
     {
       "subheading": "For Family Movie Nights Specifically",
       "cards": [
-        {"label": "Look for", "text": "A familiar streaming interface, a stable wireless connection and automatic focus. Plan on a darkened room."},
-        {"label": "In this ranking", "text": "The GOODEE Mini with Google TV for a simple interface, and the WiFi 6 model for the best overall experience."}
+        {
+          "label": "Look for",
+          "text": "A familiar streaming interface, a stable wireless connection and automatic focus. Plan on a darkened room."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The GOODEE Mini with Google TV for a simple interface, and the WiFi 6 model for the best overall experience."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You want the sharpest, easiest setup. The GooDee 4K with WiFi 6 adds TOF focus and cinema-style visuals at the $200 to $500 bucket."},
-        {"label": "Save if", "text": "You just need a bedroom projector. The GOODEE Mini with WiFi and Bluetooth sits at $50 to $100."}
+        {
+          "label": "Spend more if",
+          "text": "You want the sharpest, easiest setup. The GooDee 4K with WiFi 6 adds TOF focus and cinema-style visuals at the $200 to $500 bucket."
+        },
+        {
+          "label": "Save if",
+          "text": "You just need a bedroom projector. The GOODEE Mini with WiFi and Bluetooth sits at $50 to $100."
+        }
       ]
     }
   ],
@@ -285,5 +429,9 @@
     }
   ],
   "finalTake": "The GooDee 4K Smart Projector with 5G WiFi 6 is the best GooDee here because it documents TOF auto focus, a modern wireless standard and built-in streaming. The GOODEE Mini with Google TV is the smart alternative for a simple interface and a stated native 1080p. Treat 4K in any title as a label, not a measurement. Match the model to the room: a dark bedroom needs less than a main living room.",
-  "related": []
+  "related": [
+    "best-1080p-projectors",
+    "best-dangbei-projectors",
+    "best-fudoni-projectors"
+  ]
 }

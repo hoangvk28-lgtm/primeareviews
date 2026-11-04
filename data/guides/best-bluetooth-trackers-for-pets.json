@@ -26,10 +26,22 @@
       "verdict": "Android and iPhone support, 7-day route playback and QR path sharing with no monthly fee.",
       "description": "Knvieeu works with Android and iPhone through its free DEONETAG app. It keeps seven days of route playback, shares paths via an encrypted QR code, carries an IP68 water rating and needs no SIM or monthly fee. It sits in the under $25 bracket.\n\nRoute playback is the feature that earns first place. When a dog goes missing, knowing where it travelled in the last week helps you search the right streets, and only the Knvieeu offers it to Android and iPhone owners alike. Phone support for both platforms also suits a household with mixed devices, which is common.\n\nBest for dog owners in mixed iPhone and Android homes. The caveat is that the tag relies on its own app, which is less widely used than the big networks.",
       "keySpecs": [
-        {"label": "Phones", "value": "Android and iPhone"},
-        {"label": "History", "value": "7-day route playback"},
-        {"label": "Water rating", "value": "IP68"},
-        {"label": "Sharing", "value": "Encrypted QR code"}
+        {
+          "label": "Phones",
+          "value": "Android and iPhone"
+        },
+        {
+          "label": "History",
+          "value": "7-day route playback"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "Sharing",
+          "value": "Encrypted QR code"
+        }
       ],
       "pros": [
         "Works with Android and iPhone",
@@ -56,10 +68,22 @@
       "verdict": "A breakaway collar with a built-in tag on Apple Find My or Google Find Hub. IP68 and CR2032.",
       "description": "Vebiso builds the tracker into a breakaway collar that is cut to fit small and medium cats. Setup picks Apple Find My or Google Find Hub, and the tag has an IP68 water rating and a replaceable CR2032 battery. It is sold as a single or a two-pack, in the $25 to $50 bucket.\n\nThe breakaway buckle is the key safety feature for a cat, because a collar that cannot release can snag on a branch or fence. Using the big networks, it also draws on the largest base of nearby phones. It ranks behind the Knvieeu because it has no route playback or safe-zone feature in the listing, and only suits cats up to medium size.\n\nA good fit for cat owners on iPhone or Android. The caveat is that it is not for large cats.",
       "keySpecs": [
-        {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
-        {"label": "Water rating", "value": "IP68"},
-        {"label": "Battery", "value": "Replaceable CR2032"},
-        {"label": "Collar", "value": "Breakaway, cut to fit"}
+        {
+          "label": "Networks",
+          "value": "Apple Find My or Google Find Hub"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable CR2032"
+        },
+        {
+          "label": "Collar",
+          "value": "Breakaway, cut to fit"
+        }
       ],
       "pros": [
         "Breakaway buckle for safety",
@@ -86,10 +110,22 @@
       "verdict": "A plain, waterproof Google Find Hub tag in a soft silicone case, with up to 12 months standby.",
       "description": "Usthorin pairs a soft silicone case with an IP68 water rating and a replaceable CR2032 battery listed at up to 12 months of standby. It works through the Google Find Hub app and lists Android and iOS support. It falls in the $25 to $50 bucket.\n\nIt keeps things simple. A swappable coin cell means you never wait on a charger, and a year of standby is long enough to forget about between changes. It ranks third because it relies on the Google network, which is strongest on Android, and it has no safe-zone or history features in its listing, while the Knvieeu and Nilone both add alerts or playback.\n\nBest for Android households with a dog. The caveat is that the iOS listing is brief, so verify before you buy for an iPhone.",
       "keySpecs": [
-        {"label": "App", "value": "Google Find Hub"},
-        {"label": "Water rating", "value": "IP68"},
-        {"label": "Battery", "value": "Replaceable CR2032, 12 months standby"},
-        {"label": "Case", "value": "Soft silicone"}
+        {
+          "label": "App",
+          "value": "Google Find Hub"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable CR2032, 12 months standby"
+        },
+        {
+          "label": "Case",
+          "value": "Soft silicone"
+        }
       ],
       "pros": [
         "Up to 12 months standby",
@@ -116,10 +152,22 @@
       "verdict": "Apple Find My with custom safe zones, location history and a magnetic case. No subscription.",
       "description": "Nilone uses Apple Find My on iOS and carries an IP68 water rating, a magnetic protective case with a holder, custom safe zone reminders and location history. The listing states no subscription. It sits in the under $25 bracket.\n\nIt is the best value for an iPhone household, since it adds safe-zone reminders and history at the lowest price bucket alongside the Knvieeu. It ranks fourth because it works only with iPhone, and because a magnetic holder asks you to trust the clasp on a dog that swims or runs through brush. Check how securely it attaches to a collar.\n\nChoose it for an iPhone family with a dog that roams. The caveat is the iOS-only support.",
       "keySpecs": [
-        {"label": "Network", "value": "Apple Find My (iOS)"},
-        {"label": "Water rating", "value": "IP68"},
-        {"label": "Alerts", "value": "Custom safe zones"},
-        {"label": "Subscription", "value": "None"}
+        {
+          "label": "Network",
+          "value": "Apple Find My (iOS)"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "Alerts",
+          "value": "Custom safe zones"
+        },
+        {
+          "label": "Subscription",
+          "value": "None"
+        }
       ],
       "pros": [
         "Custom safe-zone reminders",
@@ -146,10 +194,22 @@
       "verdict": "A 0.2 ounce Find My tag with a cat collar, virtual fence alerts and location history.",
       "description": "ZFSJTAG weighs 0.2 ounces, works on Apple Find My for iOS, and ships with a cat collar, the tracker and a manual. It adds virtual fence alerts for a safe area and location history in the app. It sits in the $25 to $50 bucket.\n\nWeight is the argument. At 0.2 ounces it suits a small or indoor cat that would barely notice a collar, and the fence alert flags the moment a cat leaves its zone. It ranks below the Nilone since it costs more and lists no water rating, which is a gap for outdoor use. It also works only with iPhone.\n\nGood for a small or indoor cat in an iPhone home. The caveat is the missing water rating.",
       "keySpecs": [
-        {"label": "Network", "value": "Apple Find My (iOS only)"},
-        {"label": "Weight", "value": "0.2 oz"},
-        {"label": "Alerts", "value": "Safe area fence"},
-        {"label": "In the box", "value": "Cat collar, tracker, manual"}
+        {
+          "label": "Network",
+          "value": "Apple Find My (iOS only)"
+        },
+        {
+          "label": "Weight",
+          "value": "0.2 oz"
+        },
+        {
+          "label": "Alerts",
+          "value": "Safe area fence"
+        },
+        {
+          "label": "In the box",
+          "value": "Cat collar, tracker, manual"
+        }
       ],
       "pros": [
         "Very light at 0.2 ounces",
@@ -176,10 +236,22 @@
       "verdict": "Find My with a stated 10 to 70 meter Bluetooth link, 7-day history and safe zones. The water rating is unclear.",
       "description": "Focushine works with Apple Find My on iOS 15.4 and later without a separate app. It states a Bluetooth link of 10 to 70 meters, 7-day movement history and custom safe zones, in a mini lightweight body. The price falls under $25.\n\nIt is the only listing here that puts a number on Bluetooth range, which is useful for setting expectations. It ranks last, though, because the water rating conflicts between IP67 and IP68 across the listing, and when a seller cannot agree with itself on one number, it is hard to trust the claim. It is also iPhone only.\n\nA reasonable budget pick for dogs and cats in iPhone homes. The caveat is that you should treat the water rating as unverified.",
       "keySpecs": [
-        {"label": "Network", "value": "Apple Find My, iOS 15.4+"},
-        {"label": "Bluetooth link", "value": "10 to 70 meters"},
-        {"label": "History", "value": "7-day movement"},
-        {"label": "Alerts", "value": "Custom safe zones"}
+        {
+          "label": "Network",
+          "value": "Apple Find My, iOS 15.4+"
+        },
+        {
+          "label": "Bluetooth link",
+          "value": "10 to 70 meters"
+        },
+        {
+          "label": "History",
+          "value": "7-day movement"
+        },
+        {
+          "label": "Alerts",
+          "value": "Custom safe zones"
+        }
       ],
       "pros": [
         "States a 10 to 70 m range",
@@ -197,88 +269,203 @@
     }
   ],
   "methodology": [
-    {"title": "Phone network", "description": "Apple Find My, Google Find Hub and proprietary apps differ in reach. We scored which phones each tag supports."},
-    {"title": "Water resistance", "description": "A pet tag gets wet. We compared stated IP ratings and marked down missing or conflicting ones."},
-    {"title": "Alerts and history", "description": "Safe-zone reminders and route or movement history make a tag far more useful than a plain beeper."},
-    {"title": "Fit and safety", "description": "Breakaway collars, silicone cases and light weights matter for cats and small dogs."},
-    {"title": "Battery and cost", "description": "Replaceable coin cells and no-subscription pricing keep the cost of ownership low."}
+    {
+      "title": "Phone network",
+      "description": "Apple Find My, Google Find Hub and proprietary apps differ in reach. We scored which phones each tag supports."
+    },
+    {
+      "title": "Water resistance",
+      "description": "A pet tag gets wet. We compared stated IP ratings and marked down missing or conflicting ones."
+    },
+    {
+      "title": "Alerts and history",
+      "description": "Safe-zone reminders and route or movement history make a tag far more useful than a plain beeper."
+    },
+    {
+      "title": "Fit and safety",
+      "description": "Breakaway collars, silicone cases and light weights matter for cats and small dogs."
+    },
+    {
+      "title": "Battery and cost",
+      "description": "Replaceable coin cells and no-subscription pricing keep the cost of ownership low."
+    }
   ],
   "whatMatters": [
-    {"factor": "Phone network", "detail": "A Bluetooth tag finds your pet through nearby phones. Apple Find My, Google Find Hub and a private app each have a different crowd of helpers, and a private app has the smallest. Check which network the tag uses, and match it to the phones in your home before reading any other feature, since a tag your family's phones cannot see is just a collar charm."},
-    {"factor": "Water rating", "detail": "Dogs swim, cats get rained on, and an unrated tag can fail after one soaking. IP68 is the strongest rating listed here, appearing on the Knvieeu, Vebiso, Usthorin and Nilone. Look for an explicit IP number, and be wary of listings that quote two different figures, as Focushine does, because a seller that cannot agree with itself offers little proof of the rating."},
-    {"factor": "Safe zones and history", "detail": "A safe zone alerts you when the tag leaves an area, such as your yard, and history shows where a pet has been. Knvieeu keeps seven days of routes, Nilone offers zones and history, and Focushine lists seven days of movement. Check what the alerts require from your phone, such as always-on Bluetooth and location permission, which drain a phone battery faster than you may expect."},
-    {"factor": "Collar fit and safety", "detail": "Cats need a breakaway buckle that releases under a snag, and small pets need a light tag. Vebiso fits small and medium cats and ZFSJTAG weighs 0.2 ounces. For dogs, look for a case or holder that clips firmly to a collar, and avoid weak clasps that a swimming dog could shake loose, and test the fit by tugging the tag hard before every long outing."},
-    {"factor": "Battery and subscription", "detail": "Most Bluetooth tags use a replaceable CR2032 battery, and Usthorin lists up to 12 months of standby. The point of this category is no subscription, which Knvieeu and Nilone state outright. Check the battery type, and look for any hidden app fee before assuming everything is free, because some pet apps lock features such as history behind a paid tier."}
+    {
+      "factor": "Phone network",
+      "detail": "A Bluetooth tag finds your pet through nearby phones. Apple Find My, Google Find Hub and a private app each have a different crowd of helpers, and a private app has the smallest. Check which network the tag uses, and match it to the phones in your home before reading any other feature, since a tag your family's phones cannot see is just a collar charm."
+    },
+    {
+      "factor": "Water rating",
+      "detail": "Dogs swim, cats get rained on, and an unrated tag can fail after one soaking. IP68 is the strongest rating listed here, appearing on the Knvieeu, Vebiso, Usthorin and Nilone. Look for an explicit IP number, and be wary of listings that quote two different figures, as Focushine does, because a seller that cannot agree with itself offers little proof of the rating."
+    },
+    {
+      "factor": "Safe zones and history",
+      "detail": "A safe zone alerts you when the tag leaves an area, such as your yard, and history shows where a pet has been. Knvieeu keeps seven days of routes, Nilone offers zones and history, and Focushine lists seven days of movement. Check what the alerts require from your phone, such as always-on Bluetooth and location permission, which drain a phone battery faster than you may expect."
+    },
+    {
+      "factor": "Collar fit and safety",
+      "detail": "Cats need a breakaway buckle that releases under a snag, and small pets need a light tag. Vebiso fits small and medium cats and ZFSJTAG weighs 0.2 ounces. For dogs, look for a case or holder that clips firmly to a collar, and avoid weak clasps that a swimming dog could shake loose, and test the fit by tugging the tag hard before every long outing."
+    },
+    {
+      "factor": "Battery and subscription",
+      "detail": "Most Bluetooth tags use a replaceable CR2032 battery, and Usthorin lists up to 12 months of standby. The point of this category is no subscription, which Knvieeu and Nilone state outright. Check the battery type, and look for any hidden app fee before assuming everything is free, because some pet apps lock features such as history behind a paid tier."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Phone Type",
       "intro": "Start with the phones in your household. That choice alone narrows the field.",
       "table": {
-        "headers": ["Your phones", "Our pick"],
+        "headers": [
+          "Your phones",
+          "Our pick"
+        ],
         "rows": [
-          ["iPhone and Android mixed", "Knvieeu Dog Tracker with Holder, No SIM Card"],
-          ["iPhone or Android, cat", "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"],
-          ["Android, dog", "Usthorin Dog Tracker Collar Pet Finder Tag"],
-          ["iPhone, dog", "Nilone Dog Tracker with Magnetic Holder"]
+          [
+            "iPhone and Android mixed",
+            "Knvieeu Dog Tracker with Holder, No SIM Card"
+          ],
+          [
+            "iPhone or Android, cat",
+            "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"
+          ],
+          [
+            "Android, dog",
+            "Usthorin Dog Tracker Collar Pet Finder Tag"
+          ],
+          [
+            "iPhone, dog",
+            "Nilone Dog Tracker with Magnetic Holder"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, mixed phones", "Knvieeu Dog Tracker with Holder, No SIM Card"],
-          ["Under $25, iPhone with zones", "Nilone Dog Tracker with Magnetic Holder"],
-          ["$25 to $50, cat collar", "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"],
-          ["$25 to $50, small cat", "ZFSJTAG Mini Pet Tracker with Cat Collar, Find My"]
+          [
+            "Under $25, mixed phones",
+            "Knvieeu Dog Tracker with Holder, No SIM Card"
+          ],
+          [
+            "Under $25, iPhone with zones",
+            "Nilone Dog Tracker with Magnetic Holder"
+          ],
+          [
+            "$25 to $50, cat collar",
+            "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"
+          ],
+          [
+            "$25 to $50, small cat",
+            "ZFSJTAG Mini Pet Tracker with Cat Collar, Find My"
+          ]
         ]
       }
     },
     {
       "subheading": "Crowd Network vs Own App",
       "cards": [
-        {"label": "Crowd network", "text": "Vebiso, Usthorin, Nilone and ZFSJTAG use Apple Find My or Google Find Hub, which draw on millions of nearby phones."},
-        {"label": "Own app", "text": "Knvieeu uses the DEONETAG app with route playback and QR sharing, trading reach for extra features."}
+        {
+          "label": "Crowd network",
+          "text": "Vebiso, Usthorin, Nilone and ZFSJTAG use Apple Find My or Google Find Hub, which draw on millions of nearby phones."
+        },
+        {
+          "label": "Own app",
+          "text": "Knvieeu uses the DEONETAG app with route playback and QR sharing, trading reach for extra features."
+        }
       ],
       "note": "Default to a crowd network if your pet roams where people walk; pick Knvieeu for history and mixed phones."
     },
     {
       "subheading": "By Pet Type",
       "table": {
-        "headers": ["Pet", "Our pick"],
+        "headers": [
+          "Pet",
+          "Our pick"
+        ],
         "rows": [
-          ["Small or medium cat", "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"],
-          ["Indoor or tiny cat", "ZFSJTAG Mini Pet Tracker with Cat Collar, Find My"],
-          ["Dog that swims", "Nilone Dog Tracker with Magnetic Holder"],
-          ["Dog or cat, stated range", "Focushine Mini Pet Tracker for Dogs and Cats"]
+          [
+            "Small or medium cat",
+            "Vebiso Bluetooth Cat Tracker Collar, iOS and Android"
+          ],
+          [
+            "Indoor or tiny cat",
+            "ZFSJTAG Mini Pet Tracker with Cat Collar, Find My"
+          ],
+          [
+            "Dog that swims",
+            "Nilone Dog Tracker with Magnetic Holder"
+          ],
+          [
+            "Dog or cat, stated range",
+            "Focushine Mini Pet Tracker for Dogs and Cats"
+          ]
         ]
       }
     },
     {
       "subheading": "For Roaming Pets Specifically",
       "cards": [
-        {"label": "Look for", "text": "A crowd network, a strong water rating and safe-zone alerts that tell you the moment a pet leaves home."},
-        {"label": "In this ranking", "text": "Nilone pairs Find My with safe zones; Vebiso pairs a breakaway collar with either major network."}
+        {
+          "label": "Look for",
+          "text": "A crowd network, a strong water rating and safe-zone alerts that tell you the moment a pet leaves home."
+        },
+        {
+          "label": "In this ranking",
+          "text": "Nilone pairs Find My with safe zones; Vebiso pairs a breakaway collar with either major network."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You want two tags for two pets or a cat collar with a network choice, which points to the Vebiso in the $25 to $50 bucket."},
-        {"label": "Save if", "text": "You have one dog and an iPhone; the Nilone is in the under $25 bucket."}
+        {
+          "label": "Spend more if",
+          "text": "You want two tags for two pets or a cat collar with a network choice, which points to the Vebiso in the $25 to $50 bucket."
+        },
+        {
+          "label": "Save if",
+          "text": "You have one dog and an iPhone; the Nilone is in the under $25 bucket."
+        }
       ]
     }
   ],
   "faq": [
-    {"q": "Can a Bluetooth tracker find a lost pet like a GPS collar?", "a": "Not in the same way. These tags rely on nearby phones, so they work best in neighbourhoods. The Knvieeu, with no SIM and no fee, shows past routes, but a rural escape may need a cellular GPS collar."},
-    {"q": "What is the most common mistake?", "a": "Buying a tag for the wrong phone. The Nilone, ZFSJTAG and Focushine are iOS only, so an Android owner in the house cannot use them. Match the network to every phone that will search."},
-    {"q": "Is the Vebiso worth it over the Knvieeu for a cat?", "a": "Yes for cats. The Vebiso's breakaway buckle is a safety feature the Knvieeu lacks, and it works with both major networks. Pick the Knvieeu for a dog that needs history."},
-    {"q": "How do I attach a tracker to a collar?", "a": "Use the case or holder that ships with the tag, such as Nilone's magnetic holder or Usthorin's silicone case, and check it cannot slip off. For cats, use a breakaway collar like the Vebiso."},
-    {"q": "How do I maintain the battery?", "a": "Replace the CR2032 coin cell in the Vebiso or Usthorin when the app warns of low power. Usthorin lists up to 12 months of standby. Keep a spare, and check the tag after swimming."},
-    {"q": "Are these safe for puppies or kittens?", "a": "Weight matters for small animals. The ZFSJTAG weighs 0.2 ounces, and the Vebiso fits small and medium cats. For puppies and kittens, choose the lightest tag and recheck collar fit often as they grow."}
+    {
+      "q": "Can a Bluetooth tracker find a lost pet like a GPS collar?",
+      "a": "Not in the same way. These tags rely on nearby phones, so they work best in neighbourhoods. The Knvieeu, with no SIM and no fee, shows past routes, but a rural escape may need a cellular GPS collar."
+    },
+    {
+      "q": "What is the most common mistake?",
+      "a": "Buying a tag for the wrong phone. The Nilone, ZFSJTAG and Focushine are iOS only, so an Android owner in the house cannot use them. Match the network to every phone that will search."
+    },
+    {
+      "q": "Is the Vebiso worth it over the Knvieeu for a cat?",
+      "a": "Yes for cats. The Vebiso's breakaway buckle is a safety feature the Knvieeu lacks, and it works with both major networks. Pick the Knvieeu for a dog that needs history."
+    },
+    {
+      "q": "How do I attach a tracker to a collar?",
+      "a": "Use the case or holder that ships with the tag, such as Nilone's magnetic holder or Usthorin's silicone case, and check it cannot slip off. For cats, use a breakaway collar like the Vebiso."
+    },
+    {
+      "q": "How do I maintain the battery?",
+      "a": "Replace the CR2032 coin cell in the Vebiso or Usthorin when the app warns of low power. Usthorin lists up to 12 months of standby. Keep a spare, and check the tag after swimming."
+    },
+    {
+      "q": "Are these safe for puppies or kittens?",
+      "a": "Weight matters for small animals. The ZFSJTAG weighs 0.2 ounces, and the Vebiso fits small and medium cats. For puppies and kittens, choose the lightest tag and recheck collar fit often as they grow."
+    }
   ],
   "finalTake": "The Knvieeu Dog Tracker with Holder leads because it supports Android and iPhone, replays seven days of routes and charges no subscription. Take the Vebiso for a cat that needs a breakaway collar, the Nilone for an iPhone dog household and the Usthorin for a simple Android tag. Remember these are Bluetooth tags, so they work best where people are nearby.",
-  "related": []
+  "related": [
+    "best-bluetooth-trackers",
+    "best-bluetooth-trackers-for-android",
+    "best-bluetooth-trackers-for-keys"
+  ]
 }

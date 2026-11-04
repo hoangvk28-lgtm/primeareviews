@@ -26,13 +26,33 @@
       "verdict": "The only pick that names Legion compatibility and backs it with a large turbo fan.",
       "description": "This llano V12 uses a 5.5 inch turbo fan with an LED display and touch-sensitive fan controls, rated for 36W of power output. The listing names Lenovo Legion alongside Acer Nitro, Alienware, MSI, Dell and ASUS ROG, and covers laptops from 15 to 19 inches.\n\nIt leads the ranking because a large single turbo fan moves more air through an intake than several small fans spread across a pad, and because the Legion fit is stated directly rather than implied. The purpose-fit Legion pad matches the compatibility claim, but its fan setup is less clearly documented.\n\nBuy it for a Legion 5, 7 or 9 with heavy sustained loads. The caveat is that touch-sensitive controls are easy to bump in a dark room, so check the fan speed before a long session.",
       "keySpecs": [
-        {"label": "Fan", "value": "5.5 in turbo fan"},
-        {"label": "Fits", "value": "15 in to 19 in laptops"},
-        {"label": "Brands listed", "value": "Lenovo Legion and others"},
-        {"label": "Power output", "value": "36W"}
+        {
+          "label": "Fan",
+          "value": "5.5 in turbo fan"
+        },
+        {
+          "label": "Fits",
+          "value": "15 in to 19 in laptops"
+        },
+        {
+          "label": "Brands listed",
+          "value": "Lenovo Legion and others"
+        },
+        {
+          "label": "Power output",
+          "value": "36W"
+        }
       ],
-      "pros": ["Legion compatibility named directly", "Large 5.5 in turbo fan", "Touch fan speed controls", "Wide 15 to 19 in range"],
-      "cons": ["Touch controls can be bumped", "Premium price bucket"],
+      "pros": [
+        "Legion compatibility named directly",
+        "Large 5.5 in turbo fan",
+        "Touch fan speed controls",
+        "Wide 15 to 19 in range"
+      ],
+      "cons": [
+        "Touch controls can be bumped",
+        "Premium price bucket"
+      ],
       "idealFor": "Legion owners with sustained gaming loads and a larger chassis.",
       "skipIf": "You want a pad built around one specific Legion model line."
     },
@@ -47,13 +67,33 @@
       "verdict": "Closest to a purpose-built fit, with extras for desk flexibility.",
       "description": "This pad names the Legion 9i, 7i, 5i, 5, 7a and 5a Pro in its title and supports 12 to 18 inch laptops. It adds retractable side panels, foldable footrests, a USB-C data input, three USB hub ports and a six-mode RGB light strip.\n\nIt ranks second because the named model list removes the guesswork that other pads leave to you, which matters if your Legion has an unusual vent layout. It trails the llano V12 because the listing publishes no fan size or RPM, so you cannot judge airflow from numbers.\n\nBuy it if you own one of the named Legion lines and want the most direct match. The caveat is that RGB and hub ports are extras, not cooling, and the missing airflow figures mean the cooling claim rests on fit alone.",
       "keySpecs": [
-        {"label": "Named fit", "value": "Legion 9i, 7i, 5i, 5, 7a, 5a Pro"},
-        {"label": "Laptop size", "value": "12 in to 18 in"},
-        {"label": "USB", "value": "1 USB-C input, 3 hub ports"},
-        {"label": "Lighting", "value": "6-mode RGB strip"}
+        {
+          "label": "Named fit",
+          "value": "Legion 9i, 7i, 5i, 5, 7a, 5a Pro"
+        },
+        {
+          "label": "Laptop size",
+          "value": "12 in to 18 in"
+        },
+        {
+          "label": "USB",
+          "value": "1 USB-C input, 3 hub ports"
+        },
+        {
+          "label": "Lighting",
+          "value": "6-mode RGB strip"
+        }
       ],
-      "pros": ["Named Legion model list", "Retractable side panels", "Foldable footrests included", "USB-C input plus hub"],
-      "cons": ["Fan size and RPM not listed", "RGB adds no cooling"],
+      "pros": [
+        "Named Legion model list",
+        "Retractable side panels",
+        "Foldable footrests included",
+        "USB-C input plus hub"
+      ],
+      "cons": [
+        "Fan size and RPM not listed",
+        "RGB adds no cooling"
+      ],
       "idealFor": "Owners of a named Legion model who want a direct match.",
       "skipIf": "You need airflow numbers to compare against other pads."
     },
@@ -68,13 +108,33 @@
       "verdict": "The same turbo fan with a reinforced frame and a removable dust filter.",
       "description": "This second llano V12 pairs a 5.5 inch turbo booster fan with a reinforced chassis for 15.6 to 19 inch laptops. It adds a three-port USB hub limited to peripherals, a removable dust filter and the same 36W power output.\n\nIt sits third because the listing does not name Lenovo Legion the way the lead V12 does, so fit is something you confirm by size instead of brand. The dust filter is the real differentiator, since a clogged fan intake is how most cooling pads lose performance after a season.\n\nBuy it for long sessions with a heavy 16 or 17 inch Legion. The caveat is the hub: it passes peripherals only, so do not plan on charging a laptop through it or using it as a data link.",
       "keySpecs": [
-        {"label": "Fan", "value": "5.5 in turbo booster"},
-        {"label": "Fits", "value": "15.6 in to 19 in laptops"},
-        {"label": "Hub", "value": "3-port USB, peripherals only"},
-        {"label": "Filter", "value": "Removable dust filter"}
+        {
+          "label": "Fan",
+          "value": "5.5 in turbo booster"
+        },
+        {
+          "label": "Fits",
+          "value": "15.6 in to 19 in laptops"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB, peripherals only"
+        },
+        {
+          "label": "Filter",
+          "value": "Removable dust filter"
+        }
       ],
-      "pros": ["Removable dust filter", "Reinforced chassis for weight", "Same large turbo fan", "Three-port USB hub"],
-      "cons": ["Legion fit not named", "Hub supports peripherals only"],
+      "pros": [
+        "Removable dust filter",
+        "Reinforced chassis for weight",
+        "Same large turbo fan",
+        "Three-port USB hub"
+      ],
+      "cons": [
+        "Legion fit not named",
+        "Hub supports peripherals only"
+      ],
       "idealFor": "Heavy 16 to 17 inch Legions used for long sessions.",
       "skipIf": "You want brand compatibility stated on the listing."
     },
@@ -89,13 +149,33 @@
       "verdict": "Maximum airflow, with the noise to match.",
       "description": "The GT500 spins a turbofan up to 5000 RPM, with variable speed from 0 to 5000 and sealed foam around the intake for 360 degree airflow. A bottom air intake design and a three-port USB hub complete the build.\n\nIt places fourth because the 5000 RPM ceiling beats the llano 2800 RPM Ultra on paper, but fan noise rises quickly with speed, and the listing names no laptop sizes or Legion compatibility. The sealed foam is a real design strength, since it stops air leaking out the sides before it reaches the vents.\n\nBuy it for the hottest Legion games where noise is acceptable behind headphones. The caveat is exactly that noise, plus an unlisted size range, so measure your chassis against the pad before ordering.",
       "keySpecs": [
-        {"label": "Fan speed", "value": "0 to 5000 RPM variable"},
-        {"label": "Airflow design", "value": "Sealed foam, 360 degree"},
-        {"label": "Intake", "value": "Bottom air intake"},
-        {"label": "Hub", "value": "3-port USB"}
+        {
+          "label": "Fan speed",
+          "value": "0 to 5000 RPM variable"
+        },
+        {
+          "label": "Airflow design",
+          "value": "Sealed foam, 360 degree"
+        },
+        {
+          "label": "Intake",
+          "value": "Bottom air intake"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB"
+        }
       ],
-      "pros": ["Highest fan speed here", "Sealed foam traps airflow", "Variable speed control", "Three-port USB hub"],
-      "cons": ["Loud at full speed", "No size range listed"],
+      "pros": [
+        "Highest fan speed here",
+        "Sealed foam traps airflow",
+        "Variable speed control",
+        "Three-port USB hub"
+      ],
+      "cons": [
+        "Loud at full speed",
+        "No size range listed"
+      ],
       "idealFor": "Legion owners running the hottest titles who accept noise.",
       "skipIf": "You play near sleepers or without headphones."
     },
@@ -110,13 +190,33 @@
       "verdict": "Adjusts fan speed for you, at a premium price.",
       "description": "The Razer pad uses a 140mm brushless fan up to 3000 RPM, an airtight foam-sealed pressure chamber and three magnetic frame sizes. Automatic smart fan speed control raises and lowers the fan with load, and a three-port USB Type-A hub is included.\n\nIt sits fifth because the price bucket is $100 to $200, double the llano V12, yet the listing never names Lenovo Legion compatibility. The magnetic frames and sealed chamber are good engineering, and a larger 140mm fan at moderate speed is typically quieter than a small fan at high RPM.\n\nBuy it if your sessions vary and you want the fan to manage itself. The caveat is cost and unlisted compatibility, so confirm that the frame sizes suit your Legion.",
       "keySpecs": [
-        {"label": "Fan", "value": "140mm brushless, up to 3000 RPM"},
-        {"label": "Control", "value": "Automatic smart speed"},
-        {"label": "Frame", "value": "3 magnetic sizes"},
-        {"label": "Hub", "value": "3-port USB Type-A"}
+        {
+          "label": "Fan",
+          "value": "140mm brushless, up to 3000 RPM"
+        },
+        {
+          "label": "Control",
+          "value": "Automatic smart speed"
+        },
+        {
+          "label": "Frame",
+          "value": "3 magnetic sizes"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB Type-A"
+        }
       ],
-      "pros": ["Automatic fan speed control", "Foam-sealed pressure chamber", "Large 140mm brushless fan", "Magnetic frame sizes"],
-      "cons": ["Highest price bucket group", "Legion fit not stated"],
+      "pros": [
+        "Automatic fan speed control",
+        "Foam-sealed pressure chamber",
+        "Large 140mm brushless fan",
+        "Magnetic frame sizes"
+      ],
+      "cons": [
+        "Highest price bucket group",
+        "Legion fit not stated"
+      ],
       "idealFor": "Players with variable sessions who want hands-off control.",
       "skipIf": "You want proven Legion compatibility at a lower cost."
     },
@@ -131,100 +231,235 @@
       "verdict": "Software-driven cooling for those who like to tune.",
       "description": "The V12 Ultra pairs a 5.5 inch turbo fan up to 2800 RPM with AI smart software control in three modes. It fits 15.6 to 19 inch gaming laptops, has a removable dust filter and a USB 3.0 hub with one input and three ports.\n\nIt lands last because the premium bucket buys software control more than raw cooling: the fan tops out at 2800 RPM, well below the IETS at 5000, and the listing does not name Lenovo Legion. The software modes are useful for balancing noise against temperature in a shared space.\n\nBuy it if you like automated modes and want a USB 3.0 hub. The caveat is that the software adds a setup step and a dependency, and plain controls on the lead V12 do most of the same job.",
       "keySpecs": [
-        {"label": "Fan", "value": "5.5 in turbo, up to 2800 RPM"},
-        {"label": "Control", "value": "AI software, 3 modes"},
-        {"label": "Fits", "value": "15.6 in to 19 in laptops"},
-        {"label": "Hub", "value": "USB 3.0, 1-in-3"}
+        {
+          "label": "Fan",
+          "value": "5.5 in turbo, up to 2800 RPM"
+        },
+        {
+          "label": "Control",
+          "value": "AI software, 3 modes"
+        },
+        {
+          "label": "Fits",
+          "value": "15.6 in to 19 in laptops"
+        },
+        {
+          "label": "Hub",
+          "value": "USB 3.0, 1-in-3"
+        }
       ],
-      "pros": ["Three software control modes", "Removable dust filter", "USB 3.0 hub included", "Large turbo fan"],
-      "cons": ["Software adds setup step", "Legion fit not named"],
+      "pros": [
+        "Three software control modes",
+        "Removable dust filter",
+        "USB 3.0 hub included",
+        "Large turbo fan"
+      ],
+      "cons": [
+        "Software adds setup step",
+        "Legion fit not named"
+      ],
       "idealFor": "Owners who want automated cooling modes.",
       "skipIf": "You prefer simple controls and listed brand compatibility."
     }
   ],
   "methodology": [
-    {"title": "Fan design and airflow", "description": "We compared fan size, speed and sealing, since how much air reaches the intake vents decides how much heat leaves."},
-    {"title": "Legion fit", "description": "We weighed named Lenovo Legion compatibility and the laptop size range, because a pad must match your chassis."},
-    {"title": "Noise behavior", "description": "We considered stated RPM ceilings and control methods, because high fan speed brings noise during long sessions."},
-    {"title": "Build and upkeep", "description": "We looked at frame strength, dust filters and sealing, which decide how well a pad holds up over seasons."},
-    {"title": "Extras and value", "description": "We compared USB hubs, lighting and price bucket, giving more credit when extras sit alongside real cooling."}
+    {
+      "title": "Fan design and airflow",
+      "description": "We compared fan size, speed and sealing, since how much air reaches the intake vents decides how much heat leaves."
+    },
+    {
+      "title": "Legion fit",
+      "description": "We weighed named Lenovo Legion compatibility and the laptop size range, because a pad must match your chassis."
+    },
+    {
+      "title": "Noise behavior",
+      "description": "We considered stated RPM ceilings and control methods, because high fan speed brings noise during long sessions."
+    },
+    {
+      "title": "Build and upkeep",
+      "description": "We looked at frame strength, dust filters and sealing, which decide how well a pad holds up over seasons."
+    },
+    {
+      "title": "Extras and value",
+      "description": "We compared USB hubs, lighting and price bucket, giving more credit when extras sit alongside real cooling."
+    }
   ],
   "whatMatters": [
-    {"factor": "Intake alignment", "detail": "Most Legion models draw air through underside vents, so the pad must blow into them rather than block them. A pad with a large central fan and ridges lifts the chassis enough to breathe. Check that the listing shows the fan sitting under your vent area before you commit."},
-    {"factor": "Fan size and speed", "detail": "A larger fan moves more air at lower RPM, which is quieter than a small fan spinning fast. The Razer's 140mm fan and the llano 5.5 in turbo illustrate the point. Look at both diameter and the RPM ceiling, since only one figure hides noise or airflow."},
-    {"factor": "Laptop size range", "detail": "Legion laptops span roughly 15 to 18 inches, so a pad with a narrow size range may not carry your chassis. The llano V12s list 15 to 19 in, while the Legion-named pad lists 12 to 18 in. Match the range to your screen size and weight."},
-    {"factor": "Sealing and foam", "detail": "Foam seals trap airflow so it reaches the laptop instead of leaking out the sides. The IETS GT500 and Razer both use sealed foam designs. Look for the words sealed or pressure chamber on a listing, since an open grille wastes much of its fan output."},
-    {"factor": "Dust filtering", "detail": "A fan pulling room air will clog with dust and lose airflow over a season. A removable filter lets you rinse it, as on the llano V12 reinforced and V12 Ultra. Check the listing for a removable filter, because pads without one are harder to maintain."}
+    {
+      "factor": "Intake alignment",
+      "detail": "Most Legion models draw air through underside vents, so the pad must blow into them rather than block them. A pad with a large central fan and ridges lifts the chassis enough to breathe. Check that the listing shows the fan sitting under your vent area before you commit."
+    },
+    {
+      "factor": "Fan size and speed",
+      "detail": "A larger fan moves more air at lower RPM, which is quieter than a small fan spinning fast. The Razer's 140mm fan and the llano 5.5 in turbo illustrate the point. Look at both diameter and the RPM ceiling, since only one figure hides noise or airflow."
+    },
+    {
+      "factor": "Laptop size range",
+      "detail": "Legion laptops span roughly 15 to 18 inches, so a pad with a narrow size range may not carry your chassis. The llano V12s list 15 to 19 in, while the Legion-named pad lists 12 to 18 in. Match the range to your screen size and weight."
+    },
+    {
+      "factor": "Sealing and foam",
+      "detail": "Foam seals trap airflow so it reaches the laptop instead of leaking out the sides. The IETS GT500 and Razer both use sealed foam designs. Look for the words sealed or pressure chamber on a listing, since an open grille wastes much of its fan output."
+    },
+    {
+      "factor": "Dust filtering",
+      "detail": "A fan pulling room air will clog with dust and lose airflow over a season. A removable filter lets you rinse it, as on the llano V12 reinforced and V12 Ultra. Check the listing for a removable filter, because pads without one are harder to maintain."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Laptop Fit",
       "intro": "Start with whether the listing names your Legion or at least covers its screen size.",
       "table": {
-        "headers": ["Fit", "Our pick"],
+        "headers": [
+          "Fit",
+          "Our pick"
+        ],
         "rows": [
-          ["Named Legion compatibility", "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"],
-          ["Named Legion model list", "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"],
-          ["15.6 to 19 in, heavy chassis", "llano V12 Gaming Laptop Cooling Pad Laptop Cooler Fan Stand"],
-          ["Smaller 12 to 18 in range", "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"]
+          [
+            "Named Legion compatibility",
+            "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"
+          ],
+          [
+            "Named Legion model list",
+            "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"
+          ],
+          [
+            "15.6 to 19 in, heavy chassis",
+            "llano V12 Gaming Laptop Cooling Pad Laptop Cooler Fan Stand"
+          ],
+          [
+            "Smaller 12 to 18 in range",
+            "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100, best overall", "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"],
-          ["$50 to $100, most airflow", "IETS GT500 Powerful Turbo-Fan (5000 RPM) Laptop Cooling Pad"],
-          ["$100 to $200, automatic control", "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"],
-          ["$100 to $200, software modes", "llano V12 Ultra Laptop Cooling Pad with Smart Software Control"]
+          [
+            "$50 to $100, best overall",
+            "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"
+          ],
+          [
+            "$50 to $100, most airflow",
+            "IETS GT500 Powerful Turbo-Fan (5000 RPM) Laptop Cooling Pad"
+          ],
+          [
+            "$100 to $200, automatic control",
+            "Razer Laptop Cooling Pad Adaptive Smart, Intelligent Fan Control"
+          ],
+          [
+            "$100 to $200, software modes",
+            "llano V12 Ultra Laptop Cooling Pad with Smart Software Control"
+          ]
         ]
       }
     },
     {
       "subheading": "Single Turbo Fan vs Multi-Fan",
       "cards": [
-        {"label": "Single turbo fan", "text": "One large fan focused on the intake, like the llano V12 and IETS GT500. Efficient and easy to filter, but louder at high speed."},
-        {"label": "Larger brushless fan", "text": "A bigger, slower fan such as the Razer 140mm moves air with less noise, and pairs with a sealed chamber."}
+        {
+          "label": "Single turbo fan",
+          "text": "One large fan focused on the intake, like the llano V12 and IETS GT500. Efficient and easy to filter, but louder at high speed."
+        },
+        {
+          "label": "Larger brushless fan",
+          "text": "A bigger, slower fan such as the Razer 140mm moves air with less noise, and pairs with a sealed chamber."
+        }
       ],
       "note": "Default to the llano V12 for balance and the Razer when quiet matters."
     },
     {
       "subheading": "By Extras",
       "table": {
-        "headers": ["Extra", "Our pick"],
+        "headers": [
+          "Extra",
+          "Our pick"
+        ],
         "rows": [
-          ["USB-C input plus hub", "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"],
-          ["USB 3.0 hub", "llano V12 Ultra Laptop Cooling Pad with Smart Software Control"],
-          ["Removable dust filter", "llano V12 Gaming Laptop Cooling Pad Laptop Cooler Fan Stand"],
-          ["Touch fan controls", "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"]
+          [
+            "USB-C input plus hub",
+            "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"
+          ],
+          [
+            "USB 3.0 hub",
+            "llano V12 Ultra Laptop Cooling Pad with Smart Software Control"
+          ],
+          [
+            "Removable dust filter",
+            "llano V12 Gaming Laptop Cooling Pad Laptop Cooler Fan Stand"
+          ],
+          [
+            "Touch fan controls",
+            "llano V12 Laptop Cooling Pad, Gaming Laptop Cooler Stand"
+          ]
         ]
       }
     },
     {
       "subheading": "For Long Gaming Sessions Specifically",
       "cards": [
-        {"label": "Look for", "text": "A large fan, sealed airflow, a dust filter and a reinforced frame that holds a heavy chassis without flex."},
-        {"label": "In this ranking", "text": "The llano V12 reinforced and the IETS GT500 combine sealing, filtering or high RPM for long sessions."}
+        {
+          "label": "Look for",
+          "text": "A large fan, sealed airflow, a dust filter and a reinforced frame that holds a heavy chassis without flex."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The llano V12 reinforced and the IETS GT500 combine sealing, filtering or high RPM for long sessions."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You want automatic fan speed. The Razer adjusts for you, and the V12 Ultra adds software modes."},
-        {"label": "Save if", "text": "Your sessions are steady and you know your fan speed. The llano V12 gives the best cooling for the money."}
+        {
+          "label": "Spend more if",
+          "text": "You want automatic fan speed. The Razer adjusts for you, and the V12 Ultra adds software modes."
+        },
+        {
+          "label": "Save if",
+          "text": "Your sessions are steady and you know your fan speed. The llano V12 gives the best cooling for the money."
+        }
       ]
     }
   ],
   "faq": [
-    {"q": "Will these pads fit every Legion model?", "a": "The llano V12 lists Lenovo Legion compatibility and a 15 to 19 in range, and the Legion-named pad lists 9i, 7i, 5i, 5, 7a and 5a Pro. For other pads, confirm your laptop's screen size and vent position."},
-    {"q": "What is the biggest mistake with cooling pads?", "a": "Assuming more fans mean better cooling. A pad that blocks the intake or pushes air around it does little. The IETS GT500 uses sealed foam so its fan actually feeds the vents, which matters more than fan count."},
-    {"q": "Is the Razer pad worth it over the llano V12?", "a": "If you want automatic fan speed and a 140mm brushless fan, yes. The Razer sits in a higher price bucket and lacks stated Legion compatibility, so the llano V12 wins on value for steady loads."},
-    {"q": "How do I set up a pad for the best cooling?", "a": "Place your Legion so its underside vents sit over the fan, then set the speed to match load. On the llano V12 use the touch controls, and on the Razer let the automatic mode work."},
-    {"q": "How do I maintain the fan and filter?", "a": "Remove and rinse the dust filter on the llano V12 reinforced or V12 Ultra every few weeks. Without a filter, as on the IETS GT500, use compressed air on the intake to clear dust."},
-    {"q": "Can a USB hub on a pad cause problems?", "a": "The llano V12 reinforced hub passes peripherals only, so do not use it for charging or data links. The Legion-named pad adds a USB-C input, but it still shares bandwidth, so keep high-speed drives plugged directly into the laptop."}
+    {
+      "q": "Will these pads fit every Legion model?",
+      "a": "The llano V12 lists Lenovo Legion compatibility and a 15 to 19 in range, and the Legion-named pad lists 9i, 7i, 5i, 5, 7a and 5a Pro. For other pads, confirm your laptop's screen size and vent position."
+    },
+    {
+      "q": "What is the biggest mistake with cooling pads?",
+      "a": "Assuming more fans mean better cooling. A pad that blocks the intake or pushes air around it does little. The IETS GT500 uses sealed foam so its fan actually feeds the vents, which matters more than fan count."
+    },
+    {
+      "q": "Is the Razer pad worth it over the llano V12?",
+      "a": "If you want automatic fan speed and a 140mm brushless fan, yes. The Razer sits in a higher price bucket and lacks stated Legion compatibility, so the llano V12 wins on value for steady loads."
+    },
+    {
+      "q": "How do I set up a pad for the best cooling?",
+      "a": "Place your Legion so its underside vents sit over the fan, then set the speed to match load. On the llano V12 use the touch controls, and on the Razer let the automatic mode work."
+    },
+    {
+      "q": "How do I maintain the fan and filter?",
+      "a": "Remove and rinse the dust filter on the llano V12 reinforced or V12 Ultra every few weeks. Without a filter, as on the IETS GT500, use compressed air on the intake to clear dust."
+    },
+    {
+      "q": "Can a USB hub on a pad cause problems?",
+      "a": "The llano V12 reinforced hub passes peripherals only, so do not use it for charging or data links. The Legion-named pad adds a USB-C input, but it still shares bandwidth, so keep high-speed drives plugged directly into the laptop."
+    }
   ],
   "finalTake": "The llano V12 with the 5.5 in turbo fan is the best Legion cooling pad because it names the brand, covers 15 to 19 in laptops and sets the standard on airflow. Choose the Legion-named pad when model matching is your priority, and the IETS GT500 if you accept noise for maximum airflow. Pay for the Razer only if automatic fan speed is worth a premium.",
-  "related": []
+  "related": [
+    "best-laptop-cooling-pads-for-lenovo-laptops",
+    "best-laptop-cooling-pads-for-lenovo-loq-laptops",
+    "best-laptop-cooling-pads-for-alienware-laptops"
+  ]
 }

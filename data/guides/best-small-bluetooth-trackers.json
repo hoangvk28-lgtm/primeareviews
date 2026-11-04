@@ -26,10 +26,22 @@
       "verdict": "A thin wallet card on Find My or Find Hub, with a 2-year warranty.",
       "description": "The Chipolo CARD is a thin wallet-card tracker that joins either Apple's Find My network or Google's Find Hub. It is rechargeable, with up to a year per charge, Qi magnetic charging and a 2-year warranty. It costs $25 to $50.\n\nThe card format is the reason it wins for wallets: it fits a card slot where a thick tag will not. Rechargeable means no coin cells to replace, though the charger is not included, which is the catch. The only tracker here with a stated warranty length, it ranks ahead of the Tile pair, which cover both phone platforms but not the large Find My network.\n\nBuy it for a wallet, passport holder or laptop sleeve. Check which network version you are ordering before checkout.",
       "keySpecs": [
-        { "label": "Shape", "value": "Thin wallet card" },
-        { "label": "Networks", "value": "Apple Find My or Google Find Hub" },
-        { "label": "Battery", "value": "Rechargeable, up to 1 year" },
-        { "label": "Charging", "value": "Qi magnetic, charger not included" }
+        {
+          "label": "Shape",
+          "value": "Thin wallet card"
+        },
+        {
+          "label": "Networks",
+          "value": "Apple Find My or Google Find Hub"
+        },
+        {
+          "label": "Battery",
+          "value": "Rechargeable, up to 1 year"
+        },
+        {
+          "label": "Charging",
+          "value": "Qi magnetic, charger not included"
+        }
       ],
       "pros": [
         "Thin card fits wallet slots",
@@ -56,10 +68,22 @@
       "verdict": "A small adhesive tracker for iPhone and Android with a Life360 map.",
       "description": "The Tile Sticker is a small adhesive tag that works with iOS and Android, rings your phone even when it is silenced, and offers a discreet SOS alert and a Life360 family map. It costs under $25.\n\nAdhesive is the useful detail: it sticks to a remote, a laptop or a tool where a keyring tag has nowhere to attach. Ringing your phone from the tag reverses the usual search and helps in the sofa. It ranks second because it joins the Life360 network, not Find My or Find Hub, and the listing gives no battery life or range.\n\nBuy it for mixed iPhone and Android homes. Skip it if you want rechargeable power or a stated warranty.",
       "keySpecs": [
-        { "label": "Shape", "value": "Small adhesive tag" },
-        { "label": "Phones", "value": "iOS and Android" },
-        { "label": "Find phone", "value": "Rings even when silenced" },
-        { "label": "Safety", "value": "Discreet SOS alert" }
+        {
+          "label": "Shape",
+          "value": "Small adhesive tag"
+        },
+        {
+          "label": "Phones",
+          "value": "iOS and Android"
+        },
+        {
+          "label": "Find phone",
+          "value": "Rings even when silenced"
+        },
+        {
+          "label": "Safety",
+          "value": "Discreet SOS alert"
+        }
       ],
       "pros": [
         "Works on iOS and Android",
@@ -86,10 +110,22 @@
       "verdict": "Tile's thinnest tracker, made to slide into wallets and passport sleeves.",
       "description": "The Tile Slim is Tile's thinnest tracker, a slide-in tag for wallets, passports and luggage, working with iOS and Android. It rings your phone even when silenced and offers a discreet SOS alert. It costs under $25.\n\nIt is the Tile answer to the Chipolo CARD, and it is cheaper. The cost of that saving is rechargeability and a stated warranty, neither of which the listing gives. It ranks just behind the Sticker because the Sticker mounts on more objects, while the Slim only suits slots and sleeves. Both share the same app and network.\n\nBuy it for a wallet or passport at a lower price than the Chipolo. Do not expect Find My coverage.",
       "keySpecs": [
-        { "label": "Shape", "value": "Slim slide-in tag" },
-        { "label": "Use", "value": "Wallets, passports, luggage" },
-        { "label": "Phones", "value": "iOS and Android" },
-        { "label": "Find phone", "value": "Rings even when silenced" }
+        {
+          "label": "Shape",
+          "value": "Slim slide-in tag"
+        },
+        {
+          "label": "Use",
+          "value": "Wallets, passports, luggage"
+        },
+        {
+          "label": "Phones",
+          "value": "iOS and Android"
+        },
+        {
+          "label": "Find phone",
+          "value": "Rings even when silenced"
+        }
       ],
       "pros": [
         "Tile's thinnest tracker",
@@ -116,10 +152,22 @@
       "verdict": "Four MFi-certified Find My tags with up to 24 months of battery.",
       "description": "This four-pack of mini tags works with Apple Find My and is MFi certified, with a replaceable battery rated for up to 24 months, an 80 to 100 dB speaker and Bluetooth range up to 50 meters. It costs under $25.\n\nFour tags for that price make it the cheapest per-tag option, and the MFi certification means Apple verified the Find My integration. The 80 to 100 dB speaker is louder than the MSEBENT's 70 dB, which helps when a tag is under a cushion. It ranks fourth because it excludes Android and is a tag, not a card, so it does not fit a wallet slot.\n\nBuy it for a family's keys, bags and bikes on iPhones. Skip it for Android phones.",
       "keySpecs": [
-        { "label": "Network", "value": "Apple Find My, MFi certified" },
-        { "label": "Battery", "value": "Replaceable, up to 24 months" },
-        { "label": "Speaker", "value": "80 to 100 dB" },
-        { "label": "Range", "value": "Bluetooth up to 50 m" }
+        {
+          "label": "Network",
+          "value": "Apple Find My, MFi certified"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable, up to 24 months"
+        },
+        {
+          "label": "Speaker",
+          "value": "80 to 100 dB"
+        },
+        {
+          "label": "Range",
+          "value": "Bluetooth up to 50 m"
+        }
       ],
       "pros": [
         "Four tags in the pack",
@@ -146,10 +194,22 @@
       "verdict": "An IP67 Find My key finder with a Lost Mode and low battery alert.",
       "description": "The NVQ Key Finder works with Apple Find My and is not compatible with Android. It has IP67 water resistance, rings up to 80 dB, and adds Lost Mode and a low battery alert. It costs under $25.\n\nIP67 is rare in this price range, and it suits tags on keys, bags or a dog collar that see rain. The low battery alert is useful because tags otherwise die silently. It ranks fifth because it is a single tag at 80 dB, below the Hauibela's range, and the listing gives no battery life or size.\n\nBuy it for outdoor use on iPhones. Skip it if you need Android support or a multi-pack.",
       "keySpecs": [
-        { "label": "Network", "value": "Apple Find My" },
-        { "label": "Android", "value": "Not compatible" },
-        { "label": "Water rating", "value": "IP67" },
-        { "label": "Ring", "value": "Up to 80 dB" }
+        {
+          "label": "Network",
+          "value": "Apple Find My"
+        },
+        {
+          "label": "Android",
+          "value": "Not compatible"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP67"
+        },
+        {
+          "label": "Ring",
+          "value": "Up to 80 dB"
+        }
       ],
       "pros": [
         "IP67 water resistance",
@@ -176,10 +236,22 @@
       "verdict": "Two Find My tags with a replaceable CR2032 and sharing for up to five people.",
       "description": "The MSEBENT two-pack works with Apple Find My on iOS only, measures about 1.22 x 1.22 x 0.38 inches, uses a replaceable CR2032 battery and sounds up to about 70 dB. It can be shared with up to five people. It costs under $25.\n\nSharing with five is the unusual spec, handy for a family tracking a car key. A CR2032 is easy to replace, though no battery life is stated. It ranks last because its 70 dB speaker is the quietest here, and the name chases an Apple product the listing does not claim to be certified against.\n\nBuy it as a basic two-tag set for iPhone households. Skip it if volume or certification matters to you.",
       "keySpecs": [
-        { "label": "Network", "value": "Apple Find My (iOS only)" },
-        { "label": "Size", "value": "About 1.22 x 1.22 x 0.38 in" },
-        { "label": "Battery", "value": "Replaceable CR2032" },
-        { "label": "Sound", "value": "Up to about 70 dB" }
+        {
+          "label": "Network",
+          "value": "Apple Find My (iOS only)"
+        },
+        {
+          "label": "Size",
+          "value": "About 1.22 x 1.22 x 0.38 in"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable CR2032"
+        },
+        {
+          "label": "Sound",
+          "value": "Up to about 70 dB"
+        }
       ],
       "pros": [
         "Two tags in the pack",
@@ -245,24 +317,54 @@
       "subheading": "By Phone",
       "intro": "Start with the phone in your pocket, because it limits which trackers work.",
       "table": {
-        "headers": ["Your phone", "Our pick"],
+        "headers": [
+          "Your phone",
+          "Our pick"
+        ],
         "rows": [
-          ["iPhone or Android, wallet", "Chipolo CARD Rechargeable Wallet Tracker"],
-          ["Mixed household", "Life360 Tile Sticker Small Bluetooth Tracker"],
-          ["iPhone, many items", "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"],
-          ["iPhone, wet weather", "NVQ Key Finder, Works with Apple Find My"]
+          [
+            "iPhone or Android, wallet",
+            "Chipolo CARD Rechargeable Wallet Tracker"
+          ],
+          [
+            "Mixed household",
+            "Life360 Tile Sticker Small Bluetooth Tracker"
+          ],
+          [
+            "iPhone, many items",
+            "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"
+          ],
+          [
+            "iPhone, wet weather",
+            "NVQ Key Finder, Works with Apple Find My"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, wallet", "Life360 Tile Slim Wallet Finder Bluetooth Tracker"],
-          ["Under $25, family pack", "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"],
-          ["Under $25, pair", "MSEBENT Air Tags 2 Pack, Apple Find My Item Finders"],
-          ["$25 to $50", "Chipolo CARD Rechargeable Wallet Tracker"]
+          [
+            "Under $25, wallet",
+            "Life360 Tile Slim Wallet Finder Bluetooth Tracker"
+          ],
+          [
+            "Under $25, family pack",
+            "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"
+          ],
+          [
+            "Under $25, pair",
+            "MSEBENT Air Tags 2 Pack, Apple Find My Item Finders"
+          ],
+          [
+            "$25 to $50",
+            "Chipolo CARD Rechargeable Wallet Tracker"
+          ]
         ]
       }
     },
@@ -283,12 +385,27 @@
     {
       "subheading": "By Battery",
       "table": {
-        "headers": ["Preference", "Our pick"],
+        "headers": [
+          "Preference",
+          "Our pick"
+        ],
         "rows": [
-          ["Rechargeable", "Chipolo CARD Rechargeable Wallet Tracker"],
-          ["Long replaceable battery", "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"],
-          ["Easy CR2032 swap", "MSEBENT Air Tags 2 Pack, Apple Find My Item Finders"],
-          ["Battery alert", "NVQ Key Finder, Works with Apple Find My"]
+          [
+            "Rechargeable",
+            "Chipolo CARD Rechargeable Wallet Tracker"
+          ],
+          [
+            "Long replaceable battery",
+            "Hauibela Smart Mini Tracker Tag 4 Pack, MFi Certified"
+          ],
+          [
+            "Easy CR2032 swap",
+            "MSEBENT Air Tags 2 Pack, Apple Find My Item Finders"
+          ],
+          [
+            "Battery alert",
+            "NVQ Key Finder, Works with Apple Find My"
+          ]
         ]
       }
     },
@@ -346,5 +463,9 @@
     }
   ],
   "finalTake": "The Chipolo CARD is the best small Bluetooth tracker for most people because it fits a wallet, works on Find My or Find Hub and has a rechargeable battery with a two-year warranty. The Tile Sticker and Tile Slim are the cross-platform budget choices. The Hauibela four-pack suits families with iPhones, and the NVQ and MSEBENT are narrower options.",
-  "related": []
+  "related": [
+    "best-bluetooth-trackers",
+    "best-bluetooth-trackers-for-android",
+    "best-bluetooth-trackers-for-keys"
+  ]
 }

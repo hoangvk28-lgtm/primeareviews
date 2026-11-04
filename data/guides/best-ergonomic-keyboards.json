@@ -26,10 +26,22 @@
       "verdict": "True split, domed layout and built-in negative tilt, with multi-device pairing.",
       "description": "The K860 is the benchmark because it addresses three posture problems at once: a split layout straightens the forearms, a domed centre lifts the middle of the board, and the built-in negative tilt slopes the front down so wrists do not bend upward. An attached cushioned palm rest completes the frame.\n\nIt beats Arteck's split on engineering, since the geometry is fixed and consistent rather than adjustable by hand. Against the Wave Keys, it asks more of you: expect a week or two of slower typing. It connects over Bluetooth or a USB receiver and pairs with multiple devices.\n\nBest for desk workers with real wrist or shoulder strain who will commit to the adjustment. It costs the most after the Surface, in the $100 to $200 bracket.",
       "keySpecs": [
-        { "label": "Layout", "value": "True split, domed" },
-        { "label": "Tilt", "value": "Built-in negative tilt" },
-        { "label": "Rest", "value": "Attached cushioned palm rest" },
-        { "label": "Connection", "value": "Bluetooth + USB receiver" }
+        {
+          "label": "Layout",
+          "value": "True split, domed"
+        },
+        {
+          "label": "Tilt",
+          "value": "Built-in negative tilt"
+        },
+        {
+          "label": "Rest",
+          "value": "Attached cushioned palm rest"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth + USB receiver"
+        }
       ],
       "pros": [
         "True split with domed centre",
@@ -56,10 +68,22 @@
       "verdict": "A gentle wave layout with a built-in wrist rest, running on AAA batteries.",
       "description": "Wave Keys swaps the split for a one-piece wave layout with a built-in cushioned wrist rest. It runs on AAA batteries, pairs over Bluetooth or a USB receiver, and has a compact footprint next to split boards.\n\nIt ranks second because the wave corrects less wrist angle than the K860's split, but it asks almost nothing in return: your hands stay in a familiar place, and most people type at normal speed within a day or two. Compared with the Perixx, it is wireless and lighter on desk space.\n\nIt works for anyone testing an ergonomic layout, or for shared desks where a radical split would annoy colleagues. Those with established pain should consider the K860.",
       "keySpecs": [
-        { "label": "Layout", "value": "One-piece wave" },
-        { "label": "Rest", "value": "Built-in cushioned wrist rest" },
-        { "label": "Power", "value": "AAA batteries" },
-        { "label": "Connection", "value": "Bluetooth or USB receiver" }
+        {
+          "label": "Layout",
+          "value": "One-piece wave"
+        },
+        {
+          "label": "Rest",
+          "value": "Built-in cushioned wrist rest"
+        },
+        {
+          "label": "Power",
+          "value": "AAA batteries"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth or USB receiver"
+        }
       ],
       "pros": [
         "Minimal learning curve",
@@ -86,10 +110,22 @@
       "verdict": "Hinged halves with adjustable tenting and a 2.4GHz receiver, for far less than a Logitech split.",
       "description": "Arteck's split board has hinged halves with an adjustable tenting angle, cushioned wrist and palm rests, and a 2.4GHz USB wireless connection. The listing states compatibility with Windows desktops and laptops, which narrows the audience.\n\nIt ranks third because adjustable tenting is the one thing the K860 cannot match: you set the slope to your own forearm rotation. The cost is a wobblier, lighter feel and a connection limited to a USB receiver. Against the Wave Keys it is more corrective and harder to learn.\n\nA smart buy for Windows users who want to experiment with tenting before spending on a premium split. Mac owners should check compatibility first.",
       "keySpecs": [
-        { "label": "Layout", "value": "Split, hinged halves" },
-        { "label": "Tenting", "value": "Adjustable angle" },
-        { "label": "Rest", "value": "Cushioned wrist and palm" },
-        { "label": "Connection", "value": "2.4GHz USB wireless" }
+        {
+          "label": "Layout",
+          "value": "Split, hinged halves"
+        },
+        {
+          "label": "Tenting",
+          "value": "Adjustable angle"
+        },
+        {
+          "label": "Rest",
+          "value": "Cushioned wrist and palm"
+        },
+        {
+          "label": "Connection",
+          "value": "2.4GHz USB wireless"
+        }
       ],
       "pros": [
         "Adjustable tenting angle",
@@ -116,10 +152,22 @@
       "verdict": "A wave-shaped keyboard with a faux-leather palm rest and a fabric-wrapped deck.",
       "description": "Microsoft's Surface Ergonomic keyboard has a wave-shaped layout, a faux-leather palm rest, a domed, offset number pad and a fabric-wrapped deck. It connects over Bluetooth and is the priciest board here, listed above $200.\n\nFourth place reflects what the money buys: you are paying for materials and styling, not for stronger geometry than the cheaper Wave Keys. Fabric and faux leather feel warmer than plastic and look at home on a design-led desk, but they also wear and stain, and the domed number pad is a nice touch for numeric work.\n\nA good fit for buyers who want an ergonomic keyboard that looks like a premium object. Anyone buying purely for posture should pick the K860.",
       "keySpecs": [
-        { "label": "Layout", "value": "Wave-shaped" },
-        { "label": "Rest", "value": "Faux-leather palm rest" },
-        { "label": "Number pad", "value": "Domed, offset" },
-        { "label": "Connection", "value": "Bluetooth" }
+        {
+          "label": "Layout",
+          "value": "Wave-shaped"
+        },
+        {
+          "label": "Rest",
+          "value": "Faux-leather palm rest"
+        },
+        {
+          "label": "Number pad",
+          "value": "Domed, offset"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth"
+        }
       ],
       "pros": [
         "Premium fabric and faux-leather finish",
@@ -146,10 +194,22 @@
       "verdict": "A wired split with a curved key layout and an attached wrist rest at the lowest price.",
       "description": "Perixx offers a split, curved key layout with an attached wrist rest over wired USB, with a US English layout and no pairing or batteries. It is the cheapest board here, listed under $50.\n\nLast place comes from refinement, or the lack of it: no tilt options and no wireless, so the cable ties it to one spot. Still, it delivers a true split for a fraction of the K860's cost, which makes it the best way to learn whether you can type on one. Against Arteck's split, you lose adjustable tenting but save money.\n\nIt fits fixed desks and shared offices where a wired board is the norm. Choose another if you need portability.",
       "keySpecs": [
-        { "label": "Layout", "value": "Split, curved keys" },
-        { "label": "Rest", "value": "Attached wrist rest" },
-        { "label": "Connection", "value": "USB wired" },
-        { "label": "Layout language", "value": "US English" }
+        {
+          "label": "Layout",
+          "value": "Split, curved keys"
+        },
+        {
+          "label": "Rest",
+          "value": "Attached wrist rest"
+        },
+        {
+          "label": "Connection",
+          "value": "USB wired"
+        },
+        {
+          "label": "Layout language",
+          "value": "US English"
+        }
       ],
       "pros": [
         "True split at the lowest price",
@@ -215,26 +275,62 @@
       "subheading": "By Layout",
       "intro": "Layout drives how much posture correction you get.",
       "table": {
-        "headers": ["Layout", "Our pick"],
+        "headers": [
+          "Layout",
+          "Our pick"
+        ],
         "rows": [
-          ["Split, domed, negative tilt", "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"],
-          ["Split with adjustable tenting", "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"],
-          ["Split, wired, fixed", "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"],
-          ["One-piece wave", "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"],
-          ["Wave with premium materials", "Microsoft Surface Ergonomic Wireless Keyboard"]
+          [
+            "Split, domed, negative tilt",
+            "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
+          ],
+          [
+            "Split with adjustable tenting",
+            "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"
+          ],
+          [
+            "Split, wired, fixed",
+            "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
+          ],
+          [
+            "One-piece wave",
+            "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"
+          ],
+          [
+            "Wave with premium materials",
+            "Microsoft Surface Ergonomic Wireless Keyboard"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"],
-          ["$50 to $100, wave", "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"],
-          ["$50 to $100, split", "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"],
-          ["$100 to $200", "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"],
-          ["$200 to $500", "Microsoft Surface Ergonomic Wireless Keyboard"]
+          [
+            "$25 to $50",
+            "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
+          ],
+          [
+            "$50 to $100, wave",
+            "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"
+          ],
+          [
+            "$50 to $100, split",
+            "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"
+          ],
+          [
+            "$100 to $200",
+            "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
+          ],
+          [
+            "$200 to $500",
+            "Microsoft Surface Ergonomic Wireless Keyboard"
+          ]
         ]
       }
     },
@@ -255,13 +351,31 @@
     {
       "subheading": "By Connection",
       "table": {
-        "headers": ["Connection", "Our pick"],
+        "headers": [
+          "Connection",
+          "Our pick"
+        ],
         "rows": [
-          ["Bluetooth with multi-device pairing", "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"],
-          ["Bluetooth or receiver, AAA powered", "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"],
-          ["Bluetooth only", "Microsoft Surface Ergonomic Wireless Keyboard"],
-          ["2.4GHz receiver", "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"],
-          ["Wired USB", "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"]
+          [
+            "Bluetooth with multi-device pairing",
+            "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
+          ],
+          [
+            "Bluetooth or receiver, AAA powered",
+            "Logitech Wave Keys Wireless Ergonomic Keyboard - Graphite"
+          ],
+          [
+            "Bluetooth only",
+            "Microsoft Surface Ergonomic Wireless Keyboard"
+          ],
+          [
+            "2.4GHz receiver",
+            "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest"
+          ],
+          [
+            "Wired USB",
+            "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
+          ]
         ]
       }
     },
@@ -319,5 +433,9 @@
     }
   ],
   "finalTake": "For most people the Logitech Ergo K860 is the right ergonomic keyboard: split, domed, negatively tilted and easy to pair. New to ergonomics? Start with the Logitech Wave Keys. If you want adjustable tenting for less, buy the Arteck, and pick the Perixx for a cheap wired split. The Microsoft Surface is for those who prioritise materials.",
-  "related": []
+  "related": [
+    "best-bluetooth-ergonomic-keyboards",
+    "best-budget-ergonomic-keyboards",
+    "best-ergonomic-keyboards-for-carpal-tunnel"
+  ]
 }

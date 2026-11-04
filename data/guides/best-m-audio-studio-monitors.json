@@ -26,10 +26,22 @@
       "verdict": "5 inch desktop monitors with built-in DSP room tuning, app control and Bluetooth.",
       "description": "The BX5BT pairs 5 inch drivers with built-in DSP tuning for your room, plus app control to fine-tune the sound and Bluetooth for wireless playback.\n\nIt wins because the DSP is the feature other budget monitors lack. A desk against a wall boosts bass and smears the low end, and DSP room correction lets you tame it without foam or a rebuild. At 5 inches the woofer is bigger than the BX3 and BX4, which gives more low-end authority.\n\nBuy it for a home studio on a typical desk. The caveat is that the spec sheet lists no power figure, and the Bluetooth link should not be used for tracking.",
       "keySpecs": [
-        { "label": "Driver", "value": "5 inch" },
-        { "label": "Room tuning", "value": "Built-in DSP" },
-        { "label": "Control", "value": "App-based fine-tuning" },
-        { "label": "Connection", "value": "Bluetooth plus wired" }
+        {
+          "label": "Driver",
+          "value": "5 inch"
+        },
+        {
+          "label": "Room tuning",
+          "value": "Built-in DSP"
+        },
+        {
+          "label": "Control",
+          "value": "App-based fine-tuning"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth plus wired"
+        }
       ],
       "pros": [
         "DSP room correction",
@@ -56,10 +68,22 @@
       "verdict": "4.5 inch kevlar woofers on a latency-free wired connection.",
       "description": "The BX4 uses 4.5 inch kevlar woofers and a wired connection that the maker describes as latency free. It is sold as a pair, and aimed at upgrading built-in computer audio.\n\nIt ranks second because wired is the correct connection for monitoring, and it costs the same $100 to $200 as the Bluetooth BX5BT without the wireless link. It falls behind the BX5BT because it has no DSP room tuning and a slightly smaller driver.\n\nBuy it for editing, mixing and tracking at a desk. The caveat is that the listing gives no power rating or tuning controls.",
       "keySpecs": [
-        { "label": "Driver", "value": "4.5 inch kevlar woofer" },
-        { "label": "Connection", "value": "Wired, latency free" },
-        { "label": "Sold as", "value": "Pair" },
-        { "label": "Use", "value": "Desktop studio monitoring" }
+        {
+          "label": "Driver",
+          "value": "4.5 inch kevlar woofer"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired, latency free"
+        },
+        {
+          "label": "Sold as",
+          "value": "Pair"
+        },
+        {
+          "label": "Use",
+          "value": "Desktop studio monitoring"
+        }
       ],
       "pros": [
         "Wired, no wireless delay",
@@ -86,10 +110,22 @@
       "verdict": "A 6.5 inch kevlar woofer and 100W of power for bigger rooms.",
       "description": "The Forty Sixty has a 6.5 inch kevlar woofer and is rated at 100W. It is the first step up from the BX desktop line, and priced $100 to $200.\n\nThe larger woofer moves more air, which is the physical reason for deeper, steadier low end at a given volume. It ranks third because the listing says speaker, not pair, so confirm how many you receive, and because a 6.5 inch cabinet needs more desk or stand space.\n\nBuy it for a larger room or when bass accuracy matters. The caveat is the quantity ambiguity in the listing.",
       "keySpecs": [
-        { "label": "Driver", "value": "6.5 inch kevlar woofer" },
-        { "label": "Power", "value": "100W" },
-        { "label": "Price", "value": "$100 to $200" },
-        { "label": "Use", "value": "Mid-size studio rooms" }
+        {
+          "label": "Driver",
+          "value": "6.5 inch kevlar woofer"
+        },
+        {
+          "label": "Power",
+          "value": "100W"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        },
+        {
+          "label": "Use",
+          "value": "Mid-size studio rooms"
+        }
       ],
       "pros": [
         "Larger 6.5 inch woofer",
@@ -116,10 +152,22 @@
       "verdict": "3.5 inch kevlar woofers, wired, at $50 to $100, the cheapest M-Audio pair here.",
       "description": "The BX3 uses 3.5 inch kevlar woofers over a latency-free wired connection, sold as a pair at $50 to $100. It is aimed at upgrading built-in computer speakers.\n\nIt ranks fourth because 3.5 inches cannot reach as low as the larger models, so bass-heavy music will need headphones for checking. It is the right size for a small desk and costs half what the BX5BT does.\n\nBuy it for light production and desk listening. The caveat is limited low end.",
       "keySpecs": [
-        { "label": "Driver", "value": "3.5 inch kevlar woofer" },
-        { "label": "Connection", "value": "Wired, latency free" },
-        { "label": "Sold as", "value": "Pair" },
-        { "label": "Price", "value": "$50 to $100" }
+        {
+          "label": "Driver",
+          "value": "3.5 inch kevlar woofer"
+        },
+        {
+          "label": "Connection",
+          "value": "Wired, latency free"
+        },
+        {
+          "label": "Sold as",
+          "value": "Pair"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Lowest M-Audio price here",
@@ -146,10 +194,22 @@
       "verdict": "An 8 inch kevlar woofer and 150W, the biggest and most expensive M-Audio here.",
       "description": "The Forty Eighty has an 8 inch kevlar woofer and is rated at 150W, priced $200 to $500. It is the top of this lineup.\n\nIt ranks fifth for most buyers because 8 inch monitors need room: in a small bedroom studio the bass overloads the space and your mixes suffer. In a larger treated room, it has the most headroom of the group.\n\nBuy it for a bigger space or bass-driven genres. The caveat is that, like the Forty Sixty, the listing says speaker and not pair.",
       "keySpecs": [
-        { "label": "Driver", "value": "8 inch kevlar woofer" },
-        { "label": "Power", "value": "150W" },
-        { "label": "Price", "value": "$200 to $500" },
-        { "label": "Use", "value": "Large rooms, bass work" }
+        {
+          "label": "Driver",
+          "value": "8 inch kevlar woofer"
+        },
+        {
+          "label": "Power",
+          "value": "150W"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        },
+        {
+          "label": "Use",
+          "value": "Large rooms, bass work"
+        }
       ],
       "pros": [
         "Largest woofer here",
@@ -176,10 +236,22 @@
       "verdict": "The BX4 with Bluetooth added, for wireless playback from a phone or laptop.",
       "description": "The BX4BT shares the BX4's 4.5 inch kevlar woofers and adds Bluetooth pairing. It is sold as a pair at $100 to $200.\n\nIt ranks sixth because Bluetooth is the feature you pay for and the one a studio should avoid for critical work, and it has no DSP like the BX5BT. It makes sense for a producer who also uses the speakers to play music.\n\nBuy it for mixed use. The caveat is that wireless adds delay.",
       "keySpecs": [
-        { "label": "Driver", "value": "4.5 inch kevlar woofer" },
-        { "label": "Connection", "value": "Bluetooth" },
-        { "label": "Sold as", "value": "Pair" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "Driver",
+          "value": "4.5 inch kevlar woofer"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth"
+        },
+        {
+          "label": "Sold as",
+          "value": "Pair"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Bluetooth pairing",
@@ -206,10 +278,22 @@
       "verdict": "3.5 inch woofers with Bluetooth, the smallest wireless option in the lineup.",
       "description": "The BX3BT has the BX3's 3.5 inch kevlar woofers with Bluetooth, priced $100 to $200 as a pair.\n\nIt ranks last because it costs more than the wired BX3 for a feature studio work does not want, and it still has the small driver's limited low end. It earns a place as the smallest wireless pair for a compact desk.\n\nBuy it if wireless matters more than studio accuracy. The caveat is price.",
       "keySpecs": [
-        { "label": "Driver", "value": "3.5 inch kevlar woofer" },
-        { "label": "Connection", "value": "Bluetooth" },
-        { "label": "Sold as", "value": "Pair" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "Driver",
+          "value": "3.5 inch kevlar woofer"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth"
+        },
+        {
+          "label": "Sold as",
+          "value": "Pair"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Smallest footprint",
@@ -275,24 +359,54 @@
       "subheading": "By Room Size",
       "intro": "Start with woofer size and room.",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Small desk", "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"],
-          ["Typical bedroom studio", "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"],
-          ["Mid-size room", "M-AUDIO Forty Sixty 6.5\" Studio Monitor Speaker"],
-          ["Large or treated room", "M-AUDIO Forty Eighty 8\" Studio Monitor Speaker"]
+          [
+            "Small desk",
+            "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"
+          ],
+          [
+            "Typical bedroom studio",
+            "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"
+          ],
+          [
+            "Mid-size room",
+            "M-AUDIO Forty Sixty 6.5\" Studio Monitor Speaker"
+          ],
+          [
+            "Large or treated room",
+            "M-AUDIO Forty Eighty 8\" Studio Monitor Speaker"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"],
-          ["$100 to $200 (best overall)", "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"],
-          ["$100 to $200 (wired)", "M-AUDIO BX4 4.5\" Wired Studio Monitors Pair"],
-          ["$200 to $500", "M-AUDIO Forty Eighty 8\" Studio Monitor Speaker"]
+          [
+            "$50 to $100",
+            "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"
+          ],
+          [
+            "$100 to $200 (best overall)",
+            "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"
+          ],
+          [
+            "$100 to $200 (wired)",
+            "M-AUDIO BX4 4.5\" Wired Studio Monitors Pair"
+          ],
+          [
+            "$200 to $500",
+            "M-AUDIO Forty Eighty 8\" Studio Monitor Speaker"
+          ]
         ]
       }
     },
@@ -313,12 +427,27 @@
     {
       "subheading": "By Woofer Size",
       "table": {
-        "headers": ["Woofer", "Our pick"],
+        "headers": [
+          "Woofer",
+          "Our pick"
+        ],
         "rows": [
-          ["3.5 inch", "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"],
-          ["4.5 inch", "M-AUDIO BX4 4.5\" Wired Studio Monitors Pair"],
-          ["5 inch", "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"],
-          ["6.5 inch", "M-AUDIO Forty Sixty 6.5\" Studio Monitor Speaker"]
+          [
+            "3.5 inch",
+            "M-AUDIO BX3 3.5\" Wired Studio Monitors Pair"
+          ],
+          [
+            "4.5 inch",
+            "M-AUDIO BX4 4.5\" Wired Studio Monitors Pair"
+          ],
+          [
+            "5 inch",
+            "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"
+          ],
+          [
+            "6.5 inch",
+            "M-AUDIO Forty Sixty 6.5\" Studio Monitor Speaker"
+          ]
         ]
       }
     },
@@ -376,5 +505,9 @@
     }
   ],
   "finalTake": "The M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair is the best M-Audio monitor for most home studios thanks to DSP room tuning and app control, with the wired BX4 as the cleaner alternative. Choose the BX3 on a tight budget, the Forty Sixty for bigger rooms and the Forty Eighty for large treated spaces. Always confirm whether you are buying a pair or a single speaker.",
-  "related": []
+  "related": [
+    "best-adam-audio-studio-monitors",
+    "best-kali-audio-studio-monitors",
+    "best-8-inch-studio-monitors"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "The largest battery here at 60000mAh, with 22.5W fast charging and five outputs.",
       "description": "ZZI is the capacity leader at 60000mAh, 10000mAh more than the 50000mAh banks. It charges up to five devices at once, supports 22.5W fast charging and mentions battery protection circuits. It sits in the $25 to $50 bucket.\n\nThe extra 10000mAh is worth roughly two more phone charges on a typical battery, and the five outputs let a family charge phones and a tablet from one brick. It ranks first because no other bank here pairs this much capacity with the same 22.5W speed. Its limit is physical size and weight, which the listing does not detail, and recharge time grows with capacity.\n\nBuy it for camping trips and shared outages. If you want a bank you can pocket, a smaller model is a better fit.",
       "keySpecs": [
-        { "label": "Capacity", "value": "60000mAh" },
-        { "label": "Fast charging", "value": "22.5W" },
-        { "label": "Outputs", "value": "Up to 5 devices" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Capacity",
+          "value": "60000mAh"
+        },
+        {
+          "label": "Fast charging",
+          "value": "22.5W"
+        },
+        {
+          "label": "Outputs",
+          "value": "Up to 5 devices"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Largest capacity at 60000mAh",
@@ -56,10 +68,22 @@
       "verdict": "50000mAh with PD 22.5W fast charging that powers three devices at once.",
       "description": "OHOVIV pairs 50000mAh with PD 22.5W high-speed charging and can power three devices at once, from phones to earbuds. It sits in the $25 to $50 bucket.\n\nPower Delivery is the standard to look for, because it negotiates voltage with modern phones instead of sending a fixed trickle. It ranks second because the ZZI holds 10000mAh more and drives five devices, but the OHOVIV's listing is clearer about its PD charging. Compared with the PIFFA, which lists no PD, the OHOVIV is the better choice for a recent phone.\n\nBuy it as a dependable travel and home bank. The listing does not break down its ports, so check the port mix against your cables.",
       "keySpecs": [
-        { "label": "Capacity", "value": "50000mAh" },
-        { "label": "Charging", "value": "PD 22.5W" },
-        { "label": "Outputs", "value": "3 devices at once" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Capacity",
+          "value": "50000mAh"
+        },
+        {
+          "label": "Charging",
+          "value": "PD 22.5W"
+        },
+        {
+          "label": "Outputs",
+          "value": "3 devices at once"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "PD 22.5W fast charging",
@@ -86,10 +110,22 @@
       "verdict": "22.5W charging with 2 USB-C and 1 USB-A ports, in the under $25 bucket.",
       "description": "PIFFA lists 50000mAh and 22.5W fast charging with a mix of two USB-C ports and one USB-A port. It is described as lasting for days of travel and sits in the under $25 bucket.\n\nThe port mix is the useful detail. Two USB-C outputs let you charge a phone and a tablet without an adapter, and one USB-A still serves older cables. It ranks third because the OHOVIV costs more but names Power Delivery explicitly, and ZZI offers more capacity. At the lowest bucket here, though, the PIFFA is the cheapest route to 22.5W.\n\nBuy it as a budget backup for road trips. The listing does not say whether it supports Power Delivery, so check that before pairing with a newer phone.",
       "keySpecs": [
-        { "label": "Capacity", "value": "50000mAh" },
-        { "label": "Charging", "value": "22.5W" },
-        { "label": "Ports", "value": "2 USB-C, 1 USB-A" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Capacity",
+          "value": "50000mAh"
+        },
+        {
+          "label": "Charging",
+          "value": "22.5W"
+        },
+        {
+          "label": "Ports",
+          "value": "2 USB-C, 1 USB-A"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Two USB-C ports",
@@ -116,10 +152,22 @@
       "verdict": "A built-in AC plug gives it two ways to recharge, with no separate wall adapter.",
       "description": "This 50000mAh bank has a built-in AC plug, giving two ways to recharge, and is described as a compact 3-in-1. It sits in the $25 to $50 bucket.\n\nThe plug is the feature that matters on a large bank. Recharging 50000mAh from a fraction of a phone adapter takes a long time, and a bank that plugs directly into the wall removes one cable and one brick to lose. It ranks fourth because the listing does not state any fast charging wattage, so it cannot be compared with the 22.5W banks above on output speed.\n\nBuy it if you keep losing charging adapters. If you need to fast-charge a recent phone, step up to the OHOVIV.",
       "keySpecs": [
-        { "label": "Capacity", "value": "50000mAh" },
-        { "label": "Recharging", "value": "Built-in AC plug or cable" },
-        { "label": "Design", "value": "Compact 3-in-1" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Capacity",
+          "value": "50000mAh"
+        },
+        {
+          "label": "Recharging",
+          "value": "Built-in AC plug or cable"
+        },
+        {
+          "label": "Design",
+          "value": "Compact 3-in-1"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "AC plug built in",
@@ -146,10 +194,22 @@
       "verdict": "56800mAh with triple device charging over USB-A and USB-C, and 10+ charges claimed.",
       "description": "This 56800mAh bank charges three devices at once through USB-A and USB-C and is described as offering fast charging and 10+ device charges. It sits in the $25 to $50 bucket.\n\nIts capacity sits between the 50000mAh banks and the ZZI's 60000mAh, which makes it a middle path. It ranks fifth because the listing gives no wattage, unlike the 22.5W banks above, so the claim of fast charging cannot be checked. The 10+ charges figure depends on phone battery size and is an estimate, not a measurement.\n\nBuy it if you want slightly more than 50000mAh without paying for the ZZI. Check the output wattage before ordering.",
       "keySpecs": [
-        { "label": "Capacity", "value": "56800mAh" },
-        { "label": "Ports", "value": "USB-A and USB-C" },
-        { "label": "Devices", "value": "3 at once" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Capacity",
+          "value": "56800mAh"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-A and USB-C"
+        },
+        {
+          "label": "Devices",
+          "value": "3 at once"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "56800mAh capacity",
@@ -176,10 +236,22 @@
       "verdict": "50000mAh with 22.5W fast charging and no need to carry a separate cable.",
       "description": "This 50000mAh bank advertises 22.5W fast charging, a claimed 30 minute power-up and a design that spares you from carrying a charging cable. It is the priciest in this ranking, in the $50 to $100 bucket.\n\nThe cable-free design is a convenience, but it ranks last because the listing gives no port layout, cell detail or certification, and the OHOVIV and PIFFA match its 22.5W figure at lower price buckets. Value is the problem, not function: for the extra money you get a convenience feature, not more capacity or a faster charge than the cheaper banks above it.\n\nBuy it only if the built-in cable idea appeals and you will actually use it. Otherwise the OHOVIV gives the same headline spec for less, with clearer port labeling.",
       "keySpecs": [
-        { "label": "Capacity", "value": "50000mAh" },
-        { "label": "Charging", "value": "22.5W" },
-        { "label": "Design", "value": "No separate cable needed" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Capacity",
+          "value": "50000mAh"
+        },
+        {
+          "label": "Charging",
+          "value": "22.5W"
+        },
+        {
+          "label": "Design",
+          "value": "No separate cable needed"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "22.5W fast charging",
@@ -245,25 +317,58 @@
       "subheading": "By Capacity",
       "intro": "Decide how many full phone charges you need.",
       "table": {
-        "headers": ["Capacity tier", "Our pick"],
+        "headers": [
+          "Capacity tier",
+          "Our pick"
+        ],
         "rows": [
-          ["60000mAh", "ZZI Portable Charger Power Bank 60000mAh"],
-          ["56800mAh", "Portable Charger 56800mAh"],
-          ["50000mAh, PD labeled", "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"],
-          ["50000mAh, two USB-C", "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"],
-          ["50000mAh, built-in plug", "Portable Charger Power Bank 50000mAh Massive Capacity with Wall Plug"]
+          [
+            "60000mAh",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ],
+          [
+            "56800mAh",
+            "Portable Charger 56800mAh"
+          ],
+          [
+            "50000mAh, PD labeled",
+            "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"
+          ],
+          [
+            "50000mAh, two USB-C",
+            "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"
+          ],
+          [
+            "50000mAh, built-in plug",
+            "Portable Charger Power Bank 50000mAh Massive Capacity with Wall Plug"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"],
-          ["$25 to $50, best overall", "ZZI Portable Charger Power Bank 60000mAh"],
-          ["$25 to $50, PD", "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"],
-          ["$50 to $100", "Portable Charger 50000mAh"]
+          [
+            "Under $25",
+            "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"
+          ],
+          [
+            "$25 to $50, best overall",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ],
+          [
+            "$25 to $50, PD",
+            "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"
+          ],
+          [
+            "$50 to $100",
+            "Portable Charger 50000mAh"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Device Count",
       "table": {
-        "headers": ["Devices at once", "Our pick"],
+        "headers": [
+          "Devices at once",
+          "Our pick"
+        ],
         "rows": [
-          ["Five", "ZZI Portable Charger Power Bank 60000mAh"],
-          ["Three", "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"],
-          ["Three, USB-C heavy", "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"],
-          ["Three, USB-A and USB-C", "Portable Charger 56800mAh"]
+          [
+            "Five",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ],
+          [
+            "Three",
+            "OHOVIV Portable Charger Power Bank 50000mAh, PD 22.5W Battery Pack"
+          ],
+          [
+            "Three, USB-C heavy",
+            "PIFFA Portable Charger Power Bank, 50000mAh 22.5W Battery Pack for iPhone"
+          ],
+          [
+            "Three, USB-A and USB-C",
+            "Portable Charger 56800mAh"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most buyers the ZZI 60000mAh is the right call: the largest battery, 22.5W charging and five outputs for a modest bucket. The OHOVIV is the safer choice for PD phones, the PIFFA is the budget pick with two USB-C ports, and the wall-plug model suits anyone tired of carrying adapters. Leave them all at home when flying.",
-  "related": []
+  "related": [
+    "best-power-banks",
+    "best-power-banks-for-home-office-backup",
+    "best-docking-stations-with-100w-power-delivery"
+  ]
 }

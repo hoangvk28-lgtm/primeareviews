@@ -26,10 +26,22 @@
       "verdict": "Cellular GPS, no landline and a professional response centre. The safest default for most seniors.",
       "description": "Bay Alarm's SOS Mobile runs on a 4G cellular connection with GPS, so it works in the house, the garden and the car park without a base station. Nothing has to plug into a phone jack, which matters now that so many homes have dropped their landline.\n\nIt tops this ranking because it removes the most setup mistakes. A mobile pendant with GPS and an operator behind it covers more situations than the Wi-Fi-dependent or speaker-based units lower down, and fall detection is available when you want it. Medical Guardian's MGMobile adds a step counter, but nothing on the spec sheet pushes it ahead of Bay Alarm on the core job.\n\nBuy it for a parent who lives alone and moves around. The caveat is that fall detection is listed as optional, so confirm it is switched on in the plan you choose.",
       "keySpecs": [
-        { "label": "Network", "value": "4G cellular with GPS" },
-        { "label": "Landline needed", "value": "No" },
-        { "label": "Fall detection", "value": "Optional add-on" },
-        { "label": "Device cost", "value": "$50 to $100" }
+        {
+          "label": "Network",
+          "value": "4G cellular with GPS"
+        },
+        {
+          "label": "Landline needed",
+          "value": "No"
+        },
+        {
+          "label": "Fall detection",
+          "value": "Optional add-on"
+        },
+        {
+          "label": "Device cost",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Works anywhere with cell coverage",
@@ -56,10 +68,22 @@
       "verdict": "GPS plus a step counter and water resistance, built for people who leave the house daily.",
       "description": "The MGMobile is a GPS-tracked mobile unit that adds a step counter and water resistance, which tells you who it was designed for: the senior who walks to the shops, gardens, or swims at the community pool, and wants a device that goes along.\n\nIt ranks just under Bay Alarm because the extra features are lifestyle touches rather than safety upgrades. A step counter will not summon an ambulance. What lifts it above the lower picks is the combination of GPS with a water-resistant body, so the wearer is less tempted to take it off in the shower, where many falls happen.\n\nIt suits independent seniors who are out of the house often. Water resistance is not the same as waterproof, so check the rating before it goes under a running showerhead.",
       "keySpecs": [
-        { "label": "Location", "value": "GPS tracking" },
-        { "label": "Extra", "value": "Step counter" },
-        { "label": "Water", "value": "Water-resistant" },
-        { "label": "Device cost", "value": "$50 to $100" }
+        {
+          "label": "Location",
+          "value": "GPS tracking"
+        },
+        {
+          "label": "Extra",
+          "value": "Step counter"
+        },
+        {
+          "label": "Water",
+          "value": "Water-resistant"
+        },
+        {
+          "label": "Device cost",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "GPS works away from home",
@@ -86,10 +110,22 @@
       "verdict": "4G LTE GPS with nationwide coverage and Alexa integration for households that already talk to a speaker.",
       "description": "LifeStation's mobile system pairs 4G LTE GPS with nationwide coverage and Alexa integration. The coverage claim matters most for travellers and for rural addresses, where a network gap can turn a pendant into jewellery.\n\nIt lands third because the Alexa link is a convenience, not a substitute for the pendant. A senior who already asks an Echo for the weather will find it natural, but a speaker only helps in the room it sits in, and a fall in the garden still depends on the wearable. Against Bay Alarm and Medical Guardian it gives up a clear lead on features.\n\nGood for a home already built around Alexa devices. Check the listing for the price tier before ordering, since specs and pricing for this unit are not fully stated.",
       "keySpecs": [
-        { "label": "Network", "value": "4G LTE with GPS" },
-        { "label": "Coverage", "value": "Nationwide" },
-        { "label": "Smart home", "value": "Alexa integration" },
-        { "label": "Best for", "value": "Alexa households" }
+        {
+          "label": "Network",
+          "value": "4G LTE with GPS"
+        },
+        {
+          "label": "Coverage",
+          "value": "Nationwide"
+        },
+        {
+          "label": "Smart home",
+          "value": "Alexa integration"
+        },
+        {
+          "label": "Best for",
+          "value": "Alexa households"
+        }
       ],
       "pros": [
         "Nationwide cellular coverage",
@@ -116,10 +152,22 @@
       "verdict": "A fall-detection pendant on LTE and GPS, from a name families already recognise.",
       "description": "ADT's On-The-Go is a waterproof wearable that combines a fall detection pendant with LTE and GPS. The waterproof wording is stronger than the water-resistant label on Medical Guardian's unit, which is a real point for anyone who wears it in the bath.\n\nIt sits fourth because the brand is the main separator. Fall detection and cellular GPS are table stakes at this level, and Bay Alarm matches them. What ADT adds is name recognition, which reassures adult children choosing for a parent. Against SureSafeGO it gives up the stated four-day battery life.\n\nBuy it when the family wants a familiar company behind the device. The caveat is that fall detection is never perfect, so teach the wearer to press the button after any fall they can still manage.",
       "keySpecs": [
-        { "label": "Fall detection", "value": "Pendant based" },
-        { "label": "Network", "value": "LTE with GPS" },
-        { "label": "Water", "value": "Waterproof wearable" },
-        { "label": "Device cost", "value": "$50 to $100" }
+        {
+          "label": "Fall detection",
+          "value": "Pendant based"
+        },
+        {
+          "label": "Network",
+          "value": "LTE with GPS"
+        },
+        {
+          "label": "Water",
+          "value": "Waterproof wearable"
+        },
+        {
+          "label": "Device cost",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Waterproof for shower wear",
@@ -146,10 +194,22 @@
       "verdict": "GPS and fall detection included, plus a stated four-day battery. Costs more up front, aimed at lower monthly spend.",
       "description": "SureSafeGO lists GPS tracking, fall detection as included and a four-day battery, which is the longest stated runtime in this ranking. That detail is rarer than it sounds: a pendant that dies at 3 a.m. protects no one, and four days gives a forgetful charger some slack.\n\nIt ranks fifth because the device costs more than the leaders and it has less of a track record than ADT or Bay Alarm. The tradeoff is the point of the pick. Paying more for the device with fall detection already included can mean fewer paid add-ons later, which suits a tighter monthly budget.\n\nChoose it for a person who forgets to charge. The caveat is the higher up-front cost, in the $100 to $200 bracket, so compare the full monthly plan before you commit.",
       "keySpecs": [
-        { "label": "Fall detection", "value": "Included" },
-        { "label": "Battery", "value": "4 days stated" },
-        { "label": "Location", "value": "GPS tracking" },
-        { "label": "Device cost", "value": "$100 to $200" }
+        {
+          "label": "Fall detection",
+          "value": "Included"
+        },
+        {
+          "label": "Battery",
+          "value": "4 days stated"
+        },
+        {
+          "label": "Location",
+          "value": "GPS tracking"
+        },
+        {
+          "label": "Device cost",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Fall detection included",
@@ -176,10 +236,22 @@
       "verdict": "GPS, a two-way speaker and a water-resistant pendant at a lower monitoring cost.",
       "description": "The MobileHelp Solo combines GPS tracking with a two-way speaker and a water-resistant pendant. The speaker is the feature that stands out: the wearer can talk to the operator through the device itself, with no phone needed.\n\nIt ranks sixth because fall detection is not listed in the specs we reviewed, and that is the feature most families ask about first. Against Bay Alarm and ADT it is positioned as the cheaper way to get monitoring, which is a real appeal but a weaker safety offer. LifeStation sits above it on coverage claims.\n\nWorks for someone who is steady on their feet but wants a button for emergencies. Confirm whether fall detection can be added, because without it a person who is knocked unconscious cannot call for help.",
       "keySpecs": [
-        { "label": "Location", "value": "GPS tracking" },
-        { "label": "Voice", "value": "Two-way speaker" },
-        { "label": "Water", "value": "Water-resistant pendant" },
-        { "label": "Network", "value": "4G" }
+        {
+          "label": "Location",
+          "value": "GPS tracking"
+        },
+        {
+          "label": "Voice",
+          "value": "Two-way speaker"
+        },
+        {
+          "label": "Water",
+          "value": "Water-resistant pendant"
+        },
+        {
+          "label": "Network",
+          "value": "4G"
+        }
       ],
       "pros": [
         "Two-way speaker on the pendant",
@@ -206,10 +278,22 @@
       "verdict": "Auto fall detection and GPS with no contract, and alerts that go straight to family.",
       "description": "SecuLife offers automatic fall detection and GPS tracking with no contract, and its alerts go directly to family contacts rather than to a monitoring centre. That makes it the most flexible unit here and the lightest on commitment.\n\nIt sits last because direct family alerts are a different safety model. A professional centre will keep calling and can dispatch services; a phone call to a daughter who is in a meeting, or asleep, is not the same. That gap is why Bay Alarm and the other staffed options rank higher.\n\nBuy it when family is close, reliably reachable and you want no contract. The honest caveat is that if nobody answers, no one else is notified, so set several contacts and test the chain.",
       "keySpecs": [
-        { "label": "Fall detection", "value": "Automatic" },
-        { "label": "Location", "value": "GPS tracking" },
-        { "label": "Contract", "value": "None" },
-        { "label": "Alerts go to", "value": "Family contacts" }
+        {
+          "label": "Fall detection",
+          "value": "Automatic"
+        },
+        {
+          "label": "Location",
+          "value": "GPS tracking"
+        },
+        {
+          "label": "Contract",
+          "value": "None"
+        },
+        {
+          "label": "Alerts go to",
+          "value": "Family contacts"
+        }
       ],
       "pros": [
         "No contract to sign",
@@ -275,25 +359,58 @@
       "subheading": "By Who Is Wearing It",
       "intro": "Start with the person's daily routine, because that decides which features earn their keep.",
       "table": {
-        "headers": ["Wearer", "Our pick"],
+        "headers": [
+          "Wearer",
+          "Our pick"
+        ],
         "rows": [
-          ["Lives alone, moves around", "Bay Alarm Medical SOS Mobile GPS"],
-          ["Walks or travels daily", "Medical Guardian MGMobile"],
-          ["Forgets to charge", "SureSafeGO Medical Alert"],
-          ["Already uses Alexa", "LifeStation Mobile 4G LTE Medical Alert System"],
-          ["Wants family to be alerted", "SecuLife Medical Alert Pendant for Seniors"]
+          [
+            "Lives alone, moves around",
+            "Bay Alarm Medical SOS Mobile GPS"
+          ],
+          [
+            "Walks or travels daily",
+            "Medical Guardian MGMobile"
+          ],
+          [
+            "Forgets to charge",
+            "SureSafeGO Medical Alert"
+          ],
+          [
+            "Already uses Alexa",
+            "LifeStation Mobile 4G LTE Medical Alert System"
+          ],
+          [
+            "Wants family to be alerted",
+            "SecuLife Medical Alert Pendant for Seniors"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend on the device", "Our pick"],
+        "headers": [
+          "Spend on the device",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Bay Alarm Medical SOS Mobile GPS"],
-          ["$50 to $100", "ADT On-The-Go Mobile Medical Alert System"],
-          ["$100 to $200", "SureSafeGO Medical Alert"],
-          ["Lowest running cost", "MobileHelp Solo 4G On-The-Go Medical Alert Systems"]
+          [
+            "$50 to $100",
+            "Bay Alarm Medical SOS Mobile GPS"
+          ],
+          [
+            "$50 to $100",
+            "ADT On-The-Go Mobile Medical Alert System"
+          ],
+          [
+            "$100 to $200",
+            "SureSafeGO Medical Alert"
+          ],
+          [
+            "Lowest running cost",
+            "MobileHelp Solo 4G On-The-Go Medical Alert Systems"
+          ]
         ]
       }
     },
@@ -314,12 +431,27 @@
     {
       "subheading": "By Water Exposure",
       "table": {
-        "headers": ["Wear pattern", "Our pick"],
+        "headers": [
+          "Wear pattern",
+          "Our pick"
+        ],
         "rows": [
-          ["Showers and baths", "ADT On-The-Go Mobile Medical Alert System"],
-          ["Splashes and rain", "Medical Guardian MGMobile"],
-          ["Splashes and rain, talk back", "MobileHelp Solo 4G On-The-Go Medical Alert Systems"],
-          ["Dry-hands, indoor only", "LifeStation Mobile 4G LTE Medical Alert System"]
+          [
+            "Showers and baths",
+            "ADT On-The-Go Mobile Medical Alert System"
+          ],
+          [
+            "Splashes and rain",
+            "Medical Guardian MGMobile"
+          ],
+          [
+            "Splashes and rain, talk back",
+            "MobileHelp Solo 4G On-The-Go Medical Alert Systems"
+          ],
+          [
+            "Dry-hands, indoor only",
+            "LifeStation Mobile 4G LTE Medical Alert System"
+          ]
         ]
       }
     },
@@ -377,5 +509,9 @@
     }
   ],
   "finalTake": "Bay Alarm Medical SOS Mobile GPS is the most complete answer for a senior who lives alone: cellular, GPS, no landline and a staffed centre. Choose Medical Guardian MGMobile for someone who is out and about, and SureSafeGO when fall detection and battery must be built in. Whichever you pick, read the monitoring plan before the device, because that is the part you pay for every month.",
-  "related": []
+  "related": [
+    "best-cordless-phone-systems-with-2-handsets",
+    "best-cordless-phone-systems-with-3-handsets",
+    "best-home-security-camera-systems"
+  ]
 }

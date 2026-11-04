@@ -26,10 +26,22 @@
       "verdict": "A 30W panel, a 111Wh battery stated in watt-hours and 1200Mbps dual-band Wi-Fi.",
       "description": "The Zonkasion has a 30W solar panel, a 111Wh battery, dual-band 5G and 2.4G Wi-Fi at 1200Mbps and a listed coverage of up to 300 m or 1000 ft.\n\nIt ranks first because it states its battery in watt-hours, which is the honest unit: 111Wh can be compared with any power bank, while mAh figures depend on voltage. A 30W panel recharges faster than the 15W units. It matches the Tigerpai 30W on panel and range.\n\nBuy it for a large yard or a long fence where you want dual-band coverage. The caveat is the $100 to $200 price and that the listed range is an open-ground claim.",
       "keySpecs": [
-        { "label": "Solar panel", "value": "30W" },
-        { "label": "Battery", "value": "111Wh" },
-        { "label": "Bands", "value": "5G and 2.4G, 1200Mbps" },
-        { "label": "Listed range", "value": "Up to 1000 ft" }
+        {
+          "label": "Solar panel",
+          "value": "30W"
+        },
+        {
+          "label": "Battery",
+          "value": "111Wh"
+        },
+        {
+          "label": "Bands",
+          "value": "5G and 2.4G, 1200Mbps"
+        },
+        {
+          "label": "Listed range",
+          "value": "Up to 1000 ft"
+        }
       ],
       "pros": [
         "Battery stated in watt-hours",
@@ -56,10 +68,22 @@
       "verdict": "A 30W panel and 30000mAh battery with four antennas and a listed 984 ft range.",
       "description": "Tigerpai lists a 30W solar panel, a 30000mAh battery, 1200Mbps dual-band Wi-Fi on 2.4GHz and 5.8GHz, and a range of up to 984 ft from four antennas.\n\nIt ranks second because its battery is stated in mAh, which is harder to compare, and the listing gives no weather rating. The four antennas are its edge: more antennas can help signal spread. Next to the 15W Tigerpai, it doubles the panel for roughly twice the price.\n\nBuy it for large yards and long fence lines. The caveat is the missing waterproof rating on a unit that lives outdoors.",
       "keySpecs": [
-        { "label": "Solar panel", "value": "30W" },
-        { "label": "Battery", "value": "30000mAh" },
-        { "label": "Bands", "value": "2.4GHz and 5.8GHz, 1200Mbps" },
-        { "label": "Listed range", "value": "Up to 984 ft, 4 antennas" }
+        {
+          "label": "Solar panel",
+          "value": "30W"
+        },
+        {
+          "label": "Battery",
+          "value": "30000mAh"
+        },
+        {
+          "label": "Bands",
+          "value": "2.4GHz and 5.8GHz, 1200Mbps"
+        },
+        {
+          "label": "Listed range",
+          "value": "Up to 984 ft, 4 antennas"
+        }
       ],
       "pros": [
         "30W panel with big battery",
@@ -86,10 +110,22 @@
       "verdict": "A 15W solar extender with a LAN port for wired cameras, 300Mbps and 500 ft range.",
       "description": "Teczckc has a 15W panel, a 25000mAh battery, 300Mbps speed with a LAN port and a listed range of up to 500 ft.\n\nIt ranks third because the LAN port is a feature most rivals lack: you can plug in a wired camera or device where there is no outlet, which is a bigger deal than an extra band for many yards. It lacks dual-band support and a weather rating, and sits in the $50 to $100 bucket.\n\nBuy it for wired outdoor cameras and devices with no nearby outlet. The caveat is the 15W panel, which recharges slowly in winter.",
       "keySpecs": [
-        { "label": "Solar panel", "value": "15W" },
-        { "label": "Battery", "value": "25000mAh" },
-        { "label": "Speed and port", "value": "300Mbps, LAN port" },
-        { "label": "Listed range", "value": "Up to 500 ft" }
+        {
+          "label": "Solar panel",
+          "value": "15W"
+        },
+        {
+          "label": "Battery",
+          "value": "25000mAh"
+        },
+        {
+          "label": "Speed and port",
+          "value": "300Mbps, LAN port"
+        },
+        {
+          "label": "Listed range",
+          "value": "Up to 500 ft"
+        }
       ],
       "pros": [
         "LAN port for wired devices",
@@ -116,10 +152,22 @@
       "verdict": "A 15W panel, 26000mAh battery and IP66 weatherproofing with two external antennas.",
       "description": "GULZIIYA lists a 15W panel, a 26000mAh battery, an IP66 waterproof rating and two high-gain external antennas.\n\nIt ranks fourth because it states no speed or range, which are the figures you would compare first. IP66 is the highest weather rating in the group, meaning it resists dust and powerful water jets, which suits an exposed post or roof edge. The 26000mAh battery is slightly bigger than the Teczckc's.\n\nBuy it for exposed mounting spots where rain and spray are the main risk. The caveat is the unstated speed and range.",
       "keySpecs": [
-        { "label": "Solar panel", "value": "15W" },
-        { "label": "Battery", "value": "26000mAh" },
-        { "label": "Weather rating", "value": "IP66" },
-        { "label": "Antennas", "value": "2 high-gain external" }
+        {
+          "label": "Solar panel",
+          "value": "15W"
+        },
+        {
+          "label": "Battery",
+          "value": "26000mAh"
+        },
+        {
+          "label": "Weather rating",
+          "value": "IP66"
+        },
+        {
+          "label": "Antennas",
+          "value": "2 high-gain external"
+        }
       ],
       "pros": [
         "IP66 waterproof rating",
@@ -146,10 +194,22 @@
       "verdict": "A 15W, 26000mAh unit with 300Mbps on 2.4GHz, IP65 and a 492 ft listed range.",
       "description": "The 15W Tigerpai lists a 26000mAh battery, 300Mbps on 2.4GHz, IP65 and a range of up to 492 ft.\n\nIt ranks fifth because it is single band against the Zonkasion's dual band, and the panel is half the wattage of the 30W models. It does state both a weather rating and a range, unlike the GULZIIYA, and for phones and cameras 2.4GHz is the band that carries furthest.\n\nBuy it for yards and patios where steady 2.4GHz coverage is enough. The caveat is the slower recharge from a 15W panel.",
       "keySpecs": [
-        { "label": "Solar panel", "value": "15W" },
-        { "label": "Battery", "value": "26000mAh" },
-        { "label": "Speed", "value": "300Mbps, 2.4GHz" },
-        { "label": "Rating and range", "value": "IP65, up to 492 ft" }
+        {
+          "label": "Solar panel",
+          "value": "15W"
+        },
+        {
+          "label": "Battery",
+          "value": "26000mAh"
+        },
+        {
+          "label": "Speed",
+          "value": "300Mbps, 2.4GHz"
+        },
+        {
+          "label": "Rating and range",
+          "value": "IP65, up to 492 ft"
+        }
       ],
       "pros": [
         "IP65 weather rating",
@@ -176,10 +236,22 @@
       "verdict": "A solar-powered 2.4G, 150Mbps extender with a built-in amplifier and IP65 housing.",
       "description": "VERVERAY is solar powered with no cables, 2.4G single band at 150Mbps, a built-in signal amplifier and an IP65 waterproof rating.\n\nIt ranks last because 150Mbps is the lowest speed and the listing gives no panel wattage or battery size, which are the numbers that decide uptime. At $100 to $200 it also costs more than the 15W Tigerpai, which lists both. It is a basic link for sensors and cameras.\n\nBuy it for security cameras and sensors that need a basic weatherproof link. The caveat is the missing power figures.",
       "keySpecs": [
-        { "label": "Power", "value": "Solar, no cables" },
-        { "label": "Band and speed", "value": "2.4G, 150Mbps" },
-        { "label": "Signal boost", "value": "Built-in amplifier" },
-        { "label": "Weather rating", "value": "IP65" }
+        {
+          "label": "Power",
+          "value": "Solar, no cables"
+        },
+        {
+          "label": "Band and speed",
+          "value": "2.4G, 150Mbps"
+        },
+        {
+          "label": "Signal boost",
+          "value": "Built-in amplifier"
+        },
+        {
+          "label": "Weather rating",
+          "value": "IP65"
+        }
       ],
       "pros": [
         "Fully cable-free solar power",
@@ -197,11 +269,26 @@
     }
   ],
   "methodology": [
-    { "title": "Solar panel and battery", "description": "Panel wattage and battery capacity, the two figures that decide uptime." },
-    { "title": "Wi-Fi bands and speed", "description": "Single or dual band and the listed Mbps ceiling." },
-    { "title": "Range claims", "description": "Listed range and antenna design, treated as open-ground figures." },
-    { "title": "Weather protection", "description": "IP rating and suitability for exposed mounting." },
-    { "title": "Ports and value", "description": "LAN ports and price tier against features." }
+    {
+      "title": "Solar panel and battery",
+      "description": "Panel wattage and battery capacity, the two figures that decide uptime."
+    },
+    {
+      "title": "Wi-Fi bands and speed",
+      "description": "Single or dual band and the listed Mbps ceiling."
+    },
+    {
+      "title": "Range claims",
+      "description": "Listed range and antenna design, treated as open-ground figures."
+    },
+    {
+      "title": "Weather protection",
+      "description": "IP rating and suitability for exposed mounting."
+    },
+    {
+      "title": "Ports and value",
+      "description": "LAN ports and price tier against features."
+    }
   ],
   "whatMatters": [
     {
@@ -230,60 +317,126 @@
       "subheading": "By Coverage Need",
       "intro": "Match range and bands to your yard.",
       "table": {
-        "headers": ["Situation", "Our pick"],
+        "headers": [
+          "Situation",
+          "Our pick"
+        ],
         "rows": [
-          ["Large yard, dual-band", "Zonkasion 30W Solar Dual Band WiFi Repeater"],
-          ["Long fence, four antennas", "Tigerpai 30W Solar WiFi Extender 30000mAh"],
-          ["Patio, 2.4GHz is enough", "Tigerpai Solar WiFi Extender 15W 26000mAh"],
-          ["Basic sensors and cameras", "VERVERAY Outdoor Solar WiFi Extender IP65"]
+          [
+            "Large yard, dual-band",
+            "Zonkasion 30W Solar Dual Band WiFi Repeater"
+          ],
+          [
+            "Long fence, four antennas",
+            "Tigerpai 30W Solar WiFi Extender 30000mAh"
+          ],
+          [
+            "Patio, 2.4GHz is enough",
+            "Tigerpai Solar WiFi Extender 15W 26000mAh"
+          ],
+          [
+            "Basic sensors and cameras",
+            "VERVERAY Outdoor Solar WiFi Extender IP65"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100, LAN port", "Teczckc Solar WiFi Extender 15W 25000mAh"],
-          ["$50 to $100, IP66", "GULZIIYA Solar WiFi Extender 26000mAh IP66"],
-          ["$50 to $100, IP65", "Tigerpai Solar WiFi Extender 15W 26000mAh"],
-          ["$100 to $200, best overall", "Zonkasion 30W Solar Dual Band WiFi Repeater"],
-          ["$100 to $200, basic link", "VERVERAY Outdoor Solar WiFi Extender IP65"]
+          [
+            "$50 to $100, LAN port",
+            "Teczckc Solar WiFi Extender 15W 25000mAh"
+          ],
+          [
+            "$50 to $100, IP66",
+            "GULZIIYA Solar WiFi Extender 26000mAh IP66"
+          ],
+          [
+            "$50 to $100, IP65",
+            "Tigerpai Solar WiFi Extender 15W 26000mAh"
+          ],
+          [
+            "$100 to $200, best overall",
+            "Zonkasion 30W Solar Dual Band WiFi Repeater"
+          ],
+          [
+            "$100 to $200, basic link",
+            "VERVERAY Outdoor Solar WiFi Extender IP65"
+          ]
         ]
       }
     },
     {
       "subheading": "30W Panel vs 15W Panel",
       "cards": [
-        { "label": "30W panel", "text": "Recharges faster and holds up in winter. The Zonkasion and Tigerpai 30W use it." },
-        { "label": "15W panel", "text": "Cheaper but slower to refill. The Teczckc, GULZIIYA and Tigerpai 15W use it." }
+        {
+          "label": "30W panel",
+          "text": "Recharges faster and holds up in winter. The Zonkasion and Tigerpai 30W use it."
+        },
+        {
+          "label": "15W panel",
+          "text": "Cheaper but slower to refill. The Teczckc, GULZIIYA and Tigerpai 15W use it."
+        }
       ],
       "note": "Choose 30W if your spot gets limited winter sun."
     },
     {
       "subheading": "By Weather Rating",
       "table": {
-        "headers": ["Rating", "Our pick"],
+        "headers": [
+          "Rating",
+          "Our pick"
+        ],
         "rows": [
-          ["IP66", "GULZIIYA Solar WiFi Extender 26000mAh IP66"],
-          ["IP65", "Tigerpai Solar WiFi Extender 15W 26000mAh"],
-          ["IP65, basic link", "VERVERAY Outdoor Solar WiFi Extender IP65"],
-          ["Not listed", "Zonkasion 30W Solar Dual Band WiFi Repeater"]
+          [
+            "IP66",
+            "GULZIIYA Solar WiFi Extender 26000mAh IP66"
+          ],
+          [
+            "IP65",
+            "Tigerpai Solar WiFi Extender 15W 26000mAh"
+          ],
+          [
+            "IP65, basic link",
+            "VERVERAY Outdoor Solar WiFi Extender IP65"
+          ],
+          [
+            "Not listed",
+            "Zonkasion 30W Solar Dual Band WiFi Repeater"
+          ]
         ]
       }
     },
     {
       "subheading": "For Outdoor Cameras Specifically",
       "cards": [
-        { "label": "Look for", "text": "A LAN port for wired cameras, a stable 2.4GHz link, a weather rating and a battery that survives a cloudy week." },
-        { "label": "In this ranking", "text": "The Teczckc's LAN port is the standout, and the GULZIIYA's IP66 suits exposed mounts." }
+        {
+          "label": "Look for",
+          "text": "A LAN port for wired cameras, a stable 2.4GHz link, a weather rating and a battery that survives a cloudy week."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Teczckc's LAN port is the standout, and the GULZIIYA's IP66 suits exposed mounts."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You need dual-band speed and a 30W panel, which the $100 to $200 Zonkasion and Tigerpai provide." },
-        { "label": "Save if", "text": "A 2.4GHz link for a camera is enough, where the $50 to $100 Tigerpai 15W suffices." }
+        {
+          "label": "Spend more if",
+          "text": "You need dual-band speed and a 30W panel, which the $100 to $200 Zonkasion and Tigerpai provide."
+        },
+        {
+          "label": "Save if",
+          "text": "A 2.4GHz link for a camera is enough, where the $50 to $100 Tigerpai 15W suffices."
+        }
       ]
     }
   ],
@@ -314,5 +467,9 @@
     }
   ],
   "finalTake": "Buy the Zonkasion if you want a large yard covered: 30W, a 111Wh battery and dual-band 1200Mbps. The Tigerpai 30W is the alternative with four antennas. For wired cameras, pick the Teczckc and its LAN port, and for exposed mounts the IP66 GULZIIYA. Treat every range figure as a ceiling.",
-  "related": []
+  "related": [
+    "best-5ghz-wi-fi-extenders",
+    "best-deco-wi-fi-extenders",
+    "best-dual-band-wi-fi-extenders"
+  ]
 }

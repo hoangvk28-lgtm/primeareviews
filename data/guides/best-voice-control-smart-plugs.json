@@ -26,10 +26,22 @@
       "verdict": "Works with Alexa and Google Home, needs no hub, rates 15A and keeps a touch button on the plug.",
       "description": "Kasa's HS103P4 is a 15A Wi-Fi outlet that responds to both Alexa and Google Home and needs no hub. The four-pack covers a living room, a bedroom and a couple of kitchen appliances in one purchase, and the Kasa app handles schedules and remote control. A touch actuator button on the plug is a manual backup when Wi-Fi drops.\n\nIt ranks first because it removes the two risks that sink smart plugs: assistant lock-in and no manual fallback. The Govee also supports both assistants, but Kasa's app is the more established. Against the Amazon Smart Plug, you pay a bit more in the $25 to $50 bracket and get Google support and four plugs.\n\nBest for households that use either assistant. The caveat is that the plug is a basic on/off device, so it does not measure energy use.",
       "keySpecs": [
-        { "label": "Pack size", "value": "4 plugs" },
-        { "label": "Rating", "value": "15A" },
-        { "label": "Assistants", "value": "Alexa and Google Home" },
-        { "label": "Manual control", "value": "Touch actuator button" }
+        {
+          "label": "Pack size",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa and Google Home"
+        },
+        {
+          "label": "Manual control",
+          "value": "Touch actuator button"
+        }
       ],
       "pros": [
         "Works with Alexa and Google",
@@ -56,10 +68,22 @@
       "verdict": "Four plugs that pair over Bluetooth or Wi-Fi, work with Alexa and Google Assistant, and support group control.",
       "description": "Govee's four-pack connects over Bluetooth or Wi-Fi, which makes first-time pairing easier than Wi-Fi only plugs because the phone can talk directly to the plug during setup. It responds to Alexa and Google Assistant, supports schedules and group control, and ships four plugs for the $25 to $50 bucket.\n\nIt ranks second because it matches the Kasa on assistants but lacks a manual button in its listing. Group control is the standout: you can turn all four on with one command, which is handy for a holiday scene or a home office power-down. Against the GHome, it offers more control features for the same price tier.\n\nBest for people who want several plugs and shared commands. The caveat is the Govee app, which is another ecosystem to learn.",
       "keySpecs": [
-        { "label": "Pack size", "value": "4 plugs" },
-        { "label": "Connection", "value": "Bluetooth or Wi-Fi" },
-        { "label": "Assistants", "value": "Alexa and Google Assistant" },
-        { "label": "Extras", "value": "Schedules, group control" }
+        {
+          "label": "Pack size",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Connection",
+          "value": "Bluetooth or Wi-Fi"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa and Google Assistant"
+        },
+        {
+          "label": "Extras",
+          "value": "Schedules, group control"
+        }
       ],
       "pros": [
         "Bluetooth-assisted pairing",
@@ -86,10 +110,22 @@
       "verdict": "A single Alexa plug with no hub and setup entirely inside the Alexa app, at under $25.",
       "description": "Amazon's own plug does one thing: it works with Alexa, needs no hub and sets up inside the Alexa app you already have. There is no second app to install and no account to create, which makes it the fastest start for Echo owners. The listing suggests lamps, fans and coffee makers as the target loads.\n\nIt ranks third because its compatibility is narrow. It is Alexa only, one plug per purchase, and the listing mentions no manual button or schedules beyond what Alexa provides. For an all-Echo home, though, the under $25 price and instant pairing beat the Kasa. The Amazon Basics plug below is compact but costs more.\n\nBest for Echo owners who want the shortest setup. The caveat is that if you ever move to Google, the plug stops working with voice.",
       "keySpecs": [
-        { "label": "Assistant", "value": "Alexa only" },
-        { "label": "Hub", "value": "Not required" },
-        { "label": "Setup", "value": "Alexa app" },
-        { "label": "Pack size", "value": "1 plug" }
+        {
+          "label": "Assistant",
+          "value": "Alexa only"
+        },
+        {
+          "label": "Hub",
+          "value": "Not required"
+        },
+        {
+          "label": "Setup",
+          "value": "Alexa app"
+        },
+        {
+          "label": "Pack size",
+          "value": "1 plug"
+        }
       ],
       "pros": [
         "Setup in the Alexa app",
@@ -116,10 +152,22 @@
       "verdict": "Bluetooth or Wi-Fi pairing, Alexa and Google Assistant support, and app timers from anywhere.",
       "description": "GHome's plug pairs over Bluetooth or Wi-Fi, works with Alexa and Google Assistant, and supports app-based timers you can set remotely. The pitch is hands-free voice control with a friendly setup, and it sits in the $25 to $50 bracket like the Kasa and Govee.\n\nIt ranks fourth because the listing is the lightest on specifics. There is no pack size, rating or manual button described, so you cannot compare it with the Kasa's 15A and touch actuator. Its timers are app-based, so they depend on the app staying supported. In exchange, it covers the basics most first-time buyers need.\n\nBest for beginners who want a simple timer plug. The caveat is that unlisted ratings mean you should check the maximum load against your appliance before plugging in a heater.",
       "keySpecs": [
-        { "label": "Connection", "value": "Bluetooth or Wi-Fi" },
-        { "label": "Assistants", "value": "Alexa and Google Assistant" },
-        { "label": "Remote control", "value": "App, from anywhere" },
-        { "label": "Timers", "value": "App-based" }
+        {
+          "label": "Connection",
+          "value": "Bluetooth or Wi-Fi"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa and Google Assistant"
+        },
+        {
+          "label": "Remote control",
+          "value": "App, from anywhere"
+        },
+        {
+          "label": "Timers",
+          "value": "App-based"
+        }
       ],
       "pros": [
         "Bluetooth-assisted pairing",
@@ -146,10 +194,22 @@
       "verdict": "Four 15A plugs for under $25, with Alexa and Google support through the Smart Life app.",
       "description": "EIGHTREE sells four 15A plugs under $25, which is the lowest cost per plug in this ranking. It works with Alexa and Google Home and is set up through the Smart Life app, a generic platform used by many budget brands.\n\nIt ranks fifth because the Smart Life app is a second system to learn, and generic platforms tend to change menus or pairing steps more often than a dedicated app like Kasa. Against the Kasa, you save money but lose the touch button the Kasa lists. The 15A rating matches the Kasa, which is reassuring for lamps and fans.\n\nBest for buyers filling a whole house on a budget. The caveat is that cloud-based generic apps may be less durable, so check the app's recent reviews before committing a dozen plugs.",
       "keySpecs": [
-        { "label": "Pack size", "value": "4 plugs" },
-        { "label": "Rating", "value": "15A" },
-        { "label": "Assistants", "value": "Alexa and Google" },
-        { "label": "App", "value": "Smart Life" }
+        {
+          "label": "Pack size",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Assistants",
+          "value": "Alexa and Google"
+        },
+        {
+          "label": "App",
+          "value": "Smart Life"
+        }
       ],
       "pros": [
         "Four plugs under $25",
@@ -176,10 +236,22 @@
       "verdict": "A compact single-socket Alexa-only plug with a zero-touch setup option and schedules.",
       "description": "The Amazon Basics plug is slim and takes up a single socket, so it leaves the second outlet of a duplex free. It works with Alexa only, offers a zero-touch setup option, supports schedules and gives remote control through the Alexa app. In the $25 to $50 bucket, it costs more than the Amazon Smart Plug.\n\nIt ranks last because it offers less than other plugs at a higher price: Alexa only, a single plug and no manual button described. The compact body is the reason to buy, since crowded power strips and behind-furniture outlets leave little room. Against the Amazon Smart Plug, it adds schedules and a thinner profile.\n\nBest for Alexa users with crowded outlets. The caveat is that it limits you to Alexa, and a pack of one gets expensive when you outfit a room.",
       "keySpecs": [
-        { "label": "Assistant", "value": "Alexa only" },
-        { "label": "Footprint", "value": "One socket" },
-        { "label": "Setup", "value": "Zero touch option" },
-        { "label": "Schedules", "value": "Yes, via Alexa app" }
+        {
+          "label": "Assistant",
+          "value": "Alexa only"
+        },
+        {
+          "label": "Footprint",
+          "value": "One socket"
+        },
+        {
+          "label": "Setup",
+          "value": "Zero touch option"
+        },
+        {
+          "label": "Schedules",
+          "value": "Yes, via Alexa app"
+        }
       ],
       "pros": [
         "Compact single-socket body",
@@ -245,25 +317,58 @@
       "subheading": "By Voice Assistant",
       "intro": "Decide the assistant first, then the plug.",
       "table": {
-        "headers": ["Your assistant", "Our pick"],
+        "headers": [
+          "Your assistant",
+          "Our pick"
+        ],
         "rows": [
-          ["Alexa or Google", "Kasa Smart Plug HS103P4 (4-Pack)"],
-          ["Alexa and Google, group commands", "Govee Smart Plug, 4-Pack"],
-          ["Alexa only, quickest setup", "Amazon Smart Plug"],
-          ["Alexa only, slim plug", "Amazon Basics Smart Plug (Alexa Only)"],
-          ["Both assistants on a budget", "EIGHTREE Smart Plug WiFi Outlet, 4-Pack"]
+          [
+            "Alexa or Google",
+            "Kasa Smart Plug HS103P4 (4-Pack)"
+          ],
+          [
+            "Alexa and Google, group commands",
+            "Govee Smart Plug, 4-Pack"
+          ],
+          [
+            "Alexa only, quickest setup",
+            "Amazon Smart Plug"
+          ],
+          [
+            "Alexa only, slim plug",
+            "Amazon Basics Smart Plug (Alexa Only)"
+          ],
+          [
+            "Both assistants on a budget",
+            "EIGHTREE Smart Plug WiFi Outlet, 4-Pack"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, one plug", "Amazon Smart Plug"],
-          ["Under $25, four plugs", "EIGHTREE Smart Plug WiFi Outlet, 4-Pack"],
-          ["$25 to $50, best overall", "Kasa Smart Plug HS103P4 (4-Pack)"],
-          ["$25 to $50, group control", "Govee Smart Plug, 4-Pack"]
+          [
+            "Under $25, one plug",
+            "Amazon Smart Plug"
+          ],
+          [
+            "Under $25, four plugs",
+            "EIGHTREE Smart Plug WiFi Outlet, 4-Pack"
+          ],
+          [
+            "$25 to $50, best overall",
+            "Kasa Smart Plug HS103P4 (4-Pack)"
+          ],
+          [
+            "$25 to $50, group control",
+            "Govee Smart Plug, 4-Pack"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Pairing Style",
       "table": {
-        "headers": ["Pairing", "Our pick"],
+        "headers": [
+          "Pairing",
+          "Our pick"
+        ],
         "rows": [
-          ["Hub-free Wi-Fi with button", "Kasa Smart Plug HS103P4 (4-Pack)"],
-          ["Bluetooth or Wi-Fi", "Govee Smart Plug, 4-Pack"],
-          ["Bluetooth or Wi-Fi, beginner", "GHome Smart Plug (Wi-Fi and Bluetooth)"],
-          ["Zero-touch Alexa", "Amazon Basics Smart Plug (Alexa Only)"]
+          [
+            "Hub-free Wi-Fi with button",
+            "Kasa Smart Plug HS103P4 (4-Pack)"
+          ],
+          [
+            "Bluetooth or Wi-Fi",
+            "Govee Smart Plug, 4-Pack"
+          ],
+          [
+            "Bluetooth or Wi-Fi, beginner",
+            "GHome Smart Plug (Wi-Fi and Bluetooth)"
+          ],
+          [
+            "Zero-touch Alexa",
+            "Amazon Basics Smart Plug (Alexa Only)"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most homes the Kasa Smart Plug HS103P4 4-pack is the best voice-control plug: both major assistants, 15A, no hub and a button on the plug. Pick the Govee for group commands and Bluetooth pairing, and the Amazon Smart Plug if you live entirely inside Alexa. The EIGHTREE four-pack is the cheapest way to cover a house.",
-  "related": []
+  "related": [
+    "best-dimmable-smart-plugs",
+    "best-eightree-smart-plugs",
+    "best-homekit-smart-plugs"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "A 50-pint WiFi unit rated for 5,000 sq ft, with the safeguards big basements need.",
       "description": "GE's 50-pint model is listed for basements up to 5,000 sq ft and adds WiFi control, auto shutoff, a full bucket alert and auto restart and defrost. Auto restart brings it back after a power cut, and auto defrost keeps coils from icing in cool basements.\n\nIt ranks first because it combines the widest stated area with the protections that matter in an unattended space. The AEOCKY lists more pints per day but under extreme test conditions, while GE's smaller 35-pint unit covers 3,000 sq ft. This one balances capacity and features.\n\nBuy it for a large finished or unfinished basement. The caveat is the $200 to $500 price, and the listing gives no drain-hose detail, so check how water is removed.",
       "keySpecs": [
-        { "label": "Capacity", "value": "50 pint" },
-        { "label": "Coverage", "value": "Up to 5,000 sq ft" },
-        { "label": "Control", "value": "WiFi smart" },
-        { "label": "Protections", "value": "Auto shutoff, auto restart, defrost" }
+        {
+          "label": "Capacity",
+          "value": "50 pint"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 5,000 sq ft"
+        },
+        {
+          "label": "Control",
+          "value": "WiFi smart"
+        },
+        {
+          "label": "Protections",
+          "value": "Auto shutoff, auto restart, defrost"
+        }
       ],
       "pros": [
         "Rated up to 5,000 sq ft",
@@ -56,10 +68,22 @@
       "verdict": "The largest stated area and capacity, with an Energy Star efficiency claim.",
       "description": "AEOCKY lists 5,500 sq ft of coverage, a maximum of 80 pints per day, and an Energy Star Most Efficient 2025 designation. It states the 80 pints are measured in the humid mid-summer, at 95 degrees F and 95 percent relative humidity.\n\nIt ranks second because that test condition is far harsher than a typical basement, so the figure is a ceiling, not an everyday output. The area and efficiency claims are still the biggest here. The GE 50-pint adds smart features and protections the listing here does not detail.\n\nBuy it for very large, very damp spaces where capacity matters most. The caveat is the marketing tone and the missing detail on controls and drainage.",
       "keySpecs": [
-        { "label": "Capacity", "value": "Up to 80 pints per day" },
-        { "label": "Coverage", "value": "5,500 sq ft" },
-        { "label": "Efficiency", "value": "Energy Star Most Efficient 2025" },
-        { "label": "Test condition", "value": "95 F, 95% RH" }
+        {
+          "label": "Capacity",
+          "value": "Up to 80 pints per day"
+        },
+        {
+          "label": "Coverage",
+          "value": "5,500 sq ft"
+        },
+        {
+          "label": "Efficiency",
+          "value": "Energy Star Most Efficient 2025"
+        },
+        {
+          "label": "Test condition",
+          "value": "95 F, 95% RH"
+        }
       ],
       "pros": [
         "Largest stated 5,500 sq ft",
@@ -86,10 +110,22 @@
       "verdict": "A 35-pint unit for 3,000 sq ft with smart dry fan control and a drain hose connection.",
       "description": "GE's 35-pint unit is listed for around 3,000 sq ft and removes up to 35 pints per day. Its smart dry mode adjusts fan speed based on room conditions, and a built-in drain hose connection simplifies water removal.\n\nIt ranks third because it covers less area than the 50-pint and AEOCKY units, but the drain hose connection is a practical advantage: it lets you run water to a floor drain and skip emptying the bucket. Against the GE with Pump, it needs a floor drain below the unit.\n\nBuy it for a large room or a medium basement with a floor drain. The caveat is that it will struggle in a very wet 5,000 sq ft space.",
       "keySpecs": [
-        { "label": "Capacity", "value": "Up to 35 pints per day" },
-        { "label": "Coverage", "value": "About 3,000 sq ft" },
-        { "label": "Fan", "value": "Smart dry automatic speed" },
-        { "label": "Drain", "value": "Built-in hose connection" }
+        {
+          "label": "Capacity",
+          "value": "Up to 35 pints per day"
+        },
+        {
+          "label": "Coverage",
+          "value": "About 3,000 sq ft"
+        },
+        {
+          "label": "Fan",
+          "value": "Smart dry automatic speed"
+        },
+        {
+          "label": "Drain",
+          "value": "Built-in hose connection"
+        }
       ],
       "pros": [
         "Drain hose connection",
@@ -116,10 +152,22 @@
       "verdict": "A built-in pump for below-grade basements where gravity drainage is impossible.",
       "description": "This GE has a built-in pump for below-grade basements, an easy-to-empty tank or a continuous drain option, and is aimed at large, wet spaces.\n\nIt ranks fourth because the listing gives no pint rating or area, so it cannot be compared on capacity. The pump is the reason to buy: in a basement with no floor drain, gravity hoses do nothing, and a pump pushes water up and out. Against the 35-pint GE, it removes the need for a drain at floor level.\n\nBuy it for a basement with no nearby drain. The caveat is the missing capacity figure and the pump, which is one more part that can fail.",
       "keySpecs": [
-        { "label": "Drain", "value": "Built-in pump" },
-        { "label": "Tank", "value": "Easy-to-empty or continuous drain" },
-        { "label": "Space", "value": "Large, wet areas" },
-        { "label": "Price tier", "value": "$200 to $500" }
+        {
+          "label": "Drain",
+          "value": "Built-in pump"
+        },
+        {
+          "label": "Tank",
+          "value": "Easy-to-empty or continuous drain"
+        },
+        {
+          "label": "Space",
+          "value": "Large, wet areas"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Built-in condensate pump",
@@ -146,10 +194,22 @@
       "verdict": "A 2,500 sq ft dehumidifier with a humidity sensor, at $100 to $200.",
       "description": "BANABIE is designed for spaces up to 2,500 sq ft, lets you choose continuous drainage or a manual tank, and uses a built-in humidity sensor to monitor the air. It is the least expensive unit here, in the $100 to $200 range.\n\nIt ranks last because 2,500 sq ft is the smallest stated area and the listing gives no pint rating. Against the GE 35-pint it covers a smaller space for less money, and the built-in sensor gives automatic control that the plain tank unit lacks.\n\nBuy it for a mid-size basement on a budget. The caveat is the capacity gap, so it suits a damp room and not a flooded one.",
       "keySpecs": [
-        { "label": "Coverage", "value": "Up to 2,500 sq ft" },
-        { "label": "Drain", "value": "Continuous or manual tank" },
-        { "label": "Sensor", "value": "Built-in humidity sensor" },
-        { "label": "Price tier", "value": "$100 to $200" }
+        {
+          "label": "Coverage",
+          "value": "Up to 2,500 sq ft"
+        },
+        {
+          "label": "Drain",
+          "value": "Continuous or manual tank"
+        },
+        {
+          "label": "Sensor",
+          "value": "Built-in humidity sensor"
+        },
+        {
+          "label": "Price tier",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Lowest price here",
@@ -167,11 +227,26 @@
     }
   ],
   "methodology": [
-    { "title": "Stated coverage", "description": "Square footage the listing states and how that compares to a true large room." },
-    { "title": "Daily capacity", "description": "Pints per day and the test conditions behind the figure." },
-    { "title": "Drainage options", "description": "Bucket, hose, continuous drain or built-in pump for removing water." },
-    { "title": "Controls and protections", "description": "Humidity sensors, WiFi, auto shutoff, restart and defrost." },
-    { "title": "Value", "description": "Price tier against area and features." }
+    {
+      "title": "Stated coverage",
+      "description": "Square footage the listing states and how that compares to a true large room."
+    },
+    {
+      "title": "Daily capacity",
+      "description": "Pints per day and the test conditions behind the figure."
+    },
+    {
+      "title": "Drainage options",
+      "description": "Bucket, hose, continuous drain or built-in pump for removing water."
+    },
+    {
+      "title": "Controls and protections",
+      "description": "Humidity sensors, WiFi, auto shutoff, restart and defrost."
+    },
+    {
+      "title": "Value",
+      "description": "Price tier against area and features."
+    }
   ],
   "whatMatters": [
     {
@@ -200,59 +275,122 @@
       "subheading": "By Room Size",
       "intro": "Match the stated coverage to your space.",
       "table": {
-        "headers": ["Space", "Our pick"],
+        "headers": [
+          "Space",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to 5,000 sq ft, smart", "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"],
-          ["Up to 5,500 sq ft", "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"],
-          ["About 3,000 sq ft", "GE Dehumidifier 35 Pint Basement Bedroom Bathroom Drain 3000 Sq"],
-          ["Up to 2,500 sq ft", "BANABIE 2500 Sq.Ft Dehumidifier for Basement"]
+          [
+            "Up to 5,000 sq ft, smart",
+            "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"
+          ],
+          [
+            "Up to 5,500 sq ft",
+            "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"
+          ],
+          [
+            "About 3,000 sq ft",
+            "GE Dehumidifier 35 Pint Basement Bedroom Bathroom Drain 3000 Sq"
+          ],
+          [
+            "Up to 2,500 sq ft",
+            "BANABIE 2500 Sq.Ft Dehumidifier for Basement"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200", "BANABIE 2500 Sq.Ft Dehumidifier for Basement"],
-          ["$200 to $500, smart", "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"],
-          ["$200 to $500, highest capacity", "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"],
-          ["$200 to $500, with pump", "GE Dehumidifier with Pump & Hose"]
+          [
+            "$100 to $200",
+            "BANABIE 2500 Sq.Ft Dehumidifier for Basement"
+          ],
+          [
+            "$200 to $500, smart",
+            "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"
+          ],
+          [
+            "$200 to $500, highest capacity",
+            "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"
+          ],
+          [
+            "$200 to $500, with pump",
+            "GE Dehumidifier with Pump & Hose"
+          ]
         ]
       }
     },
     {
       "subheading": "Pump vs Gravity Drain",
       "cards": [
-        { "label": "Pump", "text": "Lifts water up and out when there is no floor drain. The GE with Pump & Hose uses a built-in pump." },
-        { "label": "Gravity hose", "text": "Runs water downhill to a floor drain with no moving parts. The GE 35-pint and the BANABIE offer continuous drain." }
+        {
+          "label": "Pump",
+          "text": "Lifts water up and out when there is no floor drain. The GE with Pump & Hose uses a built-in pump."
+        },
+        {
+          "label": "Gravity hose",
+          "text": "Runs water downhill to a floor drain with no moving parts. The GE 35-pint and the BANABIE offer continuous drain."
+        }
       ],
       "note": "Use a pump only if you lack a floor drain; otherwise gravity is simpler."
     },
     {
       "subheading": "By Smart Features",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["WiFi, alerts and auto restart", "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"],
-          ["Smart dry fan control", "GE Dehumidifier 35 Pint Basement Bedroom Bathroom Drain 3000 Sq"],
-          ["Built-in humidity sensor", "BANABIE 2500 Sq.Ft Dehumidifier for Basement"],
-          ["Energy Star efficiency claim", "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"]
+          [
+            "WiFi, alerts and auto restart",
+            "GE 50-Pint WiFi Smart Dehumidifier for Basements up to 5000 Sq Ft"
+          ],
+          [
+            "Smart dry fan control",
+            "GE Dehumidifier 35 Pint Basement Bedroom Bathroom Drain 3000 Sq"
+          ],
+          [
+            "Built-in humidity sensor",
+            "BANABIE 2500 Sq.Ft Dehumidifier for Basement"
+          ],
+          [
+            "Energy Star efficiency claim",
+            "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Damp Basement Specifically",
       "cards": [
-        { "label": "Look for", "text": "A stated area above your basement size, auto defrost, a continuous drain and an alert for a full bucket." },
-        { "label": "In this ranking", "text": "The GE 50-Pint covers all four; add the GE with Pump if there is no drain." }
+        {
+          "label": "Look for",
+          "text": "A stated area above your basement size, auto defrost, a continuous drain and an alert for a full bucket."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The GE 50-Pint covers all four; add the GE with Pump if there is no drain."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "Your space is above 3,000 sq ft or very damp, where the $200 to $500 GE 50-Pint or AEOCKY earns its price." },
-        { "label": "Save if", "text": "Your room is mid-size, where the BANABIE at $100 to $200 is enough." }
+        {
+          "label": "Spend more if",
+          "text": "Your space is above 3,000 sq ft or very damp, where the $200 to $500 GE 50-Pint or AEOCKY earns its price."
+        },
+        {
+          "label": "Save if",
+          "text": "Your room is mid-size, where the BANABIE at $100 to $200 is enough."
+        }
       ]
     }
   ],
@@ -283,5 +421,9 @@
     }
   ],
   "finalTake": "Buy the GE 50-Pint WiFi unit if you have a large basement: 5,000 sq ft of stated coverage plus restart, defrost and alerts make it the safest unattended choice. The AEOCKY is the capacity play, and the GE with Pump solves a drainage problem the others cannot. The BANABIE is the budget answer for a mid-size room.",
-  "related": []
+  "related": [
+    "best-space-heaters-for-large-rooms",
+    "best-dehumidifiers-under-200",
+    "best-dehumidifiers-with-pumps"
+  ]
 }

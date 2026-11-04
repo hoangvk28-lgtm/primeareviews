@@ -26,10 +26,22 @@
       "verdict": "Energy monitoring and four-platform Matter support in a four-pack.",
       "description": "The Kasa KP125MP4 is a four-pack of Matter plugs rated 15A and 1800W, with built-in energy monitoring. The maker lists support for Apple Home, Alexa, Google Home and SmartThings, which is the widest platform list in this ranking. Expect $25 to $50 for the set.\n\nEnergy monitoring changes what a plug is for. Instead of a dumb timer, you see which appliance is drawing power, which tells you whether a space heater or a dehumidifier is costing you. It outranks the Tapo P110M four-pack because its Matter listing names more platforms, while that Tapo gives richer cost views. Both match on the 15A rating.\n\nBuy it if you plan to automate several outlets and want to see what they use. The listing says Matter compatible, not certified, so check your hub's firmware before pairing.",
       "keySpecs": [
-        { "label": "Pack size", "value": "4 plugs" },
-        { "label": "Max load", "value": "15A / 1800W" },
-        { "label": "Platforms", "value": "Apple Home, Alexa, Google Home, SmartThings" },
-        { "label": "Energy", "value": "Monitoring built in" }
+        {
+          "label": "Pack size",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Max load",
+          "value": "15A / 1800W"
+        },
+        {
+          "label": "Platforms",
+          "value": "Apple Home, Alexa, Google Home, SmartThings"
+        },
+        {
+          "label": "Energy",
+          "value": "Monitoring built in"
+        }
       ],
       "pros": [
         "Energy monitoring on every plug",
@@ -56,10 +68,22 @@
       "verdict": "Matter-certified with energy stats, visuals and a bill estimate.",
       "description": "The Tapo P110M is a four-pack of Matter-certified plugs rated 15A, with energy tracking visuals, usage stats and a cost view that estimates your bill. It costs between $25 and $50, the same band as the Kasa.\n\nThe bill estimate is the distinguishing feature: where the Kasa shows power, this plug translates it into dollars, which is more useful if you want to justify a purchase. It ranks second because the listing names fewer platforms than the Kasa's four, and does not print a wattage rating. Compared with the Tapo Mini, you get monitoring and three more plugs.\n\nBuy it if you want to see household costs in a graph. Check that your platform supports Matter energy reporting, as not every hub shows it.",
       "keySpecs": [
-        { "label": "Pack size", "value": "4 plugs" },
-        { "label": "Standard", "value": "Matter certified" },
-        { "label": "Rating", "value": "15A" },
-        { "label": "Energy", "value": "Stats, visuals and cost view" }
+        {
+          "label": "Pack size",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Standard",
+          "value": "Matter certified"
+        },
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Energy",
+          "value": "Stats, visuals and cost view"
+        }
       ],
       "pros": [
         "Matter certified",
@@ -86,10 +110,22 @@
       "verdict": "A compact Matter plug for under $25 with local LAN control.",
       "description": "The Tapo Mini is a Matter-certified plug rated 15A and 1800W, with Apple Home and Alexa support, local control over your LAN and a compact design that leaves the second outlet free. It falls in the under $25 range.\n\nLocal control matters because it keeps the plug responsive when the internet is down, which cloud-only plugs cannot do. It ranks third because it has no energy monitoring and the listing names only Apple Home and Alexa, so Google users must check. It beats Linkind and meross on the certified label and the explicit 1800W rating.\n\nBuy it for lamps, fans and coffee makers where you want a reliable switch. Skip it if you want to track consumption, because that feature requires stepping up to the P110M.",
       "keySpecs": [
-        { "label": "Standard", "value": "Matter certified" },
-        { "label": "Max load", "value": "15A / 1800W" },
-        { "label": "Control", "value": "Local over LAN" },
-        { "label": "Platforms", "value": "Apple Home and Alexa" }
+        {
+          "label": "Standard",
+          "value": "Matter certified"
+        },
+        {
+          "label": "Max load",
+          "value": "15A / 1800W"
+        },
+        {
+          "label": "Control",
+          "value": "Local over LAN"
+        },
+        {
+          "label": "Platforms",
+          "value": "Apple Home and Alexa"
+        }
       ],
       "pros": [
         "Matter certified",
@@ -116,10 +152,22 @@
       "verdict": "Matter certified with direct LAN control and four ecosystems listed.",
       "description": "Linkind's plug is Matter certified and lists Apple Home, Alexa, Siri and Google. It uses direct LAN communication for offline-ready control, plus remote app access. It sits in the $25 to $50 range.\n\nOffline-ready control is the real selling point, since automations keep working when the internet is down. It ranks below the Tapo Mini because the listing does not print a load rating, and the price band is higher for a single plug. Against meross, it names more voice assistants and states the local mode.\n\nBuy it for a household that uses mixed voice assistants. The caveat is that no wattage or amperage appears, so confirm the rating before plugging in a space heater or a pump.",
       "keySpecs": [
-        { "label": "Standard", "value": "Matter certified" },
-        { "label": "Platforms", "value": "Apple Home, Alexa, Google Home" },
-        { "label": "Offline", "value": "Direct LAN communication" },
-        { "label": "Remote", "value": "App control" }
+        {
+          "label": "Standard",
+          "value": "Matter certified"
+        },
+        {
+          "label": "Platforms",
+          "value": "Apple Home, Alexa, Google Home"
+        },
+        {
+          "label": "Offline",
+          "value": "Direct LAN communication"
+        },
+        {
+          "label": "Remote",
+          "value": "App control"
+        }
       ],
       "pros": [
         "Matter certified",
@@ -146,10 +194,22 @@
       "verdict": "Echo-friendly setup on 2.4GHz Wi-Fi, with Matter compatibility.",
       "description": "The meross Mini is Matter compatible with frustration-free Echo setup, 2.4GHz Wi-Fi and software requirements of iOS or iPadOS 16.1 or later and Android 8.1 or later. The maker states 100 percent privacy. It costs $25 to $50.\n\nThe Echo setup is the plus: if you own an Alexa speaker, pairing is quick. It ranks fifth because it is labelled compatible rather than certified, it has no stated load rating and it works only on 2.4GHz Wi-Fi, which can be a problem on routers that combine bands. Against Linkind, it lacks a stated local mode.\n\nBuy it for an Alexa-first home. Do not buy it if your router hides 2.4GHz or if you need to track energy use.",
       "keySpecs": [
-        { "label": "Standard", "value": "Matter compatible" },
-        { "label": "Wi-Fi band", "value": "2.4GHz" },
-        { "label": "Apple", "value": "iOS or iPadOS 16.1+" },
-        { "label": "Android", "value": "Android 8.1 or higher" }
+        {
+          "label": "Standard",
+          "value": "Matter compatible"
+        },
+        {
+          "label": "Wi-Fi band",
+          "value": "2.4GHz"
+        },
+        {
+          "label": "Apple",
+          "value": "iOS or iPadOS 16.1+"
+        },
+        {
+          "label": "Android",
+          "value": "Android 8.1 or higher"
+        }
       ],
       "pros": [
         "Easy Echo setup",
@@ -176,10 +236,22 @@
       "verdict": "Two independent outdoor outlets with Matter and four platforms.",
       "description": "The P400M is an outdoor smart plug with two independent outlets, Matter compatibility and support for Apple, Alexa, Google and SmartThings. It costs $25 to $50.\n\nTwo independent outlets let you switch string lights and a pump separately, which no indoor mini here can do. It ranks last in the general ranking because it is a specialist: it makes no sense indoors, and the listing prints no load rating or weather rating. That is the caveat to check before running a pond pump. Among outdoor choices, it is the only one in this guide.\n\nBuy it for patio lighting, holiday displays and garden pumps. Verify the weather rating in the product details before relying on it in heavy rain.",
       "keySpecs": [
-        { "label": "Outlets", "value": "2 independent" },
-        { "label": "Standard", "value": "Matter compatible" },
-        { "label": "Platforms", "value": "Apple, Alexa, Google, SmartThings" },
-        { "label": "Use", "value": "Outdoor" }
+        {
+          "label": "Outlets",
+          "value": "2 independent"
+        },
+        {
+          "label": "Standard",
+          "value": "Matter compatible"
+        },
+        {
+          "label": "Platforms",
+          "value": "Apple, Alexa, Google, SmartThings"
+        },
+        {
+          "label": "Use",
+          "value": "Outdoor"
+        }
       ],
       "pros": [
         "Two independent outlets",
@@ -245,24 +317,54 @@
       "subheading": "By Platform",
       "intro": "Start with the ecosystem you use today, then check which plug names it.",
       "table": {
-        "headers": ["Your ecosystem", "Our pick"],
+        "headers": [
+          "Your ecosystem",
+          "Our pick"
+        ],
         "rows": [
-          ["Apple Home and Alexa", "Tapo Matter Smart Plug Mini (15A/1800W)"],
-          ["All four platforms", "Kasa Matter Smart Plug KP125MP4 (4-Pack)"],
-          ["Alexa-first home", "meross Matter Smart Plug Mini"],
-          ["Apple, Alexa and Google", "Linkind Matter Smart Plug"]
+          [
+            "Apple Home and Alexa",
+            "Tapo Matter Smart Plug Mini (15A/1800W)"
+          ],
+          [
+            "All four platforms",
+            "Kasa Matter Smart Plug KP125MP4 (4-Pack)"
+          ],
+          [
+            "Alexa-first home",
+            "meross Matter Smart Plug Mini"
+          ],
+          [
+            "Apple, Alexa and Google",
+            "Linkind Matter Smart Plug"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "Tapo Matter Smart Plug Mini (15A/1800W)"],
-          ["$25 to $50, energy tracking", "Kasa Matter Smart Plug KP125MP4 (4-Pack)"],
-          ["$25 to $50, cost view", "Tapo Smart Plug P110M, Matter and Energy Monitoring (4-Pack)"],
-          ["$25 to $50, outdoor", "Tapo Matter Outdoor Smart Plug P400M"]
+          [
+            "Under $25",
+            "Tapo Matter Smart Plug Mini (15A/1800W)"
+          ],
+          [
+            "$25 to $50, energy tracking",
+            "Kasa Matter Smart Plug KP125MP4 (4-Pack)"
+          ],
+          [
+            "$25 to $50, cost view",
+            "Tapo Smart Plug P110M, Matter and Energy Monitoring (4-Pack)"
+          ],
+          [
+            "$25 to $50, outdoor",
+            "Tapo Matter Outdoor Smart Plug P400M"
+          ]
         ]
       }
     },
@@ -283,12 +385,27 @@
     {
       "subheading": "By Feature",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["Energy monitoring", "Kasa Matter Smart Plug KP125MP4 (4-Pack)"],
-          ["Bill estimate", "Tapo Smart Plug P110M, Matter and Energy Monitoring (4-Pack)"],
-          ["Offline control", "Linkind Matter Smart Plug"],
-          ["Two outdoor outlets", "Tapo Matter Outdoor Smart Plug P400M"]
+          [
+            "Energy monitoring",
+            "Kasa Matter Smart Plug KP125MP4 (4-Pack)"
+          ],
+          [
+            "Bill estimate",
+            "Tapo Smart Plug P110M, Matter and Energy Monitoring (4-Pack)"
+          ],
+          [
+            "Offline control",
+            "Linkind Matter Smart Plug"
+          ],
+          [
+            "Two outdoor outlets",
+            "Tapo Matter Outdoor Smart Plug P400M"
+          ]
         ]
       }
     },
@@ -346,5 +463,9 @@
     }
   ],
   "finalTake": "The Kasa KP125MP4 four-pack is the best Matter smart plug for most homes, given its energy monitoring, four platforms and a 15A load rating. The Tapo P110M is the pick for anyone who wants a bill estimate, and the Tapo Mini is the cheap single-plug entry. Choose Linkind for offline control, meross for Alexa-first setups and the Tapo P400M only for outdoor use.",
-  "related": []
+  "related": [
+    "best-dimmable-smart-plugs",
+    "best-eightree-smart-plugs",
+    "best-homekit-smart-plugs"
+  ]
 }

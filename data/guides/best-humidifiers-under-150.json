@@ -26,10 +26,22 @@
       "verdict": "Smart top-fill ultrasonic model with auto mode and a claimed 4x faster humidification.",
       "description": "The Classic300S is a smart upgrade on the plain Classic300: an ultrasonic mist, a top-fill opening and an auto mode that holds humidity without you adjusting a knob. The listing claims 4x faster humidification than a basic unit, and the smart control lets you manage it from your phone, which helps when the unit sits across a bedroom.\n\nIt ranks first because it removes the two daily chores, refilling and fiddling, while staying in the $50 to $100 bracket. Against the Classic300, you pay for auto mode and app control, which matter if humidity swings overnight. Against the Large Room Levoit, you give up tank size but get smarter operation.\n\nBest for bedrooms where you want steady humidity without checking. The caveat is that app features rely on home Wi-Fi, and the listing does not publish a tank size.",
       "keySpecs": [
-        { "label": "Type", "value": "Ultrasonic, top fill" },
-        { "label": "Control", "value": "Smart app and auto mode" },
-        { "label": "Speed", "value": "4x faster humidification (listing claim)" },
-        { "label": "Price bracket", "value": "$50 to $100" }
+        {
+          "label": "Type",
+          "value": "Ultrasonic, top fill"
+        },
+        {
+          "label": "Control",
+          "value": "Smart app and auto mode"
+        },
+        {
+          "label": "Speed",
+          "value": "4x faster humidification (listing claim)"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Auto mode holds humidity",
@@ -56,10 +68,22 @@
       "verdict": "A 6.2 L tank and 320 ml/h mist output, with microbial-resistant material and precise auto mode.",
       "description": "This Levoit is the volume pick: a 6.2 L tank paired with 320 ml/h of mist output, a pairing designed to humidify a bigger room quickly. The tank is made of microbial-resistant material, which slows the slimy film that forms in standing water, and a precise auto mode manages the output for you.\n\nIt ranks second because its listing is thinner on features than the Classic300S, with no smart control mentioned. Against the Hiswelle, which shares the large-room label, the Levoit publishes real numbers, and 320 ml/h output is a clear spec to compare. It lands in the $50 to $100 bucket.\n\nBest for a main bedroom or living area. The caveat is that a 6.2 L tank is heavy to carry when full, so fill it in place where you can.",
       "keySpecs": [
-        { "label": "Tank", "value": "6.2 L" },
-        { "label": "Mist output", "value": "320 ml/h" },
-        { "label": "Tank material", "value": "Microbial resistant" },
-        { "label": "Mode", "value": "Precise auto mode" }
+        {
+          "label": "Tank",
+          "value": "6.2 L"
+        },
+        {
+          "label": "Mist output",
+          "value": "320 ml/h"
+        },
+        {
+          "label": "Tank material",
+          "value": "Microbial resistant"
+        },
+        {
+          "label": "Mode",
+          "value": "Precise auto mode"
+        }
       ],
       "pros": [
         "6.2 L tank capacity",
@@ -86,10 +110,22 @@
       "verdict": "60 hours of listed runtime, a 1-step top refill, and a knob with a 360 degree nozzle.",
       "description": "The Classic300 is the manual version of the Classic300S. It lists 60 hours of runtime, which means less frequent refilling, a one-step top refill and a simple knob control with a 360 degree nozzle for aiming the mist. The top-fill opening is also the reason cleaning is quick.\n\nIt ranks third because it lacks auto mode and smart features, so you have to set the knob yourself and watch the room. That is fine for people who like a dial. Against the Levoit Top Fill below, it publishes its runtime, and against the Classic300S it saves money at the same $50 to $100 bucket.\n\nBest for anyone who wants a simple, long-running humidifier. The caveat is that without auto mode, it can over-humidify a small room if you leave it on high.",
       "keySpecs": [
-        { "label": "Runtime", "value": "60 hours (listing claim)" },
-        { "label": "Fill", "value": "1-step top refill" },
-        { "label": "Control", "value": "Knob and 360 degree nozzle" },
-        { "label": "Type", "value": "Ultrasonic" }
+        {
+          "label": "Runtime",
+          "value": "60 hours (listing claim)"
+        },
+        {
+          "label": "Fill",
+          "value": "1-step top refill"
+        },
+        {
+          "label": "Control",
+          "value": "Knob and 360 degree nozzle"
+        },
+        {
+          "label": "Type",
+          "value": "Ultrasonic"
+        }
       ],
       "pros": [
         "60 hour runtime listed",
@@ -116,10 +152,22 @@
       "verdict": "Fast humidification all night, a top-fill design and easier cleaning, at $25 to $50.",
       "description": "The cheapest Levoit in the group is a top-fill bedroom humidifier built for fast humidification through the night, and the listing highlights that it is much easier to clean. In the $25 to $50 bracket, it costs about half as much as the other Levoits here.\n\nIt ranks fourth because the specs are the lightest. There is no tank size, no mist rate and no auto mode in the listing, so you cannot judge how it compares with the 320 ml/h Large Room model. What it provides is the brand's easy-fill design at the lowest price, which suits a first humidifier.\n\nBest for a small bedroom on a budget. The caveat is that the missing numbers leave you guessing about room coverage, so keep it to a modest-sized room.",
       "keySpecs": [
-        { "label": "Fill", "value": "Top fill" },
-        { "label": "Use", "value": "Fast humidification all night" },
-        { "label": "Cleaning", "value": "Easier per listing" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Fill",
+          "value": "Top fill"
+        },
+        {
+          "label": "Use",
+          "value": "Fast humidification all night"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Easier per listing"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Lowest price Levoit",
@@ -146,10 +194,22 @@
       "verdict": "Cool mist with aromatherapy, ambient lighting and auto shut-off when the tank is empty.",
       "description": "This unit, which the listing attributes to Hiswelle, is a cool mist humidifier for large rooms with extras: aromatherapy, ambient lighting and an auto shut-off function that stops it when the tank runs dry. Auto shut-off protects the unit from running empty, which matters if you fall asleep before it finishes.\n\nIt ranks fifth because the extras are not core humidifier performance, and the listing offers no tank size or output figure to back the large-room claim. Against the Levoit Large Room, which publishes 6.2 L and 320 ml/h, this one asks for more trust. The same $50 to $100 bracket applies.\n\nBest for people who like aromatherapy and a soft glow. The caveat is that aroma use can leave residue in the tank, so clean it more often.",
       "keySpecs": [
-        { "label": "Mist", "value": "Cool mist" },
-        { "label": "Extras", "value": "Aromatherapy and ambient lighting" },
-        { "label": "Safety", "value": "Auto shut-off when tank empty" },
-        { "label": "Price bracket", "value": "$50 to $100" }
+        {
+          "label": "Mist",
+          "value": "Cool mist"
+        },
+        {
+          "label": "Extras",
+          "value": "Aromatherapy and ambient lighting"
+        },
+        {
+          "label": "Safety",
+          "value": "Auto shut-off when tank empty"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Auto shut-off when empty",
@@ -176,10 +236,22 @@
       "verdict": "A 6 L tank, a filterless design that is easy to clean and 360 degree coverage, at $25 to $50.",
       "description": "Everlasting Comfort offers a 6 L tank at the lowest price tier alongside the top-fill Levoit, with a filterless design that is easy to clean and mist coverage described as 360 degrees. A 6 L reservoir means fewer refills than the smaller Levoits, and filterless means no replacement cartridges to buy.\n\nIt ranks last because the listing has no auto mode, runtime or output figure, and the fill method is not described. Against the 6.2 L Levoit, it matches the capacity at a lower $25 to $50 bracket but gives up the published 320 ml/h and microbial-resistant tank. It is the value pick for bigger tanks.\n\nBest for budget buyers who want a big tank. The caveat is that, without published output, you will not know how large a room it truly handles.",
       "keySpecs": [
-        { "label": "Tank", "value": "6 L" },
-        { "label": "Design", "value": "Filterless, easy to clean" },
-        { "label": "Coverage", "value": "360 degrees" },
-        { "label": "Price bracket", "value": "$25 to $50" }
+        {
+          "label": "Tank",
+          "value": "6 L"
+        },
+        {
+          "label": "Design",
+          "value": "Filterless, easy to clean"
+        },
+        {
+          "label": "Coverage",
+          "value": "360 degrees"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "6 L tank capacity",
@@ -245,25 +317,58 @@
       "subheading": "By Room Size",
       "intro": "Match the unit's output to the space.",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Large bedroom", "Levoit Humidifiers for Bedroom Large Room"],
-          ["Average bedroom with auto control", "Levoit Classic300S Ultrasonic Smart Top Fill Humidifier"],
-          ["Average bedroom, simple knob", "Levoit Classic300 Ultrasonic Top Fill Humidifier"],
-          ["Small bedroom", "Levoit Top Fill Humidifiers for Bedroom"],
-          ["Large tank on a budget", "Everlasting Comfort 6L Large Humidifier for Bedroom"]
+          [
+            "Large bedroom",
+            "Levoit Humidifiers for Bedroom Large Room"
+          ],
+          [
+            "Average bedroom with auto control",
+            "Levoit Classic300S Ultrasonic Smart Top Fill Humidifier"
+          ],
+          [
+            "Average bedroom, simple knob",
+            "Levoit Classic300 Ultrasonic Top Fill Humidifier"
+          ],
+          [
+            "Small bedroom",
+            "Levoit Top Fill Humidifiers for Bedroom"
+          ],
+          [
+            "Large tank on a budget",
+            "Everlasting Comfort 6L Large Humidifier for Bedroom"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50, easiest to clean", "Levoit Top Fill Humidifiers for Bedroom"],
-          ["$25 to $50, big tank", "Everlasting Comfort 6L Large Humidifier for Bedroom"],
-          ["$50 to $100, best overall", "Levoit Classic300S Ultrasonic Smart Top Fill Humidifier"],
-          ["$50 to $100, large room", "Levoit Humidifiers for Bedroom Large Room"]
+          [
+            "$25 to $50, easiest to clean",
+            "Levoit Top Fill Humidifiers for Bedroom"
+          ],
+          [
+            "$25 to $50, big tank",
+            "Everlasting Comfort 6L Large Humidifier for Bedroom"
+          ],
+          [
+            "$50 to $100, best overall",
+            "Levoit Classic300S Ultrasonic Smart Top Fill Humidifier"
+          ],
+          [
+            "$50 to $100, large room",
+            "Levoit Humidifiers for Bedroom Large Room"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Cleaning Effort",
       "table": {
-        "headers": ["Preference", "Our pick"],
+        "headers": [
+          "Preference",
+          "Our pick"
+        ],
         "rows": [
-          ["Top fill, quickest rinse", "Levoit Classic300 Ultrasonic Top Fill Humidifier"],
-          ["Microbial-resistant tank", "Levoit Humidifiers for Bedroom Large Room"],
-          ["No filters to replace", "Everlasting Comfort 6L Large Humidifier for Bedroom"],
-          ["Auto shut-off when empty", "Humidifiers for Bedroom Large Room"]
+          [
+            "Top fill, quickest rinse",
+            "Levoit Classic300 Ultrasonic Top Fill Humidifier"
+          ],
+          [
+            "Microbial-resistant tank",
+            "Levoit Humidifiers for Bedroom Large Room"
+          ],
+          [
+            "No filters to replace",
+            "Everlasting Comfort 6L Large Humidifier for Bedroom"
+          ],
+          [
+            "Auto shut-off when empty",
+            "Humidifiers for Bedroom Large Room"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most households the Levoit Classic300S is the best humidifier under $150: top fill, auto mode and smart control for $50 to $100. Choose the Levoit Large Room for a big bedroom, the Classic300 for a simple 60 hour runtime, and the Levoit Top Fill when you want the cheapest easy-clean option.",
-  "related": []
+  "related": [
+    "best-aprilaire-whole-house-humidifiers-under-1000",
+    "best-humidifiers-easy-to-clean",
+    "best-humidifiers-for-bedroom"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "The most complete monitor in the Behringer range, with real power, balanced inputs and room correction.",
       "description": "The B2031A is Behringer's reference two-way, and the spec sheet reads like a proper mixing tool: 225 watts of bi-amplified power, balanced connections and a ferrofluid-cooled tweeter. Bi-amplification matters because the woofer and tweeter each get their own amplifier, so a loud bass note cannot choke the highs.\n\nIt beats the B2030A because the larger power budget leaves more headroom before the amplifiers clip, and because the model offers room compensation EQ, the one feature that lets you tame an untreated corner. It costs the most here, in the $500 and up bucket.\n\nBuy it if you mix regularly in a mid-sized room and want one pair to last. Skip it if your desk is shallow, since a monitor this size needs distance from the wall to sound right.",
       "keySpecs": [
-        {"label": "Power", "value": "225 W bi-amplified"},
-        {"label": "Design", "value": "Active 2-way"},
-        {"label": "Tweeter", "value": "Ferrofluid-cooled"},
-        {"label": "Price band", "value": "$500 and up"}
+        {
+          "label": "Power",
+          "value": "225 W bi-amplified"
+        },
+        {
+          "label": "Design",
+          "value": "Active 2-way"
+        },
+        {
+          "label": "Tweeter",
+          "value": "Ferrofluid-cooled"
+        },
+        {
+          "label": "Price band",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "225 watts of bi-amplified power",
@@ -56,10 +68,22 @@
       "verdict": "An 8-inch bi-amped monitor for producers who need to hear what the bass is really doing.",
       "description": "The NEKKST K8 is built around its 8-inch driver and a bi-amped amplifier section. A bigger cone moves more air at low frequencies, which is the reason bass-heavy producers outgrow 5-inch monitors: sub-bass simply is not audible on a small woofer.\n\nIt ranks below the B2031A because the listing gives no wattage, no room correction and fewer connection details, so there is less to verify for the same $200 to $500 bucket. It still earns second place because the driver size is a genuine advantage over the 3.5 and 4.5 inch Truth models.\n\nA fit for electronic and hip-hop producers in a room large enough to let the woofer breathe. In a small bedroom the bass will pile up against the walls.",
       "keySpecs": [
-        {"label": "Woofer", "value": "8 in"},
-        {"label": "Amplification", "value": "Bi-amped"},
-        {"label": "Type", "value": "Powered studio monitor"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Woofer",
+          "value": "8 in"
+        },
+        {
+          "label": "Amplification",
+          "value": "Bi-amped"
+        },
+        {
+          "label": "Type",
+          "value": "Powered studio monitor"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Large 8-inch driver for bass",
@@ -86,10 +110,22 @@
       "verdict": "A fully specified two-way with a documented frequency floor and a separate amp for each driver.",
       "description": "The B2030A lists its numbers openly: an ultra-linear response starting at 50 Hz, built-in 75 and 35 watt amplifiers and a ferrofluid-cooled tweeter. Splitting the amplifiers that way gives the woofer more power than the tweeter, which is how a studio monitor should be built.\n\nIt sits below the K8 because a 50 Hz floor means the deepest bass is simply absent, so you judge sub-bass by feel rather than by ear. Against the Truth 4.5 below it, you get more total power and a proven design in the $100 to $200 bucket.\n\nIt suits writers and podcast editors who want honest mids and a clear spec sheet. Skip it if you produce dance music and need the lowest octave.",
       "keySpecs": [
-        {"label": "Response", "value": "Ultra-linear from 50 Hz"},
-        {"label": "Amplifiers", "value": "75 W and 35 W"},
-        {"label": "Tweeter", "value": "Ferrofluid-cooled"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Response",
+          "value": "Ultra-linear from 50 Hz"
+        },
+        {
+          "label": "Amplifiers",
+          "value": "75 W and 35 W"
+        },
+        {
+          "label": "Tweeter",
+          "value": "Ferrofluid-cooled"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Documented 50 Hz response floor",
@@ -116,10 +152,22 @@
       "verdict": "A compact 4.5-inch pair with a waveguide that widens the listening sweet spot.",
       "description": "The Truth 4.5 is a 4.5-inch desktop pair rated at 64 watts, with an advanced waveguide around the tweeter. A waveguide shapes how the high frequencies spread, which widens the sweet spot so the mix does not collapse when you lean back from your chair.\n\nIt ranks fourth because a 4.5-inch woofer cannot match the low end of the B2030A or K8, and the 64 watt rating is shared with the smaller 3.5 models. Over the Truth 3.5 it adds a larger cone, so more bass at the same $100 to $200 bucket.\n\nIt is a good match for a bedroom or desk-bound producer who wants compact monitors that still show real detail. It is not the pair for sub-bass work.",
       "keySpecs": [
-        {"label": "Woofer", "value": "4.5 in"},
-        {"label": "Power", "value": "64 W"},
-        {"label": "Feature", "value": "Advanced waveguide"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Woofer",
+          "value": "4.5 in"
+        },
+        {
+          "label": "Power",
+          "value": "64 W"
+        },
+        {
+          "label": "Feature",
+          "value": "Advanced waveguide"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Compact 4.5-inch footprint",
@@ -146,10 +194,22 @@
       "verdict": "The smallest wired Truth pair, sized for a laptop desk and close-range listening.",
       "description": "The Truth 3.5 shrinks the same design to a 3.5-inch woofer while keeping the waveguide and the 64 watt rating. Small monitors suit near-field work: at an arm's length the room matters less, and the tweeter reaches your ears before the walls colour the sound.\n\nIt sits fifth because the 3.5-inch cone loses bass to the Truth 4.5 at the same $100 to $200 bucket, and it adds nothing the 4.5 lacks except a smaller footprint. Against the 3.5 BT below, it keeps the wired path only, which is the better choice for timing-critical monitoring.\n\nPick it if the desk is the constraint. Skip it for mixing anything that depends on weight below the bass guitar.",
       "keySpecs": [
-        {"label": "Woofer", "value": "3.5 in"},
-        {"label": "Power", "value": "64 W"},
-        {"label": "Feature", "value": "Advanced waveguide"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Woofer",
+          "value": "3.5 in"
+        },
+        {
+          "label": "Power",
+          "value": "64 W"
+        },
+        {
+          "label": "Feature",
+          "value": "Advanced waveguide"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Smallest desktop footprint",
@@ -176,10 +236,22 @@
       "verdict": "The 3.5-inch Truth with Bluetooth added, for monitors that double as desktop speakers.",
       "description": "This is the Truth 3.5 with Bluetooth, so it keeps the 64 watt rating and waveguide but also streams from a phone. That turns the pair into a speaker you can use between sessions, which is the real appeal for a shared desk.\n\nIt ranks last because Bluetooth compression and latency are no help for mixing, and the extra radio does nothing for the 3.5-inch woofer. Compared with the plain 3.5 it is a convenience upgrade at the same $100 to $200 bucket, so pay only if you will use it.\n\nChoose it for a home setup where one pair covers music, video and light production. Skip it if you will monitor only over a wired interface.",
       "keySpecs": [
-        {"label": "Woofer", "value": "3.5 in"},
-        {"label": "Power", "value": "64 W"},
-        {"label": "Wireless", "value": "Bluetooth"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Woofer",
+          "value": "3.5 in"
+        },
+        {
+          "label": "Power",
+          "value": "64 W"
+        },
+        {
+          "label": "Wireless",
+          "value": "Bluetooth"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Bluetooth streaming from phones",
@@ -197,11 +269,26 @@
     }
   ],
   "methodology": [
-    {"title": "Driver size and extension", "description": "We ranked woofer size and stated frequency floors first, since low-end accuracy is what most separates one monitor size from another."},
-    {"title": "Amplifier design", "description": "Bi-amped and split-amp designs with listed wattage scored above monitors that publish no power figure."},
-    {"title": "Tweeter and waveguide", "description": "We credited ferrofluid cooling and waveguide shaping, which affect high-frequency stability and the width of the sweet spot."},
-    {"title": "Room fit", "description": "Each model was matched to a realistic room size, and room compensation EQ was counted as a genuine advantage."},
-    {"title": "Connectivity", "description": "Balanced connections scored above consumer-style inputs, and Bluetooth was weighed as a convenience, not a mixing feature."}
+    {
+      "title": "Driver size and extension",
+      "description": "We ranked woofer size and stated frequency floors first, since low-end accuracy is what most separates one monitor size from another."
+    },
+    {
+      "title": "Amplifier design",
+      "description": "Bi-amped and split-amp designs with listed wattage scored above monitors that publish no power figure."
+    },
+    {
+      "title": "Tweeter and waveguide",
+      "description": "We credited ferrofluid cooling and waveguide shaping, which affect high-frequency stability and the width of the sweet spot."
+    },
+    {
+      "title": "Room fit",
+      "description": "Each model was matched to a realistic room size, and room compensation EQ was counted as a genuine advantage."
+    },
+    {
+      "title": "Connectivity",
+      "description": "Balanced connections scored above consumer-style inputs, and Bluetooth was weighed as a convenience, not a mixing feature."
+    }
   ],
   "whatMatters": [
     {
@@ -230,61 +317,130 @@
       "subheading": "By Room Size",
       "intro": "Match the monitor to the space before the spec sheet.",
       "table": {
-        "headers": ["Your room", "Our pick"],
+        "headers": [
+          "Your room",
+          "Our pick"
+        ],
         "rows": [
-          ["Large, partly treated studio", "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"],
-          ["Medium room, bass-heavy music", "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"],
-          ["Medium room, general mixing", "Behringer TRUTH B2030A High-Resolution Studio Monitor"],
-          ["Small bedroom or office", "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"],
-          ["Tiny laptop desk", "Behringer Truth 3.5 Audiophile 3.5\" Studio Monitors with Advanced Waveguide"]
+          [
+            "Large, partly treated studio",
+            "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"
+          ],
+          [
+            "Medium room, bass-heavy music",
+            "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"
+          ],
+          [
+            "Medium room, general mixing",
+            "Behringer TRUTH B2030A High-Resolution Studio Monitor"
+          ],
+          [
+            "Small bedroom or office",
+            "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"
+          ],
+          [
+            "Tiny laptop desk",
+            "Behringer Truth 3.5 Audiophile 3.5\" Studio Monitors with Advanced Waveguide"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200, compact", "Behringer Truth 3.5 Audiophile 3.5\" Studio Monitors with Advanced Waveguide"],
-          ["$100 to $200, more bass", "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"],
-          ["$100 to $200, full-size", "Behringer TRUTH B2030A High-Resolution Studio Monitor"],
-          ["$200 to $500", "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"],
-          ["$500 and up", "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"]
+          [
+            "$100 to $200, compact",
+            "Behringer Truth 3.5 Audiophile 3.5\" Studio Monitors with Advanced Waveguide"
+          ],
+          [
+            "$100 to $200, more bass",
+            "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"
+          ],
+          [
+            "$100 to $200, full-size",
+            "Behringer TRUTH B2030A High-Resolution Studio Monitor"
+          ],
+          [
+            "$200 to $500",
+            "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"
+          ],
+          [
+            "$500 and up",
+            "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "Wired vs Bluetooth",
       "cards": [
-        {"label": "Wired", "text": "Sends audio straight from the interface with no compression or delay, which is what mixing needs. Picks: Truth 3.5, Truth 4.5, B2030A, K8 and B2031A."},
-        {"label": "Bluetooth", "text": "Lets the monitors double as everyday speakers for music and video, at the cost of delay and compression. Pick: Behringer TRUTH 3.5 BT."}
+        {
+          "label": "Wired",
+          "text": "Sends audio straight from the interface with no compression or delay, which is what mixing needs. Picks: Truth 3.5, Truth 4.5, B2030A, K8 and B2031A."
+        },
+        {
+          "label": "Bluetooth",
+          "text": "Lets the monitors double as everyday speakers for music and video, at the cost of delay and compression. Pick: Behringer TRUTH 3.5 BT."
+        }
       ],
       "note": "Default to wired unless the pair also has to serve as your living-room speakers."
     },
     {
       "subheading": "By Amplifier Design",
       "table": {
-        "headers": ["Design", "Our pick"],
+        "headers": [
+          "Design",
+          "Our pick"
+        ],
         "rows": [
-          ["225 W bi-amplified", "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"],
-          ["Bi-amped, 8-inch woofer", "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"],
-          ["Split 75 W and 35 W amps", "Behringer TRUTH B2030A High-Resolution Studio Monitor"],
-          ["64 W compact", "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"]
+          [
+            "225 W bi-amplified",
+            "Behringer Truth B2031A High-Resolution Active 2-Way Reference Studio Monitor"
+          ],
+          [
+            "Bi-amped, 8-inch woofer",
+            "Behringer NEKKST K8 Bi Amped 8 Inch Powered Studio Monitor Speaker"
+          ],
+          [
+            "Split 75 W and 35 W amps",
+            "Behringer TRUTH B2030A High-Resolution Studio Monitor"
+          ],
+          [
+            "64 W compact",
+            "Behringer Truth 4.5 Audiophile 4.5\" Studio Monitors with Advanced Waveguide"
+          ]
         ]
       }
     },
     {
       "subheading": "For Home Music Production Specifically",
       "cards": [
-        {"label": "Look for", "text": "A woofer sized for your room, separate amplifiers for each driver and balanced inputs. Treat the walls behind the speakers before spending more on the pair."},
-        {"label": "In this ranking", "text": "The Truth B2031A for a dedicated room, the NEKKST K8 for bass-heavy genres and the Truth 4.5 for a shared bedroom."}
+        {
+          "label": "Look for",
+          "text": "A woofer sized for your room, separate amplifiers for each driver and balanced inputs. Treat the walls behind the speakers before spending more on the pair."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Truth B2031A for a dedicated room, the NEKKST K8 for bass-heavy genres and the Truth 4.5 for a shared bedroom."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You mix for clients or release music. The Truth B2031A adds headroom and room compensation EQ that the compact pairs lack."},
-        {"label": "Save if", "text": "You mostly write, edit video or learn. The Truth 3.5 covers near-field work at the $100 to $200 bucket."}
+        {
+          "label": "Spend more if",
+          "text": "You mix for clients or release music. The Truth B2031A adds headroom and room compensation EQ that the compact pairs lack."
+        },
+        {
+          "label": "Save if",
+          "text": "You mostly write, edit video or learn. The Truth 3.5 covers near-field work at the $100 to $200 bucket."
+        }
       ]
     }
   ],
@@ -315,5 +471,9 @@
     }
   ],
   "finalTake": "The Behringer Truth B2031A is the one to buy if you mix seriously, thanks to 225 watts of bi-amplified power and room compensation EQ. Bass-heavy producers should step to the NEKKST K8, while the Truth B2030A remains the sensible mid-priced workhorse. For small desks, the Truth 4.5 and 3.5 give clean near-field detail, and the 3.5 BT is only worth the extra if you want Bluetooth. Match the size to your room before anything else.",
-  "related": []
+  "related": [
+    "best-8-inch-studio-monitors",
+    "best-active-studio-monitors",
+    "best-adam-audio-studio-monitors"
+  ]
 }

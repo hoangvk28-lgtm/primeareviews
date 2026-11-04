@@ -26,10 +26,22 @@
       "verdict": "The only Eightree here that tracks energy use, and it joins both 5GHz and 2.4GHz networks.",
       "description": "This 4-pack handles both 5GHz and 2.4GHz Wi-Fi, is ETL and FCC listed, works with Alexa and Google Home, and adds built-in energy monitoring. It is also sized so two plugs fit one duplex outlet.\n\nEnergy monitoring is what separates it. A plug that reports usage tells you which space heater, game console or chest freezer is actually running up the bill, which is the real reason most people buy smart plugs. The other Eightree models switch power on and off but cannot report it. Certification also counts: ETL listing means a recognized lab checked the plug against safety standards, a point the cheaper listings leave out.\n\nBuy it for any appliance you want to schedule and measure. The limit is that the listing gives no amp rating, so confirm the load before plugging in a heater.",
       "keySpecs": [
-        { "label": "Wi-Fi", "value": "5GHz and 2.4GHz" },
-        { "label": "Monitoring", "value": "Energy usage built in" },
-        { "label": "Certification", "value": "ETL and FCC" },
-        { "label": "Pack", "value": "4 plugs" }
+        {
+          "label": "Wi-Fi",
+          "value": "5GHz and 2.4GHz"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Energy usage built in"
+        },
+        {
+          "label": "Certification",
+          "value": "ETL and FCC"
+        },
+        {
+          "label": "Pack",
+          "value": "4 plugs"
+        }
       ],
       "pros": [
         "Reads energy use per device",
@@ -56,10 +68,22 @@
       "verdict": "A 15A, 1800W dual-band plug with Bluetooth setup. The best plain plug in the line.",
       "description": "This 4-pack is rated 120V and 15A (1800W), joins 5GHz and 2.4GHz networks, sets up over Bluetooth and works with Alexa and Google Home. It is the model to buy when you want a published load rating and no extras.\n\nIt ranks second because the 1800W figure is the one that matters for power-hungry gear. A plug rated below 15A can run hot with a space heater, and this listing states the full figure. It trails the energy-monitoring pick only in features, not hardware, and it beats the 2.4GHz-only mini and standard 4-pack because the dual-band radio means setup survives a router change. Bluetooth pairing also skips the fiddly hotspot step.\n\nBuy it for lamps, fans and window units. It cannot report usage, so you will guess your savings.",
       "keySpecs": [
-        { "label": "Rating", "value": "120V / 15A (1800W)" },
-        { "label": "Wi-Fi", "value": "5GHz and 2.4GHz" },
-        { "label": "Setup", "value": "Bluetooth" },
-        { "label": "Pack", "value": "4 plugs" }
+        {
+          "label": "Rating",
+          "value": "120V / 15A (1800W)"
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "5GHz and 2.4GHz"
+        },
+        {
+          "label": "Setup",
+          "value": "Bluetooth"
+        },
+        {
+          "label": "Pack",
+          "value": "4 plugs"
+        }
       ],
       "pros": [
         "Full 15A, 1800W rating stated",
@@ -86,10 +110,22 @@
       "verdict": "The only Eightree that lists SmartThings next to Alexa and Google Home.",
       "description": "This 4-pack carries a 15A rating, runs through the Smart Life app, needs no hub and works with Alexa, Google Home and SmartThings. It sits in the under $25 bucket, so it is also the cheapest way into the SmartThings ecosystem in this ranking.\n\nThe SmartThings link is why it ranks third. A Samsung household can fold the plugs into routines alongside lights and sensors without an extra bridge, which none of the other Eightree models list. It falls behind the 5GHz 15A because the listing does not state band support, so a 5GHz-only router is a risk. Without a band mention, assume 2.4GHz.\n\nBuy it for a Samsung-centric home on a budget. If your router hides the 2.4GHz band, check compatibility before you buy.",
       "keySpecs": [
-        { "label": "Rating", "value": "15A" },
-        { "label": "Platforms", "value": "Alexa, Google Home, SmartThings" },
-        { "label": "App", "value": "Smart Life" },
-        { "label": "Hub", "value": "None required" }
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Platforms",
+          "value": "Alexa, Google Home, SmartThings"
+        },
+        {
+          "label": "App",
+          "value": "Smart Life"
+        },
+        {
+          "label": "Hub",
+          "value": "None required"
+        }
       ],
       "pros": [
         "SmartThings support listed",
@@ -116,10 +152,22 @@
       "verdict": "Two independently controlled outlets with IP44 splash protection and extended Wi-Fi range.",
       "description": "This is the only Eightree plug built for outdoor use. It has two independent outlets, IP44 splash protection, a 15A rating and extended Wi-Fi range, and the listing positions it as a timer outlet for outdoor loads.\n\nIt ranks fourth because it solves a different problem than the others. Two outlets on separate switches mean string lights can run on one schedule and a pump or fountain on another. The IP44 rating covers splashes, not submersion, so it still needs a covered spot. Next to the SmartThings plug it costs the same bucket but does not list SmartThings or Bluetooth setup.\n\nBuy it for holiday lights, patio lamps and small pumps. Keep it off a ground-level puddle zone, since IP44 is splash protection only.",
       "keySpecs": [
-        { "label": "Outlets", "value": "2 independent" },
-        { "label": "Protection", "value": "IP44 splash resistant" },
-        { "label": "Rating", "value": "15A" },
-        { "label": "Wi-Fi", "value": "Extended range" }
+        {
+          "label": "Outlets",
+          "value": "2 independent"
+        },
+        {
+          "label": "Protection",
+          "value": "IP44 splash resistant"
+        },
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "Extended range"
+        }
       ],
       "pros": [
         "Two separately switched outlets",
@@ -146,10 +194,22 @@
       "verdict": "A 15A plug sold in 1, 2 or 4 packs with Bluetooth auto-detect setup.",
       "description": "This 15A Wi-Fi outlet runs on the Smart Life app, uses Bluetooth auto-detect for setup and works with Alexa and Google Home. It is sold in 1, 2 and 4 packs, so you can buy just what you need, which no other Eightree model offers.\n\nIt ranks fifth because the listing states neither the band nor an energy feature, and the 5GHz 15A model gives you more for the same bucket. Still, the single-pack option means you can test one plug on your network before buying four, and Bluetooth auto-detect speeds up pairing compared with the older hotspot method.\n\nBuy it for a first smart plug or a small apartment. The weakness is the missing band specification, so verify your router before ordering a four-pack.",
       "keySpecs": [
-        { "label": "Rating", "value": "15A" },
-        { "label": "Setup", "value": "Bluetooth auto-detect" },
-        { "label": "Voice", "value": "Alexa, Google Home" },
-        { "label": "Packs", "value": "1, 2 and 4" }
+        {
+          "label": "Rating",
+          "value": "15A"
+        },
+        {
+          "label": "Setup",
+          "value": "Bluetooth auto-detect"
+        },
+        {
+          "label": "Voice",
+          "value": "Alexa, Google Home"
+        },
+        {
+          "label": "Packs",
+          "value": "1, 2 and 4"
+        }
       ],
       "pros": [
         "Buy one, two or four",
@@ -176,10 +236,22 @@
       "verdict": "A round plug just 1.2 inches thick. Easy to fit behind furniture, but 2.4GHz only.",
       "description": "The Round Mini is a 15A, 1800W plug that sits 1.2 inches off the wall. It connects on 2.4GHz only, is set up over Bluetooth through the Smart Life app, needs no hub and comes in 2 or 4 packs.\n\nIts thin shape is the reason to buy it. A slim plug lets a sofa or bed sit nearer the wall and leaves the second socket on a duplex outlet free. It ranks last because 2.4GHz-only operation is a real limit: it fails the day your router bands are merged or removed, and the dual-band models above avoid that trap.\n\nBuy it for tight spots behind furniture where depth matters more than network flexibility. Check your router has a 2.4GHz network first.",
       "keySpecs": [
-        { "label": "Rating", "value": "15A / 1800W" },
-        { "label": "Thickness", "value": "1.2 in" },
-        { "label": "Wi-Fi", "value": "2.4GHz only" },
-        { "label": "Packs", "value": "2 or 4" }
+        {
+          "label": "Rating",
+          "value": "15A / 1800W"
+        },
+        {
+          "label": "Thickness",
+          "value": "1.2 in"
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "2.4GHz only"
+        },
+        {
+          "label": "Packs",
+          "value": "2 or 4"
+        }
       ],
       "pros": [
         "Only 1.2 inches thick",
@@ -245,24 +317,54 @@
       "subheading": "By Wi-Fi Band",
       "intro": "Check your router before you pick a plug.",
       "table": {
-        "headers": ["Your network", "Our pick"],
+        "headers": [
+          "Your network",
+          "Our pick"
+        ],
         "rows": [
-          ["Dual-band, want usage data", "EIGHTREE 5GHz Smart Plug with Energy Monitoring"],
-          ["Dual-band, plain switching", "EIGHTREE 5GHz Smart Plug 15A"],
-          ["2.4GHz only", "EIGHTREE 15A Smart Plug, Round Mini"],
-          ["Not sure of band", "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"]
+          [
+            "Dual-band, want usage data",
+            "EIGHTREE 5GHz Smart Plug with Energy Monitoring"
+          ],
+          [
+            "Dual-band, plain switching",
+            "EIGHTREE 5GHz Smart Plug 15A"
+          ],
+          [
+            "2.4GHz only",
+            "EIGHTREE 15A Smart Plug, Round Mini"
+          ],
+          [
+            "Not sure of band",
+            "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "EIGHTREE 15A Smart Plug with SmartThings"],
-          ["Under $25, single plug", "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"],
-          ["Under $25, slim", "EIGHTREE 15A Smart Plug, Round Mini"],
-          ["$25 to $50", "EIGHTREE 5GHz Smart Plug with Energy Monitoring"]
+          [
+            "Under $25",
+            "EIGHTREE 15A Smart Plug with SmartThings"
+          ],
+          [
+            "Under $25, single plug",
+            "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"
+          ],
+          [
+            "Under $25, slim",
+            "EIGHTREE 15A Smart Plug, Round Mini"
+          ],
+          [
+            "$25 to $50",
+            "EIGHTREE 5GHz Smart Plug with Energy Monitoring"
+          ]
         ]
       }
     },
@@ -283,12 +385,27 @@
     {
       "subheading": "By Voice Platform",
       "table": {
-        "headers": ["Ecosystem", "Our pick"],
+        "headers": [
+          "Ecosystem",
+          "Our pick"
+        ],
         "rows": [
-          ["Alexa", "EIGHTREE 5GHz Smart Plug 15A"],
-          ["Google Home", "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"],
-          ["SmartThings", "EIGHTREE 15A Smart Plug with SmartThings"],
-          ["Alexa and Google, with usage data", "EIGHTREE 5GHz Smart Plug with Energy Monitoring"]
+          [
+            "Alexa",
+            "EIGHTREE 5GHz Smart Plug 15A"
+          ],
+          [
+            "Google Home",
+            "EIGHTREE Smart Plug WiFi Outlet, 15A, 4 Pack"
+          ],
+          [
+            "SmartThings",
+            "EIGHTREE 15A Smart Plug with SmartThings"
+          ],
+          [
+            "Alexa and Google, with usage data",
+            "EIGHTREE 5GHz Smart Plug with Energy Monitoring"
+          ]
         ]
       }
     },
@@ -346,5 +463,9 @@
     }
   ],
   "finalTake": "Most buyers should take the EIGHTREE 5GHz Smart Plug with Energy Monitoring: it is dual-band, certified and the only one that reports usage. The EIGHTREE 5GHz 15A is the pick for plain switching with a stated 1800W rating. Choose the SmartThings model for a Samsung home, the Outdoor plug for porch lights, and the Round Mini only for crowded outlets on a 2.4GHz network.",
-  "related": []
+  "related": [
+    "best-dimmable-smart-plugs",
+    "best-homekit-smart-plugs",
+    "best-matter-smart-plugs"
+  ]
 }

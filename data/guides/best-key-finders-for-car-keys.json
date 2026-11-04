@@ -26,10 +26,22 @@
       "verdict": "A radio remote with 131 ft range, an 80 dB beep, an LED flashlight and four receivers, with no app.",
       "description": "The Reyke uses a radio remote with four receivers, a range of up to 131 ft, a beep of 80 dB or louder and a built-in LED flashlight. CR2032 batteries are included, and it needs no phone or app.\n\nIt ranks first because the car key problem is mostly at home or in the driveway, and a radio remote answers instantly with no app to open. The longest range in the radio group helps in a large house or garage. The Apple AirTag works across town but needs an iPhone.\n\nBuy it for drivers who lose keys around the house and driveway and want no phone involved. The caveat is that radio range stops at 131 ft, so it cannot find a fob left at a shop.",
       "keySpecs": [
-        { "label": "Type", "value": "RF remote with 4 receivers" },
-        { "label": "Range", "value": "Up to 131 ft" },
-        { "label": "Beep", "value": "80 dB or louder" },
-        { "label": "Extras", "value": "Built-in LED flashlight" }
+        {
+          "label": "Type",
+          "value": "RF remote with 4 receivers"
+        },
+        {
+          "label": "Range",
+          "value": "Up to 131 ft"
+        },
+        {
+          "label": "Beep",
+          "value": "80 dB or louder"
+        },
+        {
+          "label": "Extras",
+          "value": "Built-in LED flashlight"
+        }
       ],
       "pros": [
         "No phone or app needed",
@@ -56,10 +68,22 @@
       "verdict": "Find My network, Precision Finding and a 50 percent louder speaker for iPhone owners.",
       "description": "The AirTag (2nd Generation) uses Apple Find My, Precision Finding on iPhone and Apple Watch, a speaker listed as 50 percent louder than before, and temporary location sharing. It works on iPhone or iPad and costs under $25.\n\nSecond place goes to the AirTag since it solves the problem the radio finders cannot: a fob left in a parking lot or across town shows on a map. Precision Finding points you to the fob within the house. It trails the Reyke because it needs an Apple device, and the tag is bulkier on a key ring than the 0.2 inch radio tags.\n\nBuy it for parking lot and across-town finding for a car fob. The caveat is that Android users cannot use it.",
       "keySpecs": [
-        { "label": "Network", "value": "Apple Find My" },
-        { "label": "Compatibility", "value": "iPhone and iPad" },
-        { "label": "Speaker", "value": "50% louder than before" },
-        { "label": "Finding", "value": "Precision Finding on iPhone and Apple Watch" }
+        {
+          "label": "Network",
+          "value": "Apple Find My"
+        },
+        {
+          "label": "Compatibility",
+          "value": "iPhone and iPad"
+        },
+        {
+          "label": "Speaker",
+          "value": "50% louder than before"
+        },
+        {
+          "label": "Finding",
+          "value": "Precision Finding on iPhone and Apple Watch"
+        }
       ],
       "pros": [
         "Finds fobs across town",
@@ -86,10 +110,22 @@
       "verdict": "A Bluetooth tag that works on iOS and Android, rings your phone and links to Life360.",
       "description": "The Life360 Tile works with iOS and Android, rings your phone too, rings even when the phone is silenced, has a discreet SOS alert, links to Life360 and comes in 1, 2 and 4 packs, using the free Tile app.\n\nIt ranks third because the mixed-platform support makes it the pick for a household where one person has an iPhone and another an Android. It beats the AirTag on compatibility but cannot match the Find My network on iPhone, and it offers no listed loudness figure.\n\nBuy it for couples or families who mix phone types. The caveat is that the feature list has no listed range or loudness.",
       "keySpecs": [
-        { "label": "Compatibility", "value": "iOS and Android" },
-        { "label": "Find phone", "value": "Rings even when silenced" },
-        { "label": "Safety", "value": "Discreet SOS alert" },
-        { "label": "Packs", "value": "1, 2 and 4 packs" }
+        {
+          "label": "Compatibility",
+          "value": "iOS and Android"
+        },
+        {
+          "label": "Find phone",
+          "value": "Rings even when silenced"
+        },
+        {
+          "label": "Safety",
+          "value": "Discreet SOS alert"
+        },
+        {
+          "label": "Packs",
+          "value": "1, 2 and 4 packs"
+        }
       ],
       "pros": [
         "Works on iOS and Android",
@@ -116,10 +152,22 @@
       "verdict": "A radio remote with six thin 0.2 inch receivers and an 85 dB beep, in the $25 to $50 range.",
       "description": "The Esky key finder is an RF remote with six receivers, a beep of up to 85 dB, a range of up to 100 ft, a thickness of 0.2 inches and a CR2032 battery per receiver, lasting up to a year.\n\nIt ranks fourth because the range is 100 ft against the Reyke's 131 ft, but the six receivers cover a car fob, spares and remotes. The 0.2 inch tags are thin enough for a key ring, and 85 dB is louder than the Reyke's 80 dB minimum.\n\nBuy it for a household with a car fob, spare keys and remotes. The caveat is the shorter range and the $25 to $50 price.",
       "keySpecs": [
-        { "label": "Type", "value": "RF remote with 6 receivers" },
-        { "label": "Beep", "value": "Up to 85 dB" },
-        { "label": "Range", "value": "Up to 100 ft" },
-        { "label": "Thickness", "value": "0.2 inches" }
+        {
+          "label": "Type",
+          "value": "RF remote with 6 receivers"
+        },
+        {
+          "label": "Beep",
+          "value": "Up to 85 dB"
+        },
+        {
+          "label": "Range",
+          "value": "Up to 100 ft"
+        },
+        {
+          "label": "Thickness",
+          "value": "0.2 inches"
+        }
       ],
       "pros": [
         "Six receivers in a set",
@@ -146,10 +194,22 @@
       "verdict": "An MFi-certified Find My tag with a battery lasting up to 2 years and out-of-range alerts.",
       "description": "UGREEN's FineTrack Air uses Apple Find My on iOS only, has a replaceable battery of up to 2 years, Apple MFi certification, out-of-range lost alerts and encrypted, anonymous privacy.\n\nIt ranks fifth because it covers the same ground as the AirTag but with fewer finding features listed. The out-of-range alert is its practical benefit: it warns you when the fob is left behind, before you walk away from the car.\n\nBuy it for iPhone owners who want a left-behind alert and long battery life. The caveat is iOS-only support.",
       "keySpecs": [
-        { "label": "Network", "value": "Apple Find My, iOS only" },
-        { "label": "Battery", "value": "Replaceable, up to 2 years" },
-        { "label": "Certification", "value": "Apple MFi certified" },
-        { "label": "Alerts", "value": "Out-of-range lost alert" }
+        {
+          "label": "Network",
+          "value": "Apple Find My, iOS only"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable, up to 2 years"
+        },
+        {
+          "label": "Certification",
+          "value": "Apple MFi certified"
+        },
+        {
+          "label": "Alerts",
+          "value": "Out-of-range lost alert"
+        }
       ],
       "pros": [
         "Out-of-range alert",
@@ -176,10 +236,22 @@
       "verdict": "A radio remote with four thin 0.24 inch tags, a 120 ft range and an 80 to 85 dB beep.",
       "description": "Jegoteer is an RF remote with four receivers, a range of 120 ft, a beep of 80 to 85 dB, tags of 1.8 by 1.2 by 0.24 inches and a pry opener for the cells. No app is needed.\n\nIt ranks last because it sits between the Reyke and Esky on range and loudness without a standout feature, and the beep is quieter than the Esky's top figure. Large buttons on the remote are the benefit for anyone who finds small buttons hard.\n\nBuy it for thin radio tags and large buttons on a car key and spares. The caveat is that it offers no flashlight or extra receivers.",
       "keySpecs": [
-        { "label": "Type", "value": "RF remote with 4 receivers" },
-        { "label": "Range", "value": "120 ft" },
-        { "label": "Beep", "value": "80 to 85 dB" },
-        { "label": "Tag size", "value": "1.8 x 1.2 x 0.24 inches" }
+        {
+          "label": "Type",
+          "value": "RF remote with 4 receivers"
+        },
+        {
+          "label": "Range",
+          "value": "120 ft"
+        },
+        {
+          "label": "Beep",
+          "value": "80 to 85 dB"
+        },
+        {
+          "label": "Tag size",
+          "value": "1.8 x 1.2 x 0.24 inches"
+        }
       ],
       "pros": [
         "No app needed",
@@ -197,11 +269,26 @@
     }
   ],
   "methodology": [
-    { "title": "Range and technology", "description": "Radio range versus phone-network finding for keys lost near or far." },
-    { "title": "Beep loudness", "description": "Listed decibels and how easy the tag is to hear in a house or driveway." },
-    { "title": "Phone compatibility", "description": "iOS, Android or no phone at all." },
-    { "title": "Tag size", "description": "Thickness and weight on a key ring with a car fob." },
-    { "title": "Extras and value", "description": "Flashlights, extra receivers, alerts and pack size." }
+    {
+      "title": "Range and technology",
+      "description": "Radio range versus phone-network finding for keys lost near or far."
+    },
+    {
+      "title": "Beep loudness",
+      "description": "Listed decibels and how easy the tag is to hear in a house or driveway."
+    },
+    {
+      "title": "Phone compatibility",
+      "description": "iOS, Android or no phone at all."
+    },
+    {
+      "title": "Tag size",
+      "description": "Thickness and weight on a key ring with a car fob."
+    },
+    {
+      "title": "Extras and value",
+      "description": "Flashlights, extra receivers, alerts and pack size."
+    }
   ],
   "whatMatters": [
     {
@@ -230,60 +317,126 @@
       "subheading": "By Where You Lose Keys",
       "intro": "Home loss and across-town loss need different tools.",
       "table": {
-        "headers": ["Where", "Our pick"],
+        "headers": [
+          "Where",
+          "Our pick"
+        ],
         "rows": [
-          ["Around the house and driveway", "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"],
-          ["Parking lots and across town, iPhone", "Apple AirTag (2nd Generation)"],
-          ["Across town, mixed phones", "Life360 Tile Bluetooth Tracker, iOS and Android"],
-          ["Across town, left-behind alerts", "UGREEN FineTrack Air Tracker Tags (iOS Only)"]
+          [
+            "Around the house and driveway",
+            "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"
+          ],
+          [
+            "Parking lots and across town, iPhone",
+            "Apple AirTag (2nd Generation)"
+          ],
+          [
+            "Across town, mixed phones",
+            "Life360 Tile Bluetooth Tracker, iOS and Android"
+          ],
+          [
+            "Across town, left-behind alerts",
+            "UGREEN FineTrack Air Tracker Tags (iOS Only)"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, no phone", "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"],
-          ["Under $25, iPhone", "Apple AirTag (2nd Generation)"],
-          ["Under $25, mixed phones", "Life360 Tile Bluetooth Tracker, iOS and Android"],
-          ["Under $25, thin tags", "Jegoteer Remote Control Finder, Pack of 4, 120ft"],
-          ["$25 to $50, six receivers", "Esky Key Finder Locator, 85dB, 6 Receivers"]
+          [
+            "Under $25, no phone",
+            "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"
+          ],
+          [
+            "Under $25, iPhone",
+            "Apple AirTag (2nd Generation)"
+          ],
+          [
+            "Under $25, mixed phones",
+            "Life360 Tile Bluetooth Tracker, iOS and Android"
+          ],
+          [
+            "Under $25, thin tags",
+            "Jegoteer Remote Control Finder, Pack of 4, 120ft"
+          ],
+          [
+            "$25 to $50, six receivers",
+            "Esky Key Finder Locator, 85dB, 6 Receivers"
+          ]
         ]
       }
     },
     {
       "subheading": "Radio Remote vs Bluetooth Tracker",
       "cards": [
-        { "label": "Radio remote", "text": "Needs no phone, beeps loudly within about 100 feet and works at once. The Reyke, Esky and Jegoteer use it." },
-        { "label": "Bluetooth tracker", "text": "Finds items anywhere a phone network reaches. The AirTag, Tile and UGREEN use it." }
+        {
+          "label": "Radio remote",
+          "text": "Needs no phone, beeps loudly within about 100 feet and works at once. The Reyke, Esky and Jegoteer use it."
+        },
+        {
+          "label": "Bluetooth tracker",
+          "text": "Finds items anywhere a phone network reaches. The AirTag, Tile and UGREEN use it."
+        }
       ],
       "note": "Buy a radio remote for home use and a tracker if you lose keys outside."
     },
     {
       "subheading": "By Phone Type",
       "table": {
-        "headers": ["Phone", "Our pick"],
+        "headers": [
+          "Phone",
+          "Our pick"
+        ],
         "rows": [
-          ["No phone needed", "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"],
-          ["iPhone only", "Apple AirTag (2nd Generation)"],
-          ["iPhone and Android", "Life360 Tile Bluetooth Tracker, iOS and Android"],
-          ["iPhone, replaceable battery", "UGREEN FineTrack Air Tracker Tags (iOS Only)"]
+          [
+            "No phone needed",
+            "Reyke Key Finder with Sound, 131ft RF, 4 Receivers"
+          ],
+          [
+            "iPhone only",
+            "Apple AirTag (2nd Generation)"
+          ],
+          [
+            "iPhone and Android",
+            "Life360 Tile Bluetooth Tracker, iOS and Android"
+          ],
+          [
+            "iPhone, replaceable battery",
+            "UGREEN FineTrack Air Tracker Tags (iOS Only)"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Spare Fob Specifically",
       "cards": [
-        { "label": "Look for", "text": "Several receivers in one set and tags thin enough for a key ring." },
-        { "label": "In this ranking", "text": "The Esky's six 0.2 inch receivers cover a fob, spares and remotes." }
+        {
+          "label": "Look for",
+          "text": "Several receivers in one set and tags thin enough for a key ring."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Esky's six 0.2 inch receivers cover a fob, spares and remotes."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You need six receivers for a larger household, as the $25 to $50 Esky provides." },
-        { "label": "Save if", "text": "You need one tag for your fob, where the AirTag or Reyke under $25 do it." }
+        {
+          "label": "Spend more if",
+          "text": "You need six receivers for a larger household, as the $25 to $50 Esky provides."
+        },
+        {
+          "label": "Save if",
+          "text": "You need one tag for your fob, where the AirTag or Reyke under $25 do it."
+        }
       ]
     }
   ],
@@ -314,5 +467,9 @@
     }
   ],
   "finalTake": "Buy the Reyke if you lose keys at home: 131 ft, 80 dB, a flashlight and no app. iPhone owners who lose fobs away from home should pick the AirTag. Mixed households should choose the Life360 Tile, and the Esky suits those who want six receivers. Pair the finder with a spare key regardless.",
-  "related": []
+  "related": [
+    "best-whistle-key-finders",
+    "best-bluetooth-trackers-for-keys",
+    "best-key-finder-under-50"
+  ]
 }

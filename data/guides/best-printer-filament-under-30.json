@@ -15,11 +15,26 @@
     "We reviewed six spools, all under $25 and all in 1.75 mm: two PLA, two PETG and two ABS. Each was ranked on the Primea framework, with the heaviest weight on material fit for typical hobby prints, how tangle-free and consistent the spool is described to be, and strength or heat resistance relative to the price. Your printer's enclosure and bed decide which polymer is realistic."
   ],
   "methodology": [
-    { "title": "Material fit", "description": "PLA, PETG and ABS suit different parts, so each spool was judged against the jobs its polymer is built for." },
-    { "title": "Winding and tangle resistance", "description": "We rewarded spools described as neatly wound and less tangle-prone, since winding quality is the leading cause of failed long prints." },
-    { "title": "Strength and heat", "description": "Impact resistance, layer adhesion and heat resistance were compared against what each listing actually claims." },
-    { "title": "Printing experience", "description": "Odor, accuracy and how forgiving the material is to print were weighed, with low-odor ABS and easy PLA scoring well." },
-    { "title": "Value within the field", "description": "Every pick is under $25, so value was judged on what the spool gives you for that spend relative to the others in this guide." }
+    {
+      "title": "Material fit",
+      "description": "PLA, PETG and ABS suit different parts, so each spool was judged against the jobs its polymer is built for."
+    },
+    {
+      "title": "Winding and tangle resistance",
+      "description": "We rewarded spools described as neatly wound and less tangle-prone, since winding quality is the leading cause of failed long prints."
+    },
+    {
+      "title": "Strength and heat",
+      "description": "Impact resistance, layer adhesion and heat resistance were compared against what each listing actually claims."
+    },
+    {
+      "title": "Printing experience",
+      "description": "Odor, accuracy and how forgiving the material is to print were weighed, with low-odor ABS and easy PLA scoring well."
+    },
+    {
+      "title": "Value within the field",
+      "description": "Every pick is under $25, so value was judged on what the spool gives you for that spend relative to the others in this guide."
+    }
   ],
   "whatMatters": [
     {
@@ -48,61 +63,130 @@
       "subheading": "By Material",
       "intro": "Start with the part, then pick the polymer.",
       "table": {
-        "headers": ["What you are printing", "Our pick"],
+        "headers": [
+          "What you are printing",
+          "Our pick"
+        ],
         "rows": [
-          ["Models, prototypes, desk items", "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"],
-          ["Hot environments, mechanical parts", "Polymaker ABS Filament Black 1KG 1.75mm"],
-          ["Tough, weather-exposed parts", "SUNLU PETG Filament 1.75mm"],
-          ["Transparent or glossy parts", "Creality PETG Filament 1.75mm"],
-          ["Cheap heat-resistant parts", "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"]
+          [
+            "Models, prototypes, desk items",
+            "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"
+          ],
+          [
+            "Hot environments, mechanical parts",
+            "Polymaker ABS Filament Black 1KG 1.75mm"
+          ],
+          [
+            "Tough, weather-exposed parts",
+            "SUNLU PETG Filament 1.75mm"
+          ],
+          [
+            "Transparent or glossy parts",
+            "Creality PETG Filament 1.75mm"
+          ],
+          [
+            "Cheap heat-resistant parts",
+            "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, everyday PLA", "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"],
-          ["Under $25, bundle of PLA", "Creality PLA 3D Printer Filament"],
-          ["Under $25, strong PETG", "SUNLU PETG Filament 1.75mm"],
-          ["Under $25, low-odor ABS", "Polymaker ABS Filament Black 1KG 1.75mm"],
-          ["Under $25, budget ABS", "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"]
+          [
+            "Under $25, everyday PLA",
+            "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"
+          ],
+          [
+            "Under $25, bundle of PLA",
+            "Creality PLA 3D Printer Filament"
+          ],
+          [
+            "Under $25, strong PETG",
+            "SUNLU PETG Filament 1.75mm"
+          ],
+          [
+            "Under $25, low-odor ABS",
+            "Polymaker ABS Filament Black 1KG 1.75mm"
+          ],
+          [
+            "Under $25, budget ABS",
+            "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"
+          ]
         ]
       }
     },
     {
       "subheading": "PLA vs PETG vs ABS",
       "cards": [
-        { "label": "PLA", "text": "Easiest to print and fine for most hobby work. It softens in a hot car, so avoid it for parts that see heat. Picks: ELEGOO PLA, Creality PLA." },
-        { "label": "PETG or ABS", "text": "PETG gives toughness and weather resistance. ABS gives heat resistance but needs ventilation. Picks: SUNLU PETG, Creality PETG, Polymaker ABS, ELEGOO ABS." }
+        {
+          "label": "PLA",
+          "text": "Easiest to print and fine for most hobby work. It softens in a hot car, so avoid it for parts that see heat. Picks: ELEGOO PLA, Creality PLA."
+        },
+        {
+          "label": "PETG or ABS",
+          "text": "PETG gives toughness and weather resistance. ABS gives heat resistance but needs ventilation. Picks: SUNLU PETG, Creality PETG, Polymaker ABS, ELEGOO ABS."
+        }
       ],
       "note": "Default to PLA unless the part needs heat, flex or outdoor survival."
     },
     {
       "subheading": "By Printer Setup",
       "table": {
-        "headers": ["Your setup", "Our pick"],
+        "headers": [
+          "Your setup",
+          "Our pick"
+        ],
         "rows": [
-          ["Open-frame printer, beginner", "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"],
-          ["Open-frame, want toughness", "SUNLU PETG Filament 1.75mm"],
-          ["Enclosed printer, ventilated room", "Polymaker ABS Filament Black 1KG 1.75mm"],
-          ["Enclosed, budget-minded", "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"]
+          [
+            "Open-frame printer, beginner",
+            "ELEGOO PLA 3D Printer Filament 1.75mm Black 1KG"
+          ],
+          [
+            "Open-frame, want toughness",
+            "SUNLU PETG Filament 1.75mm"
+          ],
+          [
+            "Enclosed printer, ventilated room",
+            "Polymaker ABS Filament Black 1KG 1.75mm"
+          ],
+          [
+            "Enclosed, budget-minded",
+            "ELEGOO ABS 3D Printer Filament 1.75mm Black 1KG Strong Layer Adhesion"
+          ]
         ]
       }
     },
     {
       "subheading": "For Functional Parts Specifically",
       "cards": [
-        { "label": "Look for", "text": "Strong layer adhesion, heat or impact resistance stated on the listing, and a polymer matched to where the part will sit." },
-        { "label": "In this ranking", "text": "Polymaker ABS for heat and mechanical use, SUNLU PETG for tough weather-exposed parts, and ELEGOO ABS for cheap heat-resistant parts." }
+        {
+          "label": "Look for",
+          "text": "Strong layer adhesion, heat or impact resistance stated on the listing, and a polymer matched to where the part will sit."
+        },
+        {
+          "label": "In this ranking",
+          "text": "Polymaker ABS for heat and mechanical use, SUNLU PETG for tough weather-exposed parts, and ELEGOO ABS for cheap heat-resistant parts."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You print for clients or run long jobs. Polymaker ABS and ELEGOO PLA are the safest picks here, because wasted prints cost more than a few dollars per spool." },
-        { "label": "Save if", "text": "You are just practicing or printing throwaway prototypes. Creality PLA and Creality PETG keep the spend low." }
+        {
+          "label": "Spend more if",
+          "text": "You print for clients or run long jobs. Polymaker ABS and ELEGOO PLA are the safest picks here, because wasted prints cost more than a few dollars per spool."
+        },
+        {
+          "label": "Save if",
+          "text": "You are just practicing or printing throwaway prototypes. Creality PLA and Creality PETG keep the spend low."
+        }
       ]
     }
   ],
@@ -118,13 +202,33 @@
       "verdict": "Neatly wound, less-tangle PLA that is accurate and consistent for under $25.",
       "description": "This is 1.75 mm black PLA on a 1 kg spool, described as accurate, consistent, less tangle-prone and neatly wound. It sits under $25, which makes it the sensible default spool for any hobby printer.\n\nIt wins because PLA is the polymer most prints should use, and the winding claims address the most common cause of failed jobs. Against the Creality PLA, which is sold as a bundle, the ELEGOO is the one aimed at consistent quality rather than volume. Against the PETG and ABS spools below, it gives up toughness and heat resistance in exchange for being the easiest to print.\n\nBuy it for prototypes, desk accessories and models. The caveat is polymer: PLA softens in heat, so keep it away from parts that will sit in a warm car.",
       "keySpecs": [
-        { "label": "Material", "value": "PLA" },
-        { "label": "Diameter", "value": "1.75 mm" },
-        { "label": "Weight", "value": "1 kg spool" },
-        { "label": "Color", "value": "Black" }
+        {
+          "label": "Material",
+          "value": "PLA"
+        },
+        {
+          "label": "Diameter",
+          "value": "1.75 mm"
+        },
+        {
+          "label": "Weight",
+          "value": "1 kg spool"
+        },
+        {
+          "label": "Color",
+          "value": "Black"
+        }
       ],
-      "pros": ["Neatly wound spool", "Less tangle claimed", "Accurate and consistent", "Easy PLA for beginners"],
-      "cons": ["Softens in heat", "Black only on this listing"],
+      "pros": [
+        "Neatly wound spool",
+        "Less tangle claimed",
+        "Accurate and consistent",
+        "Easy PLA for beginners"
+      ],
+      "cons": [
+        "Softens in heat",
+        "Black only on this listing"
+      ],
       "idealFor": "Beginners and everyday printing.",
       "skipIf": "Your part will face heat, weather or heavy impact."
     },
@@ -139,13 +243,33 @@
       "verdict": "A strong, heat-resistant ABS in a low-odor formula, built for functional parts.",
       "description": "Polymaker's ABS is a 1 kg, 1.75 mm black spool marketed as strong and heat resistant, made for functional and mechanical parts. The formula is low odor, which matters for ABS, a polymer known for unpleasant fumes.\n\nIt takes second because heat resistance is the capability PLA cannot offer. Compared with the ELEGOO ABS, Polymaker's low-odor formula is the differentiator, and it makes a ventilated workshop feel less punishing. The tradeoff against the PLA picks is difficulty: ABS prints best in an enclosed machine.\n\nBuy it for brackets, enclosures and parts near hot hardware. The caveat is that low odor is not no odor, so keep ventilation on and avoid printing it in a bedroom.",
       "keySpecs": [
-        { "label": "Material", "value": "ABS" },
-        { "label": "Diameter", "value": "1.75 mm" },
-        { "label": "Weight", "value": "1 kg spool" },
-        { "label": "Focus", "value": "Heat-resistant, low odor" }
+        {
+          "label": "Material",
+          "value": "ABS"
+        },
+        {
+          "label": "Diameter",
+          "value": "1.75 mm"
+        },
+        {
+          "label": "Weight",
+          "value": "1 kg spool"
+        },
+        {
+          "label": "Focus",
+          "value": "Heat-resistant, low odor"
+        }
       ],
-      "pros": ["Heat-resistant material", "Low-odor formula", "Made for mechanical parts", "Respected filament brand"],
-      "cons": ["Harder to print than PLA", "Still needs ventilation"],
+      "pros": [
+        "Heat-resistant material",
+        "Low-odor formula",
+        "Made for mechanical parts",
+        "Respected filament brand"
+      ],
+      "cons": [
+        "Harder to print than PLA",
+        "Still needs ventilation"
+      ],
       "idealFor": "Functional parts that see heat.",
       "skipIf": "You have an open-frame printer in a living space."
     },
@@ -160,13 +284,33 @@
       "verdict": "PETG with strong layer adhesion and the toughness the material is known for.",
       "description": "SUNLU's PETG is a 1.75 mm filament marketed for excellent layer adhesion and enhanced toughness, with the toughness PETG is known for. It sits under $25.\n\nIt ranks third because PETG is the practical middle ground between PLA and ABS. It is tougher than PLA and far easier to print than ABS, so it suits parts that need some flex or outdoor survival. Against the Creality PETG, the SUNLU pitch is mechanical strength, while the Creality leans toward appearance with its transparent, glossy finish.\n\nBuy it for functional prints, garden gear and parts that will see moisture. The caveat is that the listing text is thin on details like spool weight, so check that before assuming 1 kg.",
       "keySpecs": [
-        { "label": "Material", "value": "PETG" },
-        { "label": "Diameter", "value": "1.75 mm" },
-        { "label": "Focus", "value": "Layer adhesion, toughness" },
-        { "label": "Price", "value": "Under $25" }
+        {
+          "label": "Material",
+          "value": "PETG"
+        },
+        {
+          "label": "Diameter",
+          "value": "1.75 mm"
+        },
+        {
+          "label": "Focus",
+          "value": "Layer adhesion, toughness"
+        },
+        {
+          "label": "Price",
+          "value": "Under $25"
+        }
       ],
-      "pros": ["Strong layer adhesion", "Tougher than PLA", "Easier than ABS", "Under $25"],
-      "cons": ["Spool weight not stated", "Prone to moisture if stored badly"],
+      "pros": [
+        "Strong layer adhesion",
+        "Tougher than PLA",
+        "Easier than ABS",
+        "Under $25"
+      ],
+      "cons": [
+        "Spool weight not stated",
+        "Prone to moisture if stored badly"
+      ],
       "idealFor": "Functional parts that need toughness without ABS hassle.",
       "skipIf": "You want the easiest possible printing."
     },
@@ -181,13 +325,33 @@
       "verdict": "Glossy, transparent-capable PETG with a non-toxic material claim.",
       "description": "Creality's PETG is a 1.75 mm filament pitched at high performance and strength, with a transparent, glossy finish and a non-toxic material claim. It is another under-$25 pick.\n\nIt lands fourth because the SUNLU PETG makes a stronger case on toughness and layer bonding, while this spool leads with looks. For lamp shades, display parts and anything where finish matters, the Creality is the more interesting choice. It is also a natural pairing if you already own a Creality printer.\n\nBuy it for glossy or see-through prints. The caveat is that the listing leaves out temperature and spool weight details, so treat the first print as a calibration exercise.",
       "keySpecs": [
-        { "label": "Material", "value": "PETG" },
-        { "label": "Diameter", "value": "1.75 mm" },
-        { "label": "Finish", "value": "Transparent and glossy" },
-        { "label": "Price", "value": "Under $25" }
+        {
+          "label": "Material",
+          "value": "PETG"
+        },
+        {
+          "label": "Diameter",
+          "value": "1.75 mm"
+        },
+        {
+          "label": "Finish",
+          "value": "Transparent and glossy"
+        },
+        {
+          "label": "Price",
+          "value": "Under $25"
+        }
       ],
-      "pros": ["Glossy finish", "Transparent option", "Non-toxic material claim", "Strong, durable PETG"],
-      "cons": ["Listing lacks print details", "Needs dry storage"],
+      "pros": [
+        "Glossy finish",
+        "Transparent option",
+        "Non-toxic material claim",
+        "Strong, durable PETG"
+      ],
+      "cons": [
+        "Listing lacks print details",
+        "Needs dry storage"
+      ],
       "idealFor": "Appearance-driven prints in PETG.",
       "skipIf": "You want to compare the strongest PETG on paper."
     },
@@ -202,13 +366,33 @@
       "verdict": "Impact-resistant ABS with strong layer adhesion and a less-tangle winding.",
       "description": "ELEGOO's ABS is a 1 kg, 1.75 mm black spool marketed for impact resistance, strong layer adhesion, and superior heat and water resistance. It is described as less-tangle and consistent.\n\nIt ranks fifth because the Polymaker ABS adds a low-odor formula, which is the more valuable feature in a home workshop. The ELEGOO wins by pairing ABS with the same winding story as its PLA, plus a clear layer-adhesion claim. For anyone already buying ELEGOO PLA, it is an easy step up.\n\nBuy it if you need heat-resistant parts and want to stay under $25. The caveat is that, like all ABS, it needs ventilation, and the listing does not say that it is low odor.",
       "keySpecs": [
-        { "label": "Material", "value": "ABS" },
-        { "label": "Diameter", "value": "1.75 mm" },
-        { "label": "Weight", "value": "1 kg spool" },
-        { "label": "Focus", "value": "Impact and heat resistance" }
+        {
+          "label": "Material",
+          "value": "ABS"
+        },
+        {
+          "label": "Diameter",
+          "value": "1.75 mm"
+        },
+        {
+          "label": "Weight",
+          "value": "1 kg spool"
+        },
+        {
+          "label": "Focus",
+          "value": "Impact and heat resistance"
+        }
       ],
-      "pros": ["Impact resistant", "Strong layer adhesion", "Less-tangle winding", "Heat and water resistance"],
-      "cons": ["No low-odor claim", "Needs ventilation and care"],
+      "pros": [
+        "Impact resistant",
+        "Strong layer adhesion",
+        "Less-tangle winding",
+        "Heat and water resistance"
+      ],
+      "cons": [
+        "No low-odor claim",
+        "Needs ventilation and care"
+      ],
       "idealFor": "Heat-resistant parts on a budget.",
       "skipIf": "You want the lowest-odor ABS."
     },
@@ -223,13 +407,34 @@
       "verdict": "A cost-effective PLA bundle for printers that burn through plastic.",
       "description": "Creality's PLA is sold as a cost-effective filament bundle that is described as smooth, stable to print and durable. It falls under $25.\n\nIt ranks last because the listing gives the least specific information on this page, with no diameter, weight or winding claims. Against the ELEGOO PLA, which states 1.75 mm and 1 kg and the tangle-resistant winding, this one is vaguer. Its value comes from the bundle format, which can lower the cost per spool for frequent printers.\n\nBuy it if you print often and want volume. The caveat is the vagueness, so confirm diameter and spool count on the listing before ordering.",
       "keySpecs": [
-        { "label": "Material", "value": "PLA" },
-        { "label": "Format", "value": "Filament bundle" },
-        { "label": "Price", "value": "Under $25" },
-        { "label": "Focus", "value": "Stable printing, durable" }
+        {
+          "label": "Material",
+          "value": "PLA"
+        },
+        {
+          "label": "Format",
+          "value": "Filament bundle"
+        },
+        {
+          "label": "Price",
+          "value": "Under $25"
+        },
+        {
+          "label": "Focus",
+          "value": "Stable printing, durable"
+        }
       ],
-      "pros": ["Bundle lowers cost per spool", "Smooth, stable printing claimed", "Durable PLA", "Under $25"],
-      "cons": ["Diameter not stated", "Weight not stated", "No winding detail"],
+      "pros": [
+        "Bundle lowers cost per spool",
+        "Smooth, stable printing claimed",
+        "Durable PLA",
+        "Under $25"
+      ],
+      "cons": [
+        "Diameter not stated",
+        "Weight not stated",
+        "No winding detail"
+      ],
       "idealFor": "Frequent printers who want bulk plastic.",
       "skipIf": "You need clear diameter and spool details."
     }
@@ -261,5 +466,9 @@
     }
   ],
   "finalTake": "ELEGOO PLA is the spool to buy first: neatly wound, consistent, and under $25. Need heat resistance? Polymaker ABS brings a low-odor formula, while ELEGOO ABS trims the cost further. For tough or weather-exposed parts, SUNLU PETG is the better material, and Creality PETG is the one to pick when finish matters. Creality PLA only makes sense as a bundle for heavy users.",
-  "related": []
+  "related": [
+    "best-rolling-printer-stands",
+    "best-under-desk-printer-stands",
+    "best-desktop-printer-stands"
+  ]
 }

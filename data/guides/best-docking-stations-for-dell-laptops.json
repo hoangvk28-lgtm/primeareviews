@@ -26,10 +26,22 @@
       "verdict": "Thunderbolt 4, 8K display output and a 180W adapter, with Dell power negotiation.",
       "description": "Dell's SD25TB4 Pro is a Thunderbolt 4 dock that supports 8K display output. It includes a 180W power adapter, HDMI, DisplayPort and Thunderbolt cables and a 3-year warranty, and it negotiates power with Dell laptops. It sits in the $200 to $500 bucket.\n\nThe 180W adapter is why it ranks first. Most docks cap out around 100W or 130W, which is not enough to charge a workstation-class Dell while it works. Power negotiation also means the laptop reads the dock as a Dell adapter and charges at full speed. Cables in the box save a purchase. It beats the WD22TB4 on power and a longer warranty, and costs more.\n\nBuy it for a Dell laptop that draws a lot of power. The price bucket is the limit.",
       "keySpecs": [
-        { "label": "Standard", "value": "Thunderbolt 4" },
-        { "label": "Power adapter", "value": "180W included" },
-        { "label": "Display", "value": "Up to 8K output" },
-        { "label": "Warranty", "value": "3 years" }
+        {
+          "label": "Standard",
+          "value": "Thunderbolt 4"
+        },
+        {
+          "label": "Power adapter",
+          "value": "180W included"
+        },
+        {
+          "label": "Display",
+          "value": "Up to 8K output"
+        },
+        {
+          "label": "Warranty",
+          "value": "3 years"
+        }
       ],
       "pros": [
         "180W adapter in the box",
@@ -56,10 +68,22 @@
       "verdict": "Thunderbolt 4 with 130W power delivery from the previous Dell Smart Dock line.",
       "description": "The WD22TB4 is a Thunderbolt 4 dock with 130W power delivery from Dell's previous-generation Smart Dock line. It offers Dell OEM power negotiation, multiple display outputs and a standard Dell business warranty. It sits in the $100 to $200 bucket.\n\nSecond place goes to it because it keeps the features that matter, Thunderbolt 4 and power negotiation, for a lower price bucket. The 130W figure is 50W below the SD25TB4, which is only an issue for laptops with high-wattage adapters. Compared with the WD19TBS, it moves from Thunderbolt 3 to Thunderbolt 4.\n\nBuy it for a standard Dell business laptop. The previous-generation label means the SD25TB4 has newer features such as 8K output.",
       "keySpecs": [
-        { "label": "Standard", "value": "Thunderbolt 4" },
-        { "label": "Power delivery", "value": "130W" },
-        { "label": "Compatibility", "value": "Dell OEM power negotiation" },
-        { "label": "Warranty", "value": "Standard Dell business" }
+        {
+          "label": "Standard",
+          "value": "Thunderbolt 4"
+        },
+        {
+          "label": "Power delivery",
+          "value": "130W"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Dell OEM power negotiation"
+        },
+        {
+          "label": "Warranty",
+          "value": "Standard Dell business"
+        }
       ],
       "pros": [
         "Thunderbolt 4",
@@ -86,10 +110,22 @@
       "verdict": "A certified Thunderbolt 4 dock with 100W charging that also works with Mac and other laptops.",
       "description": "Plugable's TBT-UDM is a Thunderbolt 4 certified dock with driverless setup and 100W charging. It runs dual 4K HDMI displays or a single 6K display, has 6 USB ports, an SD card reader and Ethernet, and works across Dell, Mac and other Thunderbolt 4 laptops. It sits in the $100 to $200 bucket.\n\nCross-brand support is the point. If your household has a Dell and a MacBook, one dock covers both. Third place reflects that 100W is below Dell's 130W and the listing names no Dell power negotiation, so a high-draw Dell laptop may charge slowly. The Thunderbolt 4 certification is a genuine plus over docks that only claim compatibility.\n\nBuy it for a mixed-laptop home or office. For a Dell with a high-wattage adapter, choose a Dell dock.",
       "keySpecs": [
-        { "label": "Standard", "value": "Thunderbolt 4 certified" },
-        { "label": "Charging", "value": "100W" },
-        { "label": "Displays", "value": "Dual 4K HDMI or single 6K" },
-        { "label": "Ports", "value": "6x USB, SD, Ethernet" }
+        {
+          "label": "Standard",
+          "value": "Thunderbolt 4 certified"
+        },
+        {
+          "label": "Charging",
+          "value": "100W"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K HDMI or single 6K"
+        },
+        {
+          "label": "Ports",
+          "value": "6x USB, SD, Ethernet"
+        }
       ],
       "pros": [
         "Genuine Thunderbolt 4 certification",
@@ -116,10 +152,22 @@
       "verdict": "14 ports with up to 160W output and dual 4K support, marketed for Dell, HP and Lenovo.",
       "description": "Anker's Prime dock has 14 ports with up to 160W maximum output, 10Gbps data transfer, dual 4K display support and audio and Ethernet ports. It is marketed as compatible with Dell, HP and Lenovo laptops and sits in the $100 to $200 bucket.\n\nThe 160W output is the standout, well above the Plugable's 100W and the WD22TB4's 130W for a lower price than the SD25TB4. It ranks fourth because it is a USB-C dock, not a Thunderbolt 4 dock per the listing, so it lacks Thunderbolt's bandwidth and the 8K support of Dell's own. The compatibility is marketed, not guaranteed.\n\nBuy it for a desk with many peripherals. Test the charging with your exact Dell model.",
       "keySpecs": [
-        { "label": "Ports", "value": "14" },
-        { "label": "Output", "value": "160W max" },
-        { "label": "Data", "value": "10Gbps" },
-        { "label": "Displays", "value": "Dual 4K" }
+        {
+          "label": "Ports",
+          "value": "14"
+        },
+        {
+          "label": "Output",
+          "value": "160W max"
+        },
+        {
+          "label": "Data",
+          "value": "10Gbps"
+        },
+        {
+          "label": "Displays",
+          "value": "Dual 4K"
+        }
       ],
       "pros": [
         "Up to 160W output",
@@ -146,10 +194,22 @@
       "verdict": "An entry-level Thunderbolt 3 Dell dock with 130W power delivery and Dell power negotiation.",
       "description": "The WD19TBS is Dell's entry-level Thunderbolt 3 dock, with 130W power delivery, Dell OEM power negotiation, multiple USB and display ports and a standard Dell business warranty. It sits in the $100 to $200 bucket.\n\nIt matches the WD22TB4 on power, but runs on Thunderbolt 3, an older generation. That is why it ranks fifth. For many users, Thunderbolt 3 is enough, and the Dell power negotiation still works, but it offers less future headroom than the newer docks. Compared with the Plugable, it has more stated power and Dell-specific tuning.\n\nBuy it if your Dell laptop uses Thunderbolt 3 or you find one at a good price. For a new laptop, step up to Thunderbolt 4.",
       "keySpecs": [
-        { "label": "Standard", "value": "Thunderbolt 3" },
-        { "label": "Power delivery", "value": "130W" },
-        { "label": "Compatibility", "value": "Dell OEM power negotiation" },
-        { "label": "Warranty", "value": "Standard Dell business" }
+        {
+          "label": "Standard",
+          "value": "Thunderbolt 3"
+        },
+        {
+          "label": "Power delivery",
+          "value": "130W"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Dell OEM power negotiation"
+        },
+        {
+          "label": "Warranty",
+          "value": "Standard Dell business"
+        }
       ],
       "pros": [
         "130W power delivery",
@@ -176,10 +236,22 @@
       "verdict": "An 11-in-1 USB-C and Thunderbolt-compatible dock that is cross-brand, including Dell.",
       "description": "The HP G5 is an 11-in-1 dock that works with USB-C and Thunderbolt laptops, with charging, networking and data transfer, a compact business form factor and remote-manageable security. It lists cross-brand compatibility including Dell and sits in the $50 to $100 bucket.\n\nThe low bucket makes it the cheapest route to a dock for a Dell. It ranks last because it is an HP dock with no Dell power negotiation, no power figure in the listing and no Thunderbolt 4 claim, so charging speed is the unknown. The remote management is a bonus for office IT.\n\nBuy it for a Dell on light office duty where cost matters. Check the charging wattage before relying on it.",
       "keySpecs": [
-        { "label": "Ports", "value": "11-in-1" },
-        { "label": "Compatibility", "value": "USB-C and Thunderbolt laptops" },
-        { "label": "Brands", "value": "Cross-brand including Dell" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Ports",
+          "value": "11-in-1"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C and Thunderbolt laptops"
+        },
+        {
+          "label": "Brands",
+          "value": "Cross-brand including Dell"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Lowest price bucket here",
@@ -245,25 +317,58 @@
       "subheading": "By Laptop Power Needs",
       "intro": "Check the wattage on your Dell's adapter first.",
       "table": {
-        "headers": ["Laptop adapter", "Our pick"],
+        "headers": [
+          "Laptop adapter",
+          "Our pick"
+        ],
         "rows": [
-          ["180W workstation", "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"],
-          ["130W business laptop", "Dell Thunderbolt Dock WD22TB4"],
-          ["130W, Thunderbolt 3", "Dell Thunderbolt Dock WD19TBS"],
-          ["Up to 160W, USB-C", "Anker Prime Docking Station, 14-Port"],
-          ["100W or less", "Plugable Thunderbolt 4 Dock (TBT-UDM)"]
+          [
+            "180W workstation",
+            "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"
+          ],
+          [
+            "130W business laptop",
+            "Dell Thunderbolt Dock WD22TB4"
+          ],
+          [
+            "130W, Thunderbolt 3",
+            "Dell Thunderbolt Dock WD19TBS"
+          ],
+          [
+            "Up to 160W, USB-C",
+            "Anker Prime Docking Station, 14-Port"
+          ],
+          [
+            "100W or less",
+            "Plugable Thunderbolt 4 Dock (TBT-UDM)"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "HP USB-C Dock G5"],
-          ["$100 to $200, Dell", "Dell Thunderbolt Dock WD22TB4"],
-          ["$100 to $200, cross-brand", "Plugable Thunderbolt 4 Dock (TBT-UDM)"],
-          ["$200 to $500", "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"]
+          [
+            "$50 to $100",
+            "HP USB-C Dock G5"
+          ],
+          [
+            "$100 to $200, Dell",
+            "Dell Thunderbolt Dock WD22TB4"
+          ],
+          [
+            "$100 to $200, cross-brand",
+            "Plugable Thunderbolt 4 Dock (TBT-UDM)"
+          ],
+          [
+            "$200 to $500",
+            "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Display Setup",
       "table": {
-        "headers": ["Monitors", "Our pick"],
+        "headers": [
+          "Monitors",
+          "Our pick"
+        ],
         "rows": [
-          ["8K or four displays", "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"],
-          ["Dual 4K", "Plugable Thunderbolt 4 Dock (TBT-UDM)"],
-          ["Dual 4K, many ports", "Anker Prime Docking Station, 14-Port"],
-          ["One or two basic monitors", "HP USB-C Dock G5"]
+          [
+            "8K or four displays",
+            "Dell SD25TB4 Pro Thunderbolt 4 Smart Dock"
+          ],
+          [
+            "Dual 4K",
+            "Plugable Thunderbolt 4 Dock (TBT-UDM)"
+          ],
+          [
+            "Dual 4K, many ports",
+            "Anker Prime Docking Station, 14-Port"
+          ],
+          [
+            "One or two basic monitors",
+            "HP USB-C Dock G5"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most Dell laptops with a big adapter, the Dell SD25TB4 Pro is the right dock, with Thunderbolt 4, a 180W adapter and power negotiation. The WD22TB4 is the value choice for standard business laptops, and the Plugable suits mixed Dell and Mac setups. The Anker Prime is the pick for ports, and the HP G5 is the budget fallback.",
-  "related": []
+  "related": [
+    "best-docking-stations-for-two-laptops",
+    "best-budget-docking-stations-under-100",
+    "best-docking-stations-for-4k-120hz-monitors"
+  ]
 }

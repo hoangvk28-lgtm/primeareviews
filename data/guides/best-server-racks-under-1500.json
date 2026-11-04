@@ -15,11 +15,26 @@
     "We reviewed six racks covering the main home and small-office styles: open-frame four-post racks, a wall-mount enclosure with a swing gate, a glass-door cabinet and a rolling AV case. Each was scored on the Primea framework, weighting rack units and depth adjustability, build material, mobility and how well the design handles airflow and access."
   ],
   "methodology": [
-    { "title": "Rack units and depth", "description": "We compared total U height and adjustable depth against realistic gear, because depth mismatch is the commonest fit failure." },
-    { "title": "Open frame vs enclosure", "description": "Open frames favor airflow and access while enclosures favor security and tidiness, so each was judged against its own purpose." },
-    { "title": "Build material", "description": "Steel type and construction claims, such as cold-rolled steel and four-post frames, were weighed against price." },
-    { "title": "Mobility and mounting", "description": "Wheels, casters and wall-mount designs were compared on how well they suit moving or space-limited installations." },
-    { "title": "Value within the field", "description": "Capacity, build and features were weighed against each rack's price bracket relative to the others." }
+    {
+      "title": "Rack units and depth",
+      "description": "We compared total U height and adjustable depth against realistic gear, because depth mismatch is the commonest fit failure."
+    },
+    {
+      "title": "Open frame vs enclosure",
+      "description": "Open frames favor airflow and access while enclosures favor security and tidiness, so each was judged against its own purpose."
+    },
+    {
+      "title": "Build material",
+      "description": "Steel type and construction claims, such as cold-rolled steel and four-post frames, were weighed against price."
+    },
+    {
+      "title": "Mobility and mounting",
+      "description": "Wheels, casters and wall-mount designs were compared on how well they suit moving or space-limited installations."
+    },
+    {
+      "title": "Value within the field",
+      "description": "Capacity, build and features were weighed against each rack's price bracket relative to the others."
+    }
   ],
   "whatMatters": [
     {
@@ -48,61 +63,130 @@
       "subheading": "By Rack Height",
       "intro": "Pick the height for the gear you will own in two years.",
       "table": {
-        "headers": ["How much gear", "Our pick"],
+        "headers": [
+          "How much gear",
+          "Our pick"
+        ],
         "rows": [
-          ["Switch and patch panel only", "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"],
-          ["Small home lab, up to 12U", "RackPath 12U Open Frame Server Rack, Heavy Duty 4 Post Adjustable Depth with"],
-          ["Closed cabinet, up to 12U", "NavePoint 12U Server Rack Enclosure with Glass Door"],
-          ["Growing lab, 15U", "VEVOR 15U Open Frame Server Rack"],
-          ["Large network, 16U to 18U", "NavePoint 18U Server Rack with Swing Gate"]
+          [
+            "Switch and patch panel only",
+            "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"
+          ],
+          [
+            "Small home lab, up to 12U",
+            "RackPath 12U Open Frame Server Rack, Heavy Duty 4 Post Adjustable Depth with"
+          ],
+          [
+            "Closed cabinet, up to 12U",
+            "NavePoint 12U Server Rack Enclosure with Glass Door"
+          ],
+          [
+            "Growing lab, 15U",
+            "VEVOR 15U Open Frame Server Rack"
+          ],
+          [
+            "Large network, 16U to 18U",
+            "NavePoint 18U Server Rack with Swing Gate"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200, compact", "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"],
-          ["$100 to $200, 15U", "VEVOR 15U Open Frame Server Rack"],
-          ["$100 to $200, mobile", "AxcessAbles 16U AV Case with Wheels"],
-          ["$100 to $200, enclosed", "NavePoint 12U Server Rack Enclosure with Glass Door"],
-          ["$200 to $500", "NavePoint 18U Server Rack with Swing Gate"]
+          [
+            "$100 to $200, compact",
+            "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"
+          ],
+          [
+            "$100 to $200, 15U",
+            "VEVOR 15U Open Frame Server Rack"
+          ],
+          [
+            "$100 to $200, mobile",
+            "AxcessAbles 16U AV Case with Wheels"
+          ],
+          [
+            "$100 to $200, enclosed",
+            "NavePoint 12U Server Rack Enclosure with Glass Door"
+          ],
+          [
+            "$200 to $500",
+            "NavePoint 18U Server Rack with Swing Gate"
+          ]
         ]
       }
     },
     {
       "subheading": "Open Frame vs Enclosure",
       "cards": [
-        { "label": "Open frame", "text": "Best airflow and easiest access, with adjustable depth on many models. Picks: VEVOR 15U, RackPath 12U, RIVECO 6U." },
-        { "label": "Enclosure", "text": "Adds security and a tidier look, and some include a wall mount or swing gate. Picks: NavePoint 18U, NavePoint 12U, AxcessAbles 16U." }
+        {
+          "label": "Open frame",
+          "text": "Best airflow and easiest access, with adjustable depth on many models. Picks: VEVOR 15U, RackPath 12U, RIVECO 6U."
+        },
+        {
+          "label": "Enclosure",
+          "text": "Adds security and a tidier look, and some include a wall mount or swing gate. Picks: NavePoint 18U, NavePoint 12U, AxcessAbles 16U."
+        }
       ],
       "note": "Default to open frame unless the rack lives in a shared or living space."
     },
     {
       "subheading": "By Mounting Style",
       "table": {
-        "headers": ["Where it goes", "Our pick"],
+        "headers": [
+          "Where it goes",
+          "Our pick"
+        ],
         "rows": [
-          ["Floor, needs to roll", "AxcessAbles 16U AV Case with Wheels"],
-          ["Wall mount, saves floor space", "NavePoint 18U Server Rack with Swing Gate"],
-          ["Floor, quick assembly", "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"],
-          ["Floor, adjustable depth", "VEVOR 15U Open Frame Server Rack"]
+          [
+            "Floor, needs to roll",
+            "AxcessAbles 16U AV Case with Wheels"
+          ],
+          [
+            "Wall mount, saves floor space",
+            "NavePoint 18U Server Rack with Swing Gate"
+          ],
+          [
+            "Floor, quick assembly",
+            "RIVECO 6U Open Frame Server Rack with Wheels- Heavy Duty 4 Post Quick Assembly"
+          ],
+          [
+            "Floor, adjustable depth",
+            "VEVOR 15U Open Frame Server Rack"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Home Lab Specifically",
       "cards": [
-        { "label": "Look for", "text": "At least 12U, adjustable depth for deep servers, ventilation that lets heat escape and room for a UPS at the bottom." },
-        { "label": "In this ranking", "text": "The VEVOR 15U Open Frame for flexibility and the RackPath 12U for a smaller 4-post footprint with adjustable depth." }
+        {
+          "label": "Look for",
+          "text": "At least 12U, adjustable depth for deep servers, ventilation that lets heat escape and room for a UPS at the bottom."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The VEVOR 15U Open Frame for flexibility and the RackPath 12U for a smaller 4-post footprint with adjustable depth."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want a lockable, tidy rack with room to grow. The NavePoint 18U is the only pick here in the $200 to $500 bracket." },
-        { "label": "Save if", "text": "You only need to park a switch and patch panel. The RIVECO 6U on wheels covers it for $100 to $200." }
+        {
+          "label": "Spend more if",
+          "text": "You want a lockable, tidy rack with room to grow. The NavePoint 18U is the only pick here in the $200 to $500 bracket."
+        },
+        {
+          "label": "Save if",
+          "text": "You only need to park a switch and patch panel. The RIVECO 6U on wheels covers it for $100 to $200."
+        }
       ]
     }
   ],
@@ -118,13 +202,34 @@
       "verdict": "A wall-mount 18U network rack with a dual-hinged front swing gate.",
       "description": "The NavePoint 18U is a wall-mount network rack with a dual-hinged front swing gate, which lets you open the front without pulling the rack off the wall. The listing places it in the $200 to $500 bracket.\n\nIt leads because height plus access beats everything else here. At 18U it offers the most vertical space, and the swing gate solves the cabling problem that plagues fixed-front wall racks. Compared with the NavePoint 12U on glass, you get six more units and easier cable access. Against the open VEVOR 15U, you trade airflow for a tidier, closed design.\n\nBuy it for a utility room or office wall that needs to hold a growing network. The caveat is that the listing gives no depth or weight capacity, so check clearances and wall anchors before ordering.",
       "keySpecs": [
-        { "label": "Height", "value": "18U" },
-        { "label": "Mounting", "value": "Wall mount" },
-        { "label": "Front", "value": "Dual-hinged swing gate" },
-        { "label": "Price", "value": "$200 to $500" }
+        {
+          "label": "Height",
+          "value": "18U"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall mount"
+        },
+        {
+          "label": "Front",
+          "value": "Dual-hinged swing gate"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        }
       ],
-      "pros": ["Most rack units here", "Swing gate eases cabling", "Wall mount saves floor space", "Room to grow"],
-      "cons": ["Costs the most", "Depth not listed", "Needs solid wall anchoring"],
+      "pros": [
+        "Most rack units here",
+        "Swing gate eases cabling",
+        "Wall mount saves floor space",
+        "Room to grow"
+      ],
+      "cons": [
+        "Costs the most",
+        "Depth not listed",
+        "Needs solid wall anchoring"
+      ],
       "idealFor": "Growing networks in a utility room or office.",
       "skipIf": "You want a floor rack or maximum airflow."
     },
@@ -139,13 +244,33 @@
       "verdict": "15U of open frame with adjustable depth and a strong load capacity.",
       "description": "The VEVOR 15U is an open-frame rack with adjustable depth, a strong load capacity and a user-friendly design, in the $100 to $200 bracket.\n\nIt places second because adjustable depth is the most useful single spec when you do not know what servers you will buy next. Compared with the NavePoint 18U, you give up three units and the closed gate, but you gain airflow and often a lower price. Against the RackPath 12U, it adds three units of headroom at a similar cost, which is a better deal for growth.\n\nBuy it for a home lab where gear changes often. The caveat is that the listing gives no exact load figure or dimensions, so check them before loading heavy equipment.",
       "keySpecs": [
-        { "label": "Height", "value": "15U" },
-        { "label": "Style", "value": "Open frame" },
-        { "label": "Depth", "value": "Adjustable" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "15U"
+        },
+        {
+          "label": "Style",
+          "value": "Open frame"
+        },
+        {
+          "label": "Depth",
+          "value": "Adjustable"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
-      "pros": ["Adjustable depth", "Strong load capacity", "Open airflow", "15U for the price"],
-      "cons": ["Gear is exposed", "Load rating not quantified"],
+      "pros": [
+        "Adjustable depth",
+        "Strong load capacity",
+        "Open airflow",
+        "15U for the price"
+      ],
+      "cons": [
+        "Gear is exposed",
+        "Load rating not quantified"
+      ],
       "idealFor": "Home labs where equipment changes often.",
       "skipIf": "You need a lockable or dust-proof cabinet."
     },
@@ -160,13 +285,33 @@
       "verdict": "A 16U rolling AV rack on locking 3-inch casters, with American and European hole support.",
       "description": "The AxcessAbles 16U is an AV rack case, compatible with American 5mm and European 6mm mounting holes, and fitted with locking 3-inch caster wheels that can be removed. Expect to pay $100 to $200.\n\nThird place comes down to mobility is its specialty. Against the VEVOR 15U, you get a unit more of height and a case designed for AV gear, but it is built for moving equipment, not for server airflow. The removable casters make it useful as a fixed cabinet later, which the RIVECO's wheels do not allow in the same way.\n\nBuy it for pro-AV, studio or event gear that travels between rooms. The caveat is that it is an AV case, so check that it is deep enough for rack servers.",
       "keySpecs": [
-        { "label": "Height", "value": "16U" },
-        { "label": "Casters", "value": "Locking 3 in, removable" },
-        { "label": "Holes", "value": "American 5mm and European 6mm" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "16U"
+        },
+        {
+          "label": "Casters",
+          "value": "Locking 3 in, removable"
+        },
+        {
+          "label": "Holes",
+          "value": "American 5mm and European 6mm"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
-      "pros": ["Locking removable casters", "Supports two hole standards", "16U of height", "Good for AV gear"],
-      "cons": ["Built for AV, not servers", "Depth not listed"],
+      "pros": [
+        "Locking removable casters",
+        "Supports two hole standards",
+        "16U of height",
+        "Good for AV gear"
+      ],
+      "cons": [
+        "Built for AV, not servers",
+        "Depth not listed"
+      ],
       "idealFor": "AV and studio gear that moves around.",
       "skipIf": "You need deep servers with open airflow."
     },
@@ -181,13 +326,33 @@
       "verdict": "A 12U four-post open frame with adjustable depth, 29.3 in tall and 20.7 in wide.",
       "description": "The RackPath 12U is a heavy-duty four-post open frame with adjustable depth. It measures 29.3 inches high by 20.7 inches wide, and it costs $100 to $200.\n\nFourth place reflects that it duplicates what the VEVOR 15U does at a smaller size. That makes it right for a desktop or low shelf, where 29.3 inches of height matters. Against the RIVECO 6U, you get double the units, and against the NavePoint 12U, you get airflow instead of a glass door.\n\nBuy it for a compact lab on a tight floor or shelf. The caveat is that the listing does not give the weight capacity figure, so confirm it before loading heavy gear.",
       "keySpecs": [
-        { "label": "Height", "value": "12U, 29.3 in" },
-        { "label": "Width", "value": "20.7 in" },
-        { "label": "Style", "value": "4-post open frame" },
-        { "label": "Depth", "value": "Adjustable" }
+        {
+          "label": "Height",
+          "value": "12U, 29.3 in"
+        },
+        {
+          "label": "Width",
+          "value": "20.7 in"
+        },
+        {
+          "label": "Style",
+          "value": "4-post open frame"
+        },
+        {
+          "label": "Depth",
+          "value": "Adjustable"
+        }
       ],
-      "pros": ["Adjustable depth", "Compact 29.3 inch height", "Heavy-duty four-post frame", "Open airflow"],
-      "cons": ["Capacity figure not stated", "Only 12U to grow into"],
+      "pros": [
+        "Adjustable depth",
+        "Compact 29.3 inch height",
+        "Heavy-duty four-post frame",
+        "Open airflow"
+      ],
+      "cons": [
+        "Capacity figure not stated",
+        "Only 12U to grow into"
+      ],
       "idealFor": "Compact labs on a shelf or tight floor.",
       "skipIf": "You plan on more than 12U of gear."
     },
@@ -202,13 +367,33 @@
       "verdict": "A 12U enclosed cabinet with a glass door and removable side panels.",
       "description": "The NavePoint 12U is an enclosed IT cabinet with a glass door and removable side panels, described as a durable build with a convenient design. Price lands at $100 to $200.\n\nThe fifth slot follows from the fact that enclosures trade airflow for tidiness, and the listing gives no fan or vent details. Against the NavePoint 18U, it has six fewer units and a plain door instead of a swing gate. Against the open RackPath 12U, it looks cleaner and keeps dust off, which matters in a living space.\n\nBuy it for a home office or living space where visible cables are unacceptable. The caveat is heat, so check ventilation and leave gaps between hot devices.",
       "keySpecs": [
-        { "label": "Height", "value": "12U" },
-        { "label": "Style", "value": "Enclosure, glass door" },
-        { "label": "Panels", "value": "Removable sides" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "Height",
+          "value": "12U"
+        },
+        {
+          "label": "Style",
+          "value": "Enclosure, glass door"
+        },
+        {
+          "label": "Panels",
+          "value": "Removable sides"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
-      "pros": ["Glass door shows status lights", "Removable side panels", "Hides cables and gear", "12U for the price"],
-      "cons": ["Ventilation not described", "Less airflow than open frame"],
+      "pros": [
+        "Glass door shows status lights",
+        "Removable side panels",
+        "Hides cables and gear",
+        "12U for the price"
+      ],
+      "cons": [
+        "Ventilation not described",
+        "Less airflow than open frame"
+      ],
       "idealFor": "Living spaces where tidiness matters.",
       "skipIf": "You run hot, high-power servers."
     },
@@ -223,13 +408,33 @@
       "verdict": "A 6U four-post frame in cold-rolled steel, 19.7 in wide and 21.7 in deep.",
       "description": "The RIVECO 6U is a four-post open frame on wheels, made from SPCC cold-rolled steel. It is 19.7 inches (500 mm) wide and 21.7 inches deep, and it is designed for quick assembly. Budget about $100 to $200.\n\nThe bottom slot is because 6U is the smallest height here, so it suits a switch and a patch panel rather than a lab. Against the RackPath 12U, it costs about the same bracket but holds half the units. Its advantage is size and mobility: it is the one you can park beside a desk and roll away.\n\nBuy it for a compact network stack. The caveat is that growth is limited, so only choose it if you are sure your gear will stay small.",
       "keySpecs": [
-        { "label": "Height", "value": "6U" },
-        { "label": "Width", "value": "19.7 in (500 mm)" },
-        { "label": "Depth", "value": "21.7 in" },
-        { "label": "Material", "value": "SPCC cold-rolled steel" }
+        {
+          "label": "Height",
+          "value": "6U"
+        },
+        {
+          "label": "Width",
+          "value": "19.7 in (500 mm)"
+        },
+        {
+          "label": "Depth",
+          "value": "21.7 in"
+        },
+        {
+          "label": "Material",
+          "value": "SPCC cold-rolled steel"
+        }
       ],
-      "pros": ["Cold-rolled steel frame", "Wheels for repositioning", "Quick assembly", "Compact footprint"],
-      "cons": ["Only 6U", "Depth is fixed on this listing"],
+      "pros": [
+        "Cold-rolled steel frame",
+        "Wheels for repositioning",
+        "Quick assembly",
+        "Compact footprint"
+      ],
+      "cons": [
+        "Only 6U",
+        "Depth is fixed on this listing"
+      ],
       "idealFor": "Compact switch and patch panel installs.",
       "skipIf": "You want room for servers or a UPS."
     }
@@ -261,5 +466,9 @@
     }
   ],
   "finalTake": "For most growing networks the NavePoint 18U Server Rack with Swing Gate is the right answer, thanks to its height and wall-mount design. If flexibility matters more than closed doors, the VEVOR 15U Open Frame gives adjustable depth for less money. The AxcessAbles 16U wins if gear has to roll between rooms, and the RIVECO 6U is the compact option for a lone switch. Every pick costs well under $1500.",
-  "related": []
+  "related": [
+    "best-server-racks-under-1000",
+    "best-server-racks-under-300",
+    "best-server-racks-under-500"
+  ]
 }

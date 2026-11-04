@@ -26,10 +26,22 @@
       "verdict": "4,500 lumens, HDR compatibility and a light, portable body: a bright 1080p that handles lights on.",
       "description": "The HD30LV lists 4,500 lumens for lights-on viewing, HDR compatibility and a portable, lightweight build. Lumens are the number that matters in a living room, and 4,500 is enough to keep the picture punchy with lamps on and curtains open.\n\nIt beats the Epson for home use because it is built for the living room rather than a boardroom, and it beats the ViewSonic PA503HD on the extra HDR support. The tradeoff is that the listing never says what lights it or how long that source lasts, so ask about upkeep before you mount it on a ceiling.\n\nBuy it for a family room where the lights never go fully off. The caveat is that HDR on a lamp projector is modest compared with a TV, so treat it as a compatibility bonus, not a reason to buy.",
       "keySpecs": [
-        { "label": "Resolution", "value": "1080p Full HD" },
-        { "label": "Brightness", "value": "4,500 lumens" },
-        { "label": "HDR", "value": "Compatible" },
-        { "label": "Price bucket", "value": "$500 and up" }
+        {
+          "label": "Resolution",
+          "value": "1080p Full HD"
+        },
+        {
+          "label": "Brightness",
+          "value": "4,500 lumens"
+        },
+        {
+          "label": "HDR",
+          "value": "Compatible"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "4,500 lumens for lights-on use",
@@ -56,10 +68,22 @@
       "verdict": "4,100 lumens of rated color brightness from a 3-chip 3LCD engine, built for meeting rooms.",
       "description": "The EX9270 pairs wireless connectivity with 1080p, a 3-chip 3LCD engine and 4,100 lumens of color brightness, rated to the IDMS standard. Because it is the color output that is measured, not just white light, colors do not fade in a bright room the way a white-heavy spec can.\n\nIt ranks second because it is a business projector first, so the picture is tuned for slides and spreadsheets more than for movies. Its edge over the Optoma is color: all three colors are projected at once, rather than through a spinning wheel.\n\nBuy it for a small office, a classroom or a home studio where accurate color matters. The caveat is that business-class projectors rarely have a game mode, so latency may suit presentations better than console play.",
       "keySpecs": [
-        { "label": "Resolution", "value": "1080p" },
-        { "label": "Brightness", "value": "4,100 lumens color (IDMS)" },
-        { "label": "Engine", "value": "3-chip 3LCD" },
-        { "label": "Price bucket", "value": "$500 and up" }
+        {
+          "label": "Resolution",
+          "value": "1080p"
+        },
+        {
+          "label": "Brightness",
+          "value": "4,100 lumens color (IDMS)"
+        },
+        {
+          "label": "Engine",
+          "value": "3-chip 3LCD"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Rated color brightness figure",
@@ -86,10 +110,22 @@
       "verdict": "4,000 lumens of DLP 1080p that holds up in ambient light and fast-paced content.",
       "description": "The PA503HD is a 4000 lumen full HD DLP projector described as high-performance, with clear performance in ambient light and a design for fast-paced content. DLP uses a single chip and a spinning wheel, which gives it sharp edges and quick pixel response on action.\n\nIt ranks third behind the Epson because the single-chip DLP design can show rainbow artifacts for sensitive viewers, and behind the Optoma because of 500 fewer lumens and no HDR claim. It is the dependable middle option.\n\nBuy it for sports, gaming or a bright spare room. The caveat is that the rainbow effect, a brief color flash on fast eye movement, affects a minority of viewers, so check your own tolerance before buying.",
       "keySpecs": [
-        { "label": "Resolution", "value": "1080p Full HD" },
-        { "label": "Brightness", "value": "4,000 lumens" },
-        { "label": "Technology", "value": "DLP" },
-        { "label": "Price bucket", "value": "$500 and up" }
+        {
+          "label": "Resolution",
+          "value": "1080p Full HD"
+        },
+        {
+          "label": "Brightness",
+          "value": "4,000 lumens"
+        },
+        {
+          "label": "Technology",
+          "value": "DLP"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "4,000 lumens for ambient light",
@@ -116,10 +152,22 @@
       "verdict": "A laser-lit 1080p with high brightness and a golf simulation mode, no lamp to replace.",
       "description": "The LS740HD is a high-brightness full HD laser projector with clear performance in high ambient light and a realistic golf simulation mode. A laser source removes the lamp entirely, so brightness holds steadier over the years and there is no replacement bulb to buy.\n\nIt ranks fourth because the listing gives no lumen figure, unlike the PA503HD, and the laser design sits in the same premium bucket. Where it wins is longevity, and the golf mode shows it is aimed at simulator rooms as much as living rooms.\n\nBuy it for a golf simulator, a garage or any room where you want consistent brightness without lamp changes. The caveat is the missing lumen number, so confirm the output before you commit to a large screen.",
       "keySpecs": [
-        { "label": "Resolution", "value": "1080p" },
-        { "label": "Light source", "value": "Laser" },
-        { "label": "Mode", "value": "Golf simulation" },
-        { "label": "Price bucket", "value": "$500 and up" }
+        {
+          "label": "Resolution",
+          "value": "1080p"
+        },
+        {
+          "label": "Light source",
+          "value": "Laser"
+        },
+        {
+          "label": "Mode",
+          "value": "Golf simulation"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Laser, no lamp to replace",
@@ -146,10 +194,22 @@
       "verdict": "A home-cinema 1080p with a game display mode and straightforward installation.",
       "description": "The HD146X is pitched as a home cinema projector with a game display mode and easy installation. Game mode trims processing to cut input lag, which matters on a console where a late image costs you a round.\n\nIt ranks fifth because the listing carries no lumen figure, so it is the least certain performer in a bright room, and it trails its Optoma sibling the HD30LV on every stated number. It earns its place for gamers who want a dedicated mode in a lower-risk package.\n\nBuy it for a darkened den, a basement cinema or a console setup. The caveat is that the pitch is vibrant colour in a controlled room, not daylight viewing, and without a brightness spec you cannot size a screen with confidence.",
       "keySpecs": [
-        { "label": "Resolution", "value": "1080p Full HD" },
-        { "label": "Use", "value": "Home theater" },
-        { "label": "Mode", "value": "Game display mode" },
-        { "label": "Price bucket", "value": "$500 and up" }
+        {
+          "label": "Resolution",
+          "value": "1080p Full HD"
+        },
+        {
+          "label": "Use",
+          "value": "Home theater"
+        },
+        {
+          "label": "Mode",
+          "value": "Game display mode"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Dedicated game display mode",
@@ -176,10 +236,22 @@
       "verdict": "True native 1920x1080 with dual-band Wi-Fi, AirPlay and screen mirroring in the $100 to $200 bucket.",
       "description": "This DXYIITOO projector is stated to be native 1920x1080, with 2.4G and 5G Wi-Fi, AirPlay and screen mirroring, plus an efficient heat dissipation system. Native resolution means the panel really draws a full HD picture, rather than accepting 1080p and scaling it down.\n\nIt ranks sixth because the $100 to $200 price brings none of the stated lumens that the premium models have, so it is a dark-room projector. Against the YGSKK it adds AirPlay and a stronger cooling pitch, but it costs more.\n\nBuy it for a bedroom, a dorm or a patio after dark. The caveat is that the listing gives no brightness number, so a daytime picture will wash out, and cooling claims are a design promise, not a rating.",
       "keySpecs": [
-        { "label": "Resolution", "value": "Native 1920x1080" },
-        { "label": "Wireless", "value": "Wi-Fi 6, AirPlay" },
-        { "label": "Mirroring", "value": "Screen mirroring" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Resolution",
+          "value": "Native 1920x1080"
+        },
+        {
+          "label": "Wireless",
+          "value": "Wi-Fi 6, AirPlay"
+        },
+        {
+          "label": "Mirroring",
+          "value": "Screen mirroring"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Stated native 1920x1080",
@@ -206,10 +278,22 @@
       "verdict": "A native 1080p mini with built-in streaming and Wi-Fi at the lowest price bucket here.",
       "description": "YGSKK pairs a native 1080p resolution with Wi-Fi, Bluetooth and a built-in streaming media app in the $50 to $100 bucket. For a projector this cheap, a stated native 1080p is an honest, if rare, promise.\n\nIt ranks last because small projectors have far lower light output than the big models above, and the listing gives no lumen number. It wins on price by a margin that makes it a sensible first projector or a second one for the bedroom.\n\nBuy it for a dark room, a kid's movie night or a trial before you spend on a $500 projector. The caveat is that mini units struggle in any ambient light, and a built-in streaming app is not as dependable as a streaming stick plugged into HDMI.",
       "keySpecs": [
-        { "label": "Resolution", "value": "Native 1080p" },
-        { "label": "Wireless", "value": "Wi-Fi and Bluetooth" },
-        { "label": "Software", "value": "Built-in streaming app" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Resolution",
+          "value": "Native 1080p"
+        },
+        {
+          "label": "Wireless",
+          "value": "Wi-Fi and Bluetooth"
+        },
+        {
+          "label": "Software",
+          "value": "Built-in streaming app"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Native 1080p at a low price",
@@ -275,25 +359,58 @@
       "subheading": "By Room Light",
       "intro": "Ambient light is the biggest factor in picking a 1080p projector.",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Lights on, family room", "Optoma HD30LV 1080p Full HD Home Projector"],
-          ["Meeting room or classroom", "Epson Pro EX9270 Wireless 1080p 3-Chip 3LCD Business Projector"],
-          ["Bright spare room", "ViewSonic PA503HD 4000 Lumens 1080p Full HD DLP Projector"],
-          ["Dark den or basement", "Optoma HD146X 1080P Full HD Vibrant Home Theater Projector"],
-          ["Dark bedroom", "YGSKK Mini Projector with Wifi and Bluetooth"]
+          [
+            "Lights on, family room",
+            "Optoma HD30LV 1080p Full HD Home Projector"
+          ],
+          [
+            "Meeting room or classroom",
+            "Epson Pro EX9270 Wireless 1080p 3-Chip 3LCD Business Projector"
+          ],
+          [
+            "Bright spare room",
+            "ViewSonic PA503HD 4000 Lumens 1080p Full HD DLP Projector"
+          ],
+          [
+            "Dark den or basement",
+            "Optoma HD146X 1080P Full HD Vibrant Home Theater Projector"
+          ],
+          [
+            "Dark bedroom",
+            "YGSKK Mini Projector with Wifi and Bluetooth"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "YGSKK Mini Projector with Wifi and Bluetooth"],
-          ["$100 to $200", "Native 1080P Projector with WiFi 6 and Two-Way Bluetooth"],
-          ["$500 and up, best value", "ViewSonic PA503HD 4000 Lumens 1080p Full HD DLP Projector"],
-          ["$500 and up, best overall", "Optoma HD30LV 1080p Full HD Home Projector"]
+          [
+            "$50 to $100",
+            "YGSKK Mini Projector with Wifi and Bluetooth"
+          ],
+          [
+            "$100 to $200",
+            "Native 1080P Projector with WiFi 6 and Two-Way Bluetooth"
+          ],
+          [
+            "$500 and up, best value",
+            "ViewSonic PA503HD 4000 Lumens 1080p Full HD DLP Projector"
+          ],
+          [
+            "$500 and up, best overall",
+            "Optoma HD30LV 1080p Full HD Home Projector"
+          ]
         ]
       }
     },
@@ -314,13 +431,31 @@
     {
       "subheading": "By Main Use",
       "table": {
-        "headers": ["Use", "Our pick"],
+        "headers": [
+          "Use",
+          "Our pick"
+        ],
         "rows": [
-          ["Movies with lights on", "Optoma HD30LV 1080p Full HD Home Projector"],
-          ["Presentations and slides", "Epson Pro EX9270 Wireless 1080p 3-Chip 3LCD Business Projector"],
-          ["Console gaming", "Optoma HD146X 1080P Full HD Vibrant Home Theater Projector"],
-          ["Golf simulator", "ViewSonic LS740HD 1080P Laser Projector"],
-          ["Phone streaming", "Native 1080P Projector with WiFi 6 and Two-Way Bluetooth"]
+          [
+            "Movies with lights on",
+            "Optoma HD30LV 1080p Full HD Home Projector"
+          ],
+          [
+            "Presentations and slides",
+            "Epson Pro EX9270 Wireless 1080p 3-Chip 3LCD Business Projector"
+          ],
+          [
+            "Console gaming",
+            "Optoma HD146X 1080P Full HD Vibrant Home Theater Projector"
+          ],
+          [
+            "Golf simulator",
+            "ViewSonic LS740HD 1080P Laser Projector"
+          ],
+          [
+            "Phone streaming",
+            "Native 1080P Projector with WiFi 6 and Two-Way Bluetooth"
+          ]
         ]
       }
     },
@@ -378,5 +513,9 @@
     }
   ],
   "finalTake": "For most buyers the Optoma HD30LV is the best 1080p projector, since 4,500 lumens keeps the picture alive in a lit room. Choose the Epson Pro EX9270 if color accuracy and meeting-room use come first, or the ViewSonic LS740HD if you want laser longevity. On a tight budget, the YGSKK delivers a native 1080p picture for dark rooms. Avoid any projector that states resolution but hides its lumens.",
-  "related": []
+  "related": [
+    "best-dangbei-projectors",
+    "best-fudoni-projectors",
+    "best-goodee-projectors"
+  ]
 }

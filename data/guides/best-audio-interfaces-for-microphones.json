@@ -26,10 +26,22 @@
       "verdict": "The artist's interface in Focusrite's fourth generation, with room for two sources over USB-C.",
       "description": "The 2i2 name tells you the layout: two inputs and two outputs, connected over USB-C. Focusrite's listing calls it the artist's interface, which is a way of saying it handles a vocalist plus a guitar, or two microphones for an interview.\n\nIt ranks first because two inputs future-proof the purchase. The Solo 4th Gen costs less but caps you at one source, and the M-Track Duo matches the input count at a lower tier without Focusrite's brand weight on drivers and support. The cost is the $200 to $500 bucket, the highest here.\n\nBest for a podcast pair, a singer-guitarist or a creator who will add a second mic. The caveat is price: if you will only ever record one voice, the Solo covers it for less.",
       "keySpecs": [
-        { "label": "I/O", "value": "2 in, 2 out" },
-        { "label": "Connection", "value": "USB-C" },
-        { "label": "Generation", "value": "4th Gen" },
-        { "label": "Price bucket", "value": "$200 to $500" }
+        {
+          "label": "I/O",
+          "value": "2 in, 2 out"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "4th Gen"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Two input channels",
@@ -55,10 +67,22 @@
       "verdict": "The songwriter's interface, built around one voice or instrument with studio-quality sound.",
       "description": "Focusrite pitches the Solo 4th Gen as the songwriter's interface, a compact USB-C box for recording one voice and perhaps a guitar. The fourth generation updates the third with newer drivers and a refreshed front panel. Expect a price bucket of $100 to $200.\n\nIt ranks second because the 2i2 gives you a second input for a higher tier, and because for solo creators the Solo does everything needed. It beats the 3rd Gen on current USB-C support and ongoing driver attention, though the older unit often costs less.\n\nThe right choice for a streamer, voiceover artist or songwriter with one mic. The caveat is the ceiling: add a second guest or instrument later and you will outgrow it.",
       "keySpecs": [
-        { "label": "Use", "value": "Songwriter, single source" },
-        { "label": "Connection", "value": "USB-C" },
-        { "label": "Generation", "value": "4th Gen" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Use",
+          "value": "Songwriter, single source"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "4th Gen"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Compact USB-C design",
@@ -84,10 +108,22 @@
       "verdict": "A portable two-input box for podcast, record and live stream at a mid-range tier.",
       "description": "The M-Track Duo is a portable interface pitched for podcasting, recording and live streaming, handling guitar, vocals or line-level signals. The Duo suffix indicates two channels, which lets it cover a guest or a stereo source.\n\nIt ranks third because it matches the 2i2's input count for a much lower tier, in the $50 to $100 bucket, but trades Focusrite's reputation for driver stability. It beats the M-Track Solo on sheer input count, and the BOMGE on brand support.\n\nGood for a two-person podcast on a budget. The caveat is the listing's generic copy, so confirm phantom power and sample rate on the product page if you use a condenser.",
       "keySpecs": [
-        { "label": "Channels", "value": "Duo, two inputs" },
-        { "label": "Sources", "value": "Guitar, vocals, line" },
-        { "label": "Use", "value": "Podcast and live stream" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Channels",
+          "value": "Duo, two inputs"
+        },
+        {
+          "label": "Sources",
+          "value": "Guitar, vocals, line"
+        },
+        {
+          "label": "Use",
+          "value": "Podcast and live stream"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Two-input layout",
@@ -113,10 +149,22 @@
       "verdict": "Plug-and-play USB-C with 24-bit and 192kHz fidelity and an illuminated control.",
       "description": "PIYONE's interface is a plug-and-play USB-C box with a stated 24-bit, 192kHz conversion and an illuminated control. The numbers describe bit depth and sample rate, the detail with which the converter captures your voice.\n\nIt ranks fourth because 192kHz is more than a spoken-word microphone needs; most podcasts and streams use 44.1 or 48kHz. The headline spec therefore adds marketing value more than audible gain, and the brand lacks the long driver history of Focusrite and M-Audio.\n\nA reasonable pick for a first home setup in the $50 to $100 bucket. The caveat is support: lesser-known brands can leave you hunting for drivers and firmware if something misbehaves.",
       "keySpecs": [
-        { "label": "Resolution", "value": "24-bit / 192kHz" },
-        { "label": "Connection", "value": "USB-C plug and play" },
-        { "label": "Control", "value": "Illuminated" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Resolution",
+          "value": "24-bit / 192kHz"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C plug and play"
+        },
+        {
+          "label": "Control",
+          "value": "Illuminated"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "24-bit 192kHz stated",
@@ -142,10 +190,22 @@
       "verdict": "The older Solo, with pro-grade preamps for guitar and vocal takes.",
       "description": "The 3rd Gen Solo is the earlier version of Focusrite's single-source interface, and its listing credits great preamps for guitar and vocal takes. The preamp is the circuit that boosts a quiet microphone signal, so its quality sets your noise floor.\n\nIt ranks fifth because the 4th Gen Solo carries the same role with current drivers, while this model can be cheaper but is older. It still outranks the less established brands because Focusrite's preamps and software are a known quantity.\n\nSensible if you find it discounted. The caveat is shelf life: older generations eventually receive fewer driver updates, so compare the price gap with the 4th Gen before buying.",
       "keySpecs": [
-        { "label": "Role", "value": "Single-source interface" },
-        { "label": "Connection", "value": "USB-C" },
-        { "label": "Generation", "value": "3rd Gen" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Role",
+          "value": "Single-source interface"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "3rd Gen"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Well-regarded preamps",
@@ -171,10 +231,22 @@
       "verdict": "A portable single-channel starter for podcast, record and stream use.",
       "description": "The M-Track Solo shares the Duo's pitch of portable podcast, record and live stream use, with guitar, vocals or line-level input. As the Solo, it targets a single source.\n\nIt ranks sixth because it overlaps with the Scarlett Solo while offering less brand support, and because the Duo adds a second input for the same bucket of $50 to $100. It is a fine budget starter, but it is rarely the best use of that money.\n\nPick it if you want the smallest possible box for one voice. The caveat is that with a spec summary this short you should confirm phantom power before pairing it with a condenser mic.",
       "keySpecs": [
-        { "label": "Channels", "value": "Solo, single source" },
-        { "label": "Sources", "value": "Guitar, vocals, line" },
-        { "label": "Use", "value": "Podcast and live stream" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Channels",
+          "value": "Solo, single source"
+        },
+        {
+          "label": "Sources",
+          "value": "Guitar, vocals, line"
+        },
+        {
+          "label": "Use",
+          "value": "Podcast and live stream"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Small portable body",
@@ -200,10 +272,22 @@
       "verdict": "A tiny 2 in 2 out box that states 48V phantom power for under $50.",
       "description": "The BOMGE mini is a 2 in, 2 out USB interface that explicitly lists 48V phantom power. That is the number a condenser microphone needs, and it is the one spec many budget listings forget to mention.\n\nIt finishes seventh because the preamps and converters are not described, and because the brand has little record. It remains valuable since it is the cheapest way here to get two inputs with stated phantom power, at $25 to $50.\n\nA workable pick for a student or a first condenser mic. The caveat is quality: budget preamps can add hiss at low gain, so pair it with a reasonably sensitive microphone.",
       "keySpecs": [
-        { "label": "I/O", "value": "2 in, 2 out" },
-        { "label": "Phantom power", "value": "48V" },
-        { "label": "Connection", "value": "USB" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "I/O",
+          "value": "2 in, 2 out"
+        },
+        {
+          "label": "Phantom power",
+          "value": "48V"
+        },
+        {
+          "label": "Connection",
+          "value": "USB"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "48V phantom power stated",
@@ -220,77 +304,170 @@
     }
   ],
   "methodology": [
-    { "title": "Input count", "description": "How many microphone or instrument sources the interface handles at once, and whether that fits the buyer's use." },
-    { "title": "Phantom power", "description": "Whether 48V is stated, since condenser microphones will not work without it." },
-    { "title": "Converter specs", "description": "Stated bit depth and sample rate, weighed against what voice recording actually needs." },
-    { "title": "Brand support", "description": "Driver history, software ecosystem and the odds of long-term updates." },
-    { "title": "Value by tier", "description": "Features delivered for each price bucket from $25 to $500." }
+    {
+      "title": "Input count",
+      "description": "How many microphone or instrument sources the interface handles at once, and whether that fits the buyer's use."
+    },
+    {
+      "title": "Phantom power",
+      "description": "Whether 48V is stated, since condenser microphones will not work without it."
+    },
+    {
+      "title": "Converter specs",
+      "description": "Stated bit depth and sample rate, weighed against what voice recording actually needs."
+    },
+    {
+      "title": "Brand support",
+      "description": "Driver history, software ecosystem and the odds of long-term updates."
+    },
+    {
+      "title": "Value by tier",
+      "description": "Features delivered for each price bucket from $25 to $500."
+    }
   ],
   "whatMatters": [
-    { "factor": "Phantom power", "detail": "Phantom power is 48 volts sent through an XLR cable to energize a condenser microphone. Dynamic microphones ignore it, but condensers are silent without it. Check that the listing states 48V, and confirm the switch is on the interface before you plug in a mic that needs it." },
-    { "factor": "Number of inputs", "detail": "An interface with two inputs lets you record a guest, a stereo source or a vocal plus a guitar. One input is cheaper but caps growth. Count the sources you will use at once, and add one for next year, since replacing an interface costs more than buying two inputs now." },
-    { "factor": "Sample rate and bit depth", "detail": "24-bit depth gives headroom to record quietly without noise. Sample rates of 44.1 or 48kHz suit voice, and 96 or 192kHz mostly help when processing audio heavily. A 192kHz claim is not a quality guarantee, so look at the preamps and whether drivers support your computer instead." },
-    { "factor": "Preamp quality", "detail": "A preamp raises a quiet microphone to a usable level, and a noisy one adds hiss when you turn gain up. Dynamic mics need more gain than condensers. Look for preamps described by name or gain range, and read owner feedback on noise at high gain." },
-    { "factor": "Connection and drivers", "detail": "USB-C is common now, but the real test is driver stability on your operating system. Established brands tend to update drivers, while no-name boxes may stall. Check that the listing names your OS, and keep the manufacturer's download page handy before buying." }
+    {
+      "factor": "Phantom power",
+      "detail": "Phantom power is 48 volts sent through an XLR cable to energize a condenser microphone. Dynamic microphones ignore it, but condensers are silent without it. Check that the listing states 48V, and confirm the switch is on the interface before you plug in a mic that needs it."
+    },
+    {
+      "factor": "Number of inputs",
+      "detail": "An interface with two inputs lets you record a guest, a stereo source or a vocal plus a guitar. One input is cheaper but caps growth. Count the sources you will use at once, and add one for next year, since replacing an interface costs more than buying two inputs now."
+    },
+    {
+      "factor": "Sample rate and bit depth",
+      "detail": "24-bit depth gives headroom to record quietly without noise. Sample rates of 44.1 or 48kHz suit voice, and 96 or 192kHz mostly help when processing audio heavily. A 192kHz claim is not a quality guarantee, so look at the preamps and whether drivers support your computer instead."
+    },
+    {
+      "factor": "Preamp quality",
+      "detail": "A preamp raises a quiet microphone to a usable level, and a noisy one adds hiss when you turn gain up. Dynamic mics need more gain than condensers. Look for preamps described by name or gain range, and read owner feedback on noise at high gain."
+    },
+    {
+      "factor": "Connection and drivers",
+      "detail": "USB-C is common now, but the real test is driver stability on your operating system. Established brands tend to update drivers, while no-name boxes may stall. Check that the listing names your OS, and keep the manufacturer's download page handy before buying."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Number of Inputs",
       "intro": "Count the sources you record at once.",
       "table": {
-        "headers": ["Inputs", "Our pick"],
+        "headers": [
+          "Inputs",
+          "Our pick"
+        ],
         "rows": [
-          ["One microphone, current gen", "Focusrite Scarlett Solo 4th Gen"],
-          ["One microphone, older gen", "Focusrite Scarlett Solo 3rd Gen"],
-          ["Two inputs, premium", "Focusrite Scarlett 2i2 4th Gen"],
-          ["Two inputs, budget", "M-AUDIO M-Track Duo"]
+          [
+            "One microphone, current gen",
+            "Focusrite Scarlett Solo 4th Gen"
+          ],
+          [
+            "One microphone, older gen",
+            "Focusrite Scarlett Solo 3rd Gen"
+          ],
+          [
+            "Two inputs, premium",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ],
+          [
+            "Two inputs, budget",
+            "M-AUDIO M-Track Duo"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "BOMGE mini 2 Channel USB Audio Interface"],
-          ["$50 to $100, two inputs", "M-AUDIO M-Track Duo"],
-          ["$100 to $200", "Focusrite Scarlett Solo 4th Gen"],
-          ["$200 to $500", "Focusrite Scarlett 2i2 4th Gen"]
+          [
+            "$25 to $50",
+            "BOMGE mini 2 Channel USB Audio Interface"
+          ],
+          [
+            "$50 to $100, two inputs",
+            "M-AUDIO M-Track Duo"
+          ],
+          [
+            "$100 to $200",
+            "Focusrite Scarlett Solo 4th Gen"
+          ],
+          [
+            "$200 to $500",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ]
         ]
       }
     },
     {
       "subheading": "Dynamic vs Condenser Microphones",
       "cards": [
-        { "label": "Dynamic mic", "text": "Needs gain, not phantom power. Any pick here works, and the Scarlett Solo is the cleanest way to feed one." },
-        { "label": "Condenser mic", "text": "Requires 48V. The BOMGE states it outright, and Focusrite models are the dependable choice for condenser work." }
+        {
+          "label": "Dynamic mic",
+          "text": "Needs gain, not phantom power. Any pick here works, and the Scarlett Solo is the cleanest way to feed one."
+        },
+        {
+          "label": "Condenser mic",
+          "text": "Requires 48V. The BOMGE states it outright, and Focusrite models are the dependable choice for condenser work."
+        }
       ],
       "note": "Confirm 48V on the product page for any interface whose summary does not state it."
     },
     {
       "subheading": "By Brand Confidence",
       "table": {
-        "headers": ["Priority", "Our pick"],
+        "headers": [
+          "Priority",
+          "Our pick"
+        ],
         "rows": [
-          ["Best driver support", "Focusrite Scarlett 2i2 4th Gen"],
-          ["Portable and popular", "M-AUDIO M-Track Duo"],
-          ["Highest stated sample rate", "PIYONE Audio Interface"],
-          ["Cheapest phantom power", "BOMGE mini 2 Channel USB Audio Interface"]
+          [
+            "Best driver support",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ],
+          [
+            "Portable and popular",
+            "M-AUDIO M-Track Duo"
+          ],
+          [
+            "Highest stated sample rate",
+            "PIYONE Audio Interface"
+          ],
+          [
+            "Cheapest phantom power",
+            "BOMGE mini 2 Channel USB Audio Interface"
+          ]
         ]
       }
     },
     {
       "subheading": "For Podcasting Specifically",
       "cards": [
-        { "label": "Look for", "text": "Two inputs for a guest, clean gain for dynamic mics and stable drivers so a recording never drops mid-episode." },
-        { "label": "In this ranking", "text": "The Scarlett 2i2 is the reliable choice, and the M-Track Duo does the same job on a smaller budget." }
+        {
+          "label": "Look for",
+          "text": "Two inputs for a guest, clean gain for dynamic mics and stable drivers so a recording never drops mid-episode."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Scarlett 2i2 is the reliable choice, and the M-Track Duo does the same job on a smaller budget."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You record paid work or add instruments. The Scarlett 2i2 buys cleaner preamps and a platform you will not outgrow quickly." },
-        { "label": "Save if", "text": "You record one voice for streaming. The BOMGE or M-Track Solo is enough." }
+        {
+          "label": "Spend more if",
+          "text": "You record paid work or add instruments. The Scarlett 2i2 buys cleaner preamps and a platform you will not outgrow quickly."
+        },
+        {
+          "label": "Save if",
+          "text": "You record one voice for streaming. The BOMGE or M-Track Solo is enough."
+        }
       ]
     }
   ],
@@ -321,5 +498,9 @@
     }
   ],
   "finalTake": "The Focusrite Scarlett 2i2 4th Gen is the best audio interface for microphones here because two inputs and trusted drivers cover most home studios. The Scarlett Solo 4th Gen is the smarter spend for one voice, the M-Track Duo is the budget two-input answer, and the BOMGE is the cheap route to phantom power.",
-  "related": []
+  "related": [
+    "best-focusrite-audio-interfaces",
+    "best-steinberg-audio-interfaces",
+    "best-universal-audio-audio-interfaces"
+  ]
 }

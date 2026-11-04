@@ -26,10 +26,22 @@
       "verdict": "A gel cushion, a smooth surface and a firm desktop grip, with the clearest feature list of the seven.",
       "description": "The MROCO combines comfortable gel cushioning with a smooth, comfortable mouse surface and a firm grip on the desktop. Those three features cover what a wrist-rest pad has to do.\n\nIt ranks first because its listing names the cushion type and the grip, where several rivals only say ergonomic. Gel conforms to the heel of the hand and holds its shape. Against the Amazon Basics pad, which states less about its cushion, the MROCO gives you a clearer idea of what you are getting.\n\nBuy it as a general-purpose wrist rest pad for a standard desk. The caveat is that the listing gives no size and no price tier, so check dimensions against your desk space.",
       "keySpecs": [
-        { "label": "Cushion", "value": "Gel wrist rest" },
-        { "label": "Surface", "value": "Smooth mouse surface" },
-        { "label": "Base", "value": "Firm desktop grip" },
-        { "label": "Style", "value": "Ergonomic mouse pad" }
+        {
+          "label": "Cushion",
+          "value": "Gel wrist rest"
+        },
+        {
+          "label": "Surface",
+          "value": "Smooth mouse surface"
+        },
+        {
+          "label": "Base",
+          "value": "Firm desktop grip"
+        },
+        {
+          "label": "Style",
+          "value": "Ergonomic mouse pad"
+        }
       ],
       "pros": [
         "Gel cushion named in listing",
@@ -56,10 +68,22 @@
       "verdict": "Wrist support, a smooth tracking surface and a secure grip, from a house brand under $25.",
       "description": "The Amazon Basics pad lists ergonomic wrist support, a smooth tracking surface and a secure grip. It costs under $25.\n\nSecond place goes to it since it covers the same three jobs as the MROCO but does not say what the support is made of. That is a smaller gap than it sounds: the point of a plain pad is predictability, and a house brand has a return process most rivals lack. The pain relief wording in the title is a marketing claim, not a medical one.\n\nBuy it as a no-surprises wrist rest pad. The caveat is that the cushion material is not named, so you do not know whether it is gel or foam.",
       "keySpecs": [
-        { "label": "Support", "value": "Ergonomic wrist support" },
-        { "label": "Surface", "value": "Smooth tracking" },
-        { "label": "Grip", "value": "Secure base" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Support",
+          "value": "Ergonomic wrist support"
+        },
+        {
+          "label": "Surface",
+          "value": "Smooth tracking"
+        },
+        {
+          "label": "Grip",
+          "value": "Secure base"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Under $25 price bucket",
@@ -86,10 +110,22 @@
       "verdict": "A soft gel cushion, a smooth fabric surface and a non-slip rubber base.",
       "description": "ZapDesk lists a soft gel cushion, a smooth fabric surface and a non-slip rubber base. It is the only pad besides the MROCO to name its cushion material, and the only one to name both the surface and the base material.\n\nIt ranks third because the extra detail is reassuring but the listing still skips the size. Fabric surfaces give good glide for optical mice and are softer to the touch than hard plastic, while a rubber base is the most reliable grip on a smooth desk.\n\nBuy it if you want fabric and rubber named. The caveat is that fabric picks up dust and spills more readily than a coated surface.",
       "keySpecs": [
-        { "label": "Cushion", "value": "Soft gel" },
-        { "label": "Surface", "value": "Smooth fabric" },
-        { "label": "Base", "value": "Non-slip rubber" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Cushion",
+          "value": "Soft gel"
+        },
+        {
+          "label": "Surface",
+          "value": "Smooth fabric"
+        },
+        {
+          "label": "Base",
+          "value": "Non-slip rubber"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Gel cushion named",
@@ -116,10 +152,22 @@
       "verdict": "A wrist rest pad that promises precise mouse control and a smoother surface.",
       "description": "EooCoo lists a wrist rest, precise mouse control and a smoother mouse pad, in the under $25 bucket.\n\nIt ranks fourth because the listing is the thinnest of the group: it names no cushion, no base and no size, only that the pad is smoother and more precise. The claim about precision refers to the surface, which is where the mouse sensor reads, and a consistent surface does matter for tracking.\n\nBuy it if your priority is tracking quality over cushioning. The caveat is that every detail beyond the wrist rest is a generic claim, so you are buying on trust.",
       "keySpecs": [
-        { "label": "Feature", "value": "Wrist rest" },
-        { "label": "Surface", "value": "Smoother mouse pad" },
-        { "label": "Control", "value": "Precise mouse control" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Feature",
+          "value": "Wrist rest"
+        },
+        {
+          "label": "Surface",
+          "value": "Smoother mouse pad"
+        },
+        {
+          "label": "Control",
+          "value": "Precise mouse control"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Focus on tracking precision",
@@ -146,10 +194,22 @@
       "verdict": "A silky-smooth, non-slip, stable pad with a wrist rest, in the under $25 bucket.",
       "description": "JYWYBF lists a wrist rest that relieves wrist strain, a silky-smooth mouse surface, and a non-slip, stable build.\n\nIt ranks fifth because strain relief is a claim the listing cannot back with a stated cushion or measurement, and the product details stop short of size or material. Stability is the useful promise: a pad that does not creep keeps the wrist rest where your hand expects it.\n\nBuy it as a budget option focused on stability. The caveat is the vague specification, so treat strain relief as a comfort aid and not a treatment.",
       "keySpecs": [
-        { "label": "Feature", "value": "Wrist rest" },
-        { "label": "Surface", "value": "Silky-smooth glide" },
-        { "label": "Base", "value": "Non-slip and stable" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Feature",
+          "value": "Wrist rest"
+        },
+        {
+          "label": "Surface",
+          "value": "Silky-smooth glide"
+        },
+        {
+          "label": "Base",
+          "value": "Non-slip and stable"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Non-slip and stable",
@@ -176,10 +236,22 @@
       "verdict": "A gel wrist rest pad with a superior glide surface and a stable, non-slip base.",
       "description": "DEMON CHEST lists a gel wrist rest, a superior glide surface and a stable non-slip base that stays anchored, in the under $25 bucket.\n\nIt ranks sixth because the listing is dominated by promotional language and offers no size, material or construction details. The gel rest and non-slip base put it ahead of pads that name neither, but the claims are not measured.\n\nBuy it as another gel option in the budget tier. The caveat is the marketing tone, so check the pad's dimensions against your keyboard and desk before you commit.",
       "keySpecs": [
-        { "label": "Cushion", "value": "Gel wrist rest" },
-        { "label": "Surface", "value": "Superior glide" },
-        { "label": "Base", "value": "Stable, non-slip" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Cushion",
+          "value": "Gel wrist rest"
+        },
+        {
+          "label": "Surface",
+          "value": "Superior glide"
+        },
+        {
+          "label": "Base",
+          "value": "Stable, non-slip"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Gel wrist rest",
@@ -206,10 +278,22 @@
       "verdict": "A set covering both mouse and keyboard rests, with a non-slip base that grabs the desk.",
       "description": "MOSISO is a set pairing an ergonomically designed mouse pad wrist rest with a keyboard wrist rest, with a non-slip base that grips the desk.\n\nIt ranks last for this guide because it is a set, so the mouse pad is half the purchase, and the listing gives dimensions for the keyboard rest only. Its value is the matching pair: raising both wrists to the same height keeps the posture consistent between typing and mousing.\n\nBuy it if you want keyboard and mouse rests together. The caveat is that a keyboard rest only helps if your keyboard height matches it, so check the dimensions.",
       "keySpecs": [
-        { "label": "Contents", "value": "Mouse pad and keyboard rest" },
-        { "label": "Design", "value": "Ergonomic wrist rest" },
-        { "label": "Base", "value": "Non-slip, grips the desk" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Contents",
+          "value": "Mouse pad and keyboard rest"
+        },
+        {
+          "label": "Design",
+          "value": "Ergonomic wrist rest"
+        },
+        {
+          "label": "Base",
+          "value": "Non-slip, grips the desk"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Mouse and keyboard rests",
@@ -227,11 +311,26 @@
     }
   ],
   "methodology": [
-    { "title": "Cushion type", "description": "Gel, foam or unspecified, and how clearly the listing names it." },
-    { "title": "Mouse surface", "description": "Glide, tracking and the surface material where stated." },
-    { "title": "Base grip", "description": "Non-slip rubber or textured bases that keep the pad in place." },
-    { "title": "Set contents", "description": "Whether a keyboard rest is included alongside the mouse pad." },
-    { "title": "Specification clarity", "description": "How much the listing states, with vague wording marked down." }
+    {
+      "title": "Cushion type",
+      "description": "Gel, foam or unspecified, and how clearly the listing names it."
+    },
+    {
+      "title": "Mouse surface",
+      "description": "Glide, tracking and the surface material where stated."
+    },
+    {
+      "title": "Base grip",
+      "description": "Non-slip rubber or textured bases that keep the pad in place."
+    },
+    {
+      "title": "Set contents",
+      "description": "Whether a keyboard rest is included alongside the mouse pad."
+    },
+    {
+      "title": "Specification clarity",
+      "description": "How much the listing states, with vague wording marked down."
+    }
   ],
   "whatMatters": [
     {
@@ -260,60 +359,126 @@
       "subheading": "By Cushion Type",
       "intro": "Pick the cushion the listing actually names.",
       "table": {
-        "headers": ["Cushion", "Our pick"],
+        "headers": [
+          "Cushion",
+          "Our pick"
+        ],
         "rows": [
-          ["Gel, named", "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"],
-          ["Soft gel with fabric", "ZapDesk Ergonomic Mouse Pad with Wrist Rest"],
-          ["Gel with glide surface", "DEMON CHEST ErgoComfort Gel Wrist Rest Mouse Pad-Ergonomic Office Mousepad"],
-          ["Unspecified support", "Amazon Basics Ergonomic Mouse Pad with Wrist Support for Pain Relief"]
+          [
+            "Gel, named",
+            "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
+          ],
+          [
+            "Soft gel with fabric",
+            "ZapDesk Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Gel with glide surface",
+            "DEMON CHEST ErgoComfort Gel Wrist Rest Mouse Pad-Ergonomic Office Mousepad"
+          ],
+          [
+            "Unspecified support",
+            "Amazon Basics Ergonomic Mouse Pad with Wrist Support for Pain Relief"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, plain", "Amazon Basics Ergonomic Mouse Pad with Wrist Support for Pain Relief"],
-          ["Under $25, fabric and rubber", "ZapDesk Ergonomic Mouse Pad with Wrist Rest"],
-          ["Under $25, precision", "EooCoo Ergonomic Mouse Pad with Wrist Rest"],
-          ["Under $25, stability", "JYWYBF Ergonomic Mouse Pad with Wrist Rest"],
-          ["Under $25, keyboard set", "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set"]
+          [
+            "Under $25, plain",
+            "Amazon Basics Ergonomic Mouse Pad with Wrist Support for Pain Relief"
+          ],
+          [
+            "Under $25, fabric and rubber",
+            "ZapDesk Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Under $25, precision",
+            "EooCoo Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Under $25, stability",
+            "JYWYBF Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Under $25, keyboard set",
+            "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set"
+          ]
         ]
       }
     },
     {
       "subheading": "Pad Only vs Keyboard Set",
       "cards": [
-        { "label": "Pad only", "text": "Supports the mouse hand and takes little room. Six of the seven here are single pads." },
-        { "label": "Keyboard set", "text": "Adds a matching keyboard rest so both wrists sit at the same height. The MOSISO is the set." }
+        {
+          "label": "Pad only",
+          "text": "Supports the mouse hand and takes little room. Six of the seven here are single pads."
+        },
+        {
+          "label": "Keyboard set",
+          "text": "Adds a matching keyboard rest so both wrists sit at the same height. The MOSISO is the set."
+        }
       ],
       "note": "Start with a pad only unless your keyboard is also low and flat."
     },
     {
       "subheading": "By Surface and Base",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["Fabric surface, rubber base", "ZapDesk Ergonomic Mouse Pad with Wrist Rest"],
-          ["Firm desktop grip", "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"],
-          ["Non-slip and stable", "JYWYBF Ergonomic Mouse Pad with Wrist Rest"],
-          ["Smoother precision surface", "EooCoo Ergonomic Mouse Pad with Wrist Rest"]
+          [
+            "Fabric surface, rubber base",
+            "ZapDesk Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Firm desktop grip",
+            "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
+          ],
+          [
+            "Non-slip and stable",
+            "JYWYBF Ergonomic Mouse Pad with Wrist Rest"
+          ],
+          [
+            "Smoother precision surface",
+            "EooCoo Ergonomic Mouse Pad with Wrist Rest"
+          ]
         ]
       }
     },
     {
       "subheading": "For Long Workdays Specifically",
       "cards": [
-        { "label": "Look for", "text": "A named gel cushion, a stable base and a surface that keeps tracking steady, plus a habit of resting the hand, not anchoring it." },
-        { "label": "In this ranking", "text": "The MROCO and ZapDesk name their gel cushions, and the MOSISO set adds a keyboard rest for the other hand." }
+        {
+          "label": "Look for",
+          "text": "A named gel cushion, a stable base and a surface that keeps tracking steady, plus a habit of resting the hand, not anchoring it."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The MROCO and ZapDesk name their gel cushions, and the MOSISO set adds a keyboard rest for the other hand."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want a larger desk mat with built-in support, which is a different product from these pads." },
-        { "label": "Save if", "text": "You want a basic rest, where the Amazon Basics or ZapDesk pads under $25 do the job." }
+        {
+          "label": "Spend more if",
+          "text": "You want a larger desk mat with built-in support, which is a different product from these pads."
+        },
+        {
+          "label": "Save if",
+          "text": "You want a basic rest, where the Amazon Basics or ZapDesk pads under $25 do the job."
+        }
       ]
     }
   ],
@@ -344,5 +509,9 @@
     }
   ],
   "finalTake": "Buy the MROCO if you want the clearest gel wrist rest pad: a named cushion, a smooth surface and a firm grip. The Amazon Basics is the plain under $25 choice, and the ZapDesk names fabric and rubber. Choose the MOSISO set only if you want a keyboard rest too. Use any of them as a pause, not an anchor.",
-  "related": []
+  "related": [
+    "best-custom-mouse-pads",
+    "best-ergonomic-mouse-pads",
+    "best-gaming-mouse-pads"
+  ]
 }

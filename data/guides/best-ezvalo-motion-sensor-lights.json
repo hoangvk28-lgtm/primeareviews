@@ -26,10 +26,22 @@
       "verdict": "The biggest battery in the line, a remote and three color temperatures, all in a cordless sconce.",
       "description": "This EZVALO sconce carries a 4,000mAh rechargeable battery with USB-C charging in about five hours, three color temperatures, a remote, magnetic mounting pads and detection of 10 feet across 120 degrees. It is the largest battery of the six.\n\nIt ranks first because capacity matters most in cordless lights, and at 4,000mAh it is far ahead of the 1,500mAh stair light and 1,800mAh closet bar. The remote lets you change color temperature without reaching up. The 2-pack night lights are cheaper but have far less battery.\n\nBuy it for hallways and entryways where a cordless sconce should look intentional. The caveat is that a single fixture covers one spot, and the 5 hour charge means planning a swap.",
       "keySpecs": [
-        { "label": "Battery", "value": "4000mAh, USB-C" },
-        { "label": "Detection", "value": "10 ft, 120 degrees" },
-        { "label": "Color", "value": "3 color temperatures" },
-        { "label": "Mounting", "value": "Magnetic pads, no drilling" }
+        {
+          "label": "Battery",
+          "value": "4000mAh, USB-C"
+        },
+        {
+          "label": "Detection",
+          "value": "10 ft, 120 degrees"
+        },
+        {
+          "label": "Color",
+          "value": "3 color temperatures"
+        },
+        {
+          "label": "Mounting",
+          "value": "Magnetic pads, no drilling"
+        }
       ],
       "pros": [
         "Largest 4,000mAh battery",
@@ -56,10 +68,22 @@
       "verdict": "Six synced lights that come on together, built for staircases and long hallways.",
       "description": "The stair lights come as a pack of six, each with a 1,500mAh rechargeable battery, 120 degree sensing at up to 10 feet and magnetic mounting. The sync feature means that when one light senses you, the others come on together.\n\nIt ranks second because synchronisation is the one thing the sconce lacks. Lighting a whole staircase from the first step is a safety benefit that a single sconce cannot match. The trade is battery size: at 1,500mAh each, these will need recharging more often than the 4,000mAh sconce.\n\nChoose it for stairs and hallways in the $25 to $50 bucket. The caveat is six small batteries to recharge on a schedule.",
       "keySpecs": [
-        { "label": "Pack size", "value": "6 lights" },
-        { "label": "Battery", "value": "1500mAh each" },
-        { "label": "Sensing", "value": "120 degrees, 10 ft" },
-        { "label": "Mounting", "value": "Magnetic" }
+        {
+          "label": "Pack size",
+          "value": "6 lights"
+        },
+        {
+          "label": "Battery",
+          "value": "1500mAh each"
+        },
+        {
+          "label": "Sensing",
+          "value": "120 degrees, 10 ft"
+        },
+        {
+          "label": "Mounting",
+          "value": "Magnetic"
+        }
       ],
       "pros": [
         "Sync lights come on together",
@@ -86,10 +110,22 @@
       "verdict": "Stepless 10 to 100 percent dimming and three color temperatures for bedrooms and nurseries.",
       "description": "This two-pack detects within 10 feet over 120 degrees, offers stepless dimming from 10 to 100 percent, three color temperatures and mounts with magnetic or adhesive plates.\n\nIt ranks third because the dimming is the best here for night use: stepless control lets you set a level that does not wake a sleeping child. It loses ground to the sconce on capacity, with no battery size listed, and to the stair pack on coverage.\n\nBuy it for bedrooms, bathrooms and nursery corners without an outlet. The caveat is the unlisted battery capacity, so assume more frequent charging than the sconce.",
       "keySpecs": [
-        { "label": "Pack size", "value": "2 lights" },
-        { "label": "Dimming", "value": "10% to 100%, stepless" },
-        { "label": "Detection", "value": "10 ft, 120 degrees" },
-        { "label": "Mounting", "value": "Magnetic or adhesive plates" }
+        {
+          "label": "Pack size",
+          "value": "2 lights"
+        },
+        {
+          "label": "Dimming",
+          "value": "10% to 100%, stepless"
+        },
+        {
+          "label": "Detection",
+          "value": "10 ft, 120 degrees"
+        },
+        {
+          "label": "Mounting",
+          "value": "Magnetic or adhesive plates"
+        }
       ],
       "pros": [
         "Stepless dimming control",
@@ -116,10 +152,22 @@
       "verdict": "A 13 inch curved bar with a head that rotates 60 degrees to face the door.",
       "description": "This 13 inch curved light bar runs on an 1,800mAh battery and has a sensor head that rotates 60 degrees. It covers up to 13 feet, longer than the 10 feet on the other motion models.\n\nIt ranks fourth because a closet bar is a narrower tool than the sconce or stair lights. The rotating head is the standout, since a sensor that cannot face the door misses you as you walk in. A bar also spreads light along shelves better than a round night light.\n\nBuy it for a walk-in closet or wardrobe in the $25 to $50 bucket. The caveat is that it suits one job and has no color or dimming options listed.",
       "keySpecs": [
-        { "label": "Bar length", "value": "13 inches" },
-        { "label": "Battery", "value": "1800mAh" },
-        { "label": "Sensor head", "value": "60 degrees, rotatable" },
-        { "label": "Coverage", "value": "Up to 13 ft" }
+        {
+          "label": "Bar length",
+          "value": "13 inches"
+        },
+        {
+          "label": "Battery",
+          "value": "1800mAh"
+        },
+        {
+          "label": "Sensor head",
+          "value": "60 degrees, rotatable"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 13 ft"
+        }
       ],
       "pros": [
         "Sensor head rotates to face door",
@@ -146,10 +194,22 @@
       "verdict": "Puck-shaped lights with white or RGB color and a remote with a timed stay-on mode.",
       "description": "These puck lights offer white or RGB lighting, 120 degree sensing at 10 feet and a remote with timed stay-on, in the $25 to $50 bucket.\n\nThey rank fifth because RGB color is a novelty in utility spaces, and no battery capacity is listed. The puck shape makes them better for small, scattered spots than for lighting a long run. The timed stay-on mode on the remote keeps the light on while you work, which the bar lights lack.\n\nUse them for shelves, cubbies and display nooks. The caveat is the unlisted battery, so plan on checking charge more often.",
       "keySpecs": [
-        { "label": "Shape", "value": "Puck lights" },
-        { "label": "Color", "value": "White or RGB" },
-        { "label": "Sensing", "value": "120 degrees, 10 ft" },
-        { "label": "Control", "value": "Remote with timed stay-on" }
+        {
+          "label": "Shape",
+          "value": "Puck lights"
+        },
+        {
+          "label": "Color",
+          "value": "White or RGB"
+        },
+        {
+          "label": "Sensing",
+          "value": "120 degrees, 10 ft"
+        },
+        {
+          "label": "Control",
+          "value": "Remote with timed stay-on"
+        }
       ],
       "pros": [
         "White or RGB colour choice",
@@ -176,10 +236,22 @@
       "verdict": "Two 10 inch bars with 2,400mAh batteries for cordless task lighting in a single cabinet.",
       "description": "These are two 10 inch light bars, each with a 2,400mAh battery, three lighting modes and dimming. They are cordless task lights for cabinets and shelves.\n\nThey rank last because the listing does not state a motion range, unlike the other five. The batteries are the second largest in the range after the sconce, which suits steady use under a cabinet, but you are buying a task light more than a motion light.\n\nBuy them for a single pantry cabinet or shelf. The caveat is that motion sensing details are missing, so confirm the sensor behaviour on the listing before relying on it.",
       "keySpecs": [
-        { "label": "Bar length", "value": "10 inches" },
-        { "label": "Battery", "value": "2400mAh each" },
-        { "label": "Modes", "value": "3 lighting modes" },
-        { "label": "Pack size", "value": "2 lights" }
+        {
+          "label": "Bar length",
+          "value": "10 inches"
+        },
+        {
+          "label": "Battery",
+          "value": "2400mAh each"
+        },
+        {
+          "label": "Modes",
+          "value": "3 lighting modes"
+        },
+        {
+          "label": "Pack size",
+          "value": "2 lights"
+        }
       ],
       "pros": [
         "2,400mAh battery each",
@@ -197,11 +269,26 @@
     }
   ],
   "methodology": [
-    { "title": "Battery capacity", "description": "Listed mAh per light, which decides how often you must recharge." },
-    { "title": "Sensing range", "description": "Detection distance and angle, scored against the room each light is meant for." },
-    { "title": "Mounting", "description": "Magnetic, adhesive or no-drill options and how easily a light can be moved." },
-    { "title": "Light control", "description": "Dimming, color temperature and remote control options." },
-    { "title": "Fit for purpose", "description": "How well the shape suits stairs, bedrooms, closets or cabinets." }
+    {
+      "title": "Battery capacity",
+      "description": "Listed mAh per light, which decides how often you must recharge."
+    },
+    {
+      "title": "Sensing range",
+      "description": "Detection distance and angle, scored against the room each light is meant for."
+    },
+    {
+      "title": "Mounting",
+      "description": "Magnetic, adhesive or no-drill options and how easily a light can be moved."
+    },
+    {
+      "title": "Light control",
+      "description": "Dimming, color temperature and remote control options."
+    },
+    {
+      "title": "Fit for purpose",
+      "description": "How well the shape suits stairs, bedrooms, closets or cabinets."
+    }
   ],
   "whatMatters": [
     {
@@ -230,60 +317,126 @@
       "subheading": "By Room",
       "intro": "Each EZVALO model is shaped for a different space.",
       "table": {
-        "headers": ["Space", "Our pick"],
+        "headers": [
+          "Space",
+          "Our pick"
+        ],
         "rows": [
-          ["Hallway or entryway sconce", "EZVALO Motion Sensor Wall Light with Remote Control"],
-          ["Staircase or long hallway", "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"],
-          ["Bedroom or nursery", "EZVALO Rechargeable Motion Sensor Night Lights 2 Pack"],
-          ["Walk-in closet", "EZVALO 13-inch Motion Sensor Closet Lights"]
+          [
+            "Hallway or entryway sconce",
+            "EZVALO Motion Sensor Wall Light with Remote Control"
+          ],
+          [
+            "Staircase or long hallway",
+            "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"
+          ],
+          [
+            "Bedroom or nursery",
+            "EZVALO Rechargeable Motion Sensor Night Lights 2 Pack"
+          ],
+          [
+            "Walk-in closet",
+            "EZVALO 13-inch Motion Sensor Closet Lights"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, sconce", "EZVALO Motion Sensor Wall Light with Remote Control"],
-          ["Under $25, night lights", "EZVALO Rechargeable Motion Sensor Night Lights 2 Pack"],
-          ["Under $25, cabinet bars", "EZVALO 10 inch Under Cabinet Lights 2 Pack"],
-          ["$25 to $50, stairs", "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"],
-          ["$25 to $50, closets", "EZVALO 13-inch Motion Sensor Closet Lights"]
+          [
+            "Under $25, sconce",
+            "EZVALO Motion Sensor Wall Light with Remote Control"
+          ],
+          [
+            "Under $25, night lights",
+            "EZVALO Rechargeable Motion Sensor Night Lights 2 Pack"
+          ],
+          [
+            "Under $25, cabinet bars",
+            "EZVALO 10 inch Under Cabinet Lights 2 Pack"
+          ],
+          [
+            "$25 to $50, stairs",
+            "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"
+          ],
+          [
+            "$25 to $50, closets",
+            "EZVALO 13-inch Motion Sensor Closet Lights"
+          ]
         ]
       }
     },
     {
       "subheading": "Sync Pack vs Single Fixture",
       "cards": [
-        { "label": "Sync pack", "text": "Multiple lights wake together, ideal for stairs and hallways. The six-pack stair lights work this way." },
-        { "label": "Single fixture", "text": "One larger light for a defined spot. The wall sconce, closet bar and night lights suit this." }
+        {
+          "label": "Sync pack",
+          "text": "Multiple lights wake together, ideal for stairs and hallways. The six-pack stair lights work this way."
+        },
+        {
+          "label": "Single fixture",
+          "text": "One larger light for a defined spot. The wall sconce, closet bar and night lights suit this."
+        }
       ],
       "note": "Choose a sync pack for any path longer than one light can cover."
     },
     {
       "subheading": "By Battery Size",
       "table": {
-        "headers": ["Battery", "Our pick"],
+        "headers": [
+          "Battery",
+          "Our pick"
+        ],
         "rows": [
-          ["4000mAh", "EZVALO Motion Sensor Wall Light with Remote Control"],
-          ["2400mAh each", "EZVALO 10 inch Under Cabinet Lights 2 Pack"],
-          ["1800mAh", "EZVALO 13-inch Motion Sensor Closet Lights"],
-          ["1500mAh each", "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"]
+          [
+            "4000mAh",
+            "EZVALO Motion Sensor Wall Light with Remote Control"
+          ],
+          [
+            "2400mAh each",
+            "EZVALO 10 inch Under Cabinet Lights 2 Pack"
+          ],
+          [
+            "1800mAh",
+            "EZVALO 13-inch Motion Sensor Closet Lights"
+          ],
+          [
+            "1500mAh each",
+            "EZVALO 6 Pack Sync Motion Sensor Stair Night Lights"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Nursery Specifically",
       "cards": [
-        { "label": "Look for", "text": "Stepless dimming, warm color temperature and a short, gentle trigger so a sleeping child is not woken." },
-        { "label": "In this ranking", "text": "The 2-pack night lights offer 10 to 100 percent dimming and three color temperatures, making them the nursery pick." }
+        {
+          "label": "Look for",
+          "text": "Stepless dimming, warm color temperature and a short, gentle trigger so a sleeping child is not woken."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The 2-pack night lights offer 10 to 100 percent dimming and three color temperatures, making them the nursery pick."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You light a busy hallway where battery life matters, making the 4,000mAh sconce worth choosing." },
-        { "label": "Save if", "text": "You light a quiet spot like a bedroom corner, where the 2-pack under $25 suffices." }
+        {
+          "label": "Spend more if",
+          "text": "You light a busy hallway where battery life matters, making the 4,000mAh sconce worth choosing."
+        },
+        {
+          "label": "Save if",
+          "text": "You light a quiet spot like a bedroom corner, where the 2-pack under $25 suffices."
+        }
       ]
     }
   ],
@@ -314,5 +467,9 @@
     }
   ],
   "finalTake": "Buy the EZVALO Motion Sensor Wall Light with Remote for most homes: the 4,000mAh battery and remote make it the strongest of the line. Choose the 6-pack stair lights for staircases and the 2-pack night lights for bedrooms. The 13 inch bar is for closets only, and the puck and 10 inch bars are for shelves and cabinets.",
-  "related": []
+  "related": [
+    "best-energizer-motion-sensor-lights",
+    "best-indoor-motion-sensor-lights",
+    "best-motion-sensor-ceiling-lights"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "Speaks the time and date, shows them on a 1280x800 IPS screen, and holds 27 alarms. The most complete clock here.",
       "description": "MASSII treats the clock as a daily-orientation tool, not just a speaker with a display. It announces the time and date aloud, shows them on a 1280x800 IPS screen, and adjusts for daylight saving on its own, which removes a twice-yearly chore that families often forget until the clock is an hour wrong.\n\nIt outranks the single-purpose Cirbic clocks because a person with memory problems benefits from seeing and hearing the same information at once. The 10 dimmer levels matter at night, when a bright panel in a bedroom either keeps someone awake or gets turned to the wall. Against the Top Life, it gives up raw volume, since no decibel figure is listed.\n\nBest for a family member or caregiver who wants one clock to cover announcements, a readable screen and up to 27 alarms for medication and meals. The caveat is learning curve: 27 alarms means a menu, so someone must set it up for the user.",
       "keySpecs": [
-        { "label": "Announcements", "value": "Time and date, spoken" },
-        { "label": "Alarms", "value": "27" },
-        { "label": "Screen", "value": "1280x800 IPS, 10 dimmer levels" },
-        { "label": "Daylight saving", "value": "Automatic" }
+        {
+          "label": "Announcements",
+          "value": "Time and date, spoken"
+        },
+        {
+          "label": "Alarms",
+          "value": "27"
+        },
+        {
+          "label": "Screen",
+          "value": "1280x800 IPS, 10 dimmer levels"
+        },
+        {
+          "label": "Daylight saving",
+          "value": "Automatic"
+        }
       ],
       "pros": [
         "Speaks time and date aloud",
@@ -56,10 +68,22 @@
       "verdict": "Voice output up to 85 dB with one press for time, day, date and year. Built for people who miss quieter clocks.",
       "description": "The Top Life is the only clock in this ranking that publishes a volume ceiling: up to 85 dB. For listeners whose hearing has faded, that headroom is the entire point, because a clock that tops out at conversational loudness is useless from across a room. One press announces the time, day, date and year, with no sub-menu to hunt through.\n\nIt ranks below the MASSII because it only talks. There is no extended alarm bank and no dimmable screen, so it solves one problem very well and nothing else. It sits above the Cirbic models because its volume spec is documented, and a normal-volume option keeps it from startling a lighter sleeper.\n\nBest for anyone with hearing loss who does not wear aids at home. The caveat is that 85 dB is intentionally loud, so a shared bedroom needs the normal setting.",
       "keySpecs": [
-        { "label": "Max volume", "value": "85 dB" },
-        { "label": "Announces", "value": "Time, day, date, year" },
-        { "label": "Control", "value": "Single press" },
-        { "label": "Volume modes", "value": "Loud and normal" }
+        {
+          "label": "Max volume",
+          "value": "85 dB"
+        },
+        {
+          "label": "Announces",
+          "value": "Time, day, date, year"
+        },
+        {
+          "label": "Control",
+          "value": "Single press"
+        },
+        {
+          "label": "Volume modes",
+          "value": "Loud and normal"
+        }
       ],
       "pros": [
         "Up to 85 dB voice",
@@ -86,10 +110,22 @@
       "verdict": "One enormous blue button. Press once for the time, again for the date. Nothing else to learn.",
       "description": "Cirbic's Extra Large model is built around a single oversized blue button, and that decision is the whole product. Press once and it speaks the time. Press again and it adds the date. A person with arthritis, low vision or dementia can operate it without reading a label, which is where most small talking clocks fall apart.\n\nIt ranks third because simplicity has a cost. It offers high and low voice settings rather than a published volume ceiling, and the alarm is configured through audio prompts, which takes patience the first time. Against the Cirbic Large Talking Alarm Clock below, the oversized target is the upgrade, since both share the same press-to-hear idea.\n\nBest for someone newly introduced to assistive devices. The caveat is that high and low is a coarse volume control, so a very quiet or very loud room may not suit either setting.",
       "keySpecs": [
-        { "label": "Control", "value": "One large blue button" },
-        { "label": "Press logic", "value": "Once for time, twice for date" },
-        { "label": "Voice", "value": "High and low settings" },
-        { "label": "Alarm", "value": "Yes, audio-guided setup" }
+        {
+          "label": "Control",
+          "value": "One large blue button"
+        },
+        {
+          "label": "Press logic",
+          "value": "Once for time, twice for date"
+        },
+        {
+          "label": "Voice",
+          "value": "High and low settings"
+        },
+        {
+          "label": "Alarm",
+          "value": "Yes, audio-guided setup"
+        }
       ],
       "pros": [
         "Huge button is easy to find",
@@ -116,10 +152,22 @@
       "verdict": "A loud male North American voice, one tap for time and a second for day and date. Pitch is the selling point.",
       "description": "This Cirbic is the one to look at if pitch is the problem. Age-related hearing loss tends to erode high frequencies first, so a deep, loud male voice is often easier to follow than a bright synthetic one. A single tap announces the time, a second tap adds the day and date, and the setup button sits underneath so it cannot be hit by accident.\n\nIt ranks below the Extra Large Cirbic because the target is smaller and less obvious for shaky or low-vision hands. It also trails the Top Life, which lists an 85 dB ceiling while this model gives only a qualitative description of its volume. The advantage over both is voice character, not control.\n\nBest for listeners who struggle with higher-pitched speech. The caveat is that setup runs through one button with audio prompts, so a helper should configure the alarm before handing it over.",
       "keySpecs": [
-        { "label": "Voice", "value": "Loud male, North American" },
-        { "label": "Announces", "value": "Time, day, date" },
-        { "label": "Setup", "value": "One button with audio prompts" },
-        { "label": "Setup button", "value": "Underneath the clock" }
+        {
+          "label": "Voice",
+          "value": "Loud male, North American"
+        },
+        {
+          "label": "Announces",
+          "value": "Time, day, date"
+        },
+        {
+          "label": "Setup",
+          "value": "One button with audio prompts"
+        },
+        {
+          "label": "Setup button",
+          "value": "Underneath the clock"
+        }
       ],
       "pros": [
         "Deep, loud male voice",
@@ -146,10 +194,22 @@
       "verdict": "Records your own spoken messages and shows them on an extra large display. A familiar voice does the reminding.",
       "description": "ORKA's standout feature is voice recording. A daughter, son or caregiver can record a reminder in their own voice, which for someone with memory loss lands very differently than a synthetic announcement. The extra large display shows the day of the week, and the volume is adjustable.\n\nIt ranks last here only because it is the narrowest fit. It is AC powered rather than battery operated, so there is no backup during a power cut, and the recordable approach asks more of the caregiver than the one-button Cirbic models do. Against the MASSII, it trades automatic features for personalization and sits in a higher price bracket.\n\nBest for families who can record reminders for taking pills or locking a door. The caveat is that every reminder needs someone to create it, so it is only as useful as the effort put in.",
       "keySpecs": [
-        { "label": "Messages", "value": "Voice recordable" },
-        { "label": "Display", "value": "Extra large, shows day" },
-        { "label": "Power", "value": "AC powered, not battery" },
-        { "label": "Volume", "value": "Adjustable" }
+        {
+          "label": "Messages",
+          "value": "Voice recordable"
+        },
+        {
+          "label": "Display",
+          "value": "Extra large, shows day"
+        },
+        {
+          "label": "Power",
+          "value": "AC powered, not battery"
+        },
+        {
+          "label": "Volume",
+          "value": "Adjustable"
+        }
       ],
       "pros": [
         "Record reminders in a familiar voice",
@@ -215,25 +275,58 @@
       "subheading": "By Primary Need",
       "intro": "Start with the single problem the clock must solve.",
       "table": {
-        "headers": ["Main need", "Our pick"],
+        "headers": [
+          "Main need",
+          "Our pick"
+        ],
         "rows": [
-          ["Memory loss and daily routine", "MASSII Dementia Clock with Voice Announcement"],
-          ["Hearing loss", "Top Life Extra Loud Talking Clock"],
-          ["Arthritis or low dexterity", "Cirbic Extra Large Talking Button Clock"],
-          ["Trouble with high-pitched voices", "Cirbic Large Talking Alarm Clock"],
-          ["Reminders in a family voice", "ORKA Talking Clock with Recordable Reminders"]
+          [
+            "Memory loss and daily routine",
+            "MASSII Dementia Clock with Voice Announcement"
+          ],
+          [
+            "Hearing loss",
+            "Top Life Extra Loud Talking Clock"
+          ],
+          [
+            "Arthritis or low dexterity",
+            "Cirbic Extra Large Talking Button Clock"
+          ],
+          [
+            "Trouble with high-pitched voices",
+            "Cirbic Large Talking Alarm Clock"
+          ],
+          [
+            "Reminders in a family voice",
+            "ORKA Talking Clock with Recordable Reminders"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50, most features", "MASSII Dementia Clock with Voice Announcement"],
-          ["$25 to $50, loudest voice", "Top Life Extra Loud Talking Clock"],
-          ["$25 to $50, simplest control", "Cirbic Extra Large Talking Button Clock"],
-          ["$50 to $100", "ORKA Talking Clock with Recordable Reminders"]
+          [
+            "$25 to $50, most features",
+            "MASSII Dementia Clock with Voice Announcement"
+          ],
+          [
+            "$25 to $50, loudest voice",
+            "Top Life Extra Loud Talking Clock"
+          ],
+          [
+            "$25 to $50, simplest control",
+            "Cirbic Extra Large Talking Button Clock"
+          ],
+          [
+            "$50 to $100",
+            "ORKA Talking Clock with Recordable Reminders"
+          ]
         ]
       }
     },
@@ -254,12 +347,27 @@
     {
       "subheading": "By Where the Clock Lives",
       "table": {
-        "headers": ["Location", "Our pick"],
+        "headers": [
+          "Location",
+          "Our pick"
+        ],
         "rows": [
-          ["Bedside, light sleeper", "MASSII Dementia Clock with Voice Announcement"],
-          ["Living room across the space", "Top Life Extra Loud Talking Clock"],
-          ["Kitchen counter", "Cirbic Extra Large Talking Button Clock"],
-          ["Bedroom with caregiver reminders", "ORKA Talking Clock with Recordable Reminders"]
+          [
+            "Bedside, light sleeper",
+            "MASSII Dementia Clock with Voice Announcement"
+          ],
+          [
+            "Living room across the space",
+            "Top Life Extra Loud Talking Clock"
+          ],
+          [
+            "Kitchen counter",
+            "Cirbic Extra Large Talking Button Clock"
+          ],
+          [
+            "Bedroom with caregiver reminders",
+            "ORKA Talking Clock with Recordable Reminders"
+          ]
         ]
       }
     },
@@ -317,5 +425,9 @@
     }
   ],
   "finalTake": "For most households the MASSII Dementia Clock with Voice Announcement is the best talking clock: it speaks, shows the date on a sharp IPS screen and holds 27 alarms. Choose the Top Life Extra Loud if hearing loss is the main problem. The Cirbic Extra Large Talking Button Clock is the right answer when simplicity beats features. Buy the ORKA only if family can record the reminders the person will actually hear.",
-  "related": []
+  "related": [
+    "best-digital-day-clocks-for-seniors",
+    "best-big-button-cell-phones-for-seniors",
+    "best-bluetooth-trackers-for-seniors"
+  ]
 }

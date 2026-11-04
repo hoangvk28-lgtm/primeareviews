@@ -26,10 +26,22 @@
       "verdict": "Humidity with daily highs and lows, in a display you can read at a glance.",
       "description": "AcuRite does one job and does it plainly: it shows indoor temperature and humidity on a large display and records the daily high and low of each. That high reading is the one that matters for mold, because a basement that spikes to damp every afternoon is a problem that an average hides.\n\nIt wins because mold risk is a humidity story, and this is the cleanest humidity tool here for the least money. The Amazon and Airthings units show humidity too, but bury it among other metrics. The tradeoff is scope: no particle, CO2 or VOC data, so it cannot tell you if a musty smell is something else.\n\nBuy it for a basement, bathroom or crawl-adjacent closet where you just want to know if humidity creeps over the mid-50s. Place the sensor on an interior wall, not near a vent, or the reading will flatter the room.",
       "keySpecs": [
-        {"label": "Readings", "value": "Temperature and humidity"},
-        {"label": "Logging", "value": "Daily high and low"},
-        {"label": "Display", "value": "Easy-to-read monitor"},
-        {"label": "Price", "value": "Under $25"}
+        {
+          "label": "Readings",
+          "value": "Temperature and humidity"
+        },
+        {
+          "label": "Logging",
+          "value": "Daily high and low"
+        },
+        {
+          "label": "Display",
+          "value": "Easy-to-read monitor"
+        },
+        {
+          "label": "Price",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Humidity is the headline reading",
@@ -56,10 +68,22 @@
       "verdict": "A fast-updating hygrometer with a comfort indicator and high and low records.",
       "description": "TempPro's TempAir also keeps to humidity and temperature, but it refreshes quickly and adds a wellness indicator that flags when a room drifts outside a comfortable band. It stores highs and lows like the AcuRite, so you can see the worst moment of the day.\n\nIt lands just behind the AcuRite because the extra refresh speed matters less for mold than you might think. Mold responds to humidity held over days, not seconds. The indicator is the real benefit, since it gives a non-technical household member a pass or fail signal without reading percentages.\n\nPick it if several people share the space and you want a color-style verdict at a glance. The caveat is the same as every hygrometer here: it measures conditions, not spores, and its price bucket sits above the AcuRite for a similar core job.",
       "keySpecs": [
-        {"label": "Readings", "value": "Temperature and humidity"},
-        {"label": "Refresh", "value": "Quick refresh rate"},
-        {"label": "Extra", "value": "Wellness indicator"},
-        {"label": "Price", "value": "$25 to $50"}
+        {
+          "label": "Readings",
+          "value": "Temperature and humidity"
+        },
+        {
+          "label": "Refresh",
+          "value": "Quick refresh rate"
+        },
+        {
+          "label": "Extra",
+          "value": "Wellness indicator"
+        },
+        {
+          "label": "Price",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Fast refresh after moving rooms",
@@ -86,10 +110,22 @@
       "verdict": "Tracks five factors including humidity and lets Alexa speak the results.",
       "description": "Amazon's monitor tracks five key factors, among them particulate matter at PM2.5, and shows a color-coded LED so you can read the room without opening an app. Humidity is one of those factors, and Alexa routines can act on it, such as nudging a connected dehumidifier plug.\n\nThat automation is why it outranks the multi-sensor 16-in-1 units: a monitor that can switch something on beats one that only beeps. It trails the hygrometers because humidity is one tile among several, and the LED color is a summary, not a number. You will need the app to see the actual percentage.\n\nBest for a house already built around Alexa, especially a damp basement with a smart plug on a dehumidifier. Skip it if you do not want your air data tied to a cloud account.",
       "keySpecs": [
-        {"label": "Factors tracked", "value": "5, incl. PM2.5"},
-        {"label": "Indicator", "value": "Color-coded LED"},
-        {"label": "Ecosystem", "value": "Alexa"},
-        {"label": "Price", "value": "$50 to $100"}
+        {
+          "label": "Factors tracked",
+          "value": "5, incl. PM2.5"
+        },
+        {
+          "label": "Indicator",
+          "value": "Color-coded LED"
+        },
+        {
+          "label": "Ecosystem",
+          "value": "Alexa"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Humidity plus particle tracking",
@@ -116,10 +152,22 @@
       "verdict": "A screenless always-on sensor that logs the room quietly in the background.",
       "description": "The Wave Mini is a small, screenless sensor with always-on air quality sensing that you read through its app. There is no display to glance at and nothing to beep, which suits a bedroom or a closet where you want the trend, not the noise.\n\nIt sits below the Amazon monitor because that unit speaks to a smart home, while the Wave Mini mostly collects history. The upside is the trend line: seeing humidity rise over a week during rainy spells tells you more about mold risk than a single reading ever could.\n\nChoose it if you want unobtrusive logging in a nursery or spare room and are comfortable with a phone app. The caveat is dependence on that app, since nothing on the device tells you the room is getting damp.",
       "keySpecs": [
-        {"label": "Sensing", "value": "Always-on air quality"},
-        {"label": "Display", "value": "None, app-based"},
-        {"label": "Style", "value": "Compact, discreet"},
-        {"label": "Price", "value": "$50 to $100"}
+        {
+          "label": "Sensing",
+          "value": "Always-on air quality"
+        },
+        {
+          "label": "Display",
+          "value": "None, app-based"
+        },
+        {
+          "label": "Style",
+          "value": "Compact, discreet"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Trend history over days",
@@ -146,10 +194,22 @@
       "verdict": "Eight-in-one sensing with CO2, particles and VOCs, plus a battery for room-to-room use.",
       "description": "Breathe's Airmonitor Plus is billed as an 8-in-1 unit with a CO2 monitor plus particle and VOC sensors, and it runs on a 6-hour battery so you can carry it between rooms. Check the listing to confirm humidity is among the eight readings before you buy.\n\nIt ranks fifth because CO2 and VOC data, while useful for a stuffy room, do not predict mold. Against the Wave Mini it gives you a screen and portability, and against the hygrometers it gives you far more channels, but only if you actually use them. Six hours of battery limits it to spot checks, so plug it in for overnight tracking.\n\nBest for someone who wants one gadget that answers questions about stuffiness, smoke and dampness together. Skip it if humidity is your only concern.",
       "keySpecs": [
-        {"label": "Sensors", "value": "8-in-1 incl. CO2"},
-        {"label": "Particles and VOC", "value": "Included"},
-        {"label": "Battery", "value": "6 hours"},
-        {"label": "Price", "value": "$50 to $100"}
+        {
+          "label": "Sensors",
+          "value": "8-in-1 incl. CO2"
+        },
+        {
+          "label": "Particles and VOC",
+          "value": "Included"
+        },
+        {
+          "label": "Battery",
+          "value": "6 hours"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "CO2, particle and VOC sensing",
@@ -176,10 +236,22 @@
       "verdict": "A 16-in-1 screen with seven AQI beep alarms and a one-button interface.",
       "description": "AQItech packs a professional-style 16-in-1 sensor system into a single unit with seven AQI beep alarms, one-button start, and a double-click to silence alerts. Its sensors sample air data continuously, so the screen updates as conditions change.\n\nThe alarms are the draw, and also the reason it ranks low for mold. Those alerts are tied to air quality indices, not to a humidity threshold you can tune, so a creeping damp problem may never trip them. It beats the cheaper 16-in-1 below on its alarm behavior and control simplicity, but it sits in the $100 to $200 bucket, many times the cost of a hygrometer.\n\nConsider it if you want a loud warning about smoke or gases and mold is a secondary worry. Otherwise the money is better spent on a hygrometer and a dehumidifier.",
       "keySpecs": [
-        {"label": "Sensors", "value": "16-in-1"},
-        {"label": "Alerts", "value": "7 AQI beep alarms"},
-        {"label": "Controls", "value": "One-button, double-click to silence"},
-        {"label": "Price", "value": "$100 to $200"}
+        {
+          "label": "Sensors",
+          "value": "16-in-1"
+        },
+        {
+          "label": "Alerts",
+          "value": "7 AQI beep alarms"
+        },
+        {
+          "label": "Controls",
+          "value": "One-button, double-click to silence"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Loud, graded AQI alarms",
@@ -206,10 +278,22 @@
       "verdict": "High-precision sensor array with one-button power and a Celsius or Fahrenheit switch.",
       "description": "This unbranded 16-in-1 monitor offers comprehensive air quality tracking from a high-precision sensor array. A single button handles power and the switch between Celsius and Fahrenheit, which keeps the interface about as basic as a multi-sensor device gets.\n\nIt finishes last because the listing says the least about humidity handling and alerts, and the AQItech above it is at least explicit about its alarm tiers. For mold, a feature count of sixteen means little if the humidity channel is not clearly shown and logged, so check the screen layout in the images before you commit.\n\nIt makes sense for a shopper who wants a many-in-one display for a home office or garage and will glance at humidity as one line of many. Anyone watching a damp wall should buy a dedicated hygrometer instead.",
       "keySpecs": [
-        {"label": "Sensors", "value": "16-in-1 array"},
-        {"label": "Controls", "value": "One button"},
-        {"label": "Units", "value": "Switch C or F"},
-        {"label": "Price", "value": "$100 to $200"}
+        {
+          "label": "Sensors",
+          "value": "16-in-1 array"
+        },
+        {
+          "label": "Controls",
+          "value": "One button"
+        },
+        {
+          "label": "Units",
+          "value": "Switch C or F"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Wide sensor coverage",
@@ -227,89 +311,207 @@
     }
   ],
   "methodology": [
-    {"title": "Humidity visibility", "description": "How prominently the monitor shows relative humidity, since it is the reading that predicts mold risk."},
-    {"title": "Logging and history", "description": "Whether the unit records daily highs and lows or trends so a recurring damp spike does not hide inside an average."},
-    {"title": "Alerts and automation", "description": "Whether the device warns you or triggers a dehumidifier instead of waiting for you to look."},
-    {"title": "Reading clarity", "description": "How easily a person can tell the room is damp from the display, LED or app."},
-    {"title": "Value for the job", "description": "Price against the channels that actually help with mold, not the total sensor count."}
+    {
+      "title": "Humidity visibility",
+      "description": "How prominently the monitor shows relative humidity, since it is the reading that predicts mold risk."
+    },
+    {
+      "title": "Logging and history",
+      "description": "Whether the unit records daily highs and lows or trends so a recurring damp spike does not hide inside an average."
+    },
+    {
+      "title": "Alerts and automation",
+      "description": "Whether the device warns you or triggers a dehumidifier instead of waiting for you to look."
+    },
+    {
+      "title": "Reading clarity",
+      "description": "How easily a person can tell the room is damp from the display, LED or app."
+    },
+    {
+      "title": "Value for the job",
+      "description": "Price against the channels that actually help with mold, not the total sensor count."
+    }
   ],
   "whatMatters": [
-    {"factor": "Relative humidity", "detail": "Relative humidity is the share of moisture the air holds compared with its maximum. Mold tends to take hold when it stays above roughly 60 percent for days, so this is the number to watch. On a listing, look for a clearly named humidity reading, not just an overall air score. The AcuRite and TempPro show it directly."},
-    {"factor": "High and low records", "detail": "A daily high and low shows the worst moment, not the average. A basement can average 50 percent and still spike to 70 after laundry or rain. Check that the listing mentions high and low or history. The AcuRite and TempPro both log highs and lows, while the Wave Mini offers app trends."},
-    {"factor": "Sensor placement", "detail": "A monitor reads the air around it, so a unit beside a vent, window or humidifier reports a flattering or alarming number that the walls do not share. Mount or set it on an interior wall at chest height. Portable units like the Breathe Airmonitor Plus let you check suspect corners one at a time."},
-    {"factor": "Alerts versus automation", "detail": "An alert tells you; automation acts. A beep helps only if you are home, while a smart routine can start a dehumidifier. Look for named alarm tiers, as on the AQItech, or an assistant integration, as on the Amazon monitor. Basic hygrometers have neither, which is fine if you check them weekly."},
-    {"factor": "What the monitor cannot do", "detail": "No home monitor identifies mold spores or confirms contamination. It tells you the conditions are right for growth. If humidity stays high or you see staining or smell mustiness, a physical inspection or lab test is the next step. Treat any listing that implies it detects mold itself with caution."}
+    {
+      "factor": "Relative humidity",
+      "detail": "Relative humidity is the share of moisture the air holds compared with its maximum. Mold tends to take hold when it stays above roughly 60 percent for days, so this is the number to watch. On a listing, look for a clearly named humidity reading, not just an overall air score. The AcuRite and TempPro show it directly."
+    },
+    {
+      "factor": "High and low records",
+      "detail": "A daily high and low shows the worst moment, not the average. A basement can average 50 percent and still spike to 70 after laundry or rain. Check that the listing mentions high and low or history. The AcuRite and TempPro both log highs and lows, while the Wave Mini offers app trends."
+    },
+    {
+      "factor": "Sensor placement",
+      "detail": "A monitor reads the air around it, so a unit beside a vent, window or humidifier reports a flattering or alarming number that the walls do not share. Mount or set it on an interior wall at chest height. Portable units like the Breathe Airmonitor Plus let you check suspect corners one at a time."
+    },
+    {
+      "factor": "Alerts versus automation",
+      "detail": "An alert tells you; automation acts. A beep helps only if you are home, while a smart routine can start a dehumidifier. Look for named alarm tiers, as on the AQItech, or an assistant integration, as on the Amazon monitor. Basic hygrometers have neither, which is fine if you check them weekly."
+    },
+    {
+      "factor": "What the monitor cannot do",
+      "detail": "No home monitor identifies mold spores or confirms contamination. It tells you the conditions are right for growth. If humidity stays high or you see staining or smell mustiness, a physical inspection or lab test is the next step. Treat any listing that implies it detects mold itself with caution."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Primary Need",
       "intro": "Start with what you want the monitor to tell you, then buy only the sensors that answer it.",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["Humidity with daily highs and lows", "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"],
-          ["Quick refresh and a comfort indicator", "TempPro TempAir Digital Hygrometer"],
-          ["Smart-home automation", "Amazon Smart Air Quality Monitor"],
-          ["Quiet trend logging", "Airthings-292 Wave Mini"],
-          ["Carry between rooms", "BREATHE Airmonitor Plus"]
+          [
+            "Humidity with daily highs and lows",
+            "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"
+          ],
+          [
+            "Quick refresh and a comfort indicator",
+            "TempPro TempAir Digital Hygrometer"
+          ],
+          [
+            "Smart-home automation",
+            "Amazon Smart Air Quality Monitor"
+          ],
+          [
+            "Quiet trend logging",
+            "Airthings-292 Wave Mini"
+          ],
+          [
+            "Carry between rooms",
+            "BREATHE Airmonitor Plus"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"],
-          ["$25 to $50", "TempPro TempAir Digital Hygrometer"],
-          ["$50 to $100", "Amazon Smart Air Quality Monitor"],
-          ["$100 to $200", "AQItech Professional Indoor Air Quality Monitor"]
+          [
+            "Under $25",
+            "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"
+          ],
+          [
+            "$25 to $50",
+            "TempPro TempAir Digital Hygrometer"
+          ],
+          [
+            "$50 to $100",
+            "Amazon Smart Air Quality Monitor"
+          ],
+          [
+            "$100 to $200",
+            "AQItech Professional Indoor Air Quality Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "Hygrometer vs Multi-Sensor Monitor",
       "cards": [
-        {"label": "Hygrometer", "text": "Shows humidity and temperature with highs and lows, and costs little. The AcuRite and TempPro are the picks. Best when mold is the only concern."},
-        {"label": "Multi-sensor", "text": "Adds particles, VOCs and CO2 for a broader view. The Amazon monitor, Breathe Airmonitor Plus and AQItech fit here. Best when you also care about smoke, stuffiness or gases."}
+        {
+          "label": "Hygrometer",
+          "text": "Shows humidity and temperature with highs and lows, and costs little. The AcuRite and TempPro are the picks. Best when mold is the only concern."
+        },
+        {
+          "label": "Multi-sensor",
+          "text": "Adds particles, VOCs and CO2 for a broader view. The Amazon monitor, Breathe Airmonitor Plus and AQItech fit here. Best when you also care about smoke, stuffiness or gases."
+        }
       ],
       "note": "Default to the AcuRite for mold. Move up to the Amazon monitor only if you want automation."
     },
     {
       "subheading": "By Display Style",
       "table": {
-        "headers": ["Style", "Our pick"],
+        "headers": [
+          "Style",
+          "Our pick"
+        ],
         "rows": [
-          ["Large number display", "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"],
-          ["Color LED summary", "Amazon Smart Air Quality Monitor"],
-          ["App only, no screen", "Airthings-292 Wave Mini"],
-          ["Full multi-metric screen", "16-in-1 Indoor Air Quality Monitor"]
+          [
+            "Large number display",
+            "AcuRite Wireless Digital Indoor Thermometer and Hygrometer"
+          ],
+          [
+            "Color LED summary",
+            "Amazon Smart Air Quality Monitor"
+          ],
+          [
+            "App only, no screen",
+            "Airthings-292 Wave Mini"
+          ],
+          [
+            "Full multi-metric screen",
+            "16-in-1 Indoor Air Quality Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "For Basements and Bathrooms Specifically",
       "cards": [
-        {"label": "Look for", "text": "A clear humidity number, daily highs, and a sensor that can sit on an interior wall away from the shower or vents."},
-        {"label": "In this ranking", "text": "The AcuRite and TempPro fit best. Use the Amazon monitor if you want a dehumidifier plug to react automatically."}
+        {
+          "label": "Look for",
+          "text": "A clear humidity number, daily highs, and a sensor that can sit on an interior wall away from the shower or vents."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The AcuRite and TempPro fit best. Use the Amazon monitor if you want a dehumidifier plug to react automatically."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You want automation, particle data or alarms. The Amazon Smart Air Quality Monitor and AQItech add that for $50 or more."},
-        {"label": "Save if", "text": "Humidity is the only question. The AcuRite handles it for under $25."}
+        {
+          "label": "Spend more if",
+          "text": "You want automation, particle data or alarms. The Amazon Smart Air Quality Monitor and AQItech add that for $50 or more."
+        },
+        {
+          "label": "Save if",
+          "text": "Humidity is the only question. The AcuRite handles it for under $25."
+        }
       ]
     }
   ],
   "faq": [
-    {"q": "Can an air quality monitor detect mold?", "a": "No. Monitors like the Amazon Smart Air Quality Monitor or the Breathe Airmonitor Plus read humidity, particles and gases, not spores. They flag the damp conditions mold needs, so persistent high humidity is a reason to inspect, not proof of growth."},
-    {"q": "What humidity level should I aim for?", "a": "Most guidance suggests keeping indoor humidity between about 30 and 50 percent and below 60. A hygrometer such as the AcuRite or TempPro lets you see when a basement or bathroom drifts above that range."},
-    {"q": "Is a 16-in-1 monitor worth it over a basic hygrometer?", "a": "Only if you want particle, VOC or CO2 data too. For mold alone, the AcuRite does the key job for under $25, while the AQItech costs several times more and its alarms are not humidity thresholds."},
-    {"q": "Where should I put the monitor?", "a": "Place it on an interior wall at chest height, away from vents, windows and humidifiers. Moving the portable Breathe Airmonitor Plus between rooms helps pinpoint which space runs damp."},
-    {"q": "Do these monitors need maintenance?", "a": "Basic units like the AcuRite mainly need fresh batteries. Particle sensors in the Amazon and Breathe monitors benefit from dusting vents occasionally, and screenless units like the Wave Mini rely on the app staying connected."},
-    {"q": "What if humidity stays high after I run a dehumidifier?", "a": "Look for the source: leaks, poor ventilation or an undersized dehumidifier. Keep logging with the TempPro or AcuRite highs and lows, and call a professional if you see staining, soft drywall or a persistent musty smell."}
+    {
+      "q": "Can an air quality monitor detect mold?",
+      "a": "No. Monitors like the Amazon Smart Air Quality Monitor or the Breathe Airmonitor Plus read humidity, particles and gases, not spores. They flag the damp conditions mold needs, so persistent high humidity is a reason to inspect, not proof of growth."
+    },
+    {
+      "q": "What humidity level should I aim for?",
+      "a": "Most guidance suggests keeping indoor humidity between about 30 and 50 percent and below 60. A hygrometer such as the AcuRite or TempPro lets you see when a basement or bathroom drifts above that range."
+    },
+    {
+      "q": "Is a 16-in-1 monitor worth it over a basic hygrometer?",
+      "a": "Only if you want particle, VOC or CO2 data too. For mold alone, the AcuRite does the key job for under $25, while the AQItech costs several times more and its alarms are not humidity thresholds."
+    },
+    {
+      "q": "Where should I put the monitor?",
+      "a": "Place it on an interior wall at chest height, away from vents, windows and humidifiers. Moving the portable Breathe Airmonitor Plus between rooms helps pinpoint which space runs damp."
+    },
+    {
+      "q": "Do these monitors need maintenance?",
+      "a": "Basic units like the AcuRite mainly need fresh batteries. Particle sensors in the Amazon and Breathe monitors benefit from dusting vents occasionally, and screenless units like the Wave Mini rely on the app staying connected."
+    },
+    {
+      "q": "What if humidity stays high after I run a dehumidifier?",
+      "a": "Look for the source: leaks, poor ventilation or an undersized dehumidifier. Keep logging with the TempPro or AcuRite highs and lows, and call a professional if you see staining, soft drywall or a persistent musty smell."
+    }
   ],
   "finalTake": "For mold, buy the AcuRite Wireless Digital Indoor Thermometer and Hygrometer, then act on what its daily highs tell you. The TempPro TempAir is the upgrade when several people need an at-a-glance verdict. Choose the Amazon Smart Air Quality Monitor only if you want a dehumidifier to respond on its own. Everything else here is a broader air quality tool that happens to include humidity.",
-  "related": []
+  "related": [
+    "best-air-quality-monitors-for-3d-printing",
+    "best-air-quality-monitors-for-construction-sites",
+    "best-air-quality-monitors-for-wildfire-smoke"
+  ]
 }

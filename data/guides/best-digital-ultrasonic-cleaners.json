@@ -26,10 +26,22 @@
       "verdict": "Digital time and temperature on a tank with real power behind it.",
       "description": "Three 60W transducers give 180W at 40 kHz, a 200W heater runs 0 to 80C, and the panel exposes both temperature and a 0 to 30 minute timer. The 304 stainless tank is 12.8 x 6.9 x 5.9 inches, so a socket row or a board lies flat. FCC, CE, RoHS and UL are all listed.\n\nIt tops the list because the display controls something worth controlling. The 3L VEVOR below shares the layout but has two-thirds the transducer power and a smaller bath, while the Magnasonic has no heater at all.\n\nBuy it for hobby, garage and kitchen cleaning. The limit is the 80C cap on the heater, which is right for most jobs and short only for the heaviest grease.",
       "keySpecs": [
-        { "label": "Tank", "value": "6 L, 12.8 x 6.9 x 5.9 in" },
-        { "label": "Ultrasonic power", "value": "180W at 40 kHz" },
-        { "label": "Heater", "value": "200W, 0 to 80C" },
-        { "label": "Timer", "value": "0 to 30 minutes" }
+        {
+          "label": "Tank",
+          "value": "6 L, 12.8 x 6.9 x 5.9 in"
+        },
+        {
+          "label": "Ultrasonic power",
+          "value": "180W at 40 kHz"
+        },
+        {
+          "label": "Heater",
+          "value": "200W, 0 to 80C"
+        },
+        {
+          "label": "Timer",
+          "value": "0 to 30 minutes"
+        }
       ],
       "pros": [
         "Readable time and temperature",
@@ -56,10 +68,22 @@
       "verdict": "Heat and a 30 minute timer in a 3-liter tub that still fits beside the sink.",
       "description": "This 3L model pairs two 60W transducers (120W total at 40 kHz) with a heater that reaches 176F, plus a 0 to 30 minute digital timer. The 304 stainless tank holds 0.8 gallon, and safety shows up as a dual fuse and anti-slip feet.\n\nIt lands below the 6L because the tank is smaller and the bath cools more quickly under load, but it beats the CREWORKS 3L through higher listed ultrasonic power. The FCC and UL listings are not claimed here, so safety rests on the fuses.\n\nIt suits tool, jewelry and eyewear cleaning at a $50 to $100 price. The caveat is length: long wrenches and bike chains need the bigger tub.",
       "keySpecs": [
-        { "label": "Tank", "value": "3 L (0.8 gal), 304 stainless" },
-        { "label": "Ultrasonic power", "value": "120W (2 x 60W) at 40 kHz" },
-        { "label": "Temperature", "value": "Room temp to 176F" },
-        { "label": "Safety", "value": "Dual fuse, anti-slip feet" }
+        {
+          "label": "Tank",
+          "value": "3 L (0.8 gal), 304 stainless"
+        },
+        {
+          "label": "Ultrasonic power",
+          "value": "120W (2 x 60W) at 40 kHz"
+        },
+        {
+          "label": "Temperature",
+          "value": "Room temp to 176F"
+        },
+        {
+          "label": "Safety",
+          "value": "Dual fuse, anti-slip feet"
+        }
       ],
       "pros": [
         "Heat plus timer on a counter",
@@ -86,10 +110,22 @@
       "verdict": "Five fixed cycles on a digital timer for jewelry and glasses, with a basket included.",
       "description": "The Magnasonic gives you a 600 ml (20 oz) stainless tank, 42,000 Hz output, a digital timer and display, five preset cycles and a basket. There is no heater, which keeps the price in the $25 to $50 range and the design simple.\n\nIt ranks third because fixed cycles are the right design for fragile items: you cannot set a wrong temperature when none exists. Against the heated VEVOR units it cleans oils and grease less aggressively, so it is a jewelry-and-glasses machine first.\n\nBuy it for rings, watch bands and eyeglasses. Skip it if you want to scrub oily tools; for that, one of the heated VEVOR models is a better match.",
       "keySpecs": [
-        { "label": "Tank", "value": "20 oz (600 ml) stainless" },
-        { "label": "Frequency", "value": "42,000 Hz" },
-        { "label": "Cycles", "value": "5 presets" },
-        { "label": "Controls", "value": "Digital timer and display" }
+        {
+          "label": "Tank",
+          "value": "20 oz (600 ml) stainless"
+        },
+        {
+          "label": "Frequency",
+          "value": "42,000 Hz"
+        },
+        {
+          "label": "Cycles",
+          "value": "5 presets"
+        },
+        {
+          "label": "Controls",
+          "value": "Digital timer and display"
+        }
       ],
       "pros": [
         "Lowest price in the digital group",
@@ -116,10 +152,22 @@
       "verdict": "360W and a 15-liter tank with degassing and a gentle mode for big batches of hardware.",
       "description": "Fifteen liters with 360W at 40 kHz, a 0 to 80C heater, degassing and gentle modes, a portable handle and drainage. The extra modes are the draw: degassing clears dissolved air from fresh solution, and gentle mode trims power for softer metals.\n\nIt ranks fourth because most digital-cleaner buyers do not need 15 liters. The 360W works out to about 24 watts per liter, thinner cavitation than the 6L VEVOR's 30, so bigger is not automatically better. It does beat the smaller units for sheer batch capacity.\n\nChoose it for racks of hardware or long parts. The caveat is that it costs $100 to $200 and takes real bench space.",
       "keySpecs": [
-        { "label": "Tank", "value": "15 L" },
-        { "label": "Ultrasonic power", "value": "360W at 40 kHz" },
-        { "label": "Temperature", "value": "0 to 80C" },
-        { "label": "Modes", "value": "Degassing and gentle" }
+        {
+          "label": "Tank",
+          "value": "15 L"
+        },
+        {
+          "label": "Ultrasonic power",
+          "value": "360W at 40 kHz"
+        },
+        {
+          "label": "Temperature",
+          "value": "0 to 80C"
+        },
+        {
+          "label": "Modes",
+          "value": "Degassing and gentle"
+        }
       ],
       "pros": [
         "Degas and gentle modes",
@@ -146,10 +194,22 @@
       "verdict": "A heated 3L tank with simple buttons, two fuses and non-skid feet.",
       "description": "CREWORKS builds this around a 3L, 304 stainless tank with up to 100W of heating across 68 to 176F, a timer up to 30 minutes and buttons that do exactly what they say. Two fuses and non-skid feet cover basic safety.\n\nIt ranks below the VEVOR 3L because the spec sheet gives no ultrasonic wattage, which makes it hard to compare cavitation. It stays above the H&B for that same reason in reverse: the heater range is wider and the controls simpler.\n\nIt is a quiet, plain choice for jewelry, glasses and tools. The caveat is the missing power number, so buy it for the interface and safety rather than for a performance claim.",
       "keySpecs": [
-        { "label": "Tank", "value": "3 L (0.8 gal), 304 stainless" },
-        { "label": "Heating", "value": "Up to 100W" },
-        { "label": "Temperature", "value": "68 to 176F" },
-        { "label": "Timer", "value": "Up to 30 minutes" }
+        {
+          "label": "Tank",
+          "value": "3 L (0.8 gal), 304 stainless"
+        },
+        {
+          "label": "Heating",
+          "value": "Up to 100W"
+        },
+        {
+          "label": "Temperature",
+          "value": "68 to 176F"
+        },
+        {
+          "label": "Timer",
+          "value": "Up to 30 minutes"
+        }
       ],
       "pros": [
         "Simple button layout",
@@ -176,10 +236,22 @@
       "verdict": "A lengthened 2.5L tank at 35 kHz for tubes and tools that will not fit a squarer bath.",
       "description": "Odd one out: 160W at 35 kHz, a lengthened 2.5L tank, a heater to 65C (149F) and five timed cycles of 90, 180, 280, 380 and 480 seconds. A basket, circuit protector and cooling fan come with it.\n\nThe 35 kHz frequency makes larger bubbles that scrub harder than 40 kHz, which suits tools but is tougher on fine finishes. The shape is the real selling point, since the tank gives more length than a squarer 3L.\n\nIt ranks last because the cycles cap at 480 seconds, shorter than the 30 minute timers elsewhere, and heating tops out at 65C. Buy it when part length is the problem; otherwise a VEVOR 3L is the better all-rounder.",
       "keySpecs": [
-        { "label": "Tank", "value": "2.5 L, lengthened" },
-        { "label": "Ultrasonic power", "value": "160W at 35 kHz" },
-        { "label": "Heater", "value": "Up to 65C (149F)" },
-        { "label": "Cycles", "value": "90 to 480 seconds" }
+        {
+          "label": "Tank",
+          "value": "2.5 L, lengthened"
+        },
+        {
+          "label": "Ultrasonic power",
+          "value": "160W at 35 kHz"
+        },
+        {
+          "label": "Heater",
+          "value": "Up to 65C (149F)"
+        },
+        {
+          "label": "Cycles",
+          "value": "90 to 480 seconds"
+        }
       ],
       "pros": [
         "Long tank for tubes and tools",
@@ -245,25 +317,58 @@
       "subheading": "By Tank Size",
       "intro": "Pick the tank that matches your largest regular load.",
       "table": {
-        "headers": ["Typical load", "Our pick"],
+        "headers": [
+          "Typical load",
+          "Our pick"
+        ],
         "rows": [
-          ["Rings, glasses, watch parts", "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"],
-          ["Tools and jewelry on a counter", "VEVOR 3L Heated Ultrasonic Cleaner, Digital Timer"],
-          ["Long tubes and tools", "H&B Luxuries 2.5L Digital Ultrasonic Cleaner, 160W"],
-          ["Boards, hardware, garage parts", "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"],
-          ["Large batches of hardware", "VEVOR 15L Sonic Cleaner, Digital with Degas and Gentle"]
+          [
+            "Rings, glasses, watch parts",
+            "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"
+          ],
+          [
+            "Tools and jewelry on a counter",
+            "VEVOR 3L Heated Ultrasonic Cleaner, Digital Timer"
+          ],
+          [
+            "Long tubes and tools",
+            "H&B Luxuries 2.5L Digital Ultrasonic Cleaner, 160W"
+          ],
+          [
+            "Boards, hardware, garage parts",
+            "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"
+          ],
+          [
+            "Large batches of hardware",
+            "VEVOR 15L Sonic Cleaner, Digital with Degas and Gentle"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"],
-          ["$50 to $100 (best overall)", "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"],
-          ["$50 to $100 (simple buttons)", "CREWORKS 3L Digital Ultrasonic Cleaner, 0.8 Gal"],
-          ["$100 to $200", "VEVOR 15L Sonic Cleaner, Digital with Degas and Gentle"]
+          [
+            "$25 to $50",
+            "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"
+          ],
+          [
+            "$50 to $100 (best overall)",
+            "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"
+          ],
+          [
+            "$50 to $100 (simple buttons)",
+            "CREWORKS 3L Digital Ultrasonic Cleaner, 0.8 Gal"
+          ],
+          [
+            "$100 to $200",
+            "VEVOR 15L Sonic Cleaner, Digital with Degas and Gentle"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Heater Ceiling",
       "table": {
-        "headers": ["Heat need", "Our pick"],
+        "headers": [
+          "Heat need",
+          "Our pick"
+        ],
         "rows": [
-          ["No heat, fragile items", "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"],
-          ["Up to 65C", "H&B Luxuries 2.5L Digital Ultrasonic Cleaner, 160W"],
-          ["Up to 80C", "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"],
-          ["Up to 176F on a small tank", "CREWORKS 3L Digital Ultrasonic Cleaner, 0.8 Gal"]
+          [
+            "No heat, fragile items",
+            "Magnasonic 20oz Digital Ultrasonic Cleaner, 5 Cycles"
+          ],
+          [
+            "Up to 65C",
+            "H&B Luxuries 2.5L Digital Ultrasonic Cleaner, 160W"
+          ],
+          [
+            "Up to 80C",
+            "VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater"
+          ],
+          [
+            "Up to 176F on a small tank",
+            "CREWORKS 3L Digital Ultrasonic Cleaner, 0.8 Gal"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "The VEVOR 6L Digital Ultrasonic Cleaner, 40kHz with Heater is the best digital tub because its display controls real power, real heat and a useful timer. The VEVOR 3L is the right counter-size alternative, and the Magnasonic is the budget route for fragile items. Choose the 15L only when batches justify it, and the H&B only when part length is the obstacle.",
-  "related": []
+  "related": [
+    "best-6l-ultrasonic-cleaners",
+    "best-budget-ultrasonic-cleaners",
+    "best-creworks-ultrasonic-cleaners"
+  ]
 }

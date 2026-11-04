@@ -26,10 +26,22 @@
       "verdict": "An e-ink notebook with a paper-like writing texture and folder organization, with the Marker Plus included.",
       "description": "The reMarkable 2 is an e-ink digital notebook, and the Marker Plus comes in the bundle. Its selling point is a paper-like writing texture, which is what separates a notebook you want to write on from a tablet you tolerate writing on. Digital organization and folders handle the filing a paper stack never could.\n\nIt ranks first because it is the only pick here where the writing surface, pen and organization are designed as one product. The smart-pen sets keep real paper but depend on a separate app, and the Rocketbooks scan after the fact. The $200 to $500 price is the cost of that polish.\n\nBuy it if note taking is a daily habit. The caveat: it is a single-purpose device, so it will not replace a tablet for apps or color.",
       "keySpecs": [
-        { "label": "Type", "value": "E-ink digital notebook" },
-        { "label": "Pen", "value": "Marker Plus included" },
-        { "label": "Surface", "value": "Paper-like texture" },
-        { "label": "Organization", "value": "Digital folders" }
+        {
+          "label": "Type",
+          "value": "E-ink digital notebook"
+        },
+        {
+          "label": "Pen",
+          "value": "Marker Plus included"
+        },
+        {
+          "label": "Surface",
+          "value": "Paper-like texture"
+        },
+        {
+          "label": "Organization",
+          "value": "Digital folders"
+        }
       ],
       "pros": [
         "Paper-like writing texture",
@@ -56,10 +68,22 @@
       "verdict": "A smart pen and folio set that syncs as you write and keeps your notes searchable almost at once.",
       "description": "Noteorius is a smart pen and paper digitizer set that syncs in real time as you write, then stores notes through an app with cloud syncing. The pen and a folio are included, so there is nothing else to buy.\n\nIt ranks second because real-time sync is the feature the Rocketbooks lack, and the $100 to $200 price undercuts the reMarkable 2 by a wide margin. Against SyncPen, it costs more and the listing does not mention OCR or audio, so the advantage is the folio-and-pen package.\n\nBuy it if you want to keep writing on paper and still have searchable notes on your phone. The caveat: smart pens depend on their app and their specific paper, so check replacement pages before committing.",
       "keySpecs": [
-        { "label": "Type", "value": "Smart pen and paper digitizer" },
-        { "label": "Sync", "value": "Real time as you write" },
-        { "label": "Storage", "value": "App sync with cloud" },
-        { "label": "Included", "value": "Pen and folio" }
+        {
+          "label": "Type",
+          "value": "Smart pen and paper digitizer"
+        },
+        {
+          "label": "Sync",
+          "value": "Real time as you write"
+        },
+        {
+          "label": "Storage",
+          "value": "App sync with cloud"
+        },
+        {
+          "label": "Included",
+          "value": "Pen and folio"
+        }
       ],
       "pros": [
         "Syncs in real time",
@@ -86,10 +110,22 @@
       "verdict": "Real-time sync, OCR and audio recording in a $50 to $100 smart pen set.",
       "description": "SyncPen streams strokes from paper to your phone, then adds handwriting recognition and a voice recorder, so each page stays searchable and tied to what was said. It is a smart pen and paper digitizer set at a budget price, between $50 and $100.\n\nIt ranks third rather than second because the Noteorius includes a folio and a more complete package, though SyncPen wins on stated features. Against the reMarkable 2, you give up the paper-like screen and folder system, and in return you pay a quarter of the price.\n\nChoose it for lectures and meetings where audio context helps. The caveat: OCR on handwriting varies with how neat you write, so test it on your own notes before trusting searchability.",
       "keySpecs": [
-        { "label": "Type", "value": "Smart pen and paper set" },
-        { "label": "Sync", "value": "Real time, paper to app" },
-        { "label": "Tools", "value": "OCR and audio recording" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Type",
+          "value": "Smart pen and paper set"
+        },
+        {
+          "label": "Sync",
+          "value": "Real time, paper to app"
+        },
+        {
+          "label": "Tools",
+          "value": "OCR and audio recording"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "OCR makes notes searchable",
@@ -116,10 +152,22 @@
       "verdict": "A compact pen and notebook set that syncs to your phone in real time.",
       "description": "Ophayapen is a compact smart pen and notebook set with real-time mobile sync. The pen and notebook are both in the box, and the focus is on reviewing what you wrote on your phone shortly after writing it.\n\nIt ranks fourth because the listing offers fewer stated extras than SyncPen, which adds OCR and audio, and fewer than Noteorius, which adds a folio. Mid-range pricing puts it between those two and the Yuan set. What it offers is a straightforward pen-and-paper workflow.\n\nBuy it if your main need is glancing at notes on your phone between meetings. The caveat: the specs are thin, so confirm app compatibility with your phone before you order.",
       "keySpecs": [
-        { "label": "Type", "value": "Smart pen and notebook" },
-        { "label": "Sync", "value": "Real-time to mobile" },
-        { "label": "Included", "value": "Pen and notebook" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Type",
+          "value": "Smart pen and notebook"
+        },
+        {
+          "label": "Sync",
+          "value": "Real-time to mobile"
+        },
+        {
+          "label": "Included",
+          "value": "Pen and notebook"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Real-time mobile sync",
@@ -146,10 +194,22 @@
       "verdict": "A budget-friendly sync pen and notebook set built for real-time note capture.",
       "description": "The Yuan is a smart pen and notebook set, with real-time sync built for note taking, at an affordable price. Pen and notebook are included, which makes it the plainest entry in the smart pen group.\n\nIt ranks fifth because it states nothing beyond the basics, while SyncPen adds OCR and audio and Noteorius adds a folio. Against the Rocketbooks, it adds live sync, which is the reason to pick it over reusable paper.\n\nChoose it if you want to try a smart pen without spending much. The caveat: with so few features listed, it is a gamble on app quality, so check owner feedback on the companion app first.",
       "keySpecs": [
-        { "label": "Type", "value": "Smart pen and paper set" },
-        { "label": "Sync", "value": "Real time" },
-        { "label": "Included", "value": "Pen and notebook" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Type",
+          "value": "Smart pen and paper set"
+        },
+        {
+          "label": "Sync",
+          "value": "Real time"
+        },
+        {
+          "label": "Included",
+          "value": "Pen and notebook"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Real-time sync",
@@ -176,10 +236,22 @@
       "verdict": "A letter-size reusable spiral notebook with dotted pages that scans to cloud services.",
       "description": "The Core is a reusable spiral notebook with dotted pages, sized at standard letter paper. You scan pages with the app, send them to cloud services, then wipe the pages clean and reuse them. It costs $25 to $50.\n\nIt ranks sixth because there is no real-time sync: notes reach the cloud only when you scan. It sits above the Flip because it offers full-size pages and a durable cover. Against the smart-pen sets, you save money and avoid special paper.\n\nBuy it if you want low-cost filing and do not mind a scan step. The caveat: wipeable pages need the right pen, and old ink can ghost if you do not clean thoroughly.",
       "keySpecs": [
-        { "label": "Type", "value": "Reusable paper notebook" },
-        { "label": "Size", "value": "Letter, 8.5 x 11 in" },
-        { "label": "Pages", "value": "Dotted, erasable" },
-        { "label": "Sync", "value": "App scan to cloud" }
+        {
+          "label": "Type",
+          "value": "Reusable paper notebook"
+        },
+        {
+          "label": "Size",
+          "value": "Letter, 8.5 x 11 in"
+        },
+        {
+          "label": "Pages",
+          "value": "Dotted, erasable"
+        },
+        {
+          "label": "Sync",
+          "value": "App scan to cloud"
+        }
       ],
       "pros": [
         "Wipe clean and reuse",
@@ -206,10 +278,22 @@
       "verdict": "A 16-sheet reusable notepad with lined and dot grid pages for short, quick notes.",
       "description": "The Rocketbook Flip is a smart notepad with 16 sheets, a lined and dot grid rule, and an 8.5 by 11 inch page. Like the Core, it scans to the app, and its pages wipe clean for reuse.\n\nIt ranks last because 16 sheets limit it to short notes, and it lacks the Core's spiral binding and durable cover. The advantage is the Flip format, which opens like a notepad and sits easily on a clipboard. At $25 to $50, it is as cheap as note filing gets here.\n\nChoose it for quick lists, meeting jots and to-dos. The caveat: with only 16 sheets you will scan and wipe often, so it suits brief notes rather than a semester of lectures.",
       "keySpecs": [
-        { "label": "Type", "value": "Reusable smart notepad" },
-        { "label": "Sheets", "value": "16" },
-        { "label": "Rule", "value": "Lined and dot grid" },
-        { "label": "Size", "value": "8.5 x 11 in" }
+        {
+          "label": "Type",
+          "value": "Reusable smart notepad"
+        },
+        {
+          "label": "Sheets",
+          "value": "16"
+        },
+        {
+          "label": "Rule",
+          "value": "Lined and dot grid"
+        },
+        {
+          "label": "Size",
+          "value": "8.5 x 11 in"
+        }
       ],
       "pros": [
         "Wipe clean and reuse",
@@ -227,88 +311,203 @@
     }
   ],
   "methodology": [
-    { "title": "Writing feel", "description": "E-ink texture, real paper and wipeable pages were compared for how natural they are to write on." },
-    { "title": "Sync and capture", "description": "Real-time sync scored above scan-after-writing, since delayed capture adds friction." },
-    { "title": "Searchability", "description": "OCR, folders and app organization determine whether notes can be found later." },
-    { "title": "Running costs", "description": "Special paper, refills and subscriptions were weighed against the upfront price tier." },
-    { "title": "Value", "description": "Included accessories and the price tier decide how much each option delivers per dollar." }
+    {
+      "title": "Writing feel",
+      "description": "E-ink texture, real paper and wipeable pages were compared for how natural they are to write on."
+    },
+    {
+      "title": "Sync and capture",
+      "description": "Real-time sync scored above scan-after-writing, since delayed capture adds friction."
+    },
+    {
+      "title": "Searchability",
+      "description": "OCR, folders and app organization determine whether notes can be found later."
+    },
+    {
+      "title": "Running costs",
+      "description": "Special paper, refills and subscriptions were weighed against the upfront price tier."
+    },
+    {
+      "title": "Value",
+      "description": "Included accessories and the price tier decide how much each option delivers per dollar."
+    }
   ],
   "whatMatters": [
-    { "factor": "Device type", "detail": "Digital notebooks come in three types: e-ink devices you write on, smart pens that capture ink from paper, and reusable paper you scan. Each trades cost against convenience. The reMarkable 2 is the first, the SyncPen the second, and the Rocketbook the third. Decide type before brand, since switching later means rebuying everything." },
-    { "factor": "Sync method", "detail": "Real-time sync sends strokes to your phone as you write. Scan-based systems like Rocketbook wait until you photograph the page. Real time suits meetings, because notes are ready when you leave. Scanning suits slower, deliberate filing. Check the listing for the words real-time, and see how the companion app handles offline writing." },
-    { "factor": "OCR and search", "detail": "Optical character recognition converts handwriting into searchable text. It decides whether a notebook is an archive or a pile of images. SyncPen lists OCR, while others do not state it. Accuracy depends on your handwriting, so look for a free trial of the app and test with real notes before committing." },
-    { "factor": "Paper and refill cost", "detail": "Smart pens often need special paper, and refills add recurring cost. Reusable notebooks avoid that by wiping clean, but need compatible pens. The reMarkable 2 needs no paper at all. Check what replacement pages or pens cost before you buy, since a cheap starter set can become expensive over a year." },
-    { "factor": "Organization tools", "detail": "Organization means folders, tags, and cloud export. Without it, searchable notes still pile up. The reMarkable 2 lists digital folders, and the Noteorius uses app cloud sync. Look for export to PDF or cloud services in the listing, and consider how many notebooks and subjects you will realistically manage." }
+    {
+      "factor": "Device type",
+      "detail": "Digital notebooks come in three types: e-ink devices you write on, smart pens that capture ink from paper, and reusable paper you scan. Each trades cost against convenience. The reMarkable 2 is the first, the SyncPen the second, and the Rocketbook the third. Decide type before brand, since switching later means rebuying everything."
+    },
+    {
+      "factor": "Sync method",
+      "detail": "Real-time sync sends strokes to your phone as you write. Scan-based systems like Rocketbook wait until you photograph the page. Real time suits meetings, because notes are ready when you leave. Scanning suits slower, deliberate filing. Check the listing for the words real-time, and see how the companion app handles offline writing."
+    },
+    {
+      "factor": "OCR and search",
+      "detail": "Optical character recognition converts handwriting into searchable text. It decides whether a notebook is an archive or a pile of images. SyncPen lists OCR, while others do not state it. Accuracy depends on your handwriting, so look for a free trial of the app and test with real notes before committing."
+    },
+    {
+      "factor": "Paper and refill cost",
+      "detail": "Smart pens often need special paper, and refills add recurring cost. Reusable notebooks avoid that by wiping clean, but need compatible pens. The reMarkable 2 needs no paper at all. Check what replacement pages or pens cost before you buy, since a cheap starter set can become expensive over a year."
+    },
+    {
+      "factor": "Organization tools",
+      "detail": "Organization means folders, tags, and cloud export. Without it, searchable notes still pile up. The reMarkable 2 lists digital folders, and the Noteorius uses app cloud sync. Look for export to PDF or cloud services in the listing, and consider how many notebooks and subjects you will realistically manage."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Device Type",
       "intro": "Start with the type of capture that suits how you work.",
       "table": {
-        "headers": ["Type", "Our pick"],
+        "headers": [
+          "Type",
+          "Our pick"
+        ],
         "rows": [
-          ["E-ink notebook", "reMarkable 2 with Marker Plus"],
-          ["Smart pen set with folio", "Noteorius Smart Notebook with Pen and Folio"],
-          ["Smart pen with OCR and audio", "SyncPen Digital Notebook Smart Pen Set"],
-          ["Reusable paper", "Rocketbook Core Reusable Spiral Notebook"]
+          [
+            "E-ink notebook",
+            "reMarkable 2 with Marker Plus"
+          ],
+          [
+            "Smart pen set with folio",
+            "Noteorius Smart Notebook with Pen and Folio"
+          ],
+          [
+            "Smart pen with OCR and audio",
+            "SyncPen Digital Notebook Smart Pen Set"
+          ],
+          [
+            "Reusable paper",
+            "Rocketbook Core Reusable Spiral Notebook"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "Rocketbook Core Reusable Spiral Notebook"],
-          ["$50 to $100", "SyncPen Digital Notebook Smart Pen Set"],
-          ["$100 to $200", "Noteorius Smart Notebook with Pen and Folio"],
-          ["$200 to $500", "reMarkable 2 with Marker Plus"]
+          [
+            "$25 to $50",
+            "Rocketbook Core Reusable Spiral Notebook"
+          ],
+          [
+            "$50 to $100",
+            "SyncPen Digital Notebook Smart Pen Set"
+          ],
+          [
+            "$100 to $200",
+            "Noteorius Smart Notebook with Pen and Folio"
+          ],
+          [
+            "$200 to $500",
+            "reMarkable 2 with Marker Plus"
+          ]
         ]
       }
     },
     {
       "subheading": "Real-Time Sync vs Scan-to-Cloud",
       "cards": [
-        { "label": "Real-time sync", "text": "Notes appear in the app as you write. The Noteorius, SyncPen, Ophayapen and Yuan all work this way." },
-        { "label": "Scan-to-cloud", "text": "You photograph each page with the app. The Rocketbook Core and Flip use this, and it keeps costs low." }
+        {
+          "label": "Real-time sync",
+          "text": "Notes appear in the app as you write. The Noteorius, SyncPen, Ophayapen and Yuan all work this way."
+        },
+        {
+          "label": "Scan-to-cloud",
+          "text": "You photograph each page with the app. The Rocketbook Core and Flip use this, and it keeps costs low."
+        }
       ],
       "note": "Choose real-time sync for meetings and scan-based filing for casual use."
     },
     {
       "subheading": "By Page Count",
       "table": {
-        "headers": ["Need", "Our pick"],
+        "headers": [
+          "Need",
+          "Our pick"
+        ],
         "rows": [
-          ["Long-form notes, many subjects", "reMarkable 2 with Marker Plus"],
-          ["A full letter-size notebook", "Rocketbook Core Reusable Spiral Notebook"],
-          ["Short jots on 16 sheets", "Rocketbook Flip Smart Notepad"],
-          ["Compact pocket-size notes", "Ophayapen Smart Pen and Smart Digital Notebook"]
+          [
+            "Long-form notes, many subjects",
+            "reMarkable 2 with Marker Plus"
+          ],
+          [
+            "A full letter-size notebook",
+            "Rocketbook Core Reusable Spiral Notebook"
+          ],
+          [
+            "Short jots on 16 sheets",
+            "Rocketbook Flip Smart Notepad"
+          ],
+          [
+            "Compact pocket-size notes",
+            "Ophayapen Smart Pen and Smart Digital Notebook"
+          ]
         ]
       }
     },
     {
       "subheading": "For Lectures and Meetings Specifically",
       "cards": [
-        { "label": "Look for", "text": "Real-time sync, OCR for search, and audio recording so you can match handwriting to what was said." },
-        { "label": "In this ranking", "text": "SyncPen lists OCR and audio recording, and the Noteorius syncs as you write." }
+        {
+          "label": "Look for",
+          "text": "Real-time sync, OCR for search, and audio recording so you can match handwriting to what was said."
+        },
+        {
+          "label": "In this ranking",
+          "text": "SyncPen lists OCR and audio recording, and the Noteorius syncs as you write."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You write daily and value feel and folders. The reMarkable 2 at $200 to $500 is built for that." },
-        { "label": "Save if", "text": "Your notes are quick and disposable. A Rocketbook at $25 to $50 is enough." }
+        {
+          "label": "Spend more if",
+          "text": "You write daily and value feel and folders. The reMarkable 2 at $200 to $500 is built for that."
+        },
+        {
+          "label": "Save if",
+          "text": "Your notes are quick and disposable. A Rocketbook at $25 to $50 is enough."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can digital notebooks convert handwriting to text?", "a": "Some can. SyncPen lists OCR, and the Ophayapen listing mentions text conversion in related models. Accuracy depends on handwriting, so test with a few pages before assuming every note will be fully searchable." },
-    { "q": "What is the biggest mistake buyers make?", "a": "Mixing up types. A Rocketbook is reusable paper with a scan step, not an e-ink tablet. If you want to write and have notes appear instantly, choose a smart pen like the Noteorius or the reMarkable 2." },
-    { "q": "Is the reMarkable 2 worth it over a smart pen?", "a": "If you write daily, yes. Its paper-like texture and folders beat any smart pen set. For occasional notes, the SyncPen or Noteorius delivers searchable text for a fraction of the $200 to $500 price." },
-    { "q": "How do I set up a smart pen notebook?", "a": "Charge the pen, install the app, pair by Bluetooth and write on the included notebook. With the Noteorius or Yuan sets, calibrate on page one and keep the pen within phone range so strokes sync properly." },
-    { "q": "How do I maintain a reusable Rocketbook?", "a": "Wipe pages with a barely damp cloth, not a wet one, and use the recommended pen. The Rocketbook Core's pages can ghost if ink sits for weeks, so clean after scanning and dry the page before writing again." },
-    { "q": "Do I need an internet connection to take notes?", "a": "Not to write. The reMarkable 2 stores notes on the device, and smart pens such as SyncPen buffer strokes until the phone reconnects. You need a connection mainly to sync to the cloud or back up." }
+    {
+      "q": "Can digital notebooks convert handwriting to text?",
+      "a": "Some can. SyncPen lists OCR, and the Ophayapen listing mentions text conversion in related models. Accuracy depends on handwriting, so test with a few pages before assuming every note will be fully searchable."
+    },
+    {
+      "q": "What is the biggest mistake buyers make?",
+      "a": "Mixing up types. A Rocketbook is reusable paper with a scan step, not an e-ink tablet. If you want to write and have notes appear instantly, choose a smart pen like the Noteorius or the reMarkable 2."
+    },
+    {
+      "q": "Is the reMarkable 2 worth it over a smart pen?",
+      "a": "If you write daily, yes. Its paper-like texture and folders beat any smart pen set. For occasional notes, the SyncPen or Noteorius delivers searchable text for a fraction of the $200 to $500 price."
+    },
+    {
+      "q": "How do I set up a smart pen notebook?",
+      "a": "Charge the pen, install the app, pair by Bluetooth and write on the included notebook. With the Noteorius or Yuan sets, calibrate on page one and keep the pen within phone range so strokes sync properly."
+    },
+    {
+      "q": "How do I maintain a reusable Rocketbook?",
+      "a": "Wipe pages with a barely damp cloth, not a wet one, and use the recommended pen. The Rocketbook Core's pages can ghost if ink sits for weeks, so clean after scanning and dry the page before writing again."
+    },
+    {
+      "q": "Do I need an internet connection to take notes?",
+      "a": "Not to write. The reMarkable 2 stores notes on the device, and smart pens such as SyncPen buffer strokes until the phone reconnects. You need a connection mainly to sync to the cloud or back up."
+    }
   ],
   "finalTake": "Daily writers who care about feel and organization should buy the reMarkable 2 and stop shopping. The Noteorius is the smarter buy if you want to keep paper and still have searchable notes. SyncPen adds OCR and audio for less, and Rocketbook remains the cheapest way to archive handwriting.",
-  "related": []
+  "related": [
+    "best-digital-notebooks-for-professionals",
+    "best-digital-notebooks-with-pens",
+    "best-electronic-digital-notebooks"
+  ]
 }

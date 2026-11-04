@@ -26,10 +26,22 @@
       "verdict": "Four 4K HDMI inputs, PTZ control and an interface the listing says is designed for church volunteers.",
       "description": "RGBlink's Mini-pro is the only switcher in this group whose listing is written for churches: it is described as church live streaming ready, with a volunteer-friendly interface designed for ease of use. Four 4K HDMI inputs cover two or three cameras plus a computer for slides, and the listing highlights PTZ control, so you can move a camera's pan, tilt and focus from the switcher.\n\nIt wins because ease of operation is the deciding factor for volunteer crews. The ATEM Mini Pro has a longer track record, but the Mini-pro's PTZ control from the same unit reduces the number of devices to learn. Cost lands at $200 to $500, typical for this group.\n\nBest for small to mid-size churches with PTZ cameras. The caveat is that the listing is thin on audio mixing details.",
       "keySpecs": [
-        { "label": "Inputs", "value": "4 x 4K HDMI" },
-        { "label": "Camera control", "value": "PTZ control from the switcher" },
-        { "label": "Design", "value": "Volunteer-friendly interface" },
-        { "label": "Use", "value": "Church live streaming" }
+        {
+          "label": "Inputs",
+          "value": "4 x 4K HDMI"
+        },
+        {
+          "label": "Camera control",
+          "value": "PTZ control from the switcher"
+        },
+        {
+          "label": "Design",
+          "value": "Volunteer-friendly interface"
+        },
+        {
+          "label": "Use",
+          "value": "Church live streaming"
+        }
       ],
       "pros": [
         "Built for church streaming",
@@ -56,10 +68,22 @@
       "verdict": "Four HDMI Type A inputs at 10-bit 4:2:2, with multicamera live streaming straight to the internet.",
       "description": "The ATEM Mini Pro is the widely documented option: four HDMI Type A inputs at 10-bit 4:2:2, multicamera live streaming to the internet, and a feature-rich control set. Because it is common, a church crew can find tutorials, volunteers who already know it, and compatible accessories.\n\nIt ranks second because the listing does not describe a volunteer-oriented interface or PTZ control. Against the RGBlink Mini-pro, the ATEM has deeper community support but a steeper learning curve. Against the Osee Duet 8 ISO, it is simpler and cheaper, though it has fewer inputs and no separate feed recording stated. Street price lands between $200 and $500.\n\nBest for churches that already have a volunteer familiar with ATEM. The caveat is that it needs a computer for advanced control.",
       "keySpecs": [
-        { "label": "Inputs", "value": "4 x HDMI Type A" },
-        { "label": "Color", "value": "10-bit 4:2:2" },
-        { "label": "Streaming", "value": "Multicamera live streaming" },
-        { "label": "Price bracket", "value": "$200 to $500" }
+        {
+          "label": "Inputs",
+          "value": "4 x HDMI Type A"
+        },
+        {
+          "label": "Color",
+          "value": "10-bit 4:2:2"
+        },
+        {
+          "label": "Streaming",
+          "value": "Multicamera live streaming"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Widely documented design",
@@ -86,10 +110,22 @@
       "verdict": "Four 4K HDMI and four SDI inputs, clean ISO recording of each feed and direct RTMP streaming.",
       "description": "The Duet 8 ISO provides four 4K HDMI and four SDI physical inputs, records clean individual feeds from every camera, and supports direct hardware RTMP streaming. ISO recording keeps each camera's untouched video, which lets an editor rebuild the service later or fix a missed cut.\n\nIt ranks third because it is the most complex and the most expensive here, at $500 and up. For a church with eight cameras or long SDI runs from a balcony, though, nothing else in the group matches the input count. Against the ATEM Mini Pro, it doubles the inputs and adds SDI, which suits sanctuaries with cameras far from the booth.\n\nBest for larger sanctuaries and multi-site editing workflows. The caveat is that complexity can overwhelm a small volunteer team.",
       "keySpecs": [
-        { "label": "Inputs", "value": "4 x 4K HDMI and 4 x SDI" },
-        { "label": "Recording", "value": "Clean ISO of each feed" },
-        { "label": "Streaming", "value": "Direct hardware RTMP" },
-        { "label": "Price bracket", "value": "$500 and up" }
+        {
+          "label": "Inputs",
+          "value": "4 x 4K HDMI and 4 x SDI"
+        },
+        {
+          "label": "Recording",
+          "value": "Clean ISO of each feed"
+        },
+        {
+          "label": "Streaming",
+          "value": "Direct hardware RTMP"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$500 and up"
+        }
       ],
       "pros": [
         "Eight total inputs",
@@ -116,10 +152,22 @@
       "verdict": "SD card recording, USB streaming, multi-platform direct streaming and five video inputs.",
       "description": "The GoStream Deck Pro offers five video inputs, SD card recording with USB streaming, and multi-platform direct streaming. Its multisource layout lets you show a speaker and slides side by side, which suits sermon streams. Its price band is $200 to $500.\n\nIt ranks fourth because it does not publish church-specific features like PTZ control or a volunteer interface, so its fit depends on how simple the layout is for your crew. Against the CineTreak, it records to an SD card without a computer. Against the ATEM Mini Pro, it adds a fifth input and multi-platform streaming.\n\nBest for churches that stream to more than one platform. The caveat is that a deck-style panel has many buttons, so volunteers need a labeled cheat sheet.",
       "keySpecs": [
-        { "label": "Inputs", "value": "5 video inputs, 4 channel HDMI" },
-        { "label": "Recording", "value": "SD card" },
-        { "label": "Streaming", "value": "USB and multi-platform direct" },
-        { "label": "Layout", "value": "Multisource" }
+        {
+          "label": "Inputs",
+          "value": "5 video inputs, 4 channel HDMI"
+        },
+        {
+          "label": "Recording",
+          "value": "SD card"
+        },
+        {
+          "label": "Streaming",
+          "value": "USB and multi-platform direct"
+        },
+        {
+          "label": "Layout",
+          "value": "Multisource"
+        }
       ],
       "pros": [
         "SD card recording",
@@ -146,10 +194,22 @@
       "verdict": "A 4.5 inch LCD monitors all four HDMI inputs, program and preview, with PTZ control and production tools.",
       "description": "CineTreak's Mixer Plus puts a 4.5 inch LCD on the switcher to monitor all four HDMI inputs, plus program and preview. That multiview means a volunteer sees every camera without an external monitor, and the listing adds PTZ control and production tools. It costs $200 to $500.\n\nFifth place reflects that the brand is less established than Blackmagic or RGBlink, and the listing is light on streaming details. The built-in monitor is a real advantage for tight booths with no spare screen. Against the RGBlink Mini-pro, it offers a monitor but no church-specific promise.\n\nBest for small booths without space for a monitor. The caveat is that a 4.5 inch screen is small for judging focus.",
       "keySpecs": [
-        { "label": "Inputs", "value": "4-channel HDMI" },
-        { "label": "Monitor", "value": "4.5 inch LCD multiview" },
-        { "label": "Camera control", "value": "PTZ control" },
-        { "label": "Views", "value": "Four inputs, program, preview" }
+        {
+          "label": "Inputs",
+          "value": "4-channel HDMI"
+        },
+        {
+          "label": "Monitor",
+          "value": "4.5 inch LCD multiview"
+        },
+        {
+          "label": "Camera control",
+          "value": "PTZ control"
+        },
+        {
+          "label": "Views",
+          "value": "Four inputs, program, preview"
+        }
       ],
       "pros": [
         "Built-in 4.5 inch monitor",
@@ -176,10 +236,22 @@
       "verdict": "Four HDMI inputs at 2K, simple solo streaming and USB 3.0 output at $100 to $200.",
       "description": "The original RGBlink Mini offers four HDMI inputs with 2K input and output, is designed for simple solo streaming, and connects over USB 3.0. In the $100 to $200 bracket it is the cheapest switcher in this guide.\n\nIt ranks last because it is 2K, not 4K, and the listing does not mention PTZ control. Against the Mini-pro, you give up the 4K inputs and the church-specific design. For a small congregation streaming a single camera plus slides in 1080p, though, 2K is enough, and the lower price leaves room in the budget for a better camera.\n\nBest for small churches starting to stream. The caveat is that it limits you to 2K and few advanced features, so plan for an upgrade.",
       "keySpecs": [
-        { "label": "Inputs", "value": "4 x HDMI" },
-        { "label": "Resolution", "value": "2K input and output" },
-        { "label": "Output", "value": "USB 3.0" },
-        { "label": "Price bracket", "value": "$100 to $200" }
+        {
+          "label": "Inputs",
+          "value": "4 x HDMI"
+        },
+        {
+          "label": "Resolution",
+          "value": "2K input and output"
+        },
+        {
+          "label": "Output",
+          "value": "USB 3.0"
+        },
+        {
+          "label": "Price bracket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Lowest price here",
@@ -245,25 +317,58 @@
       "subheading": "By Crew Experience",
       "intro": "Match the switcher to the volunteers who will run it.",
       "table": {
-        "headers": ["Crew", "Our pick"],
+        "headers": [
+          "Crew",
+          "Our pick"
+        ],
         "rows": [
-          ["Rotating beginners", "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"],
-          ["One experienced volunteer", "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"],
-          ["Technical team, many cameras", "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"],
-          ["Small booth, no monitor", "CineTreak Mixer Plus 4-Channel HDMI Video Switcher with 4.5-Inch LCD"],
-          ["First stream, tight budget", "RGBlink Mini Video Mixer Switcher with 4 x HDMI Inputs"]
+          [
+            "Rotating beginners",
+            "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"
+          ],
+          [
+            "One experienced volunteer",
+            "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"
+          ],
+          [
+            "Technical team, many cameras",
+            "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"
+          ],
+          [
+            "Small booth, no monitor",
+            "CineTreak Mixer Plus 4-Channel HDMI Video Switcher with 4.5-Inch LCD"
+          ],
+          [
+            "First stream, tight budget",
+            "RGBlink Mini Video Mixer Switcher with 4 x HDMI Inputs"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200", "RGBlink Mini Video Mixer Switcher with 4 x HDMI Inputs"],
-          ["$200 to $500, best overall", "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"],
-          ["$200 to $500, proven", "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"],
-          ["$500 and up", "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"]
+          [
+            "$100 to $200",
+            "RGBlink Mini Video Mixer Switcher with 4 x HDMI Inputs"
+          ],
+          [
+            "$200 to $500, best overall",
+            "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"
+          ],
+          [
+            "$200 to $500, proven",
+            "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"
+          ],
+          [
+            "$500 and up",
+            "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Recording Need",
       "table": {
-        "headers": ["Recording need", "Our pick"],
+        "headers": [
+          "Recording need",
+          "Our pick"
+        ],
         "rows": [
-          ["Separate feeds for editing", "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"],
-          ["SD card without a computer", "Osee GoStream Deck Pro 4-Ch HDMI Live Streaming Video Mixer Switcher"],
-          ["Stream only", "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"],
-          ["Computer-based recording", "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"]
+          [
+            "Separate feeds for editing",
+            "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"
+          ],
+          [
+            "SD card without a computer",
+            "Osee GoStream Deck Pro 4-Ch HDMI Live Streaming Video Mixer Switcher"
+          ],
+          [
+            "Stream only",
+            "RGBlink Mini-pro Video Switcher with 4X 4K HDMI Inputs"
+          ],
+          [
+            "Computer-based recording",
+            "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most churches the RGBlink Mini-pro is the best video switcher: four 4K HDMI inputs, PTZ control and a volunteer-friendly design. Choose the Blackmagic ATEM Mini Pro if you have experienced operators, the Osee Duet 8 ISO for large sanctuaries with SDI cameras, and the RGBlink Mini when the budget is tight.",
-  "related": []
+  "related": [
+    "best-4k-video-switchers-for-live-streaming",
+    "best-blackmagic-design-video-switchers",
+    "best-sdi-video-switchers"
+  ]
 }

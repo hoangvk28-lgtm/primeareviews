@@ -26,10 +26,22 @@
       "verdict": "Three ports, 87W total and 65W to one device, with a cable built in.",
       "description": "This Anker bank pairs a 20,000mAh cell with 87W total output across three ports, with up to 65W to a single device and a built-in USB-C cable. It costs $50 to $100, the highest bucket here.\n\n65W is the figure that earns it first place, because it is enough to charge a typical ultrabook while you work. The 45W Zolo can only run a laptop slowly. It beats the Nano 45W on capacity, since 20,000mAh holds roughly double the charge. The cost of all that is size: with 20,000mAh and three ports, it is the bulkiest bank in the roundup.\n\nBuy it for laptop travel and multi-device trips. Skip it if all you charge is a phone.",
       "keySpecs": [
-        { "label": "Capacity", "value": "20,000mAh" },
-        { "label": "Total output", "value": "87W across three ports" },
-        { "label": "Single device", "value": "Up to 65W" },
-        { "label": "Cable", "value": "Built-in USB-C" }
+        {
+          "label": "Capacity",
+          "value": "20,000mAh"
+        },
+        {
+          "label": "Total output",
+          "value": "87W across three ports"
+        },
+        {
+          "label": "Single device",
+          "value": "Up to 65W"
+        },
+        {
+          "label": "Cable",
+          "value": "Built-in USB-C"
+        }
       ],
       "pros": [
         "65W single-port output",
@@ -56,10 +68,22 @@
       "verdict": "20,000mAh with 45W output and a built-in cable, for under $50.",
       "description": "The Zolo 45W offers 20,000mAh, a 45W maximum output and a built-in USB-C cable 5.98 inches long. Anker positions it for trips with a phone plus a tablet or a laptop. It costs between $25 and $50.\n\nThe 45W ceiling is the meaningful limit: it can run a lightweight laptop, but slowly under load. It ranks second because the 87W bank pushes 65W to one device and adds ports, while this model gives you most of the benefit at about half the cost bracket. Against the Zolo 30W, you gain 15W of output at the same capacity, which is the difference between topping up a laptop and merely keeping it alive.\n\nBuy it as the default carry. The built-in cable is short, so keep a longer cable for your bag.",
       "keySpecs": [
-        { "label": "Capacity", "value": "20,000mAh" },
-        { "label": "Max output", "value": "45W" },
-        { "label": "Cable", "value": "Built-in USB-C, 5.98 inches" },
-        { "label": "Best for", "value": "Phone plus tablet or laptop" }
+        {
+          "label": "Capacity",
+          "value": "20,000mAh"
+        },
+        {
+          "label": "Max output",
+          "value": "45W"
+        },
+        {
+          "label": "Cable",
+          "value": "Built-in USB-C, 5.98 inches"
+        },
+        {
+          "label": "Best for",
+          "value": "Phone plus tablet or laptop"
+        }
       ],
       "pros": [
         "20,000mAh at a mid-range cost",
@@ -86,10 +110,22 @@
       "verdict": "45W in an 8.2 ounce body, with a smart display and retractable cable.",
       "description": "The Nano combines 10,000mAh with 45W from a single port, a retractable cable and a smart display. It measures 3.21 x 1.99 x 1.42 inches, weighs 8.2 ounces and supports pass-through charging. Plan on $25 to $50.\n\nThe retractable cable and display remove two of the typical frustrations: a tangled cable and a guess at the remaining charge. It ranks third because the capacity is half of the Zolo 45W, and a laptop will drain it in a single charge. In return, it is far more pocketable. Compared with the Anker 10,000mAh 30W, you get 15W more output and a screen.\n\nBuy it for a daily carry that can handle a phone, earbuds and an emergency laptop top-up. Skip it if you want multiple full charges.",
       "keySpecs": [
-        { "label": "Capacity", "value": "10,000mAh" },
-        { "label": "Max output", "value": "45W single port" },
-        { "label": "Size and weight", "value": "3.21 x 1.99 x 1.42 in, 8.2 oz" },
-        { "label": "Extras", "value": "Pass-through charging, display" }
+        {
+          "label": "Capacity",
+          "value": "10,000mAh"
+        },
+        {
+          "label": "Max output",
+          "value": "45W single port"
+        },
+        {
+          "label": "Size and weight",
+          "value": "3.21 x 1.99 x 1.42 in, 8.2 oz"
+        },
+        {
+          "label": "Extras",
+          "value": "Pass-through charging, display"
+        }
       ],
       "pros": [
         "Retractable built-in cable",
@@ -116,10 +152,22 @@
       "verdict": "A pocketable 10,000mAh with 30W and a 5.4 inch built-in cable.",
       "description": "This 10,000mAh bank delivers up to 30W and measures 4.32 x 2.58 x 0.98 inches, with a built-in USB-C cable 5.4 inches long. It costs $25 to $50.\n\n30W is the right size for fast phone charging and tablets, but it will not keep a laptop topped up under load. It ranks fourth because the Nano matches its capacity at 45W and adds a display. What this model contributes is simplicity and a tidy shape at under an inch thick. It also pairs well with a travel bag, where a thin slab slides in next to a notebook.\n\nBuy it if your devices are phones and a tablet. Skip it if you carry a laptop that needs more than 30W.",
       "keySpecs": [
-        { "label": "Capacity", "value": "10,000mAh" },
-        { "label": "Max output", "value": "30W" },
-        { "label": "Size", "value": "4.32 x 2.58 x 0.98 inches" },
-        { "label": "Cable", "value": "Built-in USB-C, 5.4 inches" }
+        {
+          "label": "Capacity",
+          "value": "10,000mAh"
+        },
+        {
+          "label": "Max output",
+          "value": "30W"
+        },
+        {
+          "label": "Size",
+          "value": "4.32 x 2.58 x 0.98 inches"
+        },
+        {
+          "label": "Cable",
+          "value": "Built-in USB-C, 5.4 inches"
+        }
       ],
       "pros": [
         "Slim at 0.98 inches",
@@ -146,10 +194,22 @@
       "verdict": "20,000mAh at 30W out and 20W in, for several full phone recharges.",
       "description": "The Zolo 30W has 20,000mAh, 30W output and 20W input, with a built-in USB-C cable 5.98 inches long. Anker states it charges up to four iPhone 15s or 3.79 Galaxy S24s. It costs $25 to $50.\n\nThe 20W input is worth noting: refilling 20,000mAh at 20W takes many hours, so plan to charge it overnight. It ranks fifth because the 45W Zolo costs the same band and doubles the usefulness with laptops. This model suits people who want capacity for multi-day trips and charge phones only.\n\nBuy it for camping, long weekends or flights where outlets are scarce. Skip it if you want fast recharging of the bank itself.",
       "keySpecs": [
-        { "label": "Capacity", "value": "20,000mAh" },
-        { "label": "Output and input", "value": "30W out, 20W in" },
-        { "label": "Cable", "value": "Built-in USB-C, 5.98 inches" },
-        { "label": "Charges", "value": "Up to 4 iPhone 15, 3.79 Galaxy S24" }
+        {
+          "label": "Capacity",
+          "value": "20,000mAh"
+        },
+        {
+          "label": "Output and input",
+          "value": "30W out, 20W in"
+        },
+        {
+          "label": "Cable",
+          "value": "Built-in USB-C, 5.98 inches"
+        },
+        {
+          "label": "Charges",
+          "value": "Up to 4 iPhone 15, 3.79 Galaxy S24"
+        }
       ],
       "pros": [
         "20,000mAh capacity",
@@ -176,10 +236,22 @@
       "verdict": "A 0.61 inch slim 10,000mAh bank at 5V/3A, for under $25.",
       "description": "This PowerIQ bank holds 10,000mAh with 5V and 3A output, measures 5.99 x 2.81 x 0.61 inches and weighs 8.6 ounces. It costs under $25.\n\n15W at 5V is the oldest charging standard here: it works on every phone, but it will not fast charge those that use higher voltages. It ranks last because the 30W model adds output for roughly the same size. What it contributes is thinness, at just 0.61 inches, which slides into a thin bag or jacket pocket better than a thicker block.\n\nBuy it as a cheap emergency backup for a phone or earbuds. Skip it if you want fast charging, as the listing offers no high-wattage output.",
       "keySpecs": [
-        { "label": "Capacity", "value": "10,000mAh" },
-        { "label": "Output", "value": "5V / 3A PowerIQ" },
-        { "label": "Size", "value": "5.99 x 2.81 x 0.61 inches" },
-        { "label": "Weight", "value": "8.6 oz" }
+        {
+          "label": "Capacity",
+          "value": "10,000mAh"
+        },
+        {
+          "label": "Output",
+          "value": "5V / 3A PowerIQ"
+        },
+        {
+          "label": "Size",
+          "value": "5.99 x 2.81 x 0.61 inches"
+        },
+        {
+          "label": "Weight",
+          "value": "8.6 oz"
+        }
       ],
       "pros": [
         "Very thin at 0.61 inches",
@@ -245,24 +317,54 @@
       "subheading": "By Device",
       "intro": "What you charge decides the wattage you need, and wattage decides which bank to buy.",
       "table": {
-        "headers": ["Your device", "Our pick"],
+        "headers": [
+          "Your device",
+          "Our pick"
+        ],
         "rows": [
-          ["Laptop and phone", "Anker Power Bank 20,000mAh 87W"],
-          ["Phone plus tablet", "Anker Zolo Power Bank 20,000mAh 45W"],
-          ["Phone and earbuds in a pocket", "Anker Nano Power Bank 45W 10,000mAh"],
-          ["Phone only, thin", "Anker Power Bank 10,000mAh PowerIQ"]
+          [
+            "Laptop and phone",
+            "Anker Power Bank 20,000mAh 87W"
+          ],
+          [
+            "Phone plus tablet",
+            "Anker Zolo Power Bank 20,000mAh 45W"
+          ],
+          [
+            "Phone and earbuds in a pocket",
+            "Anker Nano Power Bank 45W 10,000mAh"
+          ],
+          [
+            "Phone only, thin",
+            "Anker Power Bank 10,000mAh PowerIQ"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "Anker Power Bank 10,000mAh PowerIQ"],
-          ["$25 to $50, laptop-capable", "Anker Zolo Power Bank 20,000mAh 45W"],
-          ["$25 to $50, compact", "Anker Nano Power Bank 45W 10,000mAh"],
-          ["$50 to $100", "Anker Power Bank 20,000mAh 87W"]
+          [
+            "Under $25",
+            "Anker Power Bank 10,000mAh PowerIQ"
+          ],
+          [
+            "$25 to $50, laptop-capable",
+            "Anker Zolo Power Bank 20,000mAh 45W"
+          ],
+          [
+            "$25 to $50, compact",
+            "Anker Nano Power Bank 45W 10,000mAh"
+          ],
+          [
+            "$50 to $100",
+            "Anker Power Bank 20,000mAh 87W"
+          ]
         ]
       }
     },
@@ -283,12 +385,27 @@
     {
       "subheading": "By Output",
       "table": {
-        "headers": ["Wattage", "Our pick"],
+        "headers": [
+          "Wattage",
+          "Our pick"
+        ],
         "rows": [
-          ["65W to one device", "Anker Power Bank 20,000mAh 87W"],
-          ["45W", "Anker Nano Power Bank 45W 10,000mAh"],
-          ["30W", "Anker Power Bank 10,000mAh 30W"],
-          ["5V / 3A", "Anker Power Bank 10,000mAh PowerIQ"]
+          [
+            "65W to one device",
+            "Anker Power Bank 20,000mAh 87W"
+          ],
+          [
+            "45W",
+            "Anker Nano Power Bank 45W 10,000mAh"
+          ],
+          [
+            "30W",
+            "Anker Power Bank 10,000mAh 30W"
+          ],
+          [
+            "5V / 3A",
+            "Anker Power Bank 10,000mAh PowerIQ"
+          ]
         ]
       }
     },
@@ -346,5 +463,9 @@
     }
   ],
   "finalTake": "The Anker 20,000mAh 87W is the best Anker portable charger if you carry a laptop, thanks to 65W on a single port. The Zolo 20,000mAh 45W is the better value for phone-and-tablet travelers, and the Nano 45W packs the most convenience into a small body. The 30W and PowerIQ banks are simple phone backups.",
-  "related": []
+  "related": [
+    "best-144hz-portable-monitors",
+    "best-2k-portable-monitors",
+    "best-hdmi-portable-monitors"
+  ]
 }

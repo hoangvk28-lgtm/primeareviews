@@ -26,10 +26,22 @@
       "verdict": "Wide, bright and weatherproof: 5500 lumens, a 180 degree sensor and IP65 protection.",
       "description": "Two adjustable heads put out 45W and 5500 lumens at 5000K, with a 180 degree PIR sensor and an IP65 waterproof rating. Three daily modes plus a test mode let you set when it turns on, which shortens the setup that most flood lights make painful.\n\nIt tops the list because the 180 degree field covers a driveway or yard edge that a bulb sensor cannot reach. The Torkase bulb is easier to install but throws a fraction of the light, and the indoor ceiling lights are not weatherproof at all.\n\nBuy it for driveways, garages and yard perimeters. The caveat is that 5000K daylight white is harsh near bedroom windows, and the $25 to $50 price is the highest of the six.",
       "keySpecs": [
-        { "label": "Output", "value": "45W, 5500 lumens" },
-        { "label": "Detection", "value": "180 degree PIR" },
-        { "label": "Rating", "value": "IP65 waterproof" },
-        { "label": "Color temp", "value": "5000K daylight" }
+        {
+          "label": "Output",
+          "value": "45W, 5500 lumens"
+        },
+        {
+          "label": "Detection",
+          "value": "180 degree PIR"
+        },
+        {
+          "label": "Rating",
+          "value": "IP65 waterproof"
+        },
+        {
+          "label": "Color temp",
+          "value": "5000K daylight"
+        }
       ],
       "pros": [
         "Very bright 5500 lumens",
@@ -56,10 +68,22 @@
       "verdict": "A 1100-lumen, 100W-equivalent bulb that adds motion sensing to any E26 fixture.",
       "description": "Brightness is 1100 lumens, equal to a 100W bulb, with a detection range of 8 to 16 feet, an E26 base and dusk-to-dawn activation. A built-in security glow keeps a low light on between detections.\n\nIt ranks second because installation takes seconds and the output is strong for a screw-in. It falls behind the ShineSeed on coverage, since a bulb senses in the direction it points, and the sensor looks out from the socket instead of aiming at the approach path.\n\nBest for porches, garages and entries with an existing fixture. The caveat is placement: a bulb inside an enclosed or sideways fixture can lose sensing range.",
       "keySpecs": [
-        { "label": "Brightness", "value": "1100 lumens, 100W equivalent" },
-        { "label": "Detection", "value": "8 to 16 ft" },
-        { "label": "Base", "value": "E26 screw-in" },
-        { "label": "Mode", "value": "Dusk-to-dawn, security glow" }
+        {
+          "label": "Brightness",
+          "value": "1100 lumens, 100W equivalent"
+        },
+        {
+          "label": "Detection",
+          "value": "8 to 16 ft"
+        },
+        {
+          "label": "Base",
+          "value": "E26 screw-in"
+        },
+        {
+          "label": "Mode",
+          "value": "Dusk-to-dawn, security glow"
+        }
       ],
       "pros": [
         "Screw-in installation",
@@ -86,10 +110,22 @@
       "verdict": "A 7 inch, 1500-lumen flush ceiling light with three sensor modes and three hold times.",
       "description": "Output is 15W and 1500 lumens in a 7 inch flush-mount disc, with 120 degree detection at 3 to 4 meters and a mounting height of 2 to 3 meters. Three sensor modes and three hold times, plus color temperatures of 3000K, 4000K or 6500K, give plenty of tuning.\n\nIt ranks third because the fixture is hardwired and indoor only. Its 1500 lumens are more than the 800-lumen GREENIC bulb provides, and the three hold times beat the ECOELER's single countdown for pantries and closets.\n\nBuy it for closets, pantries and utility rooms. The caveat is that a flush ceiling mount needs a junction box, which puts it beyond a quick plug-in swap.",
       "keySpecs": [
-        { "label": "Output", "value": "15W, 1500 lumens" },
-        { "label": "Detection", "value": "120 degrees, 3 to 4 m" },
-        { "label": "Mount height", "value": "2 to 3 m" },
-        { "label": "Color temps", "value": "3000K, 4000K, 6500K" }
+        {
+          "label": "Output",
+          "value": "15W, 1500 lumens"
+        },
+        {
+          "label": "Detection",
+          "value": "120 degrees, 3 to 4 m"
+        },
+        {
+          "label": "Mount height",
+          "value": "2 to 3 m"
+        },
+        {
+          "label": "Color temps",
+          "value": "3000K, 4000K, 6500K"
+        }
       ],
       "pros": [
         "1500 lumens in a slim disc",
@@ -116,10 +152,22 @@
       "verdict": "An 800-lumen, 5000K A19 bulb with a clearly published mounting height of 6.8 to 8 feet.",
       "description": "Nine watts produce 800 lumens, a 60W equivalent, at 5000K daylight. Detection reaches 10 to 13 feet from a recommended mounting height of 6.8 to 8 feet, and a dusk-to-dawn photocell holds it off in daylight.\n\nIt ranks fourth because it is dimmer and has a shorter range than the Torkase, yet the published mounting height is the most useful number in the whole group. A bulb installed outside that height range loses reliability, and few listings state it.\n\nUse it for stoops, laundry rooms and carports with ceilings around 7 feet. The caveat is the 800-lumen ceiling, which is modest for a large outdoor space.",
       "keySpecs": [
-        { "label": "Output", "value": "9W, 800 lumens, 5000K" },
-        { "label": "Detection", "value": "10 to 13 ft" },
-        { "label": "Mount height", "value": "6.8 to 8 ft" },
-        { "label": "Control", "value": "Dusk-to-dawn photocell" }
+        {
+          "label": "Output",
+          "value": "9W, 800 lumens, 5000K"
+        },
+        {
+          "label": "Detection",
+          "value": "10 to 13 ft"
+        },
+        {
+          "label": "Mount height",
+          "value": "6.8 to 8 ft"
+        },
+        {
+          "label": "Control",
+          "value": "Dusk-to-dawn photocell"
+        }
       ],
       "pros": [
         "Mount height clearly stated",
@@ -146,10 +194,22 @@
       "verdict": "A 16W flush light with selectable 3000K, 4000K and 5000K plus an adjustable delay.",
       "description": "The ECOELER is a flush-mount occupancy light drawing 16W, with three selectable color temperatures (3000K, 4000K and 5000K), an adjustable time delay with a countdown, and dusk-to-dawn sensing built in.\n\nIt sits fifth because it publishes no lumen count or detection range, which makes it hard to compare with the slochi's 1500 lumens and 3 to 4 meter range. The selectable color temperature is a real plus for a hallway or utility room where you want warm light at night.\n\nBuy it for hallways, closets and laundry rooms. The caveat is the missing performance numbers, so confirm size and coverage before you commit.",
       "keySpecs": [
-        { "label": "Power", "value": "16W" },
-        { "label": "Color temps", "value": "3000K, 4000K, 5000K" },
-        { "label": "Delay", "value": "Adjustable with countdown" },
-        { "label": "Type", "value": "Flush mount occupancy light" }
+        {
+          "label": "Power",
+          "value": "16W"
+        },
+        {
+          "label": "Color temps",
+          "value": "3000K, 4000K, 5000K"
+        },
+        {
+          "label": "Delay",
+          "value": "Adjustable with countdown"
+        },
+        {
+          "label": "Type",
+          "value": "Flush mount occupancy light"
+        }
       ],
       "pros": [
         "Three selectable color temps",
@@ -176,10 +236,22 @@
       "verdict": "An indoor-only screw-in adapter that turns any bulb into a motion-sensing one.",
       "description": "This is not a light but a socket: it screws into an E26 or E27 lamp holder and accepts your own bulb. A time button and a second-adjustment control tune the hold time, and it detects human infrared energy, then switches the light on and off.\n\nIt ranks last because the brightness depends entirely on your bulb and no detection range is published. Its virtue is flexibility: you can reuse a warm bulb you already like, which none of the other five allow.\n\nUse it in closets or hallway lamp holders. The caveat is that it is indoor only, and a bulky adapter can protrude beyond a shallow shade.",
       "keySpecs": [
-        { "label": "Base", "value": "E26/E27 screw-in" },
-        { "label": "Controls", "value": "Time button, second adjustment" },
-        { "label": "Detection", "value": "Human infrared energy" },
-        { "label": "Use", "value": "Indoor only" }
+        {
+          "label": "Base",
+          "value": "E26/E27 screw-in"
+        },
+        {
+          "label": "Controls",
+          "value": "Time button, second adjustment"
+        },
+        {
+          "label": "Detection",
+          "value": "Human infrared energy"
+        },
+        {
+          "label": "Use",
+          "value": "Indoor only"
+        }
       ],
       "pros": [
         "Works with your own bulb",
@@ -245,25 +317,58 @@
       "subheading": "By Location",
       "intro": "Start with where the light will live.",
       "table": {
-        "headers": ["Location", "Our pick"],
+        "headers": [
+          "Location",
+          "Our pick"
+        ],
         "rows": [
-          ["Driveway or yard perimeter", "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"],
-          ["Porch or garage fixture", "Torkase E26 PIR Motion Sensor Light Bulb"],
-          ["Closet or pantry", "slochi 15W Hardwired PIR Closet Ceiling Light"],
-          ["Hallway or utility room", "ECOELER 16W PIR Motion Sensor Ceiling Light"],
-          ["Existing lamp holder", "Taigeguang E26/E27 PIR Motion Sensor Light Socket"]
+          [
+            "Driveway or yard perimeter",
+            "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"
+          ],
+          [
+            "Porch or garage fixture",
+            "Torkase E26 PIR Motion Sensor Light Bulb"
+          ],
+          [
+            "Closet or pantry",
+            "slochi 15W Hardwired PIR Closet Ceiling Light"
+          ],
+          [
+            "Hallway or utility room",
+            "ECOELER 16W PIR Motion Sensor Ceiling Light"
+          ],
+          [
+            "Existing lamp holder",
+            "Taigeguang E26/E27 PIR Motion Sensor Light Socket"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25 (outdoor bulb)", "Torkase E26 PIR Motion Sensor Light Bulb"],
-          ["Under $25 (daylight bulb)", "GREENIC 9W A19 PIR Motion Sensor Light Bulb"],
-          ["Under $25 (ceiling)", "slochi 15W Hardwired PIR Closet Ceiling Light"],
-          ["$25 to $50", "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"]
+          [
+            "Under $25 (outdoor bulb)",
+            "Torkase E26 PIR Motion Sensor Light Bulb"
+          ],
+          [
+            "Under $25 (daylight bulb)",
+            "GREENIC 9W A19 PIR Motion Sensor Light Bulb"
+          ],
+          [
+            "Under $25 (ceiling)",
+            "slochi 15W Hardwired PIR Closet Ceiling Light"
+          ],
+          [
+            "$25 to $50",
+            "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Brightness",
       "table": {
-        "headers": ["Brightness", "Our pick"],
+        "headers": [
+          "Brightness",
+          "Our pick"
+        ],
         "rows": [
-          ["5500 lumens", "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"],
-          ["1500 lumens", "slochi 15W Hardwired PIR Closet Ceiling Light"],
-          ["1100 lumens", "Torkase E26 PIR Motion Sensor Light Bulb"],
-          ["800 lumens", "GREENIC 9W A19 PIR Motion Sensor Light Bulb"]
+          [
+            "5500 lumens",
+            "ShineSeed 45W 5500LM Dual-Head PIR Flood Light"
+          ],
+          [
+            "1500 lumens",
+            "slochi 15W Hardwired PIR Closet Ceiling Light"
+          ],
+          [
+            "1100 lumens",
+            "Torkase E26 PIR Motion Sensor Light Bulb"
+          ],
+          [
+            "800 lumens",
+            "GREENIC 9W A19 PIR Motion Sensor Light Bulb"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "The ShineSeed 45W 5500LM Dual-Head PIR Flood Light is the best PIR light for anyone who needs real outdoor coverage, while the Torkase bulb is the quick upgrade for an existing fixture. Choose the slochi for closets and pantries, and remember to check mounting height before you buy. PIR performance depends on where the sensor sits, not just the lumen number.",
-  "related": []
+  "related": [
+    "best-energizer-motion-sensor-lights",
+    "best-ezvalo-motion-sensor-lights",
+    "best-indoor-motion-sensor-lights"
+  ]
 }

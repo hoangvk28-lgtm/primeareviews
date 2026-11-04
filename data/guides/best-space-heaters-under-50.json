@@ -26,10 +26,22 @@
       "verdict": "A 1500W heater with an NTC chip for steadier temperature and a safety-first build.",
       "description": "The DREO is the only heater in this group whose listing talks about the sensing side of the machine. It pairs a 1500W element with an NTC chipset, a thermistor that tracks temperature more precisely than a bare thermostat, and the maker leads with a safety pitch instead of a speed claim.\n\nIt ranks first because it is the one pick where control is the headline. The AUBKN and WINHL add thermostats and remotes, but their listings give no sensor detail, so we cannot say they hold a setpoint as tightly. The Amazon Basics beats the DREO on price by a wide margin, yet it offers fewer comfort settings.\n\nBuy it for a bedroom or a home office where you want warmth held steady all evening. The caveat is that the listing gives no noise figure, so a light sleeper should check owner feedback on fan hum first.",
       "keySpecs": [
-        { "label": "Power", "value": "1500W" },
-        { "label": "Sensor", "value": "NTC chipset" },
-        { "label": "Safety focus", "value": "Unbreakable safety build" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Power",
+          "value": "1500W"
+        },
+        {
+          "label": "Sensor",
+          "value": "NTC chipset"
+        },
+        {
+          "label": "Safety focus",
+          "value": "Unbreakable safety build"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Full 1500W output",
@@ -55,10 +67,22 @@
       "verdict": "Plain ceramic heat with tip-over protection stated outright, for under $25.",
       "description": "Amazon Basics sells a compact ceramic heater with customizable heating options and, importantly, a listing that names built-in tip-over protection. That feature is a switch that cuts power when the unit is knocked off its base, and several rivals here never mention it.\n\nIt lands second because the safety claim is explicit and the price bucket is the lowest in the ranking, under $25. It trails the DREO on temperature sensing, since nothing in its listing describes a thermostat chip, and it has no remote like the AUBKN or JIBUFI.\n\nIt suits a kid's room, a rental or a guest room where simple controls and a stated safety cutoff matter more than features. The caveat is that the stated options are basic, so do not expect set-and-forget temperature holding.",
       "keySpecs": [
-        { "label": "Type", "value": "Ceramic" },
-        { "label": "Safety", "value": "Tip-over protection" },
-        { "label": "Format", "value": "Compact, portable" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Type",
+          "value": "Ceramic"
+        },
+        {
+          "label": "Safety",
+          "value": "Tip-over protection"
+        },
+        {
+          "label": "Format",
+          "value": "Compact, portable"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Tip-over protection stated",
@@ -85,10 +109,22 @@
       "verdict": "Ceramic heat, built-in thermostat and a remote for under $50.",
       "description": "The AUBKN is a ceramic space heater that lists adjustable heating settings, a built-in thermostat and a remote control. Together those cover the three conveniences most buyers actually use: choosing a heat level, letting the unit cycle, and adjusting without getting up.\n\nIt sits behind the Amazon Basics because the safety wording is vaguer, saying only that it carries essential protections, where the Amazon unit names tip-over cutoff. It edges the WINHL because the remote is stated, which the WINHL listing does not mention.\n\nBest for a living room or bedroom where the heater sits across the room from your chair. The caveat is that the safety features are not itemized, so check the product page for overheat and tip-over protection before ordering.",
       "keySpecs": [
-        { "label": "Type", "value": "Ceramic" },
-        { "label": "Control", "value": "Built-in thermostat" },
-        { "label": "Remote", "value": "Included" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Type",
+          "value": "Ceramic"
+        },
+        {
+          "label": "Control",
+          "value": "Built-in thermostat"
+        },
+        {
+          "label": "Remote",
+          "value": "Included"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Remote control included",
@@ -114,10 +150,22 @@
       "verdict": "Fast heat and a built-in thermostat that cycles the element automatically.",
       "description": "WINHL leads with fast heating, multiple heat settings and a built-in thermostat that switches the heater on and off to hold the level you pick. A thermostat is the difference between a heater that keeps a room comfortable and one that overshoots until you unplug it.\n\nIt ranks below the AUBKN because the listing names no remote, and below the DREO because it gives no sensor or wattage detail to separate it from the crowd. It still beats the unlabeled 1500W model at the bottom because its feature list is specific and consistent.\n\nA good fit for a small office or bedroom where the thermostat does the work. The caveat is the thin spec sheet, so confirm the wattage and tip-over protection on the page before you commit.",
       "keySpecs": [
-        { "label": "Control", "value": "Built-in thermostat" },
-        { "label": "Heat settings", "value": "Multiple" },
-        { "label": "Speed", "value": "Fast heating" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Control",
+          "value": "Built-in thermostat"
+        },
+        {
+          "label": "Heat settings",
+          "value": "Multiple"
+        },
+        {
+          "label": "Speed",
+          "value": "Fast heating"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Thermostat holds temperature",
@@ -143,10 +191,22 @@
       "verdict": "The only heater here that sweeps warmth across the room, with a remote.",
       "description": "JIBUFI is the one heater in this ranking that oscillates, sweeping its output through 70 degrees, and it adds a remote. Oscillation spreads heat across a seating area instead of pointing it at one spot, which helps when two people share a couch.\n\nIt ranks fifth because the moving parts and vague safety wording trade against its extras. The AUBKN offers a thermostat and remote without oscillation, and the listing for the JIBUFI says only comprehensive safety protection without naming any.\n\nBest for a family room where heat should reach more than one chair. The caveat is that a heater that spreads warmth thinly will not warm a large space faster than a fixed unit of the same wattage.",
       "keySpecs": [
-        { "label": "Oscillation", "value": "70 degrees" },
-        { "label": "Remote", "value": "Included" },
-        { "label": "Safety", "value": "Comprehensive protection" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Oscillation",
+          "value": "70 degrees"
+        },
+        {
+          "label": "Remote",
+          "value": "Included"
+        },
+        {
+          "label": "Safety",
+          "value": "Comprehensive protection"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "70 degree oscillation",
@@ -172,10 +232,22 @@
       "verdict": "A mini heater and fan in one, with a carry handle and flame-retardant housing.",
       "description": "GiveBest sells a two-in-one heater and fan with a built-in carry handle, and its listing says the housing uses V0 flame-retardant material. V0 is a plastics fire rating, and it is a more concrete safety claim than most budget listings make.\n\nIt ranks sixth because it is a personal heater, not a room heater. The DREO and WINHL aim to warm a space, while this one warms the person at the desk, and nothing in the listing mentions a thermostat. It stays in the top seven thanks to the under $25 price bucket and the flame-retardant detail.\n\nIdeal for a desk, a workbench or a bathroom shelf. The caveat is range, so keep it within arm's reach rather than expecting it to take the chill off a whole room.",
       "keySpecs": [
-        { "label": "Format", "value": "Heater and fan in one" },
-        { "label": "Housing", "value": "V0 flame retardant" },
-        { "label": "Handle", "value": "Built-in carry handle" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Format",
+          "value": "Heater and fan in one"
+        },
+        {
+          "label": "Housing",
+          "value": "V0 flame retardant"
+        },
+        {
+          "label": "Handle",
+          "value": "Built-in carry handle"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Flame-retardant V0 housing",
@@ -201,10 +273,22 @@
       "verdict": "A no-name 1500W heater with an adjustable thermostat and little else stated.",
       "description": "This unbranded 1500W heater names the two specs that matter most, full outlet-limit power and an adjustable thermostat. The rest of the listing is marketing copy about getting toasty, so you are buying the numbers and little else.\n\nIt finishes last because the AUBKN and WINHL offer a similar thermostat with more stated features, and nothing here names a safety cutoff. It remains on the list because 1500W with a thermostat is a legitimate formula at this price, and the bucket stays under $50.\n\nSuits a buyer who wants the standard recipe and will read the product page for safety details. The caveat is the missing safety wording, so confirm tip-over and overheat protection before it goes near a bed or curtains.",
       "keySpecs": [
-        { "label": "Power", "value": "1500W" },
-        { "label": "Control", "value": "Adjustable thermostat" },
-        { "label": "Format", "value": "Portable electric" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Power",
+          "value": "1500W"
+        },
+        {
+          "label": "Control",
+          "value": "Adjustable thermostat"
+        },
+        {
+          "label": "Format",
+          "value": "Portable electric"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Full 1500W output",
@@ -221,77 +305,170 @@
     }
   ],
   "methodology": [
-    { "title": "Safety features", "description": "Whether the listing names tip-over protection, overheat cutoff or flame-retardant housing, since an unstated feature scored lower than a stated one." },
-    { "title": "Temperature control", "description": "Presence of a thermostat or sensor, and whether it lets the heater cycle instead of running flat out." },
-    { "title": "Heat delivery", "description": "Stated wattage, element type and whether the heater is sized for a person or a room." },
-    { "title": "Convenience", "description": "Remote control, oscillation, timer and handle, all judged by whether they change daily use." },
-    { "title": "Value under $50", "description": "Features delivered per dollar inside the price bucket, with the under $25 tier given credit for staying cheap." }
+    {
+      "title": "Safety features",
+      "description": "Whether the listing names tip-over protection, overheat cutoff or flame-retardant housing, since an unstated feature scored lower than a stated one."
+    },
+    {
+      "title": "Temperature control",
+      "description": "Presence of a thermostat or sensor, and whether it lets the heater cycle instead of running flat out."
+    },
+    {
+      "title": "Heat delivery",
+      "description": "Stated wattage, element type and whether the heater is sized for a person or a room."
+    },
+    {
+      "title": "Convenience",
+      "description": "Remote control, oscillation, timer and handle, all judged by whether they change daily use."
+    },
+    {
+      "title": "Value under $50",
+      "description": "Features delivered per dollar inside the price bucket, with the under $25 tier given credit for staying cheap."
+    }
   ],
   "whatMatters": [
-    { "factor": "Tip-over protection", "detail": "A tilt switch cuts power if the heater is knocked from its base, and it is the cheapest insurance in this category. It matters because budget units get bumped by pets, kids and vacuum cleaners, and a heater that keeps burning on its side is how floor fires start. On a listing, look for the words tip-over or tilt-over by name, not a vague safety claim." },
-    { "factor": "Thermostat or sensor", "detail": "A thermostat lets the element cycle off when the room reaches your setting, which saves energy and stops overheating. Without one, the heater runs flat out until you unplug it, and the room swings from chilly to stuffy. Check whether the listing says built-in thermostat, and whether the control is a dial, buttons or a remote." },
-    { "factor": "Wattage", "detail": "Nearly every plug-in heater tops out at 1500W because a standard outlet cannot supply more safely. A lower figure means a personal heater built for one person, not a room heater, which is why wattage tells you more than any marketing adjective. Check the wattage line on the page, and be wary of listings that boast about power without stating a number." },
-    { "factor": "Flame-retardant housing", "detail": "The plastic body sits inches from a hot element, so its fire rating matters. V0 is the rating to look for in a listing, because it means the plastic stops burning when the flame is removed. Few budget heaters state it, so treat it as a real differentiator. Search the listing text for V0 or flame retardant before trusting a vague safety line." },
-    { "factor": "Remote and oscillation", "detail": "A remote saves a walk across the room, and oscillation spreads heat across a seating area. Neither raises output, so they are comfort features, not performance ones. Oscillation also adds a motor that can wear out first. Check that the remote is included rather than sold separately, whether it needs batteries you must supply, and whether oscillation is a stated angle." }
+    {
+      "factor": "Tip-over protection",
+      "detail": "A tilt switch cuts power if the heater is knocked from its base, and it is the cheapest insurance in this category. It matters because budget units get bumped by pets, kids and vacuum cleaners, and a heater that keeps burning on its side is how floor fires start. On a listing, look for the words tip-over or tilt-over by name, not a vague safety claim."
+    },
+    {
+      "factor": "Thermostat or sensor",
+      "detail": "A thermostat lets the element cycle off when the room reaches your setting, which saves energy and stops overheating. Without one, the heater runs flat out until you unplug it, and the room swings from chilly to stuffy. Check whether the listing says built-in thermostat, and whether the control is a dial, buttons or a remote."
+    },
+    {
+      "factor": "Wattage",
+      "detail": "Nearly every plug-in heater tops out at 1500W because a standard outlet cannot supply more safely. A lower figure means a personal heater built for one person, not a room heater, which is why wattage tells you more than any marketing adjective. Check the wattage line on the page, and be wary of listings that boast about power without stating a number."
+    },
+    {
+      "factor": "Flame-retardant housing",
+      "detail": "The plastic body sits inches from a hot element, so its fire rating matters. V0 is the rating to look for in a listing, because it means the plastic stops burning when the flame is removed. Few budget heaters state it, so treat it as a real differentiator. Search the listing text for V0 or flame retardant before trusting a vague safety line."
+    },
+    {
+      "factor": "Remote and oscillation",
+      "detail": "A remote saves a walk across the room, and oscillation spreads heat across a seating area. Neither raises output, so they are comfort features, not performance ones. Oscillation also adds a motor that can wear out first. Check that the remote is included rather than sold separately, whether it needs batteries you must supply, and whether oscillation is a stated angle."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Room Size",
       "intro": "Match the heater to the space, not the other way around.",
       "table": {
-        "headers": ["Space", "Our pick"],
+        "headers": [
+          "Space",
+          "Our pick"
+        ],
         "rows": [
-          ["Desk or workbench", "GiveBest Space Heater"],
-          ["Small bedroom", "Amazon Basics Ceramic Space Heater"],
-          ["Home office", "DREO Space Heater"],
-          ["Living room seating area", "JIBUFI Portable Space Heater"]
+          [
+            "Desk or workbench",
+            "GiveBest Space Heater"
+          ],
+          [
+            "Small bedroom",
+            "Amazon Basics Ceramic Space Heater"
+          ],
+          [
+            "Home office",
+            "DREO Space Heater"
+          ],
+          [
+            "Living room seating area",
+            "JIBUFI Portable Space Heater"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "Amazon Basics Ceramic Space Heater"],
-          ["Under $25, personal use", "GiveBest Space Heater"],
-          ["$25 to $50, best control", "DREO Space Heater"],
-          ["$25 to $50, with remote", "AUBKN Space Heater"]
+          [
+            "Under $25",
+            "Amazon Basics Ceramic Space Heater"
+          ],
+          [
+            "Under $25, personal use",
+            "GiveBest Space Heater"
+          ],
+          [
+            "$25 to $50, best control",
+            "DREO Space Heater"
+          ],
+          [
+            "$25 to $50, with remote",
+            "AUBKN Space Heater"
+          ]
         ]
       }
     },
     {
       "subheading": "Thermostat vs Simple Switch",
       "cards": [
-        { "label": "Thermostat", "text": "The element cycles to hold a temperature, which suits bedrooms and offices. The DREO, AUBKN and WINHL lead this group." },
-        { "label": "Simple controls", "text": "You pick a level and manage it yourself. The Amazon Basics and GiveBest fit short sessions in one spot." }
+        {
+          "label": "Thermostat",
+          "text": "The element cycles to hold a temperature, which suits bedrooms and offices. The DREO, AUBKN and WINHL lead this group."
+        },
+        {
+          "label": "Simple controls",
+          "text": "You pick a level and manage it yourself. The Amazon Basics and GiveBest fit short sessions in one spot."
+        }
       ],
       "note": "Default to a thermostat model such as the DREO unless you only run the heater for short stretches."
     },
     {
       "subheading": "By Convenience Feature",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["Remote control", "AUBKN Space Heater"],
-          ["Oscillation", "JIBUFI Portable Space Heater"],
-          ["Carry handle", "GiveBest Space Heater"],
-          ["Stated tip-over cutoff", "Amazon Basics Ceramic Space Heater"]
+          [
+            "Remote control",
+            "AUBKN Space Heater"
+          ],
+          [
+            "Oscillation",
+            "JIBUFI Portable Space Heater"
+          ],
+          [
+            "Carry handle",
+            "GiveBest Space Heater"
+          ],
+          [
+            "Stated tip-over cutoff",
+            "Amazon Basics Ceramic Space Heater"
+          ]
         ]
       }
     },
     {
       "subheading": "For Bedrooms Specifically",
       "cards": [
-        { "label": "Look for", "text": "A thermostat, a stated tip-over cutoff and a quiet fan, since a heater running overnight should never overshoot or tip silently." },
-        { "label": "In this ranking", "text": "The DREO is the safest all-round bedroom pick. The Amazon Basics is the budget option with a named tip-over cutoff." }
+        {
+          "label": "Look for",
+          "text": "A thermostat, a stated tip-over cutoff and a quiet fan, since a heater running overnight should never overshoot or tip silently."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The DREO is the safest all-round bedroom pick. The Amazon Basics is the budget option with a named tip-over cutoff."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You heat a large room daily or need documented safety certifications. Step up from this group, or at least choose the DREO." },
-        { "label": "Save if", "text": "You warm one desk or a small room for short periods. The Amazon Basics or GiveBest covers it for under $25." }
+        {
+          "label": "Spend more if",
+          "text": "You heat a large room daily or need documented safety certifications. Step up from this group, or at least choose the DREO."
+        },
+        {
+          "label": "Save if",
+          "text": "You warm one desk or a small room for short periods. The Amazon Basics or GiveBest covers it for under $25."
+        }
       ]
     }
   ],
@@ -322,5 +499,9 @@
     }
   ],
   "finalTake": "For most people the DREO is the heater to buy under $50 because it combines full power, a sensing chip and a safety-led build. The Amazon Basics is the smart cheap option when you want a named tip-over cutoff for under $25. Pick the AUBKN if a remote matters, and keep the GiveBest at the desk where a personal heater belongs.",
-  "related": []
+  "related": [
+    "best-infrared-space-heaters",
+    "best-oil-filled-space-heaters",
+    "best-space-heaters-for-large-rooms"
+  ]
 }

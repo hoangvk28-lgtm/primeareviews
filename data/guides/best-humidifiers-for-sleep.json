@@ -26,10 +26,22 @@
       "verdict": "The only pick here that publishes a decibel figure, a runtime and a total light-off in one listing.",
       "description": "The Clarston is the humidifier built around the three things that wake light sleepers: noise, light and an empty tank. Its listing cites a near-silent 24 dB operating level, a 25-hour runtime and a mode that turns the display off completely, so the bedroom stays dark.\n\nIt outranks the DREO Smart because it gives you a number you can compare, where the others only promise quiet. The 5 micron ultrafine mist is also described as spreading more evenly, which helps a room avoid the damp patch beside the unit. The tradeoff is that the stated capacity is not given in the listing the way the DREO 3L spells it out, so check the tank size before you buy.\n\nBuy it if you sleep lightly and want a humidifier that disappears after you set it. Skip it if you want warm mist, which this cool mist unit does not offer.",
       "keySpecs": [
-        { "label": "Runtime", "value": "25 hours per fill" },
-        { "label": "Noise", "value": "Near-silent, 24 dB" },
-        { "label": "Mist", "value": "5 micron ultrafine" },
-        { "label": "Display", "value": "Total light-off mode" }
+        {
+          "label": "Runtime",
+          "value": "25 hours per fill"
+        },
+        {
+          "label": "Noise",
+          "value": "Near-silent, 24 dB"
+        },
+        {
+          "label": "Mist",
+          "value": "5 micron ultrafine"
+        },
+        {
+          "label": "Display",
+          "value": "Total light-off mode"
+        }
       ],
       "pros": [
         "Published 24 dB noise figure",
@@ -56,10 +68,22 @@
       "verdict": "Dual-intake cool mist that promises all-night output without wet surfaces.",
       "description": "DREO's smart bedroom model uses a dual-intake system and sells itself on all-night comfort with no refills and no noise. It is a cool mist unit that also claims even humidification with no wet surfaces, which is the detail that protects a wooden nightstand.\n\nIt sits second because the quiet claim has no decibel figure behind it, so you take DREO's word where the Clarston gives a number. In exchange you get a connected model, which is useful if you want to adjust output without leaning over in the dark.\n\nThis is the right buy for someone who already runs a connected bedroom and wants this unit managed alongside the rest of it. The caveat is that smart features add a setup step and an app dependency, and a plain unit is less to troubleshoot at midnight.",
       "keySpecs": [
-        { "label": "Mist type", "value": "Cool mist" },
-        { "label": "Intake", "value": "Dual-intake system" },
-        { "label": "Control", "value": "Smart model" },
-        { "label": "Surface", "value": "No wet surfaces" }
+        {
+          "label": "Mist type",
+          "value": "Cool mist"
+        },
+        {
+          "label": "Intake",
+          "value": "Dual-intake system"
+        },
+        {
+          "label": "Control",
+          "value": "Smart model"
+        },
+        {
+          "label": "Surface",
+          "value": "No wet surfaces"
+        }
       ],
       "pros": [
         "Dual-intake design for even mist",
@@ -86,10 +110,22 @@
       "verdict": "Top-fill convenience with a silent-spray design aimed at undisturbed sleep.",
       "description": "Homvana pairs a top-fill tank with what it calls silentspray, a mist path designed so the spray does not hiss in a quiet room. The listing also frames it as a 3-in-1 unit and stresses a BPA-free build, which matters if the tank sits next to a sleeping child.\n\nIt ranks below the DREO Smart because the sleep claim is a design name rather than a measured level, and there is no runtime to plan around. Against the Levoit it wins on its quiet mist story but loses on cleaning, since the Levoit's wide opening is the more openly stated advantage.\n\nBuy it if you want top-fill refills and a BPA-free tank in a child's room. The caveat is the vague 3-in-1 label, which the listing does not break down, so confirm what the extra functions are before paying.",
       "keySpecs": [
-        { "label": "Fill", "value": "Top-fill tank" },
-        { "label": "Mist", "value": "Cool mist, silentspray" },
-        { "label": "Material", "value": "BPA-free" },
-        { "label": "Format", "value": "3-in-1 design" }
+        {
+          "label": "Fill",
+          "value": "Top-fill tank"
+        },
+        {
+          "label": "Mist",
+          "value": "Cool mist, silentspray"
+        },
+        {
+          "label": "Material",
+          "value": "BPA-free"
+        },
+        {
+          "label": "Format",
+          "value": "3-in-1 design"
+        }
       ],
       "pros": [
         "Top-fill refills without tipping",
@@ -116,10 +152,22 @@
       "verdict": "A 3-liter tank that tells you its capacity, with sleep-first language.",
       "description": "This DREO is the straightforward bedroom option, and its name tells you the tank holds 3 liters. The listing leans on the idea of skipping midnight top-ups and waking up without a dry throat.\n\nIt lands fourth because the pitch is mostly emotional. Unlike the Clarston there is no noise figure, and unlike the DREO Smart there is no stated control layer. What you do get is a known tank size, which is useful for judging whether one fill covers a typical night in a small room.\n\nBuy it for a bedroom where you want a known 3L reservoir from a brand with a wider range of models. The caveat is that 3 liters is a modest reservoir, so a very dry room in winter may need a morning top-up, and without a runtime claim you will have to find out for yourself.",
       "keySpecs": [
-        { "label": "Tank", "value": "3 liters" },
-        { "label": "Mist", "value": "Cool mist" },
-        { "label": "Brand", "value": "DREO" },
-        { "label": "Use", "value": "Bedroom" }
+        {
+          "label": "Tank",
+          "value": "3 liters"
+        },
+        {
+          "label": "Mist",
+          "value": "Cool mist"
+        },
+        {
+          "label": "Brand",
+          "value": "DREO"
+        },
+        {
+          "label": "Use",
+          "value": "Bedroom"
+        }
       ],
       "pros": [
         "Tank size stated clearly",
@@ -146,10 +194,22 @@
       "verdict": "The listing leads with the two things that decide whether you keep using it: top-fill and easy cleaning.",
       "description": "Levoit's bedroom model leads with overnight output, a pour-from-above opening and a tank designed for simpler cleaning. Top-fill means you pour water straight in from above without flipping the tank, which is the feature owners value by the third week.\n\nIt ranks last here only because the sleep story is thinnest. There is no decibel figure like the Clarston and no sleep-specific design like the Homvana. Where it beats the field is upkeep, because a tank you can actually reach is a tank you will actually rinse.\n\nBuy it if you have skipped cleaning a humidifier before and want one that makes the chore painless. The caveat is the missing quiet data, so if every noise in the night wakes you, move up to the Clarston.",
       "keySpecs": [
-        { "label": "Fill", "value": "Top-fill" },
-        { "label": "Mist", "value": "Cool mist" },
-        { "label": "Cleaning", "value": "Easier-clean tank" },
-        { "label": "Output", "value": "Fast, all-night" }
+        {
+          "label": "Fill",
+          "value": "Top-fill"
+        },
+        {
+          "label": "Mist",
+          "value": "Cool mist"
+        },
+        {
+          "label": "Cleaning",
+          "value": "Easier-clean tank"
+        },
+        {
+          "label": "Output",
+          "value": "Fast, all-night"
+        }
       ],
       "pros": [
         "Top-fill without flipping the tank",
@@ -215,25 +275,58 @@
       "subheading": "By Sleep Priority",
       "intro": "Start with what actually wakes you.",
       "table": {
-        "headers": ["What wakes you", "Our pick"],
+        "headers": [
+          "What wakes you",
+          "Our pick"
+        ],
         "rows": [
-          ["Any noise at all", "Clarston Humidifiers for Bedroom"],
-          ["A glowing display", "Clarston Humidifiers for Bedroom"],
-          ["Running out of water mid-night", "DREO Smart Humidifiers for Bedroom"],
-          ["A child's sensitive sleep", "Homvana Top-Fill Cool Mist Humidifiers for Bedroom"],
-          ["Cleaning the tank", "Levoit Top Fill Humidifiers for Bedroom"]
+          [
+            "Any noise at all",
+            "Clarston Humidifiers for Bedroom"
+          ],
+          [
+            "A glowing display",
+            "Clarston Humidifiers for Bedroom"
+          ],
+          [
+            "Running out of water mid-night",
+            "DREO Smart Humidifiers for Bedroom"
+          ],
+          [
+            "A child's sensitive sleep",
+            "Homvana Top-Fill Cool Mist Humidifiers for Bedroom"
+          ],
+          [
+            "Cleaning the tank",
+            "Levoit Top Fill Humidifiers for Bedroom"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50, best sleep spec sheet", "Clarston Humidifiers for Bedroom"],
-          ["$25 to $50, smart control", "DREO Smart Humidifiers for Bedroom"],
-          ["$25 to $50, easiest upkeep", "Levoit Top Fill Humidifiers for Bedroom"],
-          ["$25 to $50, known tank size", "DREO 3L Humidifiers for Bedroom"]
+          [
+            "$25 to $50, best sleep spec sheet",
+            "Clarston Humidifiers for Bedroom"
+          ],
+          [
+            "$25 to $50, smart control",
+            "DREO Smart Humidifiers for Bedroom"
+          ],
+          [
+            "$25 to $50, easiest upkeep",
+            "Levoit Top Fill Humidifiers for Bedroom"
+          ],
+          [
+            "$25 to $50, known tank size",
+            "DREO 3L Humidifiers for Bedroom"
+          ]
         ]
       }
     },
@@ -254,12 +347,27 @@
     {
       "subheading": "By Room Situation",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Small bedroom", "DREO 3L Humidifiers for Bedroom"],
-          ["Dark, light-sensitive room", "Clarston Humidifiers for Bedroom"],
-          ["Wooden nightstand", "DREO Smart Humidifiers for Bedroom"],
-          ["Nursery or child's room", "Homvana Top-Fill Cool Mist Humidifiers for Bedroom"]
+          [
+            "Small bedroom",
+            "DREO 3L Humidifiers for Bedroom"
+          ],
+          [
+            "Dark, light-sensitive room",
+            "Clarston Humidifiers for Bedroom"
+          ],
+          [
+            "Wooden nightstand",
+            "DREO Smart Humidifiers for Bedroom"
+          ],
+          [
+            "Nursery or child's room",
+            "Homvana Top-Fill Cool Mist Humidifiers for Bedroom"
+          ]
         ]
       }
     },
@@ -317,5 +425,9 @@
     }
   ],
   "finalTake": "For a light sleeper the Clarston Humidifiers for Bedroom is the clear call, since it is the only listing that backs quiet with a 24 dB figure, a 25-hour runtime and a total light-off. Choose the DREO Smart if you want smart control and dry surfaces. Pick the Levoit Top Fill if you know you will skip cleaning a difficult tank. Buy by the thing that wakes you, not by tank size alone.",
-  "related": []
+  "related": [
+    "best-aprilaire-whole-house-humidifiers-under-1000",
+    "best-humidifiers-easy-to-clean",
+    "best-humidifiers-for-bedroom"
+  ]
 }

@@ -26,10 +26,22 @@
       "verdict": "Wi-Fi 6 with up to 2404 Mbps on 5 GHz, two directional antennas and beamforming.",
       "description": "The AX3000 is a Wi-Fi 6 extender with 2404 Mbps on the 5 GHz band, two high-gain directional antennas and beamforming, rated for up to 2,400 sq ft.\n\nIt leads because it has the most 5 GHz capacity of any unit here, and that lane is the one that carries video calls and 4K streams in a busy home. The RE550 offers more antennas but a lower Wi-Fi standard, and the AC1200 units trail on speed.\n\nBuy it if your router is Wi-Fi 6 and several people stream at once in the far rooms. The caveat is the $100 to $200 price, which is hard to justify with an older router.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 (AX3000)" },
-        { "label": "5 GHz speed", "value": "Up to 2404 Mbps" },
-        { "label": "Coverage", "value": "Up to 2,400 sq ft" },
-        { "label": "Antennas", "value": "Two directional, beamforming" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 (AX3000)"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "Up to 2404 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,400 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "Two directional, beamforming"
+        }
       ],
       "pros": [
         "Highest 5 GHz speed here",
@@ -56,10 +68,22 @@
       "verdict": "A $25 to $50 AC1900 with three adjustable antennas and 2,100 sq ft of rated coverage.",
       "description": "AC1900 delivers up to 1.9 Gbps of total bandwidth over Wi-Fi 5, with three adjustable external antennas and a rated 2,100 sq ft.\n\nIt ranks second because it handles almost everything an average home needs at a third of the AX3000's price. Compared with the 1,500 sq ft AC1200 units below, it adds an antenna and a larger rated area, a difference that matters in two-story houses or long ranch layouts.\n\nBuy it for a home on a Wi-Fi 5 router. The caveat is that it lacks the efficiency gains of Wi-Fi 6 when many devices connect at once.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 5 (AC1900)" },
-        { "label": "Bandwidth", "value": "Up to 1.9 Gbps total" },
-        { "label": "Coverage", "value": "Up to 2,100 sq ft" },
-        { "label": "Antennas", "value": "Three adjustable external" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5 (AC1900)"
+        },
+        {
+          "label": "Bandwidth",
+          "value": "Up to 1.9 Gbps total"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,100 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "Three adjustable external"
+        }
       ],
       "pros": [
         "Three adjustable antennas",
@@ -86,10 +110,22 @@
       "verdict": "AC1200 Wi-Fi 5 with guided Nighthawk app or WPS setup and 1,500 sq ft of coverage.",
       "description": "An AC1200 dual-band extender with up to 1.2 Gbps across two bands, rated for 1,500 sq ft, with setup through the Nighthawk app or a WPS button.\n\nIt ranks third because setup is the pain point for most buyers and the app handles it. Against the RE315 it gives up an antenna adjustment option, and against the RE550 it covers a smaller area, so you pay $25 to $50 for ease rather than reach.\n\nChoose it if you want guided installation. The caveat is that the numbers are the middle of the field, with no advanced antenna design.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 5 (AC1200)" },
-        { "label": "Bandwidth", "value": "Up to 1.2 Gbps" },
-        { "label": "Coverage", "value": "Up to 1,500 sq ft" },
-        { "label": "Setup", "value": "Nighthawk app or WPS" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5 (AC1200)"
+        },
+        {
+          "label": "Bandwidth",
+          "value": "Up to 1.2 Gbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 1,500 sq ft"
+        },
+        {
+          "label": "Setup",
+          "value": "Nighthawk app or WPS"
+        }
       ],
       "pros": [
         "App-guided setup",
@@ -116,10 +152,22 @@
       "verdict": "867 Mbps on 5 GHz, two adjustable antennas and 1,500 sq ft rated, for under $25.",
       "description": "The RE315 delivers 867 Mbps on 5 GHz over Wi-Fi 5 AC1200, rated up to 1,500 sq ft, with two adjustable external antennas and Adaptive Path Selection.\n\nIt ranks fourth because it is the cheapest named-brand unit here, under $25. It trails the EX5000 on setup help but beats it on antenna adjustment, and it trails the RE550 on area and antennas.\n\nBuy it to fix one problem room. The caveat is that 1,500 sq ft is modest, so a large house needs a bigger unit.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 5 (AC1200)" },
-        { "label": "5 GHz speed", "value": "867 Mbps" },
-        { "label": "Coverage", "value": "Up to 1,500 sq ft" },
-        { "label": "Antennas", "value": "Two adjustable external" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5 (AC1200)"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "867 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 1,500 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "Two adjustable external"
+        }
       ],
       "pros": [
         "Lowest price from a major brand",
@@ -146,10 +194,22 @@
       "verdict": "867 Mbps on 5 GHz plus 300 Mbps on 2.4 GHz and an Ethernet LAN port with AP mode.",
       "description": "Speeds are 867 Mbps on 5 GHz and 300 Mbps on 2.4 GHz, with an Ethernet LAN port and an access point mode. The listing claims coverage of up to 5,200 sq ft.\n\nThe wired port is what lifts it above the nohzio: a TV or console can plug in and ignore the wireless hop. The coverage claim is not credible for an AC1200-class radio, and the brand has no track record to lean on.\n\nBuy it for a room with weak Wi-Fi where a cable can reach. The caveat is the unproven brand.",
       "keySpecs": [
-        { "label": "5 GHz speed", "value": "867 Mbps" },
-        { "label": "2.4 GHz speed", "value": "300 Mbps" },
-        { "label": "Coverage", "value": "Up to 5,200 sq ft listed" },
-        { "label": "Wired", "value": "Ethernet LAN port, AP mode" }
+        {
+          "label": "5 GHz speed",
+          "value": "867 Mbps"
+        },
+        {
+          "label": "2.4 GHz speed",
+          "value": "300 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 5,200 sq ft listed"
+        },
+        {
+          "label": "Wired",
+          "value": "Ethernet LAN port, AP mode"
+        }
       ],
       "pros": [
         "Ethernet port included",
@@ -176,10 +236,22 @@
       "verdict": "A basic 1200 Mbps dual-band repeater with a claimed 3,000 sq ft and WEP, WPA and WPA2 support.",
       "description": "Total bandwidth is 1200 Mbps across two bands, with 300 Mbps on 2.4 GHz. The listing claims coverage of 3,000 sq ft and supports WEP, WPA and WPA2.\n\nIt lands last because the 5 GHz speed is not itemized and there is no wired port or app. It is dual-band, however, so it avoids the throughput penalty of single-band repeaters.\n\nBuy it as a low-commitment first extender for a small space. The caveat is that WEP is obsolete, so use WPA2.",
       "keySpecs": [
-        { "label": "Bandwidth", "value": "1200 Mbps total" },
-        { "label": "2.4 GHz speed", "value": "300 Mbps" },
-        { "label": "Coverage", "value": "Up to 3,000 sq ft listed" },
-        { "label": "Security", "value": "WEP, WPA, WPA2" }
+        {
+          "label": "Bandwidth",
+          "value": "1200 Mbps total"
+        },
+        {
+          "label": "2.4 GHz speed",
+          "value": "300 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 3,000 sq ft listed"
+        },
+        {
+          "label": "Security",
+          "value": "WEP, WPA, WPA2"
+        }
       ],
       "pros": [
         "Dual-band design",
@@ -245,24 +317,54 @@
       "subheading": "By Router Standard",
       "intro": "Pair the extender with your router's generation.",
       "table": {
-        "headers": ["Router", "Our pick"],
+        "headers": [
+          "Router",
+          "Our pick"
+        ],
         "rows": [
-          ["Wi-Fi 6 (AX)", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"],
-          ["Wi-Fi 5 (AC1900 class)", "TP-Link AC1900 WiFi Range Extender RE550"],
-          ["Wi-Fi 5 (AC1200 class)", "NETGEAR WiFi Extender EX5000"],
-          ["Older mixed gear", "nohzio WiFi Extender 1200Mbps Dual Band"]
+          [
+            "Wi-Fi 6 (AX)",
+            "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"
+          ],
+          [
+            "Wi-Fi 5 (AC1900 class)",
+            "TP-Link AC1900 WiFi Range Extender RE550"
+          ],
+          [
+            "Wi-Fi 5 (AC1200 class)",
+            "NETGEAR WiFi Extender EX5000"
+          ],
+          [
+            "Older mixed gear",
+            "nohzio WiFi Extender 1200Mbps Dual Band"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "TP-Link AC1200 WiFi Extender RE315"],
-          ["$25 to $50 (best value)", "TP-Link AC1900 WiFi Range Extender RE550"],
-          ["$25 to $50 (app setup)", "NETGEAR WiFi Extender EX5000"],
-          ["$100 to $200", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"]
+          [
+            "Under $25",
+            "TP-Link AC1200 WiFi Extender RE315"
+          ],
+          [
+            "$25 to $50 (best value)",
+            "TP-Link AC1900 WiFi Range Extender RE550"
+          ],
+          [
+            "$25 to $50 (app setup)",
+            "NETGEAR WiFi Extender EX5000"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"
+          ]
         ]
       }
     },
@@ -283,11 +385,23 @@
     {
       "subheading": "By Rated Coverage",
       "table": {
-        "headers": ["Rated area", "Our pick"],
+        "headers": [
+          "Rated area",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to 1,500 sq ft", "TP-Link AC1200 WiFi Extender RE315"],
-          ["Up to 2,100 sq ft", "TP-Link AC1900 WiFi Range Extender RE550"],
-          ["Up to 2,400 sq ft", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"]
+          [
+            "Up to 1,500 sq ft",
+            "TP-Link AC1200 WiFi Extender RE315"
+          ],
+          [
+            "Up to 2,100 sq ft",
+            "TP-Link AC1900 WiFi Range Extender RE550"
+          ],
+          [
+            "Up to 2,400 sq ft",
+            "TP-Link AX3000 WiFi 6 Dual-Band Range Extender"
+          ]
         ]
       }
     },
@@ -345,5 +459,9 @@
     }
   ],
   "finalTake": "The TP-Link AX3000 WiFi 6 Dual-Band Range Extender is the best extender if your router is Wi-Fi 6, and the TP-Link RE550 is the best for everyone else. The NETGEAR EX5000 wins on easy setup, the RE315 on price, and the PEDUMMY on its Ethernet port. Compare the 5 GHz line, not the combined Mbps on the box.",
-  "related": []
+  "related": [
+    "best-5ghz-wi-fi-extenders",
+    "best-deco-wi-fi-extenders",
+    "best-long-range-wi-fi-extenders"
+  ]
 }

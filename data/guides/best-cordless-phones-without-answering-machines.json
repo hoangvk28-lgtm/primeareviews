@@ -26,10 +26,22 @@
       "verdict": "Named call block, a 1.6 inch backlit display and a documented 10 hours of talk time, in one handset.",
       "description": "The KX-TGC200B is the one phone here that names both call blocking and a talk-time figure. It has a 1.6 inch backlit display, a speakerphone and a quoted 10 hours of talk time on a single handset.\n\nIt ranks first because blocking is the most useful feature on a phone with no answering machine: spam never reaches voicemail anyway, so stopping it at the ring matters. Against the AT&T GL2101-2, it trades the second handset for a lower price and a stated battery number. Both land at different price tiers, $25 to $50 for the Panasonic.\n\nBuy it if you want a clean, filtered single-line phone. The caveat: one handset means no intercom, and the listing does not call out hearing-aid compatibility.",
       "keySpecs": [
-        { "label": "Display", "value": "1.6 in backlit" },
-        { "label": "Talk time", "value": "10 hours" },
-        { "label": "Call control", "value": "Named call block" },
-        { "label": "Handsets", "value": "1" }
+        {
+          "label": "Display",
+          "value": "1.6 in backlit"
+        },
+        {
+          "label": "Talk time",
+          "value": "10 hours"
+        },
+        {
+          "label": "Call control",
+          "value": "Named call block"
+        },
+        {
+          "label": "Handsets",
+          "value": "1"
+        }
       ],
       "pros": [
         "Named call blocking",
@@ -56,10 +68,22 @@
       "verdict": "Two handsets with call block, caller ID and a 2 inch white backlit display, no recorder.",
       "description": "AT&T's GL2101-2 includes two DECT 6.0 handsets, call block, caller ID, a speakerphone and a 2 inch white backlit display with a lighted keypad. The 2 inch screen is the largest quoted in the ranking.\n\nIt ranks second because the Panasonic publishes a talk-time figure and costs less, while this AT&T asks $50 to $100 for the second handset and bigger display. That is a fair premium for a house with two floors, and it beats the EL51203 on filtering since that model lists no call block.\n\nChoose it if you want blocking and coverage together. The caveat: the listing gives no talk-time figure, so battery performance is an unknown.",
       "keySpecs": [
-        { "label": "Handsets", "value": "2 included" },
-        { "label": "Display", "value": "2 in white backlit" },
-        { "label": "Call control", "value": "Call block, caller ID" },
-        { "label": "Keypad", "value": "Lighted" }
+        {
+          "label": "Handsets",
+          "value": "2 included"
+        },
+        {
+          "label": "Display",
+          "value": "2 in white backlit"
+        },
+        {
+          "label": "Call control",
+          "value": "Call block, caller ID"
+        },
+        {
+          "label": "Keypad",
+          "value": "Lighted"
+        }
       ],
       "pros": [
         "Call block on two handsets",
@@ -86,10 +110,22 @@
       "verdict": "Two handsets with a speakerphone, intercom and ECO mode, but no named call blocking.",
       "description": "The EL51203 is a DECT 6.0 kit with two handsets, a full-duplex speakerphone, backlit display, lighted keypad, caller ID with call waiting, intercom and an ECO mode. ECO mode trims power use, which matters on a base that stays plugged in all year.\n\nIt ranks third because the GL2101-2 sits at the same $50 to $100 tier and adds named call block. What this model offers is the ECO feature and an explicit intercom.\n\nBuy it if filtering is not a priority and you want a dependable speakerphone across two rooms. The caveat: without call block, nuisance calls will ring through to both handsets.",
       "keySpecs": [
-        { "label": "Handsets", "value": "2 included" },
-        { "label": "Speakerphone", "value": "Full duplex" },
-        { "label": "Extras", "value": "Intercom, ECO mode" },
-        { "label": "Caller ID", "value": "With call waiting" }
+        {
+          "label": "Handsets",
+          "value": "2 included"
+        },
+        {
+          "label": "Speakerphone",
+          "value": "Full duplex"
+        },
+        {
+          "label": "Extras",
+          "value": "Intercom, ECO mode"
+        },
+        {
+          "label": "Caller ID",
+          "value": "With call waiting"
+        }
       ],
       "pros": [
         "Full-duplex speakerphone",
@@ -116,10 +152,22 @@
       "verdict": "A two-handset VTech with caller ID, call waiting, intercom and a backlit display at $25 to $50.",
       "description": "VTech's CS6719-2 covers two rooms for $25 to $50: two handsets, caller ID with call waiting, handset intercom and a backlit display and keypad. It lists no speakerphone and no call blocking.\n\nIt ranks fourth because the AT&T EL51203 gives a full-duplex speakerphone at the next tier, and the Panasonic offers blocking for the same price. This VTech earns its place by being the cheapest two-handset kit here.\n\nChoose it if budget and room coverage matter most. The caveat: no named call blocking or speakerphone, so it is a basic phone and nothing more.",
       "keySpecs": [
-        { "label": "Handsets", "value": "2 included" },
-        { "label": "Caller ID", "value": "With call waiting" },
-        { "label": "Extras", "value": "Handset intercom" },
-        { "label": "Price tier", "value": "$25 to $50" }
+        {
+          "label": "Handsets",
+          "value": "2 included"
+        },
+        {
+          "label": "Caller ID",
+          "value": "With call waiting"
+        },
+        {
+          "label": "Extras",
+          "value": "Handset intercom"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Cheapest two-handset kit",
@@ -146,10 +194,22 @@
       "verdict": "The lowest-priced hearing aid compatible phone, wall mountable, with volume control and speakerphone.",
       "description": "The VG131 is under $25 and still lists hearing aid compatibility, volume control, a speakerphone, caller ID with call waiting and a wall mount. It is the only model here that names hearing aid compatibility.\n\nIt ranks fifth because it has no named call blocking and a single handset, which limits both filtering and coverage. The Panasonic costs more but fills both gaps. Where VTech wins is price and accessibility, which make it a sensible bedroom or kitchen phone.\n\nBuy it if hearing aid compatibility matters or you want the cheapest wall-mountable unit. The caveat: with one handset and no intercom, it is a single-location phone.",
       "keySpecs": [
-        { "label": "Hearing aid", "value": "Compatible" },
-        { "label": "Mounting", "value": "Wall mountable" },
-        { "label": "Controls", "value": "Volume control" },
-        { "label": "Price tier", "value": "Under $25" }
+        {
+          "label": "Hearing aid",
+          "value": "Compatible"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall mountable"
+        },
+        {
+          "label": "Controls",
+          "value": "Volume control"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Hearing aid compatible",
@@ -176,10 +236,22 @@
       "verdict": "A red wall-mountable handset that stores 30 calls, for people who rely on carrier voicemail.",
       "description": "The CS6919-16 is a single handset in red with caller ID and call waiting that stores 30 calls, a backlit keypad and display, a full-duplex handset speakerphone and a wall mount. The 30-call log is useful when voicemail is on the carrier's side.\n\nIt ranks last because it costs more than the VG131 at $25 to $50 while naming neither hearing aid compatibility nor call blocking. It leads only on the stated call history.\n\nChoose it if you want a colorful, wall-mountable phone with a call log. The caveat: a single handset with no listed filtering makes it the plainest option in this guide.",
       "keySpecs": [
-        { "label": "Call log", "value": "Stores 30 calls" },
-        { "label": "Speakerphone", "value": "Full duplex" },
-        { "label": "Mounting", "value": "Wall mountable" },
-        { "label": "Price tier", "value": "$25 to $50" }
+        {
+          "label": "Call log",
+          "value": "Stores 30 calls"
+        },
+        {
+          "label": "Speakerphone",
+          "value": "Full duplex"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall mountable"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Stores 30 calls",
@@ -197,88 +269,203 @@
     }
   ],
   "methodology": [
-    { "title": "Call blocking", "description": "Without a recorder, filtering at the ring matters most, so named call block scored highest." },
-    { "title": "Display and keypad", "description": "Backlit and lighted controls and larger screens were weighed for legibility." },
-    { "title": "Audio features", "description": "Speakerphone type, volume control and hearing aid compatibility were compared." },
-    { "title": "Handset coverage", "description": "One versus two handsets, plus intercom, was judged against typical home sizes." },
-    { "title": "Value", "description": "Price tier against the features each listing names." }
+    {
+      "title": "Call blocking",
+      "description": "Without a recorder, filtering at the ring matters most, so named call block scored highest."
+    },
+    {
+      "title": "Display and keypad",
+      "description": "Backlit and lighted controls and larger screens were weighed for legibility."
+    },
+    {
+      "title": "Audio features",
+      "description": "Speakerphone type, volume control and hearing aid compatibility were compared."
+    },
+    {
+      "title": "Handset coverage",
+      "description": "One versus two handsets, plus intercom, was judged against typical home sizes."
+    },
+    {
+      "title": "Value",
+      "description": "Price tier against the features each listing names."
+    }
   ],
   "whatMatters": [
-    { "factor": "Named call blocking", "detail": "Call block lets the phone refuse chosen or suspected spam numbers before ringing. With no answering machine, it is the main defense against robocalls. The Panasonic KX-TGC200B and AT&T GL2101-2 name it. Check the listing for call block and see whether it lets you add your own numbers." },
-    { "factor": "Carrier voicemail", "detail": "Skipping the built-in machine assumes your phone company stores messages. Confirm your plan includes voicemail, since a landline without it records nothing at all. Cable and VoIP services usually include it. Test by calling your own number and leaving a message before you retire the old machine." },
-    { "factor": "Hearing aid compatibility", "detail": "Hearing aid compatible phones limit interference and buzzing for people with hearing aids. Only the VTech VG131 names it here. Volume control is a related feature. Look for the compatibility statement in the title or bullets, since it is not guaranteed on every model." },
-    { "factor": "Display size and lighting", "detail": "A larger, backlit display with a lighted keypad makes dialing in low light easier. The AT&T GL2101-2 lists a 2 inch white backlit screen, and the Panasonic lists 1.6 inches. Compare listed sizes, and favor lighted keypads if the phone sits in a bedroom." },
-    { "factor": "Talk time and power", "detail": "Talk time tells you how long a handset lasts per charge. Panasonic quotes 10 hours, and the AT&T EL51203 offers ECO mode to trim power. Most listings omit the number. Prefer a stated figure, and plan on replacing rechargeable batteries after a few years of use." }
+    {
+      "factor": "Named call blocking",
+      "detail": "Call block lets the phone refuse chosen or suspected spam numbers before ringing. With no answering machine, it is the main defense against robocalls. The Panasonic KX-TGC200B and AT&T GL2101-2 name it. Check the listing for call block and see whether it lets you add your own numbers."
+    },
+    {
+      "factor": "Carrier voicemail",
+      "detail": "Skipping the built-in machine assumes your phone company stores messages. Confirm your plan includes voicemail, since a landline without it records nothing at all. Cable and VoIP services usually include it. Test by calling your own number and leaving a message before you retire the old machine."
+    },
+    {
+      "factor": "Hearing aid compatibility",
+      "detail": "Hearing aid compatible phones limit interference and buzzing for people with hearing aids. Only the VTech VG131 names it here. Volume control is a related feature. Look for the compatibility statement in the title or bullets, since it is not guaranteed on every model."
+    },
+    {
+      "factor": "Display size and lighting",
+      "detail": "A larger, backlit display with a lighted keypad makes dialing in low light easier. The AT&T GL2101-2 lists a 2 inch white backlit screen, and the Panasonic lists 1.6 inches. Compare listed sizes, and favor lighted keypads if the phone sits in a bedroom."
+    },
+    {
+      "factor": "Talk time and power",
+      "detail": "Talk time tells you how long a handset lasts per charge. Panasonic quotes 10 hours, and the AT&T EL51203 offers ECO mode to trim power. Most listings omit the number. Prefer a stated figure, and plan on replacing rechargeable batteries after a few years of use."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Handset Count",
       "intro": "Count the rooms where you want to answer.",
       "table": {
-        "headers": ["Rooms", "Our pick"],
+        "headers": [
+          "Rooms",
+          "Our pick"
+        ],
         "rows": [
-          ["One room, blocking", "Panasonic KX-TGC200B"],
-          ["One room, hearing aid", "VTech VG131-11"],
-          ["Two rooms, blocking", "AT&T GL2101-2"],
-          ["Two rooms, budget", "VTech CS6719-2"]
+          [
+            "One room, blocking",
+            "Panasonic KX-TGC200B"
+          ],
+          [
+            "One room, hearing aid",
+            "VTech VG131-11"
+          ],
+          [
+            "Two rooms, blocking",
+            "AT&T GL2101-2"
+          ],
+          [
+            "Two rooms, budget",
+            "VTech CS6719-2"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "VTech VG131-11"],
-          ["$25 to $50, blocking", "Panasonic KX-TGC200B"],
-          ["$25 to $50, two handsets", "VTech CS6719-2"],
-          ["$50 to $100", "AT&T GL2101-2"]
+          [
+            "Under $25",
+            "VTech VG131-11"
+          ],
+          [
+            "$25 to $50, blocking",
+            "Panasonic KX-TGC200B"
+          ],
+          [
+            "$25 to $50, two handsets",
+            "VTech CS6719-2"
+          ],
+          [
+            "$50 to $100",
+            "AT&T GL2101-2"
+          ]
         ]
       }
     },
     {
       "subheading": "Call Block vs No Call Block",
       "cards": [
-        { "label": "With call block", "text": "The Panasonic KX-TGC200B and AT&T GL2101-2 filter at the ring, which suits robocall-heavy lines." },
-        { "label": "Without call block", "text": "The VTech models and AT&T EL51203 skip it. They suit homes where spam is rare or the carrier filters it." }
+        {
+          "label": "With call block",
+          "text": "The Panasonic KX-TGC200B and AT&T GL2101-2 filter at the ring, which suits robocall-heavy lines."
+        },
+        {
+          "label": "Without call block",
+          "text": "The VTech models and AT&T EL51203 skip it. They suit homes where spam is rare or the carrier filters it."
+        }
       ],
       "note": "If you get daily spam, make call block non-negotiable."
     },
     {
       "subheading": "By Mounting",
       "table": {
-        "headers": ["Placement", "Our pick"],
+        "headers": [
+          "Placement",
+          "Our pick"
+        ],
         "rows": [
-          ["Wall in kitchen", "VTech CS6919-16"],
-          ["Wall, hearing aid", "VTech VG131-11"],
-          ["Tabletop, one handset", "Panasonic KX-TGC200B"],
-          ["Tabletop, two handsets", "AT&T EL51203"]
+          [
+            "Wall in kitchen",
+            "VTech CS6919-16"
+          ],
+          [
+            "Wall, hearing aid",
+            "VTech VG131-11"
+          ],
+          [
+            "Tabletop, one handset",
+            "Panasonic KX-TGC200B"
+          ],
+          [
+            "Tabletop, two handsets",
+            "AT&T EL51203"
+          ]
         ]
       }
     },
     {
       "subheading": "For Hearing Difficulty Specifically",
       "cards": [
-        { "label": "Look for", "text": "Hearing aid compatibility, volume control, a full-duplex speakerphone and a lighted display." },
-        { "label": "In this ranking", "text": "The VTech VG131-11 lists all four, and the AT&T EL51203 adds a full-duplex speakerphone." }
+        {
+          "label": "Look for",
+          "text": "Hearing aid compatibility, volume control, a full-duplex speakerphone and a lighted display."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The VTech VG131-11 lists all four, and the AT&T EL51203 adds a full-duplex speakerphone."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want blocking and coverage together. The AT&T GL2101-2 at $50 to $100 delivers both." },
-        { "label": "Save if", "text": "You need one basic phone. The VTech VG131 at under $25 does the job." }
+        {
+          "label": "Spend more if",
+          "text": "You want blocking and coverage together. The AT&T GL2101-2 at $50 to $100 delivers both."
+        },
+        {
+          "label": "Save if",
+          "text": "You need one basic phone. The VTech VG131 at under $25 does the job."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Why choose a phone without an answering machine?", "a": "If your carrier provides voicemail, the built-in recorder is redundant and adds bulk. The Panasonic KX-TGC200B and VTech VG131 skip it, put filtering and legibility first, and cost less than machine-equipped bases." },
-    { "q": "What mistake do buyers make with answerless phones?", "a": "Forgetting to confirm carrier voicemail is active. Without it, missed calls vanish. Call your own number from a mobile before relying on the AT&T GL2101-2 or any phone listed here." },
-    { "q": "Is a two-handset kit worth it over one?", "a": "Only if you answer calls in two places. The VTech CS6719-2 adds a second handset and intercom for $25 to $50, but a single Panasonic KX-TGC200B with call block is better for one-room use." },
-    { "q": "How do I set up a cordless phone?", "a": "Plug the base into the phone jack and power outlet, charge the handset fully, and register it if needed. On the AT&T GL2101-2, set the call block list during setup. Keep the base central and away from routers." },
-    { "q": "How do I maintain the handset battery?", "a": "Return the handset to the base overnight occasionally, but avoid leaving it charging constantly for years. Replace rechargeable batteries when talk time drops. The Panasonic's 10 hour claim is a new-battery figure." },
-    { "q": "Can I wall mount these phones?", "a": "The VTech VG131-11 and CS6919-16 list wall mounting. The others are tabletop units. If you mount one, confirm the phone jack is near the wall plate and check the mounting hardware is included." }
+    {
+      "q": "Why choose a phone without an answering machine?",
+      "a": "If your carrier provides voicemail, the built-in recorder is redundant and adds bulk. The Panasonic KX-TGC200B and VTech VG131 skip it, put filtering and legibility first, and cost less than machine-equipped bases."
+    },
+    {
+      "q": "What mistake do buyers make with answerless phones?",
+      "a": "Forgetting to confirm carrier voicemail is active. Without it, missed calls vanish. Call your own number from a mobile before relying on the AT&T GL2101-2 or any phone listed here."
+    },
+    {
+      "q": "Is a two-handset kit worth it over one?",
+      "a": "Only if you answer calls in two places. The VTech CS6719-2 adds a second handset and intercom for $25 to $50, but a single Panasonic KX-TGC200B with call block is better for one-room use."
+    },
+    {
+      "q": "How do I set up a cordless phone?",
+      "a": "Plug the base into the phone jack and power outlet, charge the handset fully, and register it if needed. On the AT&T GL2101-2, set the call block list during setup. Keep the base central and away from routers."
+    },
+    {
+      "q": "How do I maintain the handset battery?",
+      "a": "Return the handset to the base overnight occasionally, but avoid leaving it charging constantly for years. Replace rechargeable batteries when talk time drops. The Panasonic's 10 hour claim is a new-battery figure."
+    },
+    {
+      "q": "Can I wall mount these phones?",
+      "a": "The VTech VG131-11 and CS6919-16 list wall mounting. The others are tabletop units. If you mount one, confirm the phone jack is near the wall plate and check the mounting hardware is included."
+    }
   ],
   "finalTake": "The Panasonic KX-TGC200B is the best cordless phone without an answering machine for most buyers, thanks to named call blocking and a stated 10 hours of talk time. Choose the AT&T GL2101-2 for two rooms, and the VTech VG131 for hearing aid compatibility at the lowest price. Confirm carrier voicemail before you ditch the recorder.",
-  "related": []
+  "related": [
+    "best-at-and-t-cordless-phones",
+    "best-cordless-phones",
+    "best-cordless-phones-for-home"
+  ]
 }

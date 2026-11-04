@@ -26,10 +26,22 @@
       "verdict": "The fastest listed extender here: Wi-Fi 6, 2404 Mbps on 5 GHz and two directional antennas.",
       "description": "AX3000 means 3 Gbps combined, with 2404 Mbps on the 5 GHz band, two high-gain directional antennas and beamforming that steers signal toward connected devices. Rated coverage is up to 2,400 sq ft.\n\nIt wins by being honest and fast: 2,400 sq ft is the most modest number in the roundup, and it is the only one whose band speeds are all published. The RE550 below covers a similar area on Wi-Fi 5, and the budget units claim far more but publish less.\n\nBuy it if your router is already Wi-Fi 6 and the far wing has several streaming devices. The caveat is price, in the $100 to $200 bracket, and that one extender cannot fix a house with several dead zones.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6, dual-band AX3000" },
-        { "label": "5 GHz speed", "value": "Up to 2404 Mbps" },
-        { "label": "Coverage", "value": "Up to 2,400 sq ft" },
-        { "label": "Antennas", "value": "Two high-gain directional" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6, dual-band AX3000"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "Up to 2404 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,400 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "Two high-gain directional"
+        }
       ],
       "pros": [
         "Fastest published 5 GHz speed",
@@ -56,10 +68,22 @@
       "verdict": "Three adjustable antennas and 2,100 sq ft of rating for $25 to $50 on an existing Wi-Fi 5 network.",
       "description": "Wi-Fi 5 AC1900 with up to 1.9 Gbps total bandwidth, three adjustable external antennas and rated coverage of 2,100 sq ft. TP-Link is a CISA secure-by-design signatory, a rare security statement at this price.\n\nIt ranks second because it does almost what the AX3000 does for a fraction of the cost, and loses only on peak speed and the Wi-Fi 6 feature set. Three antennas that you can tilt let you tune a long hallway or a two-story layout.\n\nBuy it for large homes on an older router. The caveat is that Wi-Fi 5 handles many simultaneous streams less gracefully than Wi-Fi 6.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 5, dual-band AC1900" },
-        { "label": "Bandwidth", "value": "Up to 1.9 Gbps" },
-        { "label": "Coverage", "value": "Up to 2,100 sq ft" },
-        { "label": "Antennas", "value": "Three adjustable external" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5, dual-band AC1900"
+        },
+        {
+          "label": "Bandwidth",
+          "value": "Up to 1.9 Gbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,100 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "Three adjustable external"
+        }
       ],
       "pros": [
         "Three adjustable antennas",
@@ -86,10 +110,22 @@
       "verdict": "A dual-band extender with an Ethernet LAN port and access point mode, claiming up to 5,200 sq ft.",
       "description": "Rated at 1200 Mbps total, with 867 Mbps on 5 GHz, an Ethernet LAN port and a switchable access point mode. The listing claims coverage of up to 5,200 sq ft.\n\nThe Ethernet port is why it ranks third: a console or TV in the far room can use a cable and bypass the wireless link entirely, which is the best fix for the weakest rooms. Treat the 5,200 sq ft figure as a marketing ceiling, since the hardware is rated Wi-Fi 5 class.\n\nBuy it for a distant media room. The caveat is the unproven coverage claim, and a lesser-known brand.",
       "keySpecs": [
-        { "label": "Rated speed", "value": "1200 Mbps total" },
-        { "label": "5 GHz band", "value": "867 Mbps" },
-        { "label": "Coverage", "value": "Up to 5,200 sq ft claimed" },
-        { "label": "Wired", "value": "Ethernet LAN port" }
+        {
+          "label": "Rated speed",
+          "value": "1200 Mbps total"
+        },
+        {
+          "label": "5 GHz band",
+          "value": "867 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 5,200 sq ft claimed"
+        },
+        {
+          "label": "Wired",
+          "value": "Ethernet LAN port"
+        }
       ],
       "pros": [
         "Ethernet port for consoles and TVs",
@@ -116,10 +152,22 @@
       "verdict": "A 1200 Mbps dual-band unit that works with any Wi-Fi router, modem or gateway.",
       "description": "Rated at 1200 Mbps across two bands with up to 300 Mbps on 2.4 GHz and a claimed coverage of up to 3,000 sq ft. It supports WPA, WPA2 and WEP and works with any router, modem or gateway with Wi-Fi.\n\nThe broad compatibility earns fourth, especially for houses with older gear. It sits below the PEDUMMY because it lacks an Ethernet port, and below the TP-Link units because it publishes fewer details on the 5 GHz band.\n\nA fit for mixed households with older devices. The caveat is that WEP support is a legacy convenience, not a security feature, so use WPA2 where you can.",
       "keySpecs": [
-        { "label": "Rated speed", "value": "1200 Mbps dual-band" },
-        { "label": "2.4 GHz band", "value": "Up to 300 Mbps" },
-        { "label": "Coverage", "value": "Up to 3,000 sq ft claimed" },
-        { "label": "Security", "value": "WEP, WPA and WPA2" }
+        {
+          "label": "Rated speed",
+          "value": "1200 Mbps dual-band"
+        },
+        {
+          "label": "2.4 GHz band",
+          "value": "Up to 300 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 3,000 sq ft claimed"
+        },
+        {
+          "label": "Security",
+          "value": "WEP, WPA and WPA2"
+        }
       ],
       "pros": [
         "Works with any Wi-Fi router",
@@ -146,10 +194,22 @@
       "verdict": "Four high-gain antennas and an Ethernet port, with a coverage claim no extender can honor.",
       "description": "Four high-gain antennas, an Ethernet port, WPS or browser setup and a listed Bionic Chip. The title claims coverage of up to 18,000 sq ft, and no band speeds are published.\n\nThe antenna count and wired port are real positives at $50 to $100, which is why it clears the bottom of the list. But with no speeds or standard listed, there is no way to compare it with the TP-Link models, and 18,000 sq ft is not achievable by repeating a signal.\n\nBuy it if you accept the unknowns. The caveat is that the key performance numbers are missing from the specs.",
       "keySpecs": [
-        { "label": "Coverage", "value": "Up to 18,000 sq ft claimed" },
-        { "label": "Antennas", "value": "Four high-gain" },
-        { "label": "Wired", "value": "Ethernet port" },
-        { "label": "Setup", "value": "WPS press or browser" }
+        {
+          "label": "Coverage",
+          "value": "Up to 18,000 sq ft claimed"
+        },
+        {
+          "label": "Antennas",
+          "value": "Four high-gain"
+        },
+        {
+          "label": "Wired",
+          "value": "Ethernet port"
+        },
+        {
+          "label": "Setup",
+          "value": "WPS press or browser"
+        }
       ],
       "pros": [
         "Four antennas",
@@ -176,10 +236,22 @@
       "verdict": "A 2.4 GHz-only plug-in repeater at 300 Mbps, claiming up to 9,789 sq ft, for under $25.",
       "description": "Speed is up to 300 Mbps on 2.4 GHz alone, setup is plug in and join on your phone, and it is billed as a wireless repeater for dead zones. The listing claims coverage of up to 9,789 sq ft.\n\nThe single band explains the rank: it cannot offer the 5 GHz lane that carries streaming in the other five. The coverage number is not meaningful for a repeater of this class.\n\nUse it for light-duty rooms such as a bedroom or garage where smart devices and browsing are the only needs. Skip it for streaming or gaming.",
       "keySpecs": [
-        { "label": "2.4 GHz speed", "value": "Up to 300 Mbps" },
-        { "label": "Coverage", "value": "Up to 9,789 sq ft claimed" },
-        { "label": "Setup", "value": "Plug in, join on phone" },
-        { "label": "Type", "value": "Wireless repeater" }
+        {
+          "label": "2.4 GHz speed",
+          "value": "Up to 300 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 9,789 sq ft claimed"
+        },
+        {
+          "label": "Setup",
+          "value": "Plug in, join on phone"
+        },
+        {
+          "label": "Type",
+          "value": "Wireless repeater"
+        }
       ],
       "pros": [
         "Lowest price here",
@@ -245,24 +317,54 @@
       "subheading": "By Router Standard",
       "intro": "Match the extender to the router it will talk to.",
       "table": {
-        "headers": ["Your router", "Our pick"],
+        "headers": [
+          "Your router",
+          "Our pick"
+        ],
         "rows": [
-          ["Wi-Fi 6", "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"],
-          ["Wi-Fi 5", "TP-Link AC1900 RE550 Wi-Fi Range Extender"],
-          ["Older or mixed gear", "nohzio 1200Mbps Dual Band WiFi Extender"],
-          ["Any, with a cable run", "PEDUMMY 1200Mbps WiFi Extender Signal Booster"]
+          [
+            "Wi-Fi 6",
+            "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"
+          ],
+          [
+            "Wi-Fi 5",
+            "TP-Link AC1900 RE550 Wi-Fi Range Extender"
+          ],
+          [
+            "Older or mixed gear",
+            "nohzio 1200Mbps Dual Band WiFi Extender"
+          ],
+          [
+            "Any, with a cable run",
+            "PEDUMMY 1200Mbps WiFi Extender Signal Booster"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "Aodcaopul Long Range WiFi Extender"],
-          ["$25 to $50 (best value)", "TP-Link AC1900 RE550 Wi-Fi Range Extender"],
-          ["$50 to $100", "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"],
-          ["$100 to $200", "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"]
+          [
+            "Under $25",
+            "Aodcaopul Long Range WiFi Extender"
+          ],
+          [
+            "$25 to $50 (best value)",
+            "TP-Link AC1900 RE550 Wi-Fi Range Extender"
+          ],
+          [
+            "$50 to $100",
+            "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"
+          ]
         ]
       }
     },
@@ -283,11 +385,23 @@
     {
       "subheading": "By Coverage Claim",
       "table": {
-        "headers": ["Claimed area", "Our pick"],
+        "headers": [
+          "Claimed area",
+          "Our pick"
+        ],
         "rows": [
-          ["2,100 to 2,400 sq ft rated", "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"],
-          ["3,000 to 5,200 sq ft claimed", "PEDUMMY 1200Mbps WiFi Extender Signal Booster"],
-          ["9,000+ sq ft claimed", "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"]
+          [
+            "2,100 to 2,400 sq ft rated",
+            "TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender"
+          ],
+          [
+            "3,000 to 5,200 sq ft claimed",
+            "PEDUMMY 1200Mbps WiFi Extender Signal Booster"
+          ],
+          [
+            "9,000+ sq ft claimed",
+            "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"
+          ]
         ]
       }
     },
@@ -345,5 +459,9 @@
     }
   ],
   "finalTake": "The TP-Link AX3000 Wi-Fi 6 Dual-Band Range Extender is the best extender for a large home because it publishes real speeds and uses directional antennas, not an inflated square-foot claim. The RE550 is the best budget alternative for Wi-Fi 5, and the PEDUMMY wins when a cable can reach the far room. Ignore claims of 9,000 sq ft or more, and place the unit midway.",
-  "related": []
+  "related": [
+    "best-5ghz-wi-fi-extenders",
+    "best-deco-wi-fi-extenders",
+    "best-dual-band-wi-fi-extenders"
+  ]
 }

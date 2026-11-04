@@ -26,10 +26,22 @@
       "verdict": "Six inputs, four outputs and USB 3.0 make this the one you will not outgrow in a year.",
       "description": "The UR44C is a 6x4 interface on USB 3.0 with converters that handle up to 32-bit/192 kHz and Class-A D-PRE mic preamps, and it ships with Cubase AI and Cubasis LE. That six-in, four-out layout is the real headline, because it lets you record a vocal, a guitar and a pair of room mics without swapping cables.\n\nIt outranks the UR22MKII below because two channels is the first thing most home studios run out of. Against the UR-RT4, it gives up the Neve transformers but costs noticeably less and still has more than enough preamps for a small band or a podcast table. The USB 3.0 link is the other quiet advantage.\n\nBuy it if you are building a studio to last several years. The caveat is desk space: it is the largest box in this ranking, so check your surface before ordering.",
       "keySpecs": [
-        { "label": "Channels", "value": "6 in x 4 out" },
-        { "label": "Resolution", "value": "Up to 32-bit/192 kHz" },
-        { "label": "Connection", "value": "USB 3.0" },
-        { "label": "Software", "value": "Cubase AI and Cubasis LE" }
+        {
+          "label": "Channels",
+          "value": "6 in x 4 out"
+        },
+        {
+          "label": "Resolution",
+          "value": "Up to 32-bit/192 kHz"
+        },
+        {
+          "label": "Connection",
+          "value": "USB 3.0"
+        },
+        {
+          "label": "Software",
+          "value": "Cubase AI and Cubasis LE"
+        }
       ],
       "pros": [
         "Six inputs, four outputs",
@@ -56,10 +68,22 @@
       "verdict": "Two Class-A preamps with Neve transformers and DSP monitoring. The tonal choice in the family.",
       "description": "The UR-RT2 is a 24-bit/192 kHz USB 2.0 interface with two Class-A D-PRE mic preamps and Rupert Neve Designs transformers on the input and output stages, switchable so you can hear the difference. It also includes latency-free DSP monitoring with REV-X reverb and a channel strip.\n\nIt ranks just under the UR44C because two channels limit what you can record at once, and a transformer you cannot use on every source is a luxury rather than a necessity. But on a single voice or acoustic instrument, the RT2 is the Steinberg that sounds most finished going in, and DSP monitoring lets a singer hear reverb with no computer delay.\n\nChoose it for vocals, acoustic guitar and anything where tone is the point. The caveat is that the UR22MKII has the same channel count, so you pay for tone, not for more inputs.",
       "keySpecs": [
-        { "label": "Channels", "value": "2 mic preamps" },
-        { "label": "Resolution", "value": "24-bit/192 kHz" },
-        { "label": "Transformers", "value": "Rupert Neve Designs" },
-        { "label": "Monitoring", "value": "DSP with REV-X reverb" }
+        {
+          "label": "Channels",
+          "value": "2 mic preamps"
+        },
+        {
+          "label": "Resolution",
+          "value": "24-bit/192 kHz"
+        },
+        {
+          "label": "Transformers",
+          "value": "Rupert Neve Designs"
+        },
+        {
+          "label": "Monitoring",
+          "value": "DSP with REV-X reverb"
+        }
       ],
       "pros": [
         "Neve transformers, switchable",
@@ -86,10 +110,22 @@
       "verdict": "Four transformer-equipped preamps for drums and bands, at the highest price in the line.",
       "description": "The UR-RT4 keeps the RT2's recipe and doubles the mic count: four Class-A D-PRE preamps, Rupert Neve Designs transformers, 24-bit/192 kHz over USB 2.0, and the same DSP monitoring with REV-X reverb and a channel strip.\n\nIt sits third because it is a specialist. For a drum kit or a live band, four transformer preamps are a real advantage over the UR44C, but most home recordists never use that many at once, and the $500+ price puts it well above the UR44C. It also stays on USB 2.0, so the UR44C has the newer connection.\n\nBuy it for multi-mic tracking where tone matters on every channel. The caveat is simple: if you rarely record more than two things, the RT2 delivers the same character for far less.",
       "keySpecs": [
-        { "label": "Channels", "value": "4 mic preamps" },
-        { "label": "Resolution", "value": "24-bit/192 kHz" },
-        { "label": "Transformers", "value": "Rupert Neve Designs" },
-        { "label": "Connection", "value": "USB 2.0" }
+        {
+          "label": "Channels",
+          "value": "4 mic preamps"
+        },
+        {
+          "label": "Resolution",
+          "value": "24-bit/192 kHz"
+        },
+        {
+          "label": "Transformers",
+          "value": "Rupert Neve Designs"
+        },
+        {
+          "label": "Connection",
+          "value": "USB 2.0"
+        }
       ],
       "pros": [
         "Four Class-A mic preamps",
@@ -116,10 +152,22 @@
       "verdict": "A proven 2x2 interface with two D-PRE preamps and broad software compatibility.",
       "description": "The UR22MKII is a 2x2 USB 2.0 interface at 24-bit/192 kHz with two Class-A D-PRE mic preamps, and the listing stresses compatibility with all major editing and mastering software. It is the middle of the family: more than the UR12's single mic input, less than the UR44C's six channels.\n\nIt lands fourth because the generation is older and its job overlaps with the UR-RT2, which adds transformers and DSP monitoring for a similar channel count. Against the UR12 it is a clear step up, since two preamps means a vocalist and an instrument can record together.\n\nPick it for duo recording, streaming or podcasts with a guest. The caveat is that two inputs are all you get, and at a $200 to $500 price it is not much cheaper than the RT2.",
       "keySpecs": [
-        { "label": "Channels", "value": "2 in x 2 out" },
-        { "label": "Resolution", "value": "24-bit/192 kHz" },
-        { "label": "Preamps", "value": "Two Class-A D-PRE" },
-        { "label": "Connection", "value": "USB 2.0" }
+        {
+          "label": "Channels",
+          "value": "2 in x 2 out"
+        },
+        {
+          "label": "Resolution",
+          "value": "24-bit/192 kHz"
+        },
+        {
+          "label": "Preamps",
+          "value": "Two Class-A D-PRE"
+        },
+        {
+          "label": "Connection",
+          "value": "USB 2.0"
+        }
       ],
       "pros": [
         "Two D-PRE mic preamps",
@@ -146,10 +194,22 @@
       "verdict": "One Class-A mic preamp and one Hi-Z input. The lowest-cost way into the UR range.",
       "description": "The UR12 is a 24-bit/192 kHz USB 2.0 interface with a single Class-A D-PRE mic preamp that supplies +48V phantom power, plus one XLR mic input and one Hi-Z instrument input. The listing includes Cubase AI.\n\nIt ranks last because one mic channel is the ceiling: you cannot record two vocalists on it, and it has none of the DSP monitoring that the RT models carry. Still, it uses the same preamp design as the bigger boxes, which is why it beats most generic budget interfaces on noise and gain.\n\nBuy it for a solo podcaster, singer-songwriter or guitarist. The caveat: if you think you will want a second mic within a year, buy the UR22MKII instead and avoid paying twice.",
       "keySpecs": [
-        { "label": "Inputs", "value": "1 XLR mic + 1 Hi-Z" },
-        { "label": "Resolution", "value": "24-bit/192 kHz" },
-        { "label": "Phantom power", "value": "+48V" },
-        { "label": "Software", "value": "Cubase AI included" }
+        {
+          "label": "Inputs",
+          "value": "1 XLR mic + 1 Hi-Z"
+        },
+        {
+          "label": "Resolution",
+          "value": "24-bit/192 kHz"
+        },
+        {
+          "label": "Phantom power",
+          "value": "+48V"
+        },
+        {
+          "label": "Software",
+          "value": "Cubase AI included"
+        }
       ],
       "pros": [
         "Same Class-A D-PRE preamp",
@@ -167,88 +227,203 @@
     }
   ],
   "methodology": [
-    { "title": "Preamp quality and count", "description": "We scored how many Class-A D-PRE preamps each model carries and whether Neve transformers are added, since preamps decide how clean a mic signal arrives." },
-    { "title": "Input and output flexibility", "description": "Combination XLR/TRS inputs, Hi-Z instrument inputs and the number of outputs decide how many sources you can record without re-patching." },
-    { "title": "Converters and USB link", "description": "Maximum sample rate and bit depth, plus USB 2.0 versus USB 3.0, determine how much headroom and bandwidth the interface has." },
-    { "title": "Monitoring and routing", "description": "Built-in DSP monitoring and reverb let a performer hear themselves without computer delay, which matters to singers." },
-    { "title": "Bundle and value", "description": "Cubase AI and Cubasis LE access, compared against the price bucket, decide whether the box is a good first purchase." }
+    {
+      "title": "Preamp quality and count",
+      "description": "We scored how many Class-A D-PRE preamps each model carries and whether Neve transformers are added, since preamps decide how clean a mic signal arrives."
+    },
+    {
+      "title": "Input and output flexibility",
+      "description": "Combination XLR/TRS inputs, Hi-Z instrument inputs and the number of outputs decide how many sources you can record without re-patching."
+    },
+    {
+      "title": "Converters and USB link",
+      "description": "Maximum sample rate and bit depth, plus USB 2.0 versus USB 3.0, determine how much headroom and bandwidth the interface has."
+    },
+    {
+      "title": "Monitoring and routing",
+      "description": "Built-in DSP monitoring and reverb let a performer hear themselves without computer delay, which matters to singers."
+    },
+    {
+      "title": "Bundle and value",
+      "description": "Cubase AI and Cubasis LE access, compared against the price bucket, decide whether the box is a good first purchase."
+    }
   ],
   "whatMatters": [
-    { "factor": "Mic preamp count", "detail": "Preamps are the circuits that lift a quiet microphone signal to a usable level. The count caps how many mics you can record at the same moment, so a UR12 with one preamp and a UR-RT4 with four serve very different rooms. Count the XLR or combo inputs on the listing, not the headline channel total." },
-    { "factor": "Transformers", "detail": "A transformer stage adds a gentle saturation that many engineers like on vocals and acoustic sources. The UR-RT2 and UR-RT4 include Rupert Neve Designs transformers, switchable so you can compare. They help only on tone-critical sources; for plain speech recording they add cost without much audible benefit. Look for the switch on the front panel." },
-    { "factor": "USB generation", "detail": "USB 3.0 gives the UR44C more bandwidth than the USB 2.0 models, which matters when you run six inputs and four outputs simultaneously. For one or two channels, USB 2.0 is entirely adequate. Check the port type on the listing and confirm your computer has a matching port or the right cable." },
-    { "factor": "DSP monitoring", "detail": "DSP monitoring routes your input to headphones inside the interface, so you hear yourself with effectively no delay, even with reverb added. It is the feature that makes singers comfortable while tracking. Only the RT models list it here, so look for the REV-X reverb and channel strip mention before buying." },
-    { "factor": "Bundled software", "detail": "Cubase AI and Cubasis LE give you a recording environment on day one, which saves a software purchase. The UR44C includes both, the UR12 lists Cubase AI. Check which licences are included and whether activation needs a Steinberg account, since you cannot use the interface for recording without a DAW." }
+    {
+      "factor": "Mic preamp count",
+      "detail": "Preamps are the circuits that lift a quiet microphone signal to a usable level. The count caps how many mics you can record at the same moment, so a UR12 with one preamp and a UR-RT4 with four serve very different rooms. Count the XLR or combo inputs on the listing, not the headline channel total."
+    },
+    {
+      "factor": "Transformers",
+      "detail": "A transformer stage adds a gentle saturation that many engineers like on vocals and acoustic sources. The UR-RT2 and UR-RT4 include Rupert Neve Designs transformers, switchable so you can compare. They help only on tone-critical sources; for plain speech recording they add cost without much audible benefit. Look for the switch on the front panel."
+    },
+    {
+      "factor": "USB generation",
+      "detail": "USB 3.0 gives the UR44C more bandwidth than the USB 2.0 models, which matters when you run six inputs and four outputs simultaneously. For one or two channels, USB 2.0 is entirely adequate. Check the port type on the listing and confirm your computer has a matching port or the right cable."
+    },
+    {
+      "factor": "DSP monitoring",
+      "detail": "DSP monitoring routes your input to headphones inside the interface, so you hear yourself with effectively no delay, even with reverb added. It is the feature that makes singers comfortable while tracking. Only the RT models list it here, so look for the REV-X reverb and channel strip mention before buying."
+    },
+    {
+      "factor": "Bundled software",
+      "detail": "Cubase AI and Cubasis LE give you a recording environment on day one, which saves a software purchase. The UR44C includes both, the UR12 lists Cubase AI. Check which licences are included and whether activation needs a Steinberg account, since you cannot use the interface for recording without a DAW."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Number of Mics",
       "intro": "Count how many microphones you will record at the same time, not how many you own.",
       "table": {
-        "headers": ["Mics at once", "Our pick"],
+        "headers": [
+          "Mics at once",
+          "Our pick"
+        ],
         "rows": [
-          ["One", "Steinberg UR12"],
-          ["Two", "Yamaha Steinberg UR22MKII or Steinberg UR-RT2"],
-          ["Three to six sources", "Steinberg UR44C"],
-          ["Four transformer mics", "Steinberg UR-RT4"]
+          [
+            "One",
+            "Steinberg UR12"
+          ],
+          [
+            "Two",
+            "Yamaha Steinberg UR22MKII or Steinberg UR-RT2"
+          ],
+          [
+            "Three to six sources",
+            "Steinberg UR44C"
+          ],
+          [
+            "Four transformer mics",
+            "Steinberg UR-RT4"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200", "Steinberg UR12"],
-          ["$200 to $500", "Steinberg UR44C or Yamaha Steinberg UR22MKII"],
-          ["$200 to $500, tone first", "Steinberg UR-RT2"],
-          ["$500 and up", "Steinberg UR-RT4"]
+          [
+            "$100 to $200",
+            "Steinberg UR12"
+          ],
+          [
+            "$200 to $500",
+            "Steinberg UR44C or Yamaha Steinberg UR22MKII"
+          ],
+          [
+            "$200 to $500, tone first",
+            "Steinberg UR-RT2"
+          ],
+          [
+            "$500 and up",
+            "Steinberg UR-RT4"
+          ]
         ]
       }
     },
     {
       "subheading": "Transformers vs Plain Preamps",
       "cards": [
-        { "label": "Transformers", "text": "The UR-RT2 and UR-RT4 add switchable Rupert Neve Designs transformers for a richer tone on vocals and acoustic instruments." },
-        { "label": "Plain D-PRE", "text": "The UR44C, UR22MKII and UR12 use clean Class-A D-PRE preamps with no transformer, which suits speech and general recording." }
+        {
+          "label": "Transformers",
+          "text": "The UR-RT2 and UR-RT4 add switchable Rupert Neve Designs transformers for a richer tone on vocals and acoustic instruments."
+        },
+        {
+          "label": "Plain D-PRE",
+          "text": "The UR44C, UR22MKII and UR12 use clean Class-A D-PRE preamps with no transformer, which suits speech and general recording."
+        }
       ],
       "note": "Default to plain D-PRE unless tone on a single source is your priority, in which case take the UR-RT2."
     },
     {
       "subheading": "By Connection Speed",
       "table": {
-        "headers": ["Connection", "Our pick"],
+        "headers": [
+          "Connection",
+          "Our pick"
+        ],
         "rows": [
-          ["USB 3.0", "Steinberg UR44C"],
-          ["USB 2.0, two channels", "Yamaha Steinberg UR22MKII or Steinberg UR-RT2"],
-          ["USB 2.0, one channel", "Steinberg UR12"],
-          ["USB 2.0, four channels", "Steinberg UR-RT4"]
+          [
+            "USB 3.0",
+            "Steinberg UR44C"
+          ],
+          [
+            "USB 2.0, two channels",
+            "Yamaha Steinberg UR22MKII or Steinberg UR-RT2"
+          ],
+          [
+            "USB 2.0, one channel",
+            "Steinberg UR12"
+          ],
+          [
+            "USB 2.0, four channels",
+            "Steinberg UR-RT4"
+          ]
         ]
       }
     },
     {
       "subheading": "For Podcasting Specifically",
       "cards": [
-        { "label": "Look for", "text": "Enough XLR inputs for every host, phantom power for condenser mics and software that records each voice on its own track." },
-        { "label": "In this ranking", "text": "The Steinberg UR12 suits a solo host, the Yamaha Steinberg UR22MKII handles a host plus guest, and the Steinberg UR44C covers a four-person table." }
+        {
+          "label": "Look for",
+          "text": "Enough XLR inputs for every host, phantom power for condenser mics and software that records each voice on its own track."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Steinberg UR12 suits a solo host, the Yamaha Steinberg UR22MKII handles a host plus guest, and the Steinberg UR44C covers a four-person table."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You record vocals or acoustic instruments for release and want the Steinberg UR-RT2's transformers, or you track drums and need the Steinberg UR-RT4's four preamps." },
-        { "label": "Save if", "text": "You mostly capture speech or a single instrument, where the Steinberg UR12 or Yamaha Steinberg UR22MKII delivers clean results." }
+        {
+          "label": "Spend more if",
+          "text": "You record vocals or acoustic instruments for release and want the Steinberg UR-RT2's transformers, or you track drums and need the Steinberg UR-RT4's four preamps."
+        },
+        {
+          "label": "Save if",
+          "text": "You mostly capture speech or a single instrument, where the Steinberg UR12 or Yamaha Steinberg UR22MKII delivers clean results."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Will a Steinberg UR interface work with any recording software?", "a": "Yes. The UR22MKII lists compatibility with all major editing and mastering software, and and the rest of the family is sold on the same promise. You also get Cubase AI with the UR12 and UR44C, so you can start recording without buying anything extra." },
-    { "q": "What is the most common mistake when buying a UR interface?", "a": "Buying by channel count and ignoring mic preamps. The UR44C lists six inputs, but only some are mic preamps. Check how many XLR inputs you need, and whether a UR22MKII or UR-RT2 already covers them." },
-    { "q": "Is the UR-RT2 worth it over the UR22MKII?", "a": "If you record vocals or acoustic instruments, yes. The UR-RT2 adds Rupert Neve Designs transformers and DSP monitoring with REV-X reverb to the same two-channel layout. For plain speech or podcasts, the UR22MKII does the job for less." },
-    { "q": "Do I need phantom power for my microphone?", "a": "Condenser microphones do. The UR12 supplies +48V on its single Class-A D-PRE preamp, and the larger models offer it on their mic inputs. Dynamic mics like a typical broadcast mic do not need it, so check your mic first." },
-    { "q": "How should I maintain a UR interface?", "a": "Keep drivers and firmware updated through Steinberg's download site, use a short good USB cable and avoid hubs. The UR44C benefits from a direct USB 3.0 port, while the USB 2.0 models are less fussy about connections." },
-    { "q": "Can the UR12 handle a guitar and a microphone together?", "a": "Not reliably. The UR12 has one XLR mic input and one Hi-Z instrument input but a single Class-A preamp, so plan on recording them one at a time. For simultaneous guitar and vocals, step up to the UR22MKII or UR44C." }
+    {
+      "q": "Will a Steinberg UR interface work with any recording software?",
+      "a": "Yes. The UR22MKII lists compatibility with all major editing and mastering software, and and the rest of the family is sold on the same promise. You also get Cubase AI with the UR12 and UR44C, so you can start recording without buying anything extra."
+    },
+    {
+      "q": "What is the most common mistake when buying a UR interface?",
+      "a": "Buying by channel count and ignoring mic preamps. The UR44C lists six inputs, but only some are mic preamps. Check how many XLR inputs you need, and whether a UR22MKII or UR-RT2 already covers them."
+    },
+    {
+      "q": "Is the UR-RT2 worth it over the UR22MKII?",
+      "a": "If you record vocals or acoustic instruments, yes. The UR-RT2 adds Rupert Neve Designs transformers and DSP monitoring with REV-X reverb to the same two-channel layout. For plain speech or podcasts, the UR22MKII does the job for less."
+    },
+    {
+      "q": "Do I need phantom power for my microphone?",
+      "a": "Condenser microphones do. The UR12 supplies +48V on its single Class-A D-PRE preamp, and the larger models offer it on their mic inputs. Dynamic mics like a typical broadcast mic do not need it, so check your mic first."
+    },
+    {
+      "q": "How should I maintain a UR interface?",
+      "a": "Keep drivers and firmware updated through Steinberg's download site, use a short good USB cable and avoid hubs. The UR44C benefits from a direct USB 3.0 port, while the USB 2.0 models are less fussy about connections."
+    },
+    {
+      "q": "Can the UR12 handle a guitar and a microphone together?",
+      "a": "Not reliably. The UR12 has one XLR mic input and one Hi-Z instrument input but a single Class-A preamp, so plan on recording them one at a time. For simultaneous guitar and vocals, step up to the UR22MKII or UR44C."
+    }
   ],
   "finalTake": "The Steinberg UR44C is the best all-round buy because six inputs and USB 3.0 give you room to grow. Take the UR-RT2 if your focus is voice and tone, and the UR22MKII if you need a dependable two-channel box. The UR12 is a fine first step for a solo creator. Reserve the UR-RT4 for drummers and bands who truly need four transformer preamps.",
-  "related": []
+  "related": [
+    "best-audio-interfaces-for-microphones",
+    "best-focusrite-audio-interfaces",
+    "best-universal-audio-audio-interfaces"
+  ]
 }

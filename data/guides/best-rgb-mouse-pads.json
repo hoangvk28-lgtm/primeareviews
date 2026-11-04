@@ -26,10 +26,22 @@
       "verdict": "Chroma-lit cloth built for control, with a nonslip rubber base and a strong ecosystem.",
       "description": "The Goliathus Extended Chroma is a cloth mat designed for control, with Razer Chroma lighting running around the edge and a nonslip rubber base. Cloth gives a slower, more predictable glide than hard surfaces, which suits players who aim with fine wrist movements.\n\nIt ranks first because the surface and the lighting come from the same brand, and the lighting plugs into the Razer Chroma software that syncs with other peripherals. The Strider Chroma offers a firmer lower half but costs more, and the Chinese-brand pads undercut it on price while giving less detail about the surface.\n\nBest for a gaming desk already filled with Razer gear. The caveat is that the pad is powered by USB, so a cable runs back to your PC, and the price bucket of $50 to $100 is higher than most here.",
       "keySpecs": [
-        { "label": "Surface", "value": "Control cloth" },
-        { "label": "Lighting", "value": "Razer Chroma" },
-        { "label": "Base", "value": "Nonslip rubber" },
-        { "label": "Size", "value": "Extended" }
+        {
+          "label": "Surface",
+          "value": "Control cloth"
+        },
+        {
+          "label": "Lighting",
+          "value": "Razer Chroma"
+        },
+        {
+          "label": "Base",
+          "value": "Nonslip rubber"
+        },
+        {
+          "label": "Size",
+          "value": "Extended"
+        }
       ],
       "pros": [
         "Cloth tuned for control",
@@ -55,10 +67,22 @@
       "verdict": "A hybrid soft and hard mat with 19 Chroma lighting zones across an extended body.",
       "description": "The Strider Chroma mixes a soft and a hard section in one extended mat, and its listing counts 19 Chroma RGB lighting zones. The hybrid idea is that the harder part gives a quick glide for mouse sweeps while the soft part supports the keyboard and wrists.\n\nIt ranks second because it costs the most in the group, in the $100 to $200 bucket, and the mixed surface suits fewer players than the Goliathus cloth. It beats the budget pads on lighting resolution, since 19 zones allow gradients that a handful of modes cannot.\n\nThis is the pick for a desk where the mat doubles as a full surface. The caveat is price: you pay a lot for lighting and a hybrid layout, and you give up the wireless charging of the Gimars and TARKARI.",
       "keySpecs": [
-        { "label": "Surface", "value": "Hybrid soft and hard" },
-        { "label": "Lighting zones", "value": "19" },
-        { "label": "Size", "value": "Extended" },
-        { "label": "Software", "value": "Razer Chroma" }
+        {
+          "label": "Surface",
+          "value": "Hybrid soft and hard"
+        },
+        {
+          "label": "Lighting zones",
+          "value": "19"
+        },
+        {
+          "label": "Size",
+          "value": "Extended"
+        },
+        {
+          "label": "Software",
+          "value": "Razer Chroma"
+        }
       ],
       "pros": [
         "19 lighting zones",
@@ -84,10 +108,22 @@
       "verdict": "An extra-large RGB desk mat with 15W wireless charging and 10 light modes.",
       "description": "Gimars builds a charging pad into an extra-large RGB desk mat, with 15W wireless fast charging and 10 light modes. The extra-large size covers the keyboard and mouse, and the charger saves one cable on the desk.\n\nIt sits third because it is the more established of the two charging pads here, and it adds a stated size that covers the whole workspace. The TARKARI offers the same 15W figure plus a safety-protection claim, but the Gimars is the one that spells out the light-mode count and the desk-mat format.\n\nBuy it if a phone lives next to your mouse all day. The caveat is that wireless charging at 15W only works with compatible phones, and a case that is too thick can slow or stop it.",
       "keySpecs": [
-        { "label": "Charging", "value": "15W wireless" },
-        { "label": "Lighting", "value": "10 modes" },
-        { "label": "Size", "value": "Extra-large desk mat" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Charging",
+          "value": "15W wireless"
+        },
+        {
+          "label": "Lighting",
+          "value": "10 modes"
+        },
+        {
+          "label": "Size",
+          "value": "Extra-large desk mat"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "15W wireless charging built in",
@@ -113,10 +149,22 @@
       "verdict": "15W wireless charging with 6 safety protections and a high-density woven top.",
       "description": "The TARKARI promises 15W multi-level fast wireless charging with 6 safety protections, 10 RGB modes switched by an inductive touch control and a high-density woven fabric surface. The touch switch replaces a button and keeps the edge clean.\n\nIt ranks below the Gimars because the format details are thinner, with no stated size, and above the plain pads because it adds charging safeguards. Where the Gimars is a clear desk mat, this one reads as a standard pad with a charger inside, so check the dimensions before you buy.\n\nSuitable for a mid-size desk where a woven top and a phone dock share one surface. The caveat is that wireless charging pads can run warm, and the listing's safety wording is the reassurance, not a test result.",
       "keySpecs": [
-        { "label": "Charging", "value": "15W wireless" },
-        { "label": "Safety", "value": "6 protections" },
-        { "label": "Lighting", "value": "10 RGB modes" },
-        { "label": "Surface", "value": "High-density woven" }
+        {
+          "label": "Charging",
+          "value": "15W wireless"
+        },
+        {
+          "label": "Safety",
+          "value": "6 protections"
+        },
+        {
+          "label": "Lighting",
+          "value": "10 RGB modes"
+        },
+        {
+          "label": "Surface",
+          "value": "High-density woven"
+        }
       ],
       "pros": [
         "15W charging with safeguards",
@@ -142,10 +190,22 @@
       "verdict": "An oversized pad with 12 RGB light modes at the bottom of the price range.",
       "description": "TIDALSOIL offers 12 RGB light modes on an oversized pad that covers the desk, in the under $25 bucket. Oversized coverage matters because a keyboard and mouse sharing one surface stay at the same height.\n\nIt ranks fifth because the listing gives no surface detail beyond a durable claim, and no charging. It still beats the BladeHawks on lighting variety, with 12 modes against an unstated count, and it is the cheapest pad here that promises full coverage.\n\nPick it when you want a lit desk mat without spending Razer money. The caveat is that cheap RGB pads often skimp on the cable and controller, so check how the lighting is switched before relying on it.",
       "keySpecs": [
-        { "label": "Lighting", "value": "12 RGB modes" },
-        { "label": "Size", "value": "Oversized" },
-        { "label": "Charging", "value": "None" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Lighting",
+          "value": "12 RGB modes"
+        },
+        {
+          "label": "Size",
+          "value": "Oversized"
+        },
+        {
+          "label": "Charging",
+          "value": "None"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "12 RGB light modes",
@@ -171,10 +231,22 @@
       "verdict": "Customizable RGB modes on an extended pad with a smooth fabric top.",
       "description": "HUADO lists customizable RGB lighting modes, an extended size for full desktop coverage and a smooth fabric surface for consistent mouse control. Consistency is the useful word: a smooth weave keeps tracking steady across the pad.\n\nIt ranks sixth because the listing gives no mode count, unlike the TIDALSOIL with 12, and nothing about the base. It stays ahead of the BladeHawks since it names the surface and stresses customization.\n\nA reasonable choice for an everyday desk where lights are a bonus and the fabric is the point. The caveat is that customizable lighting without a number leaves you guessing what the controller actually offers.",
       "keySpecs": [
-        { "label": "Lighting", "value": "Customizable RGB" },
-        { "label": "Size", "value": "Extended" },
-        { "label": "Surface", "value": "Smooth fabric" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Lighting",
+          "value": "Customizable RGB"
+        },
+        {
+          "label": "Size",
+          "value": "Extended"
+        },
+        {
+          "label": "Surface",
+          "value": "Smooth fabric"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Customizable RGB modes",
@@ -200,10 +272,22 @@
       "verdict": "A 31.5 by 12 inch pad with LED backlight and an anti-slip rubber base.",
       "description": "BladeHawks gives you an exact size, 31.5 by 12 inches, an LED backlight and an anti-slip rubber base. That is a classic keyboard-and-mouse format, long enough for a full-size keyboard with room to spare.\n\nIt finishes seventh because the lighting is described only as an LED backlight, with no mode count, and the surface is not named. It earns its place with the one detail the others skip: dimensions you can check against your desk.\n\nThe pick for a buyer who knows exactly how much desk is available and wants a no-frills lit pad. The caveat is the missing lighting detail, so expect basic colour cycling rather than customization.",
       "keySpecs": [
-        { "label": "Size", "value": "31.5 x 12 in" },
-        { "label": "Lighting", "value": "LED backlight" },
-        { "label": "Base", "value": "Anti-slip rubber" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Size",
+          "value": "31.5 x 12 in"
+        },
+        {
+          "label": "Lighting",
+          "value": "LED backlight"
+        },
+        {
+          "label": "Base",
+          "value": "Anti-slip rubber"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Exact 31.5 x 12 in size",
@@ -220,77 +304,170 @@
     }
   ],
   "methodology": [
-    { "title": "Surface quality", "description": "Cloth, woven or hybrid surface type and how well the listing explains it, since glide matters more than glow." },
-    { "title": "Lighting execution", "description": "Mode counts, zone counts, software support and how the lights are switched." },
-    { "title": "Size and coverage", "description": "Stated dimensions and whether the pad holds both keyboard and mouse." },
-    { "title": "Base and stability", "description": "Whether the underside is rubber or anti-slip, which stops the pad creeping." },
-    { "title": "Extras and value", "description": "Wireless charging, safety claims and price tier compared with what the pad delivers." }
+    {
+      "title": "Surface quality",
+      "description": "Cloth, woven or hybrid surface type and how well the listing explains it, since glide matters more than glow."
+    },
+    {
+      "title": "Lighting execution",
+      "description": "Mode counts, zone counts, software support and how the lights are switched."
+    },
+    {
+      "title": "Size and coverage",
+      "description": "Stated dimensions and whether the pad holds both keyboard and mouse."
+    },
+    {
+      "title": "Base and stability",
+      "description": "Whether the underside is rubber or anti-slip, which stops the pad creeping."
+    },
+    {
+      "title": "Extras and value",
+      "description": "Wireless charging, safety claims and price tier compared with what the pad delivers."
+    }
   ],
   "whatMatters": [
-    { "factor": "Surface type", "detail": "Cloth gives a slower, controlled glide, hard surfaces give speed, and hybrids split the two. The lights do not change how the mouse tracks, so the surface decides your daily experience. Check whether the listing names cloth, woven or hybrid, and avoid pads that describe only the lighting." },
-    { "factor": "Lighting zones and modes", "detail": "A mode is a preset effect, while a zone is an independently lit segment, so 19 zones allow gradients that 10 modes cannot. More zones matter only if software can address them. Look for the word zone or software support on the listing, and treat a bare mode count as presets." },
-    { "factor": "Wireless charging output", "detail": "A figure such as 15W is the pad's maximum, but your phone decides what it accepts. Cases thicker than a few millimetres or metal plates in them can block the field. Check the wattage on the listing and your phone's maximum, and look for the safety protections it names." },
-    { "factor": "Size and desk fit", "detail": "Extended pads such as 31.5 by 12 inches hold a keyboard and a mouse together, which keeps your wrists at one height. An oversized pad may overhang a shallow desk. Measure your desk depth first, and compare it with the stated dimensions, since not every listing gives them." },
-    { "factor": "Base grip and cable", "detail": "A rubber base keeps the pad from drifting during fast swipes, and the USB cable should exit where it will not catch your mouse. Both are minor until they fail. Look for the words nonslip or anti-slip rubber, and consider where the lighting cable will run." }
+    {
+      "factor": "Surface type",
+      "detail": "Cloth gives a slower, controlled glide, hard surfaces give speed, and hybrids split the two. The lights do not change how the mouse tracks, so the surface decides your daily experience. Check whether the listing names cloth, woven or hybrid, and avoid pads that describe only the lighting."
+    },
+    {
+      "factor": "Lighting zones and modes",
+      "detail": "A mode is a preset effect, while a zone is an independently lit segment, so 19 zones allow gradients that 10 modes cannot. More zones matter only if software can address them. Look for the word zone or software support on the listing, and treat a bare mode count as presets."
+    },
+    {
+      "factor": "Wireless charging output",
+      "detail": "A figure such as 15W is the pad's maximum, but your phone decides what it accepts. Cases thicker than a few millimetres or metal plates in them can block the field. Check the wattage on the listing and your phone's maximum, and look for the safety protections it names."
+    },
+    {
+      "factor": "Size and desk fit",
+      "detail": "Extended pads such as 31.5 by 12 inches hold a keyboard and a mouse together, which keeps your wrists at one height. An oversized pad may overhang a shallow desk. Measure your desk depth first, and compare it with the stated dimensions, since not every listing gives them."
+    },
+    {
+      "factor": "Base grip and cable",
+      "detail": "A rubber base keeps the pad from drifting during fast swipes, and the USB cable should exit where it will not catch your mouse. Both are minor until they fail. Look for the words nonslip or anti-slip rubber, and consider where the lighting cable will run."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Surface",
       "intro": "Start with how you want the mouse to glide.",
       "table": {
-        "headers": ["Surface", "Our pick"],
+        "headers": [
+          "Surface",
+          "Our pick"
+        ],
         "rows": [
-          ["Control cloth", "Razer Goliathus Extended Chroma Gaming Mousepad"],
-          ["Hybrid soft and hard", "Razer Strider Chroma Hybrid Gaming Mouse Mat"],
-          ["High-density woven", "TARKARI Mouse Pad Gaming Wireless Charging"],
-          ["Smooth fabric", "HUADO RGB Gaming Mouse Pad"]
+          [
+            "Control cloth",
+            "Razer Goliathus Extended Chroma Gaming Mousepad"
+          ],
+          [
+            "Hybrid soft and hard",
+            "Razer Strider Chroma Hybrid Gaming Mouse Mat"
+          ],
+          [
+            "High-density woven",
+            "TARKARI Mouse Pad Gaming Wireless Charging"
+          ],
+          [
+            "Smooth fabric",
+            "HUADO RGB Gaming Mouse Pad"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "TIDALSOIL RGB Gaming Mouse Pad"],
-          ["$25 to $50", "Gimars RGB Gaming Mouse Pad"],
-          ["$50 to $100", "Razer Goliathus Extended Chroma Gaming Mousepad"],
-          ["$100 to $200", "Razer Strider Chroma Hybrid Gaming Mouse Mat"]
+          [
+            "Under $25",
+            "TIDALSOIL RGB Gaming Mouse Pad"
+          ],
+          [
+            "$25 to $50",
+            "Gimars RGB Gaming Mouse Pad"
+          ],
+          [
+            "$50 to $100",
+            "Razer Goliathus Extended Chroma Gaming Mousepad"
+          ],
+          [
+            "$100 to $200",
+            "Razer Strider Chroma Hybrid Gaming Mouse Mat"
+          ]
         ]
       }
     },
     {
       "subheading": "Charging vs Plain Lighting",
       "cards": [
-        { "label": "Wireless charging", "text": "Turns the pad into a phone dock. The Gimars and TARKARI both quote 15W and suit desks where the phone stays put." },
-        { "label": "Lighting only", "text": "Keeps the pad simpler and cooler. The Goliathus, Strider, TIDALSOIL and HUADO focus on surface and lights." }
+        {
+          "label": "Wireless charging",
+          "text": "Turns the pad into a phone dock. The Gimars and TARKARI both quote 15W and suit desks where the phone stays put."
+        },
+        {
+          "label": "Lighting only",
+          "text": "Keeps the pad simpler and cooler. The Goliathus, Strider, TIDALSOIL and HUADO focus on surface and lights."
+        }
       ],
       "note": "Choose charging only if your phone supports it, otherwise a plain pad such as the Goliathus is the safer buy."
     },
     {
       "subheading": "By Size",
       "table": {
-        "headers": ["Size", "Our pick"],
+        "headers": [
+          "Size",
+          "Our pick"
+        ],
         "rows": [
-          ["Stated 31.5 x 12 in", "BladeHawks RGB Gaming Mouse Pad Extra Large"],
-          ["Extra-large desk mat", "Gimars RGB Gaming Mouse Pad"],
-          ["Oversized coverage", "TIDALSOIL RGB Gaming Mouse Pad"],
-          ["Extended with gradients", "Razer Strider Chroma Hybrid Gaming Mouse Mat"]
+          [
+            "Stated 31.5 x 12 in",
+            "BladeHawks RGB Gaming Mouse Pad Extra Large"
+          ],
+          [
+            "Extra-large desk mat",
+            "Gimars RGB Gaming Mouse Pad"
+          ],
+          [
+            "Oversized coverage",
+            "TIDALSOIL RGB Gaming Mouse Pad"
+          ],
+          [
+            "Extended with gradients",
+            "Razer Strider Chroma Hybrid Gaming Mouse Mat"
+          ]
         ]
       }
     },
     {
       "subheading": "For Razer Setups Specifically",
       "cards": [
-        { "label": "Look for", "text": "A pad that speaks Chroma, so lighting follows your keyboard and mouse through one piece of software." },
-        { "label": "In this ranking", "text": "The Goliathus is the straightforward match, and the Strider adds 19 zones for gradients at a higher price." }
+        {
+          "label": "Look for",
+          "text": "A pad that speaks Chroma, so lighting follows your keyboard and mouse through one piece of software."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Goliathus is the straightforward match, and the Strider adds 19 zones for gradients at a higher price."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want synced lighting and a known surface. The Razer pair is where the money goes." },
-        { "label": "Save if", "text": "Lights are decoration. The TIDALSOIL or BladeHawks covers the desk for under $25." }
+        {
+          "label": "Spend more if",
+          "text": "You want synced lighting and a known surface. The Razer pair is where the money goes."
+        },
+        {
+          "label": "Save if",
+          "text": "Lights are decoration. The TIDALSOIL or BladeHawks covers the desk for under $25."
+        }
       ]
     }
   ],
@@ -321,5 +498,9 @@
     }
   ],
   "finalTake": "The Razer Goliathus Extended Chroma is the best RGB mouse pad here because the surface, base and lighting work as one system. The Strider Chroma adds 19 zones and a hybrid top for those who will pay for it. Pick the Gimars if the desk needs a phone charger, and the TIDALSOIL if budget matters more than brand.",
-  "related": []
+  "related": [
+    "best-custom-mouse-pads",
+    "best-ergonomic-mouse-pads",
+    "best-gaming-mouse-pads"
+  ]
 }

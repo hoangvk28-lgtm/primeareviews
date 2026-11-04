@@ -26,10 +26,22 @@
       "verdict": "A 5-inch two-way active pair that suits most small rooms better than bigger boxes.",
       "description": "The JBL 305P MkII is a 5-inch, 2-way active monitor, and this listing supplies two of them. Its reference-monitor positioning is why it has become a default recommendation for home studios: a size that fits a desk with a woofer big enough to judge low end without overwhelming a small room.\n\nIt ranks above the Eris E7 XT because it arrives as a pair and its 5-inch size is easier to place in a normal room. Against the Edifier MR3, the JBL gives up some connection variety but is built as a studio tool rather than a desktop speaker.\n\nBuy it for mixing music in a bedroom or office. The caveat is cost, since it costs several times what the 3.5-inch models do, and it still benefits from some acoustic treatment on the walls.",
       "keySpecs": [
-        { "label": "Woofer", "value": "5 in" },
-        { "label": "Design", "value": "2-way active" },
-        { "label": "Listing", "value": "Pair of monitors" },
-        { "label": "Class", "value": "Reference studio monitor" }
+        {
+          "label": "Woofer",
+          "value": "5 in"
+        },
+        {
+          "label": "Design",
+          "value": "2-way active"
+        },
+        {
+          "label": "Listing",
+          "value": "Pair of monitors"
+        },
+        {
+          "label": "Class",
+          "value": "Reference studio monitor"
+        }
       ],
       "pros": [
         "Right size for small rooms",
@@ -56,10 +68,22 @@
       "verdict": "A 6.55-inch woofer and 1.25-inch silk dome for rooms that can handle deeper bass.",
       "description": "The Eris E7 XT pairs a 6.55-inch woven composite low-frequency driver with a 1.25-inch ultra-low-mass silk-dome tweeter and an EBM waveguide, and it includes Studio One Prime. It is the largest monitor in this ranking and the only one that reaches down into real bass territory.\n\nIt ranks second to the JBL 305P MkII because this listing is a pack of one, so a stereo setup means buying two. The larger woofer gives deeper extension, but in a small untreated room that extra low end can mislead your mixes. The waveguide helps keep the stereo image stable if you move your head.\n\nChoose it for a mid-sized room with some treatment. The caveat: budget for two units and the Studio One Prime software is the only bundled extra.",
       "keySpecs": [
-        { "label": "Woofer", "value": "6.55 in woven composite" },
-        { "label": "Tweeter", "value": "1.25 in silk dome" },
-        { "label": "Waveguide", "value": "EBM" },
-        { "label": "Listing", "value": "Single monitor" }
+        {
+          "label": "Woofer",
+          "value": "6.55 in woven composite"
+        },
+        {
+          "label": "Tweeter",
+          "value": "1.25 in silk dome"
+        },
+        {
+          "label": "Waveguide",
+          "value": "EBM"
+        },
+        {
+          "label": "Listing",
+          "value": "Single monitor"
+        }
       ],
       "pros": [
         "Largest woofer in the group",
@@ -86,10 +110,22 @@
       "verdict": "Balanced TRS, RCA and aux inputs, with 18 W x 2 RMS. The most flexible desktop pair.",
       "description": "The Edifier MR3 is a powered studio monitor pair that is Hi-Res Audio certified, with balanced TRS, RCA and aux inputs and 18 W x 2 RMS output. That mix of connections lets it serve an audio interface, a phone or a console without adapters.\n\nIt ranks third because 18 W per side is modest next to the JBL 305P MkII or the Eris E7 XT, and the listing does not state a woofer size. What it does better than the pricier JBL is flexibility: balanced TRS keeps the signal clean from an interface, and RCA covers consumer gear.\n\nBuy it for a desk that handles both music production and everyday listening. The caveat is that power is limited, so it will not fill a large room, and the $100 to $200 price sits above the 3.5-inch pairs.",
       "keySpecs": [
-        { "label": "Output", "value": "18 W x 2 RMS" },
-        { "label": "Inputs", "value": "Balanced TRS, RCA, aux" },
-        { "label": "Certification", "value": "Hi-Res Audio" },
-        { "label": "Listing", "value": "Powered pair" }
+        {
+          "label": "Output",
+          "value": "18 W x 2 RMS"
+        },
+        {
+          "label": "Inputs",
+          "value": "Balanced TRS, RCA, aux"
+        },
+        {
+          "label": "Certification",
+          "value": "Hi-Res Audio"
+        },
+        {
+          "label": "Listing",
+          "value": "Powered pair"
+        }
       ],
       "pros": [
         "Balanced TRS input",
@@ -116,10 +152,22 @@
       "verdict": "A compact desktop pair from a studio brand, for tight desks and near-field listening.",
       "description": "The PreSonus Eris 3.5 is a pair of powered studio monitors sized for near-field desk use. The 3.5-inch class is the smallest in this ranking, and the brand is the same that makes the E7 XT, so the tuning philosophy carries over.\n\nIt ranks fourth because small drivers cannot reproduce deep bass, so low-end judgments will rely on headphones or a subwoofer. Against the Ortizan C7 below, the Eris 3.5 is the more studio-focused tool, while the C7 adds Bluetooth for casual use.\n\nBuy it if desk space is tight and you work on vocals, podcasts or light production. The caveat is that this listing offers few spec details to compare, so check connection options before you order, and expect to pair it with headphones for bass.",
       "keySpecs": [
-        { "label": "Driver class", "value": "3.5 in" },
-        { "label": "Type", "value": "Powered studio monitors" },
-        { "label": "Listing", "value": "Pair" },
-        { "label": "Use", "value": "Near-field desktop" }
+        {
+          "label": "Driver class",
+          "value": "3.5 in"
+        },
+        {
+          "label": "Type",
+          "value": "Powered studio monitors"
+        },
+        {
+          "label": "Listing",
+          "value": "Pair"
+        },
+        {
+          "label": "Use",
+          "value": "Near-field desktop"
+        }
       ],
       "pros": [
         "Fits small desks easily",
@@ -146,10 +194,22 @@
       "verdict": "Creative reference monitors with a tone knob and wide input options.",
       "description": "The Mackie CR3.5 is a pair of creative reference powered studio monitors that connect to just about anything, with a tone knob to shape the sound. The tone control is the distinguishing feature: you can warm up or brighten the speakers for the room you have.\n\nIt ranks fifth because it competes with the Eris 3.5 at the same 3.5-inch class and the same $50 to $100 bracket, and the Eris is the more studio-oriented pick. The CR3.5 wins on flexibility, because a tone knob lets a bright desk or a boomy corner be tamed without software.\n\nChoose it if you split time between production and gaming or media. The caveat is that a tone knob colours the sound, so for critical mixing keep it flat.",
       "keySpecs": [
-        { "label": "Driver class", "value": "3.5 in" },
-        { "label": "Control", "value": "Tone knob" },
-        { "label": "Connectivity", "value": "Wide input options" },
-        { "label": "Listing", "value": "Pair" }
+        {
+          "label": "Driver class",
+          "value": "3.5 in"
+        },
+        {
+          "label": "Control",
+          "value": "Tone knob"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Wide input options"
+        },
+        {
+          "label": "Listing",
+          "value": "Pair"
+        }
       ],
       "pros": [
         "Tone knob shapes sound",
@@ -176,10 +236,22 @@
       "verdict": "A 3.5-inch mid-bass and 0.75-inch tweeter pair with Bluetooth 5.3 and multiple inputs.",
       "description": "The Ortizan C7 is a powered pair with a 3.5-inch mid-bass driver, a 0.75-inch tweeter, multiple inputs and Bluetooth 5.3. It is the only model here built around wireless streaming, which makes it the most convenient pair to play from a phone.\n\nIt ranks last because Bluetooth is a listening feature, not a monitoring one: wireless audio compresses the signal and adds delay, which a mixing engineer cannot use. Against the Mackie CR3.5, the C7 is more of a hi-fi bookshelf speaker with a studio label.\n\nBuy it if casual listening matters as much as production. The caveat: treat it as a desk speaker for reference at best, and use the wired inputs whenever you are making mix decisions.",
       "keySpecs": [
-        { "label": "Mid-bass", "value": "3.5 in" },
-        { "label": "Tweeter", "value": "0.75 in" },
-        { "label": "Wireless", "value": "Bluetooth 5.3" },
-        { "label": "Listing", "value": "Pair" }
+        {
+          "label": "Mid-bass",
+          "value": "3.5 in"
+        },
+        {
+          "label": "Tweeter",
+          "value": "0.75 in"
+        },
+        {
+          "label": "Wireless",
+          "value": "Bluetooth 5.3"
+        },
+        {
+          "label": "Listing",
+          "value": "Pair"
+        }
       ],
       "pros": [
         "Bluetooth 5.3 streaming",
@@ -197,88 +269,203 @@
     }
   ],
   "methodology": [
-    { "title": "Driver design", "description": "Woofer size, tweeter type and whether the design is truly 2-way decide how much of the spectrum each monitor can reproduce." },
-    { "title": "Input quality", "description": "Balanced TRS inputs score higher than consumer-only connections because they keep the signal clean from an interface." },
-    { "title": "Room fit", "description": "Smaller drivers suit small rooms, while larger ones need treatment, so each monitor is judged against realistic spaces." },
-    { "title": "Listing completeness", "description": "Pairs and singles are compared fairly, and listings that omit key specs lose points for the missing information." },
-    { "title": "Studio versus consumer voicing", "description": "Monitors built for flat reference score above hi-fi speakers, which are tuned to flatter music rather than reveal it." }
+    {
+      "title": "Driver design",
+      "description": "Woofer size, tweeter type and whether the design is truly 2-way decide how much of the spectrum each monitor can reproduce."
+    },
+    {
+      "title": "Input quality",
+      "description": "Balanced TRS inputs score higher than consumer-only connections because they keep the signal clean from an interface."
+    },
+    {
+      "title": "Room fit",
+      "description": "Smaller drivers suit small rooms, while larger ones need treatment, so each monitor is judged against realistic spaces."
+    },
+    {
+      "title": "Listing completeness",
+      "description": "Pairs and singles are compared fairly, and listings that omit key specs lose points for the missing information."
+    },
+    {
+      "title": "Studio versus consumer voicing",
+      "description": "Monitors built for flat reference score above hi-fi speakers, which are tuned to flatter music rather than reveal it."
+    }
   ],
   "whatMatters": [
-    { "factor": "Woofer size", "detail": "The woofer determines how low the monitor can play and how much air it moves. A 6.55-inch driver like the E7 XT reaches deeper than a 3.5-inch one, but in a small room extra bass causes boomy mixes. Match the driver to the room: check the listing for woofer size, since the Edifier MR3 does not state it." },
-    { "factor": "Balanced inputs", "detail": "Balanced TRS or XLR connections cancel noise picked up along the cable, which matters when monitors sit near a computer and power supplies. The Edifier MR3 lists balanced TRS, while consumer-style pairs may offer only RCA or aux. Look for TRS or XLR on the rear panel before buying." },
-    { "factor": "Pair or single", "detail": "Some listings sell one monitor and some sell two. The Eris E7 XT is a pack of one, so a stereo setup needs two purchases, while the JBL 305P MkII listing supplies two. Read the quantity carefully, because the sticker price can look half as high when only one speaker is included." },
-    { "factor": "Bluetooth versus wired", "detail": "Bluetooth is handy for casual listening but unsuitable for mixing, because wireless audio is compressed and delayed. The Ortizan C7 includes Bluetooth 5.3, which is useful for playback from a phone. For production, always plug in over a wired input, and treat wireless as a convenience only." },
-    { "factor": "Room treatment", "detail": "Even excellent monitors misreport bass in a bare room, where reflections and corners add or cancel frequencies. A few acoustic panels and sensible desk placement change results more than upgrading the speakers. Before spending on bigger monitors, check where the speakers sit relative to walls and your ears." }
+    {
+      "factor": "Woofer size",
+      "detail": "The woofer determines how low the monitor can play and how much air it moves. A 6.55-inch driver like the E7 XT reaches deeper than a 3.5-inch one, but in a small room extra bass causes boomy mixes. Match the driver to the room: check the listing for woofer size, since the Edifier MR3 does not state it."
+    },
+    {
+      "factor": "Balanced inputs",
+      "detail": "Balanced TRS or XLR connections cancel noise picked up along the cable, which matters when monitors sit near a computer and power supplies. The Edifier MR3 lists balanced TRS, while consumer-style pairs may offer only RCA or aux. Look for TRS or XLR on the rear panel before buying."
+    },
+    {
+      "factor": "Pair or single",
+      "detail": "Some listings sell one monitor and some sell two. The Eris E7 XT is a pack of one, so a stereo setup needs two purchases, while the JBL 305P MkII listing supplies two. Read the quantity carefully, because the sticker price can look half as high when only one speaker is included."
+    },
+    {
+      "factor": "Bluetooth versus wired",
+      "detail": "Bluetooth is handy for casual listening but unsuitable for mixing, because wireless audio is compressed and delayed. The Ortizan C7 includes Bluetooth 5.3, which is useful for playback from a phone. For production, always plug in over a wired input, and treat wireless as a convenience only."
+    },
+    {
+      "factor": "Room treatment",
+      "detail": "Even excellent monitors misreport bass in a bare room, where reflections and corners add or cancel frequencies. A few acoustic panels and sensible desk placement change results more than upgrading the speakers. Before spending on bigger monitors, check where the speakers sit relative to walls and your ears."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Room Size",
       "intro": "Match the woofer to the room, not to your ambition.",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Tight desk", "PreSonus Eris 3.5 or Mackie CR3.5"],
-          ["Small bedroom or office", "JBL 305P MkII"],
-          ["Mid-sized treated room", "PreSonus Eris E7 XT"],
-          ["Mixed music and media", "Edifier MR3"]
+          [
+            "Tight desk",
+            "PreSonus Eris 3.5 or Mackie CR3.5"
+          ],
+          [
+            "Small bedroom or office",
+            "JBL 305P MkII"
+          ],
+          [
+            "Mid-sized treated room",
+            "PreSonus Eris E7 XT"
+          ],
+          [
+            "Mixed music and media",
+            "Edifier MR3"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "PreSonus Eris 3.5, Mackie CR3.5 or Ortizan C7"],
-          ["$100 to $200", "Edifier MR3"],
-          ["$200 to $500", "JBL 305P MkII"],
-          ["Single speaker, price varies", "PreSonus Eris E7 XT"]
+          [
+            "$50 to $100",
+            "PreSonus Eris 3.5, Mackie CR3.5 or Ortizan C7"
+          ],
+          [
+            "$100 to $200",
+            "Edifier MR3"
+          ],
+          [
+            "$200 to $500",
+            "JBL 305P MkII"
+          ],
+          [
+            "Single speaker, price varies",
+            "PreSonus Eris E7 XT"
+          ]
         ]
       }
     },
     {
       "subheading": "Studio Voicing vs Hi-Fi Voicing",
       "cards": [
-        { "label": "Studio voicing", "text": "The JBL 305P MkII, Eris E7 XT and Eris 3.5 aim for a flat response that reveals mix problems." },
-        { "label": "Hi-fi voicing", "text": "The Ortizan C7 and Edifier MR3 lean toward pleasant listening with extra connectivity." }
+        {
+          "label": "Studio voicing",
+          "text": "The JBL 305P MkII, Eris E7 XT and Eris 3.5 aim for a flat response that reveals mix problems."
+        },
+        {
+          "label": "Hi-fi voicing",
+          "text": "The Ortizan C7 and Edifier MR3 lean toward pleasant listening with extra connectivity."
+        }
       ],
       "note": "Default to studio voicing for mixing, and choose hi-fi voicing only if listening is half the job."
     },
     {
       "subheading": "By Connection Type",
       "table": {
-        "headers": ["Connection", "Our pick"],
+        "headers": [
+          "Connection",
+          "Our pick"
+        ],
         "rows": [
-          ["Balanced TRS", "Edifier MR3"],
-          ["Wireless streaming", "Ortizan C7"],
-          ["Many source types", "Mackie CR3.5"],
-          ["Studio interface feed", "JBL 305P MkII"]
+          [
+            "Balanced TRS",
+            "Edifier MR3"
+          ],
+          [
+            "Wireless streaming",
+            "Ortizan C7"
+          ],
+          [
+            "Many source types",
+            "Mackie CR3.5"
+          ],
+          [
+            "Studio interface feed",
+            "JBL 305P MkII"
+          ]
         ]
       }
     },
     {
       "subheading": "For Home Podcasting Specifically",
       "cards": [
-        { "label": "Look for", "text": "Clear midrange for speech, a compact footprint and a pair you can plug into an interface." },
-        { "label": "In this ranking", "text": "The PreSonus Eris 3.5 and Mackie CR3.5 suit a podcast desk, while the Edifier MR3 adds balanced inputs." }
+        {
+          "label": "Look for",
+          "text": "Clear midrange for speech, a compact footprint and a pair you can plug into an interface."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The PreSonus Eris 3.5 and Mackie CR3.5 suit a podcast desk, while the Edifier MR3 adds balanced inputs."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You mix music regularly and need the 5-inch JBL 305P MkII, or the deeper PreSonus Eris E7 XT in a treated room." },
-        { "label": "Save if", "text": "You record occasionally or use monitors mainly for listening, where the Mackie CR3.5 is enough." }
+        {
+          "label": "Spend more if",
+          "text": "You mix music regularly and need the 5-inch JBL 305P MkII, or the deeper PreSonus Eris E7 XT in a treated room."
+        },
+        {
+          "label": "Save if",
+          "text": "You record occasionally or use monitors mainly for listening, where the Mackie CR3.5 is enough."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Can I connect these monitors directly to my phone?", "a": "The Ortizan C7 does it over Bluetooth 5.3, and the Edifier MR3 offers an aux input for a cable. The JBL 305P MkII and Eris E7 XT expect an interface or a mixer, so plan for adapters." },
-    { "q": "What is the most common mistake when choosing monitors?", "a": "Buying bigger drivers for a small room. A pair of Eris E7 XT speakers can sound boomy in a bedroom, while the 5-inch JBL 305P MkII stays easier to judge. Match woofer size to the space before chasing bass." },
-    { "q": "Are the 3.5-inch monitors worth it over a 5-inch pair?", "a": "Only for tight desks. The Eris 3.5 and Mackie CR3.5 save space and money, but give up low-end extension compared with the JBL 305P MkII. If bass decisions matter, spend more or add a subwoofer." },
-    { "q": "How should I set up studio monitors?", "a": "Form an equilateral triangle with your head, place tweeters at ear height and keep speakers away from walls. A JBL 305P MkII or Eris 3.5 both benefit from stands or isolation pads rather than sitting flat on a desk." },
-    { "q": "Do active monitors need maintenance?", "a": "Very little. Keep vents clear, dust the drivers gently and avoid pushing amplified speakers to distortion. The Edifier MR3 and Mackie CR3.5 are desktop pairs, so wipe them down and check cable connectors occasionally." },
-    { "q": "Can I use only one Eris E7 XT?", "a": "Only for mono checks or surround use. The listing is a pack of one, so stereo mixing needs two units. If you want a ready-made stereo setup, the JBL 305P MkII pair is the simpler purchase." }
+    {
+      "q": "Can I connect these monitors directly to my phone?",
+      "a": "The Ortizan C7 does it over Bluetooth 5.3, and the Edifier MR3 offers an aux input for a cable. The JBL 305P MkII and Eris E7 XT expect an interface or a mixer, so plan for adapters."
+    },
+    {
+      "q": "What is the most common mistake when choosing monitors?",
+      "a": "Buying bigger drivers for a small room. A pair of Eris E7 XT speakers can sound boomy in a bedroom, while the 5-inch JBL 305P MkII stays easier to judge. Match woofer size to the space before chasing bass."
+    },
+    {
+      "q": "Are the 3.5-inch monitors worth it over a 5-inch pair?",
+      "a": "Only for tight desks. The Eris 3.5 and Mackie CR3.5 save space and money, but give up low-end extension compared with the JBL 305P MkII. If bass decisions matter, spend more or add a subwoofer."
+    },
+    {
+      "q": "How should I set up studio monitors?",
+      "a": "Form an equilateral triangle with your head, place tweeters at ear height and keep speakers away from walls. A JBL 305P MkII or Eris 3.5 both benefit from stands or isolation pads rather than sitting flat on a desk."
+    },
+    {
+      "q": "Do active monitors need maintenance?",
+      "a": "Very little. Keep vents clear, dust the drivers gently and avoid pushing amplified speakers to distortion. The Edifier MR3 and Mackie CR3.5 are desktop pairs, so wipe them down and check cable connectors occasionally."
+    },
+    {
+      "q": "Can I use only one Eris E7 XT?",
+      "a": "Only for mono checks or surround use. The listing is a pack of one, so stereo mixing needs two units. If you want a ready-made stereo setup, the JBL 305P MkII pair is the simpler purchase."
+    }
   ],
   "finalTake": "The JBL 305P MkII is the best all-round active monitor pair here, because a 5-inch two-way design fits real rooms. The Eris E7 XT is the upgrade for larger treated spaces, though you must buy two. The Edifier MR3 wins on connections, while the Eris 3.5 and Mackie CR3.5 serve tight desks. Treat the Ortizan C7 as a listening speaker first.",
-  "related": []
+  "related": [
+    "best-8-inch-studio-monitors",
+    "best-adam-audio-studio-monitors",
+    "best-behringer-studio-monitors"
+  ]
 }

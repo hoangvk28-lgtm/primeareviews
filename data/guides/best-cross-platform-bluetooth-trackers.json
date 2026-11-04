@@ -26,10 +26,22 @@
       "verdict": "Four rechargeable tags with 365 days per USB-C charge, Apple and Google certification and end-to-end encryption.",
       "description": "UGREEN's Finder Duo Air is certified by both Apple and Google and joins either Apple Find My or Google Find Hub. The tags are rechargeable over universal USB-C and last 365 days per charge, a design that avoids the disposable coin cell. End-to-end encryption, Lost Mode and alerts complete the feature set.\n\nIt ranks first because it removes the battery problem and keeps both certifications. The coioc uses a replaceable battery instead, which suits those who dislike charging. Against the Reyke, it lists no range figure but offers rechargeable convenience. The listing places it in the $25 to $50 bucket for four tags.\n\nBest for households that want one set of tags with minimal upkeep. The caveat is that a rechargeable tag needs a charge every year, so set a reminder.",
       "keySpecs": [
-        { "label": "Networks", "value": "Apple Find My or Google Find Hub" },
-        { "label": "Battery", "value": "Rechargeable, 365 days per charge" },
-        { "label": "Charging", "value": "Universal USB-C" },
-        { "label": "Certification", "value": "Apple and Google" }
+        {
+          "label": "Networks",
+          "value": "Apple Find My or Google Find Hub"
+        },
+        {
+          "label": "Battery",
+          "value": "Rechargeable, 365 days per charge"
+        },
+        {
+          "label": "Charging",
+          "value": "Universal USB-C"
+        },
+        {
+          "label": "Certification",
+          "value": "Apple and Google"
+        }
       ],
       "pros": [
         "Rechargeable over USB-C",
@@ -56,10 +68,22 @@
       "verdict": "A 100 dB alarm, IP68 waterproofing and 0.28 oz weight, with cases and lanyards in the box.",
       "description": "Arleedyn packs a 100 dB alarm into a tag that weighs 0.28 oz each, and the IP68 water rating covers immersion beyond the IP67 tags. Setup lets you choose the Apple or the Google network. In the box are four cases, four lanyards and four opening tools, so the tags attach to keys and bags immediately.\n\nIt ranks second because loudness and the IP68 rating matter in the real world, and the included cases save a separate purchase. The KIUP's 120 dB speaker is louder, but it is a wallet card. Against the UGREEN, the Arleedyn lists no battery life, which is the missing number that keeps it below first.\n\nBest for keys, bags and gear that get wet. The caveat is the unstated battery life, so ask the seller before relying on it.",
       "keySpecs": [
-        { "label": "Networks", "value": "Apple Find My or Google Find Hub" },
-        { "label": "Alarm", "value": "100 dB" },
-        { "label": "Water rating", "value": "IP68" },
-        { "label": "In the box", "value": "4 cases, 4 lanyards, 4 tools" }
+        {
+          "label": "Networks",
+          "value": "Apple Find My or Google Find Hub"
+        },
+        {
+          "label": "Alarm",
+          "value": "100 dB"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "In the box",
+          "value": "4 cases, 4 lanyards, 4 tools"
+        }
       ],
       "pros": [
         "100 dB alarm",
@@ -86,10 +110,22 @@
       "verdict": "Apple MFi and Google certified, up to 180 ft of Bluetooth range, sharing with up to 5 users and no subscription.",
       "description": "Reyke lists certification from Apple MFi and Google, a Bluetooth range of up to 180 ft, and sharing with up to five users plus the owner. It needs Android 9 or newer, or iOS 14 or newer, and there is no subscription. It joins Apple Find My or Google Find Hub.\n\nIt ranks third because the range figure is a best-case number and the listing is thinner on battery detail than the UGREEN. Against the coioc, which lists 120 ft, the Reyke claims 50% more range, which matters mostly in open spaces. Sharing for up to five people suits a family, and the no-subscription note is a plus.\n\nBest for families sharing tags. The caveat is that open-air range collapses indoors, so treat 180 ft as theoretical.",
       "keySpecs": [
-        { "label": "Networks", "value": "Apple Find My or Google Find Hub" },
-        { "label": "Range", "value": "Up to 180 ft Bluetooth" },
-        { "label": "Sharing", "value": "Up to 5 users plus owner" },
-        { "label": "Phone support", "value": "Android 9+ and iOS 14+" }
+        {
+          "label": "Networks",
+          "value": "Apple Find My or Google Find Hub"
+        },
+        {
+          "label": "Range",
+          "value": "Up to 180 ft Bluetooth"
+        },
+        {
+          "label": "Sharing",
+          "value": "Up to 5 users plus owner"
+        },
+        {
+          "label": "Phone support",
+          "value": "Android 9+ and iOS 14+"
+        }
       ],
       "pros": [
         "Apple MFi and Google certified",
@@ -116,10 +152,22 @@
       "verdict": "Certified by Apple and Google, IP67 waterproof, with a replaceable battery and 120 ft range.",
       "description": "coioc is certified by Apple and Google and joins either Google Find Hub or Apple Find My. The battery is replaceable, the IP67 rating covers rain and short immersion, and the Bluetooth range is listed at up to 120 ft. A sharing mode lets another person see the tag.\n\nIt ranks fourth because the IP67 rating is a step below the Arleedyn's IP68 and it lists no alarm volume. Against the UGREEN, the replaceable cell is the trade: you swap batteries instead of charging. The pack of four sits in the $25 to $50 bucket, the same as the three above.\n\nBest for people who prefer swapping a coin cell. The caveat is that the listing gives no battery life, so you do not know how often you will swap.",
       "keySpecs": [
-        { "label": "Networks", "value": "Google Find Hub or Apple Find My" },
-        { "label": "Water rating", "value": "IP67" },
-        { "label": "Battery", "value": "Replaceable" },
-        { "label": "Range", "value": "Up to 120 ft" }
+        {
+          "label": "Networks",
+          "value": "Google Find Hub or Apple Find My"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP67"
+        },
+        {
+          "label": "Battery",
+          "value": "Replaceable"
+        },
+        {
+          "label": "Range",
+          "value": "Up to 120 ft"
+        }
       ],
       "pros": [
         "Replaceable battery",
@@ -146,10 +194,22 @@
       "verdict": "A 0.06 inch thin card with a speaker up to 120 dB, IP68 waterproofing and UWB distance display.",
       "description": "KIUP is built to sit in a wallet slot: 0.06 inch thick, IP68 waterproof, with a speaker rated up to 120 dB and a UWB distance display. Either Apple's or Google's network can be chosen at setup. The listing claims a battery life of 5 to 10 years, a claim we treat with caution until owners confirm it.\n\nIt ranks fifth because one card is not a set, and the wallet form factor serves one job. The 120 dB speaker is louder than the Arleedyn's 100 dB, which helps in a loud bag. UWB distance display adds precision finding. It costs under $25.\n\nBest for wallets and passport holders. The caveat is the seller's 5 to 10 year battery claim, which is unusually long.",
       "keySpecs": [
-        { "label": "Thickness", "value": "0.06 inch card" },
-        { "label": "Speaker", "value": "Up to 120 dB" },
-        { "label": "Water rating", "value": "IP68" },
-        { "label": "Extras", "value": "UWB distance display" }
+        {
+          "label": "Thickness",
+          "value": "0.06 inch card"
+        },
+        {
+          "label": "Speaker",
+          "value": "Up to 120 dB"
+        },
+        {
+          "label": "Water rating",
+          "value": "IP68"
+        },
+        {
+          "label": "Extras",
+          "value": "UWB distance display"
+        }
       ],
       "pros": [
         "Ultra-thin wallet card",
@@ -176,10 +236,22 @@
       "verdict": "Works on iOS and Android through the Tile app and network, rings your phone and adds an SOS alert.",
       "description": "Tile works on iOS and Android using its own app and network, not Apple Find My or Google Find Hub. It rings your phone even when silenced, includes a discreet SOS alert and ties into the Life360 family map. The pack of four costs $50 to $100.\n\nLast place follows from its network is independent of the two big ones, so finding depends on how many Tile users are nearby. The certified tags above tap Apple and Google's networks. What Tile offers instead is a mature app, the phone-finding feature and the Life360 link for families.\n\nBest for families already on Life360. The caveat is the higher price for four tags and a smaller finding network.",
       "keySpecs": [
-        { "label": "Platforms", "value": "iOS and Android" },
-        { "label": "Network", "value": "Tile app and network" },
-        { "label": "Find phone", "value": "Rings even when silenced" },
-        { "label": "Safety", "value": "Discreet SOS alert, Life360 map" }
+        {
+          "label": "Platforms",
+          "value": "iOS and Android"
+        },
+        {
+          "label": "Network",
+          "value": "Tile app and network"
+        },
+        {
+          "label": "Find phone",
+          "value": "Rings even when silenced"
+        },
+        {
+          "label": "Safety",
+          "value": "Discreet SOS alert, Life360 map"
+        }
       ],
       "pros": [
         "Works on iOS and Android",
@@ -245,25 +317,58 @@
       "subheading": "By Network",
       "intro": "Choose the network that matches your phones.",
       "table": {
-        "headers": ["Network", "Our pick"],
+        "headers": [
+          "Network",
+          "Our pick"
+        ],
         "rows": [
-          ["Apple Find My or Google Find Hub, rechargeable", "UGREEN Finder Duo Air Tracker Tags 4 Pack"],
-          ["Either network, rugged", "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"],
-          ["Either network, long range", "Reyke 2026 Dual-System Tracker Tags 4-Pack"],
-          ["Either network, swappable battery", "coioc Air Tracker Tags 4-Pack, Find Hub and Find My"],
-          ["Tile's own network", "Life360 Tile Bluetooth Tracker 4-Pack"]
+          [
+            "Apple Find My or Google Find Hub, rechargeable",
+            "UGREEN Finder Duo Air Tracker Tags 4 Pack"
+          ],
+          [
+            "Either network, rugged",
+            "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"
+          ],
+          [
+            "Either network, long range",
+            "Reyke 2026 Dual-System Tracker Tags 4-Pack"
+          ],
+          [
+            "Either network, swappable battery",
+            "coioc Air Tracker Tags 4-Pack, Find Hub and Find My"
+          ],
+          [
+            "Tile's own network",
+            "Life360 Tile Bluetooth Tracker 4-Pack"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, wallet", "KIUP Wallet Tracker Card, Find My and Find Hub"],
-          ["$25 to $50, best overall", "UGREEN Finder Duo Air Tracker Tags 4 Pack"],
-          ["$25 to $50, waterproof", "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"],
-          ["$50 to $100", "Life360 Tile Bluetooth Tracker 4-Pack"]
+          [
+            "Under $25, wallet",
+            "KIUP Wallet Tracker Card, Find My and Find Hub"
+          ],
+          [
+            "$25 to $50, best overall",
+            "UGREEN Finder Duo Air Tracker Tags 4 Pack"
+          ],
+          [
+            "$25 to $50, waterproof",
+            "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"
+          ],
+          [
+            "$50 to $100",
+            "Life360 Tile Bluetooth Tracker 4-Pack"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Item Tracked",
       "table": {
-        "headers": ["Item", "Our pick"],
+        "headers": [
+          "Item",
+          "Our pick"
+        ],
         "rows": [
-          ["Keys and bags", "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"],
-          ["Wallet or passport", "KIUP Wallet Tracker Card, Find My and Find Hub"],
-          ["Family items, shared", "Reyke 2026 Dual-System Tracker Tags 4-Pack"],
-          ["Kids and family map", "Life360 Tile Bluetooth Tracker 4-Pack"]
+          [
+            "Keys and bags",
+            "Arleedyn 2026 Air Tags 4 Pack for Android and iOS"
+          ],
+          [
+            "Wallet or passport",
+            "KIUP Wallet Tracker Card, Find My and Find Hub"
+          ],
+          [
+            "Family items, shared",
+            "Reyke 2026 Dual-System Tracker Tags 4-Pack"
+          ],
+          [
+            "Kids and family map",
+            "Life360 Tile Bluetooth Tracker 4-Pack"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most mixed households the UGREEN Finder Duo Air 4 Pack is the best cross-platform tracker: Apple and Google certification, a rechargeable battery and four tags. The Arleedyn is the pick for loud, waterproof gear, the Reyke for shared family use, and the KIUP card for wallets.",
-  "related": []
+  "related": [
+    "best-bluetooth-trackers",
+    "best-bluetooth-trackers-for-android",
+    "best-bluetooth-trackers-for-keys"
+  ]
 }

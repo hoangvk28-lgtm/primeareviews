@@ -26,10 +26,22 @@
       "verdict": "Wi-Fi 6 AX3000 with 2402 + 574 Mbps bands that works as a mesh node or a standalone router.",
       "description": "The X55 is a Wi-Fi 6 AX3000 unit with band speeds of 2402 Mbps and 574 Mbps and rated coverage of up to 2,500 sq ft per unit. It works either as a mesh node or as a standalone router.\n\nIt wins because it is the only one here you can start with one unit and grow. The Deco X15 is cheaper but slower, and the XE75 and Deco 7 cost $200 to $500. At $50 to $100 the X55 is the sweet spot.\n\nBuy it for most homes that want one seamless network. The caveat is that a single unit covers about 2,500 sq ft, so larger houses need extra nodes.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 AX3000" },
-        { "label": "Band speeds", "value": "2402 + 574 Mbps" },
-        { "label": "Coverage", "value": "Up to 2,500 sq ft per unit" },
-        { "label": "Role", "value": "Mesh node or router" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 AX3000"
+        },
+        {
+          "label": "Band speeds",
+          "value": "2402 + 574 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,500 sq ft per unit"
+        },
+        {
+          "label": "Role",
+          "value": "Mesh node or router"
+        }
       ],
       "pros": [
         "Works as node or router",
@@ -56,10 +68,22 @@
       "verdict": "Wi-Fi 6E tri-band with a dedicated 6 GHz band and up to 7,200 sq ft across three units.",
       "description": "Three units deliver Wi-Fi 6E AXE5400 on three bands, including 6 GHz at 2402 Mbps, with coverage of up to 7,200 sq ft for the pack.\n\nThe third band is the difference: it can carry traffic between nodes so devices keep the other two bands. That makes it better than the X55 in large, crowded houses, but at $200 to $500 it costs several times as much.\n\nBuy it for a big, multi-room house with many devices. The caveat is that 6 GHz needs 6E-capable devices to benefit and the cost is high.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6E AXE5400" },
-        { "label": "Bands", "value": "Tri-band including 6 GHz" },
-        { "label": "6 GHz speed", "value": "2402 Mbps" },
-        { "label": "Coverage", "value": "Up to 7,200 sq ft (3-pack)" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6E AXE5400"
+        },
+        {
+          "label": "Bands",
+          "value": "Tri-band including 6 GHz"
+        },
+        {
+          "label": "6 GHz speed",
+          "value": "2402 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 7,200 sq ft (3-pack)"
+        }
       ],
       "pros": [
         "Dedicated 6 GHz band",
@@ -86,10 +110,22 @@
       "verdict": "Wi-Fi 7 BE5000 with 4324 Mbps on 5 GHz and 2.5G Ethernet for a wired node.",
       "description": "Wi-Fi 7 BE5000 brings 4324 Mbps on 5 GHz and 688 Mbps on 2.4 GHz, up to 6,600 sq ft of coverage, and 2.5G Ethernet.\n\nIt ranks third because Wi-Fi 7 gear only pays off when your devices support it. The 2.5G port is its best feature, as a wired node avoids the speed loss of a wireless hop. Against the XE75 it adds a newer standard but not a third band.\n\nBuy it if you are upgrading and can wire at least one node. The caveat is price, $200 to $500.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 7 BE5000" },
-        { "label": "5 GHz speed", "value": "4324 Mbps" },
-        { "label": "Coverage", "value": "Up to 6,600 sq ft" },
-        { "label": "Wired", "value": "2.5G Ethernet" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 7 BE5000"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "4324 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 6,600 sq ft"
+        },
+        {
+          "label": "Wired",
+          "value": "2.5G Ethernet"
+        }
       ],
       "pros": [
         "Wi-Fi 7 standard",
@@ -116,10 +152,22 @@
       "verdict": "Dual-band Wi-Fi 6 AX1500 for up to 2,100 sq ft and 120 devices at the lowest price.",
       "description": "Wi-Fi 6 AX1500 on two bands, rated for up to 2,100 sq ft and up to 120 devices. At $25 to $50 it is the cheapest way into Deco.\n\nIt ranks fourth because its speed class is a clear step below the X55: AX1500 against AX3000. That is plenty for a small home, and the one-network handoff is the same.\n\nBuy it for an apartment or small home. The caveat is that its bandwidth is lower, so heavy 4K streaming households should step up.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 AX1500" },
-        { "label": "Bands", "value": "Dual band" },
-        { "label": "Coverage", "value": "Up to 2,100 sq ft" },
-        { "label": "Devices", "value": "Up to 120" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 AX1500"
+        },
+        {
+          "label": "Bands",
+          "value": "Dual band"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,100 sq ft"
+        },
+        {
+          "label": "Devices",
+          "value": "Up to 120"
+        }
       ],
       "pros": [
         "Lowest-priced Deco",
@@ -146,10 +194,22 @@
       "verdict": "A waterproof, dustproof AX3000 outdoor node powered over a single Ethernet cable.",
       "description": "This outdoor mesh add-on is Wi-Fi 6 AX3000 dual-band, waterproof and dustproof, and takes both data and power over one Ethernet cable via PoE. It needs an indoor Deco mesh to work.\n\nIt ranks fifth because it extends a Deco system instead of replacing one. Its value is reaching a yard, workshop or guest house, which an indoor extender cannot do.\n\nBuy it if outdoor coverage matters. The caveat is that you need a PoE source and a cable run, and $100 to $200 is a lot for a single node.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 AX3000" },
-        { "label": "Bands", "value": "Dual band" },
-        { "label": "Rating", "value": "Waterproof, dustproof" },
-        { "label": "Power", "value": "PoE over one Ethernet cable" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 AX3000"
+        },
+        {
+          "label": "Bands",
+          "value": "Dual band"
+        },
+        {
+          "label": "Rating",
+          "value": "Waterproof, dustproof"
+        },
+        {
+          "label": "Power",
+          "value": "PoE over one Ethernet cable"
+        }
       ],
       "pros": [
         "Weatherproof construction",
@@ -176,10 +236,22 @@
       "verdict": "An AX1800 outdoor add-on with 1200 + 574 Mbps bands for a patio, deck or pool area.",
       "description": "Wi-Fi 6 AX1800 outdoor mesh add-on with 1200 Mbps on 5 GHz, 574 Mbps on 2.4 GHz and four streams. It requires an indoor Deco mesh.\n\nIt ranks last because it is the slowest Deco here and cannot work alone. Next to the X50-Outdoor it trades speed for a lower $50 to $100 price, which is right for a patio.\n\nBuy it for a deck or pool area. The caveat is that it cannot serve a full yard at AX3000 speeds.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 AX1800" },
-        { "label": "5 GHz speed", "value": "1200 Mbps" },
-        { "label": "2.4 GHz speed", "value": "574 Mbps" },
-        { "label": "Streams", "value": "4-stream" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 AX1800"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "1200 Mbps"
+        },
+        {
+          "label": "2.4 GHz speed",
+          "value": "574 Mbps"
+        },
+        {
+          "label": "Streams",
+          "value": "4-stream"
+        }
       ],
       "pros": [
         "Lower outdoor price",
@@ -245,24 +317,54 @@
       "subheading": "By Home Size",
       "intro": "Start with square footage and device count.",
       "table": {
-        "headers": ["Home", "Our pick"],
+        "headers": [
+          "Home",
+          "Our pick"
+        ],
         "rows": [
-          ["Apartment or small home", "TP-Link Deco X15 AX1500"],
-          ["Mid-size home, one or two floors", "TP-Link Deco X55 AX3000 (1-Pack)"],
-          ["Large home with many devices", "TP-Link Deco XE75 AXE5400 (3-Pack)"],
-          ["Large home, wired node possible", "TP-Link Deco 7 BE5000"]
+          [
+            "Apartment or small home",
+            "TP-Link Deco X15 AX1500"
+          ],
+          [
+            "Mid-size home, one or two floors",
+            "TP-Link Deco X55 AX3000 (1-Pack)"
+          ],
+          [
+            "Large home with many devices",
+            "TP-Link Deco XE75 AXE5400 (3-Pack)"
+          ],
+          [
+            "Large home, wired node possible",
+            "TP-Link Deco 7 BE5000"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "TP-Link Deco X15 AX1500"],
-          ["$50 to $100", "TP-Link Deco X55 AX3000 (1-Pack)"],
-          ["$100 to $200", "TP-Link Deco X50-Outdoor AX3000"],
-          ["$200 to $500", "TP-Link Deco XE75 AXE5400 (3-Pack)"]
+          [
+            "$25 to $50",
+            "TP-Link Deco X15 AX1500"
+          ],
+          [
+            "$50 to $100",
+            "TP-Link Deco X55 AX3000 (1-Pack)"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link Deco X50-Outdoor AX3000"
+          ],
+          [
+            "$200 to $500",
+            "TP-Link Deco XE75 AXE5400 (3-Pack)"
+          ]
         ]
       }
     },
@@ -283,11 +385,23 @@
     {
       "subheading": "By Number of Bands",
       "table": {
-        "headers": ["Bands", "Our pick"],
+        "headers": [
+          "Bands",
+          "Our pick"
+        ],
         "rows": [
-          ["Dual band", "TP-Link Deco X55 AX3000 (1-Pack)"],
-          ["Tri-band with 6 GHz", "TP-Link Deco XE75 AXE5400 (3-Pack)"],
-          ["Dual band, outdoor", "TP-Link Deco X20-Outdoor AX1800"]
+          [
+            "Dual band",
+            "TP-Link Deco X55 AX3000 (1-Pack)"
+          ],
+          [
+            "Tri-band with 6 GHz",
+            "TP-Link Deco XE75 AXE5400 (3-Pack)"
+          ],
+          [
+            "Dual band, outdoor",
+            "TP-Link Deco X20-Outdoor AX1800"
+          ]
         ]
       }
     },
@@ -345,5 +459,9 @@
     }
   ],
   "finalTake": "The TP-Link Deco X55 AX3000 (1-Pack) is the best Deco for most people: Wi-Fi 6 speeds, up to 2,500 sq ft per unit and room to grow. Choose the XE75 3-pack for large homes, the Deco 7 for Wi-Fi 7 and a wired node, and the X15 for apartments. The outdoor models are add-ons only, so buy them after the indoor mesh is working.",
-  "related": []
+  "related": [
+    "best-5ghz-wi-fi-extenders",
+    "best-dual-band-wi-fi-extenders",
+    "best-long-range-wi-fi-extenders"
+  ]
 }

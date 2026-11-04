@@ -26,10 +26,22 @@
       "verdict": "States both 14,000 BTU ASHRAE and 10,200 BTU SACC, with heat and a full remote.",
       "description": "BLACK+DECKER lists 14,000 BTU ASHRAE and 10,200 BTU SACC, includes a heating mode, and comes with a full-function remote control. The body measures 16.5 x 14.06 x 27.09 inches, which fits beside a window or bed.\n\nIt wins because it is the only listing that shows both cooling ratings, so you can judge it on the figure that matters. Against the GrowthWing it gives up app control in the listing text, but it adds heat, which stretches its use into spring and autumn.\n\nBuy it for a bedroom or small office. It sits in the $200 to $500 bracket. The caveat is that the SACC rating is lower, so size it by 10,200 BTU, not 14,000.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "14,000 BTU" },
-        { "label": "SACC rating", "value": "10,200 BTU" },
-        { "label": "Size", "value": "16.5 x 14.06 x 27.09 in" },
-        { "label": "Extras", "value": "Heat mode, full remote" }
+        {
+          "label": "ASHRAE rating",
+          "value": "14,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "10,200 BTU"
+        },
+        {
+          "label": "Size",
+          "value": "16.5 x 14.06 x 27.09 in"
+        },
+        {
+          "label": "Extras",
+          "value": "Heat mode, full remote"
+        }
       ],
       "pros": [
         "Both cooling ratings stated",
@@ -55,10 +67,22 @@
       "verdict": "App and voice control with a self-evaporating drain system.",
       "description": "GrowthWing's name says 14,000 BTU, but the listing text reads 12,000 BTU ASHRAE with an upgraded compressor, so the two figures disagree. It offers app and voice control, and a self-evaporating system that reduces manual drainage.\n\nThe self-evaporating drain is the practical advantage: portable units collect condensate, and most need regular emptying. Here that chore is reduced. It ranks second because the BLACK+DECKER states its ratings more clearly, while this listing contradicts itself on BTU.\n\nBuy it if you want to schedule cooling from your phone. Treat 12,000 BTU ASHRAE as the working number and check the product page for the true rating.",
       "keySpecs": [
-        { "label": "Named rating", "value": "14,000 BTU in title" },
-        { "label": "Listed rating", "value": "12,000 BTU ASHRAE in text" },
-        { "label": "Control", "value": "App and voice" },
-        { "label": "Drainage", "value": "Self-evaporating" }
+        {
+          "label": "Named rating",
+          "value": "14,000 BTU in title"
+        },
+        {
+          "label": "Listed rating",
+          "value": "12,000 BTU ASHRAE in text"
+        },
+        {
+          "label": "Control",
+          "value": "App and voice"
+        },
+        {
+          "label": "Drainage",
+          "value": "Self-evaporating"
+        }
       ],
       "pros": [
         "App and voice control",
@@ -84,10 +108,22 @@
       "verdict": "An 8,500 BTU ASHRAE unit rated for up to 150 sq ft, with smart control.",
       "description": "Midea's unit is rated 8,500 BTU ASHRAE and states coverage of up to 150 sq ft, with smart control and a simple operating pitch. It is the smallest unit here and falls in the $100 to $200 bracket, the lowest of the group.\n\nIt ranks third because it covers far less space than the 14,000 BTU units, but it is honest about it. A stated 150 sq ft is a number you can match to a dorm or a small bedroom. Smart control is a useful extra at this price.\n\nBuy it for a small room, and do not stretch it to a living area. The listing also gives 5,000 for a second rating that is cut off, so check the page for the SACC figure.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "8,500 BTU" },
-        { "label": "Coverage", "value": "Up to 150 sq ft" },
-        { "label": "Control", "value": "Smart control" },
-        { "label": "Price", "value": "$100 to $200" }
+        {
+          "label": "ASHRAE rating",
+          "value": "8,500 BTU"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 150 sq ft"
+        },
+        {
+          "label": "Control",
+          "value": "Smart control"
+        },
+        {
+          "label": "Price",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Stated 150 sq ft coverage",
@@ -113,10 +149,22 @@
       "verdict": "A 14,000 BTU unit that doubles as a dehumidifier and a fan.",
       "description": "SereneLife markets a 3-in-1 portable air conditioner with a built-in dehumidifier and fan at 14,000 BTU. The listing gives no ASHRAE or SACC split, so the 14,000 figure stands without context.\n\nIt ranks fourth because the BLACK+DECKER is clear about its numbers and this one is not. The dehumidify mode adds real value in damp basements, where moisture is the problem as much as heat. Without a stated room size or SACC rating, you must assume the real cooling is lower than 14,000.\n\nBuy it for a humid room that needs a fan and dehumidifier too. It falls in the $200 to $500 bracket.",
       "keySpecs": [
-        { "label": "Named rating", "value": "14,000 BTU" },
-        { "label": "Modes", "value": "Cool, dehumidify, fan" },
-        { "label": "Type", "value": "3-in-1" },
-        { "label": "Price", "value": "$200 to $500" }
+        {
+          "label": "Named rating",
+          "value": "14,000 BTU"
+        },
+        {
+          "label": "Modes",
+          "value": "Cool, dehumidify, fan"
+        },
+        {
+          "label": "Type",
+          "value": "3-in-1"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Dehumidifier mode",
@@ -142,10 +190,22 @@
       "verdict": "A 14,000 BTU 3-in-1 unit with a Comfort Sleep Mode and quick window setup.",
       "description": "Garvee offers a 14,000 BTU 3-in-1 portable air conditioner with a Comfort Sleep Mode and quick window installation. Like the SereneLife, the listing gives no ASHRAE or SACC split and no room size.\n\nIt ranks fifth because the sleep mode is the only detail that sets it apart. A sleep mode is aimed squarely at bedroom use. Quick window installation matters because a poor window seal lets hot air back into the room.\n\nBuy it for a bedroom, and double-check the window kit fits your window type. It costs $200 to $500.",
       "keySpecs": [
-        { "label": "Named rating", "value": "14,000 BTU" },
-        { "label": "Type", "value": "3-in-1" },
-        { "label": "Mode", "value": "Comfort Sleep Mode" },
-        { "label": "Install", "value": "Quick window installation" }
+        {
+          "label": "Named rating",
+          "value": "14,000 BTU"
+        },
+        {
+          "label": "Type",
+          "value": "3-in-1"
+        },
+        {
+          "label": "Mode",
+          "value": "Comfort Sleep Mode"
+        },
+        {
+          "label": "Install",
+          "value": "Quick window installation"
+        }
       ],
       "pros": [
         "Comfort Sleep Mode",
@@ -171,10 +231,22 @@
       "verdict": "A 12000 BTU unit with a heater, rated by name for up to 450 sq ft.",
       "description": "Uhome's name claims 12000 BTU, a heater and coverage up to 450 sq ft. The listing text we have is limited to a refrigerant notice, so the BTU basis, ASHRAE or SACC, is not specified.\n\nIt ranks last because 450 sq ft from 12,000 BTU looks optimistic next to Midea's 8,500 BTU for 150 sq ft, and there is little else to verify. A heater is a useful extra for shoulder seasons, though the listing gives no heating output.\n\nBuy it only if you need the combination and check the product page for a clear rating. It falls in the $200 to $500 bracket.",
       "keySpecs": [
-        { "label": "Named rating", "value": "12000 BTU" },
-        { "label": "Coverage", "value": "Up to 450 sq ft (name)" },
-        { "label": "Extra", "value": "Heater" },
-        { "label": "Price", "value": "$200 to $500" }
+        {
+          "label": "Named rating",
+          "value": "12000 BTU"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 450 sq ft (name)"
+        },
+        {
+          "label": "Extra",
+          "value": "Heater"
+        },
+        {
+          "label": "Price",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Heater included",
@@ -191,87 +263,199 @@
     }
   ],
   "methodology": [
-    { "title": "Stated cooling rating", "description": "Listings that state ASHRAE and SACC figures count above a single unlabeled BTU number." },
-    { "title": "Room size", "description": "Stated coverage in square feet is compared with BTU to check whether claims are plausible." },
-    { "title": "Smart and manual controls", "description": "App, voice, remote and sleep modes decide how the unit fits daily use." },
-    { "title": "Drainage and installation", "description": "Self-evaporating drainage and window kits decide the ongoing chores." },
-    { "title": "Value", "description": "Price bucket is weighed against rating clarity and extras." }
+    {
+      "title": "Stated cooling rating",
+      "description": "Listings that state ASHRAE and SACC figures count above a single unlabeled BTU number."
+    },
+    {
+      "title": "Room size",
+      "description": "Stated coverage in square feet is compared with BTU to check whether claims are plausible."
+    },
+    {
+      "title": "Smart and manual controls",
+      "description": "App, voice, remote and sleep modes decide how the unit fits daily use."
+    },
+    {
+      "title": "Drainage and installation",
+      "description": "Self-evaporating drainage and window kits decide the ongoing chores."
+    },
+    {
+      "title": "Value",
+      "description": "Price bucket is weighed against rating clarity and extras."
+    }
   ],
   "whatMatters": [
-    { "factor": "ASHRAE vs SACC", "detail": "ASHRAE is the larger headline number, and SACC is a lower rating closer to real cooling. The BLACK+DECKER lists 14,000 ASHRAE and 10,200 SACC. Size the unit by the SACC value, and be wary of listings that give only one unlabeled BTU number." },
-    { "factor": "Room size", "detail": "A unit's stated square footage should match its BTU. Midea claims 150 sq ft from 8,500 BTU ASHRAE. A claim of 450 sq ft from 12000 BTU, like the Uhome's, looks generous. Check the listing for a coverage number and compare it with the BTU." },
-    { "factor": "Drainage", "detail": "Portable units collect condensate. Self-evaporating systems, like the GrowthWing's, reduce how often you empty a tank. Others need regular draining. Check whether the listing mentions self-evaporation or a drain hose. In humid weather even a self-evaporating unit may need an occasional drain, so ask how overflow is handled." },
-    { "factor": "Window kit", "detail": "A portable unit vents hot air through a hose and window kit. A poor seal lets hot air return. Garvee lists quick window installation. Check that the kit fits your window type, and measure the opening before you buy. Sliding and casement windows often need different adapters, and gaps around the panel are where cool air leaks out." },
-    { "factor": "Extra modes", "detail": "Dehumidify, fan, heat and sleep modes extend a unit's use. SereneLife and Garvee are 3-in-1, and the BLACK+DECKER and Uhome heat. Check which modes the listing names, and whether they matter in your climate. A heat mode helps in mild seasons but rarely replaces a real heater in a cold room." }
+    {
+      "factor": "ASHRAE vs SACC",
+      "detail": "ASHRAE is the larger headline number, and SACC is a lower rating closer to real cooling. The BLACK+DECKER lists 14,000 ASHRAE and 10,200 SACC. Size the unit by the SACC value, and be wary of listings that give only one unlabeled BTU number."
+    },
+    {
+      "factor": "Room size",
+      "detail": "A unit's stated square footage should match its BTU. Midea claims 150 sq ft from 8,500 BTU ASHRAE. A claim of 450 sq ft from 12000 BTU, like the Uhome's, looks generous. Check the listing for a coverage number and compare it with the BTU."
+    },
+    {
+      "factor": "Drainage",
+      "detail": "Portable units collect condensate. Self-evaporating systems, like the GrowthWing's, reduce how often you empty a tank. Others need regular draining. Check whether the listing mentions self-evaporation or a drain hose. In humid weather even a self-evaporating unit may need an occasional drain, so ask how overflow is handled."
+    },
+    {
+      "factor": "Window kit",
+      "detail": "A portable unit vents hot air through a hose and window kit. A poor seal lets hot air return. Garvee lists quick window installation. Check that the kit fits your window type, and measure the opening before you buy. Sliding and casement windows often need different adapters, and gaps around the panel are where cool air leaks out."
+    },
+    {
+      "factor": "Extra modes",
+      "detail": "Dehumidify, fan, heat and sleep modes extend a unit's use. SereneLife and Garvee are 3-in-1, and the BLACK+DECKER and Uhome heat. Check which modes the listing names, and whether they matter in your climate. A heat mode helps in mild seasons but rarely replaces a real heater in a cold room."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Room Size",
       "intro": "Size by stated coverage and the SACC figure where given.",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to 150 sq ft", "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft."],
-          ["Bedroom or office", "BLACK+DECKER Smart Portable Air Conditioner with Heat"],
-          ["Smart-home bedroom", "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"],
-          ["Larger room with heat", "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft"]
+          [
+            "Up to 150 sq ft",
+            "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft."
+          ],
+          [
+            "Bedroom or office",
+            "BLACK+DECKER Smart Portable Air Conditioner with Heat"
+          ],
+          [
+            "Smart-home bedroom",
+            "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"
+          ],
+          [
+            "Larger room with heat",
+            "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200", "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft."],
-          ["$200 to $500, clear ratings", "BLACK+DECKER Smart Portable Air Conditioner with Heat"],
-          ["$200 to $500, smart", "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"]
+          [
+            "$100 to $200",
+            "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft."
+          ],
+          [
+            "$200 to $500, clear ratings",
+            "BLACK+DECKER Smart Portable Air Conditioner with Heat"
+          ],
+          [
+            "$200 to $500, smart",
+            "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"
+          ]
         ]
       }
     },
     {
       "subheading": "Cool-Only vs Multi-Mode",
       "cards": [
-        { "label": "Multi-mode", "text": "SereneLife and Garvee combine cooling, dehumidifying and fan. The BLACK+DECKER and Uhome add heat." },
-        { "label": "Simple", "text": "The Midea keeps to cooling with smart control, which is easier to size and operate." }
+        {
+          "label": "Multi-mode",
+          "text": "SereneLife and Garvee combine cooling, dehumidifying and fan. The BLACK+DECKER and Uhome add heat."
+        },
+        {
+          "label": "Simple",
+          "text": "The Midea keeps to cooling with smart control, which is easier to size and operate."
+        }
       ],
       "note": "Choose multi-mode if humidity or shoulder seasons matter."
     },
     {
       "subheading": "By Convenience Feature",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["Self-evaporating drain", "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"],
-          ["Sleep mode", "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner"],
-          ["Dehumidifier", "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"],
-          ["Full remote", "BLACK+DECKER Smart Portable Air Conditioner with Heat"]
+          [
+            "Self-evaporating drain",
+            "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner"
+          ],
+          [
+            "Sleep mode",
+            "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner"
+          ],
+          [
+            "Dehumidifier",
+            "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
+          ],
+          [
+            "Full remote",
+            "BLACK+DECKER Smart Portable Air Conditioner with Heat"
+          ]
         ]
       }
     },
     {
       "subheading": "For Bedrooms Specifically",
       "cards": [
-        { "label": "Look for", "text": "A sleep mode, a clearly stated rating and a window kit that seals. Size by SACC if given." },
-        { "label": "In this ranking", "text": "The Garvee has a Comfort Sleep Mode, and the BLACK+DECKER states its ratings clearly." }
+        {
+          "label": "Look for",
+          "text": "A sleep mode, a clearly stated rating and a window kit that seals. Size by SACC if given."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Garvee has a Comfort Sleep Mode, and the BLACK+DECKER states its ratings clearly."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You want the clearest ratings and a heat mode, as with the BLACK+DECKER." },
-        { "label": "Save if", "text": "You have a small room, where the Midea is enough." }
+        {
+          "label": "Spend more if",
+          "text": "You want the clearest ratings and a heat mode, as with the BLACK+DECKER."
+        },
+        {
+          "label": "Save if",
+          "text": "You have a small room, where the Midea is enough."
+        }
       ]
     }
   ],
   "faq": [
-    { "q": "Do these need a window?", "a": "Yes. Portable units vent hot air through a hose, usually via a window kit. Garvee lists quick window installation, and the others use similar kits. Check that the kit fits your window type." },
-    { "q": "What mistake do buyers make?", "a": "Sizing by the headline BTU. The BLACK+DECKER shows 14,000 BTU ASHRAE but 10,200 BTU SACC. Size by the lower figure, and check the room size the listing claims. Oversizing wastes money, while undersizing leaves the compressor running nonstop." },
-    { "q": "Is the GrowthWing worth it over the BLACK+DECKER?", "a": "If app and voice control and self-evaporating drainage matter, yes. The BLACK+DECKER offers clearer ratings and a heat mode. The GrowthWing listing also contradicts itself on BTU, so verify the figure on the page before paying." },
-    { "q": "How do I set one up?", "a": "Attach the hose to the unit, fit the window kit, seal the gaps and plug in. On the GrowthWing, pair the app after the first power-up. Keep the exhaust hose short and straight to limit heat loss." },
-    { "q": "How often must I empty the water?", "a": "The GrowthWing is self-evaporating, so it needs less draining. Other units may need regular emptying in humid weather, especially the SereneLife when in dehumidify mode. Check the tank or drain port weekly during humid spells." },
-    { "q": "Can one cool a whole apartment?", "a": "Rarely. A portable unit cools one room. The Midea covers up to 150 sq ft, and larger units cover more. Close doors and keep the hose short for best results." }
+    {
+      "q": "Do these need a window?",
+      "a": "Yes. Portable units vent hot air through a hose, usually via a window kit. Garvee lists quick window installation, and the others use similar kits. Check that the kit fits your window type."
+    },
+    {
+      "q": "What mistake do buyers make?",
+      "a": "Sizing by the headline BTU. The BLACK+DECKER shows 14,000 BTU ASHRAE but 10,200 BTU SACC. Size by the lower figure, and check the room size the listing claims. Oversizing wastes money, while undersizing leaves the compressor running nonstop."
+    },
+    {
+      "q": "Is the GrowthWing worth it over the BLACK+DECKER?",
+      "a": "If app and voice control and self-evaporating drainage matter, yes. The BLACK+DECKER offers clearer ratings and a heat mode. The GrowthWing listing also contradicts itself on BTU, so verify the figure on the page before paying."
+    },
+    {
+      "q": "How do I set one up?",
+      "a": "Attach the hose to the unit, fit the window kit, seal the gaps and plug in. On the GrowthWing, pair the app after the first power-up. Keep the exhaust hose short and straight to limit heat loss."
+    },
+    {
+      "q": "How often must I empty the water?",
+      "a": "The GrowthWing is self-evaporating, so it needs less draining. Other units may need regular emptying in humid weather, especially the SereneLife when in dehumidify mode. Check the tank or drain port weekly during humid spells."
+    },
+    {
+      "q": "Can one cool a whole apartment?",
+      "a": "Rarely. A portable unit cools one room. The Midea covers up to 150 sq ft, and larger units cover more. Close doors and keep the hose short for best results."
+    }
   ],
   "finalTake": "The BLACK+DECKER Smart Portable Air Conditioner with Heat is the one to buy, because its listing states both ASHRAE and SACC ratings and includes heat and a remote. Pick the GrowthWing for smart control, the Midea for a small room, and treat the 14,000 BTU badges on SereneLife and Garvee with caution. Size by the lower rating.",
-  "related": []
+  "related": [
+    "best-10000-btu-portable-air-conditioners",
+    "best-3-in-1-portable-air-conditioners",
+    "best-whynter-portable-air-conditioners"
+  ]
 }

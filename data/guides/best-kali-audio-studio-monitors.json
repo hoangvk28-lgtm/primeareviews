@@ -26,10 +26,22 @@
       "verdict": "A 3-way coaxial monitor with an 8-inch woofer and 140 watts of tri-amplified power.",
       "description": "The in-8 V2 is a 3-way design with the midrange and tweeter mounted coaxially, driven by a tri-amplified 140 watt system and an 8-inch woofer. Tri-amplification gives each of the three drivers its own amplifier, so a deep bass note cannot distort the vocals sitting above it.\n\nIt ranks first because it is the only model here combining coaxial imaging with real low-frequency extension from the 8-inch cone. The LP-8V2 has the same woofer size but a simpler two-way layout, and the in-8 V2 costs the same $200 to $500 bucket.\n\nBuy it for a mid-sized room where you mix genres that need accurate bass. It is large for a desk, so allow depth behind the speakers.",
       "keySpecs": [
-        {"label": "Woofer", "value": "8 in"},
-        {"label": "Layout", "value": "3-way coaxial"},
-        {"label": "Power", "value": "140 W tri-amplified"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Woofer",
+          "value": "8 in"
+        },
+        {
+          "label": "Layout",
+          "value": "3-way coaxial"
+        },
+        {
+          "label": "Power",
+          "value": "140 W tri-amplified"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Coaxial 3-way imaging",
@@ -56,10 +68,22 @@
       "verdict": "The same 3-way coaxial concept as the IN-8, shrunk for small rooms.",
       "description": "The IN-5 keeps the 3-way coaxial layout and tri-amplified power of the larger IN-8 in a 5-inch package. Coaxial placement matters in small rooms because the sound arrives from a single point, which keeps imaging stable even when you shift in your chair.\n\nIt sits second because a 5-inch woofer reaches less low end than the in-8 V2 or LP-8V2, though in a bedroom that is often a benefit, since you hear less room boom. Against the LP-6 V2 it offers a more advanced design for the same $200 to $500 bucket.\n\nA strong match for bedroom studios and apartment producers. Skip it if you regularly mix the deepest bass.",
       "keySpecs": [
-        {"label": "Woofer", "value": "5 in"},
-        {"label": "Layout", "value": "3-way coaxial"},
-        {"label": "Amplification", "value": "Tri-amped"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Woofer",
+          "value": "5 in"
+        },
+        {
+          "label": "Layout",
+          "value": "3-way coaxial"
+        },
+        {
+          "label": "Amplification",
+          "value": "Tri-amped"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Coaxial 3-way imaging",
@@ -86,10 +110,22 @@
       "verdict": "A traditional two-way with an 8-inch woofer and tight bass.",
       "description": "The LP-8V2 is the conventional two-way in the range, with an 8-inch woofer and a listing that stresses tight, clean bass. Two-way designs use fewer parts, and with an 8-inch cone that means you get low-end reach without paying for a coaxial driver.\n\nIt ranks third because the in-8 V2 adds a coaxial midrange for sharper imaging, and the LP-8V2 listing gives few numbers to verify, with no wattage or driver detail. It holds the same $200 to $500 bucket as the rest of the range.\n\nBuy it if you want an 8-inch monitor in a simpler design and have the room to place it. Skip it if you need the listing to document its power.",
       "keySpecs": [
-        {"label": "Woofer", "value": "8 in"},
-        {"label": "Layout", "value": "2-way"},
-        {"label": "Strength", "value": "Tight, clean bass"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Woofer",
+          "value": "8 in"
+        },
+        {
+          "label": "Layout",
+          "value": "2-way"
+        },
+        {
+          "label": "Strength",
+          "value": "Tight, clean bass"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "8-inch woofer for low end",
@@ -116,10 +152,22 @@
       "verdict": "A 6.5-inch two-way with a soft-dome tweeter, LF and HF trims and wall mounting.",
       "description": "The LP-6 V2 pairs a 6.5-inch woofer with a 1-inch soft-dome tweeter, and adds LF and HF trim controls. Trim switches let you cut boomy bass against a wall or soften harsh highs, which is the cheapest room correction you can get on a monitor.\n\nIt sits fourth because the 6.5-inch cone is a middle step: not as deep as the LP-8V2, and without the coaxial imaging of the IN-5. It can be mounted on a wall or ceiling, which is rare at the $200 to $500 bucket.\n\nIt suits project studios with awkward layouts and anyone wanting adjustable response. Skip it if you want a monitor with Bluetooth or a coaxial layout.",
       "keySpecs": [
-        {"label": "Woofer", "value": "6.5 in"},
-        {"label": "Tweeter", "value": "1 in soft dome"},
-        {"label": "Controls", "value": "LF and HF trims"},
-        {"label": "Mounting", "value": "Wall or ceiling"}
+        {
+          "label": "Woofer",
+          "value": "6.5 in"
+        },
+        {
+          "label": "Tweeter",
+          "value": "1 in soft dome"
+        },
+        {
+          "label": "Controls",
+          "value": "LF and HF trims"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall or ceiling"
+        }
       ],
       "pros": [
         "LF and HF trim controls",
@@ -146,10 +194,22 @@
       "verdict": "A 4.5-inch ultra nearfield pair with Bluetooth and a touch-sensitive volume slider.",
       "description": "The LP-UNF is a 4.5-inch powered pair with a 1-inch tweeter, built for ultra nearfield listening, meaning speakers placed a short distance from your face. It adds Bluetooth and a touch-sensitive volume slider, so it doubles as a desktop speaker system.\n\nIt ranks fifth because compact drivers give up low end next to the IN-5 and LP-6 V2, and Bluetooth adds delay that is useless for monitoring. Still, in the same $200 to $500 bucket it is the only Kali here with wireless playback and touch control.\n\nIt works for writers, editors and light producers on a desk. Skip it for anything needing deep bass, or if you only want a wired studio tool.",
       "keySpecs": [
-        {"label": "Woofer", "value": "4.5 in"},
-        {"label": "Tweeter", "value": "1 in"},
-        {"label": "Wireless", "value": "Bluetooth"},
-        {"label": "Control", "value": "Touch volume slider"}
+        {
+          "label": "Woofer",
+          "value": "4.5 in"
+        },
+        {
+          "label": "Tweeter",
+          "value": "1 in"
+        },
+        {
+          "label": "Wireless",
+          "value": "Bluetooth"
+        },
+        {
+          "label": "Control",
+          "value": "Touch volume slider"
+        }
       ],
       "pros": [
         "Bluetooth for casual listening",
@@ -176,10 +236,22 @@
       "verdict": "A 4-inch ultra nearfield pair with a 3D imaging waveguide for tight desk setups.",
       "description": "The LP-UNFW is the smallest speaker in this ranking, a 4-inch ultra nearfield pair with a 3D imaging waveguide. The waveguide shapes how the tweeter radiates, which helps the stereo image stay focused when the speakers are only a short distance away.\n\nIt ranks last because the 4-inch woofer has the least low end of any Kali here, and it offers none of the Bluetooth or touch control of the LP-UNF. In the $200 to $500 bucket it is pricey for its size, so choose it for fit, not value.\n\nPick it for a crowded desk where larger monitors will not fit. Skip it if the room is large or you need to judge bass.",
       "keySpecs": [
-        {"label": "Woofer", "value": "4 in"},
-        {"label": "Design", "value": "Ultra nearfield"},
-        {"label": "Feature", "value": "3D imaging waveguide"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "Woofer",
+          "value": "4 in"
+        },
+        {
+          "label": "Design",
+          "value": "Ultra nearfield"
+        },
+        {
+          "label": "Feature",
+          "value": "3D imaging waveguide"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Smallest footprint here",
@@ -197,11 +269,26 @@
     }
   ],
   "methodology": [
-    {"title": "Driver layout", "description": "Coaxial 3-way designs were weighed against conventional two-way layouts for imaging stability and midrange clarity."},
-    {"title": "Amplifier design", "description": "Tri-amplified and stated wattage figures scored above listings that publish no power details."},
-    {"title": "Room fit", "description": "We matched each woofer size to a realistic room, since a monitor that overwhelms its space is not a good monitor."},
-    {"title": "Placement flexibility", "description": "Trim controls and wall or ceiling mounting were credited for helping untreated rooms."},
-    {"title": "Extras", "description": "Bluetooth and touch control were treated as conveniences, not substitutes for monitoring accuracy."}
+    {
+      "title": "Driver layout",
+      "description": "Coaxial 3-way designs were weighed against conventional two-way layouts for imaging stability and midrange clarity."
+    },
+    {
+      "title": "Amplifier design",
+      "description": "Tri-amplified and stated wattage figures scored above listings that publish no power details."
+    },
+    {
+      "title": "Room fit",
+      "description": "We matched each woofer size to a realistic room, since a monitor that overwhelms its space is not a good monitor."
+    },
+    {
+      "title": "Placement flexibility",
+      "description": "Trim controls and wall or ceiling mounting were credited for helping untreated rooms."
+    },
+    {
+      "title": "Extras",
+      "description": "Bluetooth and touch control were treated as conveniences, not substitutes for monitoring accuracy."
+    }
   ],
   "whatMatters": [
     {
@@ -230,60 +317,126 @@
       "subheading": "By Room Size",
       "intro": "Match the woofer to the space before anything else.",
       "table": {
-        "headers": ["Your room", "Our pick"],
+        "headers": [
+          "Your room",
+          "Our pick"
+        ],
         "rows": [
-          ["Medium room, wide genre range", "Kali Audio in-8 V2 8-inch Powered Studio Monitor"],
-          ["Small bedroom, accurate mids", "Kali Audio IN-5 5-Inch Studio Monitor"],
-          ["Large room, simple two-way", "KALI AUDIO LP-8V2 8\" Powered Studio Monitor"],
-          ["Medium room with awkward walls", "KALI AUDIO LP-6 V2 6.5-inch Powered Studio Monitor"],
-          ["Crowded desk", "Kali Audio LP-UNFW 4\" Ultra Nearfield Studio Monitors"]
+          [
+            "Medium room, wide genre range",
+            "Kali Audio in-8 V2 8-inch Powered Studio Monitor"
+          ],
+          [
+            "Small bedroom, accurate mids",
+            "Kali Audio IN-5 5-Inch Studio Monitor"
+          ],
+          [
+            "Large room, simple two-way",
+            "KALI AUDIO LP-8V2 8\" Powered Studio Monitor"
+          ],
+          [
+            "Medium room with awkward walls",
+            "KALI AUDIO LP-6 V2 6.5-inch Powered Studio Monitor"
+          ],
+          [
+            "Crowded desk",
+            "Kali Audio LP-UNFW 4\" Ultra Nearfield Studio Monitors"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$200 to $500, best layout", "Kali Audio in-8 V2 8-inch Powered Studio Monitor"],
-          ["$200 to $500, small room", "Kali Audio IN-5 5-Inch Studio Monitor"],
-          ["$200 to $500, trims and mounting", "KALI AUDIO LP-6 V2 6.5-inch Powered Studio Monitor"],
-          ["$200 to $500, Bluetooth", "KALI AUDIO LP-UNF Ultra Nearfield Monitor System"]
+          [
+            "$200 to $500, best layout",
+            "Kali Audio in-8 V2 8-inch Powered Studio Monitor"
+          ],
+          [
+            "$200 to $500, small room",
+            "Kali Audio IN-5 5-Inch Studio Monitor"
+          ],
+          [
+            "$200 to $500, trims and mounting",
+            "KALI AUDIO LP-6 V2 6.5-inch Powered Studio Monitor"
+          ],
+          [
+            "$200 to $500, Bluetooth",
+            "KALI AUDIO LP-UNF Ultra Nearfield Monitor System"
+          ]
         ]
       }
     },
     {
       "subheading": "Coaxial vs Two-Way",
       "cards": [
-        {"label": "Coaxial 3-way", "text": "One-point sound source and stable imaging when you move. Picks: Kali Audio in-8 V2 and IN-5."},
-        {"label": "Two-way", "text": "Simpler layout with a separate tweeter and woofer. Picks: LP-8V2, LP-6 V2, LP-UNF and LP-UNFW."}
+        {
+          "label": "Coaxial 3-way",
+          "text": "One-point sound source and stable imaging when you move. Picks: Kali Audio in-8 V2 and IN-5."
+        },
+        {
+          "label": "Two-way",
+          "text": "Simpler layout with a separate tweeter and woofer. Picks: LP-8V2, LP-6 V2, LP-UNF and LP-UNFW."
+        }
       ],
       "note": "Default to coaxial if you mix in an untreated room, and two-way if you want trims or mounting."
     },
     {
       "subheading": "By Listening Distance",
       "table": {
-        "headers": ["Distance", "Our pick"],
+        "headers": [
+          "Distance",
+          "Our pick"
+        ],
         "rows": [
-          ["Arm's length, with Bluetooth", "KALI AUDIO LP-UNF Ultra Nearfield Monitor System"],
-          ["Arm's length, tight desk", "Kali Audio LP-UNFW 4\" Ultra Nearfield Studio Monitors"],
-          ["About a metre and a half", "Kali Audio IN-5 5-Inch Studio Monitor"],
-          ["Two metres or more", "Kali Audio in-8 V2 8-inch Powered Studio Monitor"]
+          [
+            "Arm's length, with Bluetooth",
+            "KALI AUDIO LP-UNF Ultra Nearfield Monitor System"
+          ],
+          [
+            "Arm's length, tight desk",
+            "Kali Audio LP-UNFW 4\" Ultra Nearfield Studio Monitors"
+          ],
+          [
+            "About a metre and a half",
+            "Kali Audio IN-5 5-Inch Studio Monitor"
+          ],
+          [
+            "Two metres or more",
+            "Kali Audio in-8 V2 8-inch Powered Studio Monitor"
+          ]
         ]
       }
     },
     {
       "subheading": "For Home Studio Mixing Specifically",
       "cards": [
-        {"label": "Look for", "text": "A woofer sized for your room, a coaxial or well-controlled tweeter and trims if your walls are close. Skip Bluetooth as a deciding feature."},
-        {"label": "In this ranking", "text": "The in-8 V2 for a medium room, the IN-5 for a bedroom and the LP-6 V2 if the speakers must sit near walls."}
+        {
+          "label": "Look for",
+          "text": "A woofer sized for your room, a coaxial or well-controlled tweeter and trims if your walls are close. Skip Bluetooth as a deciding feature."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The in-8 V2 for a medium room, the IN-5 for a bedroom and the LP-6 V2 if the speakers must sit near walls."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You mix for release. The in-8 V2 adds 140 watts of tri-amplified headroom and the deepest low end in this ranking."},
-        {"label": "Save if", "text": "You write, edit or learn. The IN-5 gives coaxial imaging in a smaller, cheaper-to-place pair."}
+        {
+          "label": "Spend more if",
+          "text": "You mix for release. The in-8 V2 adds 140 watts of tri-amplified headroom and the deepest low end in this ranking."
+        },
+        {
+          "label": "Save if",
+          "text": "You write, edit or learn. The IN-5 gives coaxial imaging in a smaller, cheaper-to-place pair."
+        }
       ]
     }
   ],
@@ -314,5 +467,9 @@
     }
   ],
   "finalTake": "The Kali Audio in-8 V2 is the best monitor in this group because it combines 3-way coaxial imaging, an 8-inch woofer and 140 watts of tri-amplified power. The IN-5 is the smart buy for bedroom studios, and the LP-6 V2 adds trims and mounting for awkward rooms. Treat the LP-UNF and LP-UNFW as desk speakers with monitor voicing, not full-range mixing tools. Choose the size for the room first.",
-  "related": []
+  "related": [
+    "best-adam-audio-studio-monitors",
+    "best-m-audio-studio-monitors",
+    "best-8-inch-studio-monitors"
+  ]
 }

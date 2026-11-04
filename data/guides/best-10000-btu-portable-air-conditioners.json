@@ -26,10 +26,22 @@
       "verdict": "10,000 BTU ASHRAE and 7,100 BTU SACC, the highest real-world rating in the group, with smart-home control.",
       "description": "Midea is the only brand in the group that pairs a 10,000 BTU ASHRAE label with a high SACC number: 7,100 BTU. That is the figure that tells you how hard the machine works in a warm room, and it is about 650 BTU ahead of the Shinco and over 1,000 ahead of the Temprium and BLACK+DECKER. It adds smart-home control and digital controls.\n\nIt takes first place because cooling output matters more than any feature on this list. The tradeoff is price: it sits in the $200 to $500 bracket like the rest, so you are not paying more for the better rating. Against the Temprium, it trades an app-first design for a bigger SACC number.\n\nBest for a bedroom or living room of moderate size. The caveat is that the listing does not state noise or hose length, so check the manual for venting details.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "7,100 BTU" },
-        { "label": "Smart control", "value": "Smart-home compatible" },
-        { "label": "Controls", "value": "Digital" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "7,100 BTU"
+        },
+        {
+          "label": "Smart control",
+          "value": "Smart-home compatible"
+        },
+        {
+          "label": "Controls",
+          "value": "Digital"
+        }
       ],
       "pros": [
         "7,100 BTU SACC, best here",
@@ -56,10 +68,22 @@
       "verdict": "10,000 BTU ASHRAE, 6,000 BTU SACC, Wi-Fi app control and quiet operation aimed at bedrooms.",
       "description": "Temprium advertises 10,000 BTU ASHRAE and 6,000 BTU SACC, and it is honest about the gap. The Wi-Fi radio lets you control it from the Temprium app, so you can start cooling on the drive home. Quiet operation for undisturbed rest is the listing's pitch for bedrooms.\n\nIt ranks second because the SACC figure is 1,100 BTU below the Midea, which is a meaningful difference in a hot room. Against the Shinco, it offers remote control through an app rather than a bigger real-world rating. The Wi-Fi is the reason to pick it over the BLACK+DECKER, which matches its 6,000 SACC but lacks app control.\n\nBest for bedrooms in smaller rooms where you value pre-cooling. The caveat is that app-dependent features require a stable home network.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "6,000 BTU" },
-        { "label": "Smart control", "value": "Wi-Fi and Temprium app" },
-        { "label": "Focus", "value": "Quiet operation" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "6,000 BTU"
+        },
+        {
+          "label": "Smart control",
+          "value": "Wi-Fi and Temprium app"
+        },
+        {
+          "label": "Focus",
+          "value": "Quiet operation"
+        }
       ],
       "pros": [
         "Wi-Fi app control",
@@ -86,10 +110,22 @@
       "verdict": "10,000 BTU ASHRAE with a 6,450 SACC figure, a 3-in-1 design and quick installation.",
       "description": "Shinco lists 10,000 BTU ASHRAE and 6,450 SACC, which puts it second in real cooling behind the Midea. The 3-in-1 multifunctional design bundles cooling with other modes, and the listing stresses easy and quick installation, which matters because window venting is the hardest part of owning a portable.\n\nIt ranks third because it has no smart features, and the Midea has more real-world capacity. Against the BLACK+DECKER, it offers 450 BTU more SACC. Against the unrated unbranded units below, it wins simply by publishing the number, which gives you something to verify.\n\nBest for a mid-size bedroom where you want solid output without apps. The caveat is that the listing gives few details on noise, hose length or window kit, so confirm the venting parts before you buy.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "6,450 BTU" },
-        { "label": "Design", "value": "3-in-1 multifunctional" },
-        { "label": "Install", "value": "Easy and quick" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "6,450 BTU"
+        },
+        {
+          "label": "Design",
+          "value": "3-in-1 multifunctional"
+        },
+        {
+          "label": "Install",
+          "value": "Easy and quick"
+        }
       ],
       "pros": [
         "6,450 BTU SACC published",
@@ -116,10 +152,22 @@
       "verdict": "A 10,000 BTU unit with 6,000 BTU SACC, four wheels and a floor-standing design built for small rooms.",
       "description": "This BLACK+DECKER lists its 10,000 BTU rating alongside a 6,000 BTU SACC figure, so it advertises a quiet and powerful unit for small rooms. It is floor standing and rolls on four wheels, which makes moving it between a bedroom and an office realistic.\n\nIt ranks fourth because its SACC is the lowest tied figure, 450 BTU below the Shinco and 1,100 below the Midea. The small-room positioning is accurate: use it in a room that a 6,000 BTU machine would cool. Against the unbranded units, you get a named brand and a stated SACC. The listing says it installs quickly, but gives no further details.\n\nBest for compact bedrooms and home offices. The caveat is that 6,000 SACC is not much for a large living room, and it will struggle there.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "6,000 BTU" },
-        { "label": "Mobility", "value": "4 wheels, floor standing" },
-        { "label": "Target room", "value": "Small rooms" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "6,000 BTU"
+        },
+        {
+          "label": "Mobility",
+          "value": "4 wheels, floor standing"
+        },
+        {
+          "label": "Target room",
+          "value": "Small rooms"
+        }
       ],
       "pros": [
         "Four wheels for moving",
@@ -146,10 +194,22 @@
       "verdict": "A 3-in-1 unit with a flexible remote and clear LED display. Rapid and energy-efficient cooling is claimed.",
       "description": "This unbranded 10000Btu unit is a 3-in-1 design with a remote control and a clear LED display. The listing claims rapid and energy-efficient cooling, but it gives no SACC figure, so the 10,000 BTU number is the only capacity you can verify, and that is the ASHRAE rating.\n\nIt ranks fifth because every unit above it publishes a real-world rating and this one does not. Against the Shinco, it offers a similar 3-in-1 pitch with less proof. The LED display and remote are practical on a bedside table, but they do not add cooling. Compared with the last unit, it at least describes its display and remote.\n\nBest for buyers prioritizing an easy remote and a clear readout. The caveat is that unrated capacity could mean noticeably lower cooling than the number suggests, and support for unbranded units can be thin.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "Not listed" },
-        { "label": "Design", "value": "3-in-1" },
-        { "label": "Controls", "value": "Remote and LED display" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "Not listed"
+        },
+        {
+          "label": "Design",
+          "value": "3-in-1"
+        },
+        {
+          "label": "Controls",
+          "value": "Remote and LED display"
+        }
       ],
       "pros": [
         "Remote control included",
@@ -176,10 +236,22 @@
       "verdict": "A generic 10,000 BTU unit with fast cooling and easy installation claims, but no SACC rating.",
       "description": "This listing is a generic 10,000 BTU portable air conditioner. It promises fast cooling, easy installation and more than just air conditioning, a phrase that points to additional modes. Its price falls in the $200 to $500 bucket too.\n\nIt ranks last because the listing gives the least evidence. There is no SACC number, no noise rating and no smart-control feature, so you have nothing to compare against the Midea's 7,100 or the Shinco's 6,450. Fast cooling is a claim, not a measurement, and the same bracket buys a rated unit.\n\nBest for buyers who are not picky about brand and plan to use it in a small room. The caveat is that if the real cooling falls short, you have no published figure to hold the seller to.",
       "keySpecs": [
-        { "label": "ASHRAE rating", "value": "10,000 BTU" },
-        { "label": "SACC rating", "value": "Not listed" },
-        { "label": "Extras", "value": "Multi-mode claimed" },
-        { "label": "Install", "value": "Easy, per listing" }
+        {
+          "label": "ASHRAE rating",
+          "value": "10,000 BTU"
+        },
+        {
+          "label": "SACC rating",
+          "value": "Not listed"
+        },
+        {
+          "label": "Extras",
+          "value": "Multi-mode claimed"
+        },
+        {
+          "label": "Install",
+          "value": "Easy, per listing"
+        }
       ],
       "pros": [
         "Fast cooling claimed",
@@ -245,25 +317,58 @@
       "subheading": "By Real Cooling Power",
       "intro": "Rank by SACC, not by the number on the box.",
       "table": {
-        "headers": ["Published SACC", "Our pick"],
+        "headers": [
+          "Published SACC",
+          "Our pick"
+        ],
         "rows": [
-          ["7,100 BTU", "Midea 10,000 BTU ASHRAE Portable Air Conditioner"],
-          ["6,450 BTU", "Shinco 10,000 BTU Portable Air Conditioner"],
-          ["6,000 BTU with Wi-Fi", "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"],
-          ["6,000 BTU on wheels", "BLACK+DECKER Portable Air Conditioner"],
-          ["Not published", "10000Btu Portable Air Conditioners"]
+          [
+            "7,100 BTU",
+            "Midea 10,000 BTU ASHRAE Portable Air Conditioner"
+          ],
+          [
+            "6,450 BTU",
+            "Shinco 10,000 BTU Portable Air Conditioner"
+          ],
+          [
+            "6,000 BTU with Wi-Fi",
+            "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"
+          ],
+          [
+            "6,000 BTU on wheels",
+            "BLACK+DECKER Portable Air Conditioner"
+          ],
+          [
+            "Not published",
+            "10000Btu Portable Air Conditioners"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$200 to $500, best output", "Midea 10,000 BTU ASHRAE Portable Air Conditioner"],
-          ["$200 to $500, smart control", "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"],
-          ["$200 to $500, small rooms", "BLACK+DECKER Portable Air Conditioner"],
-          ["$200 to $500, unrated basic", "10,000 BTU Portable Air Conditioner"]
+          [
+            "$200 to $500, best output",
+            "Midea 10,000 BTU ASHRAE Portable Air Conditioner"
+          ],
+          [
+            "$200 to $500, smart control",
+            "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"
+          ],
+          [
+            "$200 to $500, small rooms",
+            "BLACK+DECKER Portable Air Conditioner"
+          ],
+          [
+            "$200 to $500, unrated basic",
+            "10,000 BTU Portable Air Conditioner"
+          ]
         ]
       }
     },
@@ -284,12 +389,27 @@
     {
       "subheading": "By Room Type",
       "table": {
-        "headers": ["Room", "Our pick"],
+        "headers": [
+          "Room",
+          "Our pick"
+        ],
         "rows": [
-          ["Large living room", "Midea 10,000 BTU ASHRAE Portable Air Conditioner"],
-          ["Bedroom, remote start", "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"],
-          ["Bedroom, no app", "Shinco 10,000 BTU Portable Air Conditioner"],
-          ["Home office", "BLACK+DECKER Portable Air Conditioner"]
+          [
+            "Large living room",
+            "Midea 10,000 BTU ASHRAE Portable Air Conditioner"
+          ],
+          [
+            "Bedroom, remote start",
+            "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled"
+          ],
+          [
+            "Bedroom, no app",
+            "Shinco 10,000 BTU Portable Air Conditioner"
+          ],
+          [
+            "Home office",
+            "BLACK+DECKER Portable Air Conditioner"
+          ]
         ]
       }
     },
@@ -347,5 +467,9 @@
     }
   ],
   "finalTake": "For most buyers the Midea 10,000 BTU ASHRAE is the best choice: 7,100 BTU SACC is the highest real rating here and it adds smart-home control. Pick the Temprium for Wi-Fi and quiet operation, the Shinco for a published 6,450 SACC without apps, and the BLACK+DECKER for a small, mobile room. Treat the two unrated units as budget gambles.",
-  "related": []
+  "related": [
+    "best-3-in-1-portable-air-conditioners",
+    "best-whynter-portable-air-conditioners",
+    "best-zafro-portable-air-conditioners"
+  ]
 }

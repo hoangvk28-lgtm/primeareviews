@@ -26,10 +26,22 @@
       "verdict": "Two inputs, two outputs and 4th-generation preamps for the typical home studio.",
       "description": "The 2i2 4th Gen is Focusrite's artist interface: two inputs and two outputs over USB-C. A related listing for the same model cites 4th-generation mic preamps, Hi-Z instrument and line inputs, and a 120dB dynamic range.\n\nIt wins because two inputs cover the most common home session, a vocal plus a guitar or a stereo pair, without the cost of channels you leave empty. It beats the Solo 4th Gen by letting you record two sources at once, and it undercuts the 4i4 on price.\n\nBuy it for singer-songwriters, podcasters with a guest and anyone building a first studio. Four inputs are out of reach, so a drum kit with several mics needs the 4i4 or larger.",
       "keySpecs": [
-        {"label": "I/O", "value": "2 in, 2 out"},
-        {"label": "Connection", "value": "USB-C"},
-        {"label": "Dynamic range", "value": "120dB (related listing)"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "I/O",
+          "value": "2 in, 2 out"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Dynamic range",
+          "value": "120dB (related listing)"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Two inputs for duets",
@@ -55,10 +67,22 @@
       "verdict": "Four inputs and four outputs, pitched as the music maker's studio hub.",
       "description": "The 4i4 4th Gen offers four inputs and four outputs over USB-C. Its listing calls it the music maker's studio hub, ready for all your gear.\n\nIt ranks second because the extra pair of inputs and outputs matters for people with hardware synths, a drum machine or separate monitor and headphone mixes. Against the 2i2 it asks for a similar price band, so the question is whether you will use the channels.\n\nBuy it if your studio includes outboard gear that needs its own feed. The listing gives no mic-preamp count, so check how many of the four inputs have a mic preamp before assuming four microphones at once.",
       "keySpecs": [
-        {"label": "I/O", "value": "4 in, 4 out"},
-        {"label": "Connection", "value": "USB-C"},
-        {"label": "Generation", "value": "4th Gen"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "I/O",
+          "value": "4 in, 4 out"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "4th Gen"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Four inputs and four outputs",
@@ -84,10 +108,22 @@
       "verdict": "The songwriter's interface: one mic or instrument at a time, in the newest generation.",
       "description": "The Solo 4th Gen is aimed at songwriters and lists studio-quality sound. A related Solo listing cites 24-bit/192kHz A/D conversion over USB 2.0.\n\nIt ranks third because the Solo is built around a single performer, which suits a solo vocalist, streamer or guitarist but not a duet or an interview. In exchange it is the cheapest 4th-generation unit, in the $100 to $200 band, and it improves on the 3rd Gen Solo with newer electronics.\n\nBuy it for voice-overs, streaming or songwriting alone at a desk. If you suspect you will want a second performer on the recording within a year, step up to the 2i2 instead of outgrowing the Solo and paying twice.",
       "keySpecs": [
-        {"label": "Design", "value": "Single-performer Solo"},
-        {"label": "Conversion", "value": "24-bit/192kHz (related listing)"},
-        {"label": "Connection", "value": "USB-C"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Design",
+          "value": "Single-performer Solo"
+        },
+        {
+          "label": "Conversion",
+          "value": "24-bit/192kHz (related listing)"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Cheapest 4th-gen option",
@@ -113,10 +149,22 @@
       "verdict": "Sixteen inputs and outputs for producers who capture everything at once.",
       "description": "The 16i16 4th Gen is the producer's interface, with sixteen inputs and sixteen outputs over USB-C. The listing says to capture everything and claims audio quality beyond its class.\n\nIt ranks fourth because few home studios use sixteen channels, so most of the cost goes unused. It is the only unit here that can record a full band in one pass, and the only one that makes sense with a rack of outboard processors.\n\nBuy it for a project studio, a rehearsal space or live multitrack recording. The audio quality claim is marketing without a measurement, and a bigger box means a bigger desk footprint.",
       "keySpecs": [
-        {"label": "I/O", "value": "16 in, 16 out"},
-        {"label": "Connection", "value": "USB-C"},
-        {"label": "Generation", "value": "4th Gen"},
-        {"label": "Price band", "value": "$200 to $500"}
+        {
+          "label": "I/O",
+          "value": "16 in, 16 out"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "4th Gen"
+        },
+        {
+          "label": "Price band",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "Sixteen inputs and outputs",
@@ -142,10 +190,22 @@
       "verdict": "The previous-generation Solo, still pitched for guitar and vocal takes.",
       "description": "The 3rd Gen Solo is Focusrite's previous single-input interface, described as having pro performance with great preamps for the perfect guitar and vocal take.\n\nIt ranks last because the 4th Gen Solo sits in the same $100 to $200 band with newer electronics, so there is little reason to buy the older unit unless it is on clearance. It remains a capable recorder for a single performer, and the pitch around great preamps is a fair summary of why the line sold so well.\n\nBuy it only if the price is clearly lower than the 4th Gen Solo, because paying the same for older electronics makes no sense. Compare the two listings carefully, since model names that differ by a single word are easy to confuse at checkout.",
       "keySpecs": [
-        {"label": "Design", "value": "Single-performer Solo"},
-        {"label": "Connection", "value": "USB-C"},
-        {"label": "Generation", "value": "3rd Gen"},
-        {"label": "Price band", "value": "$100 to $200"}
+        {
+          "label": "Design",
+          "value": "Single-performer Solo"
+        },
+        {
+          "label": "Connection",
+          "value": "USB-C"
+        },
+        {
+          "label": "Generation",
+          "value": "3rd Gen"
+        },
+        {
+          "label": "Price band",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Proven single-input design",
@@ -162,90 +222,211 @@
     }
   ],
   "methodology": [
-    {"title": "Input and output count", "description": "The two numbers in each model name decide what you can record at once, so we scored fit to common home-studio sessions."},
-    {"title": "Generation", "description": "4th Gen units carry newer preamps and electronics than the 3rd Gen Solo, which counted in their favor."},
-    {"title": "Stated audio specs", "description": "We used the few figures the listings give, such as 120dB dynamic range and 24-bit/192kHz conversion, and avoided guessing the rest."},
-    {"title": "Connection and footprint", "description": "USB-C connection and desk size shape day-to-day use, from a laptop on a couch to a studio desk."},
-    {"title": "Value per channel", "description": "We compared price band to the inputs you are likely to use, since unused channels are wasted money."}
+    {
+      "title": "Input and output count",
+      "description": "The two numbers in each model name decide what you can record at once, so we scored fit to common home-studio sessions."
+    },
+    {
+      "title": "Generation",
+      "description": "4th Gen units carry newer preamps and electronics than the 3rd Gen Solo, which counted in their favor."
+    },
+    {
+      "title": "Stated audio specs",
+      "description": "We used the few figures the listings give, such as 120dB dynamic range and 24-bit/192kHz conversion, and avoided guessing the rest."
+    },
+    {
+      "title": "Connection and footprint",
+      "description": "USB-C connection and desk size shape day-to-day use, from a laptop on a couch to a studio desk."
+    },
+    {
+      "title": "Value per channel",
+      "description": "We compared price band to the inputs you are likely to use, since unused channels are wasted money."
+    }
   ],
   "whatMatters": [
-    {"factor": "Input count", "detail": "The first number in a name like 2i2 is the number of inputs. It sets how many sources you can record at once. A vocalist needs one, a duet needs two, a drum kit needs several. Match it to your busiest session rather than your typical one, and leave room for a second mic."},
-    {"factor": "Output count", "detail": "The second number is outputs, which feed monitors, headphones and outboard gear. Two outputs cover a pair of speakers. Four, as on the 4i4, let you send a separate headphone mix or route to hardware. Check the output count if you plan to use reamp boxes, extra monitors or a talkback setup."},
-    {"factor": "Preamps and Hi-Z", "detail": "A preamp raises a microphone's weak signal to a usable level, and a Hi-Z input is built for instruments like guitar. The 2i2 listing cites 4th-generation mic preamps and Hi-Z inputs. Check how many inputs offer mic preamps, because not every input on a larger box does, and confirm the Hi-Z input is a separate connection if you plan to plug in a guitar or bass directly."},
-    {"factor": "Dynamic range and conversion", "detail": "Dynamic range is the span between the noise floor and the loudest clean signal, and conversion rate sets sampling detail. The 2i2 cites 120dB, the Solo 4th Gen 24-bit/192kHz. These are good figures on paper. Check what the listing actually states, and ignore marketing like audio quality beyond its class, which no listing backs with a measurement. For speech and demos, any of these converters is more than enough."},
-    {"factor": "Generation and software", "detail": "Newer generations bring updated electronics and software tools. The 4th Gen line replaces the 3rd Gen Solo, which is why the older unit sits at the bottom. Look for generation in the product name, confirm you are comparing like with like, and check that your operating system and recording software are supported by the current driver before you order."}
+    {
+      "factor": "Input count",
+      "detail": "The first number in a name like 2i2 is the number of inputs. It sets how many sources you can record at once. A vocalist needs one, a duet needs two, a drum kit needs several. Match it to your busiest session rather than your typical one, and leave room for a second mic."
+    },
+    {
+      "factor": "Output count",
+      "detail": "The second number is outputs, which feed monitors, headphones and outboard gear. Two outputs cover a pair of speakers. Four, as on the 4i4, let you send a separate headphone mix or route to hardware. Check the output count if you plan to use reamp boxes, extra monitors or a talkback setup."
+    },
+    {
+      "factor": "Preamps and Hi-Z",
+      "detail": "A preamp raises a microphone's weak signal to a usable level, and a Hi-Z input is built for instruments like guitar. The 2i2 listing cites 4th-generation mic preamps and Hi-Z inputs. Check how many inputs offer mic preamps, because not every input on a larger box does, and confirm the Hi-Z input is a separate connection if you plan to plug in a guitar or bass directly."
+    },
+    {
+      "factor": "Dynamic range and conversion",
+      "detail": "Dynamic range is the span between the noise floor and the loudest clean signal, and conversion rate sets sampling detail. The 2i2 cites 120dB, the Solo 4th Gen 24-bit/192kHz. These are good figures on paper. Check what the listing actually states, and ignore marketing like audio quality beyond its class, which no listing backs with a measurement. For speech and demos, any of these converters is more than enough."
+    },
+    {
+      "factor": "Generation and software",
+      "detail": "Newer generations bring updated electronics and software tools. The 4th Gen line replaces the 3rd Gen Solo, which is why the older unit sits at the bottom. Look for generation in the product name, confirm you are comparing like with like, and check that your operating system and recording software are supported by the current driver before you order."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Number of Inputs",
       "intro": "Decide your busiest session before you decide your budget.",
       "table": {
-        "headers": ["Session", "Our pick"],
+        "headers": [
+          "Session",
+          "Our pick"
+        ],
         "rows": [
-          ["One voice or guitar", "Focusrite Scarlett Solo 4th Gen"],
-          ["Voice plus instrument, or a duet", "Focusrite Scarlett 2i2 4th Gen"],
-          ["Mics plus synths and drum machine", "Focusrite Scarlett 4i4 4th Gen"],
-          ["Full band or multiple mics", "Focusrite Scarlett 16i16 4th Gen"],
-          ["Bargain single input", "Focusrite Scarlett Solo 3rd Gen"]
+          [
+            "One voice or guitar",
+            "Focusrite Scarlett Solo 4th Gen"
+          ],
+          [
+            "Voice plus instrument, or a duet",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ],
+          [
+            "Mics plus synths and drum machine",
+            "Focusrite Scarlett 4i4 4th Gen"
+          ],
+          [
+            "Full band or multiple mics",
+            "Focusrite Scarlett 16i16 4th Gen"
+          ],
+          [
+            "Bargain single input",
+            "Focusrite Scarlett Solo 3rd Gen"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$100 to $200, newest", "Focusrite Scarlett Solo 4th Gen"],
-          ["$100 to $200, discount hunter", "Focusrite Scarlett Solo 3rd Gen"],
-          ["$200 to $500, most buyers", "Focusrite Scarlett 2i2 4th Gen"],
-          ["$200 to $500, more routing", "Focusrite Scarlett 4i4 4th Gen"],
-          ["$200 to $500, full band", "Focusrite Scarlett 16i16 4th Gen"]
+          [
+            "$100 to $200, newest",
+            "Focusrite Scarlett Solo 4th Gen"
+          ],
+          [
+            "$100 to $200, discount hunter",
+            "Focusrite Scarlett Solo 3rd Gen"
+          ],
+          [
+            "$200 to $500, most buyers",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ],
+          [
+            "$200 to $500, more routing",
+            "Focusrite Scarlett 4i4 4th Gen"
+          ],
+          [
+            "$200 to $500, full band",
+            "Focusrite Scarlett 16i16 4th Gen"
+          ]
         ]
       }
     },
     {
       "subheading": "Small Box vs Studio Hub",
       "cards": [
-        {"label": "Small box", "text": "The Solo and 2i2 are the compact models with USB-C connections, easy to carry and use on a laptop desk."},
-        {"label": "Studio hub", "text": "The 4i4 and 16i16 add inputs and outputs for hardware and band recording, and need more desk space."}
+        {
+          "label": "Small box",
+          "text": "The Solo and 2i2 are the compact models with USB-C connections, easy to carry and use on a laptop desk."
+        },
+        {
+          "label": "Studio hub",
+          "text": "The 4i4 and 16i16 add inputs and outputs for hardware and band recording, and need more desk space."
+        }
       ],
       "note": "Most home studios do best with the 2i2 and a plan to upgrade only if sessions grow."
     },
     {
       "subheading": "By Generation",
       "table": {
-        "headers": ["Generation", "Our pick"],
+        "headers": [
+          "Generation",
+          "Our pick"
+        ],
         "rows": [
-          ["4th Gen, two inputs", "Focusrite Scarlett 2i2 4th Gen"],
-          ["4th Gen, one input", "Focusrite Scarlett Solo 4th Gen"],
-          ["4th Gen, four inputs", "Focusrite Scarlett 4i4 4th Gen"],
-          ["3rd Gen, one input", "Focusrite Scarlett Solo 3rd Gen"]
+          [
+            "4th Gen, two inputs",
+            "Focusrite Scarlett 2i2 4th Gen"
+          ],
+          [
+            "4th Gen, one input",
+            "Focusrite Scarlett Solo 4th Gen"
+          ],
+          [
+            "4th Gen, four inputs",
+            "Focusrite Scarlett 4i4 4th Gen"
+          ],
+          [
+            "3rd Gen, one input",
+            "Focusrite Scarlett Solo 3rd Gen"
+          ]
         ]
       }
     },
     {
       "subheading": "For Podcasts and Streaming Specifically",
       "cards": [
-        {"label": "Look for", "text": "One or two clean mic inputs, direct monitoring, and a simple USB connection that works with your recording software."},
-        {"label": "In this ranking", "text": "The 2i2 handles a host and guest, and the Solo 4th Gen is the lean choice for one voice."}
+        {
+          "label": "Look for",
+          "text": "One or two clean mic inputs, direct monitoring, and a simple USB connection that works with your recording software."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The 2i2 handles a host and guest, and the Solo 4th Gen is the lean choice for one voice."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You track several sources at once or use hardware, which makes the 4i4 or 16i16 worth the premium."},
-        {"label": "Save if", "text": "You record yourself alone. The Solo 4th Gen costs less and does the whole job."}
+        {
+          "label": "Spend more if",
+          "text": "You track several sources at once or use hardware, which makes the 4i4 or 16i16 worth the premium."
+        },
+        {
+          "label": "Save if",
+          "text": "You record yourself alone. The Solo 4th Gen costs less and does the whole job."
+        }
       ]
     }
   ],
   "faq": [
-    {"q": "Do these Focusrite interfaces work with a laptop over USB-C?", "a": "Yes, each model here lists USB-C. The Solo 4th Gen and 2i2 are small enough for laptop desks. Check your operating system's compatibility on the maker's page and bring a USB-C cable that supports data."},
-    {"q": "What is the most common mistake buyers make?", "a": "Buying more inputs than they use. A 16i16 is overkill for a podcaster, and a Solo limits a duet. Count the sources in your busiest session, then choose the 2i2 unless you need more."},
-    {"q": "Is the 2i2 worth it over the Solo 4th Gen?", "a": "If you ever record two sources at once, yes. The 2i2 adds a second input and output pair for a modest step up in the price band. If you only record yourself, the Solo is enough."},
-    {"q": "How do I set up an audio interface?", "a": "Install the maker's driver if your system needs one, connect over USB-C, then select the interface as input and output in your recording software. Plug a mic or instrument into the right input and set gain with the lights as a guide."},
-    {"q": "Do I need phantom power?", "a": "Condenser microphones need 48V phantom power, which the interface supplies when enabled. Dynamic mics do not. Check each model's page for the phantom power switch, and turn it off before connecting ribbon mics, which can be damaged."},
-    {"q": "Can I use one for gaming or streaming audio?", "a": "Yes. The Solo 4th Gen or 2i2 can feed a mic to your PC and send audio to headphones. Set the interface as the default device, and use direct monitoring to hear yourself without delay."}
+    {
+      "q": "Do these Focusrite interfaces work with a laptop over USB-C?",
+      "a": "Yes, each model here lists USB-C. The Solo 4th Gen and 2i2 are small enough for laptop desks. Check your operating system's compatibility on the maker's page and bring a USB-C cable that supports data."
+    },
+    {
+      "q": "What is the most common mistake buyers make?",
+      "a": "Buying more inputs than they use. A 16i16 is overkill for a podcaster, and a Solo limits a duet. Count the sources in your busiest session, then choose the 2i2 unless you need more."
+    },
+    {
+      "q": "Is the 2i2 worth it over the Solo 4th Gen?",
+      "a": "If you ever record two sources at once, yes. The 2i2 adds a second input and output pair for a modest step up in the price band. If you only record yourself, the Solo is enough."
+    },
+    {
+      "q": "How do I set up an audio interface?",
+      "a": "Install the maker's driver if your system needs one, connect over USB-C, then select the interface as input and output in your recording software. Plug a mic or instrument into the right input and set gain with the lights as a guide."
+    },
+    {
+      "q": "Do I need phantom power?",
+      "a": "Condenser microphones need 48V phantom power, which the interface supplies when enabled. Dynamic mics do not. Check each model's page for the phantom power switch, and turn it off before connecting ribbon mics, which can be damaged."
+    },
+    {
+      "q": "Can I use one for gaming or streaming audio?",
+      "a": "Yes. The Solo 4th Gen or 2i2 can feed a mic to your PC and send audio to headphones. Set the interface as the default device, and use direct monitoring to hear yourself without delay."
+    }
   ],
   "finalTake": "The Scarlett 2i2 4th Gen is the Focusrite interface most home studios should buy: two inputs, two outputs and the newest preamps. Take the Solo 4th Gen for one-voice work and the 4i4 for synth-heavy setups. The 16i16 is for bands and project studios, and the 3rd Gen Solo only makes sense at a clear discount. Check the live listing for input details before ordering.",
-  "related": []
+  "related": [
+    "best-audio-interfaces-for-microphones",
+    "best-steinberg-audio-interfaces",
+    "best-universal-audio-audio-interfaces"
+  ]
 }

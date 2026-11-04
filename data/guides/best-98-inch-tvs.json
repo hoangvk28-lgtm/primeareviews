@@ -26,10 +26,22 @@
       "verdict": "The only Mini-LED panel here, and it shows in every dark scene.",
       "description": "Sony's BRAVIA 5 is the one 98-inch set on this list built around a Mini-LED backlight, with a 120Hz panel to match. Mini-LED means thousands of small LEDs grouped into dimming zones, so a night scene can drop its dark areas without dimming the bright ones next to them.\n\nThat is the whole argument for ranking it first. On a screen this big, the Samsung Q7F and the TCL Q65 spread a more conventional backlight across a huge area, and a letterboxed film shows it as a grey glow around the picture. The Sony keeps those bars darker, and its 120Hz refresh handles console and sports motion about as well as the 144Hz TCL does in practice.\n\nBuy it if you watch a lot of films after dark and want the most convincing picture at this size. The caveat is the spec sheet: it lists no QLED layer, so ask whether color volume in a bright room matters to you more than contrast.",
       "keySpecs": [
-        { "label": "Size", "value": "98 inch" },
-        { "label": "Backlight", "value": "Mini-LED" },
-        { "label": "Refresh rate", "value": "120Hz" },
-        { "label": "Price tier", "value": "$500+" }
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Backlight",
+          "value": "Mini-LED"
+        },
+        {
+          "label": "Refresh rate",
+          "value": "120Hz"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
       ],
       "pros": [
         "Mini-LED backlight with dimming zones",
@@ -56,10 +68,22 @@
       "verdict": "A 144Hz QLED panel that gives gamers the fastest refresh at this size.",
       "description": "TCL's QM7L pairs a quantum dot QLED panel with a 144Hz refresh rate, the highest on this list. That number matters to anyone plugging in a gaming PC, because 144Hz is the ceiling most graphics cards can hit at 4K, and the other four sets here stop at 120Hz or lower.\n\nIt ranks second rather than first because refresh rate cannot fix backlight behavior. Against the Sony BRAVIA 5, a QLED set without the Mini-LED dimming zones lets dark rooms look flatter. Against the Samsung Q7F, though, the extra 24Hz and the gaming focus justify the step up, and it sits well above the TCL Q65 on specification.\n\nThis is the pick for a PC or console player who wants a 98-inch screen as a monitor replacement. The caveat is the same one every large LCD shares: sit too close and the pixel grid becomes visible, so plan on a viewing distance of 10 feet or more.",
       "keySpecs": [
-        { "label": "Size", "value": "98 inch" },
-        { "label": "Panel", "value": "QLED" },
-        { "label": "Refresh rate", "value": "144Hz" },
-        { "label": "Price tier", "value": "$500+" }
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "QLED"
+        },
+        {
+          "label": "Refresh rate",
+          "value": "144Hz"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
       ],
       "pros": [
         "Highest refresh rate on this list",
@@ -86,10 +110,22 @@
       "verdict": "QLED color and Samsung's smart platform in the most polished 98-inch package here.",
       "description": "Samsung's Q7F adds a quantum dot QLED layer to a 98-inch panel and runs the company's Vision AI software on top. Quantum dots widen the range of saturated colors a screen can show, which is what keeps a picture from looking washed out when sunlight hits the room.\n\nIt ranks below the TCL QM7L because the listing carries no refresh rate above standard, so a gamer gives something up here. It ranks above the Samsung DU9000 because the QLED layer is a clear step over the Crystal UHD panel, and the price tier stays in the same family. Against the Sony, it concedes contrast but wins on color punch.\n\nBuy it if the TV lives in a bright family room and you want an easy, well-known interface. The caveat is that the listing gives few hard numbers, so confirm the refresh rate and HDMI features on the product page before you commit to a console.",
       "keySpecs": [
-        { "label": "Size", "value": "98 inch" },
-        { "label": "Panel", "value": "QLED" },
-        { "label": "Software", "value": "Vision AI smart TV" },
-        { "label": "Resolution", "value": "4K class" }
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "QLED"
+        },
+        {
+          "label": "Software",
+          "value": "Vision AI smart TV"
+        },
+        {
+          "label": "Resolution",
+          "value": "4K class"
+        }
       ],
       "pros": [
         "QLED color holds up in daylight",
@@ -116,10 +152,22 @@
       "verdict": "A 120Hz Crystal UHD set for people who want 98 inches without paying for QLED.",
       "description": "The DU9000 is Samsung's Crystal UHD model: a 98-inch 4K panel at 120Hz with HDR support, and no quantum dot layer. Crystal UHD uses a standard LED backlight with a color-enhancing film, which is cheaper to build but shows less saturated color than QLED.\n\nWhat keeps it in the ranking is the 120Hz refresh, which matches the Sony and beats what the budget TCL Q65 states. Against the Q7F one place above, you give up the quantum dot color boost and gain nothing on motion, so the case for the DU9000 rests entirely on price. It is a better choice than the lower-tier listings because Samsung supports it and it is a recognized model.\n\nBuy it if you want a very large screen mostly for sports and casual streaming. The caveat is picture richness: this is the set where you notice the panel compromise most in a dark room.",
       "keySpecs": [
-        { "label": "Size", "value": "98 inch" },
-        { "label": "Panel", "value": "Crystal UHD 4K" },
-        { "label": "Refresh rate", "value": "120Hz" },
-        { "label": "Price tier", "value": "$500+" }
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "Crystal UHD 4K"
+        },
+        {
+          "label": "Refresh rate",
+          "value": "120Hz"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
       ],
       "pros": [
         "120Hz refresh at a lower tier",
@@ -146,10 +194,22 @@
       "verdict": "The cheapest route to a QLED 98-inch screen, with Google TV built in.",
       "description": "The Q65 is TCL's entry QLED at 98 inches, running Google TV for apps and voice search. It gives you the quantum dot color layer that the Samsung DU9000 lacks, at a price tier that stays in the same $500+ bracket as the rest.\n\nIt lands last because the listing states no refresh rate above the basics, so it cannot match the TCL QM7L at 144Hz or the Sony at 120Hz for fast motion. That is the tradeoff you accept at entry level. Against the DU9000 it wins on color but not on stated motion handling, which makes it the better pick for movies and streaming rather than sports and games.\n\nBuy it if you want the biggest QLED screen for the least money and mainly stream shows. The caveat: with few specifications published, check the HDMI ports and refresh rate before attaching a modern console.",
       "keySpecs": [
-        { "label": "Size", "value": "98 inch" },
-        { "label": "Panel", "value": "QLED 4K" },
-        { "label": "Software", "value": "Google TV" },
-        { "label": "Price tier", "value": "$500+" }
+        {
+          "label": "Size",
+          "value": "98 inch"
+        },
+        {
+          "label": "Panel",
+          "value": "QLED 4K"
+        },
+        {
+          "label": "Software",
+          "value": "Google TV"
+        },
+        {
+          "label": "Price tier",
+          "value": "$500+"
+        }
       ],
       "pros": [
         "QLED color at entry level",
@@ -167,80 +227,182 @@
     }
   ],
   "methodology": [
-    { "title": "Backlight and contrast", "description": "Mini-LED, QLED and Crystal UHD were ranked by how well each type should handle dark scenes at 98 inches, where backlight flaws are magnified." },
-    { "title": "Refresh rate", "description": "Stated panel refresh, from the 120Hz and 144Hz sets down to listings that state none, decided how each set suits sports and games." },
-    { "title": "Color technology", "description": "Quantum dot layers were credited for color volume in bright rooms, since saturation is the first thing lost to daylight." },
-    { "title": "Smart platform", "description": "Google TV and Samsung Vision AI were compared on app support and ease of use, because a set this size is mostly a streaming screen." },
-    { "title": "Value at 98 inches", "description": "We weighed what each model gives you relative to its price tier, with entry QLED and Crystal UHD judged against the Mini-LED premium." }
+    {
+      "title": "Backlight and contrast",
+      "description": "Mini-LED, QLED and Crystal UHD were ranked by how well each type should handle dark scenes at 98 inches, where backlight flaws are magnified."
+    },
+    {
+      "title": "Refresh rate",
+      "description": "Stated panel refresh, from the 120Hz and 144Hz sets down to listings that state none, decided how each set suits sports and games."
+    },
+    {
+      "title": "Color technology",
+      "description": "Quantum dot layers were credited for color volume in bright rooms, since saturation is the first thing lost to daylight."
+    },
+    {
+      "title": "Smart platform",
+      "description": "Google TV and Samsung Vision AI were compared on app support and ease of use, because a set this size is mostly a streaming screen."
+    },
+    {
+      "title": "Value at 98 inches",
+      "description": "We weighed what each model gives you relative to its price tier, with entry QLED and Crystal UHD judged against the Mini-LED premium."
+    }
   ],
   "whatMatters": [
-    { "factor": "Backlight type", "detail": "The backlight decides how dark the screen can get next to something bright. Mini-LED uses many small dimming zones, while edge or standard LED backlights light the whole panel more evenly and wash out. At 98 inches the glow around letterbox bars is hard to ignore, so check whether the listing says Mini-LED or local dimming." },
-    { "factor": "Refresh rate", "detail": "Refresh rate is how many times the screen redraws each second, measured in Hz. A 120Hz or 144Hz panel keeps fast sports and games smooth, while a basic panel blurs. It matters most to console and PC players. Look for the Hz figure in the spec list, and confirm it holds at 4K." },
-    { "factor": "Viewing distance", "detail": "A 98-inch 4K picture has the same pixel count as a 55-inch one, just spread wider, so sit too close and you see the grid. For a comfortable view, plan to sit roughly 10 to 12 feet back. Measure your seating distance before you buy, not after the box arrives." },
-    { "factor": "Room access and mounting", "detail": "A 98-inch panel is about seven feet wide, so the delivery path matters as much as the wall. Measure the front door, stairwell and hallway turns. Then check the VESA pattern and weight so your wall mount or stand is rated for the set before it arrives." },
-    { "factor": "Quantum dot color", "detail": "QLED panels add a quantum dot layer that widens the range of colors the screen can show. It matters most in a bright room, where plain panels look pale. Look for QLED in the model name, and compare it against Crystal UHD listings that do not include the layer." }
+    {
+      "factor": "Backlight type",
+      "detail": "The backlight decides how dark the screen can get next to something bright. Mini-LED uses many small dimming zones, while edge or standard LED backlights light the whole panel more evenly and wash out. At 98 inches the glow around letterbox bars is hard to ignore, so check whether the listing says Mini-LED or local dimming."
+    },
+    {
+      "factor": "Refresh rate",
+      "detail": "Refresh rate is how many times the screen redraws each second, measured in Hz. A 120Hz or 144Hz panel keeps fast sports and games smooth, while a basic panel blurs. It matters most to console and PC players. Look for the Hz figure in the spec list, and confirm it holds at 4K."
+    },
+    {
+      "factor": "Viewing distance",
+      "detail": "A 98-inch 4K picture has the same pixel count as a 55-inch one, just spread wider, so sit too close and you see the grid. For a comfortable view, plan to sit roughly 10 to 12 feet back. Measure your seating distance before you buy, not after the box arrives."
+    },
+    {
+      "factor": "Room access and mounting",
+      "detail": "A 98-inch panel is about seven feet wide, so the delivery path matters as much as the wall. Measure the front door, stairwell and hallway turns. Then check the VESA pattern and weight so your wall mount or stand is rated for the set before it arrives."
+    },
+    {
+      "factor": "Quantum dot color",
+      "detail": "QLED panels add a quantum dot layer that widens the range of colors the screen can show. It matters most in a bright room, where plain panels look pale. Look for QLED in the model name, and compare it against Crystal UHD listings that do not include the layer."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Room Lighting",
       "intro": "The light in your room decides which backlight pays off.",
       "table": {
-        "headers": ["Your room", "Our pick"],
+        "headers": [
+          "Your room",
+          "Our pick"
+        ],
         "rows": [
-          ["Dark home theater", "Sony BRAVIA 5 98 Inch TV"],
-          ["Bright living room", "Samsung 98-Inch Class QLED Q7F Series"],
-          ["Mixed day and night use", "TCL 98 Inch Class QM7L Series"],
-          ["Mostly daytime sports", "Samsung 98-Inch Class 4K Crystal UHD DU9000"],
-          ["Lightly lit streaming room", "TCL 98-Inch Q65 QLED with Google TV"]
+          [
+            "Dark home theater",
+            "Sony BRAVIA 5 98 Inch TV"
+          ],
+          [
+            "Bright living room",
+            "Samsung 98-Inch Class QLED Q7F Series"
+          ],
+          [
+            "Mixed day and night use",
+            "TCL 98 Inch Class QM7L Series"
+          ],
+          [
+            "Mostly daytime sports",
+            "Samsung 98-Inch Class 4K Crystal UHD DU9000"
+          ],
+          [
+            "Lightly lit streaming room",
+            "TCL 98-Inch Q65 QLED with Google TV"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Tier", "Our pick"],
+        "headers": [
+          "Tier",
+          "Our pick"
+        ],
         "rows": [
-          ["Entry QLED", "TCL 98-Inch Q65 QLED with Google TV"],
-          ["Lower-cost 120Hz", "Samsung 98-Inch Class 4K Crystal UHD DU9000"],
-          ["Mid-range QLED", "Samsung 98-Inch Class QLED Q7F Series"],
-          ["Gaming focus", "TCL 98 Inch Class QM7L Series"],
-          ["Best picture, highest tier", "Sony BRAVIA 5 98 Inch TV"]
+          [
+            "Entry QLED",
+            "TCL 98-Inch Q65 QLED with Google TV"
+          ],
+          [
+            "Lower-cost 120Hz",
+            "Samsung 98-Inch Class 4K Crystal UHD DU9000"
+          ],
+          [
+            "Mid-range QLED",
+            "Samsung 98-Inch Class QLED Q7F Series"
+          ],
+          [
+            "Gaming focus",
+            "TCL 98 Inch Class QM7L Series"
+          ],
+          [
+            "Best picture, highest tier",
+            "Sony BRAVIA 5 98 Inch TV"
+          ]
         ]
       }
     },
     {
       "subheading": "Mini-LED vs QLED",
       "cards": [
-        { "label": "Mini-LED", "text": "Uses many small LEDs in dimming zones, so dark areas stay dark beside bright ones. It is the better fit for film and night viewing. Pick: Sony BRAVIA 5." },
-        { "label": "QLED", "text": "Adds a quantum dot layer for stronger color and holds up in daylight, usually at a lower cost. Picks: TCL QM7L, Samsung Q7F, TCL Q65." }
+        {
+          "label": "Mini-LED",
+          "text": "Uses many small LEDs in dimming zones, so dark areas stay dark beside bright ones. It is the better fit for film and night viewing. Pick: Sony BRAVIA 5."
+        },
+        {
+          "label": "QLED",
+          "text": "Adds a quantum dot layer for stronger color and holds up in daylight, usually at a lower cost. Picks: TCL QM7L, Samsung Q7F, TCL Q65."
+        }
       ],
       "note": "Choose Mini-LED if you watch in the dark, QLED if you watch in the daytime."
     },
     {
       "subheading": "By Refresh Rate",
       "table": {
-        "headers": ["What you play or watch", "Our pick"],
+        "headers": [
+          "What you play or watch",
+          "Our pick"
+        ],
         "rows": [
-          ["PC gaming at high frame rates", "TCL 98 Inch Class QM7L Series"],
-          ["Console gaming", "Sony BRAVIA 5 98 Inch TV"],
-          ["Sports at 120Hz", "Samsung 98-Inch Class 4K Crystal UHD DU9000"],
-          ["Films and streaming", "Samsung 98-Inch Class QLED Q7F Series"],
-          ["Casual streaming only", "TCL 98-Inch Q65 QLED with Google TV"]
+          [
+            "PC gaming at high frame rates",
+            "TCL 98 Inch Class QM7L Series"
+          ],
+          [
+            "Console gaming",
+            "Sony BRAVIA 5 98 Inch TV"
+          ],
+          [
+            "Sports at 120Hz",
+            "Samsung 98-Inch Class 4K Crystal UHD DU9000"
+          ],
+          [
+            "Films and streaming",
+            "Samsung 98-Inch Class QLED Q7F Series"
+          ],
+          [
+            "Casual streaming only",
+            "TCL 98-Inch Q65 QLED with Google TV"
+          ]
         ]
       }
     },
     {
       "subheading": "For Home Theater Specifically",
       "cards": [
-        { "label": "Look for", "text": "A dimming-zone backlight for deep blacks, a refresh rate of at least 120Hz and a seating distance of 10 feet or more. Skip glossy marketing terms and read the panel type." },
-        { "label": "In this ranking", "text": "The Sony BRAVIA 5 is the home theater pick thanks to Mini-LED. The TCL QM7L is the runner-up if the room also doubles as a game space." }
+        {
+          "label": "Look for",
+          "text": "A dimming-zone backlight for deep blacks, a refresh rate of at least 120Hz and a seating distance of 10 feet or more. Skip glossy marketing terms and read the panel type."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The Sony BRAVIA 5 is the home theater pick thanks to Mini-LED. The TCL QM7L is the runner-up if the room also doubles as a game space."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You watch films in the dark or care about picture quality over everything else. The jump from the TCL Q65 to the Sony BRAVIA 5 is the one you will notice every evening." },
-        { "label": "Save if", "text": "The TV is mostly for daytime sports and streaming. The Samsung DU9000 and TCL Q65 give you the same 98-inch screen for much less." }
+        {
+          "label": "Spend more if",
+          "text": "You watch films in the dark or care about picture quality over everything else. The jump from the TCL Q65 to the Sony BRAVIA 5 is the one you will notice every evening."
+        },
+        {
+          "label": "Save if",
+          "text": "The TV is mostly for daytime sports and streaming. The Samsung DU9000 and TCL Q65 give you the same 98-inch screen for much less."
+        }
       ]
     }
   ],
@@ -271,5 +433,9 @@
     }
   ],
   "finalTake": "The Sony BRAVIA 5 is the 98-inch TV we would buy for a dark room, because Mini-LED matters most at this size. Gamers should look at the TCL QM7L for its 144Hz panel. For a bright family room, the Samsung Q7F balances color and cost. If budget decides, the TCL Q65 and Samsung DU9000 get you the same screen size for less.",
-  "related": []
+  "related": [
+    "best-32-inch-tvs",
+    "best-50-inch-tvs",
+    "best-55-inch-tvs"
+  ]
 }

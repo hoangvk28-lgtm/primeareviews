@@ -26,10 +26,22 @@
       "verdict": "Four phantom-powered XLR inputs, four independent headphone outputs and four sound pads.",
       "description": "The PodTrak P4 has four high-quality microphone inputs with phantom power, four headphone outputs with individual volume control, four programmable sound pads and multitrack recording.\n\nIt ranks first because it is built around the podcast workflow: each host controls their own headphone level, and sound pads trigger jingles and clips without a laptop. Next to the LiveTrak units it has fewer tracks, but a four-host show does not need more. It also costs less, at $100 to $200.\n\nBuy it for a two to four-person podcast recorded in one room. The caveat is that the listing gives no battery detail, so confirm power options for location work.",
       "keySpecs": [
-        { "label": "Mic inputs", "value": "4 XLR with phantom power" },
-        { "label": "Headphones", "value": "4 outputs, individual volume" },
-        { "label": "Pads", "value": "4 programmable sound pads" },
-        { "label": "Recording", "value": "Multitrack" }
+        {
+          "label": "Mic inputs",
+          "value": "4 XLR with phantom power"
+        },
+        {
+          "label": "Headphones",
+          "value": "4 outputs, individual volume"
+        },
+        {
+          "label": "Pads",
+          "value": "4 programmable sound pads"
+        },
+        {
+          "label": "Recording",
+          "value": "Multitrack"
+        }
       ],
       "pros": [
         "Four phantom-powered XLR inputs",
@@ -56,10 +68,22 @@
       "verdict": "A 32-bit float mixer that records 10 discrete tracks and doubles as an audio interface.",
       "description": "The LiveTrak L6 records 10 discrete tracks plus a full mix, delivers clip-free audio and functions as a 32-bit float audio interface.\n\nIt ranks second because 32-bit float recording is the most practical feature for podcasters: it keeps audio intact even when someone laughs or shouts into the mic, with no gain-setting worries. It trades the P4's sound pads for that safety net, and sits at $200 to $500.\n\nBuy it if you want recording that survives loud peaks and a mixer that also connects to a computer. The caveat is the higher price and that the listing does not mention sound pads.",
       "keySpecs": [
-        { "label": "Tracks", "value": "10 discrete tracks plus a full mix" },
-        { "label": "Recording", "value": "32-bit float" },
-        { "label": "Interface", "value": "Audio interface function" },
-        { "label": "Price tier", "value": "$200 to $500" }
+        {
+          "label": "Tracks",
+          "value": "10 discrete tracks plus a full mix"
+        },
+        {
+          "label": "Recording",
+          "value": "32-bit float"
+        },
+        {
+          "label": "Interface",
+          "value": "Audio interface function"
+        },
+        {
+          "label": "Price tier",
+          "value": "$200 to $500"
+        }
       ],
       "pros": [
         "32-bit float, clip-free audio",
@@ -86,10 +110,22 @@
       "verdict": "A battery-powered 12-track recorder with a low noise floor and four headphone outputs.",
       "description": "The LiveTrak L-8 is battery powered, captures 12 tracks simultaneously at 24-bit/96kHz, lists a -121 dBu noise floor and provides four headphone outputs with independent mixes.\n\nIt ranks third because battery power makes it the one to take on location, where the P4 and L-12 rely on the wall. Its noise floor of -121 dBu is lower than ordinary podcast hardware needs, though not as low as the L-12's -128 dBu EIN preamps. The L6 beats it on 32-bit float.\n\nBuy it for location recording and interviews away from mains. The caveat is that 24-bit recording needs careful gain setting, and it costs $200 to $500.",
       "keySpecs": [
-        { "label": "Tracks", "value": "12 simultaneous" },
-        { "label": "Resolution", "value": "24-bit/96kHz" },
-        { "label": "Noise floor", "value": "-121 dBu" },
-        { "label": "Power", "value": "Battery powered" }
+        {
+          "label": "Tracks",
+          "value": "12 simultaneous"
+        },
+        {
+          "label": "Resolution",
+          "value": "24-bit/96kHz"
+        },
+        {
+          "label": "Noise floor",
+          "value": "-121 dBu"
+        },
+        {
+          "label": "Power",
+          "value": "Battery powered"
+        }
       ],
       "pros": [
         "Battery powered for location",
@@ -116,10 +152,22 @@
       "verdict": "Up to 14 tracks, five monitor mixes and -128 dBu EIN preamps, for large shows.",
       "description": "The LiveTrak L-12 records up to 14 tracks simultaneously, provides five individual monitor mixes with dedicated controls and has onboard effects with -128 dBu EIN preamps.\n\nIt ranks fourth because it is built for bands and large panels, which overshoots most podcasts, and at $500 and up it is the most expensive here. The five monitor mixes are the point: each person hears a different blend, which is vital for a big panel or a live-to-tape show.\n\nBuy it for a large panel or a hybrid band and podcast studio. The caveat is the price and the size, which suit a fixed desk better than a travel bag.",
       "keySpecs": [
-        { "label": "Tracks", "value": "Up to 14 simultaneous" },
-        { "label": "Monitor mixes", "value": "5 individual" },
-        { "label": "Preamps", "value": "-128 dBu EIN" },
-        { "label": "Extras", "value": "Onboard effects" }
+        {
+          "label": "Tracks",
+          "value": "Up to 14 simultaneous"
+        },
+        {
+          "label": "Monitor mixes",
+          "value": "5 individual"
+        },
+        {
+          "label": "Preamps",
+          "value": "-128 dBu EIN"
+        },
+        {
+          "label": "Extras",
+          "value": "Onboard effects"
+        }
       ],
       "pros": [
         "Up to 14 tracks",
@@ -146,10 +194,22 @@
       "verdict": "Two USB mic inputs, remote guest connection and built-in noise reduction, tone shaping and de-essing.",
       "description": "The PodTrak P2 takes two USB microphones, connects a remote guest without echo and includes noise reduction, tone shaping, a compressor and a de-esser. It is the cheapest here, at $50 to $100.\n\nIt ranks last as a mixer because it is a recorder for USB mics, with no XLR inputs. That is a benefit for beginners who own USB mics already, and the processing tools handle common problems without a mixing desk. The P4 is the step up for XLR.\n\nBuy it for a two-host show on USB mics and remote guests. The caveat is that you cannot use XLR microphones and the processing is built in, not adjustable like a console.",
       "keySpecs": [
-        { "label": "Inputs", "value": "2 USB mic inputs" },
-        { "label": "Remote guest", "value": "Connects without echo" },
-        { "label": "Processing", "value": "Noise reduction, tone shaping, compressor, de-esser" },
-        { "label": "Price tier", "value": "$50 to $100" }
+        {
+          "label": "Inputs",
+          "value": "2 USB mic inputs"
+        },
+        {
+          "label": "Remote guest",
+          "value": "Connects without echo"
+        },
+        {
+          "label": "Processing",
+          "value": "Noise reduction, tone shaping, compressor, de-esser"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Cheapest at $50 to $100",
@@ -167,11 +227,26 @@
     }
   ],
   "methodology": [
-    { "title": "Input count and type", "description": "XLR or USB inputs and whether phantom power is included." },
-    { "title": "Headphone outputs", "description": "Number of outputs and how independently each can be controlled." },
-    { "title": "Recording capability", "description": "Track count, bit depth and float recording." },
-    { "title": "Podcast features", "description": "Sound pads, remote guest connections and processing." },
-    { "title": "Power and portability", "description": "Battery options and suitability for location work." }
+    {
+      "title": "Input count and type",
+      "description": "XLR or USB inputs and whether phantom power is included."
+    },
+    {
+      "title": "Headphone outputs",
+      "description": "Number of outputs and how independently each can be controlled."
+    },
+    {
+      "title": "Recording capability",
+      "description": "Track count, bit depth and float recording."
+    },
+    {
+      "title": "Podcast features",
+      "description": "Sound pads, remote guest connections and processing."
+    },
+    {
+      "title": "Power and portability",
+      "description": "Battery options and suitability for location work."
+    }
   ],
   "whatMatters": [
     {
@@ -200,60 +275,126 @@
       "subheading": "By Number of Hosts",
       "intro": "Match inputs and headphone outputs to your show.",
       "table": {
-        "headers": ["Show format", "Our pick"],
+        "headers": [
+          "Show format",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to four hosts, one room", "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"],
-          ["Two hosts on USB mics", "Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction"],
-          ["Large panel", "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"],
-          ["Interviews on location", "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"]
+          [
+            "Up to four hosts, one room",
+            "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"
+          ],
+          [
+            "Two hosts on USB mics",
+            "Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction"
+          ],
+          [
+            "Large panel",
+            "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "Interviews on location",
+            "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100", "Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction"],
-          ["$100 to $200", "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"],
-          ["$200 to $500, clip-free", "Zoom LiveTrak L6 Mixer/Recorder for Musicians & Podcasters"],
-          ["$200 to $500, battery", "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"],
-          ["$500 and up", "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"]
+          [
+            "$50 to $100",
+            "Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction"
+          ],
+          [
+            "$100 to $200",
+            "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"
+          ],
+          [
+            "$200 to $500, clip-free",
+            "Zoom LiveTrak L6 Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "$200 to $500, battery",
+            "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "$500 and up",
+            "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"
+          ]
         ]
       }
     },
     {
       "subheading": "PodTrak vs LiveTrak",
       "cards": [
-        { "label": "PodTrak", "text": "Built for podcasts, with sound pads and per-host headphone control. The P4 and P2 are PodTrak units." },
-        { "label": "LiveTrak", "text": "More tracks, effects and monitor mixes, grown from live music. The L6, L-8 and L-12 are LiveTrak." }
+        {
+          "label": "PodTrak",
+          "text": "Built for podcasts, with sound pads and per-host headphone control. The P4 and P2 are PodTrak units."
+        },
+        {
+          "label": "LiveTrak",
+          "text": "More tracks, effects and monitor mixes, grown from live music. The L6, L-8 and L-12 are LiveTrak."
+        }
       ],
       "note": "Choose PodTrak unless you record bands or large panels."
     },
     {
       "subheading": "By Recording Spec",
       "table": {
-        "headers": ["Spec", "Our pick"],
+        "headers": [
+          "Spec",
+          "Our pick"
+        ],
         "rows": [
-          ["32-bit float", "Zoom LiveTrak L6 Mixer/Recorder for Musicians & Podcasters"],
-          ["12 tracks at 24-bit/96kHz", "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"],
-          ["14 tracks, -128 dBu EIN", "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"],
-          ["Multitrack with pads", "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"]
+          [
+            "32-bit float",
+            "Zoom LiveTrak L6 Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "12 tracks at 24-bit/96kHz",
+            "Zoom LiveTrak L-8 Battery Powered Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "14 tracks, -128 dBu EIN",
+            "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"
+          ],
+          [
+            "Multitrack with pads",
+            "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Two-Host Show Specifically",
       "cards": [
-        { "label": "Look for", "text": "Two mic inputs, separate headphone volumes and a remote guest option if you interview." },
-        { "label": "In this ranking", "text": "The PodTrak P4 covers XLR mics with room to grow, and the P2 suits two USB mics with remote guests." }
+        {
+          "label": "Look for",
+          "text": "Two mic inputs, separate headphone volumes and a remote guest option if you interview."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The PodTrak P4 covers XLR mics with room to grow, and the P2 suits two USB mics with remote guests."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You record large panels or want separate monitor mixes, which the $500 and up L-12 provides." },
-        { "label": "Save if", "text": "You have two hosts, where the P2 at $50 to $100 or the P4 at $100 to $200 covers the job." }
+        {
+          "label": "Spend more if",
+          "text": "You record large panels or want separate monitor mixes, which the $500 and up L-12 provides."
+        },
+        {
+          "label": "Save if",
+          "text": "You have two hosts, where the P2 at $50 to $100 or the P4 at $100 to $200 covers the job."
+        }
       ]
     }
   ],
@@ -284,5 +425,9 @@
     }
   ],
   "finalTake": "Buy the PodTrak P4 if you run a small show: four XLR inputs, individual headphone volumes and sound pads at $100 to $200. Step up to the LiveTrak L6 for 32-bit float safety, the L-8 for battery power or the L-12 for big panels. Choose the P2 only if you use USB mics.",
-  "related": []
+  "related": [
+    "best-10-laptop-charging-carts",
+    "best-1080p-projectors",
+    "best-13-inch-laptop-cooling-pads"
+  ]
 }

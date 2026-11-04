@@ -26,10 +26,22 @@
       "verdict": "The only extender here with a 2404 Mbps headline rate and Wi-Fi 6.",
       "description": "The AX3000 is a Wi-Fi 6 dual-band extender with a 3 Gbps total rating and a 2404 Mbps headline rate on the faster band. TP-Link lists coverage of up to 2400 square feet and uses two high-gain directional antennas with beamforming, which aims signal at devices rather than spraying it evenly.\n\nIt tops the ranking on rate alone. The next TP-Link, the AX1800, cuts the headline figure to 1.8 Gbps, and both AC models drop to Wi-Fi 5. Directional antennas are the other differentiator: placing the unit correctly matters more here than on an omni-antenna model, because the beam has a front and a back.\n\nBuy it if your router is Wi-Fi 6 and you have fast internet to protect. The $100 to $200 bucket is the steepest in the group, so skip it if your devices are all older Wi-Fi 5 clients.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 dual-band" },
-        { "label": "Total bandwidth", "value": "3 Gbps (2404 Mbps headline)" },
-        { "label": "Listed coverage", "value": "Up to 2400 sq ft" },
-        { "label": "Antennas", "value": "2 high-gain directional" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 dual-band"
+        },
+        {
+          "label": "Total bandwidth",
+          "value": "3 Gbps (2404 Mbps headline)"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 2400 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "2 high-gain directional"
+        }
       ],
       "pros": [
         "Highest headline rate in the group",
@@ -56,10 +68,22 @@
       "verdict": "Wi-Fi 6 plus an Ethernet port, at half the AX3000's bucket.",
       "description": "The RE615X is a Wi-Fi 6 dual-band extender rated at 1.8 Gbps total with up to 2100 square feet of listed coverage and an Ethernet port. It sits in the $50 to $100 bucket.\n\nThe Ethernet port is the feature that moves it ahead of the Wi-Fi 5 AC1900. A wired port lets you plug a TV, console or desktop into the extender, which leaves the wireless link free for everything else. Compared with the AX3000, you lose roughly 1.2 Gbps of headline rate and about 300 square feet of listed range, but you also save a bucket.\n\nBuy it for a mid-size home with a Wi-Fi 6 router and a stationary device to wire up. The honest caveat is that the 5GHz rate is not listed separately, so check your router band before assuming full speed.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 6 dual-band" },
-        { "label": "Total bandwidth", "value": "1.8 Gbps" },
-        { "label": "Listed coverage", "value": "Up to 2100 sq ft" },
-        { "label": "Wired port", "value": "Ethernet included" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 dual-band"
+        },
+        {
+          "label": "Total bandwidth",
+          "value": "1.8 Gbps"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 2100 sq ft"
+        },
+        {
+          "label": "Wired port",
+          "value": "Ethernet included"
+        }
       ],
       "pros": [
         "Wi-Fi 6 at a mid-range price",
@@ -86,10 +110,22 @@
       "verdict": "Three adjustable antennas and 1.9 Gbps on Wi-Fi 5 for under $50.",
       "description": "The RE550 is a Wi-Fi 5 dual-band extender with a 1.9 Gbps total rating, 2100 square feet of listed coverage and three adjustable external antennas. It sits in the $25 to $50 bucket.\n\nIts total bandwidth is the second highest in the group, but the standard is older, so the AX1800 delivers better behavior with multiple modern devices at a higher bucket. The external antennas can be angled, which helps when the outlet position is poor. It beats the AC1200 RE315 on rate and coverage for a small step up in price.\n\nBuy it if your router and devices are Wi-Fi 5 and you want an affordable boost. The 1.9 Gbps figure combines both bands, so do not expect it on a single phone.",
       "keySpecs": [
-        { "label": "Standard", "value": "Wi-Fi 5 dual-band" },
-        { "label": "Total bandwidth", "value": "1.9 Gbps" },
-        { "label": "Listed coverage", "value": "Up to 2100 sq ft" },
-        { "label": "Antennas", "value": "3 adjustable external" }
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5 dual-band"
+        },
+        {
+          "label": "Total bandwidth",
+          "value": "1.9 Gbps"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 2100 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "3 adjustable external"
+        }
       ],
       "pros": [
         "Three adjustable antennas",
@@ -116,10 +152,22 @@
       "verdict": "867 Mbps on 5GHz for under $25, from a brand with firmware support.",
       "description": "The RE315 is an AC1200 extender: 867 Mbps on 5GHz plus 300 Mbps on 2.4GHz, with 1500 square feet of listed coverage and two adjustable external antennas. TP-Link lists Adaptive Path Selection, a feature intended to pick the best route between router and extender. It is in the under $25 bucket.\n\nThe 5GHz figure of 867 Mbps is the number to weigh, and it is the same as the PEDUMMY's. Where it separates from the two generic repeaters is brand: TP-Link firmware and app support are better documented than the unnamed alternatives. It ranks below the RE550 on bandwidth and coverage.\n\nBuy it for a small apartment or a single dead room. The 1500 square foot claim is the smallest in the group, so do not stretch it across a large house.",
       "keySpecs": [
-        { "label": "5GHz rate", "value": "867 Mbps" },
-        { "label": "Total bandwidth", "value": "1.2 Gbps" },
-        { "label": "Listed coverage", "value": "Up to 1500 sq ft" },
-        { "label": "Antennas", "value": "2 adjustable external" }
+        {
+          "label": "5GHz rate",
+          "value": "867 Mbps"
+        },
+        {
+          "label": "Total bandwidth",
+          "value": "1.2 Gbps"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 1500 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "2 adjustable external"
+        }
       ],
       "pros": [
         "Lowest price bucket from TP-Link",
@@ -146,10 +194,22 @@
       "verdict": "867 Mbps on 5GHz, an Ethernet port and AP mode, with an optimistic range claim.",
       "description": "The PEDUMMY lists 867 Mbps on 5GHz and 300 Mbps on 2.4GHz, an Ethernet port, an access point mode and up to 5200 square feet of coverage. It is in the $25 to $50 bucket.\n\nThe wired port and AP mode are real advantages: you can run a cable from the router and create a proper second access point, which avoids the halving penalty of wireless repeating. But 5200 square feet is not a figure the antenna count supports, and no brand support page backs it up. It ranks above the VERMEYEN because the Ethernet port and AP mode are explicit, but below the TP-Link models for firmware track record.\n\nBuy it if you can run Ethernet to it. Treat the coverage claim as a marketing number and plan for a fraction of it.",
       "keySpecs": [
-        { "label": "5GHz rate", "value": "867 Mbps" },
-        { "label": "2.4GHz rate", "value": "300 Mbps" },
-        { "label": "Listed coverage", "value": "Up to 5200 sq ft" },
-        { "label": "Wired port", "value": "Ethernet plus AP mode" }
+        {
+          "label": "5GHz rate",
+          "value": "867 Mbps"
+        },
+        {
+          "label": "2.4GHz rate",
+          "value": "300 Mbps"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 5200 sq ft"
+        },
+        {
+          "label": "Wired port",
+          "value": "Ethernet plus AP mode"
+        }
       ],
       "pros": [
         "Ethernet port included",
@@ -176,10 +236,22 @@
       "verdict": "Three selectable modes, but the lightest spec detail in the group.",
       "description": "The VERMEYEN is a 1200 Mbps dual-band extender with 300 Mbps on 2.4GHz, a 5000 square foot listed coverage claim and three selectable modes, including repeater and AP. It sits in the $25 to $50 bucket.\n\nMode flexibility is the attraction, and it is why the unit is on the list at all. It ranks last because the listing does not break out the 5GHz rate, mention a wired port or provide a brand track record, which leaves less to verify than the PEDUMMY. Like that model, the 5000 square foot figure is a ceiling, not a typical result.\n\nBuy it if you like switching between repeater and access-point use. Skip it if you want hard numbers to compare, as the 5GHz rate and any Ethernet connection are not clearly listed.",
       "keySpecs": [
-        { "label": "Total bandwidth", "value": "1200 Mbps dual-band" },
-        { "label": "2.4GHz rate", "value": "300 Mbps" },
-        { "label": "Listed coverage", "value": "Up to 5000 sq ft" },
-        { "label": "Modes", "value": "3 selectable, incl. AP" }
+        {
+          "label": "Total bandwidth",
+          "value": "1200 Mbps dual-band"
+        },
+        {
+          "label": "2.4GHz rate",
+          "value": "300 Mbps"
+        },
+        {
+          "label": "Listed coverage",
+          "value": "Up to 5000 sq ft"
+        },
+        {
+          "label": "Modes",
+          "value": "3 selectable, incl. AP"
+        }
       ],
       "pros": [
         "Repeater and AP modes",
@@ -245,24 +317,54 @@
       "subheading": "By Wi-Fi Standard",
       "intro": "The standard decides how well the extender behaves with many devices, not only how fast it is.",
       "table": {
-        "headers": ["Your router", "Our pick"],
+        "headers": [
+          "Your router",
+          "Our pick"
+        ],
         "rows": [
-          ["Wi-Fi 6, fast internet", "TP-Link AX3000 WiFi 6 Range Extender"],
-          ["Wi-Fi 6, mid-size home", "TP-Link AX1800 RE615X"],
-          ["Wi-Fi 5, want more range", "TP-Link AC1900 RE550"],
-          ["Wi-Fi 5, small space", "TP-Link AC1200 RE315"]
+          [
+            "Wi-Fi 6, fast internet",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ],
+          [
+            "Wi-Fi 6, mid-size home",
+            "TP-Link AX1800 RE615X"
+          ],
+          [
+            "Wi-Fi 5, want more range",
+            "TP-Link AC1900 RE550"
+          ],
+          [
+            "Wi-Fi 5, small space",
+            "TP-Link AC1200 RE315"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25", "TP-Link AC1200 RE315"],
-          ["$25 to $50", "TP-Link AC1900 RE550"],
-          ["$50 to $100", "TP-Link AX1800 RE615X"],
-          ["$100 to $200", "TP-Link AX3000 WiFi 6 Range Extender"]
+          [
+            "Under $25",
+            "TP-Link AC1200 RE315"
+          ],
+          [
+            "$25 to $50",
+            "TP-Link AC1900 RE550"
+          ],
+          [
+            "$50 to $100",
+            "TP-Link AX1800 RE615X"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ]
         ]
       }
     },
@@ -283,12 +385,27 @@
     {
       "subheading": "By Coverage Need",
       "table": {
-        "headers": ["Area", "Our pick"],
+        "headers": [
+          "Area",
+          "Our pick"
+        ],
         "rows": [
-          ["Up to about 1500 sq ft", "TP-Link AC1200 RE315"],
-          ["Up to about 2100 sq ft", "TP-Link AX1800 RE615X"],
-          ["Up to about 2400 sq ft", "TP-Link AX3000 WiFi 6 Range Extender"],
-          ["Large home with wired backhaul", "PEDUMMY 1200Mbps WiFi Extender"]
+          [
+            "Up to about 1500 sq ft",
+            "TP-Link AC1200 RE315"
+          ],
+          [
+            "Up to about 2100 sq ft",
+            "TP-Link AX1800 RE615X"
+          ],
+          [
+            "Up to about 2400 sq ft",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ],
+          [
+            "Large home with wired backhaul",
+            "PEDUMMY 1200Mbps WiFi Extender"
+          ]
         ]
       }
     },
@@ -346,5 +463,9 @@
     }
   ],
   "finalTake": "The TP-Link AX3000 is the extender to buy if your router and internet plan are modern. Most homes will be better served by the AX1800 RE615X, which adds Wi-Fi 6 and an Ethernet port for half the bucket. Choose the AC1900 RE550 or AC1200 RE315 for Wi-Fi 5 setups, and treat the 5000 square foot claims on the generic units with caution.",
-  "related": []
+  "related": [
+    "best-deco-wi-fi-extenders",
+    "best-dual-band-wi-fi-extenders",
+    "best-long-range-wi-fi-extenders"
+  ]
 }

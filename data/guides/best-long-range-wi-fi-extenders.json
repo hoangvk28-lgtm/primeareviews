@@ -26,10 +26,22 @@
       "verdict": "Wi-Fi 7, four 8 dBi antennas and PoE power make it the long-range leader.",
       "description": "WAVLINK's BE5100 is the only Wi-Fi 7 (802.11be) extender in this roundup, with 4,323 Mbps on 5 GHz and 688 Mbps on 2.4 GHz. Four detachable 8 dBi antennas provide the gain behind a claimed reach of up to 300 meters, and it accepts both active and passive PoE (802.3af/at), so a single Ethernet cable can power the unit at a distant shed or pole.\n\nIt beats the AX3000 on standard and speed ceiling, though the real 300 meter figure assumes open ground with clear sight lines. Compared with the TP-Link indoor models, it is a specialist: built for outdoor mounting and long links.\n\nPick it for barns, workshops, campsites and detached garages. Caveat: you need a Wi-Fi 7 router at the other end to use the highest speeds, so older routers will cap it.",
       "keySpecs": [
-        {"label": "Standard", "value": "Wi-Fi 7 (802.11be)"},
-        {"label": "Speeds", "value": "4,323 Mbps 5 GHz, 688 Mbps 2.4 GHz"},
-        {"label": "Antennas", "value": "4 detachable 8 dBi"},
-        {"label": "Power", "value": "802.3af/at PoE"}
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 7 (802.11be)"
+        },
+        {
+          "label": "Speeds",
+          "value": "4,323 Mbps 5 GHz, 688 Mbps 2.4 GHz"
+        },
+        {
+          "label": "Antennas",
+          "value": "4 detachable 8 dBi"
+        },
+        {
+          "label": "Power",
+          "value": "802.3af/at PoE"
+        }
       ],
       "pros": [
         "Wi-Fi 7 speed ceiling",
@@ -56,10 +68,22 @@
       "verdict": "Wi-Fi 6, four 8 dBi antennas and two built-in amplifiers for 200 to 300 meter links.",
       "description": "The AX3000 uses Wi-Fi 6 with four detachable 8 dBi omnidirectional antennas and two built-in amplifiers that boost the transmit signal. WAVLINK quotes a range of 200 to 300 meters in open conditions. Omnidirectional antennas spread signal in a flat circle around the unit, which suits a central mounting point.\n\nIt ranks below the BE5100 because it lacks Wi-Fi 7 and PoE detail in the listing. Against the AX1800, it adds amplifiers and much higher rated throughput, but the AX1800 is cheaper and lists an IP67 rating.\n\nA fit for big yards and farm properties running a Wi-Fi 6 router. Caveat: the listing gives no weather rating, so mount it under cover or confirm the enclosure before leaving it exposed.",
       "keySpecs": [
-        {"label": "Standard", "value": "Wi-Fi 6 (AX3000)"},
-        {"label": "Antennas", "value": "4 detachable 8 dBi omni"},
-        {"label": "Amplifiers", "value": "2 built in"},
-        {"label": "Claimed range", "value": "200 to 300 m"}
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 (AX3000)"
+        },
+        {
+          "label": "Antennas",
+          "value": "4 detachable 8 dBi omni"
+        },
+        {
+          "label": "Amplifiers",
+          "value": "2 built in"
+        },
+        {
+          "label": "Claimed range",
+          "value": "200 to 300 m"
+        }
       ],
       "pros": [
         "Two built-in amplifiers",
@@ -86,10 +110,22 @@
       "verdict": "Wi-Fi 6 with 2,404 Mbps on 5 GHz and directional antennas for homes up to 2,400 square feet.",
       "description": "TP-Link's AX3000 is an indoor Wi-Fi 6 extender with a total bandwidth of 3 Gbps and up to 2,404 Mbps on the 5 GHz band. It carries two high-gain directional antennas and is rated for coverage of up to 2,400 square feet. Directional antennas focus signal toward the area you aim them at, which helps with a stubborn dead zone in one direction.\n\nIt ranks third because it is built for rooms, not for outdoor distance. Against the WAVLINKs, it offers a polished indoor setup but not the gain for hundreds of meters. Against the RE550, it brings Wi-Fi 6 and much higher 5 GHz speed.\n\nPick it for a two-story house or a basement office. Caveat: the 2,400 square feet rating is a ceiling, and thick walls or masonry reduce that quickly.",
       "keySpecs": [
-        {"label": "Standard", "value": "Wi-Fi 6 (AX3000)"},
-        {"label": "5 GHz speed", "value": "Up to 2,404 Mbps"},
-        {"label": "Coverage", "value": "Up to 2,400 sq ft"},
-        {"label": "Antennas", "value": "2 high-gain directional"}
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 (AX3000)"
+        },
+        {
+          "label": "5 GHz speed",
+          "value": "Up to 2,404 Mbps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,400 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "2 high-gain directional"
+        }
       ],
       "pros": [
         "Wi-Fi 6 with 3 Gbps total",
@@ -116,10 +152,22 @@
       "verdict": "An IP67 weatherproof Wi-Fi 6 extender that is also Starlink compatible.",
       "description": "WAVLINK's AX1800 is the weatherproof budget option, rated IP67, which means dust tight and able to survive temporary immersion. It offers Wi-Fi 6 speeds of 1,201 Mbps on 5 GHz and 574 Mbps on 2.4 GHz, and the listing notes Starlink compatibility, useful for rural properties pairing the extender with a satellite router.\n\nIt ranks fourth because the AX3000 offers higher ceilings and amplifiers. In exchange, the AX1800 costs noticeably less and the IP67 rating is the only explicit weatherproofing here.\n\nA smart buy for a patio, pool house or RV pad that needs a rugged unit without Wi-Fi 7 pricing. Caveat: the listing does not state antenna gain, so long-distance performance is harder to judge than on the 8 dBi models above.",
       "keySpecs": [
-        {"label": "Standard", "value": "Wi-Fi 6 (AX1800)"},
-        {"label": "Speeds", "value": "1,201 Mbps 5 GHz, 574 Mbps 2.4 GHz"},
-        {"label": "Weather rating", "value": "IP67"},
-        {"label": "Compatibility", "value": "Starlink"}
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 6 (AX1800)"
+        },
+        {
+          "label": "Speeds",
+          "value": "1,201 Mbps 5 GHz, 574 Mbps 2.4 GHz"
+        },
+        {
+          "label": "Weather rating",
+          "value": "IP67"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Starlink"
+        }
       ],
       "pros": [
         "IP67 weatherproof housing",
@@ -146,10 +194,22 @@
       "verdict": "A Wi-Fi 5 extender with three adjustable antennas for homes up to 2,100 square feet.",
       "description": "The RE550 is a Wi-Fi 5 (AC1900) extender with 1.9 Gbps of total bandwidth and three adjustable external antennas. TP-Link rates it for up to 2,100 square feet. Adjustable antennas let you angle the signal vertically or horizontally to match the floor you are trying to reach, a small but useful control at this price.\n\nIt ranks fifth because Wi-Fi 5 lacks the efficiency of Wi-Fi 6 in crowded homes with many devices. Against the AX3000, it gives up speed headroom, but it costs a fraction and is a practical fix for a single weak room.\n\nBuy it for a small home or apartment with one dead zone. Caveat: its total bandwidth is shared across bands, so heavy streaming on the extender may feel slower than the 1.9 Gbps headline suggests.",
       "keySpecs": [
-        {"label": "Standard", "value": "Wi-Fi 5 (AC1900)"},
-        {"label": "Bandwidth", "value": "1.9 Gbps total"},
-        {"label": "Coverage", "value": "Up to 2,100 sq ft"},
-        {"label": "Antennas", "value": "3 adjustable external"}
+        {
+          "label": "Standard",
+          "value": "Wi-Fi 5 (AC1900)"
+        },
+        {
+          "label": "Bandwidth",
+          "value": "1.9 Gbps total"
+        },
+        {
+          "label": "Coverage",
+          "value": "Up to 2,100 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "3 adjustable external"
+        }
       ],
       "pros": [
         "Low entry price",
@@ -176,10 +236,22 @@
       "verdict": "A cheap booster with four external antennas and an Ethernet port, but a lofty coverage claim.",
       "description": "Hyzom claims coverage of up to 18,000 square feet from four high-gain external antennas, and adds an Ethernet port for wired devices. Setup works through WPS or a browser page, which is simple for a first-time user. For a small price, it covers the basics of extending a home network.\n\nIt ranks last because 18,000 square feet is a marketing number that real homes will not see, and the listing gives no Wi-Fi standard or speed figures. Against the TP-Link models, the spec transparency is weaker, which makes a purchase more of a gamble.\n\nBest for cheap, occasional coverage in a garage or small office. Caveat: treat the coverage claim as a ceiling for open air, not a promise for a house full of walls.",
       "keySpecs": [
-        {"label": "Claimed coverage", "value": "Up to 18,000 sq ft"},
-        {"label": "Antennas", "value": "4 high-gain external"},
-        {"label": "Wired port", "value": "Ethernet"},
-        {"label": "Setup", "value": "WPS or browser"}
+        {
+          "label": "Claimed coverage",
+          "value": "Up to 18,000 sq ft"
+        },
+        {
+          "label": "Antennas",
+          "value": "4 high-gain external"
+        },
+        {
+          "label": "Wired port",
+          "value": "Ethernet"
+        },
+        {
+          "label": "Setup",
+          "value": "WPS or browser"
+        }
       ],
       "pros": [
         "Low price",
@@ -197,88 +269,203 @@
     }
   ],
   "methodology": [
-    {"title": "Antenna gain and range hardware", "description": "We ranked extenders by stated antenna count, dBi gain and built-in amplifiers, since those decide how far a usable signal travels."},
-    {"title": "Band speeds and standard", "description": "Wi-Fi 7, Wi-Fi 6 and Wi-Fi 5 ratings and per-band Mbps were compared for how much headroom each leaves for the devices behind it."},
-    {"title": "Power and weather support", "description": "PoE power, IP ratings and outdoor suitability were scored for far installs where no outlet exists."},
-    {"title": "Wired options and setup", "description": "Ethernet ports and WPS or browser setup were weighed for flexibility and first-time ease."},
-    {"title": "Spec transparency", "description": "Listings that state standards, speeds and coverage clearly scored above those with only a large coverage claim."}
+    {
+      "title": "Antenna gain and range hardware",
+      "description": "We ranked extenders by stated antenna count, dBi gain and built-in amplifiers, since those decide how far a usable signal travels."
+    },
+    {
+      "title": "Band speeds and standard",
+      "description": "Wi-Fi 7, Wi-Fi 6 and Wi-Fi 5 ratings and per-band Mbps were compared for how much headroom each leaves for the devices behind it."
+    },
+    {
+      "title": "Power and weather support",
+      "description": "PoE power, IP ratings and outdoor suitability were scored for far installs where no outlet exists."
+    },
+    {
+      "title": "Wired options and setup",
+      "description": "Ethernet ports and WPS or browser setup were weighed for flexibility and first-time ease."
+    },
+    {
+      "title": "Spec transparency",
+      "description": "Listings that state standards, speeds and coverage clearly scored above those with only a large coverage claim."
+    }
   ],
   "whatMatters": [
-    {"factor": "Antenna gain", "detail": "Gain is measured in dBi and describes how strongly an antenna focuses signal. Higher gain pushes further along a flat plane but narrows coverage above and below, so an extender on a tall pole can miss a nearby upstairs room. Look for stated dBi figures, like the 8 dBi on the WAVLINK models, and note whether antennas detach for upgrades."},
-    {"factor": "Wi-Fi standard and band speed", "detail": "Wi-Fi 7, Wi-Fi 6 and Wi-Fi 5 set the speed ceiling and how efficiently many devices share it. Your router must support the same standard to unlock full speed, since the link only runs as fast as its weaker end. Check the per-band Mbps, such as 4,323 Mbps on the BE5100's 5 GHz, rather than only the headline number."},
-    {"factor": "Power over Ethernet", "detail": "PoE sends power and data down one cable, so an extender can be mounted on a pole or shed wall far from an outlet. Active and passive PoE are different, and 802.3af/at refers to specific standards, so the wrong injector can fail to power the unit. Verify which PoE type the listing supports before buying a switch."},
-    {"factor": "Weather rating", "detail": "Outdoor extenders need an IP rating to survive rain, dust and temperature swings, and water at the antenna connectors is the usual way they die. IP67, as on the WAVLINK AX1800, means dust tight and able to survive brief immersion. Check the rating on the listing, and mount the unit with connectors pointing down so water cannot pool."},
-    {"factor": "Backhaul quality", "detail": "An extender can only rebroadcast the signal it receives, and a wireless hop halves throughput when one radio does both jobs. Place it where the router's signal is still strong, and use Ethernet when possible, as the Hyzom's wired port allows. Read the listing for wired ports or dedicated backhaul, and check the signal at the planned spot before drilling."}
+    {
+      "factor": "Antenna gain",
+      "detail": "Gain is measured in dBi and describes how strongly an antenna focuses signal. Higher gain pushes further along a flat plane but narrows coverage above and below, so an extender on a tall pole can miss a nearby upstairs room. Look for stated dBi figures, like the 8 dBi on the WAVLINK models, and note whether antennas detach for upgrades."
+    },
+    {
+      "factor": "Wi-Fi standard and band speed",
+      "detail": "Wi-Fi 7, Wi-Fi 6 and Wi-Fi 5 set the speed ceiling and how efficiently many devices share it. Your router must support the same standard to unlock full speed, since the link only runs as fast as its weaker end. Check the per-band Mbps, such as 4,323 Mbps on the BE5100's 5 GHz, rather than only the headline number."
+    },
+    {
+      "factor": "Power over Ethernet",
+      "detail": "PoE sends power and data down one cable, so an extender can be mounted on a pole or shed wall far from an outlet. Active and passive PoE are different, and 802.3af/at refers to specific standards, so the wrong injector can fail to power the unit. Verify which PoE type the listing supports before buying a switch."
+    },
+    {
+      "factor": "Weather rating",
+      "detail": "Outdoor extenders need an IP rating to survive rain, dust and temperature swings, and water at the antenna connectors is the usual way they die. IP67, as on the WAVLINK AX1800, means dust tight and able to survive brief immersion. Check the rating on the listing, and mount the unit with connectors pointing down so water cannot pool."
+    },
+    {
+      "factor": "Backhaul quality",
+      "detail": "An extender can only rebroadcast the signal it receives, and a wireless hop halves throughput when one radio does both jobs. Place it where the router's signal is still strong, and use Ethernet when possible, as the Hyzom's wired port allows. Read the listing for wired ports or dedicated backhaul, and check the signal at the planned spot before drilling."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Distance Needed",
       "intro": "How far the signal has to travel decides whether you need an outdoor-grade extender or an indoor one.",
       "table": {
-        "headers": ["Distance", "Our pick"],
+        "headers": [
+          "Distance",
+          "Our pick"
+        ],
         "rows": [
-          ["Hundreds of meters outdoors", "WAVLINK BE5100 WiFi 7 Outdoor Extender"],
-          ["Big yard or farm, Wi-Fi 6", "WAVLINK AX3000 Outdoor WiFi 6 Extender"],
-          ["Patio or pool house", "WAVLINK AX1800 Outdoor WiFi 6 Extender IP67"],
-          ["One floor or room indoors", "TP-Link AX3000 WiFi 6 Range Extender"]
+          [
+            "Hundreds of meters outdoors",
+            "WAVLINK BE5100 WiFi 7 Outdoor Extender"
+          ],
+          [
+            "Big yard or farm, Wi-Fi 6",
+            "WAVLINK AX3000 Outdoor WiFi 6 Extender"
+          ],
+          [
+            "Patio or pool house",
+            "WAVLINK AX1800 Outdoor WiFi 6 Extender IP67"
+          ],
+          [
+            "One floor or room indoors",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "TP-Link AC1900 Range Extender RE550"],
-          ["$50 to $100", "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"],
-          ["$100 to $200", "TP-Link AX3000 WiFi 6 Range Extender"],
-          ["$200 to $500", "WAVLINK BE5100 WiFi 7 Outdoor Extender"]
+          [
+            "$25 to $50",
+            "TP-Link AC1900 Range Extender RE550"
+          ],
+          [
+            "$50 to $100",
+            "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"
+          ],
+          [
+            "$100 to $200",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ],
+          [
+            "$200 to $500",
+            "WAVLINK BE5100 WiFi 7 Outdoor Extender"
+          ]
         ]
       }
     },
     {
       "subheading": "Indoor vs Outdoor Extender",
       "cards": [
-        {"label": "Indoor", "text": "The TP-Link AX3000 and RE550 plug in near an outlet, with directional or adjustable antennas for rooms and floors."},
-        {"label": "Outdoor", "text": "The WAVLINK models use bigger 8 dBi antennas and can be PoE powered and weatherproofed, built for yards and outbuildings."}
+        {
+          "label": "Indoor",
+          "text": "The TP-Link AX3000 and RE550 plug in near an outlet, with directional or adjustable antennas for rooms and floors."
+        },
+        {
+          "label": "Outdoor",
+          "text": "The WAVLINK models use bigger 8 dBi antennas and can be PoE powered and weatherproofed, built for yards and outbuildings."
+        }
       ],
       "note": "If the dead zone is inside your house, buy the TP-Link AX3000. If it is a separate building, buy a WAVLINK."
     },
     {
       "subheading": "By Power Source",
       "table": {
-        "headers": ["Power", "Our pick"],
+        "headers": [
+          "Power",
+          "Our pick"
+        ],
         "rows": [
-          ["Standard wall outlet", "TP-Link AX3000 WiFi 6 Range Extender"],
-          ["PoE cable to a pole", "WAVLINK BE5100 WiFi 7 Outdoor Extender"],
-          ["Weather exposed with Starlink", "WAVLINK AX1800 Outdoor WiFi 6 Extender IP67"],
-          ["Plug-in with Ethernet port", "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"]
+          [
+            "Standard wall outlet",
+            "TP-Link AX3000 WiFi 6 Range Extender"
+          ],
+          [
+            "PoE cable to a pole",
+            "WAVLINK BE5100 WiFi 7 Outdoor Extender"
+          ],
+          [
+            "Weather exposed with Starlink",
+            "WAVLINK AX1800 Outdoor WiFi 6 Extender IP67"
+          ],
+          [
+            "Plug-in with Ethernet port",
+            "Hyzom WiFi Extender Signal Booster, 18,000 Sq Ft"
+          ]
         ]
       }
     },
     {
       "subheading": "For a Detached Garage Specifically",
       "cards": [
-        {"label": "Look for", "text": "High-gain antennas, PoE or outdoor-rated power, and a clear line of sight back to the house."},
-        {"label": "In this ranking", "text": "The WAVLINK BE5100 and AX3000 offer 8 dBi antennas, and the AX1800 adds IP67 housing for a lower price."}
+        {
+          "label": "Look for",
+          "text": "High-gain antennas, PoE or outdoor-rated power, and a clear line of sight back to the house."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The WAVLINK BE5100 and AX3000 offer 8 dBi antennas, and the AX1800 adds IP67 housing for a lower price."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        {"label": "Spend more if", "text": "You need reach and speed over distance: the WAVLINK BE5100 adds Wi-Fi 7 and PoE."},
-        {"label": "Save if", "text": "You have one weak indoor room. The TP-Link RE550 is enough for a small home."}
+        {
+          "label": "Spend more if",
+          "text": "You need reach and speed over distance: the WAVLINK BE5100 adds Wi-Fi 7 and PoE."
+        },
+        {
+          "label": "Save if",
+          "text": "You have one weak indoor room. The TP-Link RE550 is enough for a small home."
+        }
       ]
     }
   ],
   "faq": [
-    {"q": "Will an extender work with any router?", "a": "Most will, but the speed is capped by the weaker device. The WAVLINK BE5100 needs a Wi-Fi 7 router to reach its top speeds, while the TP-Link RE550 is a Wi-Fi 5 unit that suits older routers and will not benefit from a newer one."},
-    {"q": "What is the biggest mistake when placing an extender?", "a": "Putting it in the dead zone. It should sit where the router's signal is still decent. A TP-Link AX3000 placed in a weak spot rebroadcasts the weakness, so move it halfway to the dead zone."},
-    {"q": "Is the WAVLINK BE5100 worth it over the AX3000?", "a": "Only if you have a Wi-Fi 7 router and a long link. The BE5100 adds Wi-Fi 7 speed and PoE detail, while the AX3000 costs less and offers amplifiers and the same four 8 dBi antennas."},
-    {"q": "How do I power an outdoor extender without an outlet?", "a": "Use PoE. The BE5100 supports 802.3af/at PoE, so a single Ethernet cable from a PoE switch or injector can carry power and data to a pole, barn or shed with no outlet nearby. Match the injector to the stated standard before you buy."},
-    {"q": "How do I keep an outdoor unit working in all weather?", "a": "Point the connectors down, seal them with weatherproof tape and use an IP-rated unit such as the AX1800 at IP67, since the unrated TP-Link models are indoor gear. Clean dust from the antennas occasionally and check cable seals each season."},
-    {"q": "Can I use these with Starlink?", "a": "The WAVLINK AX1800 lists Starlink compatibility, the only model here that does. The others work when connected to a router, but check that your satellite setup can feed them via Ethernet or Wi-Fi before mounting anything outdoors."}
+    {
+      "q": "Will an extender work with any router?",
+      "a": "Most will, but the speed is capped by the weaker device. The WAVLINK BE5100 needs a Wi-Fi 7 router to reach its top speeds, while the TP-Link RE550 is a Wi-Fi 5 unit that suits older routers and will not benefit from a newer one."
+    },
+    {
+      "q": "What is the biggest mistake when placing an extender?",
+      "a": "Putting it in the dead zone. It should sit where the router's signal is still decent. A TP-Link AX3000 placed in a weak spot rebroadcasts the weakness, so move it halfway to the dead zone."
+    },
+    {
+      "q": "Is the WAVLINK BE5100 worth it over the AX3000?",
+      "a": "Only if you have a Wi-Fi 7 router and a long link. The BE5100 adds Wi-Fi 7 speed and PoE detail, while the AX3000 costs less and offers amplifiers and the same four 8 dBi antennas."
+    },
+    {
+      "q": "How do I power an outdoor extender without an outlet?",
+      "a": "Use PoE. The BE5100 supports 802.3af/at PoE, so a single Ethernet cable from a PoE switch or injector can carry power and data to a pole, barn or shed with no outlet nearby. Match the injector to the stated standard before you buy."
+    },
+    {
+      "q": "How do I keep an outdoor unit working in all weather?",
+      "a": "Point the connectors down, seal them with weatherproof tape and use an IP-rated unit such as the AX1800 at IP67, since the unrated TP-Link models are indoor gear. Clean dust from the antennas occasionally and check cable seals each season."
+    },
+    {
+      "q": "Can I use these with Starlink?",
+      "a": "The WAVLINK AX1800 lists Starlink compatibility, the only model here that does. The others work when connected to a router, but check that your satellite setup can feed them via Ethernet or Wi-Fi before mounting anything outdoors."
+    }
   ],
   "finalTake": "For long outdoor links, the WAVLINK BE5100 is the best extender in this ranking because its four 8 dBi antennas, Wi-Fi 7 speeds and PoE power are built for distance. The TP-Link AX3000 is the better call for an indoor dead zone, and the WAVLINK AX1800 is the value outdoor choice. Place any extender where the router signal is still strong, because that matters more than any coverage claim.",
-  "related": []
+  "related": [
+    "best-5ghz-wi-fi-extenders",
+    "best-deco-wi-fi-extenders",
+    "best-dual-band-wi-fi-extenders"
+  ]
 }

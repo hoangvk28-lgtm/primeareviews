@@ -26,10 +26,22 @@
       "verdict": "A 40Gbps enclosure with a dedicated heat-dissipation design, sold without the SSD.",
       "description": "UGREEN pitches this 40Gbps enclosure as quick for large transfers, with a unique heat dissipation design and support for multiple SSD types. The SSD is not included, which is the norm.\n\nIt wins by being the cleanest option at this speed: the cooling is built into the shell rather than relying on a small fan that can fail or whine. The ORICO and ANYOYO models use fans, which move more air but add moving parts.\n\nBuy it if your laptop or desktop has a 40Gbps port and you own a spare drive. The caveat is that the listing gives few thermal details, so if you plan multi-hour copies of very large files, watch the case temperature by touch and let it rest between jobs.",
       "keySpecs": [
-        { "label": "Link speed", "value": "40Gbps" },
-        { "label": "Cooling", "value": "Passive heat dissipation design" },
-        { "label": "Drive", "value": "SSD not included" },
-        { "label": "Price", "value": "$50 to $100" }
+        {
+          "label": "Link speed",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Cooling",
+          "value": "Passive heat dissipation design"
+        },
+        {
+          "label": "Drive",
+          "value": "SSD not included"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "40Gbps link speed",
@@ -56,10 +68,22 @@
       "verdict": "40Gbps with multiple heat-dissipation measures and a built-in cooling fan.",
       "description": "ORICO lists 40Gbps speed, multiple heat dissipation methods, wide compatibility and a built-in cooling fan.\n\nThe fan is the difference from the UGREEN: it keeps a fast drive from throttling during long copies of video files. It ranks second because a fan adds noise and a wear item, while the UGREEN's passive design has neither.\n\nBuy it for heavy sustained transfers. The caveat is fan noise, which the listing does not quantify, so it may not suit a silent desk, and a fan that clogs with dust will need an occasional blast of compressed air.",
       "keySpecs": [
-        { "label": "Link speed", "value": "40Gbps" },
-        { "label": "Cooling", "value": "Built-in fan plus heat dissipation" },
-        { "label": "Compatibility", "value": "Wide" },
-        { "label": "Price", "value": "$50 to $100" }
+        {
+          "label": "Link speed",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Cooling",
+          "value": "Built-in fan plus heat dissipation"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Wide"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "40Gbps link speed",
@@ -86,10 +110,22 @@
       "verdict": "A 40Gbps fan-cooled enclosure with a dual-chip design aimed at stability.",
       "description": "ANYOYO lists 40Gbps transfer, a cooling fan, dual-chip reliability and superior heat dissipation.\n\nIt ranks third because the dual-chip claim is a selling point without detail: the listing does not say which chips or how they work. It matches the ORICO on speed and cooling and trails it only in recognizability.\n\nBuy it if the price is right and you want a fan. The caveat is the vague chip description. Without a named controller you cannot check driver support or firmware updates, so read buyer questions on the listing before you commit to it for important backups.",
       "keySpecs": [
-        { "label": "Link speed", "value": "40Gbps" },
-        { "label": "Cooling", "value": "Fan plus heat dissipation" },
-        { "label": "Design", "value": "Dual-chip" },
-        { "label": "Price", "value": "$50 to $100" }
+        {
+          "label": "Link speed",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fan plus heat dissipation"
+        },
+        {
+          "label": "Design",
+          "value": "Dual-chip"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "40Gbps link speed",
@@ -116,10 +152,22 @@
       "verdict": "A 40Gbps enclosure with a clear tool-free installation design.",
       "description": "Yottamaster offers 40Gbps speed, wide compatibility and tool-free installation with a clear design.\n\nThe tool-free install is the draw: you can swap drives without a screwdriver, handy if you move one drive between machines. It ranks fourth because no cooling feature is listed, and sustained transfers on a fast drive generate heat.\n\nBuy it for easy drive swaps. The caveat is the lack of a stated cooling design, so long transfers may slow as the drive warms, and a clear shell does nothing to move heat away from the controller.",
       "keySpecs": [
-        { "label": "Link speed", "value": "40Gbps" },
-        { "label": "Install", "value": "Tool-free, clear design" },
-        { "label": "Compatibility", "value": "Wide" },
-        { "label": "Price", "value": "$50 to $100" }
+        {
+          "label": "Link speed",
+          "value": "40Gbps"
+        },
+        {
+          "label": "Install",
+          "value": "Tool-free, clear design"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Wide"
+        },
+        {
+          "label": "Price",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Tool-free installation",
@@ -146,10 +194,22 @@
       "verdict": "Two tool-free bays, 20Gbps, silent passive cooling and PC-free offline cloning.",
       "description": "Two bays share a 20Gbps link, with tool-free installation, 0dB silent passive cooling and a one-key offline clone that works between two drives without a PC.\n\nOffline cloning is the unique feature: you can copy a drive to another without a computer in the middle. It ranks fifth because 20Gbps is shared by two bays and slower than the 40Gbps single-bay cases.\n\nBuy it if cloning is the goal. The caveat is that the same-protocol clone requires matching drives, and the destination must be at least as large as the source, so plan your capacities before you buy a second drive.",
       "keySpecs": [
-        { "label": "Link speed", "value": "20Gbps" },
-        { "label": "Bays", "value": "Dual, tool-free" },
-        { "label": "Cooling", "value": "0dB passive" },
-        { "label": "Feature", "value": "One-key offline clone" }
+        {
+          "label": "Link speed",
+          "value": "20Gbps"
+        },
+        {
+          "label": "Bays",
+          "value": "Dual, tool-free"
+        },
+        {
+          "label": "Cooling",
+          "value": "0dB passive"
+        },
+        {
+          "label": "Feature",
+          "value": "One-key offline clone"
+        }
       ],
       "pros": [
         "Dual bays",
@@ -176,10 +236,22 @@
       "verdict": "An aluminum alloy case on USB Type-C 3.2 with two cables included.",
       "description": "The ROG Strix Arion is an aluminum alloy enclosure for M.2 PCIe NVMe drives, using USB Type-C 3.2 and including two cables.\n\nIt ranks sixth because the link speed is not listed beyond the USB 3.2 label, and the 40Gbps cases are clearly faster in their listings. The metal body and included cables are real benefits.\n\nBuy it for a brand name and a metal body. The caveat is that speed is less clearly stated, so compare it to a 40Gbps case only if your port is slower anyway, and keep the two cables handy for desktops and laptops alike.",
       "keySpecs": [
-        { "label": "Interface", "value": "USB Type-C 3.2" },
-        { "label": "Body", "value": "Aluminum alloy" },
-        { "label": "Drive type", "value": "M.2 PCIe NVMe" },
-        { "label": "Cables", "value": "Two included" }
+        {
+          "label": "Interface",
+          "value": "USB Type-C 3.2"
+        },
+        {
+          "label": "Body",
+          "value": "Aluminum alloy"
+        },
+        {
+          "label": "Drive type",
+          "value": "M.2 PCIe NVMe"
+        },
+        {
+          "label": "Cables",
+          "value": "Two included"
+        }
       ],
       "pros": [
         "Aluminum body",
@@ -206,10 +278,22 @@
       "verdict": "A 10Gbps magnetic enclosure with a cooling fan, aimed at 4K@60 video recording.",
       "description": "The ACASIS runs at 10Gbps, attaches magnetically, has a cooling fan and is marketed for 4K@60 ProRes storage.\n\nIt ranks last because 10Gbps is the slowest link here, but the magnetic mount and fan suit a phone-recording workflow. It is a niche product for content creators.\n\nBuy it for recording to a phone. The caveat is that magnetic attachment depends on your device, so check that your phone or case supports it, and confirm that the fan does not add noise to your recordings.",
       "keySpecs": [
-        { "label": "Link speed", "value": "10Gbps" },
-        { "label": "Mount", "value": "Magnetic" },
-        { "label": "Cooling", "value": "Fan" },
-        { "label": "Use", "value": "4K@60 recording" }
+        {
+          "label": "Link speed",
+          "value": "10Gbps"
+        },
+        {
+          "label": "Mount",
+          "value": "Magnetic"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fan"
+        },
+        {
+          "label": "Use",
+          "value": "4K@60 recording"
+        }
       ],
       "pros": [
         "Magnetic attachment",
@@ -275,24 +359,54 @@
       "subheading": "By Link Speed",
       "intro": "Match the enclosure to your port.",
       "table": {
-        "headers": ["Port", "Our pick"],
+        "headers": [
+          "Port",
+          "Our pick"
+        ],
         "rows": [
-          ["40Gbps, quiet", "UGREEN 40Gbps M.2 NVMe Enclosure (SSD Not Included)"],
-          ["40Gbps, fan-cooled", "ORICO 40Gbps M.2 NVMe SSD Enclosure with Built-in Cooling Fan"],
-          ["20Gbps", "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"],
-          ["10Gbps", "ACASIS 10Gbps Magnetic M.2 NVMe SSD Enclosure with 4K ProRes Recording"]
+          [
+            "40Gbps, quiet",
+            "UGREEN 40Gbps M.2 NVMe Enclosure (SSD Not Included)"
+          ],
+          [
+            "40Gbps, fan-cooled",
+            "ORICO 40Gbps M.2 NVMe SSD Enclosure with Built-in Cooling Fan"
+          ],
+          [
+            "20Gbps",
+            "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"
+          ],
+          [
+            "10Gbps",
+            "ACASIS 10Gbps Magnetic M.2 NVMe SSD Enclosure with 4K ProRes Recording"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$50 to $100 (best overall)", "UGREEN 40Gbps M.2 NVMe Enclosure (SSD Not Included)"],
-          ["$50 to $100 (cloning)", "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"],
-          ["$50 to $100 (tool-free)", "Yottamaster M.2 NVMe SSD Enclosure 40Gbps"],
-          ["$50 to $100 (brand name)", "ASUS ROG Strix Arion Aluminum Alloy M.2 NVMe SSD Enclosure Case Adapter"]
+          [
+            "$50 to $100 (best overall)",
+            "UGREEN 40Gbps M.2 NVMe Enclosure (SSD Not Included)"
+          ],
+          [
+            "$50 to $100 (cloning)",
+            "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"
+          ],
+          [
+            "$50 to $100 (tool-free)",
+            "Yottamaster M.2 NVMe SSD Enclosure 40Gbps"
+          ],
+          [
+            "$50 to $100 (brand name)",
+            "ASUS ROG Strix Arion Aluminum Alloy M.2 NVMe SSD Enclosure Case Adapter"
+          ]
         ]
       }
     },
@@ -313,11 +427,23 @@
     {
       "subheading": "By Feature",
       "table": {
-        "headers": ["Feature", "Our pick"],
+        "headers": [
+          "Feature",
+          "Our pick"
+        ],
         "rows": [
-          ["Tool-free install", "Yottamaster M.2 NVMe SSD Enclosure 40Gbps"],
-          ["Offline cloning", "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"],
-          ["Dual-chip design", "ANYOYO 40Gbps M.2 NVMe SSD Enclosure with Cooling Fan"]
+          [
+            "Tool-free install",
+            "Yottamaster M.2 NVMe SSD Enclosure 40Gbps"
+          ],
+          [
+            "Offline cloning",
+            "ORICO 20Gbps Dual Bay NVMe Enclosure Tool-Free M.2 NVMe Enclosure"
+          ],
+          [
+            "Dual-chip design",
+            "ANYOYO 40Gbps M.2 NVMe SSD Enclosure with Cooling Fan"
+          ]
         ]
       }
     },
@@ -375,5 +501,9 @@
     }
   ],
   "finalTake": "The UGREEN 40Gbps M.2 NVMe Enclosure (SSD Not Included) is the best NVMe enclosure under $100 for most people with a fast port. The ORICO 40Gbps with a fan suits sustained transfers, the ORICO dual-bay handles cloning, and the Yottamaster is the tool-free choice. Match the enclosure to your port speed first.",
-  "related": []
+  "related": [
+    "best-nvme-enclosures",
+    "best-nvme-enclosures-under-50",
+    "best-thunderbolt-nvme-enclosures"
+  ]
 }

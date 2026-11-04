@@ -26,10 +26,22 @@
       "verdict": "Focused turbo airflow that keeps working through marathon LOQ gaming nights.",
       "description": "The llano V12 uses a 5.5 inch turbo booster fan on a reinforced chassis that fits 15.6 to 19 inch laptops, powered through a 36W adapter. It adds a removable dust filter and a 3-port USB hub for peripherals.\n\nIt takes the top spot because the combination is rare at this price. A turbo fan concentrates airflow onto the laptop's intake, which a bank of small fans cannot do, and the dust filter protects the fan itself from the lint that kills cheaper pads. Against the IETS GT500, the V12 gives up a little peak speed but adds the filter. Against the V12 Ultra, it skips the software layer and costs less.\n\nBuy it if your LOQ runs a long gaming session or a 4K export. The caveat is the power adapter, which needs a wall outlet nearby, and the hub passes peripherals only.",
       "keySpecs": [
-        { "label": "Fan", "value": "5.5 inch turbo booster" },
-        { "label": "Laptop fit", "value": "15.6 to 19 inch" },
-        { "label": "Power", "value": "36W adapter" },
-        { "label": "Extras", "value": "Dust filter, 3-port USB hub" }
+        {
+          "label": "Fan",
+          "value": "5.5 inch turbo booster"
+        },
+        {
+          "label": "Laptop fit",
+          "value": "15.6 to 19 inch"
+        },
+        {
+          "label": "Power",
+          "value": "36W adapter"
+        },
+        {
+          "label": "Extras",
+          "value": "Dust filter, 3-port USB hub"
+        }
       ],
       "pros": [
         "Concentrated turbo fan airflow",
@@ -56,10 +68,22 @@
       "verdict": "A turbo fan that spins up to 5000 RPM with a sealed foam chamber.",
       "description": "The IETS GT500 pairs a turbofan with variable speed from 0 to 5000 RPM and a sealed foam ring that closes the gap between pad and laptop. Bottom air intake design is its target, and a 3-port USB hub is built in.\n\nSealing is the point: air has nowhere to escape except into the intake, so the airflow is more effective than the open fans on the ICE COOREL. It ranks second because the top speed is loud, and the llano V12 adds a dust filter that the GT500 does not document. Against the Razer, it moves more air for less money, though it lacks automatic fan control.\n\nBuy it if raw cooling matters and you wear headphones. The caveat is noise at maximum speed, which is high enough to hear over a game, so run it at a lower setting for most sessions.",
       "keySpecs": [
-        { "label": "Fan", "value": "Turbofan, 0 to 5000 RPM" },
-        { "label": "Airflow design", "value": "Sealed foam, bottom intake" },
-        { "label": "Hub", "value": "3-port USB" },
-        { "label": "Control", "value": "Variable speed" }
+        {
+          "label": "Fan",
+          "value": "Turbofan, 0 to 5000 RPM"
+        },
+        {
+          "label": "Airflow design",
+          "value": "Sealed foam, bottom intake"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB"
+        },
+        {
+          "label": "Control",
+          "value": "Variable speed"
+        }
       ],
       "pros": [
         "Highest fan speed in the ranking",
@@ -86,10 +110,22 @@
       "verdict": "A 140mm fan up to 3000 RPM that adjusts its own speed.",
       "description": "Razer's pad has a 140mm brushless fan reaching 3000 RPM, an airtight foam-sealed pressure chamber, three magnetic frame sizes and a 3-port USB Type-A hub. Fan speed adjusts automatically with the laptop's heat.\n\nAutomatic control is the reason to own it: the fan stays quiet when the LOQ is idle and ramps up when a game starts, so you never set speed by hand. It ranks third because the fan tops out at 3000 RPM, well below the IETS GT500's 5000, and it costs more. The frame sizes are a plus for a snug fit on different laptop widths.\n\nBuy it if you want cooling you set once and forget. The caveat is the price premium, which buys convenience more than extra airflow, and the lower RPM ceiling for the hottest games.",
       "keySpecs": [
-        { "label": "Fan", "value": "140mm brushless, 3000 RPM" },
-        { "label": "Control", "value": "Automatic speed" },
-        { "label": "Fit", "value": "3 magnetic frame sizes" },
-        { "label": "Hub", "value": "3-port USB Type-A" }
+        {
+          "label": "Fan",
+          "value": "140mm brushless, 3000 RPM"
+        },
+        {
+          "label": "Control",
+          "value": "Automatic speed"
+        },
+        {
+          "label": "Fit",
+          "value": "3 magnetic frame sizes"
+        },
+        {
+          "label": "Hub",
+          "value": "3-port USB Type-A"
+        }
       ],
       "pros": [
         "Automatic fan speed control",
@@ -116,10 +152,22 @@
       "verdict": "Six fans, six height settings and an LCD speed readout at a budget price.",
       "description": "The ICE COOREL has six fans across the top and bottom vents, six height settings, an LCD that shows fan speed, seven RGB lighting modes and two USB ports.\n\nIt ranks fourth because it is the strongest of the cheaper pads, and that is the honest position. Six small fans move a lot of air in total, but they spread it across the base instead of focusing it on the LOQ's intake, which is why it trails the three turbo-fan picks. The six height settings let you angle the laptop to a comfortable typing position, something the sealed pads offer little of. Against the TECKNET, it has twice the fans and an LCD.\n\nBuy it if you want real cooling and a rich feature set without turbo-fan prices. The caveat is that RGB and fan noise will not suit a quiet room.",
       "keySpecs": [
-        { "label": "Fans", "value": "6, top and bottom vents" },
-        { "label": "Height", "value": "6 settings" },
-        { "label": "Display", "value": "LCD fan speed" },
-        { "label": "Ports", "value": "2 USB" }
+        {
+          "label": "Fans",
+          "value": "6, top and bottom vents"
+        },
+        {
+          "label": "Height",
+          "value": "6 settings"
+        },
+        {
+          "label": "Display",
+          "value": "LCD fan speed"
+        },
+        {
+          "label": "Ports",
+          "value": "2 USB"
+        }
       ],
       "pros": [
         "Six fans for broad airflow",
@@ -146,10 +194,22 @@
       "verdict": "A V12 with three smart-software modes and a USB 3.0 hub, at a higher price.",
       "description": "The V12 Ultra keeps the 5.5 inch turbo fan, now rated up to 2800 RPM, and adds AI smart software control with 3 modes. It fits 15.6 to 19 inch gaming laptops, includes a removable dust filter and a USB 3.0 hub with one input and three outputs.\n\nIt ranks below the standard V12 because it costs more and the extra is software, not cooling. A fan capped at 2800 RPM is slower than the GT500's 5000, so the Ultra relies on the sealed turbo design instead of raw speed. The USB 3.0 hub is a real upgrade for a LOQ, since it passes through faster data than older hubs.\n\nBuy it if you like software to manage the fan for you. The caveat is the cost, which is the highest tier here, and the extra software to install.",
       "keySpecs": [
-        { "label": "Fan", "value": "5.5 inch turbo, up to 2800 RPM" },
-        { "label": "Control", "value": "AI software, 3 modes" },
-        { "label": "Hub", "value": "USB 3.0, 1 in 3 out" },
-        { "label": "Filter", "value": "Removable dust filter" }
+        {
+          "label": "Fan",
+          "value": "5.5 inch turbo, up to 2800 RPM"
+        },
+        {
+          "label": "Control",
+          "value": "AI software, 3 modes"
+        },
+        {
+          "label": "Hub",
+          "value": "USB 3.0, 1 in 3 out"
+        },
+        {
+          "label": "Filter",
+          "value": "Removable dust filter"
+        }
       ],
       "pros": [
         "Software-managed fan modes",
@@ -176,10 +236,22 @@
       "verdict": "A slim, USB-powered three-fan pad for everyday use and light gaming.",
       "description": "The TECKNET has three 110mm fans turning at 1200 RPM, runs from a USB port with no adapter, has two height settings, double USB ports and rubber surface pads to hold the laptop in place.\n\nThe USB-only power is its charm: it plugs into the LOQ and goes anywhere, unlike the adapter-powered V12. It ranks sixth because 1200 RPM fans move far less air than the turbo designs and cannot seal against the chassis, so heavy gaming sessions will not see a large drop. Against the havit, it offers the same low cost with a more stable base.\n\nBuy it if you use the LOQ for school or work and game occasionally. The caveat is performance: this is a comfort and light-cooling pad, not a replacement for a turbo fan.",
       "keySpecs": [
-        { "label": "Fans", "value": "3 x 110mm, 1200 RPM" },
-        { "label": "Power", "value": "USB, no adapter" },
-        { "label": "Height", "value": "2 settings" },
-        { "label": "Ports", "value": "Double USB" }
+        {
+          "label": "Fans",
+          "value": "3 x 110mm, 1200 RPM"
+        },
+        {
+          "label": "Power",
+          "value": "USB, no adapter"
+        },
+        {
+          "label": "Height",
+          "value": "2 settings"
+        },
+        {
+          "label": "Ports",
+          "value": "Double USB"
+        }
       ],
       "pros": [
         "Runs off USB alone",
@@ -206,10 +278,22 @@
       "verdict": "A metal-mesh pad with three quiet fans for lighter gaming.",
       "description": "The havit HV-F2056 is a slim pad for 15.6 to 17 inch laptops, with three quiet fans, a metal mesh surface, two height settings and an extra USB port.\n\nQuiet is the selling point, and also the limit: fans that run softly move less air, so it ranks last for demanding games. The metal mesh surface does help, since it conducts a little heat from the base and lets air pass through. It is limited to laptops up to 17 inches, which still covers the LOQ. Against the TECKNET, it is similar in cost and cooling, so choose it for the mesh and the quieter fans.\n\nBuy it if your LOQ plays lighter games or a mix of work and play. The caveat is that this pad lowers temperatures a few degrees at best, and sustained heavy sessions need a turbo pad.",
       "keySpecs": [
-        { "label": "Fit", "value": "15.6 to 17 inch" },
-        { "label": "Fans", "value": "3 quiet fans" },
-        { "label": "Surface", "value": "Metal mesh" },
-        { "label": "Height", "value": "2 settings" }
+        {
+          "label": "Fit",
+          "value": "15.6 to 17 inch"
+        },
+        {
+          "label": "Fans",
+          "value": "3 quiet fans"
+        },
+        {
+          "label": "Surface",
+          "value": "Metal mesh"
+        },
+        {
+          "label": "Height",
+          "value": "2 settings"
+        }
       ],
       "pros": [
         "Quiet fans",
@@ -227,81 +311,186 @@
     }
   ],
   "methodology": [
-    { "title": "Airflow design", "description": "Turbo fans and sealed foam designs outrank open multi-fan pads because they concentrate air at the intake." },
-    { "title": "Fan speed and noise", "description": "Stated RPM was weighed against the noise it brings, since a fan you switch off helps no one." },
-    { "title": "Fit for 15.6 inch laptops", "description": "Each pad's stated laptop range was checked against the LOQ's size, with larger ranges ranked higher." },
-    { "title": "Power and portability", "description": "USB-only pads were credited for travel, adapter-powered pads for cooling headroom." },
-    { "title": "Extras that matter", "description": "Dust filters, hubs and height settings counted only where they improve cooling or comfort." }
+    {
+      "title": "Airflow design",
+      "description": "Turbo fans and sealed foam designs outrank open multi-fan pads because they concentrate air at the intake."
+    },
+    {
+      "title": "Fan speed and noise",
+      "description": "Stated RPM was weighed against the noise it brings, since a fan you switch off helps no one."
+    },
+    {
+      "title": "Fit for 15.6 inch laptops",
+      "description": "Each pad's stated laptop range was checked against the LOQ's size, with larger ranges ranked higher."
+    },
+    {
+      "title": "Power and portability",
+      "description": "USB-only pads were credited for travel, adapter-powered pads for cooling headroom."
+    },
+    {
+      "title": "Extras that matter",
+      "description": "Dust filters, hubs and height settings counted only where they improve cooling or comfort."
+    }
   ],
   "whatMatters": [
-    { "factor": "Turbo fan vs multi-fan", "detail": "A single large turbo fan forces air through a narrow nozzle, so it can push airflow into a laptop's intake. Several small fans move air in general but spread it out. Look for the words turbo or turbofan and a sealed foam ring in the listing for focused cooling on a gaming laptop." },
-    { "factor": "Intake alignment", "detail": "Laptops pull cool air in through grilles under the base, and a pad only helps if its fan sits under them. Flip your LOQ over and note the grille position before buying. Look for pads with a wide fan opening or adjustable frame, like the Razer's magnetic sizes." },
-    { "factor": "Noise at full speed", "detail": "Higher RPM moves more air but also makes more noise, and the loudest pads can rival the laptop's own fans. Check for a variable speed knob so you can run slower most of the time. Look for the stated RPM range, such as 0 to 5000 on the IETS GT500." },
-    { "factor": "Dust filtration", "detail": "Fans pull in lint and pet hair, which clogs bearings and the laptop's own intake. A removable dust filter lets you rinse it instead of replacing the pad. Check the listing for a named filter, as on the llano V12 and V12 Ultra, and clean it every few months." },
-    { "factor": "Power source", "detail": "Pads either run from a USB port or need a wall adapter. Adapter-powered models like the llano V12 deliver more power to the fan but tie you to an outlet, while USB-only pads like the TECKNET travel easily. Check the listing for adapter wattage, 36W in the V12's case." }
+    {
+      "factor": "Turbo fan vs multi-fan",
+      "detail": "A single large turbo fan forces air through a narrow nozzle, so it can push airflow into a laptop's intake. Several small fans move air in general but spread it out. Look for the words turbo or turbofan and a sealed foam ring in the listing for focused cooling on a gaming laptop."
+    },
+    {
+      "factor": "Intake alignment",
+      "detail": "Laptops pull cool air in through grilles under the base, and a pad only helps if its fan sits under them. Flip your LOQ over and note the grille position before buying. Look for pads with a wide fan opening or adjustable frame, like the Razer's magnetic sizes."
+    },
+    {
+      "factor": "Noise at full speed",
+      "detail": "Higher RPM moves more air but also makes more noise, and the loudest pads can rival the laptop's own fans. Check for a variable speed knob so you can run slower most of the time. Look for the stated RPM range, such as 0 to 5000 on the IETS GT500."
+    },
+    {
+      "factor": "Dust filtration",
+      "detail": "Fans pull in lint and pet hair, which clogs bearings and the laptop's own intake. A removable dust filter lets you rinse it instead of replacing the pad. Check the listing for a named filter, as on the llano V12 and V12 Ultra, and clean it every few months."
+    },
+    {
+      "factor": "Power source",
+      "detail": "Pads either run from a USB port or need a wall adapter. Adapter-powered models like the llano V12 deliver more power to the fan but tie you to an outlet, while USB-only pads like the TECKNET travel easily. Check the listing for adapter wattage, 36W in the V12's case."
+    }
   ],
   "howToChoose": [
     {
       "subheading": "By Cooling Power",
       "intro": "How hard does your LOQ run, and for how long?",
       "table": {
-        "headers": ["Your use", "Our pick"],
+        "headers": [
+          "Your use",
+          "Our pick"
+        ],
         "rows": [
-          ["Long demanding gaming sessions", "llano V12 Gaming Laptop Cooling Pad"],
-          ["Maximum airflow, noise acceptable", "IETS GT500 Powerful Turbo-Fan (5000 RPM)"],
-          ["Automatic cooling, set and forget", "Razer Laptop Cooling Pad Adaptive Smart"],
-          ["Mixed gaming and work", "ICE COOREL Gaming Laptop Cooling Pad, 6 RGB Fans"],
-          ["Light gaming and study", "TECKNET Laptop Cooling Pad, Portable Slim"]
+          [
+            "Long demanding gaming sessions",
+            "llano V12 Gaming Laptop Cooling Pad"
+          ],
+          [
+            "Maximum airflow, noise acceptable",
+            "IETS GT500 Powerful Turbo-Fan (5000 RPM)"
+          ],
+          [
+            "Automatic cooling, set and forget",
+            "Razer Laptop Cooling Pad Adaptive Smart"
+          ],
+          [
+            "Mixed gaming and work",
+            "ICE COOREL Gaming Laptop Cooling Pad, 6 RGB Fans"
+          ],
+          [
+            "Light gaming and study",
+            "TECKNET Laptop Cooling Pad, Portable Slim"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["$25 to $50", "ICE COOREL Gaming Laptop Cooling Pad"],
-          ["$25 to $50 (USB powered)", "TECKNET Laptop Cooling Pad, Portable Slim"],
-          ["$25 to $50 (quiet)", "havit HV-F2056 Laptop Cooler"],
-          ["$50 to $100", "llano V12 Gaming Laptop Cooling Pad"],
-          ["$50 to $100 (max airflow)", "IETS GT500 Powerful Turbo-Fan (5000 RPM)"],
-          ["$100 to $200", "Razer Laptop Cooling Pad Adaptive Smart"]
+          [
+            "$25 to $50",
+            "ICE COOREL Gaming Laptop Cooling Pad"
+          ],
+          [
+            "$25 to $50 (USB powered)",
+            "TECKNET Laptop Cooling Pad, Portable Slim"
+          ],
+          [
+            "$25 to $50 (quiet)",
+            "havit HV-F2056 Laptop Cooler"
+          ],
+          [
+            "$50 to $100",
+            "llano V12 Gaming Laptop Cooling Pad"
+          ],
+          [
+            "$50 to $100 (max airflow)",
+            "IETS GT500 Powerful Turbo-Fan (5000 RPM)"
+          ],
+          [
+            "$100 to $200",
+            "Razer Laptop Cooling Pad Adaptive Smart"
+          ]
         ]
       }
     },
     {
       "subheading": "Turbo Fan vs Multi-Fan",
       "cards": [
-        { "label": "Turbo fan", "text": "One strong fan with a sealed foam ring forces air straight into the intake. It cools more but runs louder. Picks: llano V12, IETS GT500, Razer, V12 Ultra." },
-        { "label": "Multi-fan", "text": "Several small fans spread air gently and cost less, but cool less. Picks: ICE COOREL, TECKNET, havit." }
+        {
+          "label": "Turbo fan",
+          "text": "One strong fan with a sealed foam ring forces air straight into the intake. It cools more but runs louder. Picks: llano V12, IETS GT500, Razer, V12 Ultra."
+        },
+        {
+          "label": "Multi-fan",
+          "text": "Several small fans spread air gently and cost less, but cool less. Picks: ICE COOREL, TECKNET, havit."
+        }
       ],
       "note": "Take a turbo fan for gaming, multi-fan for everyday use and comfort."
     },
     {
       "subheading": "By Power Source",
       "table": {
-        "headers": ["What you need", "Our pick"],
+        "headers": [
+          "What you need",
+          "Our pick"
+        ],
         "rows": [
-          ["Wall adapter, strongest fan", "llano V12 Gaming Laptop Cooling Pad"],
-          ["USB only, travel friendly", "TECKNET Laptop Cooling Pad, Portable Slim"],
-          ["Software-managed fan", "llano V12 Ultra Laptop Cooling Pad"],
-          ["Quiet USB pad", "havit HV-F2056 Laptop Cooler"],
-          ["Low-cost multi-fan with LCD", "ICE COOREL Gaming Laptop Cooling Pad"]
+          [
+            "Wall adapter, strongest fan",
+            "llano V12 Gaming Laptop Cooling Pad"
+          ],
+          [
+            "USB only, travel friendly",
+            "TECKNET Laptop Cooling Pad, Portable Slim"
+          ],
+          [
+            "Software-managed fan",
+            "llano V12 Ultra Laptop Cooling Pad"
+          ],
+          [
+            "Quiet USB pad",
+            "havit HV-F2056 Laptop Cooler"
+          ],
+          [
+            "Low-cost multi-fan with LCD",
+            "ICE COOREL Gaming Laptop Cooling Pad"
+          ]
         ]
       }
     },
     {
       "subheading": "For Lenovo LOQ Laptops Specifically",
       "cards": [
-        { "label": "Look for", "text": "A pad rated for 15.6 inch laptops, with a fan that lines up with the underside grille. Prefer a sealed foam ring and a variable speed control." },
-        { "label": "In this ranking", "text": "The llano V12 fits 15.6 to 19 inch laptops and has a dust filter. The IETS GT500 gives the most sealed airflow for the bottom intake." }
+        {
+          "label": "Look for",
+          "text": "A pad rated for 15.6 inch laptops, with a fan that lines up with the underside grille. Prefer a sealed foam ring and a variable speed control."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The llano V12 fits 15.6 to 19 inch laptops and has a dust filter. The IETS GT500 gives the most sealed airflow for the bottom intake."
+        }
       ]
     },
     {
       "subheading": "When to Spend More",
       "cards": [
-        { "label": "Spend more if", "text": "You play for hours or hear the laptop fans roar. The llano V12 or IETS GT500 gives a clear step up from basic pads, and the Razer adds automatic control." },
-        { "label": "Save if", "text": "You mostly study and stream. The TECKNET or havit gives modest cooling for the least money." }
+        {
+          "label": "Spend more if",
+          "text": "You play for hours or hear the laptop fans roar. The llano V12 or IETS GT500 gives a clear step up from basic pads, and the Razer adds automatic control."
+        },
+        {
+          "label": "Save if",
+          "text": "You mostly study and stream. The TECKNET or havit gives modest cooling for the least money."
+        }
       ]
     }
   ],
@@ -332,5 +521,9 @@
     }
   ],
   "finalTake": "The llano V12 is the best cooling pad for a Lenovo LOQ because it focuses airflow with a turbo fan and protects itself with a dust filter. The IETS GT500 is the pick if you want maximum airflow and can live with noise, and the Razer suits owners who want automatic control. On a tight budget, the ICE COOREL is the best of the multi-fan pads.",
-  "related": []
+  "related": [
+    "best-laptop-cooling-pads-for-lenovo-laptops",
+    "best-laptop-cooling-pads-for-lenovo-legion-laptops",
+    "best-laptop-cooling-pads-for-alienware-laptops"
+  ]
 }

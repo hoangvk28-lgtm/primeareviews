@@ -26,10 +26,22 @@
       "verdict": "87W output and 20,000mAh in one brick, enough for a phone, a tablet and most laptops.",
       "description": "This Anker puts 87W of power to share behind a 20,000mAh cell, plus speedy cable charging. Wattage is the real story: 87W is the level where a small laptop can charge from a bank rather than just crawl along.\n\nIt beats the Laptop model below on price, since it lands in the $50 to $100 bucket while the other sits at $100 to $200. You give up the third high-wattage port and the built-in cables, but most travellers will not miss either.\n\nBuy it if you carry a laptop and a phone and want a single brick that handles both. The caveat is weight: 20,000mAh is a noticeable chunk in a jacket pocket, so keep it in a bag. If you only ever charge a phone, you are paying for headroom you will not use.",
       "keySpecs": [
-        { "label": "Capacity", "value": "20,000mAh" },
-        { "label": "Output", "value": "87W shared" },
-        { "label": "Charging", "value": "Speedy cable charging" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Capacity",
+          "value": "20,000mAh"
+        },
+        {
+          "label": "Output",
+          "value": "87W shared"
+        },
+        {
+          "label": "Charging",
+          "value": "Speedy cable charging"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "87W can run a small laptop",
@@ -56,10 +68,22 @@
       "verdict": "Triple 100W USB-C ports, 25,000mAh and dual built-in cables for a full workday away from a wall.",
       "description": "The Laptop Power Bank has three USB-C ports rated 100W each and 25,000mAh of capacity, along with dual built-in cables. That cable pair matters on a plane or a train, where a snapped or forgotten cable ends the session.\n\nIt ranks second because it costs the most here, in the $100 to $200 bucket, and weighs more than the Anker Power Bank. In return you get more capacity and the ability to feed several devices fast, which makes it the better tool for someone who works away from a desk.\n\nBuy it if you regularly work from cafes, planes or job sites. The caveat is that 100W per port does not mean 300W across three, because the bank shares its total output, so check the combined limit before you plug in two laptops at once.",
       "keySpecs": [
-        { "label": "Capacity", "value": "25,000mAh" },
-        { "label": "Ports", "value": "Triple 100W USB-C" },
-        { "label": "Cables", "value": "Dual built-in" },
-        { "label": "Price bucket", "value": "$100 to $200" }
+        {
+          "label": "Capacity",
+          "value": "25,000mAh"
+        },
+        {
+          "label": "Ports",
+          "value": "Triple 100W USB-C"
+        },
+        {
+          "label": "Cables",
+          "value": "Dual built-in"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$100 to $200"
+        }
       ],
       "pros": [
         "Triple 100W USB-C ports",
@@ -86,10 +110,22 @@
       "verdict": "A 45W, 10,000mAh brick that is 40% smaller than rivals and carries a detachable cable.",
       "description": "INIU's 10,000mAh bank delivers 45W, which is enough to charge a phone quickly and give a tablet a real top-up. It is described as 40% smaller and lighter, with a detachable cable so one lead serves more than one device.\n\nIt ranks third because 45W will not keep a full-size laptop alive the way the Anker pair will, but it costs under $25 and fits in a pocket. For a phone-only owner it is the better buy: you get fast charging without the weight or cost of a big brick.\n\nBuy it for daily carry and the occasional weekend away. The caveat is capacity, since 10,000mAh gives roughly two phone charges at best. Keep the detachable cable with the bank so you do not end up with a bank and no way to use it.",
       "keySpecs": [
-        { "label": "Capacity", "value": "10,000mAh" },
-        { "label": "Output", "value": "45W" },
-        { "label": "Size", "value": "40% smaller claim" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Capacity",
+          "value": "10,000mAh"
+        },
+        {
+          "label": "Output",
+          "value": "45W"
+        },
+        {
+          "label": "Size",
+          "value": "40% smaller claim"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Pocket-friendly size",
@@ -116,10 +152,22 @@
       "verdict": "A second compact INIU with 45W PD and a lanyard that doubles as the cable.",
       "description": "This compact INIU also offers 10,000mAh at 45W with PD fast charging, but its twist is a lanyard that serves as the cable. The pitch is that a power bank only helps if you actually have the cable with you, and a cable looped around your neck or bag solves that.\n\nIt ranks below the other INIU because the main model is the proven shape, and a lanyard-cable design adds a weak point where it can fray with daily wear. It still earns a spot because forgetting the cable is the number one reason a bank fails in practice.\n\nBuy it if you are the person who always leaves the cable at home. The caveat is that the lanyard cable is shorter and less flexible than a normal lead, and its life depends on how roughly you treat it.",
       "keySpecs": [
-        { "label": "Capacity", "value": "10,000mAh" },
-        { "label": "Output", "value": "45W PD" },
-        { "label": "Cable", "value": "Lanyard doubles as cable" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Capacity",
+          "value": "10,000mAh"
+        },
+        {
+          "label": "Output",
+          "value": "45W PD"
+        },
+        {
+          "label": "Cable",
+          "value": "Lanyard doubles as cable"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Cable always with the bank",
@@ -146,10 +194,22 @@
       "verdict": "A slim, matte-finish Anker with versatile charging options for phones.",
       "description": "The MagGo is described as slim and portable with versatile charging options and a sleek matte finish. The MagGo name signals magnetic attachment to compatible phones, which turns the bank into a snap-on battery rather than a loose brick with a cable.\n\nIt sits fifth because the listing gives no capacity or wattage figure, which makes it hard to rank on raw performance. It beats the Evopow pack on build and brand, but it asks for the same $50 to $100 bucket as the 87W Anker that can charge a laptop.\n\nBuy it if you want a clean, cable-free phone top-up at a desk or on the sofa. The caveat is that magnetic charging is slower than wired charging, so it suits topping up rather than recovering a dead phone.",
       "keySpecs": [
-        { "label": "Design", "value": "Slim, matte finish" },
-        { "label": "Charging", "value": "Versatile, magnetic MagGo" },
-        { "label": "Brand", "value": "Anker" },
-        { "label": "Price bucket", "value": "$50 to $100" }
+        {
+          "label": "Design",
+          "value": "Slim, matte finish"
+        },
+        {
+          "label": "Charging",
+          "value": "Versatile, magnetic MagGo"
+        },
+        {
+          "label": "Brand",
+          "value": "Anker"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$50 to $100"
+        }
       ],
       "pros": [
         "Slim, easy to hold",
@@ -176,10 +236,22 @@
       "verdict": "A huge 60,000mAh store that charges five devices at once, at a slow 22.5W.",
       "description": "ZZI offers 60,000mAh, five simultaneous outputs, 22.5W super fast charging and battery protection. That is a lot of energy for the $25 to $50 bucket, enough to keep a family of phones running through a long camping weekend.\n\nIt ranks sixth because 22.5W is slow next to the 45W and 87W banks above, and a brick this large is heavy and awkward to carry. Capacity is its only argument, but for off-grid use that argument is strong.\n\nBuy it for camping, power cuts or a shared family charging hub. The caveat is airline rules: very large banks can exceed carry-on limits, so check capacity limits before you fly. It also takes a long time to recharge itself from empty.",
       "keySpecs": [
-        { "label": "Capacity", "value": "60,000mAh" },
-        { "label": "Outputs", "value": "5 devices at once" },
-        { "label": "Speed", "value": "22.5W" },
-        { "label": "Price bucket", "value": "$25 to $50" }
+        {
+          "label": "Capacity",
+          "value": "60,000mAh"
+        },
+        {
+          "label": "Outputs",
+          "value": "5 devices at once"
+        },
+        {
+          "label": "Speed",
+          "value": "22.5W"
+        },
+        {
+          "label": "Price bucket",
+          "value": "$25 to $50"
+        }
       ],
       "pros": [
         "Huge 60,000mAh capacity",
@@ -206,10 +278,22 @@
       "verdict": "Two slim chargers for the price of one, with three outputs and two inputs.",
       "description": "Evopow sells a two-pack of slim chargers with three outputs and two inputs and high-speed charging. A pair means one lives in your bag and one stays at home or in the car, which is a smarter way to avoid being caught short.\n\nIt finishes seventh since neither capacity nor wattage is published, so a speed comparison with the INIU is impossible. It wins on sheer count and price, since it is in the under $25 bucket for two units.\n\nBuy it if you want spare banks for kids, a desk drawer or a car. The caveat is the lack of specifics: with no capacity stated, assume modest output and use it for phones rather than tablets or laptops.",
       "keySpecs": [
-        { "label": "Pack", "value": "2 chargers" },
-        { "label": "Ports", "value": "3 outputs, 2 inputs" },
-        { "label": "Design", "value": "Smaller and slimmer" },
-        { "label": "Price bucket", "value": "Under $25" }
+        {
+          "label": "Pack",
+          "value": "2 chargers"
+        },
+        {
+          "label": "Ports",
+          "value": "3 outputs, 2 inputs"
+        },
+        {
+          "label": "Design",
+          "value": "Smaller and slimmer"
+        },
+        {
+          "label": "Price bucket",
+          "value": "Under $25"
+        }
       ],
       "pros": [
         "Two units in one pack",
@@ -275,26 +359,62 @@
       "subheading": "By Device You Charge",
       "intro": "Start with the hungriest device you carry.",
       "table": {
-        "headers": ["Main device", "Our pick"],
+        "headers": [
+          "Main device",
+          "Our pick"
+        ],
         "rows": [
-          ["Phone only", "INIU 10000mAh 45W Fast Charging Portable Charger"],
-          ["Phone and small laptop", "Anker Power Bank"],
-          ["Full-size laptop and phone", "Anker Laptop Power Bank"],
-          ["Magnetic phone", "Anker MagGo Power Bank"],
-          ["Whole family on a trip", "ZZI Portable Charger Power Bank 60000mAh"]
+          [
+            "Phone only",
+            "INIU 10000mAh 45W Fast Charging Portable Charger"
+          ],
+          [
+            "Phone and small laptop",
+            "Anker Power Bank"
+          ],
+          [
+            "Full-size laptop and phone",
+            "Anker Laptop Power Bank"
+          ],
+          [
+            "Magnetic phone",
+            "Anker MagGo Power Bank"
+          ],
+          [
+            "Whole family on a trip",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ]
         ]
       }
     },
     {
       "subheading": "By Budget",
       "table": {
-        "headers": ["Spend", "Our pick"],
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
         "rows": [
-          ["Under $25, pocket size", "INIU 10000mAh 45W Fast Charging Portable Charger"],
-          ["Under $25, two units", "Evopow 2 Pack Portable Charger"],
-          ["$25 to $50, big capacity", "ZZI Portable Charger Power Bank 60000mAh"],
-          ["$50 to $100", "Anker Power Bank"],
-          ["$100 to $200", "Anker Laptop Power Bank"]
+          [
+            "Under $25, pocket size",
+            "INIU 10000mAh 45W Fast Charging Portable Charger"
+          ],
+          [
+            "Under $25, two units",
+            "Evopow 2 Pack Portable Charger"
+          ],
+          [
+            "$25 to $50, big capacity",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ],
+          [
+            "$50 to $100",
+            "Anker Power Bank"
+          ],
+          [
+            "$100 to $200",
+            "Anker Laptop Power Bank"
+          ]
         ]
       }
     },
@@ -315,12 +435,27 @@
     {
       "subheading": "By Trip Length",
       "table": {
-        "headers": ["Trip", "Our pick"],
+        "headers": [
+          "Trip",
+          "Our pick"
+        ],
         "rows": [
-          ["Day commute", "INIU 10000mAh 45W Fast Charging Portable Charger"],
-          ["Weekend away", "Anker Power Bank"],
-          ["Work trip with laptop", "Anker Laptop Power Bank"],
-          ["Camping or power cut", "ZZI Portable Charger Power Bank 60000mAh"]
+          [
+            "Day commute",
+            "INIU 10000mAh 45W Fast Charging Portable Charger"
+          ],
+          [
+            "Weekend away",
+            "Anker Power Bank"
+          ],
+          [
+            "Work trip with laptop",
+            "Anker Laptop Power Bank"
+          ],
+          [
+            "Camping or power cut",
+            "ZZI Portable Charger Power Bank 60000mAh"
+          ]
         ]
       }
     },
@@ -378,5 +513,9 @@
     }
   ],
   "finalTake": "For most people the Anker Power Bank is the right buy, with 87W output and 20,000mAh in the $50 to $100 bucket. Choose the Anker Laptop Power Bank if you work from planes and cafes, and the INIU 10000mAh if you only ever charge a phone. Treat the ZZI as an off-grid tool, not a daily carry, and avoid any bank that cannot tell you its wattage.",
-  "related": []
+  "related": [
+    "best-50000mah-power-banks",
+    "best-power-banks-for-home-office-backup",
+    "best-docking-stations-with-100w-power-delivery"
+  ]
 }
