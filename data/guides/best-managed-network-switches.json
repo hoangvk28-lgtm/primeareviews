@@ -22,7 +22,7 @@
       "name": "NETGEAR GS308E 8-Port Easy Smart Managed Switch",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
       "verdict": "Eight ports, up to 64 VLANs, a cross-platform web GUI and automatic DoS and loop protection.",
       "description": "The GS308E is an 8-port Easy Smart managed switch with up to 64 VLANs, a cross-platform web interface and automatic protection against DoS attacks, loops and broadcast storms. It costs under $25.\n\nIt wins because it packs a long list of protections and VLAN capacity into a price that makes unmanaged switches hard to justify. Loop and storm protection prevent a miswired cable from taking down a network. The web GUI works on any operating system. It is not a Layer 3 switch.\n\nBuy it for a home lab or small office that wants VLANs. Choose Layer 3 for inter-VLAN routing.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "TP-Link TL-SG108E 8-Port Easy Smart Switch",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41mABHEKN8L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=primeareviews-amz-20",
       "verdict": "Eight ports, 32 simultaneous VLANs, link aggregation and a 3-year warranty.",
       "description": "The TL-SG108E has 8 ports, supports 32 simultaneous VLANs and link aggregation, and has a 3-year warranty. It costs under $25.\n\nLink aggregation bonds two ports for more bandwidth, which matters for a NAS. The warranty is long for the price. It ranks second because it supports fewer VLANs than the NETGEAR.\n\nBuy it for a small managed network and a longer warranty. Choose the NETGEAR for more VLANs.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "NETGEAR GS308EP 8-Port PoE+ Smart Managed Switch",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31nyBGJ-Y0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports at 62 watts with per-port PoE control and uninterrupted PoE during reboot.",
       "description": "The GS308EP has eight PoE+ ports sharing 62 watts, Easy Smart management, per-port PoE control and PoE that continues during a reboot. It costs $50 to $100.\n\nPoE management lets you restart a camera from the browser. It ranks third because it costs more than non-PoE models and the 62 watt budget is modest.\n\nBuy it if you run cameras or access points. Skip PoE if you do not.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "NETGEAR GS305E 5-Port Easy Smart Managed Switch",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31WBkBB448L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07PJ7XZ7X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07PJ7XZ7X?tag=primeareviews-amz-20",
       "verdict": "Five fanless ports with VLAN, QoS and port monitoring.",
       "description": "The GS305E is a 5-port Easy Smart managed switch with VLAN, QoS and port monitoring that is fanless and energy-efficient. It costs under $25.\n\nIt is silent and small, so it fits a desk. It ranks fourth because five ports limit growth.\n\nBuy it for a desk or a small closet. Choose eight ports for growth.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "TP-Link TL-SG1024DE 24-Port Easy Smart Switch",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/312cxnpjJzL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00CUG8ESM?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00CUG8ESM?tag=primeareviews-amz-20",
       "verdict": "24 ports with 9K jumbo frames, port mirroring, cable diagnostics and a 3-year warranty.",
       "description": "The TL-SG1024DE has 24 ports, 9K jumbo frames, port mirroring, cable diagnostics and a 3-year warranty. It costs $50 to $100.\n\nCable diagnostics find faulty runs, and mirroring lets you capture traffic. It ranks fifth because it has no PoE and is a rack-size unit.\n\nBuy it for a wired office or a rack. Not for PoE.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Ubiquiti UniFi US-8-60W Managed PoE Switch",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/311+x6VY4jL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B085TLT6Z4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B085TLT6Z4?tag=primeareviews-amz-20",
       "verdict": "Eight ports, four 802.3af PoE ports, 8Gbps non-blocking switching and UniFi app management.",
       "description": "The US-8-60W has eight ports, four of them 802.3af PoE, 8Gbps non-blocking switching and UniFi app management. It costs $100 to $200.\n\nIt joins a UniFi network, so one controller manages everything. It ranks sixth because it costs more than Easy Smart switches and PoE is limited to four ports.\n\nBuy it if you run UniFi gear. Others should pick Easy Smart.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Ubiquiti UniFi USW-Pro-24-PoE Layer 3 Switch",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/21cLhVGwO9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B082NRZFSD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B082NRZFSD?tag=primeareviews-amz-20",
       "verdict": "A 24-port Layer 3 managed PoE switch that integrates with the UniFi controller.",
       "description": "The USW-Pro-24-PoE is a 24-port Layer 3 managed switch with PoE and UniFi controller integration. It costs $500 and up.\n\nLayer 3 routes between VLANs, which Easy Smart cannot do. It ranks seventh for general buyers because of its price and size.\n\nBuy it for larger UniFi sites needing routing. Most homes do not.",
       "keySpecs": [

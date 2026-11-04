@@ -22,7 +22,7 @@
       "name": "Synology DS223 Home & Office Backup Hub",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-amz-20",
       "verdict": "The easiest Time Machine setup of the group.",
       "description": "The Synology DS223 is a two-bay diskless NAS with a guided Time Machine shared folder setup over SMB3 and Bonjour, a per-Mac quota setting in the same flow, and RAID 1 mirroring. The wizard matters: Time Machine depends on a correctly configured share, and a quota stops one Mac eating the whole disk.\n\nIt ranks first because it makes the hard part trivial. The QNAP has more memory but a heavier interface, and the UGREEN boxes use a newer app ecosystem.\n\nBuy it for a home with two or three Macs that want simple backups. The caveats are fixed RAM that cannot be upgraded and drives sold separately. Skip it if you want a NAS that also runs heavy extra apps.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "QNAP TS-264-8G-US 2-Bay Desktop NAS",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-amz-20",
       "verdict": "The most memory in a 2-bay, for several Macs at once.",
       "description": "The QNAP TS-264 is a two-bay NAS with 8GB of RAM, the most for a two-bay here, 2.5GbE networking, SMB3 Time Machine shares and the full QTS app store. Several Macs backing up at once is a memory-hungry job, and 8GB gives the box room to juggle them.\n\nIt ranks second because the interface is more complex than Synology's and the price bucket is higher. It beats the TERRAMASTER on RAM, by double.\n\nBuy it for a household with two or more Macs backing up together. Skip it if you want the simplest possible setup. A 2.5GbE port only helps if your router and Macs support it, so check your network.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "UGREEN NAS DXP2800",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-amz-20",
       "verdict": "More processor power for big MacBook Pro archives.",
       "description": "The UGREEN DXP2800 is a two-bay NAS built with content-creator hardware, with a higher performance CPU, snapshot-based versioning and SMB3 Time Machine share support. Big Time Machine sparse bundles reward a faster processor, and snapshots add a second layer of history on top of Time Machine itself.\n\nIt ranks third because the app ecosystem is newer and it costs more than the DH2300. It beats the Synology on raw CPU power.\n\nBuy it for a MacBook Pro owner with large drives and big archives. Skip it if you only back up a small, single-Mac drive. The newer software has less history behind it, so expect fewer community guides.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TERRAMASTER F2-425",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-amz-20",
       "verdict": "An Intel quad-core NAS that does more than backups.",
       "description": "The TERRAMASTER F2-425 is a two-bay NAS with an Intel x86 quad-core CPU, 4GB of RAM, a 2.5GbE port and SMB3 Time Machine share support. An Intel chip runs more services than most ARM boxes, so the F2-425 can host light extras alongside backups.\n\nIt ranks fourth because it has half the QNAP's memory and a less guided Mac setup. It suits tinkerers more than set-and-forget users.\n\nBuy it if you want Time Machine plus other light tasks. Skip it if you want a wizard-driven backup. For plain Time Machine duty, the Synology DS223 is simpler, while this box rewards people who like to configure services themselves. Its quad-core Intel chip leaves room for light extras beyond backups.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "QNAP TS-216G-US 2-Bay 2.5GbE Desktop NAS",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-amz-20",
       "verdict": "A 2.5GbE port aimed at shortening the first big backup.",
       "description": "The QNAP TS-216G is a two-bay NAS with a 2.5GbE port, SMB3 Time Machine share support and the QTS operating system, with standard two-bay RAID. The faster port is aimed at shortening the first big backup.\n\nIt ranks fifth because the listing does not give RAM, and it needs 2.5GbE gear to benefit. On a gigabit network it offers no advantage over cheaper boxes.\n\nBuy it if your network already runs 2.5GbE and you want a fast first backup. Skip it if your network is gigabit only. Confirm the RAM before you rely on it with several Macs, because the listing leaves it blank. Memory decides how well the box copes when two laptops wake and start backing up together.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Asustor Drivestor 2 Gen 2 AS1202T",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-amz-20",
       "verdict": "2.5GbE speed in the lower price bucket.",
       "description": "The Asustor Drivestor 2 Gen 2 AS1202T is a two-bay NAS with a quad-core 1.7GHz CPU, 1GB of DDR4 RAM, 2.5GbE networking, the ADM operating system, SMB3 Time Machine share support and 4K media server support. It brings 2.5GbE into the lower price bucket.\n\nIt ranks sixth because only 1GB of RAM limits headroom. It is a sound first NAS but cannot run many apps.\n\nBuy it as a first NAS that gives 2.5GbE for less. Skip it if you plan to run many apps on the box. For one or two Macs, it will back up fine, though not quickly under load. With only 1GB of memory, treat it as a dedicated backup target rather than a general server.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "UGREEN NAS DH2300",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "A low-cost enclosure for one Mac's backups.",
       "description": "The UGREEN DH2300 is a two-bay diskless enclosure supporting up to 64TB, with SMB3 Time Machine share support and an entry-level CPU and RAM tier. The price is the draw, and 64TB leaves room for years of backups.\n\nIt ranks seventh because the hardware is entry level and weak for multiple Macs. The DXP2800 above is faster for more money.\n\nBuy it for a single-Mac household on a tight budget. Skip it if several Macs back up at once. Entry-level hardware slows the first copy, so expect a long initial run and leave the Mac plugged in overnight. Over time, incremental backups are small, so the weakness matters mostly at the start.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "UGREEN NAS DXP4800 Plus",
       "score": 79,
       "imageUrl": "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-amz-20",
       "verdict": "Four bays and real RAID, if you can justify the spend.",
       "description": "The UGREEN DXP4800 Plus is a four-bay NAS with an Intel Pentium Gold 8505 five-core CPU, RAID 5, 6 and 10 support, multiple simultaneous Time Machine shares and the highest capacity ceiling in the list. Four bays let you use real RAID for a household backup server.\n\nIt ranks last because it is in the highest price bucket and overkill for small homes. The Synology DS223 handles one or two Macs for far less.\n\nBuy it for a household with three or more Macs that wants RAID. Skip it if you have one or two Macs and a modest budget. Add enough drives to justify the four bays.",
       "keySpecs": [

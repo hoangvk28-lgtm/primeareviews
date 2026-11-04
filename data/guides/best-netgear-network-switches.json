@@ -22,7 +22,7 @@
       "name": "NETGEAR GS308EP 8-Port PoE+ Smart Managed Switch",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/31nyBGJ-Y0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports with per-port control, and PoE that keeps running during a reboot.",
       "description": "The GS308EP is an 8-port Easy Smart managed switch with PoE+ on every port at roughly 62W total. It offers per-port PoE control and keeps PoE uninterrupted during a reboot, so cameras do not drop out when the switch restarts. Pricing lands between $50 and $100.\n\nIt takes the top spot because it combines the two features home labs and small offices want most: power over Ethernet and basic management. Per-port control lets you power-cycle a frozen camera or access point from the web interface instead of walking to it. The budget is shared across all eight ports, so a few hungry devices can use it up quickly. Check each device's wattage against the roughly 62W total.\n\nBuy it if you power cameras, phones or access points over the cable and want some control. Skip it if nothing you own needs PoE.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "NETGEAR GS305P 5-Port PoE Gigabit Switch",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/318TUdcwkML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-amz-20",
       "verdict": "Four PoE+ ports sharing 63W with dynamic power reallocation, fanless and unmanaged.",
       "description": "The GS305P has five ports, four of them PoE+, with a total budget of 63W and dynamic power reallocation. It is fanless and unmanaged, and sits in the $25 to $50 bucket.\n\nIt takes the runner-up spot because it covers a common need cheaply: powering a couple of cameras or an access point without an extra injector. Dynamic reallocation shifts spare watts to the port that needs them, which stretches the budget. Without management you cannot reboot a single port remotely or split traffic into VLANs, which is why the GS308EP outranks it.\n\nChoose it for a small setup with up to four powered devices. Skip it if you want remote port control or more than four PoE ports.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "NETGEAR GS308E 8-Port Easy Smart Managed Switch",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
       "verdict": "Up to 64 VLANs, a cross-platform web GUI and automatic DoS, loop and storm protection.",
       "description": "The GS308E is an 8-port Easy Smart managed switch supporting up to 64 VLANs, with a cross-platform web interface and automatic protection against DoS, loops and broadcast storms. It sits under $25.\n\nIt ranks third because it delivers managed features at the price of a basic switch. A VLAN lets you keep smart home gadgets, guests or a work laptop on separate networks, which is the real reason to buy a smart switch. It has no PoE, so it cannot power devices. The web GUI is simple but not a replacement for a full managed switch, and you need a router that understands VLANs to benefit.\n\nBuy it if you want to learn VLANs or segment traffic cheaply. Skip it if you need PoE or just want to plug devices in.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "NETGEAR GS308 8-Port Gigabit Unmanaged Switch",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/31kV5XNYXoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07PFYM5MZ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07PFYM5MZ?tag=primeareviews-amz-20",
       "verdict": "Eight gigabit ports in a fanless metal housing, with energy-efficient Ethernet.",
       "description": "The GS308 is a plain 8-port gigabit unmanaged switch in a fanless metal housing, with 802.3az energy-efficient Ethernet and desktop or wall mounting. It sits under $25.\n\nFourth place reflects a straightforward role. It adds ports and nothing else, which is exactly what many desks and TV stands need. The metal case helps shed heat without a fan, so it makes no noise. Compared with the GS308E it lacks VLANs and monitoring, but it is simpler and avoids any configuration at all.\n\nBuy it if you need to expand a router that is short on ports. Skip it if you want management or PoE.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "NETGEAR GS316v3 16-Port Fanless Unmanaged Switch",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/318XcXaqlRL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F1GG2DC8?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F1GG2DC8?tag=primeareviews-amz-20",
       "verdict": "Sixteen fanless gigabit ports for a larger home or workshop.",
       "description": "The GS316v3 provides 16 gigabit ports, fanless, with 802.3az energy-efficient Ethernet and desktop or wall mounting. It sits in the $50 to $100 bucket.\n\nSixteen ports are overkill for most homes, but ideal for a house with wired rooms, a home lab or a workshop. Being fanless is a real advantage when the switch sits in a living space. It is unmanaged, so all ports share one flat network. Check the amount of cabling you will run, because a full switch behind a TV unit becomes a tangle.\n\nBuy it if you wire many rooms or devices. Skip it if eight ports cover you.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "NETGEAR GS324 24-Port Gigabit Unmanaged Switch",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31lC+ejtY7L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08QDVSWX4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08QDVSWX4?tag=primeareviews-amz-20",
       "verdict": "Twenty-four fanless ports that mount on a desk, wall or rack.",
       "description": "The GS324 offers 24 gigabit ports, fanless, with auto-negotiation and energy-efficient Ethernet, and can mount on a desk, wall or rack. It sits in the $50 to $100 bucket.\n\nSixth place reflects how few buyers need it. For a small office or a home network rack, twenty-four ports is a convenient single box that avoids chaining switches. The rack option stands out against the smaller models. It remains unmanaged, with no PoE, so a larger office would want a managed or PoE switch instead.\n\nBuy it if you are cabling a rack or a full office floor. Skip it for ordinary home use.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "NETGEAR GS305E 5-Port Easy Smart Managed Switch",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/31WBkBB448L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07PJ7XZ7X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07PJ7XZ7X?tag=primeareviews-amz-20",
       "verdict": "A five-port smart switch with VLAN, QoS and port monitoring in a fanless case.",
       "description": "The GS305E is a 5-port Easy Smart managed switch offering VLAN, QoS and port monitoring, fanless and energy-efficient. It sits under $25.\n\nIt ranks seventh because five ports leave little room for growth, and the GS308E gives you eight ports plus more VLAN headroom for a similar price. The QoS option can prioritize traffic such as video calls, and port monitoring helps with troubleshooting. It suits a desk where one or two segments are enough.\n\nBuy it if you want smart features on a tiny footprint. Skip it if you expect to add more devices soon.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "NETGEAR GS305 5-Port Gigabit Unmanaged Switch",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31JUxKEND6L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-amz-20",
       "verdict": "The cheapest way to turn one Ethernet jack into five, fanless and energy-efficient.",
       "description": "The GS305 is a 5-port gigabit unmanaged switch, fanless, with 802.3az energy-efficient Ethernet and desktop or wall mounting. It sits under $25.\n\nIt lands last only because it does the least. If your router has one free port and you need a few more for a TV, console and PC, it solves the problem with no setup at all. It lacks the management of the GS305E and the power delivery of the GS305P, so check what your devices need before choosing the cheapest.\n\nBuy it if you simply need more ports. Skip it if you need PoE or VLANs.",
       "keySpecs": [

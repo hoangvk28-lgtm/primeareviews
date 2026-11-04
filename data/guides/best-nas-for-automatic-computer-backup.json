@@ -22,7 +22,7 @@
       "name": "Synology DS223 Home & Office Backup Hub",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-amz-20",
       "verdict": "A two-bay NAS with free full-image PC and Mac backup through Active Backup for Business.",
       "description": "The DS223 is a two-bay diskless NAS with RAID 1 support, and it includes Active Backup for Business, which the listing describes as free full image backup for PCs and Macs. The DSM scheduler adds versioned backups, so you can roll back to an earlier state of a file. The RAM is fixed and cannot be upgraded.\n\nIt wins because the software is the whole point of a backup NAS, and Synology has the most mature option here. Image-level backup means you can restore an entire machine after a drive failure, not just documents. Versioning protects against ransomware and accidental deletion. The cost is hardware: the processor and fixed memory are modest next to the newer rivals, and the network port is the standard kind rather than 2.5GbE.\n\nBuy it if you are backing up two or three computers and want the most reliable set-and-forget software. Skip it if you plan to edit video straight from the NAS.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "UGREEN NAS DXP4800 Plus",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-amz-20",
       "verdict": "A four-bay NAS with an Intel Pentium Gold 8505 and RAID 5, 6 and 10 for bigger households.",
       "description": "The DXP4800 Plus is a four-bay diskless NAS built around an Intel Pentium Gold 8505 five-core processor. It supports RAID 5, 6 and 10, handles several backup jobs at once and has the highest capacity ceiling in this ranking.\n\nIt takes second place because four bays change what a NAS can be. RAID 5 or 6 gives you more usable space than a mirror while surviving a disk failure, and the faster processor stops simultaneous backups from queuing. For a home with three or more computers, or a small office, that headroom matters. It ranks below the Synology only because UGREEN's software is newer, with less track record on backup specifically, and the $500 and up price is a big step.\n\nBuy it if you have many computers, large photo or video libraries, or expect the household to grow. Skip it if you back up one laptop.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "QNAP TS-264-8G-US 2-Bay Desktop NAS",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-amz-20",
       "verdict": "8GB of RAM, 2.5GbE and Hybrid Backup Sync, the roomiest two-bay in this ranking.",
       "description": "The TS-264 has 8GB of RAM, the most for a two-bay model in this list, plus 2.5GbE networking and Hybrid Backup Sync for local and cloud jobs. QNAP's QTS operating system includes a full app store.\n\nIt ranks third because memory and 2.5GbE let it run several backup and cloud-sync jobs without a bottleneck, and Hybrid Backup Sync gives you an off-site copy. The tradeoff is complexity: QTS has more options than DSM and a steeper learning curve, and the app store invites you to run a dozen services you may not need. It sits below the UGREEN four-bay only on capacity, since it has two bays.\n\nBuy it if you want to run backup, cloud sync and a few other apps at the same time. Skip it if you want the simplest possible set-up.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TERRAMASTER F2-425",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-amz-20",
       "verdict": "An Intel x86 quad-core, 4GB of RAM and 2.5GbE in a two-bay enclosure.",
       "description": "The F2-425 pairs an Intel x86 quad-core processor with 4GB of RAM and a 2.5GbE LAN port in a diskless two-bay enclosure. TOS, TerraMaster's operating system, handles scheduled backups.\n\nIt lands fourth because the hardware is strong for the price and leaves room for other light services alongside backup. An x86 chip also means broad software compatibility. The downside is software maturity: TOS has fewer polished backup tools than Synology's, and the listing does not mention full image backup or built-in cloud sync. It is a capable platform, but you may spend more time configuring it.\n\nBuy it if you are comfortable setting up a NAS and want Intel horsepower for backup plus a media server or two. Skip it if you want one-click, image-level backup out of the box.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "UGREEN NAS DXP2800",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-amz-20",
       "verdict": "A two-bay, content-creator tier NAS with scheduled rsync, cloud sync and snapshot versioning.",
       "description": "The DXP2800 is a two-bay NAS with content-creator tier hardware and a higher-performance CPU for large file sets. It runs scheduled rsync and cloud-sync backup jobs, with snapshot-based versioning, on UGREEN's own OS and app ecosystem.\n\nIt places fifth because it is built for big files, such as photo catalogs and video projects, more than for plain document backup. Snapshots give you point-in-time recovery, which is useful against accidental deletes. It ranks below the Synology because the software is younger and there is no dedicated image backup tool named on the listing, so full-system restores are less certain.\n\nBuy it if your computers hold large media libraries and you want a faster processor than the entry models. Plan a secondary off-site copy, since a single box in one room is not a full strategy.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "QNAP TS-216G-US 2-Bay 2.5GbE Desktop NAS",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-amz-20",
       "verdict": "A two-bay QNAP with 2.5GbE and Hybrid Backup Sync, for faster first backups.",
       "description": "The TS-216G is a two-bay desktop NAS with a 2.5GbE port, Hybrid Backup Sync for scheduled local and cloud jobs, QNAP's QTS operating system and standard two-bay RAID support.\n\nIt ranks seventh because it overlaps heavily with the TS-264 above but offers less. The listing gives no RAM figure, so headroom for concurrent jobs is uncertain, and the price sits in the same $200 to $500 bracket. Where it makes sense is a network that is already 2.5GbE or about to be, and a buyer who prefers QNAP's software.\n\nBuy it if you want QNAP's backup tools and faster first backups at a fair price. For a bit more, the TS-264 gives much more RAM headroom.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Asustor Drivestor 2 Gen 2 AS1202T",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-amz-20",
       "verdict": "A quad-core 1.7GHz two-bay with 1GB DDR4 and 2.5GbE, in the $100 to $200 bracket.",
       "description": "The Drivestor 2 Gen 2 is a two-bay NAS with a quad-core 1.7GHz processor, 1GB of DDR4 RAM and 2.5GbE networking. Asustor's ADM operating system has backup apps for Windows and Mac, and the unit can act as a 4K media server.\n\nIts best argument is 2.5GbE at the lowest price in this ranking. A first backup of a big drive can take many hours, and a faster network port shortens it, provided your router and computer also support it. The 1GB of RAM is thin, so running a media server alongside backup jobs can slow things down.\n\nBuy it if you are a first-time NAS buyer who wants 2.5GbE without the mid-range price. Check that your computer has a matching port, or the speed advantage will not appear.",
       "keySpecs": [

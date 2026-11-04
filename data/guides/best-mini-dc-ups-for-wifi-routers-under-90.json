@@ -22,7 +22,7 @@
       "name": "TalentCell Mini UPS 27000mAh with USB-C PD",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31yaJir8URL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07WLD32RP?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07WLD32RP?tag=primeareviews-amz-20",
       "verdict": "The largest capacity here, 97.2Wh, with four 12V outputs, a 9V output and an 18W USB-C PD port.",
       "description": "The TalentCell is a 27000mAh (97.2Wh) twelve-cell pack with four 12V DC outputs, one 9V DC output, two 5V USB ports and an 18W USB-C PD output. It has no PoE support.\n\nIt wins because stored energy is the spec that matters most. As a rule of thumb, divide watt-hours by the router's wattage, then knock off roughly a fifth for conversion losses: a 10W router on a 97.2Wh pack could run for several hours. Four 12V ports let you power a router, a modem and a small switch from one unit, and the 9V and USB ports cover odd devices.\n\nBuy it for the longest runtime and flexible outputs. Skip it if your gear needs PoE.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "RGTTOTG Power Systems Mini UPS with PoE Output DC24V",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/31CNQauTYFL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CP693BWD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CP693BWD?tag=primeareviews-amz-20",
       "verdict": "A 29.6Wh unit with PoE 24V, 12V, 9V and USB outputs, and a documented zero-second switchover.",
       "description": "The RGTTOTG has PoE 24V, DC 12V and 9V, and USB 5V outputs, with an 8000mAh (29.6Wh) lithium-ion battery. The listing states a zero-second switchover with no restart needed.\n\nIt ranks second because switchover is the thing a UPS exists to do, and this is one of the few listings to document it. A router that rides through a mains failure without rebooting is the whole point. The battery is modest at 29.6Wh, so runtime is shorter than the TalentCell, but the 24V PoE output serves cameras and some access points.\n\nChoose it if you want seamless switchover and PoE. Skip it if you need hours of runtime.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Mini UPS Battery Backup, 20000mAh, Dual Router Support",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/312p5-wC-LL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FF9QS7LK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FF9QS7LK?tag=primeareviews-amz-20",
       "verdict": "A 74Wh pack with two 12V DC ports and 60W max output that doubles as a power bank.",
       "description": "This unit has a 20000mAh (74Wh) battery, two 12V DC ports, a 60W maximum output and doubles as a standard USB power bank.\n\nIt ranks third because dual ports solve a common home problem: a modem and a router that both need power. Seventy-four watt-hours is enough for several hours of a typical pair. The weakness is that the listing says nothing about switchover behaviour, so a brief interruption on mains loss cannot be ruled out.\n\nBuy it if you need to back up both modem and router. Skip it if seamless switching is critical.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "ALFOINE 48Wh UPS Battery Backup with Passive PoE",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/21xJ+03Si1L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GJBWXM66?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GJBWXM66?tag=primeareviews-amz-20",
       "verdict": "A 48Wh unit with passive PoE at 24V or 48V plus DC 5V, 9V and 12V, up to 30W total.",
       "description": "The ALFOINE offers passive PoE at 24V or 48V, DC outputs of 5V, 9V and 12V, and a 48Wh (9.6V, 5000mAh) battery, with 30W maximum total output.\n\nIt ranks fourth because the voltage range is the widest here and suits fiber ONT or ONU boxes and passive PoE gear that other units cannot power. Passive PoE has no negotiation, so choosing the wrong voltage can damage a device, which makes the selector a double-edged feature. The 30W limit rules out power-hungry kit.\n\nChoose it if you have a fiber ONT or passive PoE device. Skip it if you want the most runtime.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "CHINTE Mini UPS 16000mAh with PoE 15V/24V",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31pHhSDy6PL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GWC8GVGZ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GWC8GVGZ?tag=primeareviews-amz-20",
       "verdict": "A LiFePO4 16000mAh unit with 15V and 24V PoE outputs, up to 36W.",
       "description": "The CHINTE has a LiFePO4 battery of 16000mAh, PoE outputs of 15V at 1A and 24V at 0.6A, up to 36W, and an LED capacity indicator.\n\nIt ranks fifth because LiFePO4 is the safest and longest-lived common lithium chemistry, which suits a device that sits charged for years. The 15V PoE output is unusual and helpful for some routers. The listing does not state a watt-hour figure, so runtime is harder to estimate.\n\nBuy it if you want long battery life and 15V PoE. Skip it if you need a stated watt-hour rating.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Yuuki Power Mini UPS for WiFi Router with LCD Screen",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/31zzzW2SW3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FCV2Q8TB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FCV2Q8TB?tag=primeareviews-amz-20",
       "verdict": "A 10400mAh (32Wh) unit with an LCD status screen and USB-C PD, rated to 24W.",
       "description": "The Yuuki has a clear LCD that shows real-time status, USB-A and USB-C PD fast charging, a 10400mAh (32Wh) battery and 24W maximum total output.\n\nIt ranks last because the screen is the highlight but the battery is small. A live readout shows how much runtime remains, which is more useful than a light that goes from green to red. But at 32Wh and 24W maximum, it gives the least capacity per dollar in the group.\n\nChoose it if you value a readable status display. Skip it if you want runtime.",
       "keySpecs": [

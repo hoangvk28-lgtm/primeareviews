@@ -22,7 +22,7 @@
       "name": "Synology DS223 Home & Office Backup Hub (2-Bay Diskless NAS)",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-amz-20",
       "verdict": "The easiest NAS software for first time buyers.",
       "description": "The Synology DS223 is a 2-bay diskless NAS running DSM with RAID 1 support, in the $200 to $500 tier. It is a Value-series model with soldered RAM that cannot be upgraded, and it focuses on backup and basic surveillance monitoring. For many home offices, that is exactly the job: a place where laptops back up and files get shared with a couple of colleagues.\n\nIt ranks first because DSM is the easiest NAS software to learn, which counts for more than raw power in a small office. The QNAP and TERRAMASTER offer more RAM or CPU at similar money.\n\nBuy it as a first NAS. The caveats are hardware: the RAM is soldered, so you cannot add memory later, and it is not built for running many apps. If you plan on containers or media servers, look at the QNAP TS-264.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "UGREEN NAS DXP2800 2-Bay",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-amz-20",
       "verdict": "More processing headroom for photo and video work.",
       "description": "The UGREEN DXP2800 is a diskless 2-bay NAS running UGREEN NAS OS with RAID 1 support, built with content creator hardware in mind, in the $200 to $500 tier. Photo and video libraries are heavy on both storage and processing: thumbnails, indexing and previews all lean on the CPU, and extra headroom shows up as faster browsing.\n\nIt ranks second because that headroom helps media workflows, but UGREEN's software is newer than DSM, so the polish trails Synology. The listing also gives fewer spec numbers than some rivals, which makes it harder to compare on RAM or CPU.\n\nChoose it if you handle large media files and want hardware first. Skip it if you want the most mature software. Drives are sold separately, so add them to the budget, and confirm the RAM and CPU on the manufacturer page.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "QNAP TS-264-8G-US 2 Bay Desktop NAS",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GTWWJK9V?tag=primeareviews-amz-20",
       "verdict": "8GB of RAM out of the box for running apps.",
       "description": "The QNAP TS-264 is a 2-bay desktop NAS with 8GB of RAM included, QTS software, and multi-app and container support, in the $200 to $500 tier. RAM is the resource that apps consume first. Running a media server, a download manager and a backup service together eats memory quickly, and 8GB out of the box saves an upgrade.\n\nIt ranks third because the included RAM is a real advantage over the DS223's soldered chip, but QTS has a steeper learning curve than DSM. For a small office without a dedicated administrator, learning time counts.\n\nPick it if you will run several apps or media servers at once. Skip it if you only need backup, since the DS223 does that more easily. It is diskless, so you buy the drives separately, and containers add a layer of setup that beginners should expect.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TERRAMASTER F2-425 2-Bay NAS (Intel x86 Quad-Core)",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-amz-20",
       "verdict": "Quad core Intel power with 2.5GbE and 4GB RAM.",
       "description": "The TERRAMASTER F2-425 pairs an Intel x86 quad-core CPU with 4GB of RAM, 2.5GbE LAN and the TOS operating system in a 2-bay diskless chassis, in the $200 to $500 tier. An x86 processor matters because it runs a broad range of software and handles tasks like media transcoding better than lower-end chips.\n\nIt ranks fourth because the hardware is strong, yet TOS is less polished than DSM, and polish is what a small office values day to day. The 2.5GbE port moves files faster than gigabit, but only if your switch and computers support it.\n\nBuy it if performance matters more than software finish and you are comfortable with a less refined interface. Skip it if you want simple software. Drives are sold separately, and the extra network speed is wasted on a gigabit-only network.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "QNAP TS-216G-US 2-Bay 2.5GbE Desktop NAS",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GN3YJN2F?tag=primeareviews-amz-20",
       "verdict": "Faster networking if your switch supports it.",
       "description": "The QNAP TS-216G is a 2-bay desktop NAS with 2.5GbE networking, QTS and RAID 1 support, diskless, in the $200 to $500 tier. The faster port is the point, since file transfers to a 2.5GbE-equipped computer can run beyond what a gigabit link allows.\n\nIt ranks below the TS-264 because the listing gives no RAM figure, so app headroom is unclear. You get the QTS ecosystem and fast networking, but you cannot tell whether it can handle containers. The TS-264 states 8GB.\n\nPick it if you already have a 2.5GbE switch and mainly want fast file access. Without a matching switch, the faster port goes unused. Check the RAM and CPU on the maker's page, and remember that drives are sold separately.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "UGREEN NAS DH2300 2-Bay Desktop NAS (Diskless)",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "Supports up to 64TB total capacity at a low price.",
       "description": "The UGREEN DH2300 is a 2-bay desktop NAS with UGREEN NAS OS and RAID 1 support, supporting up to 64TB total capacity, in the $100 to $200 tier. Large capacity ceilings matter when you plan to swap in bigger drives over the years: the enclosure then outlasts the first set of disks.\n\nIt ranks sixth because it is a lower-cost model than the DXP2800 and lists less hardware detail. The software is newer, and the listing offers few numbers on CPU or RAM, so you are trusting it for light duties.\n\nChoose it if you want room for large drives later without changing the enclosure. Skip it if you want proven software or app-heavy performance. Drives are sold separately, and a 64TB ceiling is a promise about future drives, not a claim about speed today.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Asustor Drivestor 2 Gen 2 (AS1202T) 2-Bay NAS",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-amz-20",
       "verdict": "A budget NAS with 2.5GbE and a quad core CPU.",
       "description": "The Asustor Drivestor 2 Gen 2 has a quad-core 1.7GHz CPU, 2.5GbE networking, 1GB of soldered DDR4 RAM and 4K media server support in a 2-bay diskless chassis, in the $100 to $200 tier. For plain file sharing and backup, that is a fair mix at a low price.\n\nIt ranks seventh because 1GB of RAM is thin for apps, and soldered memory means you cannot add more later. It is aimed at backup and file serving, and a user who wants containers will run out of room.\n\nBuy it if budget is tight and needs are simple, such as backing up laptops and sharing documents. Skip it if you run many apps. The 4K media support suits a single stream, but do not expect heavy transcoding from 1GB.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "Synology DS725+ Expandable NAS (2-Bay Diskless)",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/21nJ2B4QOLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CBTVMMLB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CBTVMMLB?tag=primeareviews-amz-20",
       "verdict": "Upgradeable RAM and expansion room, at the top price tier.",
       "description": "The Synology DS725+ is a Plus-series 2-bay diskless NAS with upgradeable DDR4 RAM, expansion through Synology expansion units and DSM software, in the $500 and up tier. It is aimed at private cloud and small business use, and it is the only pick here that grows with you.\n\nIt ranks last only because of price. Most home offices do not need more than the DS223 provides, and the DS725+ asks for a premium that only pays back when you add memory or expansion units.\n\nChoose it for a business that will outgrow two bays, or for one that will run several services on DSM. Skip it if you only back up files. Drives are sold separately, so total cost climbs further once you add two NAS-rated disks.",
       "keySpecs": [

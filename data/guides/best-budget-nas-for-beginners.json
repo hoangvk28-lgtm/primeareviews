@@ -22,7 +22,7 @@
       "name": "UGREEN NAS DH2300 2-Bay Desktop NAS (Diskless)",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "The easiest on-ramp to a proper 2-bay NAS at a modest price.",
       "description": "The DH2300 is a diskless 2-bay desktop NAS running UGREEN's UGOS software, which is pitched at newcomers. It supports RAID 0 and 1, handles up to 64TB total, and uses Gigabit Ethernet. It sells for $100 to $200. RAID 1 writes the same data to both drives, so one can fail and your files survive, which is the safety net a beginner needs most.\n\nIt ranks above the Synology because it sits in a lower price bucket and still gives you mirrored storage. You give up the deep ecosystem of Synology's software, but for backups and shared folders the gap is small for a beginner. Against the Asustor, it matches the price but is slower on the network.\n\nBuy it if you want a clean first NAS and are happy to supply your own drives. The caveat is that Gigabit networking caps transfer speed, so large video files will not feel instant. Skip it if you need faster than Gigabit.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Synology DS223 Home & Office Backup Hub (2-Bay Diskless NAS)",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-amz-20",
       "verdict": "The most guided setup here, at a higher price.",
       "description": "The DS223 is a 2-bay diskless NAS built around Synology DSM, a mature operating system with centralized file access, monitoring and RAID 1 mirroring. Networking is Gigabit. It sells for $200 to $500. A mature interface walks beginners through creating volumes, users and backup tasks, which cuts the risk of leaving a share open to everyone.\n\nIt sits just behind the UGREEN because it costs more for hardware that is similarly modest. What you pay for is software polish and a long track record of update support. Against the Buffalo, it adds mirroring and expansion.\n\nChoose it if your biggest worry is getting stuck during setup and you will use the NAS for years. The caveat is the price and Gigabit-only networking. Skip it if you want the lowest entry price, since the UGREEN gets you most of the same result for less.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Buffalo LinkStation 210 2TB 1-Bay NAS (Drives Included)",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00JKM0A36?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00JKM0A36?tag=primeareviews-amz-20",
       "verdict": "Plug in, share files, done: no drive shopping required.",
       "description": "A one-bay NAS that ships with a 2TB drive already inside and is preconfigured out of the box. It offers home cloud and network storage over Gigabit Ethernet, with no RAID because there is only one drive. It sells for $100 to $200. Drive included means no compatibility questions, and preconfigured means you can share files within minutes.\n\nIt ranks third since the single bay means no redundancy: if the drive fails, your files go with it. Against the UGREEN and Synology, you trade protection and flexibility for a much simpler start and no extra purchases. Against the 6TB version, it costs less and holds a third of the data.\n\nIt suits people who just want shared storage and a backup target today. The caveat is that you should keep a second copy of anything important. Skip it if you want mirrored drives or room to expand.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Asustor Drivestor 2 Gen 2 AS1202T 2-Bay NAS (Diskless)",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-amz-20",
       "verdict": "2.5GbE networking in the lowest price bucket.",
       "description": "The Drivestor 2 is a 2-bay diskless NAS with a quad-core 1.7GHz CPU, 1GB DDR4 RAM and 2.5GbE networking. It also supports 4K media serving and sells for $100 to $200. A 2.5GbE port moves data roughly two and a half times faster than Gigabit, but only if the rest of your network matches.\n\nIt ranks fourth because 1GB of RAM is thin for anything beyond file sharing, while the TerraMaster below carries 4GB. Its edge over the UGREEN is the faster 2.5GbE port at a similar price. A quad-core chip handles a few media streams without struggling.\n\nPick it if you have a 2.5GbE router or switch and want quicker transfers. The caveat is that on a Gigabit network that advantage goes unused. Skip it if you plan to run many apps at once.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "TerraMaster F2-425 2-Bay NAS (Intel x86 Quad-Core, Diskless)",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-amz-20",
       "verdict": "More CPU and RAM than a beginner needs today, useful tomorrow.",
       "description": "The F2-425 is a diskless 2-bay unit with an Intel x86 quad-core CPU, 4GB RAM and 2.5GbE LAN, with multimedia server support. It sells for $200 to $500. An x86 processor runs a wider range of software and handles media transcoding better than entry-level ARM chips, which matters if your needs grow.\n\nIt ranks below the Asustor on value because you pay noticeably more, but it has four times the RAM and the more capable x86 processor. That headroom matters if you add apps or media transcoding later. Against the Synology, it offers faster networking and more RAM for a similar price tier.\n\nBuy it if you expect your NAS needs to grow. The caveat is that it is overkill for backup only. Skip it if you only need simple file backup.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Buffalo LinkStation 210 6TB 1-Bay NAS (Drives Included)",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08DZHL5V5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08DZHL5V5?tag=primeareviews-amz-20",
       "verdict": "Same simple box as the 2TB, with three times the space.",
       "description": "This is the same preconfigured one-bay LinkStation as the 2TB version, shipping with a 6TB drive and Gigabit Ethernet. There is still no RAID. It sells for $200 to $500. Three times the space suits photo and video libraries, though a single large drive concentrates risk.\n\nIt ranks below the 2TB because it moves into a higher price bucket while keeping the single-drive risk. More space in one drive means more to lose at once if it fails. Against the DH2300, it costs more upfront and offers no mirroring, though the drive is included.\n\nChoose it if you have a lot of files to store and want zero setup. The caveat is that one failure takes everything, so pair it with an external backup. Skip it if you want redundancy built in.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Beelink Mini PC ME Pro 2-Bay NAS (Intel N95, Diskless)",
       "score": 78,
       "imageUrl": "https://m.media-amazon.com/images/I/41GmtgzH11L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GHR83DX5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GHR83DX5?tag=primeareviews-amz-20",
       "verdict": "A mini PC that doubles as a NAS, not a simple appliance.",
       "description": "The ME Pro pairs an Intel N95 CPU with 12GB LPDDR5 RAM and a 128GB M.2 SSD, plus two hard drive bays and three M.2 SSD slots. It has dual LAN and works as a mini PC, file server and NAS. It sells for $200 to $500. It is a computer you configure, not an appliance with a guided app.\n\nIt ranks last for beginners because it is more flexible than friendly: you manage an operating system rather than a guided NAS app. In exchange, it has the most RAM and expansion of anything here. Against the TerraMaster, it offers 12GB against 4GB but asks more of you.\n\nBuy it if you enjoy tinkering and want one box for several jobs. The caveat is a steeper learning curve. Pure beginners should start with the UGREEN or Synology, and skip this unless you want an operating system to manage.",
       "keySpecs": [

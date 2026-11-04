@@ -22,7 +22,7 @@
       "name": "NETGEAR GS308EP 8-Port PoE+ Smart Managed Switch",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31nyBGJ-Y0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports on a 62 watt budget with per-port control and Easy Smart management.",
       "description": "The GS308EP has eight PoE+ ports sharing 62 watts, Easy Smart management, per-port PoE control and uninterrupted PoE during a reboot. It costs $50 to $100.\n\nIt leads because management is what separates a switch you can troubleshoot from one you cannot. Per-port control lets you power-cycle a frozen camera from a browser instead of climbing a ladder, and keeping PoE alive during a reboot stops cameras dropping out when you change settings. The tradeoff is the modest budget: 62 watts shared across eight ports limits what you can power.\n\nBuy it for a home or small office with a handful of low-draw devices. Add up watts first.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "TP-Link LS108GP 8-Port PoE Gigabit Switch",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/31fYy+VFgML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CWJMRTWY?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CWJMRTWY?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports at 65 watts with Extend Mode to 820 feet and PoE auto recovery.",
       "description": "The LS108GP has eight PoE+ ports sharing 65 watts, an Extend Mode that reaches up to 820 feet and PoE auto recovery. It costs $50 to $100.\n\nSecond place here is explained by the way it is the plug-and-play option: no setup, and Extend Mode pushes a camera farther than the standard 328 foot Ethernet limit at reduced speed. Auto recovery restarts a PoE device that stops responding. It has no per-port control or management, so you cannot see what each port draws.\n\nBuy it for a simple camera or access point setup. Choose the NETGEAR if you want visibility.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "UGREEN 10-Port PoE Switch (8x PoE+ @60W)",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/31Bdq-5P3-L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHK6N2H4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHK6N2H4?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports plus two uplinks, with one-touch VLAN and Extend mode switching.",
       "description": "The UGREEN switch has ten ports, eight of them PoE+ sharing 60 watts, plus two uplinks, with one-touch switching for VLAN and Extend modes and a reach up to 820 feet. It costs $25 to $50.\n\nThird place goes to the price and the second uplink, which lets you connect a router and a NAS or a second switch without sacrificing a PoE port. The one-touch VLAN button isolates ports so cameras cannot reach the rest of the network. The 60 watt budget is the lowest here.\n\nBuy it for a budget camera setup that wants isolation. Check your total wattage.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "NETGEAR GS305P 5-Port PoE Gigabit Switch",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/318TUdcwkML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-amz-20",
       "verdict": "Five ports with four PoE+ at 63 watts total, fanless and unmanaged.",
       "description": "The GS305P has five ports, four of them PoE+ sharing 63 watts with dynamic power reallocation, and is fanless and unmanaged. It costs $25 to $50.\n\nThe fourth spot follows because it is the quiet, compact choice for a desk or closet. Dynamic power reallocation gives unused watts to ports that need them, which makes a small budget go further. The one non-PoE port is the uplink, so you have only four powered ports.\n\nBuy it for two to four devices, such as a few cameras or an access point. Choose eight ports if you plan to grow.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/41kx+YQoVLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-amz-20",
       "verdict": "Four PoE+ ports at 65 watts with an uplink, QoS, IGMP snooping and a 3-year warranty.",
       "description": "The TL-SG1005P has four PoE+ ports sharing 65 watts plus one uplink, with QoS, IGMP snooping and a 3-year warranty. It costs $25 to $50.\n\nIts fifth position rests on how it is close to the NETGEAR five-port model, with slightly more power and the added traffic features. QoS prioritizes traffic and IGMP snooping keeps multicast video from flooding the network, both useful with cameras. The three-year warranty gives peace of mind.\n\nBuy it for a small camera system that benefits from traffic control. It has no management interface.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Ubiquiti UniFi USW-Pro-24-PoE Layer 3 Switch",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/21cLhVGwO9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B082NRZFSD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B082NRZFSD?tag=primeareviews-amz-20",
       "verdict": "A 24-port Layer 3 managed PoE switch that joins the UniFi controller.",
       "description": "The USW-Pro-24-PoE is a 24-port Layer 3 managed switch with PoE and UniFi controller integration, priced at $500 and up. The listing does not state a power budget.\n\nIt places sixth for a general ranking because it is far more switch than a home needs, and the missing wattage figure means you must check the maker's page. For a larger office or a UniFi-based network, Layer 3 routing between VLANs and central management are real advantages.\n\nBuy it for a UniFi site with many ports. A small network does not need it.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Ubiquiti UniFi USW-Pro-48-PoE Layer 3 Switch",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/21a0+0k7KUL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08222RLCG?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08222RLCG?tag=primeareviews-amz-20",
       "verdict": "A 48-port Layer 3 PoE rack switch weighing about 17 pounds.",
       "description": "The USW-Pro-48-PoE is a 48-port Layer 3 managed PoE switch with UniFi controller integration, rack mounting and a weight of about 17 pounds. It costs $500 and up.\n\nRank last is a result of the fact that few buyers need 48 ports, and the listing gives no power budget. It is the right size for a business or school wiring closet that powers dozens of cameras and phones, and it shares the UniFi management of the 24-port model.\n\nBuy it for a large installation. Everyone else should choose a smaller switch.",
       "keySpecs": [

@@ -25,7 +25,7 @@ Senior product reviewer, years in the category. Confident, decisive, plain Engli
  "intro": ["hook paragraph", "what we ranked and how"],
  "products": [{
    "id": "kebab-name", "rank": 1, "award": "Best Overall", "name": "<exact name>", "score": 94,
-   "imageUrl": "<facts>", "amazonUrl": "https://www.amazon.com/dp/<ASIN>?tag=primeareviews-20",
+   "imageUrl": "<facts>", "amazonUrl": "https://www.amazon.com/dp/<ASIN>?tag=primeareviews-amz-20",
    "verdict": "one punchy sentence",
    "description": "P1 role + 1-2 real specs\n\nP2 why it ranks here vs the pick above/below, naming the real tradeoff\n\nP3 who should buy + real caveat",
    "keySpecs": [{"label":"..","value":".."} x4],

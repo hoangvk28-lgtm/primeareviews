@@ -22,7 +22,7 @@
       "name": "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/41y+ttUJO7L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-amz-20",
       "verdict": "A 750W supply that leaves a 3060 hugely overpowered in headroom, with a JHL7440 controller.",
       "description": "The ORARA ships with a 750W supply and a JHL7440 controller, supporting a 32Gbps daisy chain over Thunderbolt 3, 4 and USB4. Its card bay measures 13.7 inches long, 6.17 tall and 2.3 thick, so triple-slot designs are out.\n\nFor a 3060, the supply is more than enough, and nearly every 3060 is a two-slot card that fits the clearance. It wins because it is complete: no extra supply to source, no case to find. The 750W unit is overkill, so you are paying for headroom you will not use, which is the reason to look at smaller options if cost matters.\n\nBuy it if you want a no-fuss box that will accept a bigger card later. Skip it if you want something small and cheap.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "ANQUORA ANQ-L336 Mini eGPU Enclosure, 40Gbps Thunderbolt 3/4 USB4",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/31AuNRvMSIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D6BVGCR5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D6BVGCR5?tag=primeareviews-amz-20",
       "verdict": "A mini dock with confirmed ROG Ally X and MSI Claw 8 support and flexible power options.",
       "description": "The ANQUORA ANQ-L336 uses a JHL7440 controller delivering 32Gbps through PCIe 4.0 x4, with confirmed ROG Ally X and MSI Claw 8 support, and accepts ATX, SFX, FLEX or DC power.\n\nConfirmed compatibility is rare in this category, and handheld gaming PCs are among the fussiest hosts. It ranks second because it needs a separately sourced power supply, so the total cost and build effort is higher than the ORARA's.\n\nBuy it if you game on a handheld and want a proven pairing. Skip it if you want a finished box.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "External eGPU Enclosure with 240W PSU, Thunderbolt 4/3 & USB4",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/41YkxL-oc1L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G48YDLBR?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G48YDLBR?tag=primeareviews-amz-20",
       "verdict": "A 240W supply, a carrying case and dual Thunderbolt ports with 85W and 15W power delivery.",
       "description": "This enclosure includes a 240W supply and a carrying case, supports GPUs up to 205 by 150 by 55mm, and has dual Thunderbolt ports with 85W and 15W power delivery.\n\nA 240W supply is the right size for a 3060, which draws around 170W, leaving a modest margin. Because it includes a carrying case, it is the one that makes sense in a laptop bag. The 55mm height limit means a slim, two-slot card only. It ranks third because the margin leaves no room for a more powerful card later.\n\nBuy it if you travel with your GPU. Skip it if you may upgrade to a power-hungry card.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Maskedfish eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps PD 85W Charging (MK-L18)",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41MxyXo6D4L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DGV1YPZZ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DGV1YPZZ?tag=primeareviews-amz-20",
       "verdict": "An open frame with PCIe 4.0 x16 mode and 85W charging that takes any card length.",
       "description": "The MK-L18 uses JHL7540 or JHL7440 controllers in PCIe 4.0 x16 mode, has 85W PD charging and dual Thunderbolt ports, and its open frame has no GPU length limit.\n\nIt makes sense for a 3060 because the card is easy to power from a small supply, and an open frame stays cool without fans. It ranks fourth because it lists no included supply and gives a bare setup experience.\n\nBuy it if you have a spare supply and like tinkering. Skip it if you want an enclosed unit.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "VIKINYEE Thunderbolt 3/4 eGPU Enclosure USB4 (VK-Y900)",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/41HiGEZkv9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F138HBVF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F138HBVF?tag=primeareviews-amz-20",
       "verdict": "An ENIG-plated board with JHL7440/7450 controllers and dual Thunderbolt ports with 85W charging.",
       "description": "The VK-Y900 uses JHL7440 or JHL7450 controllers on an ENIG-plated board, with dual Thunderbolt ports at 15W and 85W PD and support for newer RTX 50 and RX 9000 cards.\n\nENIG plating protects contacts from corrosion, which suggests care in the manufacture. For a 3060 it is a capable base. It ranks fifth because the listing omits supply and clearance details.\n\nBuy it if you want a quality board for a DIY build. Skip it if you want a finished enclosure.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Mini eGPU Enclosure Thunderbolt 3/4, USB4 40Gbps External GPU Dock",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/41GKymiTpVL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CZDSSVKK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CZDSSVKK?tag=primeareviews-amz-20",
       "verdict": "A JHL7440 mini dock with a pre-purchase compatibility check and SFX, ATX, FLEX and DC power support.",
       "description": "This mini dock uses a JHL7440 controller, supports SFX, ATX, FLEX and DC power, and offers a detailed pre-purchase compatibility check.\n\nThe compatibility check saves returns, since eGPU problems usually come from laptop firmware, not the dock. It ranks sixth because it is a bare dock with no host list in our data.\n\nBuy it if you want to confirm compatibility before ordering. Skip it if you need a complete kit.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "External GPU Dock Station, Mini eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/31VsKLDnacL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D2V5YFMH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D2V5YFMH?tag=primeareviews-amz-20",
       "verdict": "A JHL7440 dock that also acts as a USB-A and Thunderbolt 4 hub.",
       "description": "This dock accepts ATX, SFX, FLEX or DC 12V power, uses a JHL7440 controller with a 32Gbps daisy chain, and also works as a USB-A and Thunderbolt 4 hub.\n\nThe hub function means one cable can serve both the graphics card and peripherals. It ranks seventh because it ships without a supply or case and gives no clearance data.\n\nBuy it if you want a graphics dock that doubles as a hub. Skip it if you prefer a full kit.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "PCIE 3.0 x16 22Gbps eGPU Dock with Thunderbolt 4 Cable",
       "score": 78,
       "imageUrl": "https://m.media-amazon.com/images/I/512E9HNnCGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FGJLL4L1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FGJLL4L1?tag=primeareviews-amz-20",
       "verdict": "A JHL6340 dock at about 22Gbps with four power inputs and confirmed Legion Go compatibility.",
       "description": "This dock uses a JHL6340 controller for roughly 22Gbps transfer and offers 4 power input options: CPU, Molex, PD and DC5521. It lists confirmed Legion Go compatibility and sits in the $50 to $100 bracket.\n\nThe controller is older and slower than the JHL7440 docks, so a 3060 loses more performance. It earns a spot because it is the cheapest way in, and it names the Legion Go. It ranks last because 22Gbps is about half the link of the leaders.\n\nBuy it if you want the lowest-cost entry for a Legion Go. Skip it if you want full bandwidth.",
       "keySpecs": [

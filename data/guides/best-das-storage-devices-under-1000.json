@@ -22,7 +22,7 @@
       "name": "SABRENT 5-Bay USB-C 10Gbps 3.5in Hard Drive Enclosure & DAS Dock (DS-SC5B)",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/41OiiopY9QL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07Y4F5SCK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07Y4F5SCK?tag=primeareviews-amz-20",
       "verdict": "The most sensible mix of bays, bandwidth and cooling in this price range.",
       "description": "The DS-SC5B holds five 3.5 inch drives behind a USB-C connection rated at 10Gbps. Each bay has its own dedicated ASMedia ASM1351 controller, and a 120mm fan with PWM control handles airflow. It ships as an enclosure only, so the drives are on you.\n\nIt takes the top spot because it solves the problem that wrecks cheaper multi-bay boxes: one controller shared by every drive. Per-bay controllers keep a busy drive from starving its neighbours, and a 120mm fan that ramps with temperature moves more air at lower noise than the small fans crammed into budget towers. Against the OWC below it gives up Thunderbolt speed, but it costs far less to run five drives than four.\n\nBuy it for a media library, a backup target or a photo archive where capacity matters more than raw sequential speed. The caveat is that it is a plain dock, not a RAID box, so redundancy has to come from your operating system or your backup habits.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "OWC ThunderBay 4 0TB Thunderbolt 40Gb/s Four-Bay Storage Enclosure",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/31c-4BoWx2L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0942YC7Z3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0942YC7Z3?tag=primeareviews-amz-20",
       "verdict": "A Thunderbolt four-bay that treats SSD arrays as a first-class use.",
       "description": "The ThunderBay 4 is a four-bay Thunderbolt enclosure with dual Thunderbolt 3 ports for daisy chaining and a quoted sustained throughput of up to 1527MB/s. It accepts 3.5 inch or 2.5 inch drives with no adapter, and the listing positions it as a four-drive SSD solution.\n\nIt sits second because raw speed is the one thing no USB box here can match. Four drives striped together can feed 4K and higher video timelines without stuttering, and the dual ports let you keep a dock or display on the same chain. The tradeoff is cost per bay and the need for a Thunderbolt port on the computer, which many Windows laptops still lack.\n\nChoose it if editing, colour work or large project files are your daily load. Skip it if you only want cheap archive space, because you will pay for bandwidth you never use.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "QNAP TR-002-A-US 2 Bay USB Type-C Direct Attached Storage (DAS) with Hardware",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/31EpCloBGuS._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BVCXFMDH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BVCXFMDH?tag=primeareviews-amz-20",
       "verdict": "A compact two-bay with hardware RAID and a double life as NAS expansion.",
       "description": "The TR-002 is a two-bay USB Type-C enclosure that works with Windows, macOS and Linux. The listing describes use as external storage, as a backup target for a NAS, and as a way to increase QNAP NAS capacity.\n\nIt outranks the CENMATE units because hardware RAID handled in the box means the volume looks the same on any computer, with no driver or software layer to maintain. Mirroring two drives is the simplest form of protection, and doing it in hardware avoids the drive-letter mess that software arrays can create. It ranks below the Sabrent because two bays cap capacity, and the listing leaves the exact USB speed unstated here.\n\nPick it if you want a small, tidy mirrored box next to a desktop or a QNAP NAS. Skip it if you expect to grow beyond two drives, since there is no expansion path inside the unit.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "CENMATE Aluminum 4 Bay Hard Drive RAID Enclosure with Cooling Fan for 2.5/3.5\"",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/41kWVoXPWgL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CXPD9J6X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CXPD9J6X?tag=primeareviews-amz-20",
       "verdict": "Four bays, a RAID chipset and eSATA for a modest outlay.",
       "description": "This CENMATE four-bay is the RAID variant of the line, built around a JMS567 and JMB393 chip pairing in an aluminum body with a cooling fan. It outputs USB 3.0 and also ships with an eSATA cable, and it accepts both 2.5 inch and 3.5 inch drives.\n\nIt lands fourth because it gives you RAID options and a second connection path for under the cost of the Sabrent. The JMB393 is a port multiplier, which is why eSATA is on offer, and it suits older desktops that still carry that port. What holds it back is the USB 3.0 ceiling, which is slower than the 10Gbps links above, and a brand with a thinner track record than Sabrent or QNAP.\n\nIt is a sensible buy for a home backup box where RAID matters and speed does not. If you will be moving big files daily, step up to the Sabrent or OWC.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "CENMATE Aluminum 2 Bay Hard Drive Enclosure with Cooling Fan for 2.5“/3.5\" SATA",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/31AKIUFggEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DD3GSZBP?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DD3GSZBP?tag=primeareviews-amz-20",
       "verdict": "The cheapest sensible way to attach two drives with hot swapping.",
       "description": "The two-bay CENMATE is an aluminum alloy enclosure with a cooling fan, USB 3.0 and support for hot swapping. It takes both 2.5 inch and 3.5 inch SATA drives, which makes it a handy way to reuse old laptop drives alongside a desktop disk.\n\nIt sits fifth because it is the simplest and cheapest unit that still gets the basics right: a metal shell for heat, a fan, and the ability to swap a drive without powering down. It trails the QNAP because there is no hardware RAID story and it relies on USB 3.0 speeds. It beats the larger CENMATE models only on price per purchase, not on capability.\n\nBuy it to read old disks, run a pair of backup drives, or add secondary storage under $100. Skip it if you want protection against drive failure, because nothing in the listing promises that.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "CENMATE Aluminum 4 Bay Hard Drive Enclosure with Cooling Fan for 2.5“/3.5\" SATA",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/41VaMoSo3VL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DD3GSSCX?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DD3GSSCX?tag=primeareviews-amz-20",
       "verdict": "Four plain bays with USB A and C cables for older and newer computers.",
       "description": "This four-bay CENMATE uses an aluminum alloy shell, a cooling fan and a USB 3.0 output, and it ships with a USB A to C cable that the listing says works back to Windows 7. It reads 2.5 inch and 3.5 inch SATA drives.\n\nIt ranks sixth because the RAID sibling above does more for the same bay count, so this version is really for people who want four independent drives with no array logic. Cable flexibility is the redeeming detail: it will connect to almost anything made in the last decade. The limit is the same USB 3.0 bandwidth that every drive in the box must share.\n\nThat sharing is the practical caveat. With four drives active at once, each gets a fraction of the link. It is fine for archives and cold backups, less so for working directly from the drives.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "CENMATE Aluminum 6 Bay Hard Drive Enclosure with Cooling Fan for 2.5“/3.5\" SATA",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/41AgGhlmqML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DD3H377C?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DD3H377C?tag=primeareviews-amz-20",
       "verdict": "Six bays of cold storage that favour capacity over speed.",
       "description": "The six-bay CENMATE keeps the same formula: aluminum alloy body, cooling fan, USB 3.0 and hot swapping. It is built for people with a stack of spare disks who want them all online from a single desk-side box.\n\nIt ranks seventh because the more drives that share a single USB 3.0 link, the less each one gets, and six is where that sharing starts to hurt. It beats the eight-bay on footprint and cost, and it trails the Sabrent because the Sabrent gives each of five bays its own controller on a faster port.\n\nIt is a fair pick for a collector of old drives or a cold archive that is touched occasionally. Do not expect it to behave like a working volume for editing or live backups.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "CENMATE Aluminum 8 Bay Hard Drive Enclosure with Cooling Fan for 2.5“/3.5\" SATA",
       "score": 79,
       "imageUrl": "https://m.media-amazon.com/images/I/41my4UJmQ3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FC6BW78H?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FC6BW78H?tag=primeareviews-amz-20",
       "verdict": "Maximum bay count, with the bandwidth tradeoff that comes with it.",
       "description": "The eight-bay CENMATE supports 2.5 inch and 3.5 inch HDDs and SSDs in an aluminum alloy body with a USB 3.0 output. It is the biggest unit in the ranking and sits in the $200 to $500 bucket.\n\nIt finishes last because capacity is its whole pitch and speed is not. Eight drives on a USB 3.0 link means very little bandwidth per disk when several are active, and at this price you are within reach of the Sabrent, which handles five drives far more gracefully. Heat is also a concern with eight drives stacked together, so the fan matters.\n\nBuy it only if you need every possible bay for offline archives. For most buyers a second, smaller enclosure is a better plan than one very large box.",
       "keySpecs": [

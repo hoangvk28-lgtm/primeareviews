@@ -1,5 +1,5 @@
 import fs from 'fs';
-const U=(a)=>`https://www.amazon.com/dp/${a}?tag=primeareviews-20`;
+const U=(a)=>`https://www.amazon.com/dp/${a}?tag=primeareviews-amz-20`;
 const I=(x)=>`https://m.media-amazon.com/images/I/${x}._SL500_.jpg`;
 const P=(id,award,name,score,asin,img,verdict,d,ks,pros,cons,idealFor,skipIf)=>({id,rank:0,award,name,score,imageUrl:I(img),amazonUrl:U(asin),verdict,description:d.join("\n\n"),keySpecs:ks.map(([label,value])=>({label,value})),pros,cons,idealFor,skipIf});
 const products=[

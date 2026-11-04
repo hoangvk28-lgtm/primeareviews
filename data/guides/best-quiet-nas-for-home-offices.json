@@ -22,7 +22,7 @@
       "name": "Synology DS223 Home & Office Backup Hub (2-Bay Diskless NAS)",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BRNBVTJK?tag=primeareviews-amz-20",
       "verdict": "Mature software and overnight scheduling for a desk-side box.",
       "description": "The Synology DS223 earns first place by being sensible about noise rather than claiming silence. It is a two-bay diskless NAS running Synology DSM, aimed at home and small offices, with file centralisation, backup and scheduled overnight tasks in the software. Two bays mean two drives, which limits the clatter compared with larger boxes.\n\nIt beats the Beelink on software maturity, and the TERRAMASTER on scheduling clarity, because the overnight task feature moves loud work such as indexing and backups away from your working hours. At $200 to $500 it lands in the same bracket as the other leaders.\n\nBuy it for a home office that mostly backs up laptops and shares files. The honest caveat is that no decibel figure is published, and a diskless unit means the drive choice sets the noise. Pick quiet drives and leave it overnight.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Beelink Mini PC ME Pro, 2 Hard Drive Bays NAS",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41GmtgzH11L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GHR83DX5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GHR83DX5?tag=primeareviews-amz-20",
       "verdict": "A low-power mini PC with three SSD slots for silent storage.",
       "description": "The Beelink ME Pro is the closest thing to quiet in this ranking. It pairs an Intel N95 with 12GB LPDDR5, a 128GB M.2 PCIe 3.0 SSD, two hard drive bays and three M.2 slots, with dual LAN. The three M.2 slots are the story: SSDs have no moving parts, so a flash-only setup can run almost silent.\n\nIt ranks second because it is a mini PC working as a NAS rather than a dedicated appliance, so software and long-term support are less polished than the Synology. It sits in the $200 to $500 bracket and beats the TERRAMASTER on low-power design. Fill it with SSDs and it wins on noise outright.\n\nChoose it for a desk where fan and drive sounds must be minimal. The caveat is capacity: SSD space costs far more per terabyte than spinning drives.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "TERRAMASTER F2-425 2-Bay NAS Storage",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FHVZ53RN?tag=primeareviews-amz-20",
       "verdict": "Quicker transfers mean the drives spend less time working.",
       "description": "The TERRAMASTER F2-425 competes on speed. Two bays arrive empty, backed by an Intel x86 quad-core processor, 4GB RAM and a 2.5GbE port, and the box can serve multimedia. A faster port means transfers end sooner, so the drives and fan spend less time working during your day.\n\nIt ranks third because speed is only an indirect noise benefit. The 2.5GbE link needs a matching switch or computer port to deliver anything, and the listing publishes no cooling or sound detail. The Synology DS223 is easier to plan around thanks to its scheduling. The Asustor below also offers 2.5GbE for less money.\n\nBuy it for large file moves such as footage or image libraries. The caveat is that you must supply 2.5GbE networking and drives, and noise is not described anywhere in the listing.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "UGREEN NAS DXP2800, 2-Bay for Content Creators",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-amz-20",
       "verdict": "Cooling designed for sustained load, which can mean steadier fans.",
       "description": "The UGREEN DXP2800 is a two-bay diskless NAS aimed at content creators, with cooling designed for sustained load stability and the UGREEN NAS OS ecosystem. Sustained load is when fan noise rises, so a design that holds temperatures steady can avoid the ramp up and down that is most irritating in a quiet room.\n\nIt ranks fourth because stability is not the same as quiet, and the listing states no fan noise figure. The Beelink gives you a quieter path through SSDs, while the Synology schedules loud tasks away from the workday. Against the DH2300 below, it costs more and targets heavier use.\n\nChoose it if you edit video or handle large projects at the desk. The caveat is that creator-focused performance can mean more spinning and more heat, so give it ventilation and put it out of earshot.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Asustor Drivestor 2 Gen 2 AS1202T, 2-Bay NAS",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=primeareviews-amz-20",
       "verdict": "A lower-cost box that suits light, quiet backup duty.",
       "description": "The Asustor Drivestor 2 Gen 2 is the cheapest way here to get 2.5GbE. Inside are two bays, no drives, a 1.7GHz quad-core chip, 1GB DDR4 RAM and 4K media serving, all in the $100 to $200 bracket. A modest processor generates less heat, which helps the fan stay slow.\n\nIt ranks fifth because 1GB RAM is thin for multitasking, and the listing says nothing about scheduling or cooling. The TERRAMASTER above offers 4GB RAM and a more capable CPU in the $200 to $500 bracket. This one wins only on price.\n\nBuy it for backup duty and light media serving on a tight budget. The caveat is memory: a 1GB machine will struggle if you pile on apps, and a busy NAS makes more noise as it works harder.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "UGREEN NAS DH2300, 2-Bay Desktop NAS (Diskless)",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "Plain two-bay storage with no creator extras.",
       "description": "The UGREEN DH2300 is the simple two-bay option. It is a diskless desktop NAS supporting up to 64TB, with UGREEN NAS OS and a focus on backup and file sharing, in the $100 to $200 bracket. A backup-first design suits a quiet office because jobs can run on a timer.\n\nIt ranks sixth because it lists no 2.5GbE or processor detail, so you cannot judge its speed. Compared with the DXP2800 it costs less and aims lower, which is fine for light office duty. The Asustor adds 2.5GbE at a similar price.\n\nChoose it for simple backups and file sharing in a small office. The caveat is that the listing does not describe cooling or fan behaviour, so check owner feedback on noise before relying on it near your desk.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "BUFFALO LinkStation 210 2TB, 1-Bay NAS (Drives Included)",
       "score": 79,
       "imageUrl": "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00JKM0A36?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00JKM0A36?tag=primeareviews-amz-20",
       "verdict": "A one-bay box with a 2TB drive already inside.",
       "description": "The Buffalo LinkStation 210 is the single-bay beginner. It ships with a 2TB drive included, offers home cloud and file sharing, and sets up without a separate drive purchase, in the $100 to $200 bracket. One bay and one drive is the lowest mechanical noise you can get from a spinning NAS.\n\nIt ranks last because one bay means no redundancy: if the drive fails, your data is at risk unless you back up elsewhere. It also lists no 2.5GbE, scheduling or SSD support. Against the Synology DS223, you give up bays, software depth and growth.\n\nBuy it for a home user who wants simple network storage and no shopping for drives. The caveat is that the included drive is the only choice you get, so you cannot swap to an SSD later.",
       "keySpecs": [

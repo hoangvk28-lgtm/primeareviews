@@ -22,7 +22,7 @@
       "name": "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-amz-20",
       "verdict": "The safe default for turning one wall jack into five gigabit ports.",
       "description": "The TP-Link TL-SG105 has five gigabit ports, QoS and IGMP snooping, a metal case that mounts on a desk or wall, and a three-year warranty, in the under $25 bucket. QoS prioritizes traffic so a video call survives a download, and IGMP snooping keeps multicast traffic from flooding every port.\n\nIt ranks first because it adds those traffic features and a longer warranty to the same gigabit speed the NETGEAR GS305 offers. Compared with the GS105NA, it costs less. The multi-gig models beat it on speed but cost more and pay off only with matching gear.\n\nBuy it for a desk, TV or console setup that needs more wired ports. The caveat is simple: it is gigabit only with no PoE, so skip it if your internet is faster than gigabit.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "NETGEAR GS305 5-Port Gigabit Unmanaged Switch",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/31JUxKEND6L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07S98YLHM?tag=primeareviews-amz-20",
       "verdict": "A silent, energy-aware gigabit switch for bedrooms and quiet desks.",
       "description": "The NETGEAR GS305 has five gigabit ports, a fanless design, 802.3az energy-efficient Ethernet and desktop or wall mounting, in the under $25 bucket. Without a fan it makes no noise at all, and 802.3az lowers power draw when a link is idle.\n\nIt ranks second because it lists no QoS, so the TL-SG105 edges it for busy shared networks. It wins for a quiet room, though, and it costs the same.\n\nBuy it for a bedroom or living room where silence matters more than traffic shaping. Skip it if you want prioritization features on the box. A fanless case cools itself through the metal, so leave the vents clear and avoid burying it under cables.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "NETGEAR GS105NA 5-Port Gigabit Switch",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/41PCBXubr5L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0000BVYT3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0000BVYT3?tag=primeareviews-amz-20",
       "verdict": "Plain gigabit with the strongest warranty promise in the group.",
       "description": "The NETGEAR GS105NA is a five-port gigabit switch with a fanless design, desktop or wall mounting and the NETGEAR Lifetime Warranty, in the $25 to $50 bucket. A lifetime promise is rare on networking gear and suits a switch you want to forget in a cabinet.\n\nIt ranks third because it costs more than the GS305 for the same ports, and it lists no extra traffic features. The warranty is what you pay for, and it is the strongest in the group.\n\nBuy it for a closet or cabinet install that will run for years. Skip it if you want the lowest price. Compare it with the TL-SG105, which carries a three-year warranty and QoS, before paying the premium for the lifetime term.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-amz-20",
       "verdict": "The affordable step up when your internet is faster than gigabit.",
       "description": "The TP-Link TL-SG105S-M2 has five 2.5G ports, 25Gbps switching capacity, a compact metal case and works over existing Cat5e cable. That last point matters: you can upgrade to 2.5G without rewiring the house, since Cat5e handles it for typical runs.\n\nIt ranks fourth since the speed helps only when something on your network is faster than gigabit. A router or NAS with a 2.5G port is the case where it pays off, and it costs only a little more than the NETGEAR GS105NA.\n\nBuy it if you have 2.5G gear to connect. Skip it if your whole network is gigabit, because the TL-SG105 does the job for less. It has no PoE, so cameras will need their own power.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "TP-Link TL-SX105 5-Port 10G Unmanaged Switch",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/31pn44ZZbtL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B09CYNHL4S?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B09CYNHL4S?tag=primeareviews-amz-20",
       "verdict": "Full 10G on every port for workstations and fast storage.",
       "description": "The TP-Link TL-SX105 has five 10G ports, 100Gbps switching capacity and auto-negotiation from 100Mb through 10G, in a fanless case with a three-year warranty. Ten gigabit on every port means workstations and a NAS can move large files at the speed of the link.\n\nIt ranks fifth because it is the most expensive switch here, and most homes have no 10G devices to connect. It stands apart from the 2.5G model by giving you headroom for a future NAS.\n\nBuy it if you edit video from shared storage or run a fast server. Skip it if you have no 10G gear. Because it auto-negotiates down, older devices still work, so it can serve as a long-term backbone.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/41kx+YQoVLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-amz-20",
       "verdict": "Powers four devices over the cable with a clear 65W budget.",
       "description": "The TP-Link TL-SG1005P has four PoE+ ports with a 65W total budget, one uplink, QoS, IGMP snooping and a three-year warranty. Power over Ethernet sends electricity down the same cable as data, so a camera or access point needs no wall adapter.\n\nIt ranks sixth because PoE helps only if you own PoE gear, and the 65W is shared across all four ports, not 65W each. The NETGEAR GS305P has a slightly smaller 63W budget but smarter reallocation.\n\nBuy it for a small camera or access point install. Skip it if you have no PoE devices. Add up the wattage of your devices first, since a few cameras plus an access point can exhaust 65W quickly.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "NETGEAR GS305P 5-Port PoE Gigabit Switch",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/318TUdcwkML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=primeareviews-amz-20",
       "verdict": "A fanless PoE switch that reallocates power between ports.",
       "description": "The NETGEAR GS305P has four PoE+ ports sharing 63W, dynamic PoE power reallocation, a fanless unmanaged design and plug and play setup. Dynamic reallocation hands unused wattage from a quiet port to a busy one, which stretches a small budget across a mixed set of devices.\n\nIt ranks seventh because the 63W budget is slightly smaller than the TL-SG1005P's 65W and no warranty term is listed. The listing's silence on the warranty is a minor gap.\n\nBuy it for a quiet room with a mix of PoE devices. Skip it if you want the biggest PoE budget at this size. Fanless cooling means silence, but check that the case has room to breathe.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "TP-Link LS1005G Litewave 5-Port Gigabit Switch",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/21-Yq6W1ekL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0863M7C1L?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0863M7C1L?tag=primeareviews-amz-20",
       "verdict": "A tiny, fanless budget switch for travel or tight spots.",
       "description": "The TP-Link LS1005G Litewave has five ports, one uplink and four outputs, measures 2.8 x 3.5 x 0.9 inches and weighs 2.8 oz, fanless, in the under $25 bucket. It fits in a bag or behind a monitor, which no other switch here does.\n\nIt ranks last because it lists fewer features, with no QoS and no long warranty, and it offers no PoE. Its role is convenience, not performance.\n\nBuy it for tight desks, travel bags and hidden installs. Skip it if you want QoS features or a long warranty. Small switches run quietly, but check the port layout against your cable lengths before ordering.",
       "keySpecs": [

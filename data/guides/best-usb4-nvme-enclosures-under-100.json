@@ -22,7 +22,7 @@
       "name": "Rosewill 40Gbps M.2 NVMe SSD Enclosure",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/3181Im0e4IL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FV1PNJ5B?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FV1PNJ5B?tag=primeareviews-amz-20",
       "verdict": "ASM2464PD controller and a stated four-hour full-speed rating suit long backups and edits.",
       "description": "The Rosewill uses the ASM2464PD controller and supports drives up to 8TB in 2230 to 2280 lengths. Its listing states it is rated for up to four hours of full-speed use, Expect to pay between $50 and $100.\n\nThe four-hour figure is why it leads. Throttling is the number one complaint with NVMe enclosures, and a stated sustained duration tells you the manufacturer designed the thermal path for long jobs rather than benchmark bursts. The ASM2464PD is a well-known 40Gbps bridge chip for USB4 and Thunderbolt, so compatibility with modern laptops is rarely a worry.\n\nBuy it for video editing, large photo libraries or multi-hour backups. It does not publish a warranty term on the listing, so confirm that before ordering.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "UGREEN 40Gbps M.2 NVMe Enclosure",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41JHbCBZxkL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F62NG7K3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F62NG7K3?tag=primeareviews-amz-20",
       "verdict": "Silent passive cooling with double-sided fins on an ASM2464PD and an ultra-slim body.",
       "description": "The UGREEN pairs the ASM2464PD chip with fanless passive cooling, double-sided fin heat dissipation and an ultra-slim body, and it supports drives up to 8TB. Pricing lands between $50 and $100.\n\nIt lands second because silence is a real advantage on a desk where a small fan whine is noticeable, such as a bedroom office or during calls. Passive fins rely on the aluminum body to shed heat, which works well for bursts and moderate loads. The tradeoff against the Rosewill is that a fanless design has less margin on very long transfers, and the listing gives no sustained-speed rating.\n\nIt is a great choice for mixed daily use: game libraries, photo catalogs and backups. If you routinely copy a terabyte at a time, favor a fan-cooled case.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "ANYOYO 40Gbps M.2 NVMe Enclosure with Cooling Fan",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/411cQUWSx3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CR7BY3Y3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CR7BY3Y3?tag=primeareviews-amz-20",
       "verdict": "A dual-chip JHL7440 and RTL9210 design with a PWM fan and 8TB support.",
       "description": "The ANYOYO uses a JHL7440 plus RTL9210 dual-chip arrangement, a PWM auto-adjusting cooling fan and support for drives up to 8TB in 2230 to 2280 lengths. The tier is $50 to $100.\n\nIt ranks third because the dual-chip design is documented and the PWM fan ramps with temperature, which keeps noise down when the drive is idle. The JHL7440 is a Thunderbolt-class controller, so the case suits Thunderbolt hosts well, and the RTL9210 handles fallback to slower USB ports.\n\nChoose it if you want a documented controller design and active cooling. It ranks behind the Rosewill and UGREEN because those publish a sustained rating or a silent design, while this one asks you to accept a fan.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "ORICO 40Gbps M.2 NVMe SSD Enclosure with Fan",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/416G7Dsl3gL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F8VDRTS7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F8VDRTS7?tag=primeareviews-amz-20",
       "verdict": "Thermal pad, SSD heatsink, a fan and push-to-slide tool-free installation in one case.",
       "description": "The ORICO includes a thermal pad and an SSD heatsink, a transparent panel design and a push-to-slide tool-free install, plus a cooling fan. It is a $50 to $100 purchase.\n\nIt takes fourth place because it has the most complete cooling kit in the group, which matters if your drive is a bare stick without a heatsink. Fitting a pad and heatsink is what actually moves heat into the case body, and tool-free installation saves time if you swap drives. The listing leaves out the controller chip and maximum capacity, so we cannot confirm sustained speed the way we can for the Rosewill.\n\nBuy it if you are putting a bare drive in and want everything included. Check the controller and capacity on the listing first.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Cable Matters 40Gbps USB4 SSD Enclosure",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/51KNvure+OL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DBYCDPWG?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DBYCDPWG?tag=primeareviews-amz-20",
       "verdict": "The lowest price tier for a fan-cooled 40Gbps case, limited to single-sided 2280 drives.",
       "description": "The Cable Matters enclosure has an ASM-class controller rated for 40Gbps, an active temperature-controlled fan and support for single-sided M.2 drives up to 2280 length. It is in the $25 to $50 range.\n\nIt ranks fifth because the single-sided limit is a genuine constraint: high-capacity drives often place chips on both sides of the board, and those will not fit. It is also not clear what capacity ceiling it has. Where it wins is price, since a fan-cooled 40Gbps case this cheap is unusual.\n\nBuy it if your drive is a common single-sided 1TB or 2TB model and you want the cheapest sensible upgrade. Skip it if you have a double-sided drive or plan to buy a large one later.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Satechi USB4 NVMe SSD Pro Enclosure",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/41Szlhl10ZL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BYPVNBTQ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BYPVNBTQ?tag=primeareviews-amz-20",
       "verdict": "Supports drives up to 16TB over PCIe Gen 4x4 with a two-year limited warranty.",
       "description": "The Satechi Pro supports drives up to 16TB in 2230 to 2280 lengths, uses PCIe Gen 4x4 with speeds up to 3840MB/s and carries a two-year limited warranty. Street price falls in the $50 to $100 tier.\n\nIt ranks last in this group only because the 3840MB/s figure is lower than what a 40Gbps enclosure with a modern bridge chip can deliver, so speed-focused buyers do better elsewhere. It wins on a different axis: capacity headroom and a published warranty, which the other cases do not offer.\n\nChoose it if you own or plan to buy a 10TB or larger drive, where the 8TB limit of the rivals would be a hard stop. Skip it if raw speed is your only priority.",
       "keySpecs": [

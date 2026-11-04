@@ -22,7 +22,7 @@
       "name": "QNAP TR-004 4-Bay USB-C DAS with Hardware RAID (Diskless)",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/310l7keevAS._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07K4RC7X9?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07K4RC7X9?tag=primeareviews-amz-20",
       "verdict": "Four 3.5 inch bays with hardware RAID 0, 1, 5 and JBOD over USB Type-C, and lockable trays.",
       "description": "The TR-004 is a diskless four-bay enclosure with 3.5 inch bays, hardware RAID 0, 1, 5 and JBOD, a USB Type-C connection and lockable drive bays.\n\nIt leads because RAID 5 across four drives is the sweet spot for a home or small studio: one drive can fail without losing data, and you keep three drives of capacity. Hardware RAID means the enclosure handles the parity maths, so the computer is not burdened. The lockable bays are a quiet safeguard against someone pulling the wrong drive. It sits in the $200 to $500 bracket before you buy disks.\n\nBuy it if you want a dependable four-drive array. Skip it if two bays are enough.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "TerraMaster D2-320 2-Bay USB RAID Enclosure (Diskless)",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/21z8JFkg6dL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8GCZP5K?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8GCZP5K?tag=primeareviews-amz-20",
       "verdict": "A 10Gbps USB 3.2 Gen 2 two-bay box quoted at up to 1,075MB/s with SSDs in RAID 0.",
       "description": "The D2-320 offers two bays, hardware RAID 0, 1, JBOD and Single, and a 10Gbps USB 3.2 Gen 2 link. The listing quotes up to 1,075MB/s with SSDs in RAID 0.\n\nThe interface is the difference. Spinning disks top out near 250MB/s each, so a 5Gbps port rarely limits them, but SSDs in RAID 0 will saturate it. A 10Gbps port gives them room. It ranks second because two bays cannot run RAID 5, and RAID 0 trades safety for speed, so use it for scratch footage, not sole copies.\n\nBuy it if you use SSDs for video work. Skip it if you want parity protection.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "ORICO RAID 5-Bay HDD Enclosure (110TB, Aluminum)",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/51QZ11oOYXL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DDX8PVH7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DDX8PVH7?tag=primeareviews-amz-20",
       "verdict": "Five bays, eight RAID modes and a built-in 150W supply at up to 110TB in an aluminum body.",
       "description": "This ORICO holds five drives, offers eight RAID modes, supports up to 110TB, quotes 235MB/s, and has a built-in 150W power supply and an 80mm fan.\n\nFive bays give more RAID layouts than four, and an internal supply means no bulky external brick. It ranks third because 235MB/s is the ceiling of the USB 3.0 link, so it suits archives and backups more than editing. Aluminum helps dissipate heat from spinning drives.\n\nBuy it if you want maximum capacity for the money. Skip it if you edit video directly from the array.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "ORICO 4-Bay RAID Hard Drive Enclosure (88TB, Aluminum)",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/51wHCBQoDhL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F4QJZL6X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F4QJZL6X?tag=primeareviews-amz-20",
       "verdict": "Four bays, eight RAID modes, 88TB, a tray-less lock design and a 150W internal supply.",
       "description": "The ORICO four-bay offers eight RAID modes, up to 88TB, 235MB/s, a built-in 150W supply, an 80mm fan and a tray-less lock design.\n\nTray-less means drives slide in without screws, which makes swaps quick. It ranks fourth because it lacks the lockable-bay safeguards and brand support of the QNAP, and the same 235MB/s limit applies.\n\nBuy it if you want a four-bay array at a lower price. Skip it if you want the QNAP's support.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "CENMATE Aluminum 4-Bay Hardware RAID Enclosure (eSATA+USB)",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41kWVoXPWgL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CXPD9J6X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CXPD9J6X?tag=primeareviews-amz-20",
       "verdict": "Four bays up to 80TB with USB 3.0 and eSATA at 5Gbps and physical DIP-switch RAID selection.",
       "description": "The CENMATE has four bays, eight RAID modes, up to 80TB, USB 3.0 and eSATA at 5Gbps, and DIP switches for choosing the RAID mode.\n\nDIP switches mean the mode is set on the box, not in software, so it works with any operating system. It ranks fifth because the 5Gbps link and unfamiliar brand offer less than the ORICO's built-in supply and fan.\n\nBuy it if you need eSATA for an older machine. Skip it if you want a modern USB-C port.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "QNAP TR-002-A-US 2-Bay USB-C DAS with Hardware RAID (Diskless)",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/31EpCloBGuS._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BVCXFMDH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BVCXFMDH?tag=primeareviews-amz-20",
       "verdict": "Two bays for 2.5 and 3.5 inch drives with hardware RAID 0, 1, JBOD, USB Type-C and lockable bays.",
       "description": "The TR-002-A-US is a two-bay enclosure with hardware RAID 0, 1 and JBOD, USB Type-C, lockable bays and support for both 2.5 inch and 3.5 inch drives.\n\nA two-drive mirror is the simplest protection there is, and mixed bay sizes let you start with laptop drives or SSDs. It ranks sixth because it matches the TerraMaster on bays but not on stated speed.\n\nBuy it if you want a simple mirrored pair from a known brand. Skip it if you need 10Gbps.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "QNAP TR-002 2-Bay Desktop DAS/NAS Expansion",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/41vDYVK1teL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07QMZ5JGF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07QMZ5JGF?tag=primeareviews-amz-20",
       "verdict": "A two-bay USB 3.2 Gen 2 Type-C box with DIP-switch hardware or software RAID and an eject button.",
       "description": "The TR-002 is a two-bay enclosure on USB 3.2 Gen 2 Type-C, with DIP switches to pick hardware or software RAID, an eject button and lockable trays. It can also expand a QNAP NAS.\n\nSoftware RAID lets a QNAP NAS manage the disks, which is useful if you own one. It ranks last because it is an older model and the listing gives no price bracket or capacity.\n\nBuy it if you own a QNAP NAS and want to expand it. Skip it if you want a standalone DAS with clear specs.",
       "keySpecs": [

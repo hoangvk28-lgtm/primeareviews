@@ -22,7 +22,7 @@
       "name": "Western Digital 8TB WD Red Plus NAS Internal Hard Drive",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/4155kjpaFaL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CMQ6SK7W?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMQ6SK7W?tag=primeareviews-amz-20",
       "verdict": "The safe CMR drive to fill an empty bay.",
       "description": "The WD Red Plus 8TB is the one real drive in this roundup, and it is the part of a NAS that matters most. It is a 3.5 inch SATA drive on a 6 Gb/s interface with CMR recording, a 256MB cache and a 5640 RPM spin speed. CMR writes each track separately, which keeps rebuild times predictable. The slower spin trades peak speed for lower heat and noise in a box that runs all day. It sells in the $200 to $500 bucket.\n\nIt takes first place because none of the enclosures below stores a byte until you fit drives like this. Spin speed is not its strength, but a NAS is limited by the network far more than by 5640 RPM.\n\nBuy it if you have an empty bay. The caveat: it is a bare drive, so skip it without an enclosure.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Synology DS225+ 2-Bay Diskless NAS with Hardware Transcoding",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FB7KQLR1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FB7KQLR1?tag=primeareviews-amz-20",
       "verdict": "Polished DSM software on a compact 2-bay box.",
       "description": "The Synology DS225+ is a two-bay diskless NAS with an Intel CPU, hardware transcoding and Synology's DSM software. It supports RAID 1 mirroring, so two matched drives hold identical copies and one can fail without data loss. It sits in the $200 to $500 bucket, with drives sold separately.\n\nIt ranks above the UGREEN units because DSM is the more mature software, with polished backup and sharing tools that new owners tend to get running in an afternoon. Against the DS925+, it wins for most home offices because two mirrored drives are enough and the outlay is much lower. Two bays cap your growth, though, and a 4-bay unit does not.\n\nBuy it for mirrored backup plus modest media streaming, and budget for two CMR drives. The caveat is the fixed two-bay ceiling, so skip it if you expect to want more.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Synology DS925+ 4-Bay DiskStation (Diskless)",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-amz-20",
       "verdict": "Four bays and RAID 5 for a growing office.",
       "description": "The Synology DS925+ is the four-bay step up, running the same DSM platform with RAID 5 and RAID 10 support. RAID 5 spreads parity across drives so one can fail while capacity stays higher than mirroring, and RAID 10 trades capacity for faster rebuilds. It is built for expanding storage and falls in the $500+ bucket, diskless.\n\nIt ranks third because it costs more than the DS225+ and most home offices will never fill four bays. Against the UGREEN DXP4800 Plus, it gives up CPU headroom for Synology's established software, which suits an office that values reliability over raw compute. If you need growth but not heavy apps, this is the better four-bay.\n\nBuy it if storage needs will grow over several years. The caveat is cost: four drives plus the unit make the largest total outlay in this guide.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "UGREEN NAS DXP4800 Plus 4-Bay with Intel Pentium Gold CPU",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-amz-20",
       "verdict": "A 4-bay box with CPU headroom for several services.",
       "description": "The UGREEN DXP4800 Plus is a four-bay diskless NAS built around an Intel Pentium Gold 8505 with five cores, supporting RAID 5 and RAID 10. The spare processing headroom handles transcoding and several services at once, such as media streaming alongside backups, without crawling. It sits in the $500+ bucket, and drives are not included.\n\nIt ranks fourth because the Synology DS925+ offers a more established software ecosystem, while the UGREEN gives you more compute per dollar of hardware. For simple file storage, that extra processing power goes unused, and DSM's polish is worth more. It also costs more than the DS225+ and DH2300 below it.\n\nBuy it if you plan to run several apps alongside storage. The caveat is that software maturity matters more than cores for many offices. Skip it if you need only file sharing.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "BUFFALO LinkStation 210 4TB 1-Bay NAS (Hard Drive Included)",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00JKM0ES2?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00JKM0ES2?tag=primeareviews-amz-20",
       "verdict": "The simplest start, with a 4TB drive already installed.",
       "description": "The Buffalo LinkStation 210 is the only unit here that needs no extra purchase: a one-bay NAS that ships with a 4TB drive already installed. It works as home cloud or network storage out of the box, with the simplest setup in the group. It falls in the $100 to $200 bucket.\n\nIt ranks fifth because one bay means no RAID redundancy. A single drive failure loses the data, which makes it a bad place to keep your only copy. Against the diskless units above, it is cheaper to start but offers no growth path, so you would replace it rather than expand it.\n\nBuy it if you want plug-in shared storage and will back up key files elsewhere. The caveat is the single copy, so skip it when redundancy matters or you expect to need more room.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "UGREEN NAS DH2300 2-Bay Desktop NAS (Diskless)",
       "score": 79,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "Basic 2-bay redundancy at the lowest enclosure price.",
       "description": "The UGREEN DH2300 is a compact two-bay diskless desktop NAS that supports up to 64TB total, with drives sold separately and basic two-bay RAID. It is the cheapest enclosure here, in the $100 to $200 bucket, and gives budget buyers redundancy without a Synology price.\n\nIt ranks last because the Synology DS225+ brings more software polish and processing power for a modest step up in price. The DH2300 offers mirrored storage at an entry price, and that is the whole case for it. Its compute is modest, so transcoding and multi-app use are not what it was built for.\n\nBuy it if you want simple mirrored storage on a tight budget and will put two CMR drives in it. The caveat is limited processing power, so skip it for heavy transcoding or apps beyond file sharing.",
       "keySpecs": [
