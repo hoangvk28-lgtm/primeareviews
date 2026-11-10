@@ -1,0 +1,578 @@
+{
+  "slug": "best-ssd-enclosures-under-50",
+  "category": "tech-accessories",
+  "h1": "The 8 Best SSD Enclosures Under $50: SATA and M.2, Ranked & Reviewed",
+  "metaTitle": "Best SSD Enclosures Under $50: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 5 SSD enclosures under $50 scored on drive support, speed, heat and cables, from M.2 to 2.5 inch SATA.",
+  "mainKeyword": "SSD enclosure under $50",
+  "publishedAt": "2026-11-03",
+  "updatedAt": "2026-11-03",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/31T46Ya9IOS._SL500_.jpg",
+  "summary": "The SABRENT EC-SNVE is the best SSD enclosure under $50 because it accepts both M.2 NVMe and M.2 SATA. The SABRENT EC-PNVO is the NVMe cooling pick, the UGREEN 2.5 inch case is the metal SATA choice, and the BENFEI offers both plug types with a longer warranty.",
+  "intro": [
+    "Most enclosure mistakes happen before you buy: the drive in your old laptop is not the type you assumed. An M.2 SATA drive in an NVMe-only case, or a 2.5 inch drive in an M.2 case, produces the same result, a blank storage screen and a wasted order.",
+    "We ranked eight enclosures from the listings on drive compatibility, speed, build, cables and support. The guide leans toward SATA and dual-protocol cases, and all eight list under $30, well below the cap.",
+    "Common owner complaints are drives that never show up, speeds capped by a slow cable, heat during long copies and slide-out lids that wear. We scored each pick against those and call out where it falls short so you can match the case to the drive."
+  ],
+  "products": [
+    {
+      "id": "sabrent-ec-snve-tool-free-m-2-nvme-and-sata-enclosure",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "SABRENT EC-SNVE Tool-Free M.2 NVMe and SATA Enclosure",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41ErAAidH4L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08RVC6F9Y?tag=primeareviews-20",
+      "verdict": "The rare enclosure that takes both M.2 NVMe and M.2 SATA drives, with a 10Gbps Type-C link.",
+      "description": "The EC-SNVE is sold as an enclosure only, with no drive inside, for M.2 SSDs in 2242, 2260 and 2280 lengths. It accepts both PCIe NVMe and M.2 SATA drives, runs over USB 3.2 Type-C at up to 10Gbps and lists real transfers up to about 1000MB/s. The body is a slim aluminum shell on an ABS frame with a thermal pad, the listed size is about 1.24 by 0.5 by 4.59 inches, and it is bus powered with an 8 inch Type-C to Type-C cable in the box.\n\nIt takes first place because it covers the two kinds of M.2 drive you are likely to pull from an old laptop, so you do not have to work out the protocol before ordering. NVMe-only cases fail quietly with SATA M.2 drives, and this one does not. The listing is blunt about the limits: bare drives only, with no room for a preinstalled heatsink, and no support for 2.5 inch or mSATA. The cable is short, which suits a laptop port but not a tower under a desk.\n\nBuy it if you are recycling M.2 drives of unknown type. Skip it if every drive you own is a 2.5 inch SATA unit.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "M.2 NVMe and M.2 SATA"
+        },
+        {
+          "label": "Lengths",
+          "value": "2242, 2260, 2280"
+        },
+        {
+          "label": "Link",
+          "value": "USB 3.2 Type-C, 10Gbps"
+        },
+        {
+          "label": "Cable",
+          "value": "8 in Type-C to Type-C"
+        }
+      ],
+      "pros": [
+        "Accepts NVMe and M.2 SATA",
+        "Real transfers near 1000MB/s",
+        "Tool-free install",
+        "Bus powered, no drivers"
+      ],
+      "cons": [
+        "No room for heatsinks",
+        "Short 8 inch cable"
+      ],
+      "idealFor": "Owners of mixed or unknown M.2 drives.",
+      "skipIf": "You only own 2.5 inch SATA drives or want a heatsinked drive."
+    },
+    {
+      "id": "sabrent-ec-pnvo-usb-c-nvme-enclosure",
+      "rank": 2,
+      "award": "Best NVMe Cooling",
+      "name": "SABRENT EC-PNVO USB-C NVMe Enclosure",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/41a55TE8WML._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F933F1G8?tag=primeareviews-20",
+      "verdict": "A flip-open NVMe-only case that presses a thermal pad against the drive.",
+      "description": "The EC-PNVO is an NVMe-only case for M.2 PCIe drives from 2230 to 2280, with capacity listed to at least 8TB. A reinforced ABS frame sits under an aluminum alloy top, and the lid presses a thermal pad directly against the drive, which the maker contrasts with slide-in designs. The link is USB 3.2 Gen 2 Type-C at up to 10Gbps, and the listed body is about 1.24 by 0.6 by 4.59 inches.\n\nIt ranks second because it is the better-cooled of the two Sabrent M.2 cases and fits the shorter 2230 drives found in handhelds, but it drops the SATA M.2 support that puts the EC-SNVE ahead. If you know your drive is NVMe, the hinged lid and the thermal contact are the more refined design, and the 8TB ceiling is the highest among the M.2 cases here.\n\nBuy it for NVMe drives that see long copies. Skip it if the drive might be SATA.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "M.2 NVMe only"
+        },
+        {
+          "label": "Lengths",
+          "value": "2230 to 2280"
+        },
+        {
+          "label": "Capacity",
+          "value": "At least 8TB listed"
+        },
+        {
+          "label": "Design",
+          "value": "Flip-open, thermal pad"
+        }
+      ],
+      "pros": [
+        "Thermal pad meets the drive",
+        "Flip-open tool-free lid",
+        "Fits 2230 to 2280 lengths",
+        "Capacity listed to 8TB"
+      ],
+      "cons": [
+        "Rejects M.2 SATA drives",
+        "ABS frame under the lid"
+      ],
+      "idealFor": "NVMe owners who run long transfers and want better cooling.",
+      "skipIf": "Your M.2 drive is SATA."
+    },
+    {
+      "id": "ugreen-usb-c-2-5-in-sata-ssd-hdd-enclosure",
+      "rank": 3,
+      "award": "Best 2.5 in SATA",
+      "name": "UGREEN USB-C 2.5 in SATA SSD HDD Enclosure",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/31T46Ya9IOS._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07Y825V4N?tag=primeareviews-20",
+      "verdict": "An aluminum 2.5 inch SATA case with an ASM235CM bridge chip, UASP and support up to 6TB.",
+      "description": "The UGREEN is an aluminum enclosure for 2.5 inch SATA I, II and III drives up to 6TB, built around an ASM235CM bridge chip with UASP. The listed body is about 3.23 by 0.59 by 5.24 inches, and a USB-C to USB-C cable is included. The listing is candid that the USB-C port follows a 10Gbps standard but SATA III itself tops out at 6Gbps, so the drive, not the port, sets the speed.\n\nIt ranks third because it handles the most common job in this category, turning an old laptop SSD or hard drive into a portable one, and the aluminum body works as a heat sink without a fan. It trails the two Sabrent M.2 cases only on flexibility, since it takes one drive format. The compatibility list names Windows, Mac and Linux, plus consoles, smart TVs and routers, and it is bus powered with no extra supply.\n\nBuy it for old laptop drives and console storage. Devices that only have a USB-A port need a USB-C to USB-A cable. Skip it if the drive is M.2.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "2.5 in SATA I, II, III"
+        },
+        {
+          "label": "Bridge chip",
+          "value": "ASM235CM with UASP"
+        },
+        {
+          "label": "Capacity",
+          "value": "Up to 6TB"
+        },
+        {
+          "label": "Body",
+          "value": "Aluminum alloy, 3.23 x 0.59 x 5.24 in"
+        }
+      ],
+      "pros": [
+        "Aluminum body spreads heat",
+        "UASP for faster transfers",
+        "Works on consoles and TVs",
+        "Tool-free install"
+      ],
+      "cons": [
+        "SATA only, no M.2",
+        "SATA caps at 6Gbps"
+      ],
+      "idealFor": "Anyone moving an old laptop SATA drive into a portable case.",
+      "skipIf": "You have an M.2 drive."
+    },
+    {
+      "id": "ugreen-usb-c-m-2-nvme-ssd-enclosure",
+      "rank": 4,
+      "award": "Best Protected NVMe",
+      "name": "UGREEN USB-C M.2 NVMe SSD Enclosure",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41XU4Tlu8WL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B09T97Z7DM?tag=primeareviews-20",
+      "verdict": "A tool-free aluminum NVMe case with an RTL9210 bridge chip and a silicone sleeve.",
+      "description": "The UGREEN NVMe case supports M and B+M key drives in 2230, 2242, 2260 and 2280 lengths up to 8TB, on a Realtek RTL9210 bridge chip with short-circuit and over-current protection plus UASP and TRIM. A silicone case comes in the box, and the aluminum body measures about 1.65 by 0.55 by 4.8 inches. Windows, macOS, Linux, Android and iOS are named as supported.\n\nIt ranks fourth, behind the Sabrent NVMe case, because it describes heat transfer less specifically, and because the listing states 10Gbps needs a USB-C 3.2 Gen 2 data cable, not just any cable. It does not take SATA NGFF or mSATA drives. The protection circuits and the sleeve make it a good bag companion.\n\nBuy it for travel and Mac mini storage. Skip it if you want the SATA flexibility of the EC-SNVE.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "M.2 NVMe, M and B+M keys"
+        },
+        {
+          "label": "Bridge chip",
+          "value": "RTL9210, UASP, TRIM"
+        },
+        {
+          "label": "Capacity",
+          "value": "Up to 8TB"
+        },
+        {
+          "label": "Extra",
+          "value": "Silicone sleeve"
+        }
+      ],
+      "pros": [
+        "Short-circuit and over-current protection",
+        "Silicone sleeve included",
+        "Up to 8TB listed",
+        "UASP and TRIM support"
+      ],
+      "cons": [
+        "Needs a Gen 2 cable for 10Gbps",
+        "Heat path less detailed"
+      ],
+      "idealFor": "Travelers and Mac mini owners who want a protected NVMe case.",
+      "skipIf": "You own a SATA M.2 drive."
+    },
+    {
+      "id": "fanxiang-m-2-nvme-sata-ssd-enclosure",
+      "rank": 5,
+      "award": "Best Dual-Protocol Display",
+      "name": "fanxiang M.2 NVMe/SATA SSD Enclosure",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/41mRYMudswL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DLNC3Y78?tag=primeareviews-20",
+      "verdict": "A dual-protocol aluminum case with a status display, Type-C and Type-A cables and an 85 gram body.",
+      "description": "The fanxiang MD86 takes both NVMe and SATA M.2 drives in M and B+M keys, in 2230, 2242 and 2280 lengths up to 4TB, over USB 3.2 Gen 2 with UASP. The aluminum body measures 126 by 37 by 15.2 millimeters, weighs about 85 grams and includes a thermal silicone pad. A small display shows drive information, and either a combo cable or two separate cables are in the box.\n\nIt ranks fifth because the 4TB ceiling, the missing 2260 length and a one-year warranty are all weaker than the Sabrent cases, and the display is a nicety more than a need. It stays on the list because accepting NVMe and SATA drives in a compact aluminum shell is rare at this tier, and including both cable types helps with older USB-A ports. Console and Android OTG compatibility is also stated.\n\nBuy it if you want dual-protocol support with a status screen. Skip it if you need a bigger capacity ceiling.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "M.2 NVMe and SATA"
+        },
+        {
+          "label": "Lengths",
+          "value": "2230, 2242, 2280"
+        },
+        {
+          "label": "Capacity",
+          "value": "Up to 4TB"
+        },
+        {
+          "label": "Body",
+          "value": "About 85 g, 126 x 37 x 15.2 mm"
+        }
+      ],
+      "pros": [
+        "Takes NVMe and M.2 SATA",
+        "Type-C and Type-A cables",
+        "Display shows drive info",
+        "Compact 85 gram body"
+      ],
+      "cons": [
+        "No 2260 length support",
+        "One-year warranty only"
+      ],
+      "idealFor": "People who want dual-protocol support and a status display.",
+      "skipIf": "You need capacity beyond 4TB."
+    },
+    {
+      "id": "benfei-2-5-in-sata-to-usb-type-c-type-a-enclosure",
+      "rank": 6,
+      "award": "Best Warranty",
+      "name": "BENFEI 2.5 in SATA to USB Type-C/Type-A Enclosure",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/413-Q5hKS+L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0C73VYQCW?tag=primeareviews-20",
+      "verdict": "A tool-free 2.5 inch case with both Type-C and Type-A plugs and an 18-month warranty.",
+      "description": "The BENFEI takes 2.5 inch SATA I, II and III drives in 7 and 9.5 millimeter thicknesses up to 6TB, with UASP at up to 5Gbps. The cable has Type-C and Type-A ends, so it connects to a laptop, phone, tablet or older desktop, and the cover pushes out for a tool-free install. The listing states an 18-month warranty and support, and the listed size is about 3.07 by 0.59 by 5.31 inches.\n\nIt places sixth because its 5Gbps ceiling is below the UGREEN's SATA figure of 6Gbps and the shell is not described as metal. The dual connector and longer warranty make it a flexible tool for mixed old and new computers. Compatibility is listed for Windows, Linux and macOS.\n\nBuy it if you move between USB-A desktops and USB-C laptops. Skip it if you want a metal body.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "2.5 in SATA, 7 and 9.5 mm"
+        },
+        {
+          "label": "Speed",
+          "value": "Up to 5Gbps with UASP"
+        },
+        {
+          "label": "Plugs",
+          "value": "USB Type-C and Type-A"
+        },
+        {
+          "label": "Warranty",
+          "value": "18 months"
+        }
+      ],
+      "pros": [
+        "Both Type-C and Type-A plugs",
+        "18-month warranty",
+        "Tool-free push-out cover",
+        "Supports drives up to 6TB"
+      ],
+      "cons": [
+        "No metal body claimed",
+        "Capped at 5Gbps"
+      ],
+      "idealFor": "Users who switch between USB-A and USB-C computers.",
+      "skipIf": "You want a metal body."
+    },
+    {
+      "id": "sabrent-ec-uasp-2-5-in-sata-to-usb-3-0-enclosure",
+      "rank": 7,
+      "award": "Best Simple USB 3.0 Case",
+      "name": "SABRENT EC-UASP 2.5 in SATA to USB 3.0 Enclosure",
+      "score": 81,
+      "imageUrl": "https://m.media-amazon.com/images/I/311m+ah4SDL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00OJ3UJ2S?tag=primeareviews-20",
+      "verdict": "A tool-free USB 3.0 case optimized for SSDs, with UASP and hot-swap use.",
+      "description": "The EC-UASP is a tool-free 2.5 inch SATA enclosure that runs up to 5Gbps on USB 3.0 and falls back to 480Mbps on a USB 2.0 port. It supports UASP, SATA III and hot swapping, and needs no drivers. The listed body is about 3.1 by 0.5 by 4.9 inches.\n\nIt ranks seventh because it has the slowest interface in the group and no USB-C option, and the listing is dated, naming Windows XP and Vista among supported systems. It still does the plain job without fuss. Against the BENFEI it loses the dual plugs and the stated warranty.\n\nChoose it for a USB-A desktop and a SATA drive. Skip it if your computer has only USB-C ports.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "2.5 in SATA, SSD optimized"
+        },
+        {
+          "label": "Speed",
+          "value": "Up to 5Gbps on USB 3.0"
+        },
+        {
+          "label": "Fallback",
+          "value": "480Mbps on USB 2.0"
+        },
+        {
+          "label": "Install",
+          "value": "Tool-free, hot swappable"
+        }
+      ],
+      "pros": [
+        "Tool-free design",
+        "UASP support for SSDs",
+        "Hot swappable use",
+        "Falls back to USB 2.0"
+      ],
+      "cons": [
+        "USB 3.0 only, no Type-C",
+        "Dated listing"
+      ],
+      "idealFor": "USB-A PC owners with a SATA drive.",
+      "skipIf": "Your computer has only USB-C ports."
+    },
+    {
+      "id": "garrulax-clear-2-5-in-sata-hard-drive-enclosure",
+      "rank": 8,
+      "award": "Best See-Through Case",
+      "name": "Garrulax Clear 2.5 in SATA Hard Drive Enclosure",
+      "score": 78,
+      "imageUrl": "https://m.media-amazon.com/images/I/41SevIRFV1L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F2SWMPDK?tag=primeareviews-20",
+      "verdict": "A clear slide-open case for 7 and 9.5 millimeter drives up to 2TB.",
+      "description": "The Garrulax is a clear 2.5 inch SATA case with UASP and TRIM at up to 5Gbps. It takes 7 and 9.5 millimeter drives up to 2TB, and ships with a micro-B to USB 3.0 cable plus a USB 3.0 to Type-C adapter. You slide the lid open along tracks, press the drive in and close it, and lift along a groove to take it out.\n\nIt ranks last because the 2TB limit is the lowest in the group, and a clear plastic shell offers little protection and sheds little heat. The see-through case makes it easy to confirm the drive is seated, and it is the plainest option here.\n\nBuy it for a smaller SSD and light use. Skip it for a large hard drive or long transfers.",
+      "keySpecs": [
+        {
+          "label": "Drive types",
+          "value": "2.5 in SATA, 7 and 9.5 mm"
+        },
+        {
+          "label": "Capacity",
+          "value": "Up to 2TB"
+        },
+        {
+          "label": "Speed",
+          "value": "Up to 5Gbps, UASP and TRIM"
+        },
+        {
+          "label": "In the box",
+          "value": "Micro-B cable, Type-C adapter"
+        }
+      ],
+      "pros": [
+        "Clear shell shows the drive",
+        "TRIM support listed",
+        "Includes Type-C adapter",
+        "Slides open easily"
+      ],
+      "cons": [
+        "2TB maximum",
+        "Plastic shell sheds little heat"
+      ],
+      "idealFor": "Light users with a smaller SATA SSD.",
+      "skipIf": "You have a large hard drive or heavy workloads."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Drive compatibility",
+      "description": "We checked which interfaces and sizes each case accepts: 2.5 inch SATA, M.2 SATA or M.2 NVMe, since the wrong match means a blank screen."
+    },
+    {
+      "title": "Interface speed",
+      "description": "We compared USB generation and stated speeds, and noted that a SATA drive cannot exceed its own 6Gbps bus whatever the port says."
+    },
+    {
+      "title": "Build and heat",
+      "description": "We looked at aluminum bodies, thermal pads and how they work with the drive, plus plastic shells that trap heat."
+    },
+    {
+      "title": "Cables and install",
+      "description": "We weighed included cables, tool-free mechanisms and how well each handles drive thickness and length."
+    },
+    {
+      "title": "Support",
+      "description": "We rewarded stated warranties and capacity limits, and marked down listings that leave both unsaid."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Drive type",
+      "detail": "Open the old computer or read the drive label before shopping. 2.5 inch SATA drives are rectangular slabs about 7 or 9.5 millimeters thick, M.2 drives are thin gumsticks, and M.2 itself comes in SATA and NVMe protocols with similar connectors. An NVMe-only case will not detect an M.2 SATA drive. Look for the words NVMe, PCIe or SATA on the drive label and match them to the listing."
+    },
+    {
+      "factor": "Interface speed",
+      "detail": "The case's USB rating is a ceiling and the drive is often the real limit. A 2.5 inch SATA drive tops out near 6Gbps on its own bus, which is why a 5Gbps USB 3.0 case is rarely the bottleneck. M.2 NVMe drives can use a 10Gbps link, but only with a Gen 2 port and cable. Check the USB generation of your computer port and the cable in the box."
+    },
+    {
+      "factor": "Heat management",
+      "detail": "NVMe drives in particular generate heat during long copies, and a plastic shell traps it. Aluminum bodies with a thermal pad move heat off the drive, and the pad pressing directly against the controller is the better arrangement. Look for aluminum and thermal pad in the listing. The EC-SNVE also notes it has no clearance for a drive with a preinstalled heatsink."
+    },
+    {
+      "factor": "Cable and port fit",
+      "detail": "USB-C laptops, USB-A desktops, consoles and routers all want different ends. Cases that ship with Type-C and Type-A cables avoid buying adapters, while an 8 inch cable can be too short for a tower. Count the ports you use, check which cable ends are in the box and note the length. For USB-A only devices, a USB-C to USB-A cable is the usual fix."
+    },
+    {
+      "factor": "Capacity and warranty",
+      "detail": "A case with a 2TB ceiling will not recognize a 4TB drive, and capacity ceilings vary from 2TB to at least 8TB across this group. Warranty terms range from an unstated period to 18 months. Look for the listed maximum capacity and a warranty line, and consider registering the product where the maker offers extended service."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Drive Type",
+      "intro": "Start with what is inside your old computer.",
+      "table": {
+        "headers": [
+          "Your drive",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "M.2 NVMe or M.2 SATA, unsure which",
+            "SABRENT EC-SNVE Tool-Free M.2 NVMe and SATA Enclosure"
+          ],
+          [
+            "M.2 NVMe, runs hot",
+            "SABRENT EC-PNVO USB-C NVMe Enclosure"
+          ],
+          [
+            "M.2 NVMe, travel",
+            "UGREEN USB-C M.2 NVMe SSD Enclosure"
+          ],
+          [
+            "M.2 NVMe and SATA, with display",
+            "fanxiang M.2 NVMe/SATA SSD Enclosure"
+          ],
+          [
+            "2.5 in laptop SATA",
+            "UGREEN USB-C 2.5 in SATA SSD HDD Enclosure"
+          ],
+          [
+            "2.5 in SATA, mixed ports",
+            "BENFEI 2.5 in SATA to USB Type-C/Type-A Enclosure"
+          ],
+          [
+            "2.5 in SATA, USB-A only",
+            "SABRENT EC-UASP 2.5 in SATA to USB 3.0 Enclosure"
+          ],
+          [
+            "Small 2.5 in SATA SSD",
+            "Garrulax Clear 2.5 in SATA Hard Drive Enclosure"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "intro": "All eight list under $30, well below the $50 cap, so budget is about what you can skip.",
+      "table": {
+        "headers": [
+          "Priority",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $30, most flexible",
+            "SABRENT EC-SNVE Tool-Free M.2 NVMe and SATA Enclosure"
+          ],
+          [
+            "Under $30, NVMe cooling",
+            "SABRENT EC-PNVO USB-C NVMe Enclosure"
+          ],
+          [
+            "Under $30, metal 2.5 in",
+            "UGREEN USB-C 2.5 in SATA SSD HDD Enclosure"
+          ],
+          [
+            "Under $30, warranty",
+            "BENFEI 2.5 in SATA to USB Type-C/Type-A Enclosure"
+          ],
+          [
+            "Under $30, basic USB 3.0",
+            "SABRENT EC-UASP 2.5 in SATA to USB 3.0 Enclosure"
+          ],
+          [
+            "Under $30, lowest cost",
+            "Garrulax Clear 2.5 in SATA Hard Drive Enclosure"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "M.2 vs 2.5 in SATA",
+      "cards": [
+        {
+          "label": "M.2",
+          "text": "Small gumstick drives from newer laptops and mini PCs, available as SATA or much faster NVMe. They need a case with the right protocol support. Picks: SABRENT EC-SNVE, SABRENT EC-PNVO, UGREEN NVMe and fanxiang."
+        },
+        {
+          "label": "2.5 in SATA",
+          "text": "The older rectangular drive found in laptops from the 2010s and some consoles. Cases are simpler and cheap, and speed is capped by the SATA bus. Picks: UGREEN SATA, BENFEI, SABRENT EC-UASP and Garrulax."
+        }
+      ],
+      "note": "Open the old computer or read the drive label before you buy."
+    },
+    {
+      "subheading": "By Computer Port",
+      "intro": "The host port decides the real speed.",
+      "table": {
+        "headers": [
+          "Port",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "USB-C 10Gbps, M.2",
+            "SABRENT EC-SNVE Tool-Free M.2 NVMe and SATA Enclosure"
+          ],
+          [
+            "USB-C, 2.5 in SATA",
+            "UGREEN USB-C 2.5 in SATA SSD HDD Enclosure"
+          ],
+          [
+            "Mixed USB-A and USB-C",
+            "BENFEI 2.5 in SATA to USB Type-C/Type-A Enclosure"
+          ],
+          [
+            "USB-A 3.0 only",
+            "SABRENT EC-UASP 2.5 in SATA to USB 3.0 Enclosure"
+          ],
+          [
+            "Both cable types in the box, M.2",
+            "fanxiang M.2 NVMe/SATA SSD Enclosure"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Cloning an Old Laptop Drive Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A case that matches the drive type, tool-free install, UASP for faster copies and a long enough cable. Check the drive thickness, 7 or 9.5 millimeters for 2.5 inch units."
+        },
+        {
+          "label": "In this ranking",
+          "text": "UGREEN SATA for 2.5 inch drives and the SABRENT EC-SNVE for M.2 drives of either protocol."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You want a 40Gbps Thunderbolt link, a rugged waterproof shell or active cooling. Those cases cost much more than $50."
+        },
+        {
+          "label": "Save if",
+          "text": "You only copy documents now and then. The Garrulax or SABRENT EC-UASP handles that."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will a SATA enclosure work for my NVMe SSD?",
+      "a": "No. The 2.5 inch cases are for SATA drives only, and the NVMe cases will not take 2.5 inch units. The SABRENT EC-SNVE and fanxiang accept both M.2 protocols but not 2.5 inch drives."
+    },
+    {
+      "q": "What is the most common mistake with SSD enclosures?",
+      "a": "Buying an NVMe-only case for an M.2 SATA drive. The key notches look similar, and the drive simply will not appear. Read the drive label for NVMe or SATA before ordering."
+    },
+    {
+      "q": "Is the SABRENT EC-SNVE worth it over a 2.5 inch case?",
+      "a": "Only if you have M.2 drives. For a 2.5 inch SATA drive the UGREEN is the better fit and has an aluminum body. The EC-SNVE also lists no clearance for a drive with a preinstalled heatsink."
+    },
+    {
+      "q": "How do I install a drive?",
+      "a": "Slide or flip the cover open, seat the drive until it clicks or locks, and close the case. No screws are needed on any of these. For a blank drive, initialize and format it before it shows in file explorer."
+    },
+    {
+      "q": "How do I stop the enclosure from getting too hot?",
+      "a": "Use the supplied thermal pad, avoid stacking items on the case and let long transfers cool. Aluminum bodies help most. A plastic shell holds more heat, so keep heavy copies on the aluminum cases."
+    },
+    {
+      "q": "Can I use an enclosure drive with a console?",
+      "a": "The UGREEN SATA case lists PS4, Xbox One, smart TV and router use, and the BENFEI and Garrulax list PS4 or Xbox support. The fanxiang names PS5, PS4 and Xbox Series. Consoles may need the drive formatted in their own format first."
+    }
+  ],
+  "finalTake": "The SABRENT EC-SNVE is the enclosure to buy under $50 if your drive might be NVMe or SATA M.2, and the UGREEN is the pick for a 2.5 inch drive. The SABRENT EC-PNVO is better cooled when you know your drive is NVMe, and the BENFEI suits mixed ports. The EC-UASP and Garrulax keep costs down. Match the drive type first.",
+  "related": [
+    "best-ssd-enclosures-under-30",
+    "best-egpu-enclosures-for-rtx-3060",
+    "best-egpu-enclosures-for-rtx-3080"
+  ]
+}

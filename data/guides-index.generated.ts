@@ -47,6 +47,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-1000va-ups-battery-backups",
+  "h1": "The 5 Best 1000VA UPS Battery Backups for PCs and Desks, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 UPS battery backups at or near 1000VA scored on real watts, waveform, AVR, runtime visibility and value for PCs and networks.",
+  "heroImage": "https://m.media-amazon.com/images/I/41lBJ4oYPfL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-13-inch-laptop-cooling-pads",
   "h1": "The 5 Best Cooling Pads for 13 Inch Laptops and Ultrabooks in 2026, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -110,6 +119,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-1800w-portable-power-stations",
+  "h1": "The 5 Best 1800W Portable Power Stations for Outages and Off-Grid Work, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 5 portable power stations with 1800W AC output scored on capacity, charging speed, surge power, UPS switching and warranty.",
+  "heroImage": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 95
+ },
+ {
   "slug": "best-18v-leaf-blowers",
   "h1": "The 5 Best 18V Leaf Blowers of 2026, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -135,6 +153,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 95
+ },
+ {
+  "slug": "best-2-drawer-wood-file-cabinets-under-150",
+  "h1": "The 6 Best 2-Drawer Wood File Cabinets Under $150, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 6 two-drawer wood file cabinets under $150 scored on slides, locks, weight rating, casters and fit.",
+  "heroImage": "https://m.media-amazon.com/images/I/31jEnVOg-UL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
  },
  {
   "slug": "best-2000wh-portable-power-stations",
@@ -205,6 +232,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "tech-accessories",
   "metaDescription": "Ranked and reviewed by Primea: 7 privacy screens for 27 inch monitors compared on mounting method, frameless and curved fit, pack size and blue light filtering.",
   "heroImage": "https://m.media-amazon.com/images/I/51tNp24VKxL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-27-inch-monitor-under-200",
+  "h1": "The 8 Best 27 Inch Monitors Under $200, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 27 inch monitors under $200 scored on resolution, panel, refresh rate, stand and warranty.",
+  "heroImage": "https://m.media-amazon.com/images/I/41Yheszq7xL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
  },
@@ -407,6 +443,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-72-inch-conference-tables",
+  "h1": "The 5 Best 72-Inch Conference Tables for Small Meeting Rooms, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 5 conference tables around 72 inches long, scored on frame strength, depth, legroom, top material and warranty for small rooms.",
+  "heroImage": "https://m.media-amazon.com/images/I/51Q2I9uJCjL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-72-inch-office-credenzas",
   "h1": "The 8 Best 72-Inch Office Credenzas for Storage and Workspace, Ranked & Reviewed",
   "category": "home-office",
@@ -448,6 +493,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "home-office",
   "metaDescription": "Ranked and reviewed by Primea: 7 eight-foot conference tables, rectangle, boat and pedestal, scored on frame, top finish, power access and made-in-USA build.",
   "heroImage": "https://m.media-amazon.com/images/I/517OXC5hBEL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-8-port-managed-network-switches",
+  "h1": "The 5 Best 8-Port Managed Network Switches of 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 managed switches scored on VLANs, PoE budget, uplinks, warranty and value, from a budget TP-Link to PoE+ NETGEAR.",
+  "heroImage": "https://m.media-amazon.com/images/I/31nyBGJ-Y0L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
  },
@@ -560,6 +614,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-air-fryer-toaster-ovens",
+  "h1": "The 7 Best Air Fryer Toaster Ovens for Real Weeknight Cooking, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 7 air fryer toaster ovens scored on capacity, wattage, presets, footprint and versatility, from Breville to budget picks.",
+  "heroImage": "https://m.media-amazon.com/images/I/51BBQIa-x6L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-air-fryers-for-seniors",
   "h1": "The 5 Best Air Fryers for Seniors of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -567,6 +630,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41TVPRl2fxL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 92
+ },
+ {
+  "slug": "best-air-fryers-under-100",
+  "h1": "The 8 Best Air Fryers Under $100 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 air fryers under $100, scored on basket size, fan power, temperature range, coating, dual-zone cooking and ease of cleaning.",
+  "heroImage": "https://m.media-amazon.com/images/I/41oH6dRAqyL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
  },
  {
   "slug": "best-air-purifier-under-300",
@@ -938,6 +1010,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-black-office-credenzas-with-drawers",
+  "h1": "The 7 Best Black Office Credenzas With Drawers, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 7 black office credenzas with drawers scored on top load, locks, drawer layout, power and width, from 43 to 63 inches wide.",
+  "heroImage": "https://m.media-amazon.com/images/I/51cvgn9KfpL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-blender-under-100",
   "h1": "The 6 Best Blenders Under $100 of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -956,6 +1037,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-blender-under-300",
+  "h1": "The 8 Best Blenders Under $300: Pitchers to Personal, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 blenders under $300 scored on motor, capacity, controls and cleanup, from Ninja pitchers to personal cups.",
+  "heroImage": "https://m.media-amazon.com/images/I/516W6Z97O2L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-blender-under-500",
   "h1": "The 6 Best Blenders Under $500 of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -963,6 +1053,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41yYdKA2n0L._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 94
+ },
+ {
+  "slug": "best-blue-light-filtering-monitor-privacy-screens",
+  "h1": "The 6 Best Blue-Light-Filtering Monitor Privacy Screens, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 6 monitor privacy screens with blue-light filtering, scored on fit, glare reduction, pack value and size from 21.5 to 34 inches.",
+  "heroImage": "https://m.media-amazon.com/images/I/51LJJ4eL26L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
  },
  {
   "slug": "best-bluetooth-computer-mice",
@@ -1037,6 +1136,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-book-holders-under-30",
+  "h1": "The 6 Best Book Holders Under $30 for Reading and Cooking, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 6 book holders under $30 compared on weight rating, angle adjustment, materials and portability for study and cookbooks.",
+  "heroImage": "https://m.media-amazon.com/images/I/519B0HXe19L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-book-holders-under-50",
   "h1": "The 8 Best Book Holders Under $50 of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -1044,6 +1152,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41bGyns4ixL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 93
+ },
+ {
+  "slug": "best-book-stands-under-50",
+  "h1": "The 6 Best Book Stands Under $50 for Reading and Cooking, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 5 book stands under $50 scored on book capacity, angle control, page holders and portability for desk or kitchen.",
+  "heroImage": "https://m.media-amazon.com/images/I/51P18U0DSAL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
  },
  {
   "slug": "best-bookshelf-3-tier",
@@ -1361,6 +1478,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-cable-management-boxes-under-30",
+  "h1": "The 5 Best Cable Management Boxes Under $30 of 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 cable management boxes and trays under $30 scored on mounting, capacity, airflow and desk fit, from clamp trays to a cord box.",
+  "heroImage": "https://m.media-amazon.com/images/I/514hrhDbu4L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 91
+ },
+ {
   "slug": "best-camera-free-robot-vacuums",
   "h1": "The 8 Best Camera-Free Robot Vacuums of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -1467,6 +1593,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/418f5w8wyQL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
+ },
+ {
+  "slug": "best-carpet-cleaners-with-long-hoses",
+  "h1": "The 7 Best Carpet Cleaners With Long Hoses and Extractor Kits, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 7 long-hose carpet cleaning kits, hoses and tools compared on reach, fit, build and value for stairs, cars and big rooms.",
+  "heroImage": "https://m.media-amazon.com/images/I/51wAdj4I6LL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
  },
  {
   "slug": "best-cartridge-free-printers",
@@ -1584,6 +1719,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41eKX9IVyVL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 95
+ },
+ {
+  "slug": "best-clamp-on-desk-drawers-under-50",
+  "h1": "The 5 Best Clamp-On Desk Drawers Under $50, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 5 clamp-on desk drawers under $50 scored on size, clamp range, weight rating and cable access.",
+  "heroImage": "https://m.media-amazon.com/images/I/51GLvZyDDUL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
  },
  {
   "slug": "best-clip-clothes-hangers",
@@ -1757,6 +1901,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-commercial-portable-carpet-cleaners",
+  "h1": "The 7 Best Commercial Portable Carpet Cleaners for Busy Floors, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 7 portable carpet cleaners scored for repeat-use durability, stain power, pet messes and cost, from Rug Doctor to Little Green.",
+  "heroImage": "https://m.media-amazon.com/images/I/41AV3q2B+CL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-commercial-robot-vacuums",
   "h1": "The 7 Best Commercial Robot Vacuums of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -1798,6 +1951,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "home-office",
   "metaDescription": "Ranked and reviewed by Primea: 6 compact ergonomic keyboards for small desks, scored on split layout, palm rest, wireless options and real footprint.",
   "heroImage": "https://m.media-amazon.com/images/I/4114VdW9JcL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-compact-keyboard-under-50",
+  "h1": "The 8 Best Compact Keyboards Under $50, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 compact keyboards under $50 compared on layout, switch feel, battery and connection for travel, office and gaming.",
+  "heroImage": "https://m.media-amazon.com/images/I/31-4U27OH3L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
  },
@@ -2540,6 +2702,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 93
  },
  {
+  "slug": "best-digital-magnifier-under-100",
+  "h1": "The 6 Best Digital Magnifiers Under $100 for Reading and Hobbies, Ranked & Reviewed",
+  "category": "health-mobility",
+  "metaDescription": "Ranked and reviewed by Primea: 6 digital magnifiers under $100 scored on zoom range, screen, lighting and capture, from reading aids to coin scopes.",
+  "heroImage": "https://m.media-amazon.com/images/I/413k+rDeGCL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 90
+ },
+ {
   "slug": "best-digital-magnifier-under-200",
   "h1": "The 7 Best Digital Magnifiers Under $200 for Seniors, Hobbyists and Small Print, Ranked & Reviewed",
   "category": "health-mobility",
@@ -3089,6 +3260,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-electric-food-chopper-under-30",
+  "h1": "The 6 Best Electric Food Choppers Under $30, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 6 electric food choppers at budget prices, scored on bowl size, motor power, blade design, cleanup and everyday versatility.",
+  "heroImage": "https://m.media-amazon.com/images/I/51BYZ5qkPBL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-electric-food-chopper-under-50",
   "h1": "The 5 Best Electric Food Choppers Under $50 for Onions, Herbs and Salsa, Ranked & Reviewed",
   "category": "kitchen",
@@ -3168,6 +3348,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41u0koyP85L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 95
+ },
+ {
+  "slug": "best-electric-knife-under-30",
+  "h1": "The 6 Best Electric Knives Under $30 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 6 budget electric knives scored on kit contents, cord length, blade design and brand support, from Hamilton Beach to Cuisinart.",
+  "heroImage": "https://m.media-amazon.com/images/I/21ul84h0j3L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
  },
  {
   "slug": "best-electric-knife-under-50",
@@ -3438,6 +3627,24 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41V0N+UY9NL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 92
+ },
+ {
+  "slug": "best-ergonomic-chair-under-300",
+  "h1": "The 7 Best Ergonomic Chairs Under $300 for Home Desks, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 7 ergonomic chairs under $300 compared on lumbar, tilt tension, headrests, gas lift class and warranty for home desks.",
+  "heroImage": "https://m.media-amazon.com/images/I/41+1rLZTTNL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
+  "slug": "best-ergonomic-chair-under-500",
+  "h1": "The 7 Best Ergonomic Chairs Under $500 for Heavier Frames, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 7 ergonomic chairs under $500 for bigger bodies, scored on weight rating, seat size, armrests, lumbar and hardware.",
+  "heroImage": "https://m.media-amazon.com/images/I/31BNS5NzqSL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
  },
  {
   "slug": "best-ergonomic-computer-mice",
@@ -4061,6 +4268,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 92
  },
  {
+  "slug": "best-gray-office-credenzas",
+  "h1": "The 6 Best Gray Office Credenzas for Home and Studio, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 6 gray office credenzas scored on locks, casters, shelf count, power outlets and filing rails, from 43 to 47 inches wide.",
+  "heroImage": "https://m.media-amazon.com/images/I/51OssqYJ3mL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
+ },
+ {
   "slug": "best-greenworks-leaf-blowers",
   "h1": "The 5 Best Greenworks Leaf Blowers of 2026, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -4194,6 +4410,42 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/51T7K-COzIL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 94
+ },
+ {
+  "slug": "best-headphones-under-100",
+  "h1": "The 8 Best Headphones Under $100 for ANC and Calls, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 headphones under $100 scored on noise cancelling, call mics, comfort and battery, from Sony to budget picks.",
+  "heroImage": "https://m.media-amazon.com/images/I/41q5orOSlRL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
+ },
+ {
+  "slug": "best-headphones-under-30",
+  "h1": "The 6 Best Headphones Under $30 in 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 6 headphones under $30 scored on battery, sound control, fit and warranty, from over-ears to earbuds and a wired fold-flat.",
+  "heroImage": "https://m.media-amazon.com/images/I/41HikImm1zL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 90
+ },
+ {
+  "slug": "best-headphones-under-50",
+  "h1": "The 7 Best Headphones Under $50 for Quiet Focus, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 7 headphones under $50 scored on noise control, comfort, battery and connectivity, from ANC to wired studio.",
+  "heroImage": "https://m.media-amazon.com/images/I/318RvHnDwHL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
+ },
+ {
+  "slug": "best-headphones-under-70",
+  "h1": "The 6 Best Headphones Under $70: Over-Ear and Swim-Proof, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 6 headphones under $70 scored on battery, water rating, comfort and support, from over-ears to swim sets.",
+  "heroImage": "https://m.media-amazon.com/images/I/41bceucxIFL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 91
  },
  {
   "slug": "best-heated-portable-carpet-cleaners",
@@ -4331,6 +4583,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-humidifiers-under-200",
+  "h1": "The 8 Best Humidifiers Under $200 for Bedrooms, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 8 humidifiers under $200 scored on tank size, noise, cleaning, mist type and price, from Levoit to DREO.",
+  "heroImage": "https://m.media-amazon.com/images/I/31+5k0lu0IL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-husqvarna-leaf-blowers",
   "h1": "The 8 Best Husqvarna Leaf Blowers of 2026, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -4403,6 +4664,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-immersion-blender-under-50",
+  "h1": "The 6 Best Immersion Blenders Under $50 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 6 hand blenders scored on motor, speed control, attachments and build, from Braun and Cuisinart to a 5-in-1 Turelar.",
+  "heroImage": "https://m.media-amazon.com/images/I/21Yz7qUOmUL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-induction-cooktop-under-200",
   "h1": "The 7 Best Single-Burner Induction Cooktops Under $200, Ranked & Reviewed",
   "category": "kitchen",
@@ -4445,6 +4715,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: the 7 best inkjet printers for home use, comparing cartridge and ink-tank models on running cost, features, and setup.",
   "heroImage": "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
   "updatedAt": "2026-11-01",
+  "topScore": 94
+ },
+ {
+  "slug": "best-interactive-whiteboards-under-3000",
+  "h1": "The 8 Best Interactive Whiteboards Under $3000 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 interactive whiteboards under $3000, scored on Google EDLA, touch precision, screen size, ports and Windows options.",
+  "heroImage": "https://m.media-amazon.com/images/I/51JwAk52DvL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
   "topScore": 94
  },
  {
@@ -4777,6 +5056,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "home-office",
   "metaDescription": "Ranked and reviewed by Primea: 7 large button calculators under $100 compared on tape printing, display, AC or solar power and bookkeeping keys for office use.",
   "heroImage": "https://m.media-amazon.com/images/I/41yRNrGSWXL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-large-button-calculator-under-50",
+  "h1": "The 8 Best Large Button Calculators Under $50 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 large button calculators under $50, scored on display tilt, key feel, solar power, digit count and desk stability.",
+  "heroImage": "https://m.media-amazon.com/images/I/41x7QXRu3eL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
  },
@@ -5303,6 +5591,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-mechanical-keyboard-under-100",
+  "h1": "The 7 Best Mechanical Keyboards Under $100 for Typing, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 7 mechanical keyboards under $100 compared on mounting, hot-swap switches, keycaps, wireless modes and layout.",
+  "heroImage": "https://m.media-amazon.com/images/I/41azAfde5SL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-mechanical-keyboard-under-50",
   "h1": "The 7 Best Mechanical Keyboards Under $50 for Typing and Gaming, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -5336,6 +5633,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: six mechanical keyboards, from budget full-size boards to wireless low-profile models, compared on switches and layout.",
   "heroImage": "https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg",
   "updatedAt": "2026-11-01",
+  "topScore": 94
+ },
+ {
+  "slug": "best-medical-alert-systems",
+  "h1": "The 7 Best Medical Alert Systems for Mobile Safety, Ranked & Reviewed",
+  "category": "health-mobility",
+  "metaDescription": "Ranked and reviewed by Primea: 7 mobile medical alert systems scored on GPS, fall detection, battery, water resistance and monitoring.",
+  "heroImage": "https://m.media-amazon.com/images/I/416h4Ixsc+L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
   "topScore": 94
  },
  {
@@ -5452,6 +5758,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "kitchen",
   "metaDescription": "Ranked and reviewed by Primea: 7 microwaves under $100 compared on wattage, capacity, power levels, safety lock and controls, from Toshiba to Commercial Chef.",
   "heroImage": "https://m.media-amazon.com/images/I/31jg1PUc69L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
+  "slug": "best-microwaves-with-large-displays",
+  "h1": "The 6 Best Microwaves With Large Displays of 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 6 countertop microwaves scored on capacity, wattage, sensor cooking and footprint, from 0.9 to 2.2 cubic feet.",
+  "heroImage": "https://m.media-amazon.com/images/I/31CzEt2vedL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 93
  },
@@ -5618,6 +5933,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-monitor-arm-under-100",
+  "h1": "The 8 Best Monitor Arms Under $100 for Desks and Walls, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 monitor arms under $100 compared on weight limits, reach, clamp range, cable routing and wall or desk mounting.",
+  "heroImage": "https://m.media-amazon.com/images/I/41rVPTEmIrL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-monitor-arms-for-laptop",
   "h1": "The 8 Best Monitor Arms for Laptop Setups, Ranked & Reviewed",
   "category": "home-office",
@@ -5643,6 +5967,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "/images/guides/best-monitor-light-bars-for-gaming/benq-screenbar-halo-2.webp",
   "updatedAt": "2026-11-01",
   "topScore": 95
+ },
+ {
+  "slug": "best-monitor-light-bars-under-50",
+  "h1": "The 7 Best Monitor Light Bars Under $50 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 7 monitor light bars under $50, split into task lights that cut glare and RGB bias lights, scored on CRI, dimming and clip fit.",
+  "heroImage": "https://m.media-amazon.com/images/I/219sZt4Mb1L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
  },
  {
   "slug": "best-monitor-privacy-screen-protectors",
@@ -5688,6 +6021,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/51LJJ4eL26L._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 93
+ },
+ {
+  "slug": "best-monitor-under-100",
+  "h1": "The 8 Best Monitors Under $100 for Home Offices, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 monitors under $100 compared on panel type, size, refresh rate, ports and eye-care features for home offices.",
+  "heroImage": "https://m.media-amazon.com/images/I/51tFIgAjFKL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
  },
  {
   "slug": "best-monitor-under-300",
@@ -6059,6 +6401,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 96
  },
  {
+  "slug": "best-office-chair-under-100",
+  "h1": "The 8 Best Office Chairs Under $100 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 office chairs under $100, scored on lumbar support, seat height range, weight rating, certifications and armrest design.",
+  "heroImage": "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-office-chair-under-300",
   "h1": "The 8 Best Office Chairs on a $300 Budget, Ranked & Reviewed",
   "category": "home-office",
@@ -6203,6 +6554,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-one-touch-microwaves",
+  "h1": "The 6 Best One-Touch Microwaves of 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 6 microwaves scored on ease of use, power levels, safety features, evenness and value, from Chefman to Panasonic inverter.",
+  "heroImage": "https://m.media-amazon.com/images/I/31CzEt2vedL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 92
+ },
+ {
   "slug": "best-outdoor-storage-shed-under-1500",
   "h1": "The 6 Best Outdoor Storage Sheds for Bigger Budgets, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -6245,6 +6605,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: six Panasonic cordless phone systems, from budget two-handset sets to five-handset and two-line models, with call blocking.",
   "heroImage": "https://m.media-amazon.com/images/I/51oM8UtlakL._SL500_.jpg",
   "updatedAt": "2026-11-01",
+  "topScore": 94
+ },
+ {
+  "slug": "best-pant-hangers",
+  "h1": "The 7 Best Pant Hangers for Every Closet, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 7 pant hangers scored on grip, crease control, load strength and closet space, from wood bars to 6-tier clip hangers.",
+  "heroImage": "https://m.media-amazon.com/images/I/31y65Vb6OmL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
   "topScore": 94
  },
  {
@@ -7040,6 +7409,33 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-projectors-under-1500",
+  "h1": "The 5 Best Projectors Under $1500 in 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 smart and mini projectors that cost far less than $1500, scored on streaming, focus, sound, ports and honest specs.",
+  "heroImage": "https://m.media-amazon.com/images/I/510rw7Z4knL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
+  "slug": "best-projectors-under-200",
+  "h1": "The 8 Best Projectors Under $200 in 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 mini projectors under $200, scored on warranty, real brightness claims, keystone, speakers and streaming apps for bedrooms.",
+  "heroImage": "https://m.media-amazon.com/images/I/416W69zu5KL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-projectors-under-500",
+  "h1": "The 8 Best Projectors Under $500 in 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 smart projectors under $500, scored on streaming built-in, focus, brightness claims, sound and setup, from Roku to Google TV.",
+  "heroImage": "https://m.media-amazon.com/images/I/41zno6cZMFL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-pure-sine-wave-ups",
   "h1": "The 7 Best Pure Sine Wave UPS Battery Backups for PCs and Electronics, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -7157,6 +7553,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 93
  },
  {
+  "slug": "best-raised-planters-under-50",
+  "h1": "The 7 Best Raised Planters Under $50 for Vegetables and Herbs, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 7 raised planters under $50 compared on soil depth, material, drainage and setup for vegetables, herbs and patios.",
+  "heroImage": "https://m.media-amazon.com/images/I/41hKIXiKc-L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-reception-desks-with-drawers",
   "h1": "The 7 Best Reception Desks With Drawers for Clinics, Salons and Small Offices, Ranked & Reviewed",
   "category": "home-office",
@@ -7202,6 +7607,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-rice-cooker-under-100",
+  "h1": "The 8 Best Rice Cookers Under $100 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 rice cookers under $100, scored on cooking logic, capacity, keep-warm, pot coating and extras like steaming and slow cook.",
+  "heroImage": "https://m.media-amazon.com/images/I/41iRhaqDQBL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-rice-cooker-under-200",
   "h1": "The 8 Best Rice Cookers Under $200 of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -7209,6 +7623,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41XUuK2j4bL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 95
+ },
+ {
+  "slug": "best-rice-cooker-under-50",
+  "h1": "The 8 Best Rice Cookers Under $50 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 rice cookers under $50, scored on capacity, presets, ceramic or nonstick pots, steam trays and cleanup.",
+  "heroImage": "https://m.media-amazon.com/images/I/41V32cTWxML._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
  },
  {
   "slug": "best-ring-alternatives",
@@ -7724,6 +8147,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 92
  },
  {
+  "slug": "best-slow-cooker-under-200",
+  "h1": "The 8 Best Slow Cookers Under $200 in 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 slow cookers under $200, scored on capacity, programmable timers, locking lids, stoneware safety and multi-cooker features.",
+  "heroImage": "https://m.media-amazon.com/images/I/41sMUt2P3ZL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-small-carpet-cleaners",
   "h1": "The 7 Best Small Carpet Cleaners for Spots, Stairs and Tight Spaces, Ranked & Reviewed",
   "category": "home-living",
@@ -8021,6 +8453,24 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-ssd-enclosures-under-30",
+  "h1": "The 8 Best SSD Enclosures Under $30, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 SSD enclosures under $30 scored on NVMe support, heat, bridge chip, cables and warranty.",
+  "heroImage": "https://m.media-amazon.com/images/I/41XU4Tlu8WL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-ssd-enclosures-under-50",
+  "h1": "The 8 Best SSD Enclosures Under $50: SATA and M.2, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 5 SSD enclosures under $50 scored on drive support, speed, heat and cables, from M.2 to 2.5 inch SATA.",
+  "heroImage": "https://m.media-amazon.com/images/I/31T46Ya9IOS._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-ssd-nas-for-fast-file-access",
   "h1": "The 6 Best SSD NAS for Fast File Access of 2026, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -8082,6 +8532,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41x4f3fulZL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 93
+ },
+ {
+  "slug": "best-standing-desk-under-1000",
+  "h1": "The 8 Best Standing Desks Under $1000 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 standing desks under $1000, from electric sit-stand desks to rolling walking-pad tables, scored on noise, load and fit.",
+  "heroImage": "https://m.media-amazon.com/images/I/41bKwkKmP9L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
  },
  {
   "slug": "best-standing-desks-for-heavy-setups",
@@ -8233,6 +8692,15 @@ export const guideRegistry: GuideListing[] = [
   "category": "health-mobility",
   "metaDescription": "Ranked and reviewed by Primea: 8 tablets for seniors, from GrandPad and iPad to Fire, Samsung, Lenovo and AOC, compared on screen size, storage and simplicity.",
   "heroImage": "https://m.media-amazon.com/images/I/41XvvOU2BCL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-tablets-under-100",
+  "h1": "The 8 Best Tablets Under $100 for Streaming, Reading and Kids, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 tablets under $100 compared on screen resolution, real RAM, Widevine level, battery and software for streaming and kids.",
+  "heroImage": "https://m.media-amazon.com/images/I/41vTSMa6mNL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
  },
@@ -8912,6 +9380,24 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-vacuum-sealer-under-100",
+  "h1": "The 6 Best Vacuum Sealers Under $100 for Meal Prep and Freezers, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 6 vacuum sealers under $100 compared on seal type, pump claims, bag costs and warranty, from FoodSaver to FRESKO.",
+  "heroImage": "https://m.media-amazon.com/images/I/41hOKkTBQ6L._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-vacuum-sealer-under-150",
+  "h1": "The 7 Best Vacuum Sealers Under $150 for Sous Vide and Freezers, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 7 vacuum sealers under $150 scored on double seals, pump data, spare parts, kit contents and warranty for sous vide cooks.",
+  "heroImage": "https://m.media-amazon.com/images/I/51tiu338vjL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
   "slug": "best-vacuum-sealer-under-200",
   "h1": "5 Vacuum Sealers Under $200 Worth Buying, Ranked & Reviewed",
   "category": "kitchen",
@@ -8919,6 +9405,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41hOKkTBQ6L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
+ },
+ {
+  "slug": "best-vacuum-sealer-under-50",
+  "h1": "The 6 Best Vacuum Sealers Under $50 for Freezer and Pantry, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 6 vacuum sealers under $50 scored on suction, moist-food modes, kit contents and warranty, from bag machines to jar sealers.",
+  "heroImage": "https://m.media-amazon.com/images/I/41vtapJeTML._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 90
  },
  {
   "slug": "best-variable-temperature-electric-kettles",
@@ -9173,6 +9668,24 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-webcam-under-30",
+  "h1": "The 8 Best Webcams Under $30 for Home Offices, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 webcams under $30 scored on lens, field of view, microphones and mounting for home offices and classes.",
+  "heroImage": "https://m.media-amazon.com/images/I/41AAr1d6ROL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 90
+ },
+ {
+  "slug": "best-webcam-under-50",
+  "h1": "The 8 Best Webcams Under $50: 4K to Basic 1080p, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 webcams under $50 scored on picture, microphones, field of view and mounting, from 4K to plain 1080p.",
+  "heroImage": "https://m.media-amazon.com/images/I/31UO5pEZcVL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-weed-pullers-for-garden-beds",
   "h1": "The 7 Best Weed Pullers for Garden Beds of 2026, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -9252,6 +9765,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41NP95I6LtL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
+ },
+ {
+  "slug": "best-white-office-credenzas",
+  "h1": "The 6 Best White Office Credenzas for Files and Gear, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 6 white office credenzas and lateral file cabinets scored on filing rails, power, storage and build, from fluted wood to rustic.",
+  "heroImage": "https://m.media-amazon.com/images/I/41gKov6K5IL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
  },
  {
   "slug": "best-whole-house-humidifiers-under-500",
@@ -9452,6 +9974,24 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-wood-file-cabinets-under-200",
+  "h1": "The 8 Best Wood File Cabinets Under $200 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 wood file cabinets under $200, scored on locks, full-extension slides, casters, anti-tip design and file drawer capacity.",
+  "heroImage": "https://m.media-amazon.com/images/I/41tWTclWOmL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-wood-file-cabinets-under-500",
+  "h1": "The 8 Best Wood File Cabinets Under $500 in 2026, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 8 wood-look file cabinets under $500, scored on drawer slides, hanging rails, locks, footprint and styling for home offices.",
+  "heroImage": "https://m.media-amazon.com/images/I/41tWTclWOmL._SL500_.jpg",
+  "updatedAt": "2026-11-03",
+  "topScore": 93
+ },
+ {
   "slug": "best-worx-leaf-blowers",
   "h1": "The 6 Best Worx Leaf Blowers of 2026, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -9476,6 +10016,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-10-inch-digital-photo-frames": () => import("./guides/best-10-inch-digital-photo-frames.json"),
   "best-10-laptop-charging-carts": () => import("./guides/best-10-laptop-charging-carts.json"),
   "best-1000-watt-microwaves": () => import("./guides/best-1000-watt-microwaves.json"),
+  "best-1000va-ups-battery-backups": () => import("./guides/best-1000va-ups-battery-backups.json"),
   "best-13-inch-laptop-cooling-pads": () => import("./guides/best-13-inch-laptop-cooling-pads.json"),
   "best-144hz-portable-monitors": () => import("./guides/best-144hz-portable-monitors.json"),
   "best-15-6-inch-laptop-cooling-pads": () => import("./guides/best-15-6-inch-laptop-cooling-pads.json"),
@@ -9483,9 +10024,11 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-15-sheet-paper-shredders": () => import("./guides/best-15-sheet-paper-shredders.json"),
   "best-16-inch-laptop-cooling-pads": () => import("./guides/best-16-inch-laptop-cooling-pads.json"),
   "best-18-inch-lawn-mowers": () => import("./guides/best-18-inch-lawn-mowers.json"),
+  "best-1800w-portable-power-stations": () => import("./guides/best-1800w-portable-power-stations.json"),
   "best-18v-leaf-blowers": () => import("./guides/best-18v-leaf-blowers.json"),
   "best-1l-electric-kettles": () => import("./guides/best-1l-electric-kettles.json"),
   "best-2-bay-nas-for-home-offices": () => import("./guides/best-2-bay-nas-for-home-offices.json"),
+  "best-2-drawer-wood-file-cabinets-under-150": () => import("./guides/best-2-drawer-wood-file-cabinets-under-150.json"),
   "best-2000wh-portable-power-stations": () => import("./guides/best-2000wh-portable-power-stations.json"),
   "best-20v-leaf-blowers": () => import("./guides/best-20v-leaf-blowers.json"),
   "best-21-inch-lawn-mowers": () => import("./guides/best-21-inch-lawn-mowers.json"),
@@ -9494,6 +10037,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-240v-portable-power-stations": () => import("./guides/best-240v-portable-power-stations.json"),
   "best-25-foot-garden-hoses": () => import("./guides/best-25-foot-garden-hoses.json"),
   "best-27-inch-monitor-privacy-screens": () => import("./guides/best-27-inch-monitor-privacy-screens.json"),
+  "best-27-inch-monitor-under-200": () => import("./guides/best-27-inch-monitor-under-200.json"),
   "best-2k-portable-monitors": () => import("./guides/best-2k-portable-monitors.json"),
   "best-2l-electric-kettles": () => import("./guides/best-2l-electric-kettles.json"),
   "best-32-inch-tvs": () => import("./guides/best-32-inch-tvs.json"),
@@ -9516,11 +10060,13 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-6-inch-threshold-ramps": () => import("./guides/best-6-inch-threshold-ramps.json"),
   "best-60v-leaf-blowers": () => import("./guides/best-60v-leaf-blowers.json"),
   "best-700-watt-microwaves": () => import("./guides/best-700-watt-microwaves.json"),
+  "best-72-inch-conference-tables": () => import("./guides/best-72-inch-conference-tables.json"),
   "best-72-inch-office-credenzas": () => import("./guides/best-72-inch-office-credenzas.json"),
   "best-75-foot-garden-hoses": () => import("./guides/best-75-foot-garden-hoses.json"),
   "best-75-inch-tvs": () => import("./guides/best-75-inch-tvs.json"),
   "best-8-5-inch-lcd-writing-tablets": () => import("./guides/best-8-5-inch-lcd-writing-tablets.json"),
   "best-8-ft-conference-tables": () => import("./guides/best-8-ft-conference-tables.json"),
+  "best-8-port-managed-network-switches": () => import("./guides/best-8-port-managed-network-switches.json"),
   "best-8-port-network-switches": () => import("./guides/best-8-port-network-switches.json"),
   "best-8-quart-air-fryers": () => import("./guides/best-8-quart-air-fryers.json"),
   "best-8-sheet-paper-shredders": () => import("./guides/best-8-sheet-paper-shredders.json"),
@@ -9533,7 +10079,9 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-acer-laptop-locks": () => import("./guides/best-acer-laptop-locks.json"),
   "best-acoustic-desk-dividers": () => import("./guides/best-acoustic-desk-dividers.json"),
   "best-adaptive-scissors-under-30": () => import("./guides/best-adaptive-scissors-under-30.json"),
+  "best-air-fryer-toaster-ovens": () => import("./guides/best-air-fryer-toaster-ovens.json"),
   "best-air-fryers-for-seniors": () => import("./guides/best-air-fryers-for-seniors.json"),
+  "best-air-fryers-under-100": () => import("./guides/best-air-fryers-under-100.json"),
   "best-air-purifier-under-300": () => import("./guides/best-air-purifier-under-300.json"),
   "best-air-purifier-under-500": () => import("./guides/best-air-purifier-under-500.json"),
   "best-air-purifiers-for-home-offices": () => import("./guides/best-air-purifiers-for-home-offices.json"),
@@ -9575,9 +10123,12 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-bissell-cordless-vacuums": () => import("./guides/best-bissell-cordless-vacuums.json"),
   "best-bissell-steam-mops": () => import("./guides/best-bissell-steam-mops.json"),
   "best-bissell-upright-vacuums": () => import("./guides/best-bissell-upright-vacuums.json"),
+  "best-black-office-credenzas-with-drawers": () => import("./guides/best-black-office-credenzas-with-drawers.json"),
   "best-blender-under-100": () => import("./guides/best-blender-under-100.json"),
   "best-blender-under-200": () => import("./guides/best-blender-under-200.json"),
+  "best-blender-under-300": () => import("./guides/best-blender-under-300.json"),
   "best-blender-under-500": () => import("./guides/best-blender-under-500.json"),
+  "best-blue-light-filtering-monitor-privacy-screens": () => import("./guides/best-blue-light-filtering-monitor-privacy-screens.json"),
   "best-bluetooth-computer-mice": () => import("./guides/best-bluetooth-computer-mice.json"),
   "best-bluetooth-ergonomic-keyboards": () => import("./guides/best-bluetooth-ergonomic-keyboards.json"),
   "best-bluetooth-tracker-under-100": () => import("./guides/best-bluetooth-tracker-under-100.json"),
@@ -9586,7 +10137,9 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-bluetooth-tracker-under-75": () => import("./guides/best-bluetooth-tracker-under-75.json"),
   "best-boat-shaped-conference-tables": () => import("./guides/best-boat-shaped-conference-tables.json"),
   "best-book-and-document-scanners": () => import("./guides/best-book-and-document-scanners.json"),
+  "best-book-holders-under-30": () => import("./guides/best-book-holders-under-30.json"),
   "best-book-holders-under-50": () => import("./guides/best-book-holders-under-50.json"),
+  "best-book-stands-under-50": () => import("./guides/best-book-stands-under-50.json"),
   "best-bookshelf-3-tier": () => import("./guides/best-bookshelf-3-tier.json"),
   "best-bookshelf-5-tier": () => import("./guides/best-bookshelf-5-tier.json"),
   "best-bookshelf-bed-frame": () => import("./guides/best-bookshelf-bed-frame.json"),
@@ -9622,6 +10175,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-built-in-microwaves": () => import("./guides/best-built-in-microwaves.json"),
   "best-business-card-scanners": () => import("./guides/best-business-card-scanners.json"),
   "best-bypass-loppers": () => import("./guides/best-bypass-loppers.json"),
+  "best-cable-management-boxes-under-30": () => import("./guides/best-cable-management-boxes-under-30.json"),
   "best-camera-free-robot-vacuums": () => import("./guides/best-camera-free-robot-vacuums.json"),
   "best-canister-vacuums-for-carpet": () => import("./guides/best-canister-vacuums-for-carpet.json"),
   "best-canister-vacuums-for-hardwood-floors": () => import("./guides/best-canister-vacuums-for-hardwood-floors.json"),
@@ -9634,6 +10188,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-carpet-cleaners-for-pet-hair-and-stains": () => import("./guides/best-carpet-cleaners-for-pet-hair-and-stains.json"),
   "best-carpet-cleaners-for-upholstery": () => import("./guides/best-carpet-cleaners-for-upholstery.json"),
   "best-carpet-cleaners-under-50": () => import("./guides/best-carpet-cleaners-under-50.json"),
+  "best-carpet-cleaners-with-long-hoses": () => import("./guides/best-carpet-cleaners-with-long-hoses.json"),
   "best-cartridge-free-printers": () => import("./guides/best-cartridge-free-printers.json"),
   "best-cell-phones-for-seniors": () => import("./guides/best-cell-phones-for-seniors.json"),
   "best-cell-phones-with-emergency-buttons-for-seniors": () => import("./guides/best-cell-phones-with-emergency-buttons-for-seniors.json"),
@@ -9647,6 +10202,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-chair-mats-for-thick-carpet": () => import("./guides/best-chair-mats-for-thick-carpet.json"),
   "best-chair-mats": () => import("./guides/best-chair-mats.json"),
   "best-chromebook-and-laptop-charging-carts": () => import("./guides/best-chromebook-and-laptop-charging-carts.json"),
+  "best-clamp-on-desk-drawers-under-50": () => import("./guides/best-clamp-on-desk-drawers-under-50.json"),
   "best-clip-clothes-hangers": () => import("./guides/best-clip-clothes-hangers.json"),
   "best-clip-on-monitor-privacy-screens": () => import("./guides/best-clip-on-monitor-privacy-screens.json"),
   "best-clip-on-video-lighting": () => import("./guides/best-clip-on-video-lighting.json"),
@@ -9666,11 +10222,13 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-commercial-cordless-vacuums": () => import("./guides/best-commercial-cordless-vacuums.json"),
   "best-commercial-handheld-vacuums": () => import("./guides/best-commercial-handheld-vacuums.json"),
   "best-commercial-leaf-blowers": () => import("./guides/best-commercial-leaf-blowers.json"),
+  "best-commercial-portable-carpet-cleaners": () => import("./guides/best-commercial-portable-carpet-cleaners.json"),
   "best-commercial-robot-vacuums": () => import("./guides/best-commercial-robot-vacuums.json"),
   "best-commercial-upright-vacuums": () => import("./guides/best-commercial-upright-vacuums.json"),
   "best-commercial-wet-dry-vacuums": () => import("./guides/best-commercial-wet-dry-vacuums.json"),
   "best-compact-document-scanners": () => import("./guides/best-compact-document-scanners.json"),
   "best-compact-ergonomic-keyboards": () => import("./guides/best-compact-ergonomic-keyboards.json"),
+  "best-compact-keyboard-under-50": () => import("./guides/best-compact-keyboard-under-50.json"),
   "best-compact-printers-for-small-desks": () => import("./guides/best-compact-printers-for-small-desks.json"),
   "best-compact-standing-desk-converters": () => import("./guides/best-compact-standing-desk-converters.json"),
   "best-compact-wet-dry-vacuums": () => import("./guides/best-compact-wet-dry-vacuums.json"),
@@ -9753,6 +10311,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-digital-day-clocks-for-seniors": () => import("./guides/best-digital-day-clocks-for-seniors.json"),
   "best-digital-day-clocks": () => import("./guides/best-digital-day-clocks.json"),
   "best-digital-desk-calendars": () => import("./guides/best-digital-desk-calendars.json"),
+  "best-digital-magnifier-under-100": () => import("./guides/best-digital-magnifier-under-100.json"),
   "best-digital-magnifier-under-200": () => import("./guides/best-digital-magnifier-under-200.json"),
   "best-digital-magnifier-under-300": () => import("./guides/best-digital-magnifier-under-300.json"),
   "best-digital-notebook-tablets": () => import("./guides/best-digital-notebook-tablets.json"),
@@ -9814,6 +10373,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-elastic-shoelaces": () => import("./guides/best-elastic-shoelaces.json"),
   "best-electric-air-dusters": () => import("./guides/best-electric-air-dusters.json"),
   "best-electric-food-chopper-under-100": () => import("./guides/best-electric-food-chopper-under-100.json"),
+  "best-electric-food-chopper-under-30": () => import("./guides/best-electric-food-chopper-under-30.json"),
   "best-electric-food-chopper-under-50": () => import("./guides/best-electric-food-chopper-under-50.json"),
   "best-electric-food-chopper-under-75": () => import("./guides/best-electric-food-chopper-under-75.json"),
   "best-electric-garden-carts": () => import("./guides/best-electric-garden-carts.json"),
@@ -9823,6 +10383,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-electric-kettles-under-1000": () => import("./guides/best-electric-kettles-under-1000.json"),
   "best-electric-kettles-under-200": () => import("./guides/best-electric-kettles-under-200.json"),
   "best-electric-knife-under-100": () => import("./guides/best-electric-knife-under-100.json"),
+  "best-electric-knife-under-30": () => import("./guides/best-electric-knife-under-30.json"),
   "best-electric-knife-under-50": () => import("./guides/best-electric-knife-under-50.json"),
   "best-electric-knife-under-75": () => import("./guides/best-electric-knife-under-75.json"),
   "best-electric-mop-and-vacuum-combos": () => import("./guides/best-electric-mop-and-vacuum-combos.json"),
@@ -9853,6 +10414,8 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-emergency-radios": () => import("./guides/best-emergency-radios.json"),
   "best-energy-efficient-toaster-ovens": () => import("./guides/best-energy-efficient-toaster-ovens.json"),
   "best-enzyme-carpet-cleaning-solutions": () => import("./guides/best-enzyme-carpet-cleaning-solutions.json"),
+  "best-ergonomic-chair-under-300": () => import("./guides/best-ergonomic-chair-under-300.json"),
+  "best-ergonomic-chair-under-500": () => import("./guides/best-ergonomic-chair-under-500.json"),
   "best-ergonomic-computer-mice": () => import("./guides/best-ergonomic-computer-mice.json"),
   "best-ergonomic-keyboard-and-mouse-combos": () => import("./guides/best-ergonomic-keyboard-and-mouse-combos.json"),
   "best-ergonomic-keyboard-and-mouse-sets": () => import("./guides/best-ergonomic-keyboard-and-mouse-sets.json"),
@@ -9922,6 +10485,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-glass-food-storage-containers": () => import("./guides/best-glass-food-storage-containers.json"),
   "best-google-tvs": () => import("./guides/best-google-tvs.json"),
   "best-gooseneck-electric-kettles": () => import("./guides/best-gooseneck-electric-kettles.json"),
+  "best-gray-office-credenzas": () => import("./guides/best-gray-office-credenzas.json"),
   "best-greenworks-leaf-blowers": () => import("./guides/best-greenworks-leaf-blowers.json"),
   "best-hand-weed-pullers": () => import("./guides/best-hand-weed-pullers.json"),
   "best-handheld-cordless-vacuums": () => import("./guides/best-handheld-cordless-vacuums.json"),
@@ -9937,6 +10501,10 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-hanging-desk-accessories": () => import("./guides/best-hanging-desk-accessories.json"),
   "best-hanging-desk-organizers": () => import("./guides/best-hanging-desk-organizers.json"),
   "best-hdmi-portable-monitors": () => import("./guides/best-hdmi-portable-monitors.json"),
+  "best-headphones-under-100": () => import("./guides/best-headphones-under-100.json"),
+  "best-headphones-under-30": () => import("./guides/best-headphones-under-30.json"),
+  "best-headphones-under-50": () => import("./guides/best-headphones-under-50.json"),
+  "best-headphones-under-70": () => import("./guides/best-headphones-under-70.json"),
   "best-heated-portable-carpet-cleaners": () => import("./guides/best-heated-portable-carpet-cleaners.json"),
   "best-heavy-duty-electric-pruning-shears": () => import("./guides/best-heavy-duty-electric-pruning-shears.json"),
   "best-heavy-duty-garden-hoses": () => import("./guides/best-heavy-duty-garden-hoses.json"),
@@ -9952,6 +10520,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-hot-water-dispenser-under-150": () => import("./guides/best-hot-water-dispenser-under-150.json"),
   "best-hp-laptop-locks": () => import("./guides/best-hp-laptop-locks.json"),
   "best-hp-monitor-privacy-screens": () => import("./guides/best-hp-monitor-privacy-screens.json"),
+  "best-humidifiers-under-200": () => import("./guides/best-humidifiers-under-200.json"),
   "best-husqvarna-leaf-blowers": () => import("./guides/best-husqvarna-leaf-blowers.json"),
   "best-ice-maker-under-100": () => import("./guides/best-ice-maker-under-100.json"),
   "best-ice-maker-under-200": () => import("./guides/best-ice-maker-under-200.json"),
@@ -9960,11 +10529,13 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-immersion-blender-under-100": () => import("./guides/best-immersion-blender-under-100.json"),
   "best-immersion-blender-under-150": () => import("./guides/best-immersion-blender-under-150.json"),
   "best-immersion-blender-under-200": () => import("./guides/best-immersion-blender-under-200.json"),
+  "best-immersion-blender-under-50": () => import("./guides/best-immersion-blender-under-50.json"),
   "best-induction-cooktop-under-200": () => import("./guides/best-induction-cooktop-under-200.json"),
   "best-induction-cooktop-under-300": () => import("./guides/best-induction-cooktop-under-300.json"),
   "best-induction-cooktop-under-500": () => import("./guides/best-induction-cooktop-under-500.json"),
   "best-ink-tank-printers-for-home-offices": () => import("./guides/best-ink-tank-printers-for-home-offices.json"),
   "best-inkjet-printers-for-home-use": () => import("./guides/best-inkjet-printers-for-home-use.json"),
+  "best-interactive-whiteboards-under-3000": () => import("./guides/best-interactive-whiteboards-under-3000.json"),
   "best-inverter-microwaves": () => import("./guides/best-inverter-microwaves.json"),
   "best-ipad-alternatives": () => import("./guides/best-ipad-alternatives.json"),
   "best-jam-proof-paper-shredders": () => import("./guides/best-jam-proof-paper-shredders.json"),
@@ -10002,6 +10573,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-laptop-monitor-privacy-screens": () => import("./guides/best-laptop-monitor-privacy-screens.json"),
   "best-laptop-storage-and-charging-carts": () => import("./guides/best-laptop-storage-and-charging-carts.json"),
   "best-large-button-calculator-under-100": () => import("./guides/best-large-button-calculator-under-100.json"),
+  "best-large-button-calculator-under-50": () => import("./guides/best-large-button-calculator-under-50.json"),
   "best-large-button-calculator-under-75": () => import("./guides/best-large-button-calculator-under-75.json"),
   "best-large-capacity-wet-dry-vacuums": () => import("./guides/best-large-capacity-wet-dry-vacuums.json"),
   "best-large-digital-calendar-displays": () => import("./guides/best-large-digital-calendar-displays.json"),
@@ -10060,10 +10632,12 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-mattress-vacuum-under-200": () => import("./guides/best-mattress-vacuum-under-200.json"),
   "best-mechanical-keyboard-and-mouse-combos": () => import("./guides/best-mechanical-keyboard-and-mouse-combos.json"),
   "best-mechanical-keyboard-layouts-explained": () => import("./guides/best-mechanical-keyboard-layouts-explained.json"),
+  "best-mechanical-keyboard-under-100": () => import("./guides/best-mechanical-keyboard-under-100.json"),
   "best-mechanical-keyboard-under-50": () => import("./guides/best-mechanical-keyboard-under-50.json"),
   "best-mechanical-keyboards-for-mac": () => import("./guides/best-mechanical-keyboards-for-mac.json"),
   "best-mechanical-keyboards-with-number-pad": () => import("./guides/best-mechanical-keyboards-with-number-pad.json"),
   "best-mechanical-keyboards": () => import("./guides/best-mechanical-keyboards.json"),
+  "best-medical-alert-systems": () => import("./guides/best-medical-alert-systems.json"),
   "best-mesh-office-chair": () => import("./guides/best-mesh-office-chair.json"),
   "best-mesh-wifi-system-under-100": () => import("./guides/best-mesh-wifi-system-under-100.json"),
   "best-mesh-wifi-system-under-200": () => import("./guides/best-mesh-wifi-system-under-200.json"),
@@ -10077,6 +10651,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-microwaves-for-dorm-rooms": () => import("./guides/best-microwaves-for-dorm-rooms.json"),
   "best-microwaves-for-seniors": () => import("./guides/best-microwaves-for-seniors.json"),
   "best-microwaves-under-100": () => import("./guides/best-microwaves-under-100.json"),
+  "best-microwaves-with-large-displays": () => import("./guides/best-microwaves-with-large-displays.json"),
   "best-mini-chainsaw-under-100": () => import("./guides/best-mini-chainsaw-under-100.json"),
   "best-mini-chainsaw-under-150": () => import("./guides/best-mini-chainsaw-under-150.json"),
   "best-mini-chainsaw-under-200": () => import("./guides/best-mini-chainsaw-under-200.json"),
@@ -10095,14 +10670,17 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-modular-raised-garden-beds": () => import("./guides/best-modular-raised-garden-beds.json"),
   "best-monitor-arm-desk-mounts": () => import("./guides/best-monitor-arm-desk-mounts.json"),
   "best-monitor-arm-mounts-under-50": () => import("./guides/best-monitor-arm-mounts-under-50.json"),
+  "best-monitor-arm-under-100": () => import("./guides/best-monitor-arm-under-100.json"),
   "best-monitor-arms-for-laptop": () => import("./guides/best-monitor-arms-for-laptop.json"),
   "best-monitor-arms": () => import("./guides/best-monitor-arms.json"),
   "best-monitor-light-bars-for-gaming": () => import("./guides/best-monitor-light-bars-for-gaming.json"),
+  "best-monitor-light-bars-under-50": () => import("./guides/best-monitor-light-bars-under-50.json"),
   "best-monitor-privacy-screen-protectors": () => import("./guides/best-monitor-privacy-screen-protectors.json"),
   "best-monitor-privacy-screens-under-100": () => import("./guides/best-monitor-privacy-screens-under-100.json"),
   "best-monitor-privacy-screens-under-150": () => import("./guides/best-monitor-privacy-screens-under-150.json"),
   "best-monitor-privacy-screens-under-75": () => import("./guides/best-monitor-privacy-screens-under-75.json"),
   "best-monitor-privacy-screens": () => import("./guides/best-monitor-privacy-screens.json"),
+  "best-monitor-under-100": () => import("./guides/best-monitor-under-100.json"),
   "best-monitor-under-300": () => import("./guides/best-monitor-under-300.json"),
   "best-monochrome-laser-printers-for-home-offices": () => import("./guides/best-monochrome-laser-printers-for-home-offices.json"),
   "best-motion-sensor-light-under-100": () => import("./guides/best-motion-sensor-light-under-100.json"),
@@ -10144,6 +10722,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-office-chair-for-back-pain": () => import("./guides/best-office-chair-for-back-pain.json"),
   "best-office-chair-for-short-people": () => import("./guides/best-office-chair-for-short-people.json"),
   "best-office-chair-for-tall-person": () => import("./guides/best-office-chair-for-tall-person.json"),
+  "best-office-chair-under-100": () => import("./guides/best-office-chair-under-100.json"),
   "best-office-chair-under-300": () => import("./guides/best-office-chair-under-300.json"),
   "best-office-chair-under-500": () => import("./guides/best-office-chair-under-500.json"),
   "best-office-chairs-for-big-and-tall-users": () => import("./guides/best-office-chairs-for-big-and-tall-users.json"),
@@ -10160,11 +10739,13 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-office-supply-carts-under-150": () => import("./guides/best-office-supply-carts-under-150.json"),
   "best-office-supply-organizer-carts": () => import("./guides/best-office-supply-organizer-carts.json"),
   "best-oled-tvs": () => import("./guides/best-oled-tvs.json"),
+  "best-one-touch-microwaves": () => import("./guides/best-one-touch-microwaves.json"),
   "best-outdoor-storage-shed-under-1500": () => import("./guides/best-outdoor-storage-shed-under-1500.json"),
   "best-outdoor-storage-shed-under-500": () => import("./guides/best-outdoor-storage-shed-under-500.json"),
   "best-over-the-range-microwaves": () => import("./guides/best-over-the-range-microwaves.json"),
   "best-overhead-phone-arms-for-desks-under-40": () => import("./guides/best-overhead-phone-arms-for-desks-under-40.json"),
   "best-panasonic-cordless-phones": () => import("./guides/best-panasonic-cordless-phones.json"),
+  "best-pant-hangers": () => import("./guides/best-pant-hangers.json"),
   "best-paper-shredders-for-credit-cards": () => import("./guides/best-paper-shredders-for-credit-cards.json"),
   "best-paper-shredders-for-staples-and-paper-clips": () => import("./guides/best-paper-shredders-for-staples-and-paper-clips.json"),
   "best-paper-shredders-on-wheels": () => import("./guides/best-paper-shredders-on-wheels.json"),
@@ -10253,6 +10834,9 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-professional-grade-carpet-cleaners": () => import("./guides/best-professional-grade-carpet-cleaners.json"),
   "best-professional-leaf-blowers": () => import("./guides/best-professional-leaf-blowers.json"),
   "best-programmable-coffee-makers": () => import("./guides/best-programmable-coffee-makers.json"),
+  "best-projectors-under-1500": () => import("./guides/best-projectors-under-1500.json"),
+  "best-projectors-under-200": () => import("./guides/best-projectors-under-200.json"),
+  "best-projectors-under-500": () => import("./guides/best-projectors-under-500.json"),
   "best-pure-sine-wave-ups": () => import("./guides/best-pure-sine-wave-ups.json"),
   "best-push-button-start-lawn-mowers": () => import("./guides/best-push-button-start-lawn-mowers.json"),
   "best-quiet-ergonomic-keyboards": () => import("./guides/best-quiet-ergonomic-keyboards.json"),
@@ -10266,12 +10850,15 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-raised-garden-beds-for-patios": () => import("./guides/best-raised-garden-beds-for-patios.json"),
   "best-raised-garden-beds-on-wheels": () => import("./guides/best-raised-garden-beds-on-wheels.json"),
   "best-raised-planter-boxes": () => import("./guides/best-raised-planter-boxes.json"),
+  "best-raised-planters-under-50": () => import("./guides/best-raised-planters-under-50.json"),
   "best-reception-desks-with-drawers": () => import("./guides/best-reception-desks-with-drawers.json"),
   "best-rechargeable-personal-sound-amplifiers": () => import("./guides/best-rechargeable-personal-sound-amplifiers.json"),
   "best-reclining-office-chairs-with-footrests": () => import("./guides/best-reclining-office-chairs-with-footrests.json"),
   "best-removable-monitor-privacy-screens": () => import("./guides/best-removable-monitor-privacy-screens.json"),
   "best-rgb-laptop-cooling-pads": () => import("./guides/best-rgb-laptop-cooling-pads.json"),
+  "best-rice-cooker-under-100": () => import("./guides/best-rice-cooker-under-100.json"),
   "best-rice-cooker-under-200": () => import("./guides/best-rice-cooker-under-200.json"),
+  "best-rice-cooker-under-50": () => import("./guides/best-rice-cooker-under-50.json"),
   "best-ring-alternatives": () => import("./guides/best-ring-alternatives.json"),
   "best-ring-video-doorbells": () => import("./guides/best-ring-video-doorbells.json"),
   "best-roborock-robot-vacuums": () => import("./guides/best-roborock-robot-vacuums.json"),
@@ -10329,6 +10916,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-silent-laptop-cooling-pads": () => import("./guides/best-silent-laptop-cooling-pads.json"),
   "best-simple-cell-phones-for-seniors": () => import("./guides/best-simple-cell-phones-for-seniors.json"),
   "best-skylight-digital-photo-frames": () => import("./guides/best-skylight-digital-photo-frames.json"),
+  "best-slow-cooker-under-200": () => import("./guides/best-slow-cooker-under-200.json"),
   "best-small-carpet-cleaners": () => import("./guides/best-small-carpet-cleaners.json"),
   "best-small-garden-carts": () => import("./guides/best-small-garden-carts.json"),
   "best-small-handheld-vacuums": () => import("./guides/best-small-handheld-vacuums.json"),
@@ -10362,6 +10950,8 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-soundbars": () => import("./guides/best-soundbars.json"),
   "best-space-saving-hangers": () => import("./guides/best-space-saving-hangers.json"),
   "best-split-ergonomic-keyboards": () => import("./guides/best-split-ergonomic-keyboards.json"),
+  "best-ssd-enclosures-under-30": () => import("./guides/best-ssd-enclosures-under-30.json"),
+  "best-ssd-enclosures-under-50": () => import("./guides/best-ssd-enclosures-under-50.json"),
   "best-ssd-nas-for-fast-file-access": () => import("./guides/best-ssd-nas-for-fast-file-access.json"),
   "best-stainless-steel-air-fryers": () => import("./guides/best-stainless-steel-air-fryers.json"),
   "best-stainless-steel-electric-kettles": () => import("./guides/best-stainless-steel-electric-kettles.json"),
@@ -10369,6 +10959,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-standalone-no-computer-needed-drawing-tablets": () => import("./guides/best-standalone-no-computer-needed-drawing-tablets.json"),
   "best-standing-desk-converters": () => import("./guides/best-standing-desk-converters.json"),
   "best-standing-desk-treadmill": () => import("./guides/best-standing-desk-treadmill.json"),
+  "best-standing-desk-under-1000": () => import("./guides/best-standing-desk-under-1000.json"),
   "best-standing-desks-for-heavy-setups": () => import("./guides/best-standing-desks-for-heavy-setups.json"),
   "best-standing-desks-for-two-people": () => import("./guides/best-standing-desks-for-two-people.json"),
   "best-standing-desks-under-1000": () => import("./guides/best-standing-desks-under-1000.json"),
@@ -10386,6 +10977,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-tablets-for-low-vision-seniors": () => import("./guides/best-tablets-for-low-vision-seniors.json"),
   "best-tablets-for-reading": () => import("./guides/best-tablets-for-reading.json"),
   "best-tablets-for-seniors": () => import("./guides/best-tablets-for-seniors.json"),
+  "best-tablets-under-100": () => import("./guides/best-tablets-under-100.json"),
   "best-talking-clock-under-100": () => import("./guides/best-talking-clock-under-100.json"),
   "best-talking-clock-under-25": () => import("./guides/best-talking-clock-under-25.json"),
   "best-talking-clock-under-75": () => import("./guides/best-talking-clock-under-75.json"),
@@ -10461,7 +11053,10 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-vacuum-mops-for-pet-hair": () => import("./guides/best-vacuum-mops-for-pet-hair.json"),
   "best-vacuum-mops-for-seniors": () => import("./guides/best-vacuum-mops-for-seniors.json"),
   "best-vacuum-mops": () => import("./guides/best-vacuum-mops.json"),
+  "best-vacuum-sealer-under-100": () => import("./guides/best-vacuum-sealer-under-100.json"),
+  "best-vacuum-sealer-under-150": () => import("./guides/best-vacuum-sealer-under-150.json"),
   "best-vacuum-sealer-under-200": () => import("./guides/best-vacuum-sealer-under-200.json"),
+  "best-vacuum-sealer-under-50": () => import("./guides/best-vacuum-sealer-under-50.json"),
   "best-variable-temperature-electric-kettles": () => import("./guides/best-variable-temperature-electric-kettles.json"),
   "best-vax-carpet-cleaner-alternatives": () => import("./guides/best-vax-carpet-cleaner-alternatives.json"),
   "best-vertical-docking-stations-for-clean-desk-setups": () => import("./guides/best-vertical-docking-stations-for-clean-desk-setups.json"),
@@ -10490,6 +11085,8 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-weather-station-under-200": () => import("./guides/best-weather-station-under-200.json"),
   "best-weather-station-under-300": () => import("./guides/best-weather-station-under-300.json"),
   "best-weather-station-under-500": () => import("./guides/best-weather-station-under-500.json"),
+  "best-webcam-under-30": () => import("./guides/best-webcam-under-30.json"),
+  "best-webcam-under-50": () => import("./guides/best-webcam-under-50.json"),
   "best-weed-pullers-for-garden-beds": () => import("./guides/best-weed-pullers-for-garden-beds.json"),
   "best-weed-pullers-for-hard-soil": () => import("./guides/best-weed-pullers-for-hard-soil.json"),
   "best-weed-pullers-for-seniors": () => import("./guides/best-weed-pullers-for-seniors.json"),
@@ -10499,6 +11096,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-wet-dry-vacuums-for-carpet": () => import("./guides/best-wet-dry-vacuums-for-carpet.json"),
   "best-wet-dry-vacuums-with-blower-functions": () => import("./guides/best-wet-dry-vacuums-with-blower-functions.json"),
   "best-wet-dry-vacuums": () => import("./guides/best-wet-dry-vacuums.json"),
+  "best-white-office-credenzas": () => import("./guides/best-white-office-credenzas.json"),
   "best-whole-house-humidifiers-under-500": () => import("./guides/best-whole-house-humidifiers-under-500.json"),
   "best-whynter-portable-air-conditioners": () => import("./guides/best-whynter-portable-air-conditioners.json"),
   "best-wi-fi-air-quality-monitors": () => import("./guides/best-wi-fi-air-quality-monitors.json"),
@@ -10521,6 +11119,8 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-wireless-tv-headphones-under-100": () => import("./guides/best-wireless-tv-headphones-under-100.json"),
   "best-wireless-vertical-mice": () => import("./guides/best-wireless-vertical-mice.json"),
   "best-wolf-toaster-ovens": () => import("./guides/best-wolf-toaster-ovens.json"),
+  "best-wood-file-cabinets-under-200": () => import("./guides/best-wood-file-cabinets-under-200.json"),
+  "best-wood-file-cabinets-under-500": () => import("./guides/best-wood-file-cabinets-under-500.json"),
   "best-worx-leaf-blowers": () => import("./guides/best-worx-leaf-blowers.json"),
   "best-zafro-portable-air-conditioners": () => import("./guides/best-zafro-portable-air-conditioners.json"),
 };
