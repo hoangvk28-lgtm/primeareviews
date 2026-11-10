@@ -90,6 +90,7 @@ Guide pages emit `Article` (author = Organization "Primea Reviews Editorial Team
 ## 6. Affiliate Compliance
 
 - All Amazon links: `target="_blank" rel="noopener noreferrer sponsored"` and `?tag=primeareviews-amz-20`.
+- The tag is hardcoded in **three** places that must always agree: `AMAZON_TAG` in `lib/site.ts`, the `TAG` constant in `scripts/rewrite-guides.mjs` (it goes into the rewrite prompt), and the assertion in `scripts/check-guides.mjs`. If the tag ever changes, update all three in the same commit, then run `grep -rn "tag=" data/guides | grep -v primeareviews-amz-20` to catch guides written with the previous tag. A batch generated while `rewrite-guides.mjs` still holds the old tag will produce hundreds of `check` failures; fix it with a sed over `data/guides/`, not by relaxing the check.
 - Disclosure note sits under every guide header (already in `GuidePage.tsx`); `/affiliate-disclosure` linked in the footer.
 - **Never display Amazon star ratings or review counts**, in UI or prose.
 - **Never write exact prices** (`$23.99`). Use buckets ("under $50", "$50 to $100"). The `price` field may exist in JSON for internal use but must never render.
