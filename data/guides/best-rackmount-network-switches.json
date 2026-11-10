@@ -22,7 +22,7 @@
       "name": "TP-Link TL-SG3452P 48-Port L2+ Managed PoE Switch",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/31Y8GW4ubPL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B092CK2366?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B092CK2366?tag=primeareviews-amz-20",
       "verdict": "A 48-port L2+ managed switch with 384W of PoE+ budget, four SFP slots and a 5-year warranty.",
       "description": "The SG3452P is a 48-port L2+ managed switch where every port supplies PoE+, backed by a 384W power budget. It adds four SFP slots for fiber or fast uplinks, static routing and a 5-year warranty. Expect to pay $500+.\n\nIt takes first place because it is the only switch here that handles power, management and uplinks together. L2+ means it does Layer 2 switching plus basic Layer 3 features such as static routing, which lets it route between VLANs without a separate router. The 384W budget is the number to understand: 48 ports could each want up to the PoE+ maximum, but the budget is shared, so a camera-heavy install can hit the ceiling. Against the SG2452LP, you pay more for the higher PoE rating.\n\nBuy it for an office with access points, cameras and phones. Skip it if you only need to move data, since the premium buys power and management you will not use.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "TP-Link SG2452LP 48-Port Omada Managed Switch",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/31lHCOc4OrL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F7M592CC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F7M592CC?tag=primeareviews-amz-20",
       "verdict": "A fanless 48-port Omada SDN switch with a 5-year warranty and CISA Secure-by-Design pledge.",
       "description": "The SG2452LP is a 48-port managed switch built for TP-Link's Omada software-defined networking system. It is fanless, carries a 5-year warranty, and the maker is a CISA Secure-by-Design signatory. Expect to pay $200 to $500.\n\nIt sits second because it is the cheaper route to managed 48-port switching, especially if you already run Omada access points or a gateway. Omada lets you manage switches, access points and routers from one controller, which saves time across a site. Being fanless is a real advantage in an office closet, since a rack switch fan is often the loudest part of a small rack. Against the SG3452P, the listing does not state a PoE budget or SFP details, so confirm those on the product page.\n\nBuy it if you are building around Omada. Skip it if you want a switch that runs without a controller.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "TP-Link TL-SG1048 48-Port Gigabit Switch",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31yHx8lpA5L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B004UBUJZG?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B004UBUJZG?tag=primeareviews-amz-20",
       "verdict": "A 48-port gigabit rackmount switch with 96Gbps non-blocking capacity and a 3-year warranty.",
       "description": "The TL-SG1048 is a 48-port gigabit rackmount switch with 96Gbps non-blocking capacity, an 8K MAC address table and fanless cooling. It carries a 3-year warranty at $200 to $500.\n\nIt sits third because it does the simple job well: connect a lot of wired devices at full speed. The 96Gbps figure is 48 ports at 1Gbps in both directions, which means the switch can carry every port flat out without dropping packets. An 8K MAC table is large enough for a small office and home lab, where you may run a few hundred devices. It is unmanaged, so no VLANs and no monitoring, and that is where the SG2452LP outranks it.\n\nBuy it for a patch-panel replacement in a school, office or workshop. Skip it if you need VLANs, PoE or remote visibility.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TP-Link TL-SG1024S 24-Port Gigabit Switch",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/41os9hHiVZL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0779R9LJ3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0779R9LJ3?tag=primeareviews-amz-20",
       "verdict": "A fanless, EMI-shielded 24-port 1U switch in an 11.6 x 7.1 x 1.7 inch metal case.",
       "description": "The TL-SG1024S is a 24-port gigabit switch in a 1U metal case measuring 11.6 x 7.1 x 1.7 inches, fanless and EMI-shielded. Expect to pay $50 to $100.\n\nIt sits fourth because it is a clean, compact 24-port option. The 11.6 inch width is narrower than a standard 19 inch rack, so confirm the mounting ears or bracket that come with it; some owners buy a shelf instead. EMI shielding reduces interference with nearby audio or radio gear, which can matter in a workshop. Compared with the NETGEAR GS324, the listing makes no mention of desktop or wall mounting, so it is more rack-first.\n\nBuy it for a small rack or closet with a few dozen devices. Skip it if you need PoE or VLANs.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "NETGEAR GS324 24-Port Gigabit Unmanaged Switch",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31lC+ejtY7L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08QDVSWX4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08QDVSWX4?tag=primeareviews-amz-20",
       "verdict": "A fanless 24-port unmanaged switch that mounts on a desk, wall or rack.",
       "description": "The NETGEAR GS324 is a 24-port gigabit unmanaged switch that is fanless and can be placed on a desk, a wall or a rack. It uses auto-negotiating ports and supports EEE energy-saving. Expect to pay $50 to $100.\n\nIt sits fifth because the flexibility is its strength. You can start on a shelf, then move into a rack later without buying a new switch. Auto-negotiating ports adjust their speed to the device, so older 100 megabit gear works alongside gigabit. EEE, or Energy Efficient Ethernet, lowers idle power, which matters if the switch runs all year. It has no management, so no VLANs, and it ranks below the TL-SG1024S only because that listing describes a metal EMI-shielded case.\n\nBuy it if you are unsure where it will live. Skip it for PoE needs.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "UGREEN 24-Port Rackmount Gigabit Switch",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/31dzYTHcfdL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G4CKXNTQ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G4CKXNTQ?tag=primeareviews-amz-20",
       "verdict": "A fanless 24-port rack switch with four switchable working modes and 6KV surge protection.",
       "description": "The UGREEN 24-Port is a rackmount gigabit switch that is fanless, with 6KV surge protection and four switchable working modes. Expect to pay $50 to $100.\n\nIt sits sixth because the modes are interesting but poorly explained on the listing. Switchable modes on a small switch usually include a standard mode, a mode that prioritizes certain ports, and an isolation mode that stops ports talking to each other. Confirm the exact set before relying on them. The 6KV surge protection is a useful safety margin for a rack in a garage or outbuilding, where lightning-induced surges are a risk. The brand is newer in networking than TP-Link or NETGEAR.\n\nBuy it if you want mode switching on a budget. Skip it if you value an established support network.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "UGREEN 16-Port Rackmount Gigabit Switch",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/314H79Tus0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G4CLYSYQ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G4CLYSYQ?tag=primeareviews-amz-20",
       "verdict": "A fanless 16-port version of the UGREEN rack switch with the same modes and surge protection.",
       "description": "The UGREEN 16-Port is the smaller sibling of the 24-port model, with the same four switchable working modes, 6KV surge protection and fanless design. Expect to pay $50 to $100.\n\nIt sits seventh because the price gap between 16 and 24 ports is small, and the extra eight ports are cheap insurance. Many racks fill faster than their owners expect, as every access point, camera and printer wants a port. On a 16-port switch, you also need to leave a port or two for an uplink, which leaves 14 usable. Compared with the Tenda 16-port, you get surge protection and modes, but the listing offers fewer capacity figures.\n\nBuy it for a small rack with a firm port count. Otherwise, buy the 24-port.",
       "keySpecs": [
@@ -309,7 +309,7 @@
       "name": "Tenda TEG1016D 16-Port Gigabit Switch",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/31QcO76IyWL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B006KAP4EG?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B006KAP4EG?tag=primeareviews-amz-20",
       "verdict": "A 16-port gigabit switch with 10K jumbo frames, 32Gbps capacity and 6KV lightning protection.",
       "description": "The Tenda TEG1016D is a 16-port gigabit switch with 10K jumbo frame support, 32Gbps switching capacity and 6KV lightning protection. Expect to pay $25 to $50, which makes it the cheapest switch here.\n\nIt sits last because it is the plainest model, but it covers the basics for little money. A 32Gbps figure is 16 ports at 1Gbps in both directions, so it is fully non-blocking. Jumbo frames let large transfers use bigger packets, which can help with a NAS or backups, as long as every device on the path supports them. The 6KV protection is a useful extra at this price. Tenda has less support reach than TP-Link or NETGEAR.\n\nBuy it for a budget rack or NAS backbone. Skip it if you need management.",
       "keySpecs": [

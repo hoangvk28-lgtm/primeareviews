@@ -22,7 +22,7 @@
       "name": "ACASIS 40Gbps M.2 NVMe SSD Enclosure with Cooling Fan (TBU405 Pro)",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/41yCHYDUiqL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8CZB5S7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8CZB5S7?tag=primeareviews-amz-20",
       "verdict": "A certified Intel JHL7440 chip, an active fan and listed testing on M1, M2 and M3 Macs and iPad Pro.",
       "description": "The TBU405 Pro uses a certified Intel JHL7440 chip, an active cooling fan with a manual switch, and the listing says it has been tested with M1, M2 and M3 Macs and the iPad Pro. The Intel part is the point: it is a true Thunderbolt controller rather than a third-party USB4 bridge.\n\nIt takes first place because Mac users, who see the most trouble with unusual enclosure controllers, have the best reason to prefer a certified Intel chip. The fan helps hold speed on long transfers such as a multi-gigabyte video export, and the manual switch lets you turn it off for quiet work. The compromises are fan noise when it runs, and a listing that does not mention a long warranty.\n\nBuy it if you edit video or move big project files on a Mac and want a Thunderbolt-certified chip. Skip it if you want a silent passive enclosure.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "SABRENT USB4 NVMe SSD Enclosure (EC-U4TN)",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/41NrjkgBHgL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FVPMBYCS?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FVPMBYCS?tag=primeareviews-amz-20",
       "verdict": "3,900MB/s over USB4 and 2,700MB/s over Thunderbolt, cooled by a fan, for PCIe NVMe only.",
       "description": "The EC-U4TN lists 3,900MB/s over USB4 and 2,700MB/s over Thunderbolt, with an integrated active cooling fan. It accepts PCIe NVMe drives only, with no SATA M.2 support.\n\nIt ranks second because it states both its USB4 and Thunderbolt numbers, which is honest and useful: a Thunderbolt port will run slower than a USB4 port on this enclosure. That makes it a good partner for a fast PCIe Gen4 drive on a modern PC, where the 3,900MB/s figure applies. The narrow focus is the downside, since an older SATA M.2 drive simply will not work in it.\n\nBuy it if you own a Gen4 NVMe SSD and a USB4 port, and want the most speed available at this price. Check that your SSD is NVMe and not SATA before ordering.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Satechi USB4 NVMe SSD Pro Enclosure",
       "score": 89,
       "imageUrl": "https://m.media-amazon.com/images/I/41Szlhl10ZL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BYPVNBTQ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BYPVNBTQ?tag=primeareviews-amz-20",
       "verdict": "Up to 16TB, up to 3,840MB/s, a full accessory bundle and a 2-year warranty.",
       "description": "The Satechi Pro supports drives up to 16TB in 2230 to 2280 lengths, over PCIe Gen 4 by 4 at up to 3,840MB/s. It comes with a full accessory bundle and a 2-year limited warranty.\n\nIt ranks third because the capacity ceiling and the bundle are unique in this group. If you are shopping for a 10TB class drive, many enclosures are not rated for it, and Satechi lists 16TB outright. A named brand with a stated 2-year warranty also gives you somewhere to go if a unit fails. It trails the Sabrent only on the cooling story, since the listing does not highlight active cooling.\n\nBuy it if you use very large SSDs and want a documented warranty with a complete accessory kit. Expect heat on long transfers if there is no active fan.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Lexar E750 40Gbps M.2 NVMe SSD Enclosure",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/41XjivlyqZL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DQD5ZSD3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DQD5ZSD3?tag=primeareviews-amz-20",
       "verdict": "An aircraft-grade aluminum body, Thunderbolt 4 tested, 3800MB/s rated and a 2-year warranty.",
       "description": "The E750 has an aluminum body that the listing calls aircraft-grade, a rated speed of up to 3800MB/s, Thunderbolt 4 testing and a 2-year limited warranty. Lexar is a known storage brand, which matters when you need support.\n\nIt ranks fourth because it gets the brand and warranty right, and loses ground on documentation: the listing gives no controller name and no drive-length support in the summary. An aluminum shell conducts heat out of the SSD without a fan, so it stays quiet, but a passive design can throttle on very long transfers.\n\nBuy it if you want a quiet enclosure from a recognized maker with a clear warranty. Choose a fan-cooled model instead if you copy hundreds of gigabytes in one go.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Rosewill 40Gbps M.2 NVMe SSD Enclosure",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/3181Im0e4IL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FV1PNJ5B?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FV1PNJ5B?tag=primeareviews-amz-20",
       "verdict": "An ASM2464PD controller rated for up to 4 hours of full-speed use and drives up to 8TB.",
       "description": "The Rosewill uses the ASM2464PD controller, is rated for up to 4 hours of full-speed use, and supports drives up to 8TB in 2230 to 2280 lengths. The four-hour claim is the unusual one, since most listings say nothing about sustained speed.\n\nIt ranks fifth because ASM2464PD is a well-known USB4 bridge chip, but the brand has a lower profile in storage than Lexar or Sabrent. The sustained-use rating is promising for long backups and large project archives. Treat it as a rated figure, not a measured result, and remember that real speed also depends on the SSD inside.\n\nBuy it if you run multi-hour transfers and care more about endurance than a brand name. Check the return window in case your drive and controller do not get along.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Cable Matters 40Gbps USB4 / Thunderbolt 4 SSD Enclosure",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/51KNvure+OL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DBYCDPWG?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DBYCDPWG?tag=primeareviews-amz-20",
       "verdict": "The cheapest 40Gbps option here, with a temperature-controlled fan but single-sided SSDs only.",
       "description": "The Cable Matters enclosure uses an ASM-class controller rated at 40Gbps, with an active temperature-controlled fan. It accepts single-sided M.2 drives only, up to 2280, and sits in the $25 to $50 bracket.\n\nIt ranks last because the single-sided limitation is a real catch. Many high-capacity SSDs use chips on both sides of the board, and those will not fit. If your drive is 1TB or 2TB single-sided, it works well and costs very little. The temperature-controlled fan only runs when needed, which is a smarter design than a fan that spins constantly.\n\nBuy it if you have a standard single-sided drive and want the cheapest way into 40Gbps. Check that your SSD is single-sided before you order.",
       "keySpecs": [
@@ -460,6 +460,6 @@
   "related": [
     "best-usb4-nvme-enclosures-under-100",
     "best-nvme-enclosures",
-    "best-thunderbolt-nvme-enclosures"
+    "best-nvme-enclosures-under-100"
   ]
 }

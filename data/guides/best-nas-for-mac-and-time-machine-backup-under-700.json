@@ -22,7 +22,7 @@
       "name": "Synology DS225+ Private Cloud Media Server",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FB7KQLR1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FB7KQLR1?tag=primeareviews-amz-20",
       "verdict": "A two-bay Synology with an Intel CPU, hardware transcoding and the most polished Time Machine setup.",
       "description": "The DS225+ is a diskless two-bay NAS with an Intel CPU, hardware transcoding and a native DSM flow for setting up Time Machine. It falls between $200 and $500 before drives.\n\nIt takes first place because Time Machine on a Mac is mostly a software problem, and DSM is the most refined software in this group. You create a shared folder, enable Time Machine from the file service settings and pick the NAS as your backup destination. Two bays let you mirror a pair of drives, so a single disk failure does not lose your history. Hardware transcoding is a bonus if you also stream video.\n\nBuy it for a family Mac backup server that also serves media. Skip it if you want the fastest possible network ports.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Asustor AS5402T, 2-Bay NAS",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/31LwADnr-0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C5MB5MTS?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C5MB5MTS?tag=primeareviews-amz-20",
       "verdict": "An Intel quad-core, 4GB of RAM, four M.2 cache slots and dual 2.5GbE ports.",
       "description": "The AS5402T is a two-bay NAS with a 2.0GHz Intel quad-core CPU, 4GB of DDR4 RAM, four M.2 NVMe SSD cache slots and dual 2.5GbE network ports. It falls between $200 and $500.\n\nIt ranks second because it has the most detailed and strongest spec sheet. NVMe caching can speed up repeated access to frequently used files, and dual 2.5GbE gives you either faster links or link aggregation if your network supports it. For Time Machine, the first full backup is the slow one, and a faster network shortens it. The compromise is software: Asustor's operating system is less widely documented than Synology's DSM.\n\nChoose it if you want headroom and speed. Skip it if you value the easiest Mac setup.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "UGREEN NAS DXP2800 2-Bay",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=primeareviews-amz-20",
       "verdict": "A two-bay UGREEN NAS aimed at creators who need active project storage alongside backup.",
       "description": "The DXP2800 is a two-bay UGREEN NAS running UGREEN's own NAS operating system, positioned for content creator workflows. It falls between $200 and $500.\n\nIt ranks third because it targets a specific buyer: someone who edits video or photos and wants project storage on the network plus standard Time Machine backups. UGREEN is a newer name in NAS, so the software has a shorter track record and a smaller body of tutorials than Synology. The listing gives limited technical detail.\n\nBuy it if you are a creator who wants shared project storage. Skip it if you want a long-established platform.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Synology 4-Bay DiskStation DS925+",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-amz-20",
       "verdict": "Synology's newest 4-bay with a native Time Machine flow and the longest expected support window.",
       "description": "The DS925+ is a diskless four-bay Synology, described as the current flagship with a native DSM Time Machine setup and the longest expected official support lifecycle. It is priced at $500 and up.\n\nIt ranks fourth because four bays are more than most Mac backups need, and with drives the total can pass your $700 limit. The advantage is longevity. Newer Synology hardware tends to receive software updates for longer, and four bays let you dedicate separate drives to Time Machine and to everything else.\n\nBuy it if you plan to grow. Skip it if you only need to back up a couple of Macs.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Synology DS425+ Private Cloud Media Server",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31lHPxvOiEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F895RV3K?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F895RV3K?tag=primeareviews-amz-20",
       "verdict": "A four-bay diskless Synology that lets you dedicate bays to Time Machine and to other storage.",
       "description": "The DS425+ is a four-bay diskless NAS with Synology's well-documented DSM software and a native Time Machine setup flow. It is priced at $500 and up.\n\nIt ranks fifth because the DS925+ is the newer four-bay model and it matches the function while costing about the same on paper. Its strength is flexibility: with four bays you can dedicate two drives to Time Machine and two to media or files, without mixing the two.\n\nChoose it if you want separate bay groups. Skip it if the newer DS925+ is available at a similar price.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "UGREEN NAS DXP4800 Plus 4-Bay",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D22JRHZB?tag=primeareviews-amz-20",
       "verdict": "A four-bay UGREEN with a 5-core Intel Pentium Gold 8505, the strongest CPU here.",
       "description": "The DXP4800 Plus is a four-bay UGREEN NAS with a 5-core Intel Pentium Gold 8505 processor and UGREEN's own NAS OS. It is priced at $500 and up.\n\nIt ranks last because Time Machine does not need a strong processor, so the CPU is only a benefit if you also run virtual machines, media servers and containers at once. The software is newer than Synology's, and the cost with drives is the highest in the group.\n\nBuy it if you run many services on one box. Skip it if you mainly want Mac backups.",
       "keySpecs": [

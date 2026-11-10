@@ -22,7 +22,7 @@
       "name": "GOLDENMATE 1000VA/800W Lithium UPS Battery Backup & Surge Protector, White",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/41lBJ4oYPfL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D5QSYK69?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D5QSYK69?tag=primeareviews-amz-20",
       "verdict": "The most real wattage at the 1000VA tier, in a compact lithium-battery case.",
       "description": "The GOLDENMATE is rated 1000VA and 800W and uses a lithium battery, with surge protection and a compact footprint. A gray version of the same unit is also sold. The 800W figure is the headline: it is well above the watts-to-VA ratio of the traditional lead-acid models in this group.\n\nIt takes the top spot because more watts at the same capacity tier means less risk of overload for a gaming or workstation PC, and lithium cells typically last longer than sealed lead-acid ones and weigh less. Against the CyberPower PFC below, it gives up what the listing does not promise, which is pure sine wave output, so check the product page for the waveform before connecting an active PFC power supply.\n\nBuy it if your PC draws more than a basic office machine and you want headroom. Be mindful that a newer product line has a shorter public track record than APC or CyberPower, so read the warranty terms.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "CyberPower CP1000PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/31nDi+6Lz+L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00429N192?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00429N192?tag=primeareviews-amz-20",
       "verdict": "Pure sine wave output with AVR and an LCD, aimed at PCs with active PFC power supplies.",
       "description": "The CP1000PFCLCD is a 1000VA-class unit with a PFC sinewave output, automatic voltage regulation and an LCD readout. It is listed as compatible with APFC power supplies, which is the reason this model exists.\n\nIt ranks second because waveform is the one spec that can actually cause trouble. Many cheaper backups produce a stepped, simulated sine wave on battery, and some active PFC power supplies in modern PCs can shut down or misbehave when fed that shape. A pure sine unit removes the question. It sits below the GOLDENMATE because the listing does not trumpet a higher wattage, and lead-acid runtime is limited.\n\nChoose it for a modern desktop with an APFC supply, and for anyone who wants to remove waveform risk. The caveat is cost: sine wave models carry a premium over the AVR-only units in this ranking.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "APC 1000VA/600W Pro UPS Battery Backup for Office Electronics, AVR, BX1000M",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31VPmugfqML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B06VY12HW4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B06VY12HW4?tag=primeareviews-amz-20",
       "verdict": "The standard, well-proven 1000VA pick for a basic office desktop.",
       "description": "The APC BX1000M is rated 1000VA and 600W, with AVR, multiple outlets and a listing that targets office electronics. It is the unit most IT buyers would name first, and it is the benchmark in the 1000VA class.\n\nIt lands third because the 600W figure is lower than the GOLDENMATE and the unit has no waveform claim to match the PFC model. What you get in return is an established platform with easy-to-find replacement batteries and a familiar warranty path. For a typical desktop, monitor and router, 600 watts is plenty.\n\nBuy it for an office PC that does not draw heavy GPU load. Skip it if you run a gaming rig or workstation that spikes above the 600W ceiling, and verify that your power supply works with a simulated sine wave.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "CyberPower CP1000AVRLCD Intelligent LCD UPS Battery Backup",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31DlLYCaalL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B000QZ3UG0?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B000QZ3UG0?tag=primeareviews-amz-20",
       "verdict": "A familiar CyberPower design with AVR, surge protection and a load-aware LCD.",
       "description": "The CP1000AVRLCD is a 1000VA-class unit with AVR, surge protection and an intelligent LCD that reports load and status. It is an established design in the CyberPower line, and it covers the usual desktop-and-router job.\n\nIt ranks fourth because it matches the APC on most counts and the LCD is its distinguishing feature. Seeing load and estimated runtime matters more than people expect, since it tells you whether the next monitor or printer will push the unit past its limit. It sits below the PFC model because the listing makes no sine wave claim, and below the APC for the plainer reason that the APC has a broader reputation in offices.\n\nPick it if you want visibility into load and runtime at a typical 1000VA price. If your PC uses an active PFC supply, spend a little more on the PFC variant.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "APC 850VA/510W Pro UPS Battery Backup for Office Electronics, AVR, BX850M",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31xnh5VoQ4L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B06WP9Q8ZN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B06WP9Q8ZN?tag=primeareviews-amz-20",
       "verdict": "A smaller 850VA/510W APC for buyers who want near-1000VA protection and a lower bill.",
       "description": "The BX850M is the smaller sibling at 850VA and 510W, with AVR and a compact form factor. It is not a 1000VA unit, and it is included because the buyers who shop at this tier often compare it against the BX1000M to save money.\n\nIt finishes fifth because 510W is the lowest usable power in the ranking, and the gap from the BX1000M is narrower than the price difference may suggest. It makes sense for a modest PC, a monitor and a router, where the load stays well below 400 watts and the extra capacity of the larger unit would sit unused.\n\nBuy it if you have a low-draw setup and want APC reliability for less. Skip it if you plan to add a second monitor, a printer or a more powerful graphics card, since you will outgrow the 510W ceiling quickly.",
       "keySpecs": [

@@ -40,7 +40,7 @@ for (const f of files) {
   for (const p of g.products) {
     if (p.pros.length < 3) fail(s, `${p.id}: fewer than 3 pros`);
     if (p.description.split("\n\n").length < 2) fail(s, `${p.id}: description needs 2-3 paragraphs`);
-    if (!p.amazonUrl.includes("tag=primeareviews-20")) fail(s, `${p.id}: amazonUrl missing primeareviews-20 tag`);
+    if (!p.amazonUrl.includes("tag=primeareviews-amz-20")) fail(s, `${p.id}: amazonUrl missing primeareviews-amz-20 tag`);
     if (p.score < 70 || p.score > 99) fail(s, `${p.id}: score ${p.score} out of range`);
   }
   const text = JSON.stringify({ ...g, products: g.products.map(({ price, ...p }) => p) });

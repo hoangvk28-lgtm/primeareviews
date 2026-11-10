@@ -15,7 +15,7 @@
 
 - **Site name:** Primea Reviews (`SITE_NAME` in `lib/site.ts`)
 - **Domain:** `https://www.primeareviews.com` (www is canonical; non-www → 301 in `next.config.ts`)
-- **Business model:** Amazon affiliate content site. Amazon tag: `primeareviews-20` (`AMAZON_TAG` in `lib/site.ts`). Never use the DeskFinds (`deskfinds0d-20`) or WorthRated (`worthrated-20`) tags.
+- **Business model:** Amazon affiliate content site. Amazon tag: `primeareviews-amz-20` (`AMAZON_TAG` in `lib/site.ts`). Never use the DeskFinds (`deskfinds0d-20`) or WorthRated (`worthrated-20`) tags.
 - **Positioning:** expert, decisive "ranked & reviewed" buying guides across home office, tech, home, kitchen, outdoor, health/mobility and seasonal categories. Every pick carries a **Primea Score** (0–100).
 - **Sister sites (content sources):** DeskFinds (`C:\Users\ADMIN\Downloads\Roo-Code-main\smartspace-picks`, ~6,200 guides) and WorthRated (`C:\Users\ADMIN\Downloads\BestFindsReviews`, ~5,400 guides). Primea reuses their product selections and ideas, but **all text must be rewritten**, never copied (see section 7).
 
@@ -89,7 +89,7 @@ Guide pages emit `Article` (author = Organization "Primea Reviews Editorial Team
 
 ## 6. Affiliate Compliance
 
-- All Amazon links: `target="_blank" rel="noopener noreferrer sponsored"` and `?tag=primeareviews-20`.
+- All Amazon links: `target="_blank" rel="noopener noreferrer sponsored"` and `?tag=primeareviews-amz-20`.
 - Disclosure note sits under every guide header (already in `GuidePage.tsx`); `/affiliate-disclosure` linked in the footer.
 - **Never display Amazon star ratings or review counts**, in UI or prose.
 - **Never write exact prices** (`$23.99`). Use buckets ("under $50", "$50 to $100"). The `price` field may exist in JSON for internal use but must never render.

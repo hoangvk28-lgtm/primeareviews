@@ -22,7 +22,7 @@
       "name": "WYZE Wired Doorbell Camera v2",
       "score": 95,
       "imageUrl": "https://m.media-amazon.com/images/I/31DOJR0HLxL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C896D28H?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C896D28H?tag=primeareviews-amz-20",
       "verdict": "2K wired video in the $50-100 bucket is hard to argue with.",
       "description": "The WYZE Wired Doorbell Camera v2 is a hardwired 2K doorbell in the $50 to $100 bucket. Two things make it the baseline most buyers want: video sharper than 1080p, which helps when you zoom on a face or a package label, and power from your wiring, which spares you battery charging and the dead-battery gaps that plague wireless doorbells.\n\nIt ranks first because it matches the Ring 2K Plus on resolution while costing less. The Blink 2K+ is cheaper still, but WYZE has the more established listing. The tradeoff against the Ring 4K Pro is plain: you give up 4K detail to stay in a lower price bucket.\n\nBuy it if you already have doorbell wiring and want strong value. The caveat is that our listing facts cover resolution and power only, so verify chime and storage options yourself. Skip it if you want 4K or have no wiring at the door.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Ring Wired Doorbell 4K Pro",
       "score": 91,
       "imageUrl": "https://m.media-amazon.com/images/I/21aR5kjPK9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F151GFYR?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F151GFYR?tag=primeareviews-amz-20",
       "verdict": "The only 4K wired doorbell in this ranking.",
       "description": "The Ring Wired Doorbell 4K Pro is a hardwired doorbell with 4K video, priced in the $100 to $200 bucket. Resolution is its headline spec and nothing else here matches it. More pixels matter for a doorbell because the view is wide and the subject, a face or a license plate across the street, may occupy a small slice of the frame.\n\nIt lands below the WYZE because you pay at least a bucket more for the extra detail, and many porch views are already sharp at 2K. Against the Ring 2K Plus, it is the clear step up for similar money, which makes it the better Ring if you buy the brand.\n\nBuy it if image detail is the point and the budget allows. The caveat is Wi-Fi: 4K only helps if the signal at your door can carry it. Skip it if 2K is enough and you want to stay under $100.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Blink Wired Doorbell 2K+",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31KMkuD8v4L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G62LKVGT?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G62LKVGT?tag=primeareviews-amz-20",
       "verdict": "The cheapest 2K wired doorbell in the group.",
       "description": "The Blink Wired Doorbell 2K+ offers 2K video on wired power in the $25 to $50 bucket, the lowest price tier in this ranking. Hardwired operation means no battery swaps, and the 2K label puts it level with the WYZE and the Ring 2K Plus on resolution. It is the cheapest way here into a wired video doorbell.\n\nIt sits third because the WYZE gives you the same resolution with a more established spec listing, while the Blink wins purely on cost. Against the Ring 2K Plus, it saves a couple of price buckets for the same listed sharpness. The question is whether the missing detail matters to you.\n\nBuy it if price is the deciding factor. The caveat is thin documentation: we have no listed detail beyond resolution and power, so check chime, storage and subscription terms before ordering. Skip it if you want the most complete listing.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Ring Wired Doorbell 2K Plus",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/21lHiCq7mlL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GF68F2H6?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GF68F2H6?tag=primeareviews-amz-20",
       "verdict": "Ring's 2K wired option, at a $100-200 price.",
       "description": "The Ring Wired Doorbell 2K Plus is a 2K hardwired doorbell in the $100 to $200 bucket. It pairs Ring's app and camera lineup with transformer power, so a household already running Ring cameras can manage everything in one place.\n\nIt ranks fourth because the WYZE and Blink deliver the same resolution for less, while the Ring 4K Pro offers a real step up for a similar price. That leaves the 2K Plus in an awkward middle, the pick for people set on the Ring brand but not on 4K. You pay a premium for the ecosystem and the name, not for sharper video.\n\nBuy it if you want to stay inside the Ring ecosystem and do not need 4K. The caveat is the price premium over equally sharp rivals, so skip it if you shop on value alone.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/31KusgdSMGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0B7S1HMPC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0B7S1HMPC?tag=primeareviews-amz-20",
       "verdict": "The pick if you have an Ethernet cable at the door.",
       "description": "The REOLINK Video Doorbell PoE is a 2K doorbell powered over Ethernet, in the $100 to $200 bucket. One cable carries both power and data, so there is no transformer behind the chime and no dependence on Wi-Fi strength at the door. That combination makes it steady in homes where wireless signal fades near the entry.\n\nIt ranks last only because PoE needs a network run that many homes lack, unlike the transformer-powered picks above. If you do have that cable, it removes the need for doorbell wiring entirely, and the signal does not depend on Wi-Fi at the door. Without the cable, installation gets complicated fast.\n\nBuy it if a network cable already reaches your door or you are building a wired camera system. The caveat is the Ethernet requirement, and it costs more than the WYZE. Skip it if you only have a standard doorbell transformer.",
       "keySpecs": [
@@ -419,6 +419,6 @@
   "related": [
     "best-poe-video-doorbells",
     "best-ring-video-doorbells",
-    "best-video-doorbells-that-work-with-mechanical-chimes"
+    "best-video-doorbells-for-apartments"
   ]
 }

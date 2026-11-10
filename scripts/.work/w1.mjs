@@ -34,7 +34,7 @@ const picks=[
 ["Lowest cost here","Locking drawers","Metal build","Narrow footprint"],["Small top surface","No casters listed"],
 "Budget buyers with a compact inkjet.","You own a wide laser or all-in-one printer."],
 ];
-const products=picks.map((q,i)=>{const p=P(q[0]);return{id:q[0].toLowerCase().replace(/[^a-z0-9]+/g,"-"),rank:i+1,award:q[1],name:q[2],score:q[3],imageUrl:p.imageUrl,amazonUrl:`https://www.amazon.com/dp/${p.asin}?tag=primeareviews-20`,verdict:q[4],description:q[5],keySpecs:[q[6],q[7],q[8],q[9]].map(([label,value])=>({label,value})),pros:q[10],cons:q[11],idealFor:q[12],skipIf:q[13]}});
+const products=picks.map((q,i)=>{const p=P(q[0]);return{id:q[0].toLowerCase().replace(/[^a-z0-9]+/g,"-"),rank:i+1,award:q[1],name:q[2],score:q[3],imageUrl:p.imageUrl,amazonUrl:`https://www.amazon.com/dp/${p.asin}?tag=primeareviews-amz-20`,verdict:q[4],description:q[5],keySpecs:[q[6],q[7],q[8],q[9]].map(([label,value])=>({label,value})),pros:q[10],cons:q[11],idealFor:q[12],skipIf:q[13]}});
 const g={slug,category:"home-office",h1:"The 6 Best Printer Cabinets for Home Offices of 2026, Ranked & Reviewed",metaTitle:"Best Printer Cabinets 2026: Ranked & Reviewed",
 metaDescription:"Ranked and reviewed by Primea: six printer cabinets for home offices, compared on drawers, locks, casters and top space to find the right fit.",
 mainKeyword:"printer cabinets for home offices",publishedAt:"2026-11-01",updatedAt:"2026-11-01",readTime:"10 min",heroImage:F.heroImage,

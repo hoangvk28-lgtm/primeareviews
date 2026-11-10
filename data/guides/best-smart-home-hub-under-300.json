@@ -22,7 +22,7 @@
       "name": "Amazon Echo Hub (newest model), 8\", Redesigned with customizable control and Alexa+, Compatible with thousands of devices",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31I9FCE-O6L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BCR7M9KX?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BCR7M9KX?tag=primeareviews-amz-20",
       "verdict": "An 8-inch control panel for Alexa homes, with wide device compatibility and a clean touch interface.",
       "description": "The Echo Hub is an 8 inch touchscreen built to act as the control point for a connected home. Amazon lists customizable controls, Alexa+ support and compatibility with thousands of devices, in the $100 to $200 price range.\n\nIt wins because it solves the part of smart homes that frustrates families most, which is control for people who do not want to open an app. A wall-mounted or counter-top panel lets everyone in the house dim a light, check a camera or arm a lock with a tap. The tradeoff is that it lives inside Amazon's ecosystem. It is less suited to power users who want deep automations running locally, which is where Home Assistant Green comes in.\n\nBuy it if you already use Alexa and want one visible control point. Skip it if you prefer Google or Apple ecosystems or need local-only automations.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Home Assistant Green | Smart Home hub with Advanced Automation | Official Home Assistant Hardware",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41RSSYTqdVL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CXVKSG19?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CXVKSG19?tag=primeareviews-amz-20",
       "verdict": "The official Home Assistant box, for people who want automations that run in the house, not the cloud.",
       "description": "Home Assistant Green is the project's own hardware, listed as a smart home hub with advanced automation. It arrives ready to run the Home Assistant software. Expect a $200 to $500 outlay.\n\nIt ranks second because it offers the deepest control in this guide. Home Assistant works with a huge range of devices and runs automations locally, so lights, schedules and sensors keep working when the internet drops. The cost is a learning curve: you build dashboards and rules yourself, and radio dongles for Zigbee or Z-Wave are usually extra. That makes it a hobbyist favourite rather than a plug-and-play choice.\n\nChoose it if you enjoy tinkering and care about privacy. Skip it if you want a finished product that works the moment you plug it in.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Aeotec Smart Home Hub, Works as a SmartThings Hub, Z-Wave, Zigbee, Matter Gateway, Compatible with Alexa, Google Assistant, WiFi",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41ldEFvhZxL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08TWDNQ5Q?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08TWDNQ5Q?tag=primeareviews-amz-20",
       "verdict": "SmartThings hardware with Z-Wave, Zigbee and Matter, plus Alexa and Google support.",
       "description": "This Aeotec hub works as a SmartThings hub and lists Z-Wave, Zigbee and Matter gateway support, alongside compatibility with Alexa and Google Assistant. It is in the $100 to $200 range.\n\nIt takes third place because few hubs cover this many protocols. Z-Wave and Zigbee devices have been sold for years, so a house with older locks, sensors or switches can bring them into one system. Matter adds newer devices on top. Against the Hub2 V4 below, the radios are the whole difference: the older design includes Z-Wave, which the newer one lacks.\n\nThis is the buy for owners with a mix of old and new gear. Skip it if your devices are all Wi-Fi or Matter and you want a screen.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Amazon Echo Show 15 (newest model), Full HD 15.6\" kitchen hub for home organization, with built-in Fire TV, Designed for Alexa+",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31kYmnfM4wL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C5DPSW5Y?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C5DPSW5Y?tag=primeareviews-amz-20",
       "verdict": "A Full HD 15.6 inch kitchen display with Fire TV and Alexa+, more family organiser than hub.",
       "description": "The Echo Show 15 is a 15.6 inch Full HD display designed for the kitchen, with built-in Fire TV and Alexa+. Amazon positions it as a home organisation hub, Expect a $200 to $500 outlay.\n\nIt ranks fourth because it is a screen first and a hub second. The large panel is excellent for calendars, notes, cameras and smart home controls that the whole family can see, but it does not add Zigbee or Z-Wave radios of its own, as far as the listing shows. Compared with the smaller Echo Hub, you pay more for size and Fire TV rather than for extra compatibility.\n\nBuy it for a busy kitchen where a big shared display adds value. Skip it if you want a protocol-heavy controller.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Aeotec Smart Home Hub2 - V4, Works as a SmartThings Hub, Zigbee, Matter Gateway, Compatible with Alexa, Google Assistant, WiFi (No Z-Wave)",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31KTZc0066L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G3YCFLJT?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G3YCFLJT?tag=primeareviews-amz-20",
       "verdict": "The newer SmartThings hub, with Zigbee and Matter but no Z-Wave.",
       "description": "The Hub2 V4 is the newer Aeotec hub. It works as a SmartThings hub with Zigbee, a Matter gateway and Wi-Fi, and it is compatible with Alexa and Google Assistant. The listing says plainly that it does not include Z-Wave; expect to pay $100 to $200.\n\nIt ranks fifth because dropping Z-Wave narrows who it suits. If your sensors and locks are Zigbee or Matter, it is a modern and tidy controller. If you own Z-Wave devices, the older Aeotec hub above is the better choice.\n\nBuy it if your home is already Zigbee or Matter. Skip it if you rely on Z-Wave locks or switches.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Lutron Caseta Smart Hub Compatible with Alexa, Apple, Google Home, & More",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/41aNCvXBZRL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00XPW67ZM?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00XPW67ZM?tag=primeareviews-amz-20",
       "verdict": "A lighting-focused hub that talks to Alexa, Apple and Google Home.",
       "description": "The Lutron Caseta Smart Hub is the bridge for Lutron's Caseta dimmers and switches, and the listing says it works with Alexa, Apple and Google Home. It is in the $50 to $100 price range.\n\nIt ranks sixth because it is a specialist. If you run Caseta lighting it is excellent, as the hub keeps those dimmers responsive and ties them to whichever voice assistant you use. It does not act as a general smart home controller for other brands, so it cannot replace a SmartThings or Home Assistant box.\n\nBuy it if lighting is your main smart home goal. Skip it if you need a hub for locks, sensors and cameras.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Tapo CentralHub for Smart Devices, H500, Improves Camera AI Accuracy",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/21+LPbrXtOL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F77JHSMV?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F77JHSMV?tag=primeareviews-amz-20",
       "verdict": "A hub for Tapo gear that is said to improve camera AI accuracy.",
       "description": "The Tapo H500 is a central hub for Tapo smart devices, and the listing says it improves camera AI accuracy. It is in the $100 to $200 price range.\n\nIt ranks last because it is aimed at one ecosystem. For anyone with Tapo cameras and sensors, a central hub can offload some work and give more consistent detection. For everyone else, it is a narrow tool, and the listing gives few details on protocols or voice assistants.\n\nChoose it if your home is built around Tapo cameras. Skip it if you want a general-purpose smart home hub.",
       "keySpecs": [
@@ -501,6 +501,6 @@
   "related": [
     "best-smart-home-hub-under-100",
     "best-smart-home-hub-under-200",
-    "best-2-bay-nas-for-home-offices"
+    "best-smart-plugs-for-google-home"
   ]
 }

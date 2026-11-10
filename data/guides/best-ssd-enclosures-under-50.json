@@ -23,7 +23,7 @@
       "name": "SABRENT EC-SNVE Tool-Free M.2 NVMe and SATA Enclosure",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/41ErAAidH4L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08RVC6F9Y?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08RVC6F9Y?tag=primeareviews-amz-20",
       "verdict": "The rare enclosure that takes both M.2 NVMe and M.2 SATA drives, with a 10Gbps Type-C link.",
       "description": "The EC-SNVE is sold as an enclosure only, with no drive inside, for M.2 SSDs in 2242, 2260 and 2280 lengths. It accepts both PCIe NVMe and M.2 SATA drives, runs over USB 3.2 Type-C at up to 10Gbps and lists real transfers up to about 1000MB/s. The body is a slim aluminum shell on an ABS frame with a thermal pad, the listed size is about 1.24 by 0.5 by 4.59 inches, and it is bus powered with an 8 inch Type-C to Type-C cable in the box.\n\nIt takes first place because it covers the two kinds of M.2 drive you are likely to pull from an old laptop, so you do not have to work out the protocol before ordering. NVMe-only cases fail quietly with SATA M.2 drives, and this one does not. The listing is blunt about the limits: bare drives only, with no room for a preinstalled heatsink, and no support for 2.5 inch or mSATA. The cable is short, which suits a laptop port but not a tower under a desk.\n\nBuy it if you are recycling M.2 drives of unknown type. Skip it if every drive you own is a 2.5 inch SATA unit.",
       "keySpecs": [
@@ -64,7 +64,7 @@
       "name": "SABRENT EC-PNVO USB-C NVMe Enclosure",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41a55TE8WML._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F933F1G8?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F933F1G8?tag=primeareviews-amz-20",
       "verdict": "A flip-open NVMe-only case that presses a thermal pad against the drive.",
       "description": "The EC-PNVO is an NVMe-only case for M.2 PCIe drives from 2230 to 2280, with capacity listed to at least 8TB. A reinforced ABS frame sits under an aluminum alloy top, and the lid presses a thermal pad directly against the drive, which the maker contrasts with slide-in designs. The link is USB 3.2 Gen 2 Type-C at up to 10Gbps, and the listed body is about 1.24 by 0.6 by 4.59 inches.\n\nIt ranks second because it is the better-cooled of the two Sabrent M.2 cases and fits the shorter 2230 drives found in handhelds, but it drops the SATA M.2 support that puts the EC-SNVE ahead. If you know your drive is NVMe, the hinged lid and the thermal contact are the more refined design, and the 8TB ceiling is the highest among the M.2 cases here.\n\nBuy it for NVMe drives that see long copies. Skip it if the drive might be SATA.",
       "keySpecs": [
@@ -105,7 +105,7 @@
       "name": "UGREEN USB-C 2.5 in SATA SSD HDD Enclosure",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31T46Ya9IOS._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07Y825V4N?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07Y825V4N?tag=primeareviews-amz-20",
       "verdict": "An aluminum 2.5 inch SATA case with an ASM235CM bridge chip, UASP and support up to 6TB.",
       "description": "The UGREEN is an aluminum enclosure for 2.5 inch SATA I, II and III drives up to 6TB, built around an ASM235CM bridge chip with UASP. The listed body is about 3.23 by 0.59 by 5.24 inches, and a USB-C to USB-C cable is included. The listing is candid that the USB-C port follows a 10Gbps standard but SATA III itself tops out at 6Gbps, so the drive, not the port, sets the speed.\n\nIt ranks third because it handles the most common job in this category, turning an old laptop SSD or hard drive into a portable one, and the aluminum body works as a heat sink without a fan. It trails the two Sabrent M.2 cases only on flexibility, since it takes one drive format. The compatibility list names Windows, Mac and Linux, plus consoles, smart TVs and routers, and it is bus powered with no extra supply.\n\nBuy it for old laptop drives and console storage. Devices that only have a USB-A port need a USB-C to USB-A cable. Skip it if the drive is M.2.",
       "keySpecs": [
@@ -146,7 +146,7 @@
       "name": "UGREEN USB-C M.2 NVMe SSD Enclosure",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/41XU4Tlu8WL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B09T97Z7DM?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B09T97Z7DM?tag=primeareviews-amz-20",
       "verdict": "A tool-free aluminum NVMe case with an RTL9210 bridge chip and a silicone sleeve.",
       "description": "The UGREEN NVMe case supports M and B+M key drives in 2230, 2242, 2260 and 2280 lengths up to 8TB, on a Realtek RTL9210 bridge chip with short-circuit and over-current protection plus UASP and TRIM. A silicone case comes in the box, and the aluminum body measures about 1.65 by 0.55 by 4.8 inches. Windows, macOS, Linux, Android and iOS are named as supported.\n\nIt ranks fourth, behind the Sabrent NVMe case, because it describes heat transfer less specifically, and because the listing states 10Gbps needs a USB-C 3.2 Gen 2 data cable, not just any cable. It does not take SATA NGFF or mSATA drives. The protection circuits and the sleeve make it a good bag companion.\n\nBuy it for travel and Mac mini storage. Skip it if you want the SATA flexibility of the EC-SNVE.",
       "keySpecs": [
@@ -187,7 +187,7 @@
       "name": "fanxiang M.2 NVMe/SATA SSD Enclosure",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41mRYMudswL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DLNC3Y78?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DLNC3Y78?tag=primeareviews-amz-20",
       "verdict": "A dual-protocol aluminum case with a status display, Type-C and Type-A cables and an 85 gram body.",
       "description": "The fanxiang MD86 takes both NVMe and SATA M.2 drives in M and B+M keys, in 2230, 2242 and 2280 lengths up to 4TB, over USB 3.2 Gen 2 with UASP. The aluminum body measures 126 by 37 by 15.2 millimeters, weighs about 85 grams and includes a thermal silicone pad. A small display shows drive information, and either a combo cable or two separate cables are in the box.\n\nIt ranks fifth because the 4TB ceiling, the missing 2260 length and a one-year warranty are all weaker than the Sabrent cases, and the display is a nicety more than a need. It stays on the list because accepting NVMe and SATA drives in a compact aluminum shell is rare at this tier, and including both cable types helps with older USB-A ports. Console and Android OTG compatibility is also stated.\n\nBuy it if you want dual-protocol support with a status screen. Skip it if you need a bigger capacity ceiling.",
       "keySpecs": [
@@ -228,7 +228,7 @@
       "name": "BENFEI 2.5 in SATA to USB Type-C/Type-A Enclosure",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/413-Q5hKS+L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C73VYQCW?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C73VYQCW?tag=primeareviews-amz-20",
       "verdict": "A tool-free 2.5 inch case with both Type-C and Type-A plugs and an 18-month warranty.",
       "description": "The BENFEI takes 2.5 inch SATA I, II and III drives in 7 and 9.5 millimeter thicknesses up to 6TB, with UASP at up to 5Gbps. The cable has Type-C and Type-A ends, so it connects to a laptop, phone, tablet or older desktop, and the cover pushes out for a tool-free install. The listing states an 18-month warranty and support, and the listed size is about 3.07 by 0.59 by 5.31 inches.\n\nIt places sixth because its 5Gbps ceiling is below the UGREEN's SATA figure of 6Gbps and the shell is not described as metal. The dual connector and longer warranty make it a flexible tool for mixed old and new computers. Compatibility is listed for Windows, Linux and macOS.\n\nBuy it if you move between USB-A desktops and USB-C laptops. Skip it if you want a metal body.",
       "keySpecs": [
@@ -269,7 +269,7 @@
       "name": "SABRENT EC-UASP 2.5 in SATA to USB 3.0 Enclosure",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/311m+ah4SDL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00OJ3UJ2S?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00OJ3UJ2S?tag=primeareviews-amz-20",
       "verdict": "A tool-free USB 3.0 case optimized for SSDs, with UASP and hot-swap use.",
       "description": "The EC-UASP is a tool-free 2.5 inch SATA enclosure that runs up to 5Gbps on USB 3.0 and falls back to 480Mbps on a USB 2.0 port. It supports UASP, SATA III and hot swapping, and needs no drivers. The listed body is about 3.1 by 0.5 by 4.9 inches.\n\nIt ranks seventh because it has the slowest interface in the group and no USB-C option, and the listing is dated, naming Windows XP and Vista among supported systems. It still does the plain job without fuss. Against the BENFEI it loses the dual plugs and the stated warranty.\n\nChoose it for a USB-A desktop and a SATA drive. Skip it if your computer has only USB-C ports.",
       "keySpecs": [
@@ -310,7 +310,7 @@
       "name": "Garrulax Clear 2.5 in SATA Hard Drive Enclosure",
       "score": 78,
       "imageUrl": "https://m.media-amazon.com/images/I/41SevIRFV1L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F2SWMPDK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F2SWMPDK?tag=primeareviews-amz-20",
       "verdict": "A clear slide-open case for 7 and 9.5 millimeter drives up to 2TB.",
       "description": "The Garrulax is a clear 2.5 inch SATA case with UASP and TRIM at up to 5Gbps. It takes 7 and 9.5 millimeter drives up to 2TB, and ships with a micro-B to USB 3.0 cable plus a USB 3.0 to Type-C adapter. You slide the lid open along tracks, press the drive in and close it, and lift along a groove to take it out.\n\nIt ranks last because the 2TB limit is the lowest in the group, and a clear plastic shell offers little protection and sheds little heat. The see-through case makes it easy to confirm the drive is seated, and it is the plainest option here.\n\nBuy it for a smaller SSD and light use. Skip it for a large hard drive or long transfers.",
       "keySpecs": [

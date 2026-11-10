@@ -25,7 +25,7 @@ Senior product reviewer, years in the category. Confident, decisive, plain Engli
  "intro": ["hook paragraph", "what we ranked and how"],
  "products": [{
    "id": "kebab-name", "rank": 1, "award": "Best Overall", "name": "<exact name>", "score": 94,
-   "imageUrl": "<facts>", "amazonUrl": "https://www.amazon.com/dp/<ASIN>?tag=primeareviews-20",
+   "imageUrl": "<facts>", "amazonUrl": "https://www.amazon.com/dp/<ASIN>?tag=primeareviews-amz-20",
    "verdict": "one punchy sentence",
    "description": "P1 role + 1-2 real specs\n\nP2 why it ranks here vs the pick above/below, naming the real tradeoff\n\nP3 who should buy + real caveat",
    "keySpecs": [{"label":"..","value":".."} x4],
@@ -47,3 +47,12 @@ Senior product reviewer, years in the category. Confident, decisive, plain Engli
  "related": []
 }
 ```
+
+## Depth targets (mandatory, checked by `node scripts/audit-depth.mjs`)
+- products[].description: 3 paragraphs, ~110-130 words total.
+- whatMatters[].detail: ~55-65 words. faq[].a: ~35-45 words, naming products from the guide.
+- intro: 2 paragraphs, ~130 words. summary and finalTake: 3-4 sentences each.
+A guide that audit-depth still flags as thin is not done.
+
+## Expert voice
+Follow the "Expert voice standard" section of scripts/.work/FIX-BRIEF.md (judgment not description, insider mechanism, named comparisons with real numbers, no filler, honest caveat per product, nothing reusable across guides).

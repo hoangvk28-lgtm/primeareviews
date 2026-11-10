@@ -22,7 +22,7 @@
       "name": "CalDigit TS4 18 Port Thunderbolt 4 Dock",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31DKJ3K5cUL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B09GK8LBWS?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B09GK8LBWS?tag=primeareviews-amz-20",
       "verdict": "Certified Thunderbolt 4 with 18 ports, from a Mac-first dock maker.",
       "description": "The CalDigit TS4 is a certified Thunderbolt 4 dock with 18 ports, the most in this guide, and native Thunderbolt display output. Certification matters because it guarantees the full 40Gbps path, which lets monitors, fast drives and Ethernet run at once without fighting for bandwidth. A Mac-first maker also tends to get Apple quirks right.\n\nIt tops the ranking over the Plugable 16-in-1, which has two fewer ports, and over the UGREEN with only eight. Neither rival matches its port count, and the TS5 Plus below moves to Thunderbolt 5 at a higher price.\n\nBuy it for a desk crowded with peripherals that you want to keep for years. The caveat is price and footprint: it is premium, takes real desk space, and is overkill if you only need a handful of ports.",
       "keySpecs": [
@@ -64,7 +64,7 @@
       "name": "Plugable 16-in-1 Thunderbolt 4 Dock",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41vRhWPsvhL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BQJWKBMF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BQJWKBMF?tag=primeareviews-amz-20",
       "verdict": "16 ports, 100W charging and dual 4K validated for newer MacBook chips.",
       "description": "Plugable's 16-in-1 is a certified Thunderbolt 4 dock with 16 ports, 100W charging passthrough and dual 4K support validated for M4 and M5 MacBook Air and Pro. Because it uses native GPU output and no DisplayLink, the picture is not compressed and you skip driver installs, which cuts the odd flicker and wake-from-sleep bugs that DisplayLink hubs bring.\n\nIt ranks second since the TS4 adds two ports and a longer Mac-first record. It sits above the UGREEN because 100W covers a heavier laptop than the UGREEN's 85W.\n\nBuy it for a dual 4K desk on newer chips. Skip it if you run an older base M-series chip, since that chip, not the dock, limits displays.",
       "keySpecs": [
@@ -106,7 +106,7 @@
       "name": "UGREEN 8-in-1 Thunderbolt 4 Docking Station (Revodok Max 208)",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/313ZbpJoZ0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CM2WKGLC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CM2WKGLC?tag=primeareviews-amz-20",
       "verdict": "Genuine 40Gbps Thunderbolt 4 with three downstream ports, for far less.",
       "description": "The UGREEN Revodok Max 208 is a genuine Thunderbolt 4 dock rated at 40Gbps, with three Thunderbolt 4 ports, dual 4K at 60Hz or one 8K display, and 85W charging. Three downstream Thunderbolt ports are rare at this price, and they let you chain fast SSDs or a second dock without a hub.\n\nIt ranks third since it has only eight ports and 85W charging, against the Plugable's 16 ports and 100W. Its edge is price: it costs less than any certified Thunderbolt dock above it.\n\nChoose it for a high-bandwidth desk with few devices, such as two monitors and an SSD. Skip it if you charge a 16 inch MacBook Pro under heavy load, since 85W can fall behind then, and legacy ports are sparse.",
       "keySpecs": [
@@ -148,7 +148,7 @@
       "name": "Plugable Thunderbolt 4 Dock (TBT-UDM)",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=primeareviews-amz-20",
       "verdict": "Certified Thunderbolt 4, 100W charging and a compact body.",
       "description": "The Plugable TBT-UDM is a certified Thunderbolt 4 dock with 100W charging, six USB ports, an SD card reader, Ethernet, and either dual 4K HDMI or one 6K display. It is driverless, so a Mac recognizes it on connection and keeps the cable simple. The compact body saves desk space.\n\nIt ranks fourth because dual monitors must both use HDMI, with no DisplayPort outputs, and it has far fewer ports than the 16-in-1 from the same maker. It does beat the UGREEN on charging, at 100W versus 85W.\n\nBuy it for a compact desk with one or two HDMI monitors. Skip it if you need DisplayPort, since that forces an adapter, or if your port list is long.",
       "keySpecs": [
@@ -190,7 +190,7 @@
       "name": "CalDigit TS5 Plus Thunderbolt 5 Dock",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/31J58ZzJmlL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F2GQZXVL?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F2GQZXVL?tag=primeareviews-amz-20",
       "verdict": "Thunderbolt 5 bandwidth for multi-4K and 8K, aimed at Pro and Max chips.",
       "description": "The CalDigit TS5 Plus is a Thunderbolt 5 dock built for M3 and M4 Pro and Max multi-display workflows, with a high port count and bandwidth for multi-4K and 8K. Thunderbolt 5 doubles the headroom of Thunderbolt 4, which only pays off when several high-resolution screens and fast storage share one cable.\n\nIt ranks fifth despite the specs, because it is the most expensive dock here and needs a supported laptop to use the extra bandwidth. The Anker Prime TB5 below it undercuts the price, while the TS4 above handles most desks with no extra cost.\n\nBuy it if you edit with a Pro or Max chip across three screens. Skip it on a base chip or a single monitor, where the bandwidth goes unused.",
       "keySpecs": [
@@ -232,7 +232,7 @@
       "name": "Anker Prime TB5 Docking Station 14-in-1",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/41mGW0G5I3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DSVVJXK5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DSVVJXK5?tag=primeareviews-amz-20",
       "verdict": "14 ports and Thunderbolt 5 for newer multi-display Mac setups.",
       "description": "The Anker Prime TB5 is a 14-in-1 Thunderbolt 5 dock aimed at newer M4 and M5 multi-display Macs, with Thunderbolt compatibility certification and high bandwidth headroom. It brings Thunderbolt 5 to a lower price than the CalDigit TS5 Plus, which is the reason to look at it.\n\nIt ranks sixth because Thunderbolt 5 pays off only with a TB5 Mac, and Anker has a shorter Mac track record than CalDigit. Against the TS4, you pay more for headroom you may never use.\n\nBuy it if your MacBook Pro already has Thunderbolt 5 and you want cheaper bandwidth than the TS5 Plus. Skip it if your Mac only has Thunderbolt 4, since it then runs at Thunderbolt 4 speed and costs more than the Plugable options.",
       "keySpecs": [
@@ -274,7 +274,7 @@
       "name": "Anker Prime Docking Station 14-Port",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=primeareviews-amz-20",
       "verdict": "14 ports and up to 160W output, but not Thunderbolt certified.",
       "description": "The Anker Prime 14-Port dock offers 14 ports, up to 160W output and dual 4K support at 10Gbps, but it is USB-C and not Thunderbolt certified. A 160W ceiling gives heavy 16 inch laptops charging margin that 85W docks lack, and port count is high for the money.\n\nIt ranks seventh because 10Gbps cannot match 40Gbps for external drives, so editing from an SSD through it feels slower than through the TS4. Compared with the 8-in-1 below, it adds power and ports for a modest increase in price.\n\nChoose it for a budget desk that needs many ports and strong charging. Skip it if you edit video from external SSDs, where the data ceiling hurts most.",
       "keySpecs": [
@@ -316,7 +316,7 @@
       "name": "Anker Laptop Docking Station 8-in-1",
       "score": 78,
       "imageUrl": "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=primeareviews-amz-20",
       "verdict": "Dual HDMI, Ethernet, SD and 85W passthrough, for the lowest price.",
       "description": "The Anker 8-in-1 is a compact hub with two HDMI ports for dual 4K, Gigabit Ethernet, an SD card slot and 85W Power Delivery passthrough. It is the lowest price in the guide, and its small body fits a travel bag or a secondary desk.\n\nIt ranks last because it is a USB-C hub, not a Thunderbolt dock, so bandwidth for storage is limited. Dual display output also depends on your chip: a base M-series Mac will not drive both HDMI ports natively.\n\nBuy it for a travel kit or a second desk where the job is basic connectivity. Skip it for a primary desk with fast storage, where the Plugable and CalDigit docks above deliver much more headroom.",
       "keySpecs": [

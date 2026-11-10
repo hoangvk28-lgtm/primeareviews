@@ -1,0 +1,513 @@
+{
+  "slug": "best-network-switches-under-200",
+  "category": "tech-accessories",
+  "h1": "The 7 Best Network Switches Under $200 of 2026, Ranked & Reviewed",
+  "metaTitle": "Best Network Switches Under $200: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 7 network switches under $200 scored on port speed, port count and VLAN management, from 5-port gigabit to 24-port and 10GbE.",
+  "mainKeyword": "network switch under $200",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readTime": "10 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg",
+  "summary": "The TP-Link TL-SG108S-M2 is the best network switch under $200 for most homes: eight 2.5-gigabit ports at $50 to $100. The TL-SG105S-M2 shrinks that to five ports for less. The NETGEAR GS308E adds managed features like VLANs, the 10GbE model serves fast NAS setups, and the TL-SG1024DE covers 24-port wiring closets.",
+  "intro": [
+    "The usual advice on switches is to count ports and buy the cheapest. That works until the day you plug a fast NAS or a 2.5G router into a gigabit switch and every port quietly runs at a fraction of its potential. A switch is only as fast as its slowest port, so the speed rating matters at least as much as the port count.",
+    "So we ranked on port speed first, then count, then management. We reviewed seven switches under $200 from their listings, from a five-port gigabit unit under $25 to a 24-port model and a mixed 10GbE switch, and weighed what each lets you do with VLANs, mirroring and monitoring. Cat5e and Cat6 limits matter too, which the listings address for the 2.5G models."
+  ],
+  "products": [
+    {
+      "id": "tp-link-tl-sg108s-m2",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "TP-Link TL-SG108S-M2",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-amz-20",
+      "verdict": "Eight 2.5-gigabit ports for $50 to $100, enough for a modern home or small office.",
+      "description": "The TL-SG108S-M2 offers eight 2.5-gigabit ports, built for LAN parties, home entertainment and small offices. Its listing highlights an instant upgrade to 2.5 Gbps without needing to move up to Cat6 cabling.\n\nIt ranks first because 2.5G is the sweet spot now: it matches modern routers, NAS boxes and Wi-Fi 6 access points, and eight ports cover most homes. Against the five-port TL-SG105S-M2 it gives three more ports for $50 to $100 instead of $25 to $50. It beats the gigabit units on speed at a similar price.\n\nBuy it for a home or small office with a 2.5G router or NAS. The caveat: it is unmanaged, so there are no VLANs or traffic rules.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 x 2.5-gigabit"
+        },
+        {
+          "label": "Management",
+          "value": "Unmanaged"
+        },
+        {
+          "label": "Cabling",
+          "value": "Works with existing cable"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Eight 2.5G ports",
+        "No cabling upgrade claimed",
+        "Fits home and small office",
+        "Simple plug-in setup"
+      ],
+      "cons": [
+        "No VLAN management",
+        "Costs more than gigabit",
+        "No 10G uplink"
+      ],
+      "idealFor": "Homes and small offices with 2.5G devices.",
+      "skipIf": "You need VLANs or monitoring."
+    },
+    {
+      "id": "tp-link-tl-sg105s-m2",
+      "rank": 2,
+      "award": "Best Compact 2.5G",
+      "name": "TP-Link TL-SG105S-M2",
+      "score": 92,
+      "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-amz-20",
+      "verdict": "Five 2.5-gigabit ports at $25 to $50 for a desk or media cabinet.",
+      "description": "The TL-SG105S-M2 gives five 2.5-gigabit ports and the same promise as its larger sibling: instant 2.5 Gbps without Cat6 upgrades. It is built for LAN parties, home entertainment and small offices.\n\nIt ranks second because the eight-port TL-SG108S-M2 leaves more room to grow for $25 or so more. This five-port model is the better fit for a TV cabinet or a desk with a router, a PC, a NAS and a console, where you will never use eight ports.\n\nChoose it for a small, speed-first setup. The caveat: five ports fill quickly, and one will be consumed by the uplink to your router.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 x 2.5-gigabit"
+        },
+        {
+          "label": "Management",
+          "value": "Unmanaged"
+        },
+        {
+          "label": "Use",
+          "value": "Home entertainment, small offices"
+        },
+        {
+          "label": "Price tier",
+          "value": "$25 to $50"
+        }
+      ],
+      "pros": [
+        "Five 2.5G ports",
+        "Low price",
+        "No Cat6 upgrade needed",
+        "Compact"
+      ],
+      "cons": [
+        "Only five ports",
+        "Unmanaged",
+        "Uplink uses a port"
+      ],
+      "idealFor": "Desks and media cabinets with a handful of devices.",
+      "skipIf": "You expect to add more wired devices."
+    },
+    {
+      "id": "netgear-gs308e-easy-smart",
+      "rank": 3,
+      "award": "Best Managed Switch",
+      "name": "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
+      "verdict": "Eight gigabit ports with a browser-based GUI and real traffic segmentation tools.",
+      "description": "NETGEAR's GS308E is an eight-port gigabit switch with an Easy Smart web GUI that works on Windows, Mac or Linux. The firmware handles VLANs (up to 64), QoS, IGMP snooping and port mirroring, tools that stop voice and video traffic being starved.\n\nIt ranks third because 1 Gbps ports trail the 2.5G models on speed, but it is the only managed option under $50 here. VLANs matter if you want to isolate IoT devices or guests from your main network. Against the TP-Link 8-port, it is simpler to configure.\n\nBuy it if you need segmentation. The caveat: the web interface is simple, not enterprise-grade, so advanced routing needs better hardware.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "8 x 1 Gbps"
+        },
+        {
+          "label": "VLANs",
+          "value": "Up to 64"
+        },
+        {
+          "label": "Features",
+          "value": "QoS, IGMP snooping, mirroring"
+        },
+        {
+          "label": "Interface",
+          "value": "Web GUI on Windows, Mac, Linux"
+        }
+      ],
+      "pros": [
+        "Up to 64 VLANs",
+        "QoS and IGMP snooping",
+        "Port mirroring",
+        "Easy web interface"
+      ],
+      "cons": [
+        "Gigabit speed only",
+        "Basic web interface",
+        "Managed features take learning"
+      ],
+      "idealFor": "Homes that want IoT or guest network separation.",
+      "skipIf": "You have 2.5G devices to feed."
+    },
+    {
+      "id": "10gbe-switch-2x10g-4x2-5g",
+      "rank": 4,
+      "award": "Best for Fast NAS",
+      "name": "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/41aol4eJAbL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DS4KC7Y3?tag=primeareviews-amz-20",
+      "verdict": "Two 10Gb RJ45 ports plus four 2.5Gb ports in an unmanaged, plug-and-play switch.",
+      "description": "This unmanaged switch pairs two 10Gb RJ45 ports with four 2.5Gb Base-T ports. The listing claims 2.5 times the speed of standard gigabit and easy setup. The 10Gb ports are meant for a NAS, a workstation or an uplink to another switch.\n\nIt ranks fourth because six ports total is small and it is unmanaged, with no VLANs. It is the only option here that reaches 10G, which makes it the right choice if your NAS or video workstation can use it. At $50 to $100 it costs the same as the eight-port 2.5G model.\n\nBuy it for fast storage and editing. The caveat: the 10G ports need devices and cables that support them, and the unbranded listing offers little support information.",
+      "keySpecs": [
+        {
+          "label": "Fast ports",
+          "value": "2 x 10Gb RJ45"
+        },
+        {
+          "label": "Mid ports",
+          "value": "4 x 2.5Gb Base-T"
+        },
+        {
+          "label": "Management",
+          "value": "Unmanaged"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "Two 10Gb ports",
+        "Four 2.5G ports",
+        "Plug-and-play setup",
+        "Same price as the 8-port 2.5G"
+      ],
+      "cons": [
+        "Only six ports",
+        "Unmanaged",
+        "Brand support unclear"
+      ],
+      "idealFor": "NAS and video-editing setups that can use 10G.",
+      "skipIf": "You need many ports or management."
+    },
+    {
+      "id": "tp-link-tl-sg1024de",
+      "rank": 5,
+      "award": "Best 24-Port",
+      "name": "TP-Link TL-SG1024DE",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/312cxnpjJzL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00CUG8ESM?tag=primeareviews-amz-20",
+      "verdict": "Twenty-four gigabit ports with jumbo frames and port mirroring for $50 to $100.",
+      "description": "The TL-SG1024DE puts 24 gigabit ports in one box, with 9k jumbo frame support for faster large file transfers and port mirroring for monitoring. That is rack-room capacity for a price under $100.\n\nIt ranks fifth because gigabit is slower than the 2.5G picks, and most homes will never fill 24 ports. It earns a place for structured wiring, where every room has a wall jack and the switch is the hub. Against the GS308E it offers triple the ports and fewer managed features.\n\nChoose it for a wired house or a small office. The caveat: a 24-port switch is larger and may need a rack or shelf, and its fan or ventilation needs are not described.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "24 x gigabit"
+        },
+        {
+          "label": "Frames",
+          "value": "9k jumbo frame"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Port mirroring"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "24 gigabit ports",
+        "Jumbo frame support",
+        "Port mirroring",
+        "Low cost per port"
+      ],
+      "cons": [
+        "Gigabit speed only",
+        "Larger physical size",
+        "Overkill for most homes"
+      ],
+      "idealFor": "Structured wiring and small offices with many wired drops.",
+      "skipIf": "You only have a handful of wired devices."
+    },
+    {
+      "id": "tp-link-tl-sg116",
+      "rank": 6,
+      "award": "Best 16-Port",
+      "name": "TP-Link TL-SG116",
+      "score": 84,
+      "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=primeareviews-amz-20",
+      "verdict": "Sixteen 10/100/1000 ports that are energy efficient, reliable and quiet.",
+      "description": "The TL-SG116 expands a network with 16 gigabit ports, energy-efficient technology and IEEE 802.3x flow control. The listing describes it as reliable and quiet, which matters when the switch sits in a living area.\n\nIt ranks sixth because the 24-port model gives more ports for the same $50 to $100, and the 2.5G units give more speed. The 16-port size is its niche: more than a home needs but smaller than a rack unit.\n\nBuy it for a growing home lab or a wired office. The caveat: it is unmanaged, so it cannot separate traffic, and it tops out at gigabit speed.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "16 x 10/100/1000"
+        },
+        {
+          "label": "Flow control",
+          "value": "IEEE 802.3x"
+        },
+        {
+          "label": "Efficiency",
+          "value": "Energy-efficient technology"
+        },
+        {
+          "label": "Price tier",
+          "value": "$50 to $100"
+        }
+      ],
+      "pros": [
+        "16 gigabit ports",
+        "Energy-efficient design",
+        "Quiet operation",
+        "Flow control support"
+      ],
+      "cons": [
+        "Unmanaged",
+        "Gigabit only",
+        "24-port costs the same"
+      ],
+      "idealFor": "Home labs and offices that need more than eight ports.",
+      "skipIf": "You want 2.5G or VLAN management."
+    },
+    {
+      "id": "tp-link-tl-sg105",
+      "rank": 7,
+      "award": "Best Budget Switch",
+      "name": "TP-Link TL-SG105",
+      "score": 82,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-amz-20",
+      "verdict": "Five gigabit ports, fanless and energy efficient, for under $25.",
+      "description": "The TL-SG105 offers five 10/100/1000 ports with auto negotiation, flow control, energy-efficient technology and a fanless design, all for under $25. Fanless means it runs silently.\n\nIt ranks last because the 2.5G TL-SG105S-M2 gives faster ports for $25 to $50 and most new gear can use them. The TL-SG105 remains the cheapest dependable way to add ports to a router, and it suits older networks where every device is gigabit.\n\nBuy it for a simple desk or TV setup. The caveat: five ports at gigabit speed limit future upgrades, so choose the 2.5G model if you are planning a faster network.",
+      "keySpecs": [
+        {
+          "label": "Ports",
+          "value": "5 x 10/100/1000"
+        },
+        {
+          "label": "Cooling",
+          "value": "Fanless"
+        },
+        {
+          "label": "Efficiency",
+          "value": "Energy-efficient"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Under $25",
+        "Fanless and silent",
+        "Auto negotiation",
+        "Energy-efficient"
+      ],
+      "cons": [
+        "Gigabit only",
+        "Five ports",
+        "Unmanaged"
+      ],
+      "idealFor": "Simple desks and TV cabinets on a tight budget.",
+      "skipIf": "You own 2.5G devices."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Port speed",
+      "description": "2.5G and 10G ports scored above gigabit, since the slowest link sets the pace."
+    },
+    {
+      "title": "Port count",
+      "description": "Five, eight, sixteen and twenty-four-port options were compared against realistic home and office needs."
+    },
+    {
+      "title": "Management features",
+      "description": "VLANs, QoS, IGMP snooping, mirroring and web GUIs were rated where listed."
+    },
+    {
+      "title": "Noise and efficiency",
+      "description": "Fanless designs and energy-efficient claims matter for devices that run all year."
+    },
+    {
+      "title": "Value",
+      "description": "Price tier against ports, speed and features, with every pick under $200."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Port speed",
+      "detail": "Port speed is how fast each socket can move data: 1 Gbps, 2.5 Gbps or 10 Gbps. A fast NAS plugged into a gigabit port is capped at gigabit. 2.5G switches can use existing Cat5e cable over short runs. Check the speed per port in the title, and match it to your router and NAS."
+    },
+    {
+      "factor": "Managed vs unmanaged",
+      "detail": "Unmanaged switches work out of the box with no settings. Managed switches add VLANs, QoS and monitoring through a web interface. The NETGEAR GS308E lists up to 64 VLANs. You only need management to separate guest, IoT or work traffic. Otherwise, unmanaged is simpler and cheaper."
+    },
+    {
+      "factor": "Port count and uplink",
+      "detail": "One port always connects the switch back to the router, so a five-port switch leaves four usable. Count your devices now, then add a few for growth. Eight ports suits most homes, sixteen or twenty-four suits structured wiring. Buying larger rarely costs much more."
+    },
+    {
+      "factor": "Jumbo frames and flow control",
+      "detail": "Jumbo frames carry more data per packet, which helps large transfers between servers and NAS boxes. Flow control prevents a fast sender from overwhelming a slow receiver. The TL-SG1024DE lists 9k jumbo frames and the TL-SG116 lists 802.3x flow control. Most home users never need to tune either."
+    },
+    {
+      "factor": "Fanless operation",
+      "detail": "Fanless switches use passive cooling, so they make no noise and have no part to wear out. That matters in living rooms and bedrooms. Many small switches are fanless, such as the TL-SG105. Larger 24-port units may use ventilation, so check the listing if silence is essential."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Port Speed",
+      "intro": "Match the switch to the fastest device it connects.",
+      "table": {
+        "headers": [
+          "Speed",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "10G uplink to a NAS",
+            "10Gbe Ethernet Switch, 2 x 10Gb + 4 x 2.5Gb"
+          ],
+          [
+            "2.5G, eight ports",
+            "TP-Link TL-SG108S-M2"
+          ],
+          [
+            "2.5G, five ports",
+            "TP-Link TL-SG105S-M2"
+          ],
+          [
+            "Gigabit, managed",
+            "NETGEAR 8-Port Gigabit Easy Smart GS308E"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "TP-Link TL-SG105"
+          ],
+          [
+            "$25 to $50, 2.5G",
+            "TP-Link TL-SG105S-M2"
+          ],
+          [
+            "$25 to $50, managed",
+            "NETGEAR GS308E"
+          ],
+          [
+            "$50 to $100",
+            "TP-Link TL-SG108S-M2"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Managed vs Unmanaged",
+      "cards": [
+        {
+          "label": "Managed",
+          "text": "VLANs, QoS and monitoring. The NETGEAR GS308E suits households that want to isolate IoT or guest devices."
+        },
+        {
+          "label": "Unmanaged",
+          "text": "Plug in and go. The TP-Link TL-SG108S-M2 and TL-SG105 are the simplest choices for most homes."
+        }
+      ],
+      "note": "Choose unmanaged unless you have a specific reason for VLANs."
+    },
+    {
+      "subheading": "By Port Count",
+      "table": {
+        "headers": [
+          "Ports",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "5 ports",
+            "TP-Link TL-SG105S-M2"
+          ],
+          [
+            "8 ports",
+            "TP-Link TL-SG108S-M2"
+          ],
+          [
+            "16 ports",
+            "TP-Link TL-SG116"
+          ],
+          [
+            "24 ports",
+            "TP-Link TL-SG1024DE"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Home Offices and NAS Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "2.5G or 10G ports for storage, enough ports for growth, and a quiet or fanless design."
+        },
+        {
+          "label": "In this ranking",
+          "text": "The 10Gbe switch offers two 10Gb ports, and the TL-SG108S-M2 gives eight 2.5G ports."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You own 2.5G or faster gear. The TL-SG108S-M2 or 10GbE switch at $50 to $100 uses it fully."
+        },
+        {
+          "label": "Save if",
+          "text": "Everything is gigabit. The TL-SG105 under $25 is enough."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need Cat6 cable for a 2.5G switch?",
+      "a": "TP-Link says the TL-SG108S-M2 and TL-SG105S-M2 upgrade to 2.5 Gbps without needing Cat6, so Cat5e usually works over typical home runs. For 10G ports on the 10GbE switch, better cabling is wise."
+    },
+    {
+      "q": "What is the most common switch mistake?",
+      "a": "Buying gigabit and plugging in a faster NAS. The switch then caps every port at 1 Gbps. If your NAS or router has 2.5G, choose the TL-SG108S-M2 or the 10GbE model instead of a TL-SG105."
+    },
+    {
+      "q": "Is a managed switch worth it for home use?",
+      "a": "Only if you need VLANs. The NETGEAR GS308E lets you separate IoT devices from computers, which is a real security benefit. For plain connectivity, an unmanaged TL-SG108S-M2 is simpler."
+    },
+    {
+      "q": "How do I set up a network switch?",
+      "a": "Plug power in, connect one port to your router, and plug in devices. Unmanaged models like the TL-SG105 need nothing else. For the GS308E, use the web GUI to set VLANs after the first boot."
+    },
+    {
+      "q": "How do I maintain a switch?",
+      "a": "Keep vents clear, dust it occasionally and avoid stacking heat-producing gear on top. Fanless units like the TL-SG105 are low maintenance. For managed models, check for firmware updates once or twice a year."
+    },
+    {
+      "q": "Can a switch speed up my internet?",
+      "a": "No. A switch adds ports and local speed, not internet bandwidth. It helps transfers between your own devices, such as a PC and NAS over 2.5G, but your internet plan still sets the connection to the web."
+    }
+  ],
+  "finalTake": "The TP-Link TL-SG108S-M2 is the best network switch under $200 for most homes, with eight 2.5G ports at a modest price. Choose the TL-SG105S-M2 for a small desk, the NETGEAR GS308E if you need VLANs, and the 10GbE switch for a fast NAS. Pay for speed only if your devices can use it.",
+  "related": [
+    "best-5-port-network-switches",
+    "best-8-port-managed-network-switches",
+    "best-8-port-network-switches"
+  ]
+}

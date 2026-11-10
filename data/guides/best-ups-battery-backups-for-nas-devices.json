@@ -22,7 +22,7 @@
       "name": "CyberPower CP850PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/317PvPHMHKL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00429N18S?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00429N18S?tag=primeareviews-amz-20",
       "verdict": "A pure sine wave UPS with AVR, an LCD and USB signaling, which is what modern NAS power supplies want.",
       "description": "The CP850PFCLCD is an 850VA unit with PFC sine wave output, automatic voltage regulation, an LCD display and USB connectivity. It is built for computers and network gear with active power factor correction supplies.\n\nIt ranks first because the output waveform matters more for a NAS than for most devices. Many modern NAS and mini PC power supplies use active PFC, and some of them misbehave or switch off on the stepped, approximated waveform that cheaper battery backups produce during an outage. A pure sine wave removes that risk. AVR corrects low or high mains voltage without draining the battery, which extends battery life in areas with unstable power, and the LCD shows load and runtime in real time.\n\nBuy it for a two- to four-bay NAS, especially one with an APFC power supply. The caveat is that CyberPower is a general-purpose brand, so check your NAS vendor's compatibility list before assuming the USB signal will be accepted.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "APC UPS 850VA/450W UPS Battery Backup & Surge Protector for PC, Router, NAS",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/313IpZaRpEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B085JJZDFK?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B085JJZDFK?tag=primeareviews-amz-20",
       "verdict": "APC's 850VA unit, rated for NAS, router and PC loads with USB shutdown signaling.",
       "description": "This APC Back-UPS offers 850VA and 450W, is listed for PC, router and NAS use, and includes USB shutdown signaling and surge protection.\n\nIt takes second place because it has the headroom for a multi-bay NAS plus a router or modem on the same unit. APC's USB signaling is recognized by almost every NAS operating system through a standard UPS protocol, which is why this brand is the one most guides default to. It loses to the CyberPower because Back-UPS class units usually output a stepped approximation of a sine wave on battery rather than a true one, so a few APFC supplies can trip. In practice, most NAS power supplies cope.\n\nChoose it for a four- or six-bay NAS at home or a small office where the router also needs to stay alive through a short outage. Verify your NAS model's UPS list.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "APC UPS 650VA/390W Battery Backup & Surge Protector for PC, NAS | BE650G1",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31pgnLVo0dL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B005GZRUZW?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B005GZRUZW?tag=primeareviews-amz-20",
       "verdict": "A widely used 650VA APC with USB signaling and a standard, replaceable battery.",
       "description": "The BE650G1 provides 650VA and 390W, is rated for PC and NAS, has USB connectivity for shutdown signaling and uses a standard replaceable battery.\n\nIt is third because it covers a typical two-bay NAS with room to spare, and it has a long track record. The replaceable battery is the detail that counts. A UPS battery typically lasts three to five years, and a model that lets you swap in a new one at low cost outlasts the units that get thrown away. It ranks below the 850VA model because the 390W ceiling leaves less margin for a bigger NAS, a router and a switch together.\n\nBuy it for a one- or two-bay NAS plus a modem. Skip it if you plan to add a drive enclosure or a mini PC to the same outlet.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Ubiquiti UniFi UPS Tower 1000VA/600W Uninterruptible Power Supply (UPS-Tower)",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/21U2VNukpiL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GVNH9RY2?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GVNH9RY2?tag=primeareviews-amz-20",
       "verdict": "A 1000VA/600W tower with UniFi monitoring, sized for a NAS plus the network gear.",
       "description": "The UniFi UPS Tower provides 1000VA and 600W, integrates with the UniFi ecosystem and uses a tower form factor suited to a shelf or rack setup. The listing highlights higher capacity for combined NAS and networking loads.\n\nIt ranks fourth because its main advantage is relevant only to a particular owner. If your router, switches and access points are UniFi, the UPS reports into the same console, so you see battery state and outage alerts alongside the rest of the network. At 600W it has the most capacity here, which fits a larger NAS plus a switch and a gateway. At $200 to $500, it costs the most, and its NAS signaling depends on how the UniFi integration handles shutdown commands.\n\nChoose it if you run UniFi and want one console for everything. Otherwise an APC or CyberPower gives the same protection for less.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "APC UPS 600VA/330W UPS Battery Backup for Computer, Router, NAS, BE600M1",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41h0sXfkrSL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B01FWAZEIU?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B01FWAZEIU?tag=primeareviews-amz-20",
       "verdict": "The smallest APC here, enough for a single-bay NAS and a router.",
       "description": "The BE600M1 gives 600VA and 330W, is listed for computer, router and NAS use, includes USB shutdown signaling, and uses a standard replaceable battery.\n\nIt ranks fifth because it is the minimum viable option. A single-bay NAS and a modem sit comfortably inside 330W, and you still get USB signaling and a battery you can replace. It falls behind the BE650G1 only by a small margin of capacity, and is a similar product in practice.\n\nBuy it if your NAS is a single-bay or two-bay unit with light drives and your router is low-power. Do not use it for larger arrays, because the load will leave very little runtime, and pushing a UPS near its limit shortens battery life.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "WALLECUBE NAS UPS Compatible for: Synology, Ugreen, TerraMaster, QNAP. 150W DC Uninterruptible Power Supply with Remote APP Control",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/31ML8Ta-OHL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FPD6PJ92?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FPD6PJ92?tag=primeareviews-amz-20",
       "verdict": "A compact 150W DC UPS built for DC-powered NAS and mini PCs, with app control.",
       "description": "The WALLECUBE is a 150W DC UPS that lists compatibility with Synology, Ugreen, TerraMaster and QNAP. It offers remote app control and a compact home-server form factor, and it supplies DC output rather than a mains outlet.\n\nIt finishes sixth because it only suits NAS units that run on an external DC adapter, which is typical of small 2- and 4-bay home models and mini PCs. Those owners can skip the double conversion of a mains UPS, which wastes some power as heat. It does not replace a conventional UPS for a NAS with an internal AC supply, and the listing does not describe a shutdown signaling method, so check how it tells the NAS to power down.\n\nPick it if your NAS uses a barrel-plug DC adapter that matches the unit's voltage. Check connector and voltage compatibility carefully before ordering.",
       "keySpecs": [

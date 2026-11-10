@@ -22,7 +22,7 @@
       "name": "Synology 4-Bay DiskStation DS925+ (Diskless)",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8S7SF4B?tag=primeareviews-amz-20",
       "verdict": "The long-term app platform, if you accept its drive rules.",
       "description": "The DS925+ is a four-bay Plus-series enclosure with upgradeable RAM, RAID 5, SHR and RAID 10 support, and access to DSM including Surveillance Station. SHR, Synology Hybrid RAID, lets you mix drive sizes and still protect your data, which is why it matters for people who buy disks over time. It sits in the $500 and up bucket.\n\nIt tops the list because it offers the most room to grow in apps and memory. That headroom is what separates it from the DS423, which keeps four bays but cannot add RAM.\n\nBuy it for long-term photo, backup and camera workloads. The catch is the listing's compatibility warnings for non-Synology drives on 2024 and newer Plus-series units. Check the approved list before you buy disks, or you may pay more than you planned.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Synology DS423 4-Bay Diskless NAS",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41CoDmrFUGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0BY7LGMNP?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0BY7LGMNP?tag=primeareviews-amz-20",
       "verdict": "Four-bay RAID without the Plus-series price.",
       "description": "The DS423 is a four-bay NAS supporting RAID 5 and SHR, with Video Surveillance Station support plus Photo Vault and secure file sharing apps, in the $200 to $500 bucket. Four bays are the sweet spot for redundancy: RAID 5 survives one drive failure while still giving you three drives of usable space.\n\nIt ranks second because it gives you the same four bays as the DS925+ for far less, trading away upgradeable memory and the Plus-series extras. Against the DS725+, it offers more capacity up front for a lower price.\n\nBuy it for a family or small office that wants redundancy and shared photos. The caveat is app headroom: do not expect it to run heavy workloads or many services at once, because the hardware is below the Plus tier.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Synology DS725+ Expandable 2-Bay Diskless NAS",
       "score": 87,
       "imageUrl": "https://m.media-amazon.com/images/I/21nJ2B4QOLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CBTVMMLB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CBTVMMLB?tag=primeareviews-amz-20",
       "verdict": "Start with two bays and add more later.",
       "description": "The DS725+ is a two-bay Plus-series NAS that supports an expansion unit for extra bays, with upgradeable RAM and private cloud and small-business features. Expansion is the argument: you start with two drives and grow later without migrating to a new box.\n\nIt lands third because the DS423 gives four bays now for less, and you pay a premium here for the expansion path. In the $500 and up bucket it also carries the same drive compatibility warnings as the DS925+, which can raise the cost of future disks.\n\nBuy it if you expect to outgrow two bays and want to stay on one platform. Skip it if two bays will be enough forever, because the money is better spent on the DS423 or even the DS223j.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Synology 2-Bay DiskStation DS223j (Diskless)",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/3117pnUjwGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8814GKB?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8814GKB?tag=primeareviews-amz-20",
       "verdict": "Simple mirrored backup on a value-series box.",
       "description": "The DS223j is a two-bay value-series NAS with soldered RAM, RAID 1 mirroring and the full DSM operating system, in the $200 to $500 bucket. RAID 1 writes every file to both drives, which is the simplest protection to understand and recover from, and exactly what a first-time buyer needs.\n\nIt sits fourth because it is modest in power and its soldered RAM cannot be upgraded. It does avoid the Plus-series drive restrictions the listing flags for the pricier models, so disks are easier to source than for the DS725+.\n\nChoose it for personal backup, shared family storage and light media use. Skip it if you plan to run many apps, because soldered memory means no upgrade path and little room for Surveillance Station.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "UGREEN NAS DH2300 2-Bay Desktop NAS (Diskless)",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FNWHSPXF?tag=primeareviews-amz-20",
       "verdict": "The cheapest true NAS here, on a non-Synology platform.",
       "description": "The UGREEN DH2300 is a two-bay desktop NAS supporting up to 64TB total, running UGREEN NAS OS with its own hardware compatibility list. It sits in the $100 to $200 bucket, the cheapest true NAS in this guide, and it undercuts every Synology here on price.\n\nIt ranks fifth because its software ecosystem is smaller than DSM, with fewer mature apps for cameras and photos, and it is not DSM at all. Against the DS223j, you save money and give up polish and a long-proven platform.\n\nIt suits budget buyers comfortable with a newer platform. Check the drive compatibility list before buying disks, since the DH2300 follows UGREEN's own list and not Synology's, and a drive that is not on it can cause trouble.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "TERRAMASTER D4-320 4-Bay USB 3.2 Gen2 Enclosure (Diskless)",
       "score": 78,
       "imageUrl": "https://m.media-amazon.com/images/I/21z94zz6wGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CTTL9R7Z?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CTTL9R7Z?tag=primeareviews-amz-20",
       "verdict": "A fast 4-bay RAID box, but not shared on the network.",
       "description": "The TERRAMASTER D4-320 is a four-bay direct-attached enclosure using USB 3.2 Gen2 Type-C at 10Gbps, with hot-swappable bays and plug and play RAID, in the $100 to $200 bucket. Direct-attached means it behaves like a very large external drive on one computer, and 10Gbps keeps that fast.\n\nIt ranks last because it is not a NAS. It connects to a single host and cannot share files across your network like the Synology and UGREEN boxes, and it has no apps. Its lowest cost per bay is the only reason it appears at all.\n\nIt is the right buy for one computer that needs bulk, fast RAID storage, such as a video editor. Skip it if several devices, phones or family members need access.",
       "keySpecs": [

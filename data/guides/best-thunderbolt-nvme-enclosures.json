@@ -22,7 +22,7 @@
       "name": "ACASIS TBU405 Pro 40Gbps NVMe Enclosure",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/41yCHYDUiqL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C8CZB5S7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C8CZB5S7?tag=primeareviews-amz-20",
       "verdict": "An Intel JHL7440 controller, a cooling fan and quoted speeds near the Thunderbolt 3 ceiling.",
       "description": "The TBU405 Pro uses an Intel JHL7440 controller, offers 40Gbps and works with USB4, Thunderbolt 3 and Thunderbolt 4 hosts. The listing quotes about 2,805 MB/s reads and 2,734 MB/s writes, and an active cooling fan keeps the drive in check.\n\nIt takes first place because the Intel chip is the genuine Thunderbolt controller, which tends to give the most predictable behavior on Mac and Windows Thunderbolt ports. Those figures sit close to the practical limit of a Thunderbolt 3 tunnel, which carries roughly 2,800 MB/s of PCIe data, so you are not leaving much speed on the table. The fan matters during long copies, because NVMe drives throttle once they heat up. It ranks above the USB4 chip designs mainly for predictability.\n\nBuy it if you use a Mac or a Thunderbolt-equipped Windows laptop and want the least compatibility drama. Be aware that a fan adds noise, and that it will not exceed Thunderbolt 3 speeds even on a faster port.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Lexar E750 40Gbps NVMe Enclosure",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41XjivlyqZL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DQD5ZSD3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DQD5ZSD3?tag=primeareviews-amz-20",
       "verdict": "Up to 3,800 MB/s, Thunderbolt 4 compatible, and backed by a two-year warranty.",
       "description": "The Lexar E750 quotes speeds up to 3,800 MB/s, is Thunderbolt 4 compatible, and supports 2230, 2242, 2260 and 2280 drives. It carries a two-year limited warranty.\n\nIt ranks second because the combination of a faster quoted ceiling and a recognized storage brand is unusual at this price. A 3,800 MB/s figure is beyond what the Thunderbolt 3 tunnel can carry, which tells you the enclosure uses a USB4-class bridge and relies on a compatible host to reach it. The two-year warranty is the detail to weigh: enclosures from lesser-known sellers often offer one year or an unclear policy. It sits below the ACASIS only because the listing does not name a controller or describe cooling.\n\nChoose it if you have a USB4 or Thunderbolt 4 laptop and want brand support behind the box. Check the cooling by looking at user photos, since the listing is silent on a fan.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "ORICO 40Gbps NVMe Enclosure with Fan",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/416G7Dsl3gL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F8VDRTS7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F8VDRTS7?tag=primeareviews-amz-20",
       "verdict": "Quotes 3,700/3,100 MB/s, with a thermal pad plus a standalone heatsink for the drive in the box.",
       "description": "The ORICO enclosure offers 40Gbps and quotes 3,700 MB/s reads and 3,100 MB/s writes. It includes a thermal pad and a separate heatsink for the SSD, a fan, a CNC aluminum body and a transparent side panel.\n\nIt lands third because it gives you the most cooling hardware of the group. A bare NVMe drive in a sealed aluminum shell relies on one thermal pad to move heat to the case, while this kit lets you add a heatsink and run a fan, which is the setup that holds speed during a hundred-gigabyte copy. The transparent panel is a styling choice that some buyers will like and others will ignore. It ranks below the ACASIS and Lexar because the listing names neither the controller nor a warranty length.\n\nBuy it if you move large video files regularly and want the cooler running drive. Skip it if you want a silent unit, since a fan always makes some sound.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "UGREEN 40Gbps NVMe Enclosure with Cooling Fan",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/4163oKenw5L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CLV3D3H6?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CLV3D3H6?tag=primeareviews-amz-20",
       "verdict": "An ASM2464PD enclosure with a PWM fan, S.M.A.R.T. monitoring and 4TB support.",
       "description": "This UGREEN uses the ASM2464PD bridge chip for 40Gbps, has an active PWM fan and supports 2230, 2242, 2260 and 2280 drives up to 4TB. It reports S.M.A.R.T. data so you can check drive health.\n\nIt ranks fourth because it is a solid, fully specified product without any one standout. A PWM fan changes speed with temperature, so it should stay quiet during light use and spin up only for heavy transfers, which is better than a fan that runs at one speed. S.M.A.R.T. monitoring is a useful feature on a drive that holds your backups, since it can warn you before a failure. The 4TB limit is lower than the fanless UGREEN, which accepts 8TB.\n\nChoose it if you want active cooling and drive health reporting on a standard budget. If you plan to fit an 8TB drive, look at the fanless model.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "UGREEN 40Gbps M.2 NVMe Enclosure",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41JHbCBZxkL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F62NG7K3?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F62NG7K3?tag=primeareviews-amz-20",
       "verdict": "A silent, fanless double-sided fin design with support for drives up to 8TB.",
       "description": "This UGREEN enclosure uses the ASM2464PD chip for 40Gbps over USB4, Thunderbolt 3 and Thunderbolt 4. It takes 2230, 2242, 2260 and 2280 drives up to 8TB and cools passively with double-sided fins.\n\nIt places fifth because passive cooling has a ceiling. A fanless aluminum body is quiet and has no moving part to fail, which suits a desk where noise matters or a travel bag, but under a long write the drive heats up and can throttle. The 8TB support is the unusual part, since many enclosures stop at 4TB. It sits just under the fan version only because sustained transfers are more likely to slow down.\n\nBuy it for quiet use, bulky archives and travel. If you routinely copy hundreds of gigabytes at a time, the fan model or the ORICO is the better fit.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Sabrent EC-U4TN USB4 NVMe Enclosure",
       "score": 84,
       "imageUrl": "https://m.media-amazon.com/images/I/41NrjkgBHgL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FVPMBYCS?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FVPMBYCS?tag=primeareviews-amz-20",
       "verdict": "Up to 3,900 MB/s on USB4 and 2,700 MB/s on Thunderbolt 3 or 4, with a cooling fan.",
       "description": "The Sabrent EC-U4TN quotes up to 3,900 MB/s on USB4 and 2,700 MB/s on Thunderbolt 3 and 4, supports 2230, 2242, 2260 and 2280 NVMe drives, and includes an active fan. It works with NVMe drives only.\n\nIt ranks sixth because the two figures tell you something important: it will be fastest on a USB4 port and slower on Thunderbolt 3 or 4. That makes it a better choice for newer PCs than for older Macs. The 3,900 MB/s claim is the highest in the group, and Sabrent has a long history in NVMe accessories. It trails the Lexar and ACASIS since the listing does not give a controller or warranty length.\n\nPick it if you have a USB4 machine and want the highest claimed ceiling. The NVMe-only statement also means it will not accept SATA M.2 drives.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "Sabrent EC-T3NS Thunderbolt 3 Enclosure",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/412jGLhzaPL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08FT59SB6?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08FT59SB6?tag=primeareviews-amz-20",
       "verdict": "An Intel-certified, fanless Thunderbolt 3 enclosure with a detachable cable.",
       "description": "The EC-T3NS is an Intel-certified Thunderbolt 3 enclosure with quoted speeds up to 1,600 MB/s, a solid aluminum fanless body and a detachable cable.\n\nIt ranks last because its speed is about half of the newer designs, but that is not the whole story. Intel certification means the design passed Intel's checks for Thunderbolt behavior, which reduces the compatibility surprises that cheap clones can bring. The detachable cable is a practical benefit, as you can swap in a longer or shorter lead and replace it if it frays. A drive that fits the 1,600 MB/s ceiling still gives a large jump over a USB 3 portable drive.\n\nBuy it if you have an older Thunderbolt 3 laptop and value certification and silence over peak speed. Skip it if you want the full speed of a modern NVMe drive.",
       "keySpecs": [
@@ -500,7 +500,7 @@
   "finalTake": "The ACASIS TBU405 Pro is the best Thunderbolt NVMe enclosure here because of its Intel controller and fan cooling. The Lexar E750 is the better pick for USB4 and Thunderbolt 4 machines, with a two-year warranty. The ORICO is the right choice for heavy file transfers, and the Sabrent EC-T3NS is for older Thunderbolt 3 laptops that value certification.",
   "related": [
     "best-nvme-enclosures",
-    "best-usb-nvme-enclosures",
-    "best-usb4-nvme-enclosures-under-100"
+    "best-nvme-enclosures-under-100",
+    "best-nvme-enclosures-under-50"
   ]
 }

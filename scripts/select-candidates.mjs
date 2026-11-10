@@ -19,7 +19,7 @@ const SOURCES = [
   { name: "deskfinds", dir: pick("C:/Users/ADMIN/Downloads/Roo-Code-main/smartspace-picks/data/guides", "smartspace-picks") },
   { name: "worthrated", dir: pick("C:/Users/ADMIN/Downloads/BestFindsReviews/data/guides", "BestFindsReviews") },
 ];
-const CLUSTER_CAP = 6;
+const CLUSTER_CAP = Number(process.env.CLUSTER_CAP ?? 6);
 
 const CATEGORY_RULES = [
   ["kitchen", /kitchen|cook|blender|fridge|microwave|kettle|coffee|toaster|air fryer|knife|pan\b|pot\b|mixer|oven|dish|food|spice|cutting board/],

@@ -22,7 +22,7 @@
       "name": "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/41y+ttUJO7L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-amz-20",
       "verdict": "A 750W supply, a JHL7440 controller and clearance for 13.7 inch cards that are not triple-slot.",
       "description": "The ORARA includes a 750W power supply, uses a JHL7440 Thunderbolt controller with a 32Gbps daisy chain, and works over Thunderbolt 3, 4 and USB4 at 40Gbps. It fits cards up to 13.7 by 6.17 by 2.3 inches and no triple-slot designs.\n\nA 750W supply gives a 3080 plenty of room, since the card draws around 320W and a CPU-less enclosure has little else to power. It ranks first because the all-in-one box removes the guesswork of picking a supply and a case. The clearance limit is the catch: many partner 3080s are three slots thick, so measure your card before ordering.\n\nBuy it if your 3080 is a two-slot card and you want a self-contained box. Skip it if your card is a chunky triple-slot design.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Sonnet eGPU Breakaway Box 750, External GPU Chassis",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/41JKaYppnlL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08Q7KF1FR?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08Q7KF1FR?tag=primeareviews-amz-20",
       "verdict": "A 750W Thunderbolt 3 chassis for Mac and Windows with a variable-speed, temperature-controlled fan.",
       "description": "The Sonnet Breakaway Box 750 offers a 750W supply, Thunderbolt 3 connectivity, Mac and Windows compatibility, and a variable-speed fan controlled by temperature. The listing describes the sizing as future-proof.\n\nSonnet has made Breakaway Boxes for years, so the compatibility notes and community experience around it are deep, which counts for a product that depends on driver and firmware quirks. It ranks second to the ORARA because the connection is Thunderbolt 3 only in the listing, and the data omits clearance details.\n\nBuy it if you want a long-established brand and a quiet fan. Skip it if you need Thunderbolt 4 or USB4 features.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Plugable Thunderbolt 5 AI eGPU Enclosure & Dock, 850W PSU (TBT5-AI)",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41qbV612uYL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GKK4475L?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GKK4475L?tag=primeareviews-amz-20",
       "verdict": "An 850W 80+ Gold supply, 80Gbps Thunderbolt 5 and room for 3.5 slot cards.",
       "description": "The Plugable TBT5-AI has an 850W 80+ Gold supply with 600W dedicated to the GPU, 80Gbps Thunderbolt 5, 2.5Gbps Ethernet and room for a card up to 346 by 170 by 77mm, or 3.5 slots.\n\nIt fits a triple-slot RTX 3080 where the ORARA cannot, and Thunderbolt 5 gives headroom for later cards. The rub is that a 3080 will not use the extra bandwidth on a Thunderbolt 3 or 4 laptop, and you pay for the new port generation regardless. It lands third because the premium buys features beyond what a 3080 needs.\n\nBuy it if you have a triple-slot 3080 or plan to upgrade the GPU. Skip it if you only want to run a 3080 on an older laptop.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Sonnet Breakaway Box 850 T5 eGPU Enclosure, 80Gbps Thunderbolt 5",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/31zOV+7Da2L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FX86P6T8?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FX86P6T8?tag=primeareviews-amz-20",
       "verdict": "An 850W supply with triple-wide card support, 80Gbps, a 5GbE port and three USB-A dock ports.",
       "description": "The Breakaway Box 850 T5 has an 850W supply, supports triple-wide cards and offers 80Gbps bidirectional Thunderbolt 5, a 5GbE port and 3 USB-A 10Gbps ports.\n\nIt competes with the Plugable on nearly every spec, and the dock ports are the difference: a 5GbE socket and three fast USB-A ports turn the box into a docking station. It ranks fourth because the listing gives no detail on the GPU-dedicated wattage, which the Plugable states.\n\nBuy it if you want the box to double as a dock. Skip it if the Plugable's published GPU wattage appeals more.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Maskedfish eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps PD 85W Charging (MK-L18)",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41MxyXo6D4L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0DGV1YPZZ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0DGV1YPZZ?tag=primeareviews-amz-20",
       "verdict": "An open frame with PCIe 4.0 x16 mode, 85W laptop charging and no GPU length limit.",
       "description": "The Maskedfish MK-L18 uses JHL7540 or JHL7440 controllers with PCIe 4.0 x16 mode, offers 85W power delivery charging and dual Thunderbolt ports, and its open frame places no limit on GPU length.\n\nIt suits cards that will not fit sealed boxes, including long or triple-slot 3080s. The listing we reviewed does not list a power supply, so assume you provide an ATX unit of at least 750W and wire it yourself. The 85W laptop charging is welcome if the host has a Thunderbolt power-in.\n\nBuy it if your card is large and you are comfortable with an open build. Skip it if you want a plug-and-play box.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "VIKINYEE Thunderbolt 3/4 eGPU Enclosure USB4 (VK-Y900)",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/41HiGEZkv9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F138HBVF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F138HBVF?tag=primeareviews-amz-20",
       "verdict": "A JHL7440/7450 controller board with ENIG plating and dual Thunderbolt ports with 85W charging.",
       "description": "The VIKINYEE VK-Y900 uses JHL7440 or JHL7450 controllers on an ENIG-plated PCB, with dual Thunderbolt ports (15W and 85W PD) and support for RTX 50-series and RX 9000-series cards.\n\nENIG plating is a gold-over-nickel finish that resists corrosion on the board's contacts. It ranks sixth because the listing gives no power supply and no clearance, so a 3080 fit depends on your own supply and case. The 85W port helps keep a laptop alive.\n\nBuy it if you want a well-built controller board and a flexible build. Skip it if you want a sealed box.",
       "keySpecs": [
@@ -268,7 +268,7 @@
       "name": "External GPU Dock Station, Mini eGPU Enclosure Thunderbolt 3/4 USB4 40Gbps",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/31VsKLDnacL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D2V5YFMH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D2V5YFMH?tag=primeareviews-amz-20",
       "verdict": "A mini dock that accepts ATX, SFX, FLEX or DC 12V power and doubles as a USB-A and TB4 hub.",
       "description": "This mini eGPU dock works with ATX, SFX, FLEX or DC 12V power, uses a JHL7440 controller with a 32Gbps daisy chain, and doubles as a USB-A and Thunderbolt 4 hub.\n\nPower flexibility is the draw: an SFX supply keeps the build compact, and an ATX supply gives a 3080 all it needs. It ranks last because it ships without a case or supply, so the result depends on what you pair it with, and the listing details nothing about card clearance.\n\nBuy it if you already own a suitable power supply. Skip it if you want a finished enclosure.",
       "keySpecs": [

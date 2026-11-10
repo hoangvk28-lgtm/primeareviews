@@ -22,7 +22,7 @@
       "name": "NETGEAR GS308EP 8-Port PoE+ Smart Managed Switch",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/31nyBGJ-Y0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08MBFLMDC?tag=primeareviews-amz-20",
       "verdict": "The only 8-port pick that powers cameras and access points while still giving you VLANs and per-port control.",
       "description": "The GS308EP is an Easy Smart managed switch with eight gigabit ports, all of them PoE+, sharing a 62W power budget. That pairing is what makes it the most useful 8-port box in this ranking: one cable can feed a ceiling access point, an IP camera or a VoIP phone, and the web interface lets you shut PoE off or on per port. It also keeps PoE running while the switch itself reboots, which saves a lot of unplugging when you change settings.\n\nIt sits above the TP-Link and the other NETGEAR models because power delivery is the feature that normally forces people into a pricier switch. The tradeoff is the budget. 62W is a total, not a per-port figure, so two or three cameras and an access point is comfortable, while a rack of power-hungry devices is not. It also costs noticeably more than the plain managed models, so if nothing on your network needs PoE you are paying for capability you will not use.\n\nBuy it for a small office, a home lab or a smart-home network where a few devices need both data and power. Skip it if you only need VLAN segmentation for computers, because the cheaper GS308E does that job for far less. Check the combined wattage of everything you plan to plug in before you commit, since PoE+ devices vary widely in how much of the budget they claim.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "NETGEAR GS308E 8-Port Easy Smart Managed Switch",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=primeareviews-amz-20",
       "verdict": "The cheapest way to get real VLANs, loop protection and a clean web interface on eight ports.",
       "description": "The GS308E is NETGEAR's entry Easy Smart managed switch. It lists support for up to 64 VLANs, a web interface that works from any operating system, and automatic protection against DoS attacks, loops and broadcast storms. In practice that means you can split a home network into trusted, guest and IoT segments without buying anything beyond the switch itself.\n\nIt ranks second because it delivers nearly everything the top pick does for managed networking at a fraction of the cost, and it carries a larger VLAN allowance than the TP-Link below it on paper. What it leaves out is PoE, so every device needs its own power adapter. That is the real tradeoff against the GS308EP, and it is why this model is a stepping stone for people who already have power at each endpoint.\n\nChoose it if you want to learn VLANs, isolate smart-home gadgets, or tidy up a desk setup with traffic prioritization. Avoid it if you plan to mount cameras or access points where there is no outlet. Be aware that Easy Smart firmware is configured through a browser page rather than a full command line, so power users who want scripting will outgrow it.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "TP-Link TL-SG108E 8-Port Easy Smart Switch",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/41mABHEKN8L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=primeareviews-amz-20",
       "verdict": "A long-running budget managed switch with link aggregation and a three-year warranty.",
       "description": "TP-Link's TL-SG108E offers eight gigabit ports, support for 32 simultaneous VLANs, and link aggregation in a small, low-cost box. The three-year warranty is the longest on the spec sheets we reviewed in this group, which matters for a device that sits in a closet running for years.\n\nIt lands third because the 32-VLAN ceiling is half of what the GS308E lists, and TP-Link's utility is generally considered a little less polished than a browser-first interface. It stays above the older NETGEAR GS108E because the warranty and aggregation support give it a clearer reason to exist. The tradeoff is that link aggregation only helps when the device on the other end supports it, so most home setups will never touch that feature.\n\nBuy it if you want a dependable managed switch with a generous warranty and a price that is hard to beat. Skip it if you want PoE or the largest VLAN count in this class. Keep in mind that Easy Smart switches of this kind are configured by a utility or browser page, so confirm you can reach the management address from your computer before you place the switch somewhere inaccessible.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "NETGEAR GS110TP 10-Port PoE+ Smart Managed Switch",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/31Ysw6x4w3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07PPXXHG5?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07PPXXHG5?tag=primeareviews-amz-20",
       "verdict": "Eight PoE+ ports, two SFP slots and SNMP for networks that may grow past one closet.",
       "description": "The GS110TP is a step up in class: eight PoE+ gigabit ports with a 55W budget, plus two SFP slots, smart managed software, SNMP support and a year of NETGEAR Insight cloud management. The SFP pair is the feature none of the other switches here have, because it lets you run fiber or a long uplink to another building or rack.\n\nIt ranks fourth because the extra connectivity comes with compromises. Its PoE budget is a little lower than the GS308EP's 62W and its price is higher, so for a plain eight-camera setup the cheaper switch actually has more power to spend. We placed it above the GS108E because SNMP and fiber options give it a job the basic models cannot do at all.\n\nBuy it if you run a small business network that needs monitoring, or if you must connect a distant switch over fiber. Skip it if you just want eight copper ports at a low price. Note that it is a 10-port model, so strictly speaking eight of its ports are copper; confirm you have SFP modules on hand before relying on the uplinks.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "NETGEAR GS108E 8-Port Easy Smart Managed Switch",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/31ZzxjjdjnL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0D953VG1X?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0D953VG1X?tag=primeareviews-amz-20",
       "verdict": "Solid VLAN, QoS and port mirroring in a fanless case, but the cheaper GS308E has overtaken it.",
       "description": "The GS108E is a long-standing Easy Smart switch with VLAN support, QoS and port monitoring, in a fanless, energy-efficient housing. Fanless matters if the switch sits on a desk or in a bedroom closet where you do not want noise.\n\nIt ranks last of the five because the newer GS308E offers the same management class and a larger VLAN allowance, usually for less money. Port monitoring is the one feature worth highlighting, since it lets you mirror traffic to a port and inspect it, which is a real aid when you are diagnosing a flaky device. That keeps it on the list rather than off it.\n\nPick it only if you find it at a discount or want a model with years of community documentation behind it. Skip it if you are buying new at full price, because the GS308E is the smarter choice. As with every Easy Smart model, set a static management address before you move it into a rack or wall plate.",
       "keySpecs": [

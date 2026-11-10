@@ -22,7 +22,7 @@
       "name": "Ring Wired Doorbell 4K Elite",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/210jWYKpi3L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FT74NT34?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FT74NT34?tag=primeareviews-amz-20",
       "verdict": "4K resolution and PoE in one wired doorbell, at $200 to $500.",
       "description": "The Ring Wired Doorbell 4K Elite lists 4K video and PoE power, wired, in the $200 to $500 bracket. A single Ethernet cable carries both electricity and the video stream, so there is no battery to charge and no Wi-Fi signal to lose at the door.\n\nIt ranks first because it combines the highest listed resolution with the most reliable connection method. 4K gives you more pixels to zoom into when you need to read a license plate or a package label. The tradeoff is cost, since it is the most expensive doorbell here, and you will pay for Ring's subscription features to review footage in the app.\n\nBuy it if your house already has Ethernet at the door and you want top image quality. Skip it if you only have conventional doorbell wiring.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "REOLINK Video Doorbell PoE 2K Wired Outdoor Security Camera with",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/31KusgdSMGL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0B7S1HMPC?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0B7S1HMPC?tag=primeareviews-amz-20",
       "verdict": "A 2K PoE doorbell for $100 to $200, from a company that builds PoE cameras.",
       "description": "The REOLINK lists 2K video, PoE and a wired outdoor design, at $100 to $200. 2K is a clear step up from 1080p and perfectly good for faces and packages at a typical front door.\n\nIt ranks second because it delivers the PoE advantage at roughly half the cost of the Ring Elite. Reolink focuses on PoE security cameras, so the doorbell fits easily into a home camera setup. It sits behind the Ring because the resolution is lower, and the listing does not describe any app ecosystem or features beyond video.\n\nChoose it if you already run a PoE switch for cameras. Skip it if you want the highest resolution.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "Aqara Doorbell Camera G400 with Chime",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/413fvkmsBeL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0G52BVRLQ?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0G52BVRLQ?tag=primeareviews-amz-20",
       "verdict": "The least expensive PoE doorbell here, with a chime included.",
       "description": "The Aqara G400 lists PoE power, a wired design and an included chime, priced at $50 to $100. No resolution is stated, which is the main gap.\n\nIt ranks third because it is half the price of the Reolink and a quarter of the Ring, and the included chime means you do not need to hunt for a separate indoor unit. Aqara is a smart-home brand, so it should fit homes already using its sensors. With no resolution listed, we cannot place it above the Reolink for image quality.\n\nBuy it if you want PoE on a small budget. Skip it if you want to confirm picture quality before buying.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "Ring Wired Doorbell 4K Pro",
       "score": 85,
       "imageUrl": "https://m.media-amazon.com/images/I/21aR5kjPK9L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0F151GFYR?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0F151GFYR?tag=primeareviews-amz-20",
       "verdict": "4K and wired, but the listing does not state PoE power.",
       "description": "The Ring Wired Doorbell 4K Pro lists 4K video and a wired design, at $100 to $200. Unlike the Elite, the listing does not mention PoE, so assume it runs on conventional doorbell wiring unless the seller says otherwise.\n\nIt ranks fourth because it is the way to get 4K picture quality without installing Ethernet at the door. It sits behind the PoE models because power and data both depend on your existing wiring and Wi-Fi.\n\nChoose it if you want 4K and have working doorbell wire. Skip it if you specifically need PoE.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "WYZE Wired Doorbell Camera v2",
       "score": 81,
       "imageUrl": "https://m.media-amazon.com/images/I/31DOJR0HLxL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0C896D28H?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0C896D28H?tag=primeareviews-amz-20",
       "verdict": "A 2K wired doorbell for $50 to $100, with no PoE listed.",
       "description": "The WYZE Wired Doorbell Camera v2 lists 2K video and a wired design, at $50 to $100. PoE is not mentioned in the listing, so treat it as a doorbell-wire model.\n\nIt ranks last because the PoE options give a steadier connection, while this one depends on Wi-Fi. It does bring 2K at the same price as the Aqara, which makes it a fair choice if you cannot run Ethernet.\n\nBuy it for a budget wired install on existing doorbell wiring. Skip it if you want PoE.",
       "keySpecs": [
@@ -418,7 +418,7 @@
   "finalTake": "The Ring Wired Doorbell 4K Elite is the PoE doorbell to buy for the best picture and a stable connection. The REOLINK PoE 2K is the smart pick if you already have a PoE switch, and the Aqara G400 is the budget route. If you cannot run Ethernet, the Ring 4K Pro is the fallback.",
   "related": [
     "best-ring-video-doorbells",
-    "best-video-doorbells-that-work-with-mechanical-chimes",
-    "best-video-doorbells-without-smartphones"
+    "best-video-doorbells-for-apartments",
+    "best-video-doorbells-that-work-with-mechanical-chimes"
   ]
 }

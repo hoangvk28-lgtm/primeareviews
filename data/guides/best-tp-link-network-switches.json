@@ -22,7 +22,7 @@
       "name": "TP-Link TL-SG105 5-Port Gigabit Unmanaged Switch",
       "score": 93,
       "imageUrl": "https://m.media-amazon.com/images/I/31EjVOSYMLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=primeareviews-amz-20",
       "verdict": "The plug-and-play five-port switch that fits most desks.",
       "description": "The TL-SG105 is the switch to buy when you just need more wired ports. It has five Gigabit ports with QoS and IGMP snooping, a metal desktop or wall-mount case and a three-year warranty, under $25. QoS lets it prioritize traffic, and IGMP snooping stops multicast streams, such as IPTV, from flooding every port.\n\nIt ranks first because it covers the most common need at the lowest price. The 2.5G models below are faster but cost more, and they only help when the rest of your gear is also 2.5G.\n\nBuy it for a desk or a small TV cabinet. The caveat is the ceiling: every port is capped at Gigabit, so a 2.5G router or NAS will be held back, and there is no PoE, so cameras and access points need their own power adapters.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "TP-Link TL-SG1005P 5-Port Gigabit PoE Switch",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41kx+YQoVLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B076HZFY3F?tag=primeareviews-amz-20",
       "verdict": "Powers four PoE+ devices from one box with 65W total.",
       "description": "The TL-SG1005P adds power to the same formula. It has four PoE+ ports sharing 65W in total, plus one uplink, with QoS, IGMP snooping and a three-year warranty, in the $25 to $50 bracket. PoE carries power and data over one cable, which means a camera or access point needs only a cable run, not a nearby outlet.\n\nIt ranks second because it extends the TL-SG105 idea into PoE, but the limit is the budget: 65W is shared, so four hungry devices can exceed it.\n\nBest for a few cameras or one access point. Check each device's wattage against the 65W total before buying. The caveat is the layout: one port is a plain uplink, so you have only four powered ports, and all of them share the same budget.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "TP-Link TL-SG105S-M2 5-Port 2.5G Unmanaged Switch",
       "score": 88,
       "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=primeareviews-amz-20",
       "verdict": "Five 2.5G ports that run over existing Cat5e cabling.",
       "description": "The TL-SG105S-M2 is the cheapest way to go beyond Gigabit. It has five ports at 2.5G with 25Gbps switching capacity in a compact metal case, works over existing Cat5e cabling and sits in the $25 to $50 bracket. Capacity matters because a switch must carry every port's traffic at once, and 25Gbps covers five 2.5G ports in both directions with room to spare.\n\nIt ranks third because 2.5G only pays off with matching gear. Against the TL-SG105 it costs more but removes the Gigabit ceiling.\n\nBuy it if your router, NAS or PC already has a 2.5G port. The caveat is that it has no PoE, so cameras still need separate power, and if everything else you own is Gigabit, the extra spending buys nothing.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "TP-Link TL-SG108S-M2 8-Port 2.5G Unmanaged Switch",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=primeareviews-amz-20",
       "verdict": "Eight fanless 2.5G ports for a growing multi-device setup.",
       "description": "The TL-SG108S-M2 extends the idea to eight ports. It has eight ports at 2.5G with 40Gbps capacity, a fanless unmanaged design and Cat5e compatibility, in the $50 to $100 bracket. Fanless means no moving parts and no noise, which matters if the switch sits on a desk or in a living room cabinet.\n\nIt ranks fourth because it is the same concept as the five-port 2.5G model with more ports and a higher bracket. You pay for headroom you may not use.\n\nBest for a home lab with several 2.5G devices, such as a NAS, a workstation and a mini PC. The caveat is plain: do not buy it for only two or three devices, since the five-port model covers that. It has no PoE or management either.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "TP-Link TL-SG116 16-Port Gigabit Unmanaged Switch",
       "score": 83,
       "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=primeareviews-amz-20",
       "verdict": "Sixteen Gigabit ports for a crowded closet.",
       "description": "The TL-SG116 trades speed for volume. It has 16 Gigabit ports with QoS and IGMP snooping, a 0 to 40 degree operating range and a three-year warranty, in the $50 to $100 bracket. In a house with consoles, TVs, desktops and printers all on cables, sixteen ports means everything connects without a second switch.\n\nIt ranks fifth because it offers volume rather than speed, and the 2.5G switches above are faster per port. It has no PoE either.\n\nBest for a wired home with many devices. The 0 to 40 degree range matters in a warm closet, where a switch with a narrower range can overheat. The caveat is that every port is capped at Gigabit, so it will not suit a 2.5G plan.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "TP-Link TL-SG3452P 48-Port L2+ Managed PoE Switch",
       "score": 80,
       "imageUrl": "https://m.media-amazon.com/images/I/31Y8GW4ubPL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B092CK2366?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B092CK2366?tag=primeareviews-amz-20",
       "verdict": "A 48-port managed PoE+ switch for large installs.",
       "description": "The TL-SG3452P is a different class of equipment. It has 48 PoE+ ports sharing 384W, L2+ management, four SFP slots, static routing and a five-year warranty, in the $500 and up bracket. Management lets you create VLANs and control traffic, and 384W of PoE budget can power dozens of cameras and phones.\n\nIt ranks last for a general audience because it is far more switch than a home needs. For a business or large lab, it leads the list on features.\n\nBuy it for offices and campuses where someone will configure it. The caveat is cost and complexity: a home user would pay for ports and management they never use, and the setup takes network knowledge. Everyone else should choose a smaller unmanaged model.",
       "keySpecs": [

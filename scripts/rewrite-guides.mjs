@@ -16,7 +16,7 @@ const ROOT = process.cwd();
 const WORK = path.join(ROOT, "scripts", ".work");
 const GUIDES = path.join(ROOT, "data", "guides");
 const MODEL = "claude-opus-5-5";
-const TAG = "primeareviews-20";
+const TAG = "primeareviews-amz-20";
 const TODAY = new Date().toISOString().slice(0, 10);
 
 const client = new Anthropic();

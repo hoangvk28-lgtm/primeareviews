@@ -22,7 +22,7 @@
       "name": "Plugable Thunderbolt 5 AI eGPU Enclosure & Dock, 850W PSU (TBT5-AI)",
       "score": 94,
       "imageUrl": "https://m.media-amazon.com/images/I/41qbV612uYL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GKK4475L?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GKK4475L?tag=primeareviews-amz-20",
       "verdict": "An 850W 80+ Gold supply with 600W set aside for the GPU, Thunderbolt 5 and 3.5 slot clearance.",
       "description": "The TBT5-AI has an 850W 80+ Gold power supply with 600W dedicated to the GPU, 80Gbps Thunderbolt 5, 2.5Gbps Ethernet and room for cards up to 346 by 170 by 77mm, or 3.5 slots.\n\nThe 600W GPU allocation is the number to care about, because a 5090 can pull a sustained load in the high 500s of watts and spikes above that. A supply that reserves 600W for the card gives a small buffer, which most 750W boxes cannot. The 80+ Gold rating means the supply runs efficiently and cooler. It leads because it is the one option here that states both the headroom and the card clearance.\n\nBuy it if you want a box that is built for power-hungry cards. Skip it if your laptop has only Thunderbolt 4.",
       "keySpecs": [
@@ -63,7 +63,7 @@
       "name": "Sonnet Breakaway Box 850 T5 eGPU Enclosure, 80Gbps Thunderbolt 5",
       "score": 92,
       "imageUrl": "https://m.media-amazon.com/images/I/31zOV+7Da2L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FX86P6T8?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FX86P6T8?tag=primeareviews-amz-20",
       "verdict": "An 850W box with triple-wide support, 80Gbps both ways, a 5GbE port and three 10Gbps USB-A ports.",
       "description": "The Breakaway Box 850 T5 has an 850W supply, triple-wide card support, 80Gbps bidirectional Thunderbolt 5, a 5GbE port and 3 USB-A ports at 10Gbps.\n\nSonnet is the longest-running name in eGPU chassis, and its dock ports turn the box into a desk hub: wired networking, three fast USB ports and the GPU through one cable. It ranks just behind the Plugable because the listing does not state how much of the 850W is reserved for the graphics card, which is the number a 5090 owner wants.\n\nBuy it if you want the box to double as a dock. Skip it if you want a stated GPU wattage.",
       "keySpecs": [
@@ -104,7 +104,7 @@
       "name": "GIGABYTE AORUS RTX 5090 AI Box Graphics Card, 32GB GDDR7",
       "score": 90,
       "imageUrl": "https://m.media-amazon.com/images/I/41OphlqazLL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0FPDRFYT7?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0FPDRFYT7?tag=primeareviews-amz-20",
       "verdict": "An RTX 5090 with 32GB GDDR7 already inside, with Thunderbolt 5, USB4 and all-in-one WATERFORCE cooling.",
       "description": "The AORUS AI Box has an integrated RTX 5090 with 32GB of GDDR7, Thunderbolt 5 and USB4 with daisy chain support, and WATERFORCE all-in-one liquid cooling.\n\nIt skips the hardest parts of an eGPU build: no card to buy separately, no clearance worries and no power supply to size, because the vendor engineered them together. The compromise is that you cannot swap the card later, so the box is only as current as the GPU inside. It ranks third because it is a sealed product, not a flexible enclosure, and it sits in the top price bracket.\n\nBuy it if you want a 5090 external with nothing to assemble. Skip it if you already own a card.",
       "keySpecs": [
@@ -145,7 +145,7 @@
       "name": "ORARA eGPU Enclosure Thunderbolt 3/4/USB4 40Gbps with 750W PSU",
       "score": 86,
       "imageUrl": "https://m.media-amazon.com/images/I/41y+ttUJO7L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B0GC42LXZF?tag=primeareviews-amz-20",
       "verdict": "A 750W supply and JHL7440 controller, but a 2.3 inch thickness limit and a 40Gbps link.",
       "description": "The ORARA includes a 750W supply, a JHL7440 controller with a 32Gbps daisy chain, and Thunderbolt 3, 4 and USB4 at 40Gbps. It fits cards up to 13.7 by 6.17 by 2.3 inches, with no triple-slot designs.\n\nFor a 5090 it is a compromise on three fronts. A 750W supply has little spare capacity beyond the card's peak draw, the 2.3 inch limit rules out the chunky partner designs, and a 40Gbps link leaves much of the 5090's capability unused. It ranks fourth because it is workable for a slim, power-limited 5090, and a lot cheaper than the Thunderbolt 5 boxes.\n\nBuy it if you have a slim 5090 and an older laptop. Skip it if your card is a triple-slot model.",
       "keySpecs": [
@@ -186,7 +186,7 @@
       "name": "Sonnet eGPU Breakaway Box 750ex, External GPU Chassis",
       "score": 82,
       "imageUrl": "https://m.media-amazon.com/images/I/41xb6uOMr0L._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08Q755RQS?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08Q755RQS?tag=primeareviews-amz-20",
       "verdict": "A 750W Thunderbolt 3 chassis with four USB-A ports and Gigabit Ethernet.",
       "description": "The Breakaway Box 750ex has a 750W supply, 4 USB-A ports, Gigabit Ethernet and Thunderbolt 3, and works on Mac and Windows. It adds dock connectivity over the base 750 model.\n\nIt earns a place because Sonnet's older designs have a long record, but it is a Thunderbolt 3 product, so a 5090 would be heavily bandwidth limited. The listing does not give clearance numbers. Treat it as a way to run a lower-end card now, with the 5090 as a stretch.\n\nBuy it if you own an older Thunderbolt 3 machine and want dock ports. Skip it if the 5090 is your reason for buying.",
       "keySpecs": [
@@ -227,7 +227,7 @@
       "name": "Sonnet eGPU Breakaway Box 750, External GPU Chassis",
       "score": 79,
       "imageUrl": "https://m.media-amazon.com/images/I/41JKaYppnlL._SL500_.jpg",
-      "amazonUrl": "https://www.amazon.com/dp/B08Q7KF1FR?tag=primeareviews-20",
+      "amazonUrl": "https://www.amazon.com/dp/B08Q7KF1FR?tag=primeareviews-amz-20",
       "verdict": "A 750W Thunderbolt 3 chassis for Mac and Windows with a temperature-controlled fan.",
       "description": "The Breakaway Box 750 has a 750W supply, Thunderbolt 3, Mac and Windows compatibility and a variable-speed fan that follows temperature. The listing calls its sizing future-proof.\n\nIt ranks last for a 5090 because it is the same chassis as the 750ex without the dock ports, with the same link limit. The 750W supply is adequate for many cards, but a 5090 pushes it. The fan control is a plus for quiet operation.\n\nBuy it if you have a mid-range card and a Thunderbolt 3 laptop. Skip it for a 5090.",
       "keySpecs": [
