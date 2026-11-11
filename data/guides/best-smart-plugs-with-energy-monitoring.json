@@ -1,0 +1,465 @@
+{
+  "slug": "best-smart-plugs-with-energy-monitoring",
+  "category": "tech-accessories",
+  "h1": "The 6 Best Smart Plugs with Energy Monitoring, Ranked & Reviewed",
+  "metaTitle": "Energy Monitoring Smart Plugs: Ranked & Reviewed",
+  "metaDescription": "Ranked and reviewed by Primea: 6 smart plugs with energy monitoring, compared on Matter support, load rating, cost views and platforms.",
+  "mainKeyword": "best smart plugs with energy monitoring",
+  "publishedAt": "2026-11-11",
+  "updatedAt": "2026-11-11",
+  "readTime": "9 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41gZLbJ6+rL._SL500_.jpg",
+  "summary": "The Kasa KP125 is the best energy-monitoring smart plug, with Matter, 15A and 1800W capacity and broad platform support. Tapo's P110M adds bill estimates, the P115 adds a charging cutoff, and Govee's 4-pack is the best for auditing a room.",
+  "intro": [
+    "A smart plug tells you what a device costs only if it shows the numbers you can act on. Many plugs claim monitoring and give a single wattage reading that you never revisit, so the app matters as much as the hardware. Our scoring leans on the parts that change behavior: whether the plug shows cost, whether it survives a router outage, and whether the rating can actually carry the load you plan to plug in.",
+    "We ranked six plugs by standard support, load rating, usage charts, cost views and platform coverage. Listing data is uneven: some name the load rating and some do not, and we flag the gaps. That is why a four-pack of plain meters can lose to a single plug with a better app. Listing data is uneven: some name the load rating and some do not, and we flag every gap rather than assume a number."
+  ],
+  "products": [
+    {
+      "id": "kasa-matter-kp125",
+      "rank": 1,
+      "award": "Best Overall",
+      "name": "Kasa Matter Smart Plug KP125",
+      "score": 94,
+      "imageUrl": "https://m.media-amazon.com/images/I/41j1Z+aIwyL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0BYGMR4DX?tag=primeareviews-amz-20",
+      "verdict": "Matter support, 15A and 1800W capacity and local network control across all the major platforms.",
+      "description": "The Kasa KP125 is a Matter-compatible smart plug rated 15A and 1800W max, tracking usage over time and offering local network control. It works with Apple Home, Alexa, Google Home and SmartThings, and costs $25 to $50.\n\nFor energy monitoring the platform question comes first. A plug that locks you to one assistant is a bad bet when you may switch phones. Matter is the cross-platform standard, so this plug follows you from Apple to Google. Local control also means schedules keep working when the internet drops.\n\nBuy it for a mixed-platform household that wants honest usage tracking. The 1800W cap covers a space heater on low but not a high-draw appliance, so check your device's wattage.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "Matter compatible"
+        },
+        {
+          "label": "Load",
+          "value": "15A / 1800W max"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Usage over time"
+        },
+        {
+          "label": "Platforms",
+          "value": "Apple, Alexa, Google, SmartThings"
+        }
+      ],
+      "pros": [
+        "Matter cross-platform support",
+        "15A and 1800W capacity",
+        "Local network control",
+        "Works with four platforms"
+      ],
+      "cons": [
+        "1800W cap for heavy loads",
+        "Basic charts vs Tapo's cost view"
+      ],
+      "idealFor": "Mixed-platform homes wanting dependable usage tracking.",
+      "skipIf": "You want bill estimates in the app."
+    },
+    {
+      "id": "tapo-p110m-matter",
+      "rank": 2,
+      "award": "Best Matter Value",
+      "name": "Tapo P110M Matter Smart Plug",
+      "score": 93,
+      "imageUrl": "https://m.media-amazon.com/images/I/41gZLbJ6+rL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0DKG52WQ4?tag=primeareviews-amz-20",
+      "verdict": "Matter certified with energy charts and bill estimates, in a 15A plug.",
+      "description": "The Tapo P110M is Matter certified, rated 15A, and shows energy statistics in clear charts with an estimated cost view. It costs $25 to $50.\n\nThe bill estimate is its edge: seeing a dollar figure for the space heater or the dehumidifier is what makes monitoring change behavior. Against the Kasa it matches Matter and 15A, and adds the cost view, but lists fewer platform names.\n\nBuy it if you want to see what each device costs each month. Verify that the cost estimate uses your actual electricity rate.",
+      "keySpecs": [
+        {
+          "label": "Standard",
+          "value": "Matter certified"
+        },
+        {
+          "label": "Load",
+          "value": "15A"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Charts and statistics"
+        },
+        {
+          "label": "Billing",
+          "value": "Estimated cost view"
+        }
+      ],
+      "pros": [
+        "Matter certified",
+        "Energy charts and statistics",
+        "Estimated bill view",
+        "15A rating"
+      ],
+      "cons": [
+        "Wattage cap not listed",
+        "Estimate depends on your rate"
+      ],
+      "idealFor": "People who want to see costs per device.",
+      "skipIf": "You do not use the Tapo app."
+    },
+    {
+      "id": "tapo-p115",
+      "rank": 3,
+      "award": "Best for Charging Control",
+      "name": "Tapo P115 Energy Monitoring Plug",
+      "score": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/41qiSzMtqBL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0D7FZ97T5?tag=primeareviews-amz-20",
+      "verdict": "Energy charts, bill estimates and a smart charging cutoff.",
+      "description": "The Tapo P115 is a 15A plug with energy tracking charts, an estimated bill view and a smart charging cutoff. It costs $25 to $50. The cutoff works only for devices whose draw clearly drops when full.\n\nThe charging cutoff is the interesting extra. It can switch off a device once it stops drawing power, which helps with laptops and e-bike batteries. It lacks Matter in our data, so it is less future-proof than the P110M. Pick it over the P110M only if the cutoff matters, since Matter is the longer-lived feature.\n\nBuy it for devices that charge unattended. If you want Matter, buy the P110M instead.",
+      "keySpecs": [
+        {
+          "label": "Load",
+          "value": "15A"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Charts and statistics"
+        },
+        {
+          "label": "Billing",
+          "value": "Estimated cost view"
+        },
+        {
+          "label": "Extra",
+          "value": "Smart charging cutoff"
+        }
+      ],
+      "pros": [
+        "Smart charging cutoff",
+        "Energy tracking charts",
+        "Bill estimate view",
+        "15A rating"
+      ],
+      "cons": [
+        "No Matter listed",
+        "Cutoff depends on the device"
+      ],
+      "idealFor": "Charging laptops and batteries unattended.",
+      "skipIf": "You need Matter."
+    },
+    {
+      "id": "emporia-smart-plug",
+      "rank": 4,
+      "award": "Best for Schedules",
+      "name": "Emporia Smart Plug",
+      "score": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/419G35Ov6bL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CLVRZ2QL?tag=primeareviews-amz-20",
+      "verdict": "A 15A Wi-Fi outlet with energy monitoring and built-in on and off schedules.",
+      "description": "Emporia makes a 15A, 120V Wi-Fi outlet that logs energy use, answers to Alexa and Google Home, and stores its own on and off schedules. Schedules live on the plug, not in a cloud queue.\n\nFourth place reflects a solid feature list, though no Apple or Matter support is listed. Built-in schedules run on the plug itself, so timed lighting keeps working offline. It sits below the Tapo plugs because their apps show a cost view and this one is thinner on platform reach.\n\nBuy it for lamps and appliances you run on a timer. Apple Home users should choose a Matter plug. Check the plug's rating before attaching a heater, because none is listed.",
+      "keySpecs": [
+        {
+          "label": "Load",
+          "value": "15A, 120V"
+        },
+        {
+          "label": "Monitoring",
+          "value": "Energy monitoring"
+        },
+        {
+          "label": "Voice",
+          "value": "Alexa and Google Home"
+        },
+        {
+          "label": "Schedules",
+          "value": "Built-in on and off"
+        }
+      ],
+      "pros": [
+        "15A, 120V outlet",
+        "Built-in schedules",
+        "Energy monitoring",
+        "Alexa and Google support"
+      ],
+      "cons": [
+        "No Apple or Matter listed",
+        "Wattage cap not listed"
+      ],
+      "idealFor": "Timed lamps and appliances.",
+      "skipIf": "You use Apple Home."
+    },
+    {
+      "id": "govee-4-pack-energy-plug",
+      "rank": 5,
+      "award": "Best Multi-Pack",
+      "name": "Govee Smart Plug with Energy Monitoring, 4-Pack",
+      "score": 86,
+      "imageUrl": "https://m.media-amazon.com/images/I/41S-3dOjCRL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CKM8CF7N?tag=primeareviews-amz-20",
+      "verdict": "Four plugs reporting power, current and voltage over Wi-Fi and Bluetooth.",
+      "description": "Govee's set has four plugs that report power, current and voltage, with Wi-Fi and Bluetooth connectivity and Alexa and Google Assistant support. It costs $25 to $50. Current and voltage together let you spot a poor adapter, not just a high bill.\n\nFour plugs at that price is the draw: you can monitor the fridge, TV, computer and space heater at once. Voltage readings add a power quality view. It gives up Matter and Apple support. It ranks under the Tapo pair because the app is lighter and Matter is missing, though the per-plug cost is lower.\n\nBuy it to audit a whole room. The tradeoff is a lighter app experience than the Tapo plugs. Buy it for a one-time audit, then move plugs to the worst offenders.",
+      "keySpecs": [
+        {
+          "label": "Pack",
+          "value": "4 plugs"
+        },
+        {
+          "label": "Readings",
+          "value": "Power, current, voltage"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Wi-Fi and Bluetooth"
+        },
+        {
+          "label": "Voice",
+          "value": "Alexa and Google Assistant"
+        }
+      ],
+      "pros": [
+        "Four plugs in the box",
+        "Power, current and voltage readings",
+        "Wi-Fi and Bluetooth",
+        "Alexa and Google support"
+      ],
+      "cons": [
+        "No Matter or Apple support",
+        "Rating not listed"
+      ],
+      "idealFor": "Auditing several devices at once.",
+      "skipIf": "You use Apple Home."
+    },
+    {
+      "id": "kasa-mini-kp115",
+      "rank": 6,
+      "award": "Best Budget",
+      "name": "Kasa Smart Plug Mini KP115",
+      "score": 85,
+      "imageUrl": "https://m.media-amazon.com/images/I/31s2RqszfpL._SL500_.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B08LN3C7WK?tag=primeareviews-amz-20",
+      "verdict": "Energy monitoring built in for under $25, on 2.4GHz Wi-Fi.",
+      "description": "Kasa's Mini is the cheapest way in: monitoring is part of the plug, it joins a 2.4GHz network, answers to Alexa and Google Home, and the app reaches it from anywhere. Price is under $25. It is an older design, and the app has fewer cost views than the Tapo apps.\n\nLast place goes to the older design, with no Matter or Apple listed and no load rating in our data. The 2.4GHz-only Wi-Fi can also be a pain on dual-band routers.\n\nBuy it as an inexpensive way to start monitoring. If you can spend a bit more, the KP125 is the upgrade.",
+      "keySpecs": [
+        {
+          "label": "Monitoring",
+          "value": "Built in"
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "2.4GHz"
+        },
+        {
+          "label": "Voice",
+          "value": "Alexa and Google Home"
+        },
+        {
+          "label": "Price tier",
+          "value": "Under $25"
+        }
+      ],
+      "pros": [
+        "Under $25",
+        "Energy monitoring built in",
+        "Alexa and Google support",
+        "Remote app control"
+      ],
+      "cons": [
+        "2.4GHz Wi-Fi only",
+        "No Matter support"
+      ],
+      "idealFor": "Starting energy monitoring cheaply.",
+      "skipIf": "You want Matter or Apple support."
+    }
+  ],
+  "methodology": [
+    {
+      "title": "Standards and platforms",
+      "description": "Matter, Apple, Alexa, Google and SmartThings support."
+    },
+    {
+      "title": "Load rating",
+      "description": "Amps and watts the plug can handle."
+    },
+    {
+      "title": "Monitoring depth",
+      "description": "Charts, cost views and readings."
+    },
+    {
+      "title": "Extras",
+      "description": "Schedules, charging cutoff and local control."
+    },
+    {
+      "title": "Price tier",
+      "description": "Cost per plug."
+    }
+  ],
+  "whatMatters": [
+    {
+      "factor": "Matter support",
+      "detail": "Matter is the cross-platform smart home standard, and it decides whether a plug survives a phone switch or a new hub. If you may move between Apple Home, Google and Alexa, it saves you from re-buying everything. Check the listing for the Matter logo or the word Matter in the title; the Kasa KP125 and Tapo P110M carry it, while the rest list only voice assistants."
+    },
+    {
+      "factor": "Load rating",
+      "detail": "Load rating is the maximum power a plug can carry safely, and a 15A plug on 120V tops out near 1800W. Space heaters, window air conditioners and some kitchen appliances sit close to that ceiling, and a plug run at its limit for hours gets hot. Compare the wattage on your device's label to the plug's stated rating, and treat a missing rating as a reason to keep heaters off it."
+    },
+    {
+      "factor": "Monitoring depth",
+      "detail": "Monitoring depth is what the app does with the readings. Instant watts are a curiosity; history charts and a cost estimate, as on the Tapo P110M and P115, show you what the dehumidifier costs per month. Govee adds voltage and current, which helps spot a failing adapter. Look for screenshots of history and billing views in the listing, not only the phrase energy monitoring."
+    },
+    {
+      "factor": "Local control",
+      "detail": "Local control means the plug accepts commands over your home network without a round trip to the maker's cloud. It matters because schedules and switches keep working when the internet drops or the vendor retires a server. The Kasa KP125 lists local network control, and the Emporia stores schedules on the plug. If a listing never mentions local or offline operation, assume cloud only."
+    },
+    {
+      "factor": "Charging cutoff and schedules",
+      "detail": "A charging cutoff powers a device down once its draw falls to idle, which protects against hours on the charger after a laptop or e-bike battery is full. Schedules cover the simpler job of timed lamps and fans. The Tapo P115 lists the cutoff; most others offer schedules only. Pick the extra that matches your actual load, and confirm the feature in the specs rather than the marketing images."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Platform",
+      "intro": "Platform support narrows the field.",
+      "table": {
+        "headers": [
+          "Platform",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Apple, Google, Alexa mix",
+            "Kasa Matter Smart Plug KP125"
+          ],
+          [
+            "Matter with bill view",
+            "Tapo P110M Matter Smart Plug"
+          ],
+          [
+            "Alexa and Google only",
+            "Emporia Smart Plug"
+          ],
+          [
+            "Alexa and Google, budget",
+            "Kasa Smart Plug Mini KP115"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "By Budget",
+      "table": {
+        "headers": [
+          "Spend",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Under $25",
+            "Kasa Smart Plug Mini KP115"
+          ],
+          [
+            "$25 to $50, Matter",
+            "Kasa Matter Smart Plug KP125"
+          ],
+          [
+            "$25 to $50, cost view",
+            "Tapo P110M Matter Smart Plug"
+          ],
+          [
+            "$25 to $50, multi-pack",
+            "Govee Smart Plug with Energy Monitoring, 4-Pack"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "Matter vs Standard Wi-Fi",
+      "cards": [
+        {
+          "label": "Matter",
+          "text": "Cross-platform, future-proof. Picks: Kasa KP125, Tapo P110M."
+        },
+        {
+          "label": "Standard Wi-Fi",
+          "text": "Works with the listed assistants only. Picks: Tapo P115, Emporia, Govee, Kasa Mini."
+        }
+      ],
+      "note": "Choose Matter if you use Apple Home or might switch platforms."
+    },
+    {
+      "subheading": "By Use",
+      "table": {
+        "headers": [
+          "Use",
+          "Our pick"
+        ],
+        "rows": [
+          [
+            "Space heater or appliance audit",
+            "Kasa Matter Smart Plug KP125"
+          ],
+          [
+            "Charging laptops",
+            "Tapo P115 Energy Monitoring Plug"
+          ],
+          [
+            "Timed lamps",
+            "Emporia Smart Plug"
+          ],
+          [
+            "Whole-room audit",
+            "Govee Smart Plug with Energy Monitoring, 4-Pack"
+          ]
+        ]
+      }
+    },
+    {
+      "subheading": "For Saving on Bills Specifically",
+      "cards": [
+        {
+          "label": "Look for",
+          "text": "A cost estimate, history charts and a load rating that covers your devices."
+        },
+        {
+          "label": "In this ranking",
+          "text": "Tapo P110M for cost views, Kasa KP125 for accuracy across platforms, Govee for auditing many devices."
+        }
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "cards": [
+        {
+          "label": "Spend more if",
+          "text": "You use Apple Home or want Matter. The Kasa KP125 or Tapo P110M is worth it."
+        },
+        {
+          "label": "Save if",
+          "text": "You only need a reading. The Kasa Mini KP115 costs under $25."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do they work with Apple Home?",
+      "a": "The Kasa KP125 lists Apple Home directly, and the Tapo P110M joins it through Matter. Govee, Emporia and the Kasa Mini list only Alexa and Google. If an iPhone household is the goal, choose one of the two Matter plugs and skip the rest."
+    },
+    {
+      "q": "What is the common mistake?",
+      "a": "Plugging a space heater into a plug with no stated wattage rating. The Kasa KP125 names 1800W max, which gives you a number to check against the heater's label. For the Tapo, Emporia and Govee plugs, read the product page before running anything heavy."
+    },
+    {
+      "q": "Is monitoring worth it over a meter?",
+      "a": "A plug meter reads one device, but it logs history and estimates cost, so a phantom load shows up as a steady overnight draw. The Tapo P110M's bill view turns watts into a monthly dollar figure. A one-time handheld meter cannot show that pattern over weeks."
+    },
+    {
+      "q": "How do I set one up?",
+      "a": "Plug it in, open the app, join it to your 2.4GHz network and name the device so voice commands work. The Kasa Mini KP115 is 2.4GHz only, which trips up people on combined band routers. Set your electricity rate in the Tapo app before trusting its cost view."
+    },
+    {
+      "q": "How do I maintain it?",
+      "a": "Install firmware updates when the app offers them, and unplug the unit if it feels hot under a heavy load. Keep it out of damp spots like bathrooms. Replace any plug that clicks erratically; the Govee four-pack makes a spare cheap."
+    },
+    {
+      "q": "Do they work without the internet?",
+      "a": "Partly. The Kasa KP125 lists local network control, so switching and schedules continue during an outage. The Emporia keeps its on and off schedules on the plug itself. Cloud-only plugs such as the Govee set may stop responding until the connection returns."
+    }
+  ],
+  "finalTake": "The Kasa KP125 is the energy-monitoring plug to buy for most homes, and Tapo's P110M is the pick for bill estimates. Govee's 4-pack suits audits, and the Kasa Mini is the budget start. Check the load rating, and never run a heater on a plug without one.",
+  "related": [
+    "best-smart-plugs-for-alexa",
+    "best-smart-plugs-for-lamps",
+    "best-wi-fi-smart-plugs"
+  ]
+}
