@@ -17,7 +17,9 @@ export default function About() {
         consistent scoring framework so every recommendation is comparable.
       </p>
       <p>
-        Each guide is ranked and reviewed by the Primea Editorial Team. We publish our{" "}
+        Every guide is ranked and reviewed under{" "}
+        <Link href="/author/joshua-parkes" prefetch={false}>Joshua Parkes</Link>, our editor in chief, who owns the
+        scoring framework and signs off on each ranking before it goes live. We publish our{" "}
         <Link href="/how-we-rank" prefetch={false}>full ranking methodology</Link> and update guides when the market
         changes.
       </p>

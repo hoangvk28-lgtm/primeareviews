@@ -7,7 +7,7 @@ import { categories } from "@/data/categories";
 export const revalidate = 86400;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPages = ["", "/guides", "/how-we-rank", "/about", "/affiliate-disclosure", "/privacy-policy", "/contact"];
+  const staticPages = ["", "/guides", "/how-we-rank", "/about", "/author/joshua-parkes", "/affiliate-disclosure", "/privacy-policy", "/contact"];
   return [
     ...staticPages.map((p) => ({ url: `${SITE_URL}${p}`, priority: p === "" ? 1 : 0.5 })),
     ...categories.map((c) => ({ url: `${SITE_URL}/guides/${c.slug}`, priority: 0.7 })),

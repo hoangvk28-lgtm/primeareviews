@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { AUTHOR } from "@/lib/author";
 import { Container } from "./Container";
 import { ScoreRing } from "./ScoreRing";
 import type { PrimeaGuide, PrimeaProduct } from "@/lib/types";
@@ -161,8 +162,14 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
       description: guide.metaDescription,
       datePublished: guide.publishedAt,
       dateModified: guide.updatedAt,
-      author: { "@type": "Organization", name: `${SITE_NAME} Editorial Team`, url: `${SITE_URL}/about` },
-      publisher: { "@type": "Organization", name: SITE_NAME, logo: { "@type": "ImageObject", url: `${SITE_URL}/icon.png` } },
+      author: {
+        "@type": "Person",
+        name: AUTHOR.name,
+        jobTitle: AUTHOR.role,
+        url: AUTHOR.url,
+        image: `${SITE_URL}${AUTHOR.image}`,
+      },
+      publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL, logo: { "@type": "ImageObject", url: `${SITE_URL}/icon.png` } },
       mainEntityOfPage: url,
       image: guide.heroImage,
     },
@@ -212,7 +219,13 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
           </div>
           <h1 className="mt-4 max-w-4xl text-3xl font-semibold leading-tight text-ink sm:text-5xl">{guide.h1}</h1>
           <div className="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-sm text-ink-soft">
-            <span>By the <Link href="/about" prefetch={false} className="font-semibold text-pine underline-offset-2 hover:underline">Primea Editorial Team</Link></span>
+            <span>
+              By{" "}
+              <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="font-semibold text-pine underline-offset-2 hover:underline">
+                {AUTHOR.name}
+              </Link>
+              , {AUTHOR.role}
+            </span>
             <span>Updated {fmtDate(guide.updatedAt)}</span>
             <span>{guide.readTime} read</span>
             <span>{guide.products.length} products ranked</span>

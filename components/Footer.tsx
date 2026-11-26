@@ -5,6 +5,7 @@ import { categories } from "@/data/categories";
 
 const company = [
   { href: "/about", label: "About" },
+  { href: "/author/joshua-parkes", label: "Our Editor" },
   { href: "/how-we-rank", label: "How We Rank" },
   { href: "/affiliate-disclosure", label: "Affiliate Disclosure" },
   { href: "/privacy-policy", label: "Privacy Policy" },
