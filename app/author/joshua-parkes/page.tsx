@@ -42,7 +42,7 @@ export default function AuthorPage() {
       <div className="bg-pine text-white">
         <Container className="grid gap-10 py-14 sm:grid-cols-[180px_1fr] sm:items-center">
           <div className="relative h-[180px] w-[180px] overflow-hidden rounded-2xl border-4 border-gold">
-            <Image src={AUTHOR.image} alt={`${AUTHOR.name}, ${AUTHOR.role} at ${SITE_NAME}`} fill sizes="180px" className="object-cover" priority />
+            <Image src={AUTHOR.image} alt={`${AUTHOR.name}, ${AUTHOR.role} at ${SITE_NAME}`} fill sizes="180px" className="object-cover" priority unoptimized />
           </div>
           <div>
             <p className="eyebrow !text-gold">{AUTHOR.role}</p>

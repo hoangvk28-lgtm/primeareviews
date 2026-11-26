@@ -151,6 +151,49 @@ function Contents({ picks }: { picks: { id: string; name: string }[] }) {
   );
 }
 
+// Who stands behind the ranking, stated at the point the reader finishes it.
+function AuthorBox() {
+  return (
+    <section className="my-12 rounded-2xl border border-line bg-card p-6 sm:p-7">
+      <p className="eyebrow">About the author</p>
+      <div className="mt-4 flex flex-col gap-5 sm:flex-row">
+        <Link
+          href={`/author/${AUTHOR.slug}`}
+          prefetch={false}
+          className="relative block h-24 w-24 shrink-0 overflow-hidden rounded-2xl border-4 border-gold"
+        >
+          <Image src={AUTHOR.avatar} alt={`${AUTHOR.name}, ${AUTHOR.role} at ${SITE_NAME}`} fill sizes="96px" className="object-cover" unoptimized />
+        </Link>
+        <div className="min-w-0">
+          <h2 className="font-display text-xl font-semibold text-ink">
+            <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="hover:text-pine hover:underline">
+              {AUTHOR.name}
+            </Link>
+          </h2>
+          <p className="text-sm font-semibold text-gold-dark">{AUTHOR.role}, {SITE_NAME}</p>
+          <p className="mt-3 text-sm leading-relaxed text-ink-soft">
+            Joshua owns the Primea Score framework and signs off on every ranking this site publishes. He and the
+            editors work from spec sheets, manuals, warranty terms, certifications and long-term owner feedback, and
+            a guide says so plainly when a listing leaves out the number that decides the purchase. Primea never
+            claims to have physically tested a product it has not, and no brand can pay for placement.
+          </p>
+          <div className="mt-4 flex flex-wrap gap-4 text-sm font-semibold">
+            <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="text-pine hover:underline">
+              More about {AUTHOR.name.split(" ")[0]}
+            </Link>
+            <Link href="/how-we-rank" prefetch={false} className="text-pine hover:underline">
+              How we rank
+            </Link>
+            <Link href="/contact" prefetch={false} className="text-pine hover:underline">
+              Report a correction
+            </Link>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { slug: string; h1: string }[] }) {
   const cat = getCategory(guide.category);
   const url = `${SITE_URL}/guide/${guide.slug}`;
@@ -218,13 +261,18 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             {SERP_LABEL} by {SITE_NAME}
           </div>
           <h1 className="mt-4 max-w-4xl text-3xl font-semibold leading-tight text-ink sm:text-5xl">{guide.h1}</h1>
-          <div className="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-sm text-ink-soft">
-            <span>
-              By{" "}
-              <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="font-semibold text-pine underline-offset-2 hover:underline">
-                {AUTHOR.name}
+          <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-ink-soft">
+            <span className="flex items-center gap-2.5">
+              <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="relative block h-9 w-9 shrink-0 overflow-hidden rounded-full border-2 border-gold">
+                <Image src={AUTHOR.avatar} alt={AUTHOR.name} fill sizes="36px" className="object-cover" unoptimized />
               </Link>
-              , {AUTHOR.role}
+              <span>
+                By{" "}
+                <Link href={`/author/${AUTHOR.slug}`} prefetch={false} className="font-semibold text-pine underline-offset-2 hover:underline">
+                  {AUTHOR.name}
+                </Link>
+                , {AUTHOR.role}
+              </span>
             </span>
             <span>Updated {fmtDate(guide.updatedAt)}</span>
             <span>{guide.readTime} read</span>
@@ -351,6 +399,8 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             <p className="eyebrow">Final take</p>
             <p className="mt-2 text-[15px] leading-relaxed text-ink">{guide.finalTake}</p>
           </section>
+
+          <AuthorBox />
 
           {related.length > 0 && (
             <section>
