@@ -938,6 +938,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-air-mattresses",
+  "h1": "The 8 Best Air Mattresses of 2026 for Guests and Camping, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 8 air mattresses scored on height, internal support, built-in pump, weight rating and warranty, from queen guest beds to twins.",
+  "heroImage": "https://m.media-amazon.com/images/I/41gWFGnxARL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
+ },
+ {
   "slug": "best-air-purifier-under-300",
   "h1": "The 7 Best Air Purifiers Under $300 for Allergies, Pets and Smoke in 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -1026,6 +1035,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 94
+ },
+ {
+  "slug": "best-airsoft-pistols",
+  "h1": "The 7 Best Airsoft Pistols for Field Play and Target Practice, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 7 airsoft pistols compared on power source, FPS, magazine capacity, blowback and build, with eye protection advice.",
+  "heroImage": "https://m.media-amazon.com/images/I/41ITT1pXzoL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 93
  },
  {
   "slug": "best-all-in-one-printers-for-home-use",
@@ -1271,6 +1289,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 93
  },
  {
+  "slug": "best-balcony-chair-sets",
+  "h1": "The 8 Best Balcony Chair Sets for Small Outdoor Spaces, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 balcony chair sets scored on footprint, weather resistance, cushion care, weight capacity and table design for small spaces.",
+  "heroImage": "https://m.media-amazon.com/images/I/41oUn-chhHL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-bath-transfer-boards",
   "h1": "The 6 Best Bath Transfer Boards and Benches of 2026, Ranked & Reviewed",
   "category": "health-mobility",
@@ -1403,6 +1430,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: 7 bedside commodes under $150, scored on weight capacity, drop arms, seat width, height range, padding and bucket size.",
   "heroImage": "https://m.media-amazon.com/images/I/31lM0+aH+UL._SL500_.jpg",
   "updatedAt": "2026-11-03",
+  "topScore": 94
+ },
+ {
+  "slug": "best-bee-venom-serums",
+  "h1": "The 6 Best Bee Venom Serums for a Firming Skincare Routine, Ranked & Reviewed",
+  "category": "health-mobility",
+  "metaDescription": "Ranked and reviewed by Primea: 6 bee venom serums compared on stated concentration, ingredient lists, texture, size, patch-test guidance and allergy warnings.",
+  "heroImage": "https://m.media-amazon.com/images/I/31OEUYzw3cL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
   "topScore": 94
  },
  {
@@ -1548,6 +1584,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/51LJJ4eL26L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 93
+ },
+ {
+  "slug": "best-bluegill-crankbaits",
+  "h1": "The 8 Best Bluegill Crankbaits of 2026 for Bass and Panfish Water, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 bluegill pattern crankbaits scored on running depth, hook size, weight, action and value, from squarebills to lipless baits.",
+  "heroImage": "https://m.media-amazon.com/images/I/41VKAuN9mmL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
  },
  {
   "slug": "best-bluetooth-computer-mice",
@@ -2378,6 +2423,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 92
  },
  {
+  "slug": "best-climbing-stand-seats",
+  "h1": "The 8 Best Climbing Stand Seats for Long Sits in the Tree, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 replacement climbing tree stand seats scored on padding, weight, noise, strap design, weather resistance and fit.",
+  "heroImage": "https://m.media-amazon.com/images/I/51JofL1XfdL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-clip-clothes-hangers",
   "h1": "The 7 Best Clip Clothes Hangers for Skirts, Pants and Shorts, Ranked & Reviewed",
   "category": "home-living",
@@ -2403,6 +2457,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41bsrlr6hiL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
+ },
+ {
+  "slug": "best-clix-keyboards",
+  "h1": "The 8 Best Clix-Style Gaming Keyboards in 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 compact 60% and 65% gaming keyboards in the competitive style, scored on switches, latency, layout and price from under $30.",
+  "heroImage": "https://m.media-amazon.com/images/I/41EqBb555-L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
  },
  {
   "slug": "best-closet-organizer-bins",
@@ -3213,6 +3276,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41k6a81DvmL._SL500_.jpg",
   "updatedAt": "2026-11-04",
   "topScore": 93
+ },
+ {
+  "slug": "best-cyclone-dust-collectors",
+  "h1": "The 8 Best Cyclone Dust Collectors for Workshops in 2026, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 cyclone dust collectors and shop vac separators scored on airflow, filtration, capacity and fit, from $30 to freight-shipped.",
+  "heroImage": "https://m.media-amazon.com/images/I/317qYt1XG9L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
  },
  {
   "slug": "best-dandelion-pullers",
@@ -5033,6 +5105,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-extra-large-french-presses",
+  "h1": "The 8 Best Extra Large French Presses for Groups, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 extra large French presses, 50 to 64 oz, scored on insulation, filter design, sediment control, build and cleanup.",
+  "heroImage": "https://m.media-amazon.com/images/I/41BjlSCFnvL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-ezvalo-motion-sensor-lights",
   "h1": "The 6 Best EZVALO Motion Sensor Lights of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -5075,6 +5156,24 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: eight fast printers for home offices, from a 35 PPM color laser to budget inkjets, with advice on duplex, volume and ink costs.",
   "heroImage": "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
   "updatedAt": "2026-11-01",
+  "topScore": 94
+ },
+ {
+  "slug": "best-fat-soluble-b1-supplements",
+  "h1": "The 8 Best Fat Soluble Vitamin B1 Supplements, Ranked & Reviewed",
+  "category": "health-mobility",
+  "metaDescription": "Ranked and reviewed by Primea: 8 fat soluble vitamin B1 supplements (benfotiamine and TTFD) scored on dose clarity, form, testing and value.",
+  "heroImage": "https://m.media-amazon.com/images/I/41u4mOhFpeL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
+  "slug": "best-fatboy-holsters",
+  "h1": "The 6 Best Fatboy Holsters for Larger-Waist Carry in 2026, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 6 holsters for larger-waist concealed carry, scored on ride height, retention, material, gun fit and comfort, from under $30 up.",
+  "heroImage": "https://m.media-amazon.com/images/I/316-MYkMr1L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
   "topScore": 94
  },
  {
@@ -5762,6 +5861,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 92
  },
  {
+  "slug": "best-grapefruit-knives",
+  "h1": "The 8 Best Grapefruit Knives of 2026, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 grapefruit knives scored on blade curve, serration, handle material, length and cleanup, all under $30.",
+  "heroImage": "https://m.media-amazon.com/images/I/51kQK8QmbtL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-gray-office-credenzas",
   "h1": "The 6 Best Gray Office Credenzas for Home and Studio, Ranked & Reviewed",
   "category": "home-office",
@@ -5778,6 +5886,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/412yIuUVouL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 95
+ },
+ {
+  "slug": "best-gucci-rimless-sunglasses",
+  "h1": "The 6 Best Gucci Rimless Sunglasses of 2026, Ranked & Reviewed",
+  "category": "seasonal",
+  "metaDescription": "Ranked and reviewed by Primea: 6 rimless designer sunglasses, five Gucci and one Versace, scored on fit, frame metal, lens size, kit and warranty.",
+  "heroImage": "https://m.media-amazon.com/images/I/31e6V31EK6L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
  },
  {
   "slug": "best-halloween-animatronics-under-100",
@@ -6311,6 +6428,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-high-leg-recliners",
+  "h1": "The 8 Best High Leg Recliners for Easier Sitting and Standing, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 8 high leg recliners scored on seat height, lift assist, seat width, weight rating and warranty, from lift chairs to pushbacks.",
+  "heroImage": "https://m.media-amazon.com/images/I/51Bxqt-NSpL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
+ },
+ {
   "slug": "best-high-rpm-laptop-cooling-pads",
   "h1": "The 6 Best High-RPM Laptop Cooling Pads of 2026, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -6363,6 +6489,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/31cgnv8I+4L._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 93
+ },
+ {
+  "slug": "best-hose-clamp-pliers",
+  "h1": "The 8 Best Hose Clamp Pliers for Car and Garage Work in 2026, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 hose clamp pliers and sets scored on clamp types covered, locking, long reach, steel and case, from a single tool to 16 pieces.",
+  "heroImage": "https://m.media-amazon.com/images/I/51dq92NsIQL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
  },
  {
   "slug": "best-hose-reel-carts-under-150",
@@ -6804,6 +6939,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41+WNtIETbL._SL500_.jpg",
   "updatedAt": "2026-11-11",
   "topScore": 93
+ },
+ {
+  "slug": "best-kids-tv-stands",
+  "h1": "The 7 Best Kids TV Stands for Bedrooms and Playrooms in 2026, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 7 TV stands for a kid's room or playroom, scored on tip safety, toy storage, TV size limits, outlets and price from $30 to $200.",
+  "heroImage": "https://m.media-amazon.com/images/I/41UBNvJrubL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
  },
  {
   "slug": "best-kindle-alternatives",
@@ -7748,6 +7892,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: 6 lint rollers and refill sets scored on sheet count, adhesive strength, handle design, tear style and cost per sheet.",
   "heroImage": "https://m.media-amazon.com/images/I/51iF5r9mKdL._SL500_.jpg",
   "updatedAt": "2026-11-11",
+  "topScore": 94
+ },
+ {
+  "slug": "best-lithium-jump-starters",
+  "h1": "The 8 Best Lithium Jump Starters for Cars and Trucks, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 lithium jump starters scored on engine size limits, safety clamps, starts per charge, power bank use and cold tolerance.",
+  "heroImage": "https://m.media-amazon.com/images/I/314Twlu+uRL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
   "topScore": 94
  },
  {
@@ -9299,6 +9452,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 93
  },
  {
+  "slug": "best-paint-sprayers-for-cabinets",
+  "h1": "The 7 Best Paint Sprayers for Cabinets and Furniture, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 7 paint sprayers for cabinets compared on nozzle size, HVLP vs airless, flow control, weight and cleanup effort.",
+  "heroImage": "https://m.media-amazon.com/images/I/51xeC3+I+VL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-panasonic-cordless-phones",
   "h1": "The 6 Best Panasonic Cordless Phones of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -9857,6 +10019,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-posing-trunks",
+  "h1": "The 8 Best Posing Trunks of 2026, Ranked & Reviewed",
+  "category": "health-mobility",
+  "metaDescription": "Ranked and reviewed by Primea: 8 men's bodybuilding posing trunks scored on fabric, lining, sizing, stage finish and federation-style cut, under $100.",
+  "heroImage": "https://m.media-amazon.com/images/I/41ta8Z4U1TL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-potting-bench-under-300",
   "h1": "The 7 Best Potting Benches Under $300 for Patios and Gardens, Ranked & Reviewed",
   "category": "outdoor-garden",
@@ -10388,6 +10559,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-ps5-wall-mounts",
+  "h1": "The 8 Best PS5 Wall Mounts of 2026, Ranked & Reviewed",
+  "category": "tech-accessories",
+  "metaDescription": "Ranked and reviewed by Primea: 8 PS5 wall mounts for the original, Slim and Pro, scored on airflow, hardware, charging, fans and install effort.",
+  "heroImage": "https://m.media-amazon.com/images/I/31ga5jDX+mL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
+ },
+ {
   "slug": "best-pull-tab-can-openers",
   "h1": "The 6 Best Pull-Tab Can Openers of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -10395,6 +10575,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41CdYHd8glL._SL500_.jpg",
   "updatedAt": "2026-11-04",
   "topScore": 93
+ },
+ {
+  "slug": "best-pun-socks",
+  "h1": "The 8 Best Pun Socks of 2026, Ranked & Reviewed",
+  "category": "seasonal",
+  "metaDescription": "Ranked and reviewed by Primea: 8 pun socks for gifts and stocking stuffers, scored on joke quality, fabric blend, sizing range and gift-box readiness.",
+  "heroImage": "https://m.media-amazon.com/images/I/51gvCCiuV2L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
  },
  {
   "slug": "best-pure-sine-wave-ups",
@@ -11078,6 +11267,15 @@ export const guideRegistry: GuideListing[] = [
   "metaDescription": "Ranked and reviewed by Primea: 8 iRobot Roomba robot vacuums scored on dock type, mopping and suction, from the 105 Vac to the Plus 505 Combo and 415X.",
   "heroImage": "https://m.media-amazon.com/images/I/41GoxaZPgPL._SL500_.jpg",
   "updatedAt": "2026-11-01",
+  "topScore": 94
+ },
+ {
+  "slug": "best-round-wooden-stools",
+  "h1": "The 5 Best Round Wooden Stools of 2026 for Seating, Counters and Plants, Ranked & Reviewed",
+  "category": "home-living",
+  "metaDescription": "Ranked and reviewed by Primea: 5 round wooden stools scored on solid wood, seat height, weight rating and floor protection, from step stools to bar sets.",
+  "heroImage": "https://m.media-amazon.com/images/I/31aZLbKrtFL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
   "topScore": 94
  },
  {
@@ -11990,6 +12188,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 95
  },
  {
+  "slug": "best-stainless-steel-baby-cups",
+  "h1": "The 8 Best Stainless Steel Baby Cups for Sippy and Straw Stages, Ranked & Reviewed",
+  "category": "kitchen",
+  "metaDescription": "Ranked and reviewed by Primea: 8 stainless steel baby cups scored on lid design, leak resistance, cleaning, insulation and the age each one suits.",
+  "heroImage": "https://m.media-amazon.com/images/I/41jzPrOdIKL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
+ },
+ {
   "slug": "best-stainless-steel-electric-kettles",
   "h1": "The 5 Best Stainless Steel Electric Kettles of 2026, Ranked & Reviewed",
   "category": "kitchen",
@@ -12413,6 +12620,15 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
+  "slug": "best-thermal-scopes",
+  "h1": "The 8 Best Thermal Scopes of 2026, Ranked & Reviewed",
+  "category": "outdoor-garden",
+  "metaDescription": "Ranked and reviewed by Primea: 8 thermal scopes for lawful hunting and pest control, scored on sensor resolution, refresh rate, range and battery life.",
+  "heroImage": "https://m.media-amazon.com/images/I/31wrmeJpGoL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 95
+ },
+ {
   "slug": "best-thunderbolt-nvme-enclosures",
   "h1": "The 7 Best Thunderbolt NVMe Enclosures for Fast External SSDs, Ranked & Reviewed",
   "category": "tech-accessories",
@@ -12420,6 +12636,15 @@ export const guideRegistry: GuideListing[] = [
   "heroImage": "https://m.media-amazon.com/images/I/41JHbCBZxkL._SL500_.jpg",
   "updatedAt": "2026-11-03",
   "topScore": 94
+ },
+ {
+  "slug": "best-titanium-pencils",
+  "h1": "The 6 Best Titanium Pencils and Metal Everlasting Pencils, Ranked & Reviewed",
+  "category": "home-office",
+  "metaDescription": "Ranked and reviewed by Primea: 6 titanium and metal pencils, from mechanical and inkless everlasting types to keychain carry, scored on tip, weight and value.",
+  "heroImage": "https://m.media-amazon.com/images/I/31pX8X6UqNL._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 92
  },
  {
   "slug": "best-toaster-ovens-for-dorm-rooms",
@@ -14399,6 +14624,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-air-fryer-toaster-ovens": () => import("./guides/best-air-fryer-toaster-ovens.json"),
   "best-air-fryers-for-seniors": () => import("./guides/best-air-fryers-for-seniors.json"),
   "best-air-fryers-under-100": () => import("./guides/best-air-fryers-under-100.json"),
+  "best-air-mattresses": () => import("./guides/best-air-mattresses.json"),
   "best-air-purifier-under-300": () => import("./guides/best-air-purifier-under-300.json"),
   "best-air-purifier-under-500": () => import("./guides/best-air-purifier-under-500.json"),
   "best-air-purifiers-for-home-offices": () => import("./guides/best-air-purifiers-for-home-offices.json"),
@@ -14409,6 +14635,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-air-quality-monitors-under-150": () => import("./guides/best-air-quality-monitors-under-150.json"),
   "best-air-quality-monitors-under-60": () => import("./guides/best-air-quality-monitors-under-60.json"),
   "best-airprint-printers": () => import("./guides/best-airprint-printers.json"),
+  "best-airsoft-pistols": () => import("./guides/best-airsoft-pistols.json"),
   "best-all-in-one-printers-for-home-use": () => import("./guides/best-all-in-one-printers-for-home-use.json"),
   "best-all-wheel-drive-lawn-mowers": () => import("./guides/best-all-wheel-drive-lawn-mowers.json"),
   "best-aluminum-portable-wheelchair-ramps": () => import("./guides/best-aluminum-portable-wheelchair-ramps.json"),
@@ -14436,6 +14663,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-bagged-vacuums": () => import("./guides/best-bagged-vacuums.json"),
   "best-bagless-canister-vacuums": () => import("./guides/best-bagless-canister-vacuums.json"),
   "best-bagless-self-emptying-robot-vacuums": () => import("./guides/best-bagless-self-emptying-robot-vacuums.json"),
+  "best-balcony-chair-sets": () => import("./guides/best-balcony-chair-sets.json"),
   "best-bath-transfer-boards": () => import("./guides/best-bath-transfer-boards.json"),
   "best-battery-backpack-leaf-blowers": () => import("./guides/best-battery-backpack-leaf-blowers.json"),
   "best-battery-operated-desk-clocks": () => import("./guides/best-battery-operated-desk-clocks.json"),
@@ -14451,6 +14679,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-bed-frame-wood": () => import("./guides/best-bed-frame-wood.json"),
   "best-bed-wedge-pillows": () => import("./guides/best-bed-wedge-pillows.json"),
   "best-bedside-commodes-under-150": () => import("./guides/best-bedside-commodes-under-150.json"),
+  "best-bee-venom-serums": () => import("./guides/best-bee-venom-serums.json"),
   "best-behringer-studio-monitors": () => import("./guides/best-behringer-studio-monitors.json"),
   "best-big-button-cell-phones-for-seniors": () => import("./guides/best-big-button-cell-phones-for-seniors.json"),
   "best-big-button-phones-under-50": () => import("./guides/best-big-button-phones-under-50.json"),
@@ -14467,6 +14696,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-blender-under-300": () => import("./guides/best-blender-under-300.json"),
   "best-blender-under-500": () => import("./guides/best-blender-under-500.json"),
   "best-blue-light-filtering-monitor-privacy-screens": () => import("./guides/best-blue-light-filtering-monitor-privacy-screens.json"),
+  "best-bluegill-crankbaits": () => import("./guides/best-bluegill-crankbaits.json"),
   "best-bluetooth-computer-mice": () => import("./guides/best-bluetooth-computer-mice.json"),
   "best-bluetooth-ergonomic-keyboards": () => import("./guides/best-bluetooth-ergonomic-keyboards.json"),
   "best-bluetooth-key-finders": () => import("./guides/best-bluetooth-key-finders.json"),
@@ -14559,9 +14789,11 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-chair-standing-aids": () => import("./guides/best-chair-standing-aids.json"),
   "best-chromebook-and-laptop-charging-carts": () => import("./guides/best-chromebook-and-laptop-charging-carts.json"),
   "best-clamp-on-desk-drawers-under-50": () => import("./guides/best-clamp-on-desk-drawers-under-50.json"),
+  "best-climbing-stand-seats": () => import("./guides/best-climbing-stand-seats.json"),
   "best-clip-clothes-hangers": () => import("./guides/best-clip-clothes-hangers.json"),
   "best-clip-on-monitor-privacy-screens": () => import("./guides/best-clip-on-monitor-privacy-screens.json"),
   "best-clip-on-video-lighting": () => import("./guides/best-clip-on-video-lighting.json"),
+  "best-clix-keyboards": () => import("./guides/best-clix-keyboards.json"),
   "best-closet-organizer-bins": () => import("./guides/best-closet-organizer-bins.json"),
   "best-closet-organizer-kits": () => import("./guides/best-closet-organizer-kits.json"),
   "best-closet-organizer-small-closets": () => import("./guides/best-closet-organizer-small-closets.json"),
@@ -14652,6 +14884,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-curved-ultrawide-monitor": () => import("./guides/best-curved-ultrawide-monitor.json"),
   "best-custom-desk-clocks": () => import("./guides/best-custom-desk-clocks.json"),
   "best-custom-mouse-pads": () => import("./guides/best-custom-mouse-pads.json"),
+  "best-cyclone-dust-collectors": () => import("./guides/best-cyclone-dust-collectors.json"),
   "best-dandelion-pullers": () => import("./guides/best-dandelion-pullers.json"),
   "best-dangbei-projectors": () => import("./guides/best-dangbei-projectors.json"),
   "best-das-storage-devices-under-1000": () => import("./guides/best-das-storage-devices-under-1000.json"),
@@ -14854,11 +15087,14 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-executive-office-chair": () => import("./guides/best-executive-office-chair.json"),
   "best-external-cooling-fans-for-mini-pcs": () => import("./guides/best-external-cooling-fans-for-mini-pcs.json"),
   "best-extra-large-fireproof-safes": () => import("./guides/best-extra-large-fireproof-safes.json"),
+  "best-extra-large-french-presses": () => import("./guides/best-extra-large-french-presses.json"),
   "best-ezvalo-motion-sensor-lights": () => import("./guides/best-ezvalo-motion-sensor-lights.json"),
   "best-fabric-task-chairs": () => import("./guides/best-fabric-task-chairs.json"),
   "best-fall-detection-devices-for-seniors": () => import("./guides/best-fall-detection-devices-for-seniors.json"),
   "best-fall-detection-devices": () => import("./guides/best-fall-detection-devices.json"),
   "best-fast-printers-for-home-offices": () => import("./guides/best-fast-printers-for-home-offices.json"),
+  "best-fat-soluble-b1-supplements": () => import("./guides/best-fat-soluble-b1-supplements.json"),
+  "best-fatboy-holsters": () => import("./guides/best-fatboy-holsters.json"),
   "best-faucet-handle-adapters-under-15": () => import("./guides/best-faucet-handle-adapters-under-15.json"),
   "best-file-drawers-under-100": () => import("./guides/best-file-drawers-under-100.json"),
   "best-filing-cabinets-for-home-offices": () => import("./guides/best-filing-cabinets-for-home-offices.json"),
@@ -14935,8 +15171,10 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-google-tvs": () => import("./guides/best-google-tvs.json"),
   "best-gooseneck-electric-kettles-with-auto-shutoff": () => import("./guides/best-gooseneck-electric-kettles-with-auto-shutoff.json"),
   "best-gooseneck-electric-kettles": () => import("./guides/best-gooseneck-electric-kettles.json"),
+  "best-grapefruit-knives": () => import("./guides/best-grapefruit-knives.json"),
   "best-gray-office-credenzas": () => import("./guides/best-gray-office-credenzas.json"),
   "best-greenworks-leaf-blowers": () => import("./guides/best-greenworks-leaf-blowers.json"),
+  "best-gucci-rimless-sunglasses": () => import("./guides/best-gucci-rimless-sunglasses.json"),
   "best-halloween-animatronics-under-100": () => import("./guides/best-halloween-animatronics-under-100.json"),
   "best-halloween-animatronics-under-150": () => import("./guides/best-halloween-animatronics-under-150.json"),
   "best-halloween-animatronics-under-80": () => import("./guides/best-halloween-animatronics-under-80.json"),
@@ -14996,12 +15234,14 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-hepa-upright-vacuums": () => import("./guides/best-hepa-upright-vacuums.json"),
   "best-hidden-small-safes": () => import("./guides/best-hidden-small-safes.json"),
   "best-high-cfm-leaf-blowers": () => import("./guides/best-high-cfm-leaf-blowers.json"),
+  "best-high-leg-recliners": () => import("./guides/best-high-leg-recliners.json"),
   "best-high-rpm-laptop-cooling-pads": () => import("./guides/best-high-rpm-laptop-cooling-pads.json"),
   "best-high-speed-document-scanners": () => import("./guides/best-high-speed-document-scanners.json"),
   "best-home-security-camera-systems": () => import("./guides/best-home-security-camera-systems.json"),
   "best-home-security-cameras": () => import("./guides/best-home-security-cameras.json"),
   "best-homekit-smart-plugs": () => import("./guides/best-homekit-smart-plugs.json"),
   "best-hoover-carpet-cleaners": () => import("./guides/best-hoover-carpet-cleaners.json"),
+  "best-hose-clamp-pliers": () => import("./guides/best-hose-clamp-pliers.json"),
   "best-hose-reel-carts-under-150": () => import("./guides/best-hose-reel-carts-under-150.json"),
   "best-hose-reel-carts-under-200": () => import("./guides/best-hose-reel-carts-under-200.json"),
   "best-hose-reel-carts-under-75": () => import("./guides/best-hose-reel-carts-under-75.json"),
@@ -15051,6 +15291,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-key-finders": () => import("./guides/best-key-finders.json"),
   "best-keyed-laptop-locks": () => import("./guides/best-keyed-laptop-locks.json"),
   "best-kids-rocking-chairs": () => import("./guides/best-kids-rocking-chairs.json"),
+  "best-kids-tv-stands": () => import("./guides/best-kids-tv-stands.json"),
   "best-kindle-alternatives": () => import("./guides/best-kindle-alternatives.json"),
   "best-kink-resistant-garden-hoses": () => import("./guides/best-kink-resistant-garden-hoses.json"),
   "best-kitchen-timers-for-seniors": () => import("./guides/best-kitchen-timers-for-seniors.json"),
@@ -15156,6 +15397,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-lightweight-portable-monitors-for-travel": () => import("./guides/best-lightweight-portable-monitors-for-travel.json"),
   "best-lightweight-steam-mops": () => import("./guides/best-lightweight-steam-mops.json"),
   "best-lint-rollers": () => import("./guides/best-lint-rollers.json"),
+  "best-lithium-jump-starters": () => import("./guides/best-lithium-jump-starters.json"),
   "best-lockable-laptop-charging-carts": () => import("./guides/best-lockable-laptop-charging-carts.json"),
   "best-locking-filing-cabinets": () => import("./guides/best-locking-filing-cabinets.json"),
   "best-long-handled-electric-spin-scrubbers": () => import("./guides/best-long-handled-electric-spin-scrubbers.json"),
@@ -15328,6 +15570,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-over-the-range-microwaves": () => import("./guides/best-over-the-range-microwaves.json"),
   "best-overhead-phone-arms-for-desks-under-40": () => import("./guides/best-overhead-phone-arms-for-desks-under-40.json"),
   "best-oversized-rocking-chairs": () => import("./guides/best-oversized-rocking-chairs.json"),
+  "best-paint-sprayers-for-cabinets": () => import("./guides/best-paint-sprayers-for-cabinets.json"),
   "best-panasonic-cordless-phones": () => import("./guides/best-panasonic-cordless-phones.json"),
   "best-pant-hangers": () => import("./guides/best-pant-hangers.json"),
   "best-paper-shredders-for-credit-cards": () => import("./guides/best-paper-shredders-for-credit-cards.json"),
@@ -15390,6 +15633,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-portable-spot-cleaners": () => import("./guides/best-portable-spot-cleaners.json"),
   "best-portable-wet-dry-vacuums": () => import("./guides/best-portable-wet-dry-vacuums.json"),
   "best-portrait-mode-portable-monitors": () => import("./guides/best-portrait-mode-portable-monitors.json"),
+  "best-posing-trunks": () => import("./guides/best-posing-trunks.json"),
   "best-potting-bench-under-300": () => import("./guides/best-potting-bench-under-300.json"),
   "best-potting-bench-under-500": () => import("./guides/best-potting-bench-under-500.json"),
   "best-power-banks-for-home-office-backup": () => import("./guides/best-power-banks-for-home-office-backup.json"),
@@ -15449,7 +15693,9 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-projectors-under-200": () => import("./guides/best-projectors-under-200.json"),
   "best-projectors-under-500": () => import("./guides/best-projectors-under-500.json"),
   "best-projectors-with-wi-fi": () => import("./guides/best-projectors-with-wi-fi.json"),
+  "best-ps5-wall-mounts": () => import("./guides/best-ps5-wall-mounts.json"),
   "best-pull-tab-can-openers": () => import("./guides/best-pull-tab-can-openers.json"),
+  "best-pun-socks": () => import("./guides/best-pun-socks.json"),
   "best-pure-sine-wave-ups": () => import("./guides/best-pure-sine-wave-ups.json"),
   "best-push-button-start-lawn-mowers": () => import("./guides/best-push-button-start-lawn-mowers.json"),
   "best-quiet-ergonomic-keyboards": () => import("./guides/best-quiet-ergonomic-keyboards.json"),
@@ -15526,6 +15772,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-room-dividers-for-home-offices": () => import("./guides/best-room-dividers-for-home-offices.json"),
   "best-room-dividers-on-wheels": () => import("./guides/best-room-dividers-on-wheels.json"),
   "best-roomba-robot-vacuums": () => import("./guides/best-roomba-robot-vacuums.json"),
+  "best-round-wooden-stools": () => import("./guides/best-round-wooden-stools.json"),
   "best-rugged-tablets": () => import("./guides/best-rugged-tablets.json"),
   "best-rustic-conference-tables": () => import("./guides/best-rustic-conference-tables.json"),
   "best-samsung-monitor-privacy-screens": () => import("./guides/best-samsung-monitor-privacy-screens.json"),
@@ -15627,6 +15874,7 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-ssd-enclosures-under-50": () => import("./guides/best-ssd-enclosures-under-50.json"),
   "best-ssd-nas-for-fast-file-access": () => import("./guides/best-ssd-nas-for-fast-file-access.json"),
   "best-stainless-steel-air-fryers": () => import("./guides/best-stainless-steel-air-fryers.json"),
+  "best-stainless-steel-baby-cups": () => import("./guides/best-stainless-steel-baby-cups.json"),
   "best-stainless-steel-electric-kettles": () => import("./guides/best-stainless-steel-electric-kettles.json"),
   "best-stand-up-weed-pullers": () => import("./guides/best-stand-up-weed-pullers.json"),
   "best-standalone-no-computer-needed-drawing-tablets": () => import("./guides/best-standalone-no-computer-needed-drawing-tablets.json"),
@@ -15674,7 +15922,9 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-task-stools": () => import("./guides/best-task-stools.json"),
   "best-tear-off-notepad-style-desk-pads": () => import("./guides/best-tear-off-notepad-style-desk-pads.json"),
   "best-telescoping-watering-wands": () => import("./guides/best-telescoping-watering-wands.json"),
+  "best-thermal-scopes": () => import("./guides/best-thermal-scopes.json"),
   "best-thunderbolt-nvme-enclosures": () => import("./guides/best-thunderbolt-nvme-enclosures.json"),
+  "best-titanium-pencils": () => import("./guides/best-titanium-pencils.json"),
   "best-toaster-ovens-for-dorm-rooms": () => import("./guides/best-toaster-ovens-for-dorm-rooms.json"),
   "best-toaster-ovens-for-one-person": () => import("./guides/best-toaster-ovens-for-one-person.json"),
   "best-toaster-ovens-for-rvs": () => import("./guides/best-toaster-ovens-for-rvs.json"),
