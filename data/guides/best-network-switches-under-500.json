@@ -531,7 +531,7 @@
     },
     {
       "q": "Is the managed GS308E worth it over the GS108?",
-      "a": "For most people yes. It adds up to 64 VLANs, QoS, IGMP snooping and port mirroring in the same eight-port form, while the GS108 is purely plug and play with no tuning. Skip the upgrade only if you will never touch a setting."
+      "a": "For most people yes. Same eight-port form, but with QoS, IGMP snooping, port mirroring and up to 64 VLANs added. The GS108, by contrast, is purely plug and play with no tuning. Skip the upgrade only if you will never touch a setting."
     },
     {
       "q": "How do I set up VLANs on an easy smart switch?",
