@@ -342,7 +342,7 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
           {related.length > 0 && (
             <section>
               <h2 className="text-xl font-semibold text-ink">More Ranked & Reviewed Guides</h2>
-              <div className="mt-4 grid gap-3 sm:grid-cols-2">
+              <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {related.map((r) => (
                   <Link key={r.slug} href={`/guide/${r.slug}`} prefetch={false} className="rounded-xl border border-line bg-card p-4 text-sm font-semibold text-ink hover:border-gold hover:text-pine">
                     {r.h1}

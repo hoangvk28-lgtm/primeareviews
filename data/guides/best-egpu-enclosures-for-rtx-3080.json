@@ -499,8 +499,11 @@
   ],
   "finalTake": "For a two-slot RTX 3080, the ORARA eGPU enclosure is the best choice, with a 750W supply, a Thunderbolt 3/4/USB4 controller and a self-contained design. The Sonnet 750 is the proven alternative for Macs, the Plugable Thunderbolt 5 is the choice for triple-slot cards, and the Maskedfish open frame handles anything. Check the card's thickness and your laptop's port before you order.",
   "related": [
-    "best-egpu-enclosures-for-rtx-3060",
     "best-egpu-enclosures-for-rtx-5090",
-    "best-nvme-enclosures"
+    "best-egpu-enclosures-for-rtx-3060",
+    "best-thunderbolt-nvme-enclosures",
+    "best-nvme-enclosures",
+    "best-usb4-nvme-enclosures-under-100",
+    "best-ssd-enclosures-under-50"
   ]
 }
