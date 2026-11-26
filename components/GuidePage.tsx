@@ -194,6 +194,57 @@ function AuthorBox() {
   );
 }
 
+// The buyer's guide tables name a product in every "Our pick" cell, but they were plain
+// text: the reader had to scroll back up to the review to reach the buy link. Match each
+// cell against this guide's own lineup and make it an affiliate link.
+const normName = (t: string) => t.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").replace(/\s+/g, " ").trim();
+const NAME_STOP = new Set(["and", "for", "with", "the", "ios", "android", "pack", "set", "inch", "best", "our", "pick"]);
+
+function findProduct(cell: string, products: PrimeaProduct[]): PrimeaProduct | null {
+  const c = normName(cell);
+  if (c.length < 3) return null;
+  let best: { p: PrimeaProduct; score: number } | null = null;
+  for (const p of products) {
+    const n = normName(p.name);
+    if (!n) continue;
+    if (c === n) return p;
+    if (c.includes(n) || n.includes(c)) {
+      const score = Math.min(c.length, n.length) / Math.max(c.length, n.length);
+      if (score > 0.45 && (!best || score > best.score)) best = { p, score };
+    }
+  }
+  if (best) return best.p;
+  // Fall back to distinctive word overlap, so "Apple AirTag (2nd Gen)" still finds
+  // "Apple AirTag (2nd Generation)". Common qualifiers are excluded or every cell
+  // mentioning "iOS and Android" would match the same product.
+  const words = (t: string) => new Set(normName(t).split(" ").filter((w) => w.length > 2 && !NAME_STOP.has(w)));
+  const cw = words(cell);
+  if (cw.size < 2) return null;
+  for (const p of products) {
+    const pw = words(p.name);
+    if (pw.size < 2) continue;
+    const shared = [...cw].filter((w) => pw.has(w)).length;
+    const ratio = shared / Math.min(cw.size, pw.size);
+    if (shared >= 2 && ratio >= 0.6 && (!best || ratio > best.score)) best = { p, score: ratio };
+  }
+  return best?.p ?? null;
+}
+
+function PickCell({ text, products, pickColumn }: { text: string; products: PrimeaProduct[]; pickColumn: boolean }) {
+  const p = pickColumn ? findProduct(text, products) : null;
+  if (!p) return <>{text}</>;
+  return (
+    <a
+      href={p.amazonUrl}
+      target="_blank"
+      rel="noopener noreferrer sponsored"
+      className="font-semibold text-pine underline decoration-gold decoration-2 underline-offset-2 hover:text-gold-dark"
+    >
+      {text}
+    </a>
+  );
+}
+
 export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { slug: string; h1: string }[] }) {
   const cat = getCategory(guide.category);
   const url = `${SITE_URL}/guide/${guide.slug}`;
@@ -357,7 +408,17 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
                         </thead>
                         <tbody className="divide-y divide-line bg-card">
                           {s.table.rows.map((r, i) => (
-                            <tr key={i}>{r.map((c, j) => <td key={j} className={"px-4 py-2.5 " + (j === 0 ? "font-medium text-ink" : "text-ink-soft")}>{c}</td>)}</tr>
+                            <tr key={i}>
+                              {r.map((c, j) => (
+                                <td key={j} className={"px-4 py-2.5 " + (j === 0 ? "font-medium text-ink" : "text-ink-soft")}>
+                                  <PickCell
+                                    text={c}
+                                    products={guide.products}
+                                    pickColumn={j > 0 && /pick|recommend|choice|buy|get/i.test(s.table!.headers[j] ?? "")}
+                                  />
+                                </td>
+                              ))}
+                            </tr>
                           ))}
                         </tbody>
                       </table>
