@@ -28,6 +28,9 @@ const nextConfig: NextConfig = {
         destination: "https://www.primeareviews.com/:path*",
         permanent: true,
       },
+      // Page 1 lives at the bare URL; /page/1 would be a duplicate of it.
+      { source: "/guides/page/1", destination: "/guides", permanent: true },
+      { source: "/guides/:category/page/1", destination: "/guides/:category", permanent: true },
       // Merged duplicate guides: one URL per keyword.
       { source: "/guide/best-chair-mat-for-carpet", destination: "/guide/best-chair-mats-for-carpet", permanent: true },
       { source: "/guide/best-dehumidifier-under-200", destination: "/guide/best-dehumidifiers-under-200", permanent: true },

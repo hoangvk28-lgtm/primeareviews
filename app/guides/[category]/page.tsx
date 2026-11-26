@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/Container";
-import { GuideCard } from "@/components/GuideCard";
+import { GuideGrid, PER_PAGE, pageCount, pageSlice } from "@/components/GuideGrid";
 import { getByCategory } from "@/lib/guides";
 import { categories, getCategory } from "@/data/categories";
 import { buildMetadata } from "@/lib/seo";
@@ -30,14 +30,16 @@ export default async function CategoryPage({ params }: Props) {
   const c = getCategory(category);
   if (!c) notFound();
   const list = getByCategory(c.slug);
+  const pages = pageCount(list.length);
   return (
     <Container className="py-12">
       <p className="eyebrow">Category</p>
       <h1 className="mt-1 text-4xl font-semibold text-ink">{c.name}</h1>
       <p className="mt-2 max-w-2xl text-ink-soft">{c.blurb}</p>
-      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((g) => <GuideCard key={g.slug} g={g} />)}
-      </div>
+      <p className="mt-2 text-sm text-ink-mute">
+        {list.length} guides. Showing 1 to {Math.min(PER_PAGE, list.length)}.
+      </p>
+      <GuideGrid items={pageSlice(list, 1)} base={`/guides/${c.slug}`} page={1} pages={pages} />
     </Container>
   );
 }
