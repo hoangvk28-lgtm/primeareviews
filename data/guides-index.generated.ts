@@ -2324,15 +2324,6 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
-  "slug": "best-chair-mat-for-carpet",
-  "h1": "The 8 Best Chair Mats for Carpet of 2026, Ranked & Reviewed",
-  "category": "home-office",
-  "metaDescription": "Ranked and reviewed by Primea: the 8 best chair mats for carpet, from low pile lipped mats to heavy duty options, with pile height and warranty compared.",
-  "heroImage": "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-  "updatedAt": "2026-11-01",
-  "topScore": 94
- },
- {
   "slug": "best-chair-mat-for-hardwood-floors",
   "h1": "The 6 Best Chair Mats for Hardwood Floors of 2026, Ranked & Reviewed",
   "category": "home-office",
@@ -3328,15 +3319,6 @@ export const guideRegistry: GuideListing[] = [
   "category": "home-living",
   "metaDescription": "Ranked and reviewed by Primea: six DECT 6.0 cordless home phones from Panasonic, AT&T and VTech, covering call blocking, handset counts and wall mounting.",
   "heroImage": "https://m.media-amazon.com/images/I/41uJAXnDRyL._SL500_.jpg",
-  "updatedAt": "2026-11-01",
-  "topScore": 93
- },
- {
-  "slug": "best-dehumidifier-under-200",
-  "h1": "The 6 Best Dehumidifiers Under $200 of 2026, Ranked & Reviewed",
-  "category": "seasonal",
-  "metaDescription": "Ranked and reviewed by Primea: six dehumidifiers under $200 compared on named coverage area, tank size, drain options and noise features.",
-  "heroImage": "https://m.media-amazon.com/images/I/31sqIqluXOL._SL500_.jpg",
   "updatedAt": "2026-11-01",
   "topScore": 93
  },
@@ -11180,15 +11162,6 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 94
  },
  {
-  "slug": "best-room-divider-on-wheels",
-  "h1": "The 8 Best Room Dividers on Wheels of 2026, Ranked & Reviewed",
-  "category": "home-living",
-  "metaDescription": "Ranked and reviewed by Primea: the 8 best room dividers on wheels for 2026, from single panels to 6-panel and soundproof models, with specs and who each suits.",
-  "heroImage": "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-  "updatedAt": "2026-11-01",
-  "topScore": 94
- },
- {
   "slug": "best-room-divider-panels",
   "h1": "The 7 Best Room Divider Panels of 2026, Ranked & Reviewed",
   "category": "home-living",
@@ -11253,11 +11226,11 @@ export const guideRegistry: GuideListing[] = [
  },
  {
   "slug": "best-room-dividers-on-wheels",
-  "h1": "The 4 Best Room Dividers on Wheels of 2026, Ranked & Reviewed",
+  "h1": "The 8 Best Room Dividers on Wheels of 2026, Ranked & Reviewed",
   "category": "home-living",
-  "metaDescription": "Ranked and reviewed by Primea: the 4 best room dividers on wheels with confirmed casters, compared on height, width, panel count and price bucket.",
+  "metaDescription": "Ranked and reviewed by Primea: the 8 best room dividers on wheels for 2026, from single panels to 6-panel and soundproof models, with specs and who each suits.",
   "heroImage": "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-26",
   "topScore": 94
  },
  {
@@ -12251,15 +12224,6 @@ export const guideRegistry: GuideListing[] = [
   "topScore": 93
  },
  {
-  "slug": "best-standing-desk-under-1000",
-  "h1": "The 8 Best Standing Desks Under $1000 in 2026, Ranked & Reviewed",
-  "category": "home-office",
-  "metaDescription": "Ranked and reviewed by Primea: 8 standing desks under $1000, from electric sit-stand desks to rolling walking-pad tables, scored on noise, load and fit.",
-  "heroImage": "https://m.media-amazon.com/images/I/41bKwkKmP9L._SL500_.jpg",
-  "updatedAt": "2026-11-03",
-  "topScore": 94
- },
- {
   "slug": "best-standing-desks-for-heavy-setups",
   "h1": "The 6 Best Standing Desks for Heavy Setups of 2026, Ranked & Reviewed",
   "category": "home-office",
@@ -12279,12 +12243,12 @@ export const guideRegistry: GuideListing[] = [
  },
  {
   "slug": "best-standing-desks-under-1000",
-  "h1": "The 6 Best Standing Desks Under $1,000 of 2026, Ranked & Reviewed",
+  "h1": "The 10 Best Standing Desks Under $1,000 of 2026, Ranked & Reviewed",
   "category": "home-office",
-  "metaDescription": "Ranked and reviewed by Primea: six standing desks and converters, all well under $1,000, compared on size, motor type and memory presets for 2026.",
-  "heroImage": "https://m.media-amazon.com/images/I/51Nha7Yua3L._SL500_.jpg",
-  "updatedAt": "2026-11-01",
-  "topScore": 93
+  "metaDescription": "Ranked and reviewed by Primea: 10 standing desks under $1,000, from wide electric desks to rolling walking-pad tables, scored on noise, load and fit.",
+  "heroImage": "https://m.media-amazon.com/images/I/41bKwkKmP9L._SL500_.jpg",
+  "updatedAt": "2026-11-26",
+  "topScore": 94
  },
  {
   "slug": "best-standing-desks-with-keyboard-trays",
@@ -14778,7 +14742,6 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-cell-phones-with-emergency-buttons-for-seniors": () => import("./guides/best-cell-phones-with-emergency-buttons-for-seniors.json"),
   "best-ceramic-air-fryers": () => import("./guides/best-ceramic-air-fryers.json"),
   "best-ceramic-spill-proof-mugs": () => import("./guides/best-ceramic-spill-proof-mugs.json"),
-  "best-chair-mat-for-carpet": () => import("./guides/best-chair-mat-for-carpet.json"),
   "best-chair-mat-for-hardwood-floors": () => import("./guides/best-chair-mat-for-hardwood-floors.json"),
   "best-chair-mat-hard-floor": () => import("./guides/best-chair-mat-hard-floor.json"),
   "best-chair-mat-high-pile-carpet": () => import("./guides/best-chair-mat-high-pile-carpet.json"),
@@ -14890,7 +14853,6 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-das-storage-devices-under-1000": () => import("./guides/best-das-storage-devices-under-1000.json"),
   "best-deco-wi-fi-extenders": () => import("./guides/best-deco-wi-fi-extenders.json"),
   "best-dect-6-0-cordless-phones": () => import("./guides/best-dect-6-0-cordless-phones.json"),
-  "best-dehumidifier-under-200": () => import("./guides/best-dehumidifier-under-200.json"),
   "best-dehumidifier-under-300": () => import("./guides/best-dehumidifier-under-300.json"),
   "best-dehumidifier-under-500": () => import("./guides/best-dehumidifier-under-500.json"),
   "best-dehumidifiers-for-large-rooms": () => import("./guides/best-dehumidifiers-for-large-rooms.json"),
@@ -15762,7 +15724,6 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-rolling-storage-carts": () => import("./guides/best-rolling-storage-carts.json"),
   "best-room-divider-bookcase": () => import("./guides/best-room-divider-bookcase.json"),
   "best-room-divider-freestanding": () => import("./guides/best-room-divider-freestanding.json"),
-  "best-room-divider-on-wheels": () => import("./guides/best-room-divider-on-wheels.json"),
   "best-room-divider-panels": () => import("./guides/best-room-divider-panels.json"),
   "best-room-divider-screens": () => import("./guides/best-room-divider-screens.json"),
   "best-room-divider-studio-apartment": () => import("./guides/best-room-divider-studio-apartment.json"),
@@ -15881,7 +15842,6 @@ export const guideLoaders: Record<string, () => Promise<unknown>> = {
   "best-standing-desk-converters": () => import("./guides/best-standing-desk-converters.json"),
   "best-standing-desk-for-tall-person": () => import("./guides/best-standing-desk-for-tall-person.json"),
   "best-standing-desk-treadmill": () => import("./guides/best-standing-desk-treadmill.json"),
-  "best-standing-desk-under-1000": () => import("./guides/best-standing-desk-under-1000.json"),
   "best-standing-desks-for-heavy-setups": () => import("./guides/best-standing-desks-for-heavy-setups.json"),
   "best-standing-desks-for-two-people": () => import("./guides/best-standing-desks-for-two-people.json"),
   "best-standing-desks-under-1000": () => import("./guides/best-standing-desks-under-1000.json"),

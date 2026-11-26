@@ -28,6 +28,11 @@ const nextConfig: NextConfig = {
         destination: "https://www.primeareviews.com/:path*",
         permanent: true,
       },
+      // Merged duplicate guides: one URL per keyword.
+      { source: "/guide/best-chair-mat-for-carpet", destination: "/guide/best-chair-mats-for-carpet", permanent: true },
+      { source: "/guide/best-dehumidifier-under-200", destination: "/guide/best-dehumidifiers-under-200", permanent: true },
+      { source: "/guide/best-room-divider-on-wheels", destination: "/guide/best-room-dividers-on-wheels", permanent: true },
+      { source: "/guide/best-standing-desk-under-1000", destination: "/guide/best-standing-desks-under-1000", permanent: true },
       // Legacy pre-relaunch URLs that still hold backlinks.
       { source: "/best-cyclone-dust-collector", destination: "/guide/best-cyclone-dust-collectors", permanent: true },
       { source: "/fatboy-holsters", destination: "/guide/best-fatboy-holsters", permanent: true },

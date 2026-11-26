@@ -19,7 +19,11 @@ export function buildMetadata({
   // Appends " | Primea" once; { absolute } stops the layout template from wrapping it again.
   const fullTitle = title.includes(TITLE_SUFFIX) ? title : `${title} | ${TITLE_SUFFIX}`;
   const canonical = `${SITE_URL}${path === "/" ? "" : path}`;
+  // Only the house OG card is really 1200x630. A guide's hero is an Amazon product
+  // shot of unknown, usually square, dimensions, so claiming 1200x630 for it makes
+  // every social preview crop wrong. Declare the size only when we know it.
   const ogImage = image ? (image.startsWith("http") ? image : `${SITE_URL}${image}`) : `${SITE_URL}/og-default.png`;
+  const ogImageEntry = image ? { url: ogImage, alt: fullTitle } : { url: ogImage, width: 1200, height: 630, alt: fullTitle };
   return {
     title: { absolute: fullTitle },
     description,
@@ -30,7 +34,7 @@ export function buildMetadata({
       description,
       url: canonical || SITE_URL,
       siteName: SITE_NAME,
-      images: [{ url: ogImage, width: 1200, height: 630, alt: fullTitle }],
+      images: [ogImageEntry],
       type,
       locale: "en_US",
     },

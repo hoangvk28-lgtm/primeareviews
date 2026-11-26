@@ -3,6 +3,14 @@ import Link from "next/link";
 import type { GuideListing } from "@/lib/guides";
 import { getCategory } from "@/data/categories";
 
+// Amazon serves the same shot at any size through the _SL<px>_ segment. Cards render at
+// roughly 360px, so asking for the 500px master costs about twice the bytes for nothing.
+// Image optimization is off site-wide (it bills per source image on Vercel), which makes
+// this the cheap way to cut weight on the index and category pages.
+function thumb(url: string) {
+  return url.replace(/\._SL\d+_\./, "._SL320_.");
+}
+
 export function GuideCard({ g }: { g: GuideListing }) {
   return (
     <Link
@@ -11,7 +19,7 @@ export function GuideCard({ g }: { g: GuideListing }) {
       className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-card shadow-card transition hover:-translate-y-0.5 hover:border-gold"
     >
       <div className="relative aspect-[4/3] bg-white">
-        <Image src={g.heroImage} alt={g.h1} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-5" unoptimized />
+        <Image src={thumb(g.heroImage)} alt={g.h1} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-5" unoptimized />
         <span className="absolute right-3 top-3 rounded-full bg-pine px-2.5 py-1 text-xs font-bold text-white">
           Top score {g.topScore}
         </span>

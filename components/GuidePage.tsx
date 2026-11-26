@@ -114,6 +114,42 @@ function ProductReview({ p }: { p: PrimeaProduct }) {
   );
 }
 
+// A long guide with no anchors is hard to scan and gives search engines nothing to
+// deep link to. Section ids above feed this list.
+function Contents({ picks }: { picks: { id: string; name: string }[] }) {
+  const sections = [
+    { href: "#scoreboard", label: "The ranking at a glance" },
+    { href: "#what-matters", label: "What actually matters" },
+    { href: "#reviews", label: "Our ranked picks, reviewed" },
+    { href: "#methodology", label: "How we ranked these" },
+    { href: "#how-to-choose", label: "How to pick the right one" },
+    { href: "#faq", label: "Frequently asked questions" },
+    { href: "#verdict", label: "Final take" },
+  ];
+  return (
+    <nav aria-label="On this page" className="mt-8 rounded-2xl border border-line bg-card p-6">
+      <p className="eyebrow">On this page</p>
+      <ol className="mt-3 grid gap-2 text-sm sm:grid-cols-2">
+        {sections.map((x) => (
+          <li key={x.href}>
+            <a href={x.href} className="text-pine hover:underline">{x.label}</a>
+          </li>
+        ))}
+      </ol>
+      <p className="mt-5 eyebrow">Jump to a pick</p>
+      <ol className="mt-3 grid gap-2 text-sm sm:grid-cols-2">
+        {picks.map((p, i) => (
+          <li key={p.id}>
+            <a href={`#${p.id}`} className="text-ink-soft hover:text-pine hover:underline">
+              {i + 1}. {p.name}
+            </a>
+          </li>
+        ))}
+      </ol>
+    </nav>
+  );
+}
+
 export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { slug: string; h1: string }[] }) {
   const cat = getCategory(guide.category);
   const url = `${SITE_URL}/guide/${guide.slug}`;
@@ -195,13 +231,15 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             <p className="mt-2 text-[15px] leading-relaxed text-white/90">{guide.summary}</p>
           </section>
 
+          <Contents picks={guide.products.map((p) => ({ id: p.id, name: p.name }))} />
+
           <Scoreboard products={guide.products} />
 
           <section className="space-y-4 text-[16px] leading-relaxed text-ink-soft">
             {guide.intro.map((p, i) => <p key={i}>{p}</p>)}
           </section>
 
-          <section className="my-12">
+          <section id="what-matters" className="my-12">
             <p className="eyebrow">Before you buy</p>
             <h2 className="mt-1 text-2xl font-semibold text-ink sm:text-3xl">What Actually Matters</h2>
             <div className="rule-gold mt-3 w-24" />
@@ -216,7 +254,7 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             </div>
           </section>
 
-          <div className="mb-6">
+          <div id="reviews" className="mb-6">
             <p className="eyebrow">In-depth reviews</p>
             <h2 className="mt-1 text-2xl font-semibold text-ink sm:text-3xl">Our Ranked Picks, Reviewed</h2>
             <div className="rule-gold mt-3 w-24" />
@@ -241,7 +279,7 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             </p>
           </section>
 
-          <section className="my-12">
+          <section id="how-to-choose" className="my-12">
             <p className="eyebrow">Buyer&apos;s guide</p>
             <h2 className="mt-1 text-2xl font-semibold text-ink sm:text-3xl">How to Pick the Right One for You</h2>
             <div className="rule-gold mt-3 w-24" />
@@ -296,7 +334,7 @@ export function GuidePage({ guide, related }: { guide: PrimeaGuide; related: { s
             </div>
           </section>
 
-          <section className="my-12 rounded-2xl border-2 border-gold bg-card p-6">
+          <section id="verdict" className="my-12 rounded-2xl border-2 border-gold bg-card p-6">
             <p className="eyebrow">Final take</p>
             <p className="mt-2 text-[15px] leading-relaxed text-ink">{guide.finalTake}</p>
           </section>

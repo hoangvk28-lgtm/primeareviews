@@ -12,6 +12,11 @@ export default function Home() {
   const all = getAllListings();
   const latest = [...all].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt)).slice(0, 9);
   const featured = [...all].sort((a, b) => b.topScore - a.topScore)[0];
+  // One deep link per category: the homepage should pass authority to real guides,
+  // not only to the hubs and the nine newest cards.
+  const topByCategory = categories
+    .map((c) => ({ category: c, guide: [...getByCategory(c.slug)].sort((x, y) => y.topScore - x.topScore)[0] }))
+    .filter((x) => x.guide);
 
   return (
     <>
@@ -99,6 +104,58 @@ export default function Home() {
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {latest.map((g) => <GuideCard key={g.slug} g={g} />)}
+        </div>
+      </Container>
+
+      <Container className="py-14">
+        <div className="grid gap-10 lg:grid-cols-[1fr_1.1fr]">
+          <div>
+            <p className="eyebrow">Why Primea</p>
+            <h2 className="mt-1 text-3xl font-semibold text-ink">A ranking you can argue with</h2>
+            <div className="rule-gold mt-3 w-24" />
+            <div className="mt-6 space-y-4 text-[16px] leading-relaxed text-ink-soft">
+              <p>
+                Most buying guides hand you ten products and no opinion. Ours do the opposite. Every pick carries a
+                Primea Score out of 100, built from five fixed criteria that never move between categories: performance,
+                build and materials, everyday usability, value, and owner satisfaction. The weights are published, so
+                you can disagree with a ranking on the merits instead of guessing how it was made.
+              </p>
+              <p>
+                Our editors research each product the way a careful buyer would, through spec sheets, manuals,
+                warranties, certifications and what owners report after months of use. Where a listing contradicts
+                itself or leaves out a number that matters, we say so in the review rather than repeat it. We do not
+                claim to have physically tested a product unless we have, and no brand pays for placement.
+              </p>
+              <p>
+                Each guide ends where a real decision starts: who should buy a pick, who should skip it, what to spend,
+                and which compromise you are actually making. Start with the{" "}
+                <Link href="/how-we-rank" prefetch={false} className="font-semibold text-pine hover:underline">
+                  scoring rules
+                </Link>{" "}
+                if you want to know how the numbers are built, or go straight to a category below.
+              </p>
+            </div>
+          </div>
+          <div>
+            <p className="eyebrow">Start here</p>
+            <h2 className="mt-1 text-3xl font-semibold text-ink">The highest-scoring guide in each category</h2>
+            <div className="rule-gold mt-3 w-24" />
+            <ul className="mt-6 divide-y divide-line border-y border-line">
+              {topByCategory.map(({ category, guide }) => (
+                <li key={category.slug} className="py-4">
+                  <p className="eyebrow">{category.name}</p>
+                  <Link
+                    href={`/guide/${guide.slug}`}
+                    prefetch={false}
+                    className="mt-1 block font-display text-lg font-semibold leading-snug text-pine hover:underline"
+                  >
+                    {guide.h1}
+                  </Link>
+                  <p className="mt-1 text-sm text-ink-mute">Top pick scores {guide.topScore} out of 100</p>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
       </Container>
 
