@@ -3,7 +3,6 @@ import { GuideGrid, PER_PAGE, pageCount, pageSlice } from "@/components/GuideGri
 import { getAllListings } from "@/lib/guides";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
 
 export const metadata = buildMetadata({
   title: "All Ranked & Reviewed Buying Guides",

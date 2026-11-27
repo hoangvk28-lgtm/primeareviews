@@ -8,7 +8,6 @@ import { getAllListings } from "@/lib/guides";
 import { categories } from "@/data/categories";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
 
 export const metadata = buildMetadata({
   title: `${AUTHOR.name}, ${AUTHOR.role}`,

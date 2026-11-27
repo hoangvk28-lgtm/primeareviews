@@ -6,7 +6,6 @@ import { getAllListings, getByCategory } from "@/lib/guides";
 import { categories } from "@/data/categories";
 import { SCORE_WEIGHTS } from "@/lib/score";
 
-export const revalidate = 86400;
 
 export default function Home() {
   const all = getAllListings();

@@ -6,7 +6,6 @@ import { getByCategory } from "@/lib/guides";
 import { categories, getCategory } from "@/data/categories";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
 
 type Props = { params: Promise<{ category: string }> };
 

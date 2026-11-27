@@ -30,7 +30,7 @@
 app/
   layout.tsx               Inter + Fraunces fonts, Header/Footer
   page.tsx                 Homepage
-  guide/[slug]/page.tsx    Every guide; generateStaticParams returns [] → rendered on first request, ISR 7 days
+  guide/[slug]/page.tsx    Every guide; prerendered at build (static export, dynamicParams=false)
   guides/page.tsx          All-guides index
   guides/[category]/       Category hubs
   how-we-rank, about, affiliate-disclosure, privacy-policy, contact
@@ -56,6 +56,8 @@ scripts/
   check-guides.mjs         Content-rule validator (npm run check)
   check-duplicates.mjs     Uniqueness gate vs sources and across Primea guides
 ```
+
+**Hosting:** Cloudflare Pages static export (`output: "export"`, build `npm run build`, output `out`). No ISR, route handlers, next.config headers/redirects or middleware; see `docs/cloudflare-pages.md`. Keep the export under 20,000 files.
 
 **Why no literal per-guide routes:** DeskFinds hit Vercel's 45-minute build limit at ~1,750 literal routes. Primea renders every guide through the single dynamic route from day one, so build time stays flat at any guide count. Do not add `app/guide/<slug>/page.tsx` files.
 

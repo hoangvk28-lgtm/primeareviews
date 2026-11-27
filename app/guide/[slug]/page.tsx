@@ -1,14 +1,13 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { GuidePage } from "@/components/GuidePage";
-import { getGuide, getListing } from "@/lib/guides";
+import { getAllListings, getGuide, getListing } from "@/lib/guides";
 import { buildMetadata } from "@/lib/seo";
 
-// Rendered on first request, then ISR-cached. Nothing is pre-built, so build time stays flat as guides grow.
-export const revalidate = 604800;
-export const dynamicParams = true;
-export async function generateStaticParams() {
-  return [];
+// Cloudflare Pages static export: every guide is prerendered at build time; unknown slugs get 404.html.
+export const dynamicParams = false;
+export function generateStaticParams() {
+  return getAllListings().map((g) => ({ slug: g.slug }));
 }
 
 type Props = { params: Promise<{ slug: string }> };

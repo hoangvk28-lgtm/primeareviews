@@ -4,7 +4,7 @@ import { getAllListings, getByCategory } from "@/lib/guides";
 import { pageCount } from "@/components/GuideGrid";
 import { categories } from "@/data/categories";
 
-export const revalidate = 86400;
+export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = ["", "/guides", "/how-we-rank", "/about", "/author/joshua-parkes", "/affiliate-disclosure", "/privacy-policy", "/contact"];
